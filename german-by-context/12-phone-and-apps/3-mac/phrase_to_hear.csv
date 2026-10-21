@@ -1,0 +1,10 @@
+category,german,english
+prompt,Das Programm reagiert nicht.,The application is not responding.
+prompt,Möchtest du die Änderungen sichern?,Do you want to save the changes?
+prompt,Nicht sichern,Don't Save
+prompt,Möchtest du das Objekt wirklich endgültig löschen?,Are you sure you want to permanently delete this item?
+prompt,Dein Startvolume ist fast voll.,Your startup disk is almost full.
+prompt,"macOS kann nicht überprüfen, ob diese App frei von Schadsoftware ist.",macOS can't verify that this app is free of malware.
+prompt,Ein Update ist verfügbar.,An update is available.
+prompt,Jetzt neu starten,Restart Now
+prompt,In einer Stunde erneut erinnern,Remind me in an hour

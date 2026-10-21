@@ -1,0 +1,19 @@
+category,german,english
+file,Neuer Ordner,New Folder
+file,Umbenennen,Rename
+file,Duplizieren,Duplicate
+file,Komprimieren,Compress
+file,Informationen,Get Info
+file,Öffnen mit,Open With
+file,In den Papierkorb legen,Move to Trash
+file,Papierkorb entleeren,Empty Trash
+file,Auswerfen,Eject
+app,Sofort beenden,Force Quit
+app,Beenden,Quit
+app,Ausblenden,Hide
+app,Minimieren,Minimise
+system,Ruhezustand,Sleep
+system,Neustart,Restart
+system,Ausschalten,Shut Down
+system,Bildschirm sperren,Lock Screen
+system,Abmelden,Log Out

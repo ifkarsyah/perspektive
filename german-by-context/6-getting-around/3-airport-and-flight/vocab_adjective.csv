@@ -1,0 +1,10 @@
+category,german,english
+flight,pünktlich,on time
+flight,verspätet,delayed
+flight,annulliert,cancelled
+flight,ausgebucht,fully booked
+luggage,zu schwer,too heavy
+luggage,beschädigt,damaged
+luggage,verloren,lost
+security,erlaubt,allowed
+security,verboten,forbidden

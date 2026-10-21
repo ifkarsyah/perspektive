@@ -1,0 +1,30 @@
+category,german,english
+shop,der Onlineshop,online shop
+shop,das Kundenkonto,customer account
+shop,der Warenkorb,shopping cart
+shop,die Kasse,checkout
+shop,der Artikel,item
+shop,die Bewertung,review
+shop,der Gutschein,voucher
+shop,der Rabattcode,discount code
+shop,die Kleinanzeigen,classified ads (second-hand)
+order,die Bestellung,order
+order,die Bestellnummer,order number
+order,die Bestellbestätigung,order confirmation
+order,die Lieferadresse,delivery address
+order,die Rechnungsadresse,billing address
+order,die Lieferzeit,delivery time
+order,die Versandkosten,shipping costs
+order,der Versand,shipping
+order,die Sendungsverfolgung,tracking
+payment,die Zahlungsart,payment method
+payment,der Kauf auf Rechnung,pay by invoice
+payment,die Lastschrift,direct debit
+payment,die Kreditkarte,credit card
+return,die Rücksendung,return
+return,die Retoure,return
+return,das Widerrufsrecht,right of withdrawal
+return,die Rückerstattung,refund
+return,die Reklamation,complaint
+return,der Umtausch,exchange
+return,der Mangel,defect

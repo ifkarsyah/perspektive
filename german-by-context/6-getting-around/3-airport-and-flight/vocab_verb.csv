@@ -1,0 +1,14 @@
+category,german,english
+flight,einchecken (sep.),to check in
+flight,aufgeben (sep.),to check (a bag)
+flight,einsteigen (sep.),to board
+flight,landen,to land
+flight,starten,to take off
+flight,umsteigen (sep.),to transfer
+flight,verpassen,to miss
+flight,umbuchen (sep.),to rebook
+security,auspacken (sep.),to take out
+security,durchsuchen,to search
+security,verzollen,to declare (customs)
+luggage,abholen (sep.),to collect
+luggage,verlieren,to lose

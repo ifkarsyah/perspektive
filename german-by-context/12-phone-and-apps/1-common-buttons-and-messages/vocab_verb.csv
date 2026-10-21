@@ -1,0 +1,43 @@
+category,german,english
+button,Abbrechen,Cancel
+button,Fertig,Done
+button,Weiter,Next / Continue
+button,Zurück,Back
+button,Bearbeiten,Edit
+button,Löschen,Delete
+button,Entfernen,Remove
+button,Hinzufügen,Add
+button,Speichern,Save
+button,Sichern,"Save (Apple, older wording)"
+button,Teilen,Share
+button,Senden,Send
+button,Antworten,Reply
+button,Weiterleiten,Forward
+button,Kopieren,Copy
+button,Ausschneiden,Cut
+button,Einsetzen,Paste (Apple)
+button,Einfügen,Paste / Insert
+button,Rückgängig,Undo
+button,Wiederholen,Redo / Repeat
+button,Auswählen,Select
+button,Alles auswählen,Select all
+button,Suchen,Search
+button,Öffnen,Open
+button,Schließen,Close
+button,Herunterladen,Download
+button,Hochladen,Upload
+button,Aktualisieren,Refresh / Update
+button,Erneut versuchen,Try again
+button,Überspringen,Skip
+button,Bestätigen,Confirm
+button,Akzeptieren,Accept
+button,Ablehnen,Decline
+button,Zulassen,Allow
+button,Erlauben,Allow
+button,Nicht erlauben,Don't allow
+button,Später,Later
+account,Anmelden,Sign in
+account,Abmelden,Sign out
+account,Registrieren,Sign up
+account,Konto erstellen,Create account
+account,Passwort zurücksetzen,Reset password

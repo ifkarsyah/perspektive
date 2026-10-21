@@ -1,0 +1,7 @@
+category,german,english
+status,stummgeschaltet,muted
+status,gesperrt,locked
+status,voll,full (storage)
+status,schwach,low (battery)
+status,geladen,charged
+status,kabellos,wireless

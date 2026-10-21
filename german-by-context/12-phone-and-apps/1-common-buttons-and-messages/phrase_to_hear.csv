@@ -1,0 +1,16 @@
+category,german,english
+prompt,Passwort vergessen?,Forgot password?
+prompt,Angemeldet bleiben,Stay signed in
+prompt,Falsches Passwort. Bitte versuche es erneut.,Wrong password. Please try again.
+prompt,Wir haben dir einen Code gesendet.,We've sent you a code.
+prompt,Gib den 6-stelligen Code ein.,Enter the 6-digit code.
+prompt,Ich bin kein Roboter,I'm not a robot
+prompt,Alle akzeptieren,Accept all
+prompt,Nur notwendige Cookies,Only necessary cookies
+prompt,Möchtest du die Änderungen speichern?,Do you want to save the changes?
+prompt,Diese Aktion kann nicht widerrufen werden.,This action can't be undone.
+prompt,Bist du sicher?,Are you sure?
+error,Ein Fehler ist aufgetreten.,An error occurred.
+error,Keine Internetverbindung.,No internet connection.
+error,Seite nicht gefunden.,Page not found.
+error,Bitte aktualisiere die App.,Please update the app.

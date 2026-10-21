@@ -1,0 +1,23 @@
+category,german,english
+sick,die Krankmeldung,sick notification
+sick,die Arbeitsunfähigkeitsbescheinigung,sick note (AU)
+sick,die eAU,electronic sick note
+sick,der Krankheitstag,sick day
+sick,die Lohnfortzahlung,continued pay during illness
+sick,das Krankengeld,sickness benefit
+sick,der Arzt,doctor
+vacation,der Urlaub,vacation
+vacation,der Urlaubsantrag,vacation request
+vacation,der Urlaubstag,vacation day
+vacation,der Resturlaub,remaining vacation days
+vacation,der Sonderurlaub,special leave
+vacation,der Brückentag,bridge day
+vacation,der Feiertag,public holiday
+vacation,die Überstunden,overtime
+vacation,der Freizeitausgleich,time off in lieu
+vacation,die Elternzeit,parental leave
+work,die Vertretung,stand-in / cover
+work,die Übergabe,handover
+work,die Abwesenheitsnotiz,out-of-office message
+work,der Kalender,calendar
+work,die Personalabteilung,HR

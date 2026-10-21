@@ -1,0 +1,31 @@
+category,german,english
+airport,der Flughafen,airport
+airport,das Terminal,terminal
+airport,der Check-in-Schalter,check-in desk
+airport,die Gepäckaufgabe,baggage drop
+airport,die Sicherheitskontrolle,security check
+airport,die Passkontrolle,passport control
+airport,das Gate,gate
+airport,die Abflughalle,departure hall
+airport,die Ankunftshalle,arrivals hall
+airport,das Gepäckband,baggage carousel
+airport,der Zoll,customs
+airport,das Fundbüro,lost and found
+flight,der Flug,flight
+flight,die Flugnummer,flight number
+flight,die Bordkarte,boarding pass
+flight,der Abflug,departure
+flight,die Ankunft,arrival
+flight,der Direktflug,direct flight
+flight,der Umstieg,layover / transfer
+flight,der Sitzplatz,seat
+flight,der Notausgang,emergency exit
+flight,die Verspätung,delay
+flight,die Annullierung,cancellation
+luggage,das Gepäck,luggage
+luggage,das Handgepäck,carry-on
+luggage,das Aufgabegepäck,checked luggage
+luggage,der Koffer,suitcase
+luggage,das Übergepäck,excess baggage
+luggage,die Flüssigkeiten,liquids
+luggage,die Gepäckverlustmeldung,lost baggage report

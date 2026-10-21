@@ -1,0 +1,33 @@
+category,german,english
+power,der Strom,electricity
+power,der Stromanbieter,electricity provider
+power,der Grundversorger,default local provider
+power,der Stromvertrag,electricity contract
+power,der Stromzähler,electricity meter
+power,der Zählerstand,meter reading
+power,die Zählernummer,meter number
+power,das Gas,gas
+power,die Fernwärme,district heating
+power,der Ökostrom,green electricity
+bill,der Abschlag,monthly instalment
+bill,die Jahresabrechnung,annual bill
+bill,die Nachzahlung,additional payment
+bill,das Guthaben,credit (refund)
+bill,die Kilowattstunde,kilowatt hour
+bill,der Grundpreis,base price
+bill,die Nebenkostenabrechnung,annual service charge statement
+internet,der Internetanschluss,internet connection
+internet,der Glasfaseranschluss,fibre connection
+internet,das DSL,DSL
+internet,der Router,router
+internet,die Leitung,line
+internet,der Techniker,technician
+internet,die Störung,outage / fault
+fee,der Rundfunkbeitrag,broadcasting fee (TV and radio)
+fee,der Beitragsservice,broadcasting fee office
+fee,die Beitragsnummer,contribution number
+contract,der Anbieterwechsel,switching provider
+contract,das Vergleichsportal,comparison website
+contract,die Mindestlaufzeit,minimum term
+contract,die Kündigung,cancellation
+contract,der Bonus,sign-up bonus

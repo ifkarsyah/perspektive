@@ -1,0 +1,11 @@
+category,german,english
+item,neu,new
+item,gebraucht,used
+item,beschädigt,damaged
+item,defekt,defective
+item,falsch,wrong
+item,vorrätig,in stock
+item,nicht lieferbar,unavailable
+order,unterwegs,on the way
+order,zugestellt,delivered
+order,kostenlos,free

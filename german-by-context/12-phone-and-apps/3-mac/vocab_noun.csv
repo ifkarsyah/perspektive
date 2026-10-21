@@ -1,0 +1,37 @@
+category,german,english
+desktop,der Schreibtisch,Desktop
+desktop,das Dock,Dock
+desktop,die Menüleiste,menu bar
+desktop,der Papierkorb,Trash
+desktop,die Systemeinstellungen,System Settings
+desktop,das Kontrollzentrum,Control Center
+desktop,die Mitteilungszentrale,Notification Center
+desktop,die Spotlight-Suche,Spotlight search
+desktop,das Fenster,window
+desktop,der Bildschirmschoner,screen saver
+finder,der Finder,Finder
+finder,die Programme,Applications
+finder,die Dokumente,Documents
+finder,die Downloads,Downloads
+finder,der Ordner,folder
+finder,die Datei,file
+finder,das Programm,application
+finder,die Vorschau,Preview (app)
+finder,die Aktivitätsanzeige,Activity Monitor
+finder,das Festplattendienstprogramm,Disk Utility
+menu,Ablage,File (menu)
+menu,Bearbeiten,Edit (menu)
+menu,Darstellung,View (menu)
+menu,Gehe zu,Go (menu)
+menu,Fenster,Window (menu)
+menu,Hilfe,Help (menu)
+key,die Befehlstaste,Command key
+key,die Wahltaste,Option key
+key,die Umschalttaste,Shift key
+key,die Steuerungstaste,Control key
+key,die Feststelltaste,Caps Lock
+key,die Eingabetaste,Return / Enter
+key,die Leertaste,Space bar
+key,die Rückschritttaste,Delete (backspace)
+key,die Tabulatortaste,Tab key
+key,die Tastenkombination,keyboard shortcut

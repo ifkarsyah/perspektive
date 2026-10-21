@@ -1,0 +1,36 @@
+category,german,english
+licence,der Führerschein,driving licence
+licence,die Führerscheinumschreibung,licence conversion
+licence,die Fahrerlaubnisbehörde,driving licence office
+licence,die Fahrschule,driving school
+licence,die Fahrstunde,driving lesson
+licence,die theoretische Prüfung,theory test
+licence,die praktische Prüfung,practical test
+licence,der Sehtest,eye test
+licence,der Erste-Hilfe-Kurs,first aid course
+car,das Auto,car
+car,das Carsharing,car sharing
+car,der Mietwagen,rental car
+car,der Tank,tank
+car,das Benzin,petrol
+car,der Diesel,diesel
+car,die Ladesäule,charging station
+car,die Tankstelle,petrol station
+road,die Straße,road
+road,die Autobahn,motorway
+road,die Kreuzung,intersection
+road,die Ampel,traffic light
+road,die Vorfahrt,right of way
+road,der Stau,traffic jam
+road,die Baustelle,roadworks
+road,die Umweltzone,low emission zone
+road,die Umweltplakette,emissions sticker
+road,der Blitzer,speed camera
+park,der Parkplatz,parking space
+park,das Parkhaus,parking garage
+park,der Parkschein,parking ticket (pay)
+park,der Parkautomat,parking meter
+park,der Strafzettel,parking fine
+problem,der Unfall,accident
+problem,die Panne,breakdown
+problem,die Versicherung,insurance
