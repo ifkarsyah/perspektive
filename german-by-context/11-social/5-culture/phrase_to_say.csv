@@ -1,11 +1,11 @@
-category,german,english
-cinema,Läuft der Film auf Englisch oder auf Deutsch?,Is the film in English or German?
-cinema,Gibt es eine OmU-Vorstellung?,Is there a subtitled showing?
-cinema,"Zwei Karten für 20 Uhr, bitte.","Two tickets for 8 pm, please."
-cinema,"Möglichst in der Mitte, bitte.","In the middle if possible, please."
-museum,Gibt es eine Ermäßigung für Studenten?,Is there a student discount?
-museum,Gibt es einen Audioguide auf Englisch?,Is there an audio guide in English?
-museum,Wo ist die Garderobe?,Where's the cloakroom?
-ticket,Gibt es noch Karten an der Abendkasse?,Are there still tickets at the box office?
-plans,"Hast du Lust, am Wochenende ins Museum zu gehen?",Do you feel like going to a museum at the weekend?
-review,Wie fandest du den Film?,What did you think of the film?
+category,who,german,english
+cinema,staff,Läuft der Film auf Englisch oder auf Deutsch?,Is the film in English or German?
+cinema,staff,Gibt es eine OmU-Vorstellung?,Is there a subtitled showing?
+cinema,staff,"Zwei Karten für 20 Uhr, bitte.","Two tickets for 8 pm, please."
+cinema,staff,"Möglichst in der Mitte, bitte.","In the middle if possible, please."
+museum,staff,Gibt es eine Ermäßigung für Studenten?,Is there a student discount?
+museum,staff,Gibt es einen Audioguide auf Englisch?,Is there an audio guide in English?
+museum,staff,Wo ist die Garderobe?,Where's the cloakroom?
+ticket,staff,Gibt es noch Karten an der Abendkasse?,Are there still tickets at the box office?
+plans,friend,"Hast du Lust, am Wochenende ins Museum zu gehen?",Do you feel like going to a museum at the weekend?
+review,friend,Wie fandest du den Film?,What did you think of the film?

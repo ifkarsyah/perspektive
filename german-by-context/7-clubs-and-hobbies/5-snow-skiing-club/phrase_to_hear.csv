@@ -1,15 +1,15 @@
-category,german,english
-joining,Kannst du schon Ski fahren?,Can you ski already?
-joining,Fährst du Ski oder Snowboard?,Do you ski or snowboard?
-joining,Der Bus fährt am Freitagabend ab.,The bus leaves on Friday evening.
-rental,Welche Schuhgröße haben Sie?,What shoe size are you?
-rental,Wie groß sind Sie und wie viel wiegen Sie?,How tall are you and how much do you weigh?
-rental,Fahren Sie eher vorsichtig oder sportlich?,Do you ski carefully or aggressively? (binding setting)
-lesson,Mach den Pflug!,Do the snowplough!
-lesson,Knie beugen!,Bend your knees!
-lesson,Gewicht nach vorne!,Weight forward!
-lesson,"Schau nach vorne, nicht auf die Ski.","Look ahead, not at your skis."
-slope,"Achtung, die Piste ist heute eisig.","Careful, the slope is icy today."
-slope,Die Piste ist wegen Lawinengefahr gesperrt.,The slope is closed due to avalanche risk.
-slope,Wir treffen uns an der Talstation.,We meet at the bottom lift station.
-after,Gehen wir noch zum Après-Ski?,Shall we go to après-ski?
+category,who,german,english
+joining,club-member,Kannst du schon Ski fahren?,Can you ski already?
+joining,club-member,Fährst du Ski oder Snowboard?,Do you ski or snowboard?
+joining,club-member,Der Bus fährt am Freitagabend ab.,The bus leaves on Friday evening.
+rental,staff,Welche Schuhgröße haben Sie?,What shoe size are you?
+rental,staff,Wie groß sind Sie und wie viel wiegen Sie?,How tall are you and how much do you weigh?
+rental,staff,Fahren Sie eher vorsichtig oder sportlich?,Do you ski carefully or aggressively? (binding setting)
+lesson,instructor,Mach den Pflug!,Do the snowplough!
+lesson,instructor,Knie beugen!,Bend your knees!
+lesson,instructor,Gewicht nach vorne!,Weight forward!
+lesson,instructor,"Schau nach vorne, nicht auf die Ski.","Look ahead, not at your skis."
+slope,club-member,"Achtung, die Piste ist heute eisig.","Careful, the slope is icy today."
+slope,sign,Die Piste ist wegen Lawinengefahr gesperrt.,The slope is closed due to avalanche risk.
+slope,club-member,Wir treffen uns an der Talstation.,We meet at the bottom lift station.
+after,club-member,Gehen wir noch zum Après-Ski?,Shall we go to après-ski?

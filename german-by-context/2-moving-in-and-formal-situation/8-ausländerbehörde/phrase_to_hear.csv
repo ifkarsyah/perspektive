@@ -1,14 +1,14 @@
-category,german,english
-appointment,"Ihren Pass und das Antragsformular, bitte.","Your passport and application form, please."
-appointment,Haben Sie die Erklärung zum Beschäftigungsverhältnis dabei?,Do you have the employer declaration form with you?
-appointment,Ihr Abschluss muss anerkannt sein.,Your degree must be recognised.
-appointment,Es fehlt noch der Krankenversicherungsnachweis.,Proof of health insurance is still missing.
-appointment,Bitte reichen Sie die Unterlagen per E-Mail nach.,Please send the documents later by email.
-appointment,Wir brauchen noch Ihre Fingerabdrücke.,We still need your fingerprints.
-appointment,Die Gebühr beträgt 100 Euro.,The fee is 100 euros.
-result,Sie bekommen eine Fiktionsbescheinigung.,You'll get an interim permit.
-result,Die Karte wird in der Bundesdruckerei hergestellt.,The card is produced at the federal printing office.
-result,Den PIN-Brief bekommen Sie per Post.,You'll receive the PIN letter by mail.
-result,Die Bearbeitung dauert sechs bis acht Wochen.,Processing takes six to eight weeks.
-result,Ihr Antrag wurde genehmigt.,Your application was approved.
-result,Jeder Jobwechsel muss gemeldet werden.,Every job change must be reported.
+category,who,german,english
+appointment,official,"Ihren Pass und das Antragsformular, bitte.","Your passport and application form, please."
+appointment,official,Haben Sie die Erklärung zum Beschäftigungsverhältnis dabei?,Do you have the employer declaration form with you?
+appointment,official,Ihr Abschluss muss anerkannt sein.,Your degree must be recognised.
+appointment,official,Es fehlt noch der Krankenversicherungsnachweis.,Proof of health insurance is still missing.
+appointment,official,Bitte reichen Sie die Unterlagen per E-Mail nach.,Please send the documents later by email.
+appointment,official,Wir brauchen noch Ihre Fingerabdrücke.,We still need your fingerprints.
+appointment,official,Die Gebühr beträgt 100 Euro.,The fee is 100 euros.
+result,official,Sie bekommen eine Fiktionsbescheinigung.,You'll get an interim permit.
+result,official,Die Karte wird in der Bundesdruckerei hergestellt.,The card is produced at the federal printing office.
+result,official,Den PIN-Brief bekommen Sie per Post.,You'll receive the PIN letter by mail.
+result,official,Die Bearbeitung dauert sechs bis acht Wochen.,Processing takes six to eight weeks.
+result,official,Ihr Antrag wurde genehmigt.,Your application was approved.
+result,official,Jeder Jobwechsel muss gemeldet werden.,Every job change must be reported.

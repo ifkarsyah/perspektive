@@ -1,14 +1,14 @@
-category,german,english
-ordering,Was darf's sein?,What can I get you?
-ordering,Was hättest du gern?,What would you like? (informal)
-ordering,Zum hier Trinken oder zum Mitnehmen?,For here or to go?
-ordering,Groß oder klein?,Large or small?
-ordering,Mit normaler Milch oder Hafermilch?,With regular milk or oat milk?
-ordering,Hafermilch kostet 50 Cent extra.,Oat milk costs 50 cents extra.
-ordering,Soll ich den Kuchen warm machen?,Shall I warm up the cake?
-ordering,Sonst noch etwas?,Anything else?
-ordering,Ich bringe es dir an den Tisch.,I'll bring it to your table.
-ordering,Der Becher kostet einen Euro Pfand.,The cup has a one-euro deposit.
-stay,Das Passwort steht auf dem Bon.,The password is on the receipt.
-stay,Am Wochenende bitte keine Laptops.,"No laptops at the weekend, please."
-pay,Wir nehmen nur Bargeld.,We only take cash.
+category,who,german,english
+ordering,barista,Was darf's sein?,What can I get you?
+ordering,barista,Was hättest du gern?,What would you like? (informal)
+ordering,barista,Zum hier Trinken oder zum Mitnehmen?,For here or to go?
+ordering,barista,Groß oder klein?,Large or small?
+ordering,barista,Mit normaler Milch oder Hafermilch?,With regular milk or oat milk?
+ordering,barista,Hafermilch kostet 50 Cent extra.,Oat milk costs 50 cents extra.
+ordering,barista,Soll ich den Kuchen warm machen?,Shall I warm up the cake?
+ordering,barista,Sonst noch etwas?,Anything else?
+ordering,barista,Ich bringe es dir an den Tisch.,I'll bring it to your table.
+ordering,barista,Der Becher kostet einen Euro Pfand.,The cup has a one-euro deposit.
+stay,barista,Das Passwort steht auf dem Bon.,The password is on the receipt.
+stay,sign,Am Wochenende bitte keine Laptops.,"No laptops at the weekend, please."
+pay,barista,Wir nehmen nur Bargeld.,We only take cash.

@@ -1,14 +1,14 @@
-category,german,english
-plans,Es soll morgen 33 Grad werden.,It's supposed to be 33 degrees tomorrow.
-plans,Am Nachmittag gibt es Gewitter.,There'll be thunderstorms in the afternoon.
-plans,Am Wochenende ist der See total überfüllt.,The lake is totally overcrowded at the weekend.
-lake,Das Wasser ist herrlich!,The water is wonderful!
-lake,"Komm rein, so kalt ist es gar nicht!","Come in, it's not that cold!"
-lake,Grillen ist hier verboten.,Barbecuing is forbidden here.
-lake,Das ist der FKK-Bereich.,That's the nudist area.
-pool,Bitte vor dem Baden duschen.,Please shower before swimming.
-pool,Nicht vom Beckenrand springen!,No jumping from the pool edge!
-pool,Das Freibad schließt um 20 Uhr.,The outdoor pool closes at 8 pm.
-icecream,Waffel oder Becher?,Cone or cup?
-icecream,Wie viele Kugeln?,How many scoops?
-icecream,Mit Sahne?,With whipped cream?
+category,who,german,english
+plans,friend,Es soll morgen 33 Grad werden.,It's supposed to be 33 degrees tomorrow.
+plans,friend,Am Nachmittag gibt es Gewitter.,There'll be thunderstorms in the afternoon.
+plans,friend,Am Wochenende ist der See total überfüllt.,The lake is totally overcrowded at the weekend.
+lake,friend,Das Wasser ist herrlich!,The water is wonderful!
+lake,friend,"Komm rein, so kalt ist es gar nicht!","Come in, it's not that cold!"
+lake,sign,Grillen ist hier verboten.,Barbecuing is forbidden here.
+lake,stranger,Das ist der FKK-Bereich.,That's the nudist area.
+pool,sign,Bitte vor dem Baden duschen.,Please shower before swimming.
+pool,lifeguard,Nicht vom Beckenrand springen!,No jumping from the pool edge!
+pool,announcement,Das Freibad schließt um 20 Uhr.,The outdoor pool closes at 8 pm.
+icecream,staff,Waffel oder Becher?,Cone or cup?
+icecream,staff,Wie viele Kugeln?,How many scoops?
+icecream,staff,Mit Sahne?,With whipped cream?

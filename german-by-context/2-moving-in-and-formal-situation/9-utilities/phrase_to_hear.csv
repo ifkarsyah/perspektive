@@ -1,11 +1,11 @@
-category,german,english
-power,Bitte teilen Sie uns Ihren Zählerstand mit.,Please tell us your meter reading.
-power,Ihr monatlicher Abschlag beträgt 45 Euro.,Your monthly instalment is 45 euros.
-power,Sie sind automatisch beim Grundversorger.,You're automatically with the default provider.
-power,Die Preise werden zum ersten Januar erhöht.,Prices will increase from 1 January.
-power,Sie haben ein Guthaben von 80 Euro.,You have a credit of 80 euros.
-internet,Der Techniker kommt am Dienstag zwischen 8 und 13 Uhr.,The technician comes on Tuesday between 8 and 1.
-internet,Es gibt eine Störung in Ihrem Gebiet.,There's an outage in your area.
-internet,Die Mindestlaufzeit beträgt 24 Monate.,The minimum term is 24 months.
-fee,Pro Wohnung zahlt nur eine Person.,Only one person pays per apartment.
-fee,Bitte melden Sie sich beim Beitragsservice an.,Please register with the broadcasting fee office.
+category,who,german,english
+power,customer-service,Bitte teilen Sie uns Ihren Zählerstand mit.,Please tell us your meter reading.
+power,customer-service,Ihr monatlicher Abschlag beträgt 45 Euro.,Your monthly instalment is 45 euros.
+power,customer-service,Sie sind automatisch beim Grundversorger.,You're automatically with the default provider.
+power,letter,Die Preise werden zum ersten Januar erhöht.,Prices will increase from 1 January.
+power,letter,Sie haben ein Guthaben von 80 Euro.,You have a credit of 80 euros.
+internet,customer-service,Der Techniker kommt am Dienstag zwischen 8 und 13 Uhr.,The technician comes on Tuesday between 8 and 1.
+internet,customer-service,Es gibt eine Störung in Ihrem Gebiet.,There's an outage in your area.
+internet,customer-service,Die Mindestlaufzeit beträgt 24 Monate.,The minimum term is 24 months.
+fee,customer-service,Pro Wohnung zahlt nur eine Person.,Only one person pays per apartment.
+fee,letter,Bitte melden Sie sich beim Beitragsservice an.,Please register with the broadcasting fee office.

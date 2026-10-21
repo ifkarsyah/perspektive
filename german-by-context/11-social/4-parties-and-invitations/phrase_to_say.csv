@@ -1,12 +1,12 @@
-category,german,english
-invite,Ich mache am Samstag eine Einweihungsparty. Hast du Lust zu kommen?,I'm having a housewarming on Saturday. Do you want to come?
-invite,Du kannst gern jemanden mitbringen.,Feel free to bring someone.
-reply,Danke für die Einladung! Ich komme gern.,Thanks for the invitation! I'd love to come.
-reply,"Leider kann ich nicht, ich habe schon was vor.","Unfortunately I can't, I already have plans."
-reply,Soll ich etwas mitbringen?,Should I bring something?
-reply,Ich komme ein bisschen später.,I'll come a bit later.
-party,Herzlichen Glückwunsch zum Geburtstag!,Happy birthday!
-party,Alles Gute zum Geburtstag!,All the best for your birthday!
-party,"Hier, eine Kleinigkeit für dich.","Here, a little something for you."
-party,Danke für den schönen Abend!,Thanks for the lovely evening!
-work,Ich habe heute Geburtstag und Kuchen mitgebracht.,It's my birthday today and I brought cake.
+category,who,german,english
+invite,friend,Ich mache am Samstag eine Einweihungsparty. Hast du Lust zu kommen?,I'm having a housewarming on Saturday. Do you want to come?
+invite,friend,Du kannst gern jemanden mitbringen.,Feel free to bring someone.
+reply,host,Danke für die Einladung! Ich komme gern.,Thanks for the invitation! I'd love to come.
+reply,host,"Leider kann ich nicht, ich habe schon was vor.","Unfortunately I can't, I already have plans."
+reply,host,Soll ich etwas mitbringen?,Should I bring something?
+reply,host,Ich komme ein bisschen später.,I'll come a bit later.
+party,friend,Herzlichen Glückwunsch zum Geburtstag!,Happy birthday!
+party,friend,Alles Gute zum Geburtstag!,All the best for your birthday!
+party,host,"Hier, eine Kleinigkeit für dich.","Here, a little something for you."
+party,host,Danke für den schönen Abend!,Thanks for the lovely evening!
+work,colleague,Ich habe heute Geburtstag und Kuchen mitgebracht.,It's my birthday today and I brought cake.

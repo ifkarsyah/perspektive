@@ -1,12 +1,12 @@
-category,german,english
-send,Ich möchte dieses Paket nach Indonesien schicken.,I'd like to send this parcel to Indonesia.
-send,Was kostet das?,How much does that cost?
-send,Wie lange dauert es?,How long does it take?
-send,Ich hätte gern zehn Briefmarken.,I'd like ten stamps.
-send,Ich möchte den Brief per Einschreiben schicken.,I'd like to send the letter by registered mail.
-send,Ich möchte das zurückschicken. Hier ist das Retourenetikett.,I'd like to return this. Here's the return label.
-pickup,Ich möchte ein Paket abholen.,I'd like to pick up a parcel.
-pickup,Hier ist die Benachrichtigungskarte.,Here's the missed delivery card.
-pickup,"Ich war zu Hause, aber niemand hat geklingelt.","I was at home, but nobody rang the bell."
-pickup,"Mein Paket ist laut Sendungsverfolgung zugestellt, aber ich habe es nicht.","Tracking says my parcel was delivered, but I don't have it."
-pickup,Kann ich das Paket für meinen Mitbewohner abholen?,Can I pick up the parcel for my flatmate?
+category,who,german,english
+send,staff,Ich möchte dieses Paket nach Indonesien schicken.,I'd like to send this parcel to Indonesia.
+send,staff,Was kostet das?,How much does that cost?
+send,staff,Wie lange dauert es?,How long does it take?
+send,staff,Ich hätte gern zehn Briefmarken.,I'd like ten stamps.
+send,staff,Ich möchte den Brief per Einschreiben schicken.,I'd like to send the letter by registered mail.
+send,staff,Ich möchte das zurückschicken. Hier ist das Retourenetikett.,I'd like to return this. Here's the return label.
+pickup,staff,Ich möchte ein Paket abholen.,I'd like to pick up a parcel.
+pickup,staff,Hier ist die Benachrichtigungskarte.,Here's the missed delivery card.
+pickup,customer-service,"Ich war zu Hause, aber niemand hat geklingelt.","I was at home, but nobody rang the bell."
+pickup,customer-service,"Mein Paket ist laut Sendungsverfolgung zugestellt, aber ich habe es nicht.","Tracking says my parcel was delivered, but I don't have it."
+pickup,staff,Kann ich das Paket für meinen Mitbewohner abholen?,Can I pick up the parcel for my flatmate?

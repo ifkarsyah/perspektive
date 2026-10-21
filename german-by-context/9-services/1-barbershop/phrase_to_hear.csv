@@ -1,14 +1,14 @@
-category,german,english
-booking,Heute nur mit Termin.,Today only with an appointment.
-booking,"Setz dich kurz, du bist gleich dran.","Take a seat, you're next."
-cut,Wie hättest du es gern?,How would you like it?
-cut,Wie kurz an den Seiten?,How short on the sides?
-cut,Mit welchem Aufsatz?,Which guard?
-cut,Soll ich oben auch etwas wegnehmen?,Shall I take some off the top too?
-cut,Mit Übergang oder ohne?,With a fade or without?
-cut,Soll ich die Haare auch waschen?,Shall I wash your hair too?
-beard,Den Bart auch?,The beard too?
-beard,Soll ich die Augenbrauen auch machen?,Shall I do the eyebrows too?
-finish,Gefällt es dir so?,Do you like it like this?
-finish,Wachs oder Gel?,Wax or gel?
-finish,Das macht 25 Euro.,That's 25 euros.
+category,who,german,english
+booking,barber,Heute nur mit Termin.,Today only with an appointment.
+booking,barber,"Setz dich kurz, du bist gleich dran.","Take a seat, you're next."
+cut,barber,Wie hättest du es gern?,How would you like it?
+cut,barber,Wie kurz an den Seiten?,How short on the sides?
+cut,barber,Mit welchem Aufsatz?,Which guard?
+cut,barber,Soll ich oben auch etwas wegnehmen?,Shall I take some off the top too?
+cut,barber,Mit Übergang oder ohne?,With a fade or without?
+cut,barber,Soll ich die Haare auch waschen?,Shall I wash your hair too?
+beard,barber,Den Bart auch?,The beard too?
+beard,barber,Soll ich die Augenbrauen auch machen?,Shall I do the eyebrows too?
+finish,barber,Gefällt es dir so?,Do you like it like this?
+finish,barber,Wachs oder Gel?,Wax or gel?
+finish,barber,Das macht 25 Euro.,That's 25 euros.

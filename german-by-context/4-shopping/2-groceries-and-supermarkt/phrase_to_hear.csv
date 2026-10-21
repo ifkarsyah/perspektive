@@ -1,12 +1,12 @@
-category,german,english
-checkout,Brauchen Sie eine Tüte?,Do you need a bag?
-checkout,Sammeln Sie Punkte?,Do you collect points?
-checkout,Haben Sie eine Payback-Karte?,Do you have a Payback card?
-checkout,Möchten Sie den Bon?,Do you want the receipt?
-checkout,Kasse drei öffnet für Sie.,Till three is opening for you.
-counter,Darf es etwas mehr sein?,Is a little more okay?
-counter,Sonst noch etwas?,Anything else?
-counter,Am Stück oder geschnitten?,In one piece or sliced?
-shop,Der Artikel ist leider ausverkauft.,Unfortunately that item is sold out.
-shop,Sonntags haben wir geschlossen.,We're closed on Sundays.
-shop,Wir schließen in zehn Minuten.,We're closing in ten minutes.
+category,who,german,english
+checkout,cashier,Brauchen Sie eine Tüte?,Do you need a bag?
+checkout,cashier,Sammeln Sie Punkte?,Do you collect points?
+checkout,cashier,Haben Sie eine Payback-Karte?,Do you have a Payback card?
+checkout,cashier,Möchten Sie den Bon?,Do you want the receipt?
+checkout,cashier,Kasse drei öffnet für Sie.,Till three is opening for you.
+counter,staff,Darf es etwas mehr sein?,Is a little more okay?
+counter,staff,Sonst noch etwas?,Anything else?
+counter,staff,Am Stück oder geschnitten?,In one piece or sliced?
+shop,staff,Der Artikel ist leider ausverkauft.,Unfortunately that item is sold out.
+shop,sign,Sonntags haben wir geschlossen.,We're closed on Sundays.
+shop,announcement,Wir schließen in zehn Minuten.,We're closing in ten minutes.

@@ -1,15 +1,15 @@
-category,german,english
-feeling,"Mir geht's gut, danke.","I'm doing well, thanks."
-feeling,Mir geht's heute nicht so gut.,I'm not doing so well today.
-feeling,Ich freue mich sehr!,I'm really happy!
-feeling,Ich freue mich auf das Wochenende.,I'm looking forward to the weekend.
-feeling,Ich bin gerade ziemlich gestresst.,I'm quite stressed right now.
-feeling,Ich habe manchmal Heimweh.,I'm sometimes homesick.
-feeling,Das nervt mich.,That annoys me.
-opinion,"Ich finde, dass ___.",I think that ___.
-opinion,Meiner Meinung nach ___.,In my opinion ___.
-opinion,Da hast du recht.,You're right about that.
-opinion,Das sehe ich anders.,I see that differently.
-opinion,Kommt drauf an.,It depends.
-opinion,Keine Ahnung.,No idea.
-complaint,Ich bin damit nicht zufrieden.,I'm not satisfied with that.
+category,who,german,english
+feeling,friend,"Mir geht's gut, danke.","I'm doing well, thanks."
+feeling,friend,Mir geht's heute nicht so gut.,I'm not doing so well today.
+feeling,friend,Ich freue mich sehr!,I'm really happy!
+feeling,friend,Ich freue mich auf das Wochenende.,I'm looking forward to the weekend.
+feeling,friend,Ich bin gerade ziemlich gestresst.,I'm quite stressed right now.
+feeling,friend,Ich habe manchmal Heimweh.,I'm sometimes homesick.
+feeling,friend,Das nervt mich.,That annoys me.
+opinion,friend,"Ich finde, dass ___.",I think that ___.
+opinion,friend,Meiner Meinung nach ___.,In my opinion ___.
+opinion,friend,Da hast du recht.,You're right about that.
+opinion,friend,Das sehe ich anders.,I see that differently.
+opinion,friend,Kommt drauf an.,It depends.
+opinion,friend,Keine Ahnung.,No idea.
+complaint,staff,Ich bin damit nicht zufrieden.,I'm not satisfied with that.

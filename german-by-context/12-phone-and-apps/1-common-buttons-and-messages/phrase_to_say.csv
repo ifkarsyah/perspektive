@@ -1,7 +1,7 @@
-category,german,english
-help,Wo finde ich die Einstellungen?,Where do I find the settings?
-help,Ich habe mein Passwort vergessen.,I forgot my password.
-help,Ich bekomme keinen Bestätigungscode.,I'm not getting a verification code.
-help,Die App stürzt immer ab.,The app keeps crashing.
-help,Wie lösche ich mein Konto?,How do I delete my account?
-help,Kannst du mir den Link schicken?,Can you send me the link?
+category,who,german,english
+help,friend,Wo finde ich die Einstellungen?,Where do I find the settings?
+help,customer-service,Ich habe mein Passwort vergessen.,I forgot my password.
+help,customer-service,Ich bekomme keinen Bestätigungscode.,I'm not getting a verification code.
+help,customer-service,Die App stürzt immer ab.,The app keeps crashing.
+help,customer-service,Wie lösche ich mein Konto?,How do I delete my account?
+help,friend,Kannst du mir den Link schicken?,Can you send me the link?

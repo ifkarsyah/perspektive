@@ -1,15 +1,15 @@
-category,german,english
-account,Ich möchte ein Girokonto eröffnen.,I'd like to open a checking account.
-account,Ist das Konto kostenlos?,Is the account free?
-account,Welche Unterlagen brauche ich?,Which documents do I need?
-account,Ich habe noch keine Meldebescheinigung.,I don't have a registration certificate yet.
-account,Kann ich das online machen?,Can I do that online?
-card,Wann bekomme ich meine Karte?,When do I get my card?
-card,Ich habe meine PIN vergessen.,I forgot my PIN.
-card,Meine Karte wurde gestohlen. Bitte sperren Sie sie.,My card was stolen. Please block it.
-card,Der Geldautomat hat meine Karte eingezogen.,The ATM swallowed my card.
-money,Ich möchte Geld überweisen.,I'd like to transfer money.
-money,Ich möchte einen Dauerauftrag für die Miete einrichten.,I'd like to set up a standing order for the rent.
-money,Wie lange dauert eine Überweisung?,How long does a transfer take?
-money,Ich möchte Geld ins Ausland überweisen.,I'd like to send money abroad.
-money,Diese Abbuchung kenne ich nicht.,I don't recognise this debit.
+category,who,german,english
+account,bank-advisor,Ich möchte ein Girokonto eröffnen.,I'd like to open a checking account.
+account,bank-advisor,Ist das Konto kostenlos?,Is the account free?
+account,bank-advisor,Welche Unterlagen brauche ich?,Which documents do I need?
+account,bank-advisor,Ich habe noch keine Meldebescheinigung.,I don't have a registration certificate yet.
+account,bank-advisor,Kann ich das online machen?,Can I do that online?
+card,bank-advisor,Wann bekomme ich meine Karte?,When do I get my card?
+card,bank-advisor,Ich habe meine PIN vergessen.,I forgot my PIN.
+card,bank-advisor,Meine Karte wurde gestohlen. Bitte sperren Sie sie.,My card was stolen. Please block it.
+card,bank-advisor,Der Geldautomat hat meine Karte eingezogen.,The ATM swallowed my card.
+money,bank-advisor,Ich möchte Geld überweisen.,I'd like to transfer money.
+money,bank-advisor,Ich möchte einen Dauerauftrag für die Miete einrichten.,I'd like to set up a standing order for the rent.
+money,bank-advisor,Wie lange dauert eine Überweisung?,How long does a transfer take?
+money,bank-advisor,Ich möchte Geld ins Ausland überweisen.,I'd like to send money abroad.
+money,bank-advisor,Diese Abbuchung kenne ich nicht.,I don't recognise this debit.

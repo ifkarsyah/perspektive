@@ -1,18 +1,18 @@
-category,german,english
-time,Wie spät ist es?,What time is it?
-time,Es ist drei Uhr.,It's three o'clock.
-time,Es ist Viertel nach drei.,It's quarter past three. (3:15)
-time,Es ist halb vier.,"It's half past three. (3:30, literally ""half four"")"
-time,Es ist Viertel vor vier.,It's quarter to four. (3:45)
-time,Es ist zehn nach drei.,It's ten past three.
-time,Der Termin ist um 14:30 Uhr.,The appointment is at 2:30 pm. (vierzehn Uhr dreißig)
-date,Welches Datum ist heute?,What's the date today?
-date,Heute ist der 3. März.,Today is the 3rd of March. (der dritte März)
-date,Ich habe am 12. Juni Geburtstag.,My birthday is on 12 June. (am zwölften Juni)
-date,Ich bin 1995 geboren.,I was born in 1995. (neunzehnhundertfünfundneunzig)
-date,Passt dir Dienstag um zehn?,Does Tuesday at ten suit you?
-date,Das machen wir in KW 12.,We'll do that in calendar week 12.
-number,"Das kostet 3,50 Euro.",That costs 3.50 euros. (drei Euro fünfzig)
-number,Meine Nummer ist null eins sieben sechs …,My number is zero one seven six …
-number,Ich bin 30 Jahre alt.,I'm 30 years old.
-number,Wir sind zu dritt.,There are three of us.
+category,who,german,english
+time,anyone,Wie spät ist es?,What time is it?
+time,anyone,Es ist drei Uhr.,It's three o'clock.
+time,anyone,Es ist Viertel nach drei.,It's quarter past three. (3:15)
+time,anyone,Es ist halb vier.,"It's half past three. (3:30, literally ""half four"")"
+time,anyone,Es ist Viertel vor vier.,It's quarter to four. (3:45)
+time,anyone,Es ist zehn nach drei.,It's ten past three.
+time,anyone,Der Termin ist um 14:30 Uhr.,The appointment is at 2:30 pm. (vierzehn Uhr dreißig)
+date,anyone,Welches Datum ist heute?,What's the date today?
+date,anyone,Heute ist der 3. März.,Today is the 3rd of March. (der dritte März)
+date,anyone,Ich habe am 12. Juni Geburtstag.,My birthday is on 12 June. (am zwölften Juni)
+date,anyone,Ich bin 1995 geboren.,I was born in 1995. (neunzehnhundertfünfundneunzig)
+date,friend,Passt dir Dienstag um zehn?,Does Tuesday at ten suit you?
+date,colleague,Das machen wir in KW 12.,We'll do that in calendar week 12.
+number,anyone,"Das kostet 3,50 Euro.",That costs 3.50 euros. (drei Euro fünfzig)
+number,anyone,Meine Nummer ist null eins sieben sechs …,My number is zero one seven six …
+number,anyone,Ich bin 30 Jahre alt.,I'm 30 years old.
+number,waiter,Wir sind zu dritt.,There are three of us.

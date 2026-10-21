@@ -1,11 +1,11 @@
-category,german,english
-announcement,Wegen einer Verspätung aus vorheriger Fahrt hat der Zug ca. 20 Minuten Verspätung.,"Due to a delay on the previous journey, the train is about 20 minutes late."
-announcement,Der Zug fährt heute in umgekehrter Wagenreihung.,The train runs in reverse carriage order today.
-announcement,"Achtung, Gleiswechsel! Der Zug fährt heute von Gleis 7.","Attention, platform change! The train leaves from platform 7 today."
-announcement,Der Zug fällt heute aus.,The train is cancelled today.
-announcement,Die Zugbindung ist aufgehoben.,The train-specific restriction is lifted.
-announcement,Wir erreichen in Kürze Berlin Hauptbahnhof.,We'll shortly arrive at Berlin main station.
-conductor,"Die Fahrkarten, bitte.","Tickets, please."
-conductor,Haben Sie eine BahnCard?,Do you have a BahnCard?
-conductor,Bitte zeigen Sie Ihren Ausweis.,Please show your ID.
-delay,Ab 60 Minuten Verspätung bekommen Sie 25 Prozent zurück.,With a delay of 60+ minutes you get 25 percent back.
+category,who,german,english
+announcement,announcement,Wegen einer Verspätung aus vorheriger Fahrt hat der Zug ca. 20 Minuten Verspätung.,"Due to a delay on the previous journey, the train is about 20 minutes late."
+announcement,announcement,Der Zug fährt heute in umgekehrter Wagenreihung.,The train runs in reverse carriage order today.
+announcement,announcement,"Achtung, Gleiswechsel! Der Zug fährt heute von Gleis 7.","Attention, platform change! The train leaves from platform 7 today."
+announcement,announcement,Der Zug fällt heute aus.,The train is cancelled today.
+announcement,announcement,Die Zugbindung ist aufgehoben.,The train-specific restriction is lifted.
+announcement,announcement,Wir erreichen in Kürze Berlin Hauptbahnhof.,We'll shortly arrive at Berlin main station.
+conductor,conductor,"Die Fahrkarten, bitte.","Tickets, please."
+conductor,conductor,Haben Sie eine BahnCard?,Do you have a BahnCard?
+conductor,conductor,Bitte zeigen Sie Ihren Ausweis.,Please show your ID.
+delay,staff,Ab 60 Minuten Verspätung bekommen Sie 25 Prozent zurück.,With a delay of 60+ minutes you get 25 percent back.

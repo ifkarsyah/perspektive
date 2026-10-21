@@ -1,11 +1,11 @@
-category,german,english
-question,Wie sieht dein Tag so aus?,What does your day look like?
-question,Wann stehst du normalerweise auf?,When do you normally get up?
-question,Bist du ein Morgenmensch?,Are you a morning person?
-question,Was machst du nach der Arbeit?,What do you do after work?
-question,Hast du heute schon was gegessen?,Have you eaten anything yet today?
-question,Was hast du heute noch vor?,What else are you doing today?
-reply,Ich bin noch nicht ganz wach.,I'm not quite awake yet.
-reply,Ich mach heute früher Feierabend.,I'm finishing work earlier today.
-reply,Ich muss noch einkaufen.,I still have to go shopping.
-reply,Ich hau mich jetzt hin.,I'm going to crash now. (go to sleep)
+category,who,german,english
+question,friend,Wie sieht dein Tag so aus?,What does your day look like?
+question,friend,Wann stehst du normalerweise auf?,When do you normally get up?
+question,friend,Bist du ein Morgenmensch?,Are you a morning person?
+question,friend,Was machst du nach der Arbeit?,What do you do after work?
+question,friend,Hast du heute schon was gegessen?,Have you eaten anything yet today?
+question,friend,Was hast du heute noch vor?,What else are you doing today?
+reply,friend,Ich bin noch nicht ganz wach.,I'm not quite awake yet.
+reply,friend,Ich mach heute früher Feierabend.,I'm finishing work earlier today.
+reply,friend,Ich muss noch einkaufen.,I still have to go shopping.
+reply,friend,Ich hau mich jetzt hin.,I'm going to crash now. (go to sleep)

@@ -1,13 +1,13 @@
-category,german,english
-buying,Möchten Sie Prepaid oder einen Vertrag?,Do you want prepaid or a contract?
-buying,Die Mindestlaufzeit beträgt 24 Monate.,The minimum term is 24 months.
-buying,Der Tarif kostet zehn Euro im Monat.,The plan costs ten euros a month.
-buying,Das Datenvolumen ist unbegrenzt.,The data is unlimited.
-setup,Ich brauche Ihren Ausweis.,I need your ID.
-setup,Sie müssen sich per Video-Ident identifizieren.,You have to verify your identity via video.
-setup,Die Karte wird in 24 Stunden aktiviert.,The card will be activated within 24 hours.
-setup,Bitte geben Sie Ihre PIN ein.,Please enter your PIN.
-problem,Haben Sie das Handy schon neu gestartet?,Have you already restarted the phone?
-problem,Ihr Guthaben ist aufgebraucht.,Your credit is used up.
-problem,Die Kündigungsfrist beträgt drei Monate.,The notice period is three months.
-internet,Der Techniker kommt zwischen acht und zwölf Uhr.,The technician comes between eight and twelve.
+category,who,german,english
+buying,staff,Möchten Sie Prepaid oder einen Vertrag?,Do you want prepaid or a contract?
+buying,staff,Die Mindestlaufzeit beträgt 24 Monate.,The minimum term is 24 months.
+buying,staff,Der Tarif kostet zehn Euro im Monat.,The plan costs ten euros a month.
+buying,staff,Das Datenvolumen ist unbegrenzt.,The data is unlimited.
+setup,staff,Ich brauche Ihren Ausweis.,I need your ID.
+setup,staff,Sie müssen sich per Video-Ident identifizieren.,You have to verify your identity via video.
+setup,staff,Die Karte wird in 24 Stunden aktiviert.,The card will be activated within 24 hours.
+setup,app,Bitte geben Sie Ihre PIN ein.,Please enter your PIN.
+problem,customer-service,Haben Sie das Handy schon neu gestartet?,Have you already restarted the phone?
+problem,customer-service,Ihr Guthaben ist aufgebraucht.,Your credit is used up.
+problem,customer-service,Die Kündigungsfrist beträgt drei Monate.,The notice period is three months.
+internet,customer-service,Der Techniker kommt zwischen acht und zwölf Uhr.,The technician comes between eight and twelve.

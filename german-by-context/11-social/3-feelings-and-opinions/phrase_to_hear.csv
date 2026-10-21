@@ -1,13 +1,13 @@
-category,german,english
-feeling,Wie geht's dir?,How are you?
-feeling,Was ist los?,What's wrong?
-feeling,Alles okay bei dir?,Everything okay with you?
-feeling,Mach dir keine Sorgen.,Don't worry.
-feeling,Das wird schon.,It'll be fine.
-opinion,Was meinst du?,What do you think?
-opinion,Wie findest du das?,What do you think of that?
-opinion,Stimmt!,True!
-opinion,Genau!,Exactly!
-opinion,Echt jetzt?,Seriously?
-opinion,"Na ja, ich weiß nicht.","Well, I don't know."
-opinion,Quatsch!,Nonsense!
+category,who,german,english
+feeling,friend,Wie geht's dir?,How are you?
+feeling,friend,Was ist los?,What's wrong?
+feeling,friend,Alles okay bei dir?,Everything okay with you?
+feeling,friend,Mach dir keine Sorgen.,Don't worry.
+feeling,friend,Das wird schon.,It'll be fine.
+opinion,friend,Was meinst du?,What do you think?
+opinion,friend,Wie findest du das?,What do you think of that?
+opinion,friend,Stimmt!,True!
+opinion,friend,Genau!,Exactly!
+opinion,friend,Echt jetzt?,Seriously?
+opinion,friend,"Na ja, ich weiß nicht.","Well, I don't know."
+opinion,friend,Quatsch!,Nonsense!

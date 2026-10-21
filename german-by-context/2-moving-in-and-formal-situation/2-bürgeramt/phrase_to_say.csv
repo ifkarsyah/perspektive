@@ -1,17 +1,17 @@
-category,german,english
-appointment,Ich habe einen Termin um zehn Uhr.,I have an appointment at ten.
-appointment,Ich komme zehn Minuten zu spät.,I'll be ten minutes late.
-appointment,Ich habe keinen Termin bekommen. Gibt es freie Termine?,I couldn't get an appointment. Are there free slots?
-process,Ich möchte mich anmelden.,I'd like to register my address.
-process,Ich bin vor einer Woche eingezogen.,I moved in a week ago.
-process,Ich möchte mich ummelden.,I'd like to change my registered address.
-process,Ich möchte mich abmelden.,I'd like to deregister.
-document,Hier ist meine Wohnungsgeberbestätigung.,Here is my landlord confirmation.
-document,Hier ist mein Reisepass.,Here is my passport.
-document,Ich habe das Formular schon ausgefüllt.,I've already filled out the form.
-document,Wo muss ich unterschreiben?,Where do I have to sign?
-document,Brauchen Sie eine Kopie?,Do you need a copy?
-document,Bekomme ich die Meldebescheinigung heute?,Do I get the registration certificate today?
-document,Wann bekomme ich meine Steuer-ID?,When will I get my tax ID?
-personal,Ich bin ledig.,I'm single.
-personal,Ich habe keine Religion.,I have no religion. (no church tax)
+category,who,german,english
+appointment,official,Ich habe einen Termin um zehn Uhr.,I have an appointment at ten.
+appointment,official,Ich komme zehn Minuten zu spät.,I'll be ten minutes late.
+appointment,official,Ich habe keinen Termin bekommen. Gibt es freie Termine?,I couldn't get an appointment. Are there free slots?
+process,official,Ich möchte mich anmelden.,I'd like to register my address.
+process,official,Ich bin vor einer Woche eingezogen.,I moved in a week ago.
+process,official,Ich möchte mich ummelden.,I'd like to change my registered address.
+process,official,Ich möchte mich abmelden.,I'd like to deregister.
+document,official,Hier ist meine Wohnungsgeberbestätigung.,Here is my landlord confirmation.
+document,official,Hier ist mein Reisepass.,Here is my passport.
+document,official,Ich habe das Formular schon ausgefüllt.,I've already filled out the form.
+document,official,Wo muss ich unterschreiben?,Where do I have to sign?
+document,official,Brauchen Sie eine Kopie?,Do you need a copy?
+document,official,Bekomme ich die Meldebescheinigung heute?,Do I get the registration certificate today?
+document,official,Wann bekomme ich meine Steuer-ID?,When will I get my tax ID?
+personal,official,Ich bin ledig.,I'm single.
+personal,official,Ich habe keine Religion.,I have no religion. (no church tax)

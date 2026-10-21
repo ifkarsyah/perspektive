@@ -1,10 +1,10 @@
-category,german,english
-plans,"Hast du Lust, heute Abend was trinken zu gehen?",Do you feel like going for a drink tonight?
-plans,Wo treffen wir uns?,Where shall we meet?
-plans,Lass uns erst zum Späti gehen.,Let's go to the Späti first.
-bar,"Zwei Bier, bitte.","Two beers, please."
-bar,Die Runde geht auf mich.,This round's on me.
-bar,Prost!,Cheers!
-bar,Was möchtest du trinken?,What would you like to drink?
-end,"Ich bin total müde, ich gehe nach Hause.","I'm really tired, I'm going home."
-end,Wann fährt die letzte Bahn?,When does the last train leave?
+category,who,german,english
+plans,friend,"Hast du Lust, heute Abend was trinken zu gehen?",Do you feel like going for a drink tonight?
+plans,friend,Wo treffen wir uns?,Where shall we meet?
+plans,friend,Lass uns erst zum Späti gehen.,Let's go to the Späti first.
+bar,bartender,"Zwei Bier, bitte.","Two beers, please."
+bar,friend,Die Runde geht auf mich.,This round's on me.
+bar,friend,Prost!,Cheers!
+bar,friend,Was möchtest du trinken?,What would you like to drink?
+end,friend,"Ich bin total müde, ich gehe nach Hause.","I'm really tired, I'm going home."
+end,friend,Wann fährt die letzte Bahn?,When does the last train leave?

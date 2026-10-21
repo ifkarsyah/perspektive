@@ -1,12 +1,12 @@
-category,german,english
-prompt,Nachrichten und Anrufe sind Ende-zu-Ende-verschlüsselt.,Messages and calls are end-to-end encrypted.
-prompt,___ hat dich hinzugefügt.,___ added you.
-prompt,___ hat die Gruppe verlassen.,___ left the group.
-prompt,___ schreibt …,___ is typing …
-prompt,Diese Nachricht wurde gelöscht.,This message was deleted.
-prompt,Verpasster Sprachanruf,Missed voice call
-prompt,"Tippe, um mehr zu erfahren.",Tap to learn more.
-friend,"Schreib mal, wenn du da bist.",Text me when you're there.
-friend,Hast du meine Sprachnachricht gehört?,Did you listen to my voice message?
-friend,Warum antwortest du nicht?,Why aren't you replying?
-friend,Lg und bis bald!,Take care and see you soon!
+category,who,german,english
+prompt,app,Nachrichten und Anrufe sind Ende-zu-Ende-verschlüsselt.,Messages and calls are end-to-end encrypted.
+prompt,app,___ hat dich hinzugefügt.,___ added you.
+prompt,app,___ hat die Gruppe verlassen.,___ left the group.
+prompt,app,___ schreibt …,___ is typing …
+prompt,app,Diese Nachricht wurde gelöscht.,This message was deleted.
+prompt,app,Verpasster Sprachanruf,Missed voice call
+prompt,app,"Tippe, um mehr zu erfahren.",Tap to learn more.
+friend,friend,"Schreib mal, wenn du da bist.",Text me when you're there.
+friend,friend,Hast du meine Sprachnachricht gehört?,Did you listen to my voice message?
+friend,friend,Warum antwortest du nicht?,Why aren't you replying?
+friend,friend,Lg und bis bald!,Take care and see you soon!

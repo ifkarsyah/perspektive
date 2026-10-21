@@ -1,16 +1,16 @@
-category,german,english
-greeting,Frohe Weihnachten!,Merry Christmas!
-greeting,Schöne Feiertage!,Happy holidays!
-greeting,Einen guten Rutsch!,Happy New Year! (said before New Year)
-greeting,Frohes neues Jahr!,Happy New Year! (said after New Year)
-greeting,Frohe Ostern!,Happy Easter!
-greeting,"Danke, gleichfalls!","Thanks, same to you!"
-plans,Was machst du an Weihnachten?,What are you doing for Christmas?
-plans,Ich fliege über die Feiertage nach Hause.,I'm flying home for the holidays.
-plans,Gehen wir auf den Weihnachtsmarkt?,Shall we go to the Christmas market?
-plans,"Einen Glühwein, bitte.","A mulled wine, please."
-plans,Ich möchte die Tasse zurückgeben.,I'd like to return the mug. (get deposit back)
-work,Ich möchte zwischen den Jahren Urlaub nehmen.,I'd like to take time off between Christmas and New Year.
-winter,Es ist so früh dunkel.,It gets dark so early.
-winter,Mir ist so kalt.,I'm so cold.
-winter,"Vorsicht, es ist glatt!","Careful, it's slippery!"
+category,who,german,english
+greeting,anyone,Frohe Weihnachten!,Merry Christmas!
+greeting,anyone,Schöne Feiertage!,Happy holidays!
+greeting,anyone,Einen guten Rutsch!,Happy New Year! (said before New Year)
+greeting,anyone,Frohes neues Jahr!,Happy New Year! (said after New Year)
+greeting,anyone,Frohe Ostern!,Happy Easter!
+greeting,anyone,"Danke, gleichfalls!","Thanks, same to you!"
+plans,friend,Was machst du an Weihnachten?,What are you doing for Christmas?
+plans,friend,Ich fliege über die Feiertage nach Hause.,I'm flying home for the holidays.
+plans,friend,Gehen wir auf den Weihnachtsmarkt?,Shall we go to the Christmas market?
+plans,staff,"Einen Glühwein, bitte.","A mulled wine, please."
+plans,staff,Ich möchte die Tasse zurückgeben.,I'd like to return the mug. (get deposit back)
+work,boss,Ich möchte zwischen den Jahren Urlaub nehmen.,I'd like to take time off between Christmas and New Year.
+winter,friend,Es ist so früh dunkel.,It gets dark so early.
+winter,friend,Mir ist so kalt.,I'm so cold.
+winter,friend,"Vorsicht, es ist glatt!","Careful, it's slippery!"

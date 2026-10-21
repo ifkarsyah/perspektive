@@ -1,9 +1,9 @@
-category,german,english
-prompt,Werbung überspringen,Skip ad
-prompt,Video wird nach der Werbung fortgesetzt.,Video will play after the ad.
-prompt,Abonniere den Kanal und aktiviere die Glocke!,Subscribe to the channel and hit the bell!
-prompt,Lass gern ein Like da!,Leave a like!
-prompt,Schreibt es in die Kommentare.,Write it in the comments.
-prompt,Link in der Beschreibung.,Link in the description.
-prompt,Untertitel (automatisch generiert),Subtitles (auto-generated)
-prompt,Dieses Video ist in deinem Land nicht verfügbar.,This video isn't available in your country.
+category,who,german,english
+prompt,app,Werbung überspringen,Skip ad
+prompt,app,Video wird nach der Werbung fortgesetzt.,Video will play after the ad.
+prompt,youtuber,Abonniere den Kanal und aktiviere die Glocke!,Subscribe to the channel and hit the bell!
+prompt,youtuber,Lass gern ein Like da!,Leave a like!
+prompt,youtuber,Schreibt es in die Kommentare.,Write it in the comments.
+prompt,youtuber,Link in der Beschreibung.,Link in the description.
+prompt,app,Untertitel (automatisch generiert),Subtitles (auto-generated)
+prompt,app,Dieses Video ist in deinem Land nicht verfügbar.,This video isn't available in your country.

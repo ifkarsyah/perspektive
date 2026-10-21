@@ -1,9 +1,9 @@
-category,german,english
-sleep,Gute Nacht!,Good night!
-sleep,Schlaf gut!,Sleep well!
-sleep,Hast du gut geschlafen?,Did you sleep well?
-sleep,Bist du schon wach?,Are you awake yet?
-room,"Bitte regelmäßig lüften, sonst gibt es Schimmel.","Please air the room regularly, or mould will grow."
-room,"Stoßlüften, nicht das Fenster gekippt lassen.","Open the window wide briefly, don't leave it tilted."
-room,Die Heizung wird im Oktober angestellt.,The heating is turned on in October.
-room,Der Hausmeister kommt morgen vorbei.,The caretaker is coming by tomorrow.
+category,who,german,english
+sleep,flatmate,Gute Nacht!,Good night!
+sleep,flatmate,Schlaf gut!,Sleep well!
+sleep,flatmate,Hast du gut geschlafen?,Did you sleep well?
+sleep,flatmate,Bist du schon wach?,Are you awake yet?
+room,landlord,"Bitte regelmäßig lüften, sonst gibt es Schimmel.","Please air the room regularly, or mould will grow."
+room,landlord,"Stoßlüften, nicht das Fenster gekippt lassen.","Open the window wide briefly, don't leave it tilted."
+room,property-manager,Die Heizung wird im Oktober angestellt.,The heating is turned on in October.
+room,property-manager,Der Hausmeister kommt morgen vorbei.,The caretaker is coming by tomorrow.

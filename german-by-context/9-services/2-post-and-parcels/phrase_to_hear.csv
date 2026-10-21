@@ -1,11 +1,11 @@
-category,german,english
-send,Was ist da drin?,What's inside?
-send,Das muss für den Zoll angemeldet werden.,That has to be declared for customs.
-send,Bitte füllen Sie die Zollerklärung aus.,Please fill out the customs declaration.
-send,Mit Sendungsverfolgung?,With tracking?
-send,Das passt nicht in die Packstation.,That doesn't fit in the parcel locker.
-pickup,"Ihren Ausweis, bitte.","Your ID, please."
-pickup,Das Paket liegt sieben Tage zur Abholung bereit.,The parcel is held for pickup for seven days.
-pickup,Haben Sie eine Vollmacht?,Do you have authorisation?
-pickup,Das Paket wurde beim Nachbarn abgegeben.,The parcel was left with a neighbour.
-pickup,Wir konnten Sie leider nicht antreffen.,Unfortunately we couldn't reach you. (missed delivery)
+category,who,german,english
+send,staff,Was ist da drin?,What's inside?
+send,staff,Das muss für den Zoll angemeldet werden.,That has to be declared for customs.
+send,staff,Bitte füllen Sie die Zollerklärung aus.,Please fill out the customs declaration.
+send,staff,Mit Sendungsverfolgung?,With tracking?
+send,staff,Das passt nicht in die Packstation.,That doesn't fit in the parcel locker.
+pickup,staff,"Ihren Ausweis, bitte.","Your ID, please."
+pickup,staff,Das Paket liegt sieben Tage zur Abholung bereit.,The parcel is held for pickup for seven days.
+pickup,staff,Haben Sie eine Vollmacht?,Do you have authorisation?
+pickup,notice,Das Paket wurde beim Nachbarn abgegeben.,The parcel was left with a neighbour.
+pickup,notice,Wir konnten Sie leider nicht antreffen.,Unfortunately we couldn't reach you. (missed delivery)

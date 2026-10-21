@@ -1,13 +1,13 @@
-category,german,english
-signup,Hast du schon mal trainiert?,Have you trained before?
-signup,Die Mindestlaufzeit beträgt zwölf Monate.,The minimum term is twelve months.
-signup,Die Kündigung muss schriftlich erfolgen.,Cancellation must be in writing.
-signup,Der Vertrag verlängert sich automatisch.,The contract renews automatically.
-signup,Es gibt eine einmalige Anmeldegebühr.,There's a one-time joining fee.
-rules,Bitte die Geräte nach Benutzung desinfizieren.,Please disinfect the machines after use.
-rules,Hier gilt Handtuchpflicht.,Towels are mandatory here.
-rules,Bitte die Gewichte zurücklegen.,Please put the weights back.
-rules,Draußen-Schuhe sind hier nicht erlaubt.,Outdoor shoes aren't allowed here.
-training,Ich bin gleich fertig.,I'm almost done.
-training,"Du kannst gern zwischendurch, ich hab noch zwei Sätze.","Feel free to work in, I've got two sets left."
-training,Achte auf den Rücken!,Watch your back! (form)
+category,who,german,english
+signup,staff,Hast du schon mal trainiert?,Have you trained before?
+signup,staff,Die Mindestlaufzeit beträgt zwölf Monate.,The minimum term is twelve months.
+signup,staff,Die Kündigung muss schriftlich erfolgen.,Cancellation must be in writing.
+signup,staff,Der Vertrag verlängert sich automatisch.,The contract renews automatically.
+signup,staff,Es gibt eine einmalige Anmeldegebühr.,There's a one-time joining fee.
+rules,sign,Bitte die Geräte nach Benutzung desinfizieren.,Please disinfect the machines after use.
+rules,sign,Hier gilt Handtuchpflicht.,Towels are mandatory here.
+rules,sign,Bitte die Gewichte zurücklegen.,Please put the weights back.
+rules,sign,Draußen-Schuhe sind hier nicht erlaubt.,Outdoor shoes aren't allowed here.
+training,gym-member,Ich bin gleich fertig.,I'm almost done.
+training,gym-member,"Du kannst gern zwischendurch, ich hab noch zwei Sätze.","Feel free to work in, I've got two sets left."
+training,coach,Achte auf den Rücken!,Watch your back! (form)

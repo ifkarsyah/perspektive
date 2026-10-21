@@ -1,15 +1,15 @@
-category,german,english
-contact,Ich möchte einen Termin für meine Blaue Karte.,I'd like an appointment for my Blue Card.
-contact,Mein Aufenthaltstitel läuft am ___ ab.,My residence permit expires on ___.
-contact,Ich habe noch keine Antwort auf meinen Antrag bekommen.,I haven't received a reply to my application yet.
-contact,Meine Vorgangsnummer ist ___.,My case number is ___.
-appointment,Ich habe heute um neun einen Termin.,I have an appointment at nine today.
-appointment,Hier sind alle meine Unterlagen.,Here are all my documents.
-appointment,Ich arbeite als Dateningenieur bei ___.,I work as a data engineer at ___.
-appointment,Ich habe meinen Job gewechselt. Muss ich das melden?,I changed jobs. Do I have to report that?
-appointment,Darf ich in der Zwischenzeit arbeiten?,Am I allowed to work in the meantime?
-appointment,Darf ich mit der Fiktionsbescheinigung reisen?,Can I travel with the interim permit?
-appointment,Wie lange dauert die Bearbeitung?,How long does processing take?
-appointment,Wann kann ich die Karte abholen?,When can I collect the card?
-understanding,Können Sie mir das bitte schriftlich geben?,"Could you give me that in writing, please?"
-understanding,Welche Unterlagen fehlen noch?,Which documents are still missing?
+category,who,german,english
+contact,official,Ich möchte einen Termin für meine Blaue Karte.,I'd like an appointment for my Blue Card.
+contact,official,Mein Aufenthaltstitel läuft am ___ ab.,My residence permit expires on ___.
+contact,official,Ich habe noch keine Antwort auf meinen Antrag bekommen.,I haven't received a reply to my application yet.
+contact,official,Meine Vorgangsnummer ist ___.,My case number is ___.
+appointment,official,Ich habe heute um neun einen Termin.,I have an appointment at nine today.
+appointment,official,Hier sind alle meine Unterlagen.,Here are all my documents.
+appointment,official,Ich arbeite als Dateningenieur bei ___.,I work as a data engineer at ___.
+appointment,official,Ich habe meinen Job gewechselt. Muss ich das melden?,I changed jobs. Do I have to report that?
+appointment,official,Darf ich in der Zwischenzeit arbeiten?,Am I allowed to work in the meantime?
+appointment,official,Darf ich mit der Fiktionsbescheinigung reisen?,Can I travel with the interim permit?
+appointment,official,Wie lange dauert die Bearbeitung?,How long does processing take?
+appointment,official,Wann kann ich die Karte abholen?,When can I collect the card?
+understanding,official,Können Sie mir das bitte schriftlich geben?,"Could you give me that in writing, please?"
+understanding,official,Welche Unterlagen fehlen noch?,Which documents are still missing?

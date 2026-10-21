@@ -1,16 +1,16 @@
-category,german,english
-joining,Ich fahre zum ersten Mal Ski.,It's my first time skiing.
-joining,Ich bin Anfänger.,I'm a beginner.
-joining,Gibt es einen Skikurs für Anfänger?,Is there a ski course for beginners?
-joining,Wie kommen wir ins Skigebiet?,How do we get to the ski resort?
-rental,Ich möchte Ski und Schuhe ausleihen.,I'd like to rent skis and boots.
-rental,Ich habe Schuhgröße 42.,I'm a size 42 shoe.
-rental,Die Schuhe sind zu eng.,The boots are too tight.
-rental,"Einen Skipass für einen Tag, bitte.","A one-day ski pass, please."
-slope,Welche Piste ist für Anfänger?,Which slope is for beginners?
-slope,Ich fahre lieber die blaue Piste.,I'd rather do the blue slope.
-slope,Wie komme ich wieder runter?,How do I get back down?
-slope,Wartet unten auf mich!,Wait for me at the bottom!
-slope,"Ich bin hingefallen, aber alles okay.","I fell, but I'm okay."
-slope,Mir ist kalt. Machen wir eine Pause in der Hütte?,I'm cold. Shall we take a break in the hut?
-after,Noch eine Abfahrt?,One more run?
+category,who,german,english
+joining,club-member,Ich fahre zum ersten Mal Ski.,It's my first time skiing.
+joining,club-member,Ich bin Anfänger.,I'm a beginner.
+joining,club-member,Gibt es einen Skikurs für Anfänger?,Is there a ski course for beginners?
+joining,club-member,Wie kommen wir ins Skigebiet?,How do we get to the ski resort?
+rental,staff,Ich möchte Ski und Schuhe ausleihen.,I'd like to rent skis and boots.
+rental,staff,Ich habe Schuhgröße 42.,I'm a size 42 shoe.
+rental,staff,Die Schuhe sind zu eng.,The boots are too tight.
+rental,staff,"Einen Skipass für einen Tag, bitte.","A one-day ski pass, please."
+slope,club-member,Welche Piste ist für Anfänger?,Which slope is for beginners?
+slope,club-member,Ich fahre lieber die blaue Piste.,I'd rather do the blue slope.
+slope,club-member,Wie komme ich wieder runter?,How do I get back down?
+slope,club-member,Wartet unten auf mich!,Wait for me at the bottom!
+slope,club-member,"Ich bin hingefallen, aber alles okay.","I fell, but I'm okay."
+slope,club-member,Mir ist kalt. Machen wir eine Pause in der Hütte?,I'm cold. Shall we take a break in the hut?
+after,club-member,Noch eine Abfahrt?,One more run?

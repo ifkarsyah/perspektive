@@ -1,15 +1,15 @@
-category,german,english
-prompt,„App“ möchte dir Mitteilungen senden.,"""App"" would like to send you notifications."
-prompt,Einmal erlauben,Allow once
-prompt,Beim Verwenden der App erlauben,Allow while using the app
-prompt,"App bitten, kein Tracking durchzuführen",Ask app not to track
-prompt,Neue Software verfügbar,New software available
-prompt,Heute Nacht installieren,Install tonight
-prompt,Jetzt installieren,Install now
-prompt,Akku schwach: noch 20 %,Low battery: 20% remaining
-prompt,Stromsparmodus aktivieren?,Turn on Low Power Mode?
-prompt,Speicher fast voll,Storage almost full
-prompt,Kein Netz,No service
-prompt,Gib deinen Code ein.,Enter your passcode.
-prompt,Face ID nicht erkannt,Face ID not recognised
-prompt,Zum Öffnen nach oben wischen,Swipe up to open
+category,who,german,english
+prompt,app,„App“ möchte dir Mitteilungen senden.,"""App"" would like to send you notifications."
+prompt,app,Einmal erlauben,Allow once
+prompt,app,Beim Verwenden der App erlauben,Allow while using the app
+prompt,app,"App bitten, kein Tracking durchzuführen",Ask app not to track
+prompt,app,Neue Software verfügbar,New software available
+prompt,app,Heute Nacht installieren,Install tonight
+prompt,app,Jetzt installieren,Install now
+prompt,app,Akku schwach: noch 20 %,Low battery: 20% remaining
+prompt,app,Stromsparmodus aktivieren?,Turn on Low Power Mode?
+prompt,app,Speicher fast voll,Storage almost full
+prompt,app,Kein Netz,No service
+prompt,app,Gib deinen Code ein.,Enter your passcode.
+prompt,app,Face ID nicht erkannt,Face ID not recognised
+prompt,app,Zum Öffnen nach oben wischen,Swipe up to open

@@ -1,11 +1,11 @@
-category,german,english
-neighbour,Herzlich willkommen im Haus!,Welcome to the building!
-neighbour,Ich habe ein Paket für Sie.,I have a parcel for you.
-neighbour,Könnten Sie bitte etwas leiser sein?,"Could you be a little quieter, please?"
-neighbour,Hier im Haus gilt ab 22 Uhr Nachtruhe.,Night quiet hours start at 10 pm in this building.
-neighbour,Bitte keine Schuhe im Treppenhaus abstellen.,Please don't leave shoes in the stairwell.
-neighbour,Der Müll wurde falsch getrennt.,The waste was sorted incorrectly.
-management,Bitte schicken Sie uns die Mängelanzeige per E-Mail.,Please send us the defect report by email.
-management,Der Handwerker meldet sich bei Ihnen.,The tradesperson will contact you.
-management,Am Montag wird das Wasser abgestellt.,The water will be turned off on Monday.
-management,Bitte den Aushang im Treppenhaus beachten.,Please note the notice in the stairwell.
+category,who,german,english
+neighbour,neighbour,Herzlich willkommen im Haus!,Welcome to the building!
+neighbour,neighbour,Ich habe ein Paket für Sie.,I have a parcel for you.
+neighbour,neighbour,Könnten Sie bitte etwas leiser sein?,"Could you be a little quieter, please?"
+neighbour,neighbour,Hier im Haus gilt ab 22 Uhr Nachtruhe.,Night quiet hours start at 10 pm in this building.
+neighbour,neighbour,Bitte keine Schuhe im Treppenhaus abstellen.,Please don't leave shoes in the stairwell.
+neighbour,neighbour,Der Müll wurde falsch getrennt.,The waste was sorted incorrectly.
+management,property-manager,Bitte schicken Sie uns die Mängelanzeige per E-Mail.,Please send us the defect report by email.
+management,property-manager,Der Handwerker meldet sich bei Ihnen.,The tradesperson will contact you.
+management,notice,Am Montag wird das Wasser abgestellt.,The water will be turned off on Monday.
+management,property-manager,Bitte den Aushang im Treppenhaus beachten.,Please note the notice in the stairwell.

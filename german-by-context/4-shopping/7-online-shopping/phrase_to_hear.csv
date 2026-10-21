@@ -1,11 +1,11 @@
-category,german,english
-order,Vielen Dank für Ihre Bestellung.,Thank you for your order.
-order,Ihre Bestellung wurde versandt.,Your order has been shipped.
-order,Voraussichtliche Lieferung: Donnerstag.,Expected delivery: Thursday.
-order,Der Artikel ist derzeit nicht lieferbar.,The item is currently unavailable.
-return,Sie haben 14 Tage Widerrufsrecht.,You have a 14-day right of withdrawal.
-return,Die Rücksendung ist kostenlos.,Returns are free.
-return,Bitte drucken Sie das Retourenetikett aus.,Please print the return label.
-return,Die Rückerstattung erfolgt innerhalb von fünf Werktagen.,The refund will be made within five business days.
-second-hand,"Nur Abholung, kein Versand.","Pickup only, no shipping."
-second-hand,Festpreis.,Fixed price.
+category,who,german,english
+order,email,Vielen Dank für Ihre Bestellung.,Thank you for your order.
+order,email,Ihre Bestellung wurde versandt.,Your order has been shipped.
+order,email,Voraussichtliche Lieferung: Donnerstag.,Expected delivery: Thursday.
+order,email,Der Artikel ist derzeit nicht lieferbar.,The item is currently unavailable.
+return,email,Sie haben 14 Tage Widerrufsrecht.,You have a 14-day right of withdrawal.
+return,email,Die Rücksendung ist kostenlos.,Returns are free.
+return,email,Bitte drucken Sie das Retourenetikett aus.,Please print the return label.
+return,email,Die Rückerstattung erfolgt innerhalb von fünf Werktagen.,The refund will be made within five business days.
+second-hand,seller,"Nur Abholung, kein Versand.","Pickup only, no shipping."
+second-hand,seller,Festpreis.,Fixed price.

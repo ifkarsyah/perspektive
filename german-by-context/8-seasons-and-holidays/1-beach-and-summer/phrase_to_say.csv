@@ -1,17 +1,17 @@
-category,german,english
-plans,Bei dem Wetter müssen wir an den See!,With this weather we have to go to the lake!
-plans,Wollen wir am Wochenende an den Wannsee fahren?,Shall we go to the Wannsee at the weekend?
-plans,Wer bringt den Grill mit?,Who's bringing the grill?
-plans,Ich bringe Getränke und Chips mit.,I'll bring drinks and crisps.
-lake,Ist das Wasser kalt?,Is the water cold?
-lake,Kommst du mit ins Wasser?,Are you coming into the water?
-lake,Kannst du kurz auf meine Sachen aufpassen?,Can you keep an eye on my things for a moment?
-lake,Hast du Sonnencreme dabei?,Do you have sunscreen with you?
-lake,Lass uns in den Schatten gehen.,Let's go into the shade.
-lake,Ich habe einen Sonnenbrand.,I've got sunburn.
-pool,"Einmal Erwachsener, bitte.","One adult, please."
-pool,Wo sind die Umkleiden?,Where are the changing rooms?
-pool,Brauche ich eine Münze für das Schließfach?,Do I need a coin for the locker?
-icecream,"Zwei Kugeln im Becher, bitte.","Two scoops in a cup, please."
-icecream,"Eine Kugel Schokolade in der Waffel, bitte.","One scoop of chocolate in a cone, please."
-icecream,Welche Sorten haben Sie?,Which flavours do you have?
+category,who,german,english
+plans,friend,Bei dem Wetter müssen wir an den See!,With this weather we have to go to the lake!
+plans,friend,Wollen wir am Wochenende an den Wannsee fahren?,Shall we go to the Wannsee at the weekend?
+plans,friend,Wer bringt den Grill mit?,Who's bringing the grill?
+plans,friend,Ich bringe Getränke und Chips mit.,I'll bring drinks and crisps.
+lake,friend,Ist das Wasser kalt?,Is the water cold?
+lake,friend,Kommst du mit ins Wasser?,Are you coming into the water?
+lake,stranger,Kannst du kurz auf meine Sachen aufpassen?,Can you keep an eye on my things for a moment?
+lake,friend,Hast du Sonnencreme dabei?,Do you have sunscreen with you?
+lake,friend,Lass uns in den Schatten gehen.,Let's go into the shade.
+lake,friend,Ich habe einen Sonnenbrand.,I've got sunburn.
+pool,staff,"Einmal Erwachsener, bitte.","One adult, please."
+pool,staff,Wo sind die Umkleiden?,Where are the changing rooms?
+pool,staff,Brauche ich eine Münze für das Schließfach?,Do I need a coin for the locker?
+icecream,staff,"Zwei Kugeln im Becher, bitte.","Two scoops in a cup, please."
+icecream,staff,"Eine Kugel Schokolade in der Waffel, bitte.","One scoop of chocolate in a cone, please."
+icecream,staff,Welche Sorten haben Sie?,Which flavours do you have?

@@ -1,11 +1,11 @@
-category,german,english
-ticket,"Eine Fahrkarte nach München, bitte.","A ticket to Munich, please."
-ticket,Gibt es einen Sparpreis?,Is there a saver fare?
-ticket,"Ich möchte einen Sitzplatz reservieren, am Fenster.",I'd like to reserve a window seat.
-train,Ist dieser Platz frei?,Is this seat free?
-train,"Entschuldigung, das ist mein reservierter Platz.","Excuse me, that's my reserved seat."
-train,Hält der Zug in Leipzig?,Does the train stop in Leipzig?
-train,In welchem Abschnitt hält Wagen 12?,In which section does carriage 12 stop?
-delay,Ich habe meinen Anschluss verpasst. Was kann ich tun?,I missed my connection. What can I do?
-delay,Darf ich einen anderen Zug nehmen?,Can I take another train?
-delay,Wie beantrage ich eine Entschädigung?,How do I claim compensation?
+category,who,german,english
+ticket,staff,"Eine Fahrkarte nach München, bitte.","A ticket to Munich, please."
+ticket,staff,Gibt es einen Sparpreis?,Is there a saver fare?
+ticket,staff,"Ich möchte einen Sitzplatz reservieren, am Fenster.",I'd like to reserve a window seat.
+train,passenger,Ist dieser Platz frei?,Is this seat free?
+train,passenger,"Entschuldigung, das ist mein reservierter Platz.","Excuse me, that's my reserved seat."
+train,conductor,Hält der Zug in Leipzig?,Does the train stop in Leipzig?
+train,staff,In welchem Abschnitt hält Wagen 12?,In which section does carriage 12 stop?
+delay,staff,Ich habe meinen Anschluss verpasst. Was kann ich tun?,I missed my connection. What can I do?
+delay,staff,Darf ich einen anderen Zug nehmen?,Can I take another train?
+delay,staff,Wie beantrage ich eine Entschädigung?,How do I claim compensation?

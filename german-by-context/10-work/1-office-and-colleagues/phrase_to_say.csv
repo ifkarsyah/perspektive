@@ -1,15 +1,15 @@
-category,german,english
-daily,Guten Morgen zusammen!,"Good morning, everyone!"
-daily,Mahlzeit!,Enjoy your lunch! (said around lunchtime)
-daily,Ich bin heute im Homeoffice.,I'm working from home today.
-daily,Wer kommt mit zum Mittagessen?,Who's coming to lunch?
-daily,Schönen Feierabend!,Have a nice evening! (after work)
-daily,Bis morgen!,See you tomorrow!
-work,Hast du kurz Zeit?,Do you have a minute?
-work,Kannst du mir kurz helfen?,Can you help me for a moment?
-work,Wer ist dafür zuständig?,Who's responsible for this?
-work,Ich schaue mir das an.,I'll take a look at it.
-work,Ich bin fast fertig.,I'm almost done.
-work,Bis wann brauchst du das?,By when do you need that?
-work,Ich gebe dir Bescheid.,I'll let you know.
-work,"Sorry, mein Deutsch ist noch nicht so gut. Können wir kurz auf Englisch wechseln?","Sorry, my German isn't great yet. Can we switch to English for a moment?"
+category,who,german,english
+daily,colleague,Guten Morgen zusammen!,"Good morning, everyone!"
+daily,colleague,Mahlzeit!,Enjoy your lunch! (said around lunchtime)
+daily,colleague,Ich bin heute im Homeoffice.,I'm working from home today.
+daily,colleague,Wer kommt mit zum Mittagessen?,Who's coming to lunch?
+daily,colleague,Schönen Feierabend!,Have a nice evening! (after work)
+daily,colleague,Bis morgen!,See you tomorrow!
+work,colleague,Hast du kurz Zeit?,Do you have a minute?
+work,colleague,Kannst du mir kurz helfen?,Can you help me for a moment?
+work,colleague,Wer ist dafür zuständig?,Who's responsible for this?
+work,colleague,Ich schaue mir das an.,I'll take a look at it.
+work,colleague,Ich bin fast fertig.,I'm almost done.
+work,colleague,Bis wann brauchst du das?,By when do you need that?
+work,colleague,Ich gebe dir Bescheid.,I'll let you know.
+work,colleague,"Sorry, mein Deutsch ist noch nicht so gut. Können wir kurz auf Englisch wechseln?","Sorry, my German isn't great yet. Can we switch to English for a moment?"

@@ -1,11 +1,11 @@
-category,german,english
-happy,Herzlichen Glückwunsch zur Hochzeit!,Congratulations on your wedding!
-happy,Herzlichen Glückwunsch zur Geburt!,Congratulations on the birth!
-happy,Herzlichen Glückwunsch zur Beförderung!,Congratulations on your promotion!
-happy,Alles Gute für die Zukunft!,All the best for the future!
-happy,Das freut mich sehr für dich!,I'm really happy for you!
-sad,Mein herzliches Beileid.,My sincere condolences.
-sad,Das tut mir sehr leid.,I'm very sorry.
-sad,"Wenn ich irgendwie helfen kann, sag Bescheid.","If I can help in any way, let me know."
-sad,Ich denke an dich.,I'm thinking of you.
-farewell,"Schade, dass du gehst. Du wirst uns fehlen.",Sad that you're leaving. We'll miss you.
+category,who,german,english
+happy,friend,Herzlichen Glückwunsch zur Hochzeit!,Congratulations on your wedding!
+happy,friend,Herzlichen Glückwunsch zur Geburt!,Congratulations on the birth!
+happy,friend,Herzlichen Glückwunsch zur Beförderung!,Congratulations on your promotion!
+happy,friend,Alles Gute für die Zukunft!,All the best for the future!
+happy,friend,Das freut mich sehr für dich!,I'm really happy for you!
+sad,friend,Mein herzliches Beileid.,My sincere condolences.
+sad,friend,Das tut mir sehr leid.,I'm very sorry.
+sad,friend,"Wenn ich irgendwie helfen kann, sag Bescheid.","If I can help in any way, let me know."
+sad,friend,Ich denke an dich.,I'm thinking of you.
+farewell,colleague,"Schade, dass du gehst. Du wirst uns fehlen.",Sad that you're leaving. We'll miss you.

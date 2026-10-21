@@ -1,12 +1,12 @@
-category,german,english
-intro,Wie lange lernst du schon Deutsch?,How long have you been learning German?
-intro,Du sprichst schon richtig gut!,You already speak really well!
-intro,Warum lernst du Deutsch?,Why are you learning German?
-intro,Welche Sprache sprichst du als Muttersprache?,What's your native language?
-practice,Man sagt eher ___.,People would rather say ___.
-practice,"Das ist richtig, aber klingt ein bisschen komisch.","That's correct, but sounds a bit odd."
-practice,Das sagt man nur in Süddeutschland.,They only say that in southern Germany.
-practice,Das ist umgangssprachlich.,That's colloquial.
-practice,"Kein Problem, das passiert jedem.","No problem, that happens to everyone."
-practice,"Weißt du, was ich meine?",Do you know what I mean?
-after,Wollen wir Nummern austauschen?,Shall we swap numbers?
+category,who,german,english
+intro,language-partner,Wie lange lernst du schon Deutsch?,How long have you been learning German?
+intro,language-partner,Du sprichst schon richtig gut!,You already speak really well!
+intro,language-partner,Warum lernst du Deutsch?,Why are you learning German?
+intro,language-partner,Welche Sprache sprichst du als Muttersprache?,What's your native language?
+practice,language-partner,Man sagt eher ___.,People would rather say ___.
+practice,language-partner,"Das ist richtig, aber klingt ein bisschen komisch.","That's correct, but sounds a bit odd."
+practice,language-partner,Das sagt man nur in Süddeutschland.,They only say that in southern Germany.
+practice,language-partner,Das ist umgangssprachlich.,That's colloquial.
+practice,language-partner,"Kein Problem, das passiert jedem.","No problem, that happens to everyone."
+practice,language-partner,"Weißt du, was ich meine?",Do you know what I mean?
+after,language-partner,Wollen wir Nummern austauschen?,Shall we swap numbers?

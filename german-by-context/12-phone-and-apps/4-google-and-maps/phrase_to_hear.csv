@@ -1,9 +1,9 @@
-category,german,english
-prompt,Meintest du: ___,Did you mean: ___
-prompt,Ungefähr 1.000.000 Ergebnisse,"About 1,000,000 results"
-prompt,Geschlossen · Öffnet um 9:00,Closed · Opens at 9:00
-prompt,Jetzt geöffnet · Schließt um 18:00,Open now · Closes at 18:00
-prompt,Belebter als gewöhnlich,Busier than usual
-prompt,Nach 300 Metern rechts abbiegen.,"After 300 metres, turn right."
-prompt,Sie haben Ihr Ziel erreicht.,You have arrived at your destination.
-prompt,Neu berechnen,Rerouting
+category,who,german,english
+prompt,app,Meintest du: ___,Did you mean: ___
+prompt,app,Ungefähr 1.000.000 Ergebnisse,"About 1,000,000 results"
+prompt,app,Geschlossen · Öffnet um 9:00,Closed · Opens at 9:00
+prompt,app,Jetzt geöffnet · Schließt um 18:00,Open now · Closes at 18:00
+prompt,app,Belebter als gewöhnlich,Busier than usual
+prompt,app,Nach 300 Metern rechts abbiegen.,"After 300 metres, turn right."
+prompt,app,Sie haben Ihr Ziel erreicht.,You have arrived at your destination.
+prompt,app,Neu berechnen,Rerouting

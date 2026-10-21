@@ -1,13 +1,13 @@
-category,german,english
-cooking,Was kochst du heute?,What are you cooking today?
-cooking,Darf ich deine Pfanne benutzen?,May I use your pan?
-cooking,Wo ist das Schneidebrett?,Where is the cutting board?
-cooking,Ich mache mir schnell etwas zu essen.,I'll quickly make myself something to eat.
-fridge,Welches Fach im Kühlschrank ist meins?,Which shelf in the fridge is mine?
-fridge,Wem gehört das?,Whose is this?
-cleaning,Ich räume die Spülmaschine aus.,I'll unload the dishwasher.
-cleaning,Ich wasche später ab.,I'll do the dishes later.
-waste,Wohin kommt das?,Where does this go? (which bin)
-waste,Ich bringe den Müll raus.,I'll take out the trash.
-problem,Der Herd funktioniert nicht.,The stove doesn't work.
-problem,Der Kühlschrank ist kaputt.,The fridge is broken.
+category,who,german,english
+cooking,flatmate,Was kochst du heute?,What are you cooking today?
+cooking,flatmate,Darf ich deine Pfanne benutzen?,May I use your pan?
+cooking,flatmate,Wo ist das Schneidebrett?,Where is the cutting board?
+cooking,flatmate,Ich mache mir schnell etwas zu essen.,I'll quickly make myself something to eat.
+fridge,flatmate,Welches Fach im Kühlschrank ist meins?,Which shelf in the fridge is mine?
+fridge,flatmate,Wem gehört das?,Whose is this?
+cleaning,flatmate,Ich räume die Spülmaschine aus.,I'll unload the dishwasher.
+cleaning,flatmate,Ich wasche später ab.,I'll do the dishes later.
+waste,flatmate,Wohin kommt das?,Where does this go? (which bin)
+waste,flatmate,Ich bringe den Müll raus.,I'll take out the trash.
+problem,landlord,Der Herd funktioniert nicht.,The stove doesn't work.
+problem,landlord,Der Kühlschrank ist kaputt.,The fridge is broken.

@@ -1,16 +1,16 @@
-category,german,english
-direction,Ich fahre mit der S-Bahn.,I'm taking the S-Bahn.
-direction,Wie komme ich zum Alexanderplatz?,How do I get to Alexanderplatz?
-direction,Welche Linie fährt zum Hauptbahnhof?,Which line goes to the main station?
-direction,Fährt dieser Bus zum Flughafen?,Does this bus go to the airport?
-direction,Wo muss ich umsteigen?,Where do I have to change?
-direction,Wie viele Stationen sind es noch?,How many more stops?
-direction,Ist das die richtige Richtung?,Is this the right direction?
-ticket,Welches Ticket brauche ich?,Which ticket do I need?
-ticket,Brauche ich AB oder ABC?,Do I need AB or ABC?
-ticket,Ich habe ein Deutschlandticket.,I have a Deutschlandticket.
-ticket,Gilt das Ticket auch für den Bus?,Is the ticket valid for the bus too?
-delay,Fällt der Zug aus?,Is the train cancelled?
-delay,Wie viel Verspätung hat der Zug?,How late is the train?
-delay,Ich habe den Anschluss verpasst.,I missed my connection.
-bus,"Entschuldigung, ich möchte hier aussteigen.","Excuse me, I'd like to get off here."
+category,who,german,english
+direction,stranger,Ich fahre mit der S-Bahn.,I'm taking the S-Bahn.
+direction,stranger,Wie komme ich zum Alexanderplatz?,How do I get to Alexanderplatz?
+direction,stranger,Welche Linie fährt zum Hauptbahnhof?,Which line goes to the main station?
+direction,stranger,Fährt dieser Bus zum Flughafen?,Does this bus go to the airport?
+direction,stranger,Wo muss ich umsteigen?,Where do I have to change?
+direction,stranger,Wie viele Stationen sind es noch?,How many more stops?
+direction,stranger,Ist das die richtige Richtung?,Is this the right direction?
+ticket,staff,Welches Ticket brauche ich?,Which ticket do I need?
+ticket,staff,Brauche ich AB oder ABC?,Do I need AB or ABC?
+ticket,ticket-inspector,Ich habe ein Deutschlandticket.,I have a Deutschlandticket.
+ticket,staff,Gilt das Ticket auch für den Bus?,Is the ticket valid for the bus too?
+delay,staff,Fällt der Zug aus?,Is the train cancelled?
+delay,staff,Wie viel Verspätung hat der Zug?,How late is the train?
+delay,staff,Ich habe den Anschluss verpasst.,I missed my connection.
+bus,bus-driver,"Entschuldigung, ich möchte hier aussteigen.","Excuse me, I'd like to get off here."

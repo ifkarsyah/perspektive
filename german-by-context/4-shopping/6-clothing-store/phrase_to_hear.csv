@@ -1,14 +1,14 @@
-category,german,english
-finding,Kann ich Ihnen helfen?,Can I help you?
-finding,Suchen Sie etwas Bestimmtes?,Are you looking for something specific?
-finding,Welche Größe haben Sie?,What size are you?
-finding,Die Größe haben wir leider nicht mehr.,Unfortunately we don't have that size anymore.
-finding,Ich schaue mal im Lager nach.,I'll check in the stockroom.
-trying,Die Umkleidekabinen sind da hinten.,The fitting rooms are at the back there.
-trying,Maximal fünf Teile pro Kabine.,Maximum five items per fitting room.
-trying,Passt es?,Does it fit?
-trying,Das steht Ihnen gut!,That suits you!
-checkout,Die reduzierten Preise werden an der Kasse abgezogen.,The discount is taken off at the till.
-return,Umtausch nur mit Kassenbon.,Exchange only with the receipt.
-return,Reduzierte Ware ist vom Umtausch ausgeschlossen.,Sale items can't be exchanged.
-return,Wir geben Ihnen einen Gutschein.,We'll give you a voucher.
+category,who,german,english
+finding,staff,Kann ich Ihnen helfen?,Can I help you?
+finding,staff,Suchen Sie etwas Bestimmtes?,Are you looking for something specific?
+finding,staff,Welche Größe haben Sie?,What size are you?
+finding,staff,Die Größe haben wir leider nicht mehr.,Unfortunately we don't have that size anymore.
+finding,staff,Ich schaue mal im Lager nach.,I'll check in the stockroom.
+trying,staff,Die Umkleidekabinen sind da hinten.,The fitting rooms are at the back there.
+trying,sign,Maximal fünf Teile pro Kabine.,Maximum five items per fitting room.
+trying,staff,Passt es?,Does it fit?
+trying,staff,Das steht Ihnen gut!,That suits you!
+checkout,sign,Die reduzierten Preise werden an der Kasse abgezogen.,The discount is taken off at the till.
+return,sign,Umtausch nur mit Kassenbon.,Exchange only with the receipt.
+return,sign,Reduzierte Ware ist vom Umtausch ausgeschlossen.,Sale items can't be exchanged.
+return,staff,Wir geben Ihnen einen Gutschein.,We'll give you a voucher.

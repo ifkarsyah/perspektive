@@ -1,13 +1,13 @@
-category,german,english
-power,Ich bin gerade eingezogen und möchte Strom anmelden.,I just moved in and want to set up electricity.
-power,Der Zählerstand am Einzugstag war ___.,The meter reading on move-in day was ___.
-power,Wo finde ich die Zählernummer?,Where do I find the meter number?
-power,Kann ich den Abschlag senken?,Can I lower the monthly instalment?
-power,Warum muss ich so viel nachzahlen?,Why do I have to pay so much extra?
-internet,Ich möchte einen Internetanschluss bestellen.,I'd like to order an internet connection.
-internet,Ist Glasfaser an meiner Adresse verfügbar?,Is fibre available at my address?
-internet,Wie lange dauert die Freischaltung?,How long does activation take?
-internet,Seit gestern habe ich kein Internet.,I've had no internet since yesterday.
-fee,Ich habe einen Brief vom Beitragsservice bekommen.,I got a letter from the broadcasting fee office.
-fee,Mein Mitbewohner zahlt schon den Rundfunkbeitrag.,My flatmate already pays the broadcasting fee.
-contract,Ich ziehe aus und möchte den Vertrag kündigen.,I'm moving out and want to cancel the contract.
+category,who,german,english
+power,customer-service,Ich bin gerade eingezogen und möchte Strom anmelden.,I just moved in and want to set up electricity.
+power,customer-service,Der Zählerstand am Einzugstag war ___.,The meter reading on move-in day was ___.
+power,customer-service,Wo finde ich die Zählernummer?,Where do I find the meter number?
+power,customer-service,Kann ich den Abschlag senken?,Can I lower the monthly instalment?
+power,customer-service,Warum muss ich so viel nachzahlen?,Why do I have to pay so much extra?
+internet,customer-service,Ich möchte einen Internetanschluss bestellen.,I'd like to order an internet connection.
+internet,customer-service,Ist Glasfaser an meiner Adresse verfügbar?,Is fibre available at my address?
+internet,customer-service,Wie lange dauert die Freischaltung?,How long does activation take?
+internet,customer-service,Seit gestern habe ich kein Internet.,I've had no internet since yesterday.
+fee,customer-service,Ich habe einen Brief vom Beitragsservice bekommen.,I got a letter from the broadcasting fee office.
+fee,customer-service,Mein Mitbewohner zahlt schon den Rundfunkbeitrag.,My flatmate already pays the broadcasting fee.
+contract,customer-service,Ich ziehe aus und möchte den Vertrag kündigen.,I'm moving out and want to cancel the contract.

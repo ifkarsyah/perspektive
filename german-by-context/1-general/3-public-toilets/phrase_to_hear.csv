@@ -1,11 +1,11 @@
-category,german,english
-sign,Toilette nur für Gäste.,Toilet for customers only.
-sign,Benutzung 1 Euro.,Use: 1 euro.
-sign,Außer Betrieb.,Out of order.
-sign,Bitte sauber hinterlassen.,Please leave it clean.
-sign,Bitte keine Papierhandtücher in die Toilette werfen.,Please don't throw paper towels in the toilet.
-reply,Die Toilette ist hinten links.,The toilet is at the back on the left.
-reply,Die Toiletten sind unten.,The toilets are downstairs.
-reply,"Nur für Gäste, tut mir leid.","Customers only, sorry."
-reply,Den Schlüssel bekommen Sie an der Theke.,You can get the key at the counter.
-reply,Mit dem Wertbon bekommen Sie 50 Cent Rabatt im Shop.,With the voucher you get 50 cents off in the shop.
+category,who,german,english
+sign,sign,Toilette nur für Gäste.,Toilet for customers only.
+sign,sign,Benutzung 1 Euro.,Use: 1 euro.
+sign,sign,Außer Betrieb.,Out of order.
+sign,sign,Bitte sauber hinterlassen.,Please leave it clean.
+sign,sign,Bitte keine Papierhandtücher in die Toilette werfen.,Please don't throw paper towels in the toilet.
+reply,staff,Die Toilette ist hinten links.,The toilet is at the back on the left.
+reply,staff,Die Toiletten sind unten.,The toilets are downstairs.
+reply,staff,"Nur für Gäste, tut mir leid.","Customers only, sorry."
+reply,staff,Den Schlüssel bekommen Sie an der Theke.,You can get the key at the counter.
+reply,staff,Mit dem Wertbon bekommen Sie 50 Cent Rabatt im Shop.,With the voucher you get 50 cents off in the shop.

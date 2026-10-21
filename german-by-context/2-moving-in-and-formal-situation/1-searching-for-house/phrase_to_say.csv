@@ -1,23 +1,23 @@
-category,german,english
-contact,"Guten Tag, ich interessiere mich für die Wohnung.","Hello, I'm interested in the apartment."
-contact,Ist die Wohnung noch frei?,Is the apartment still available?
-contact,Ab wann ist die Wohnung frei?,From when is the apartment available?
-contact,Kann ich die Wohnung besichtigen?,Can I view the apartment?
-contact,Wann passt es Ihnen?,When suits you?
-contact,Ich kann jederzeit nach 18 Uhr.,I can make it any time after 6 pm.
-about-me,Ich bin Dateningenieur und arbeite unbefristet bei ___.,I'm a data engineer with a permanent contract at ___.
-about-me,Ich bin ruhig und Nichtraucher.,I'm quiet and a non-smoker.
-about-me,Ich ziehe allein ein.,I'm moving in alone.
-about-me,Ich habe keine Haustiere.,I don't have any pets.
-viewing,Wie hoch ist die Warmmiete?,How much is the rent including utilities?
-viewing,Was ist in den Nebenkosten enthalten?,What's included in the utilities?
-viewing,Wie hoch ist die Kaution?,How much is the deposit?
-viewing,Ist die Küche dabei?,Is the kitchen included?
-viewing,Ist die Wohnung möbliert?,Is the apartment furnished?
-viewing,Ist der Vertrag befristet?,Is the contract fixed-term?
-viewing,Kann ich mich dort anmelden?,Can I register my address there?
-viewing,Welche Unterlagen brauchen Sie?,Which documents do you need?
-viewing,Ich schicke Ihnen meine Unterlagen heute noch.,I'll send you my documents today.
-decision,Ich würde die Wohnung gern nehmen.,I'd like to take the apartment.
-decision,Wann kann ich den Vertrag unterschreiben?,When can I sign the contract?
-decision,Wann bekomme ich die Schlüssel?,When do I get the keys?
+category,who,german,english
+contact,landlord,"Guten Tag, ich interessiere mich für die Wohnung.","Hello, I'm interested in the apartment."
+contact,landlord,Ist die Wohnung noch frei?,Is the apartment still available?
+contact,landlord,Ab wann ist die Wohnung frei?,From when is the apartment available?
+contact,landlord,Kann ich die Wohnung besichtigen?,Can I view the apartment?
+contact,landlord,Wann passt es Ihnen?,When suits you?
+contact,landlord,Ich kann jederzeit nach 18 Uhr.,I can make it any time after 6 pm.
+about-me,landlord,Ich bin Dateningenieur und arbeite unbefristet bei ___.,I'm a data engineer with a permanent contract at ___.
+about-me,landlord,Ich bin ruhig und Nichtraucher.,I'm quiet and a non-smoker.
+about-me,landlord,Ich ziehe allein ein.,I'm moving in alone.
+about-me,landlord,Ich habe keine Haustiere.,I don't have any pets.
+viewing,landlord,Wie hoch ist die Warmmiete?,How much is the rent including utilities?
+viewing,landlord,Was ist in den Nebenkosten enthalten?,What's included in the utilities?
+viewing,landlord,Wie hoch ist die Kaution?,How much is the deposit?
+viewing,landlord,Ist die Küche dabei?,Is the kitchen included?
+viewing,landlord,Ist die Wohnung möbliert?,Is the apartment furnished?
+viewing,landlord,Ist der Vertrag befristet?,Is the contract fixed-term?
+viewing,landlord,Kann ich mich dort anmelden?,Can I register my address there?
+viewing,landlord,Welche Unterlagen brauchen Sie?,Which documents do you need?
+viewing,landlord,Ich schicke Ihnen meine Unterlagen heute noch.,I'll send you my documents today.
+decision,landlord,Ich würde die Wohnung gern nehmen.,I'd like to take the apartment.
+decision,landlord,Wann kann ich den Vertrag unterschreiben?,When can I sign the contract?
+decision,landlord,Wann bekomme ich die Schlüssel?,When do I get the keys?

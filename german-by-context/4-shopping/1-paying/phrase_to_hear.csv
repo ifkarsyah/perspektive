@@ -1,12 +1,12 @@
-category,german,english
-paying,"Das macht 12,50 Euro.",That's 12.50 euros.
-paying,Bar oder mit Karte?,Cash or card?
-paying,Wir nehmen nur Bargeld.,We only take cash.
-paying,Kartenzahlung erst ab zehn Euro.,Card payment only from ten euros.
-paying,Bitte die Karte einstecken.,Please insert the card.
-paying,Bitte die PIN eingeben.,Please enter the PIN.
-paying,Sie können die Karte einfach hinhalten.,You can just tap the card.
-paying,Haben Sie es klein?,Do you have smaller change?
-paying,Brauchen Sie den Kassenbon?,Do you need the receipt?
-bill,Zusammen oder getrennt?,Together or separately?
-return,Haben Sie den Kassenbon noch?,Do you still have the receipt?
+category,who,german,english
+paying,cashier,"Das macht 12,50 Euro.",That's 12.50 euros.
+paying,cashier,Bar oder mit Karte?,Cash or card?
+paying,cashier,Wir nehmen nur Bargeld.,We only take cash.
+paying,cashier,Kartenzahlung erst ab zehn Euro.,Card payment only from ten euros.
+paying,machine,Bitte die Karte einstecken.,Please insert the card.
+paying,machine,Bitte die PIN eingeben.,Please enter the PIN.
+paying,cashier,Sie können die Karte einfach hinhalten.,You can just tap the card.
+paying,cashier,Haben Sie es klein?,Do you have smaller change?
+paying,cashier,Brauchen Sie den Kassenbon?,Do you need the receipt?
+bill,waiter,Zusammen oder getrennt?,Together or separately?
+return,staff,Haben Sie den Kassenbon noch?,Do you still have the receipt?

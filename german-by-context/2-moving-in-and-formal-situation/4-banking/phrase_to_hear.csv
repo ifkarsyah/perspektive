@@ -1,12 +1,12 @@
-category,german,english
-account,Haben Sie einen Termin mit einem Berater?,Do you have an appointment with an advisor?
-account,Wir brauchen Ihren Pass und Ihre Meldebescheinigung.,We need your passport and registration certificate.
-account,Die Kontoführung kostet fünf Euro im Monat.,The account costs five euros a month.
-account,Ab einem Geldeingang von 700 Euro ist das Konto kostenlos.,The account is free with monthly deposits from 700 euros.
-account,Bitte unterschreiben Sie hier.,Please sign here.
-card,Die Karte und die PIN kommen getrennt per Post.,The card and PIN arrive separately by mail.
-card,Bitte geben Sie Ihre PIN ein.,Please enter your PIN.
-card,Bitte bestätigen Sie in der App.,Please confirm in the app.
-money,Die Überweisung dauert ein bis zwei Werktage.,The transfer takes one to two business days.
-money,Ihr Konto ist nicht gedeckt.,Your account doesn't have enough funds.
-money,Wie lautet der Verwendungszweck?,What is the payment reference?
+category,who,german,english
+account,bank-advisor,Haben Sie einen Termin mit einem Berater?,Do you have an appointment with an advisor?
+account,bank-advisor,Wir brauchen Ihren Pass und Ihre Meldebescheinigung.,We need your passport and registration certificate.
+account,bank-advisor,Die Kontoführung kostet fünf Euro im Monat.,The account costs five euros a month.
+account,bank-advisor,Ab einem Geldeingang von 700 Euro ist das Konto kostenlos.,The account is free with monthly deposits from 700 euros.
+account,bank-advisor,Bitte unterschreiben Sie hier.,Please sign here.
+card,bank-advisor,Die Karte und die PIN kommen getrennt per Post.,The card and PIN arrive separately by mail.
+card,machine,Bitte geben Sie Ihre PIN ein.,Please enter your PIN.
+card,bank-advisor,Bitte bestätigen Sie in der App.,Please confirm in the app.
+money,bank-advisor,Die Überweisung dauert ein bis zwei Werktage.,The transfer takes one to two business days.
+money,bank-advisor,Ihr Konto ist nicht gedeckt.,Your account doesn't have enough funds.
+money,bank-advisor,Wie lautet der Verwendungszweck?,What is the payment reference?

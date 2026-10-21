@@ -1,12 +1,12 @@
-category,german,english
-delivery,Meine Bestellung ist noch nicht angekommen.,My order hasn't arrived yet.
-delivery,Laut Sendungsverfolgung wurde das Paket zugestellt.,Tracking says the parcel was delivered.
-delivery,Ich habe den falschen Artikel bekommen.,I got the wrong item.
-delivery,Das Paket ist beschädigt angekommen.,The parcel arrived damaged.
-return,Ich möchte den Artikel zurückschicken.,I'd like to send the item back.
-return,Wann bekomme ich mein Geld zurück?,When will I get my money back?
-return,Ich möchte die Bestellung stornieren.,I'd like to cancel the order.
-return,Meine Bestellnummer ist ___.,My order number is ___.
-second-hand,Ist das noch zu haben?,Is this still available?
-second-hand,Geht noch was am Preis?,Is the price negotiable?
-second-hand,Wann kann ich es abholen?,When can I pick it up?
+category,who,german,english
+delivery,customer-service,Meine Bestellung ist noch nicht angekommen.,My order hasn't arrived yet.
+delivery,customer-service,Laut Sendungsverfolgung wurde das Paket zugestellt.,Tracking says the parcel was delivered.
+delivery,customer-service,Ich habe den falschen Artikel bekommen.,I got the wrong item.
+delivery,customer-service,Das Paket ist beschädigt angekommen.,The parcel arrived damaged.
+return,customer-service,Ich möchte den Artikel zurückschicken.,I'd like to send the item back.
+return,customer-service,Wann bekomme ich mein Geld zurück?,When will I get my money back?
+return,customer-service,Ich möchte die Bestellung stornieren.,I'd like to cancel the order.
+return,customer-service,Meine Bestellnummer ist ___.,My order number is ___.
+second-hand,seller,Ist das noch zu haben?,Is this still available?
+second-hand,seller,Geht noch was am Preis?,Is the price negotiable?
+second-hand,seller,Wann kann ich es abholen?,When can I pick it up?

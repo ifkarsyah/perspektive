@@ -1,15 +1,15 @@
-category,german,english
-door,Wie viele seid ihr?,How many of you are there?
-door,Heute nicht.,Not tonight. (rejected)
-door,Seid ihr auf der Gästeliste?,Are you on the guest list?
-door,"Ausweis, bitte.","ID, please."
-door,Fotos sind hier nicht erlaubt.,Photos aren't allowed here.
-door,Wir kleben die Handykamera ab.,We'll put a sticker on your phone camera.
-door,Wer legt heute auf?,Who's playing tonight? (bouncer test question)
-door,Seid ihr zu zweit?,Are there two of you?
-door,"Taschen auf, bitte.","Open your bags, please."
-door,Viel Spaß!,Have fun!
-inside,Respektiere die Privatsphäre der anderen.,Respect other people's privacy.
-inside,"Wenn dich jemand belästigt, sag dem Awareness-Team Bescheid.","If someone harasses you, tell the awareness team."
-inside,Garderobe kostet zwei Euro.,The cloakroom costs two euros.
-inside,Kein Wasser? Hier gibt es Leitungswasser umsonst.,No water? There's free tap water here.
+category,who,german,english
+door,bouncer,Wie viele seid ihr?,How many of you are there?
+door,bouncer,Heute nicht.,Not tonight. (rejected)
+door,bouncer,Seid ihr auf der Gästeliste?,Are you on the guest list?
+door,bouncer,"Ausweis, bitte.","ID, please."
+door,bouncer,Fotos sind hier nicht erlaubt.,Photos aren't allowed here.
+door,bouncer,Wir kleben die Handykamera ab.,We'll put a sticker on your phone camera.
+door,bouncer,Wer legt heute auf?,Who's playing tonight? (bouncer test question)
+door,bouncer,Seid ihr zu zweit?,Are there two of you?
+door,bouncer,"Taschen auf, bitte.","Open your bags, please."
+door,bouncer,Viel Spaß!,Have fun!
+inside,sign,Respektiere die Privatsphäre der anderen.,Respect other people's privacy.
+inside,sign,"Wenn dich jemand belästigt, sag dem Awareness-Team Bescheid.","If someone harasses you, tell the awareness team."
+inside,staff,Garderobe kostet zwei Euro.,The cloakroom costs two euros.
+inside,staff,Kein Wasser? Hier gibt es Leitungswasser umsonst.,No water? There's free tap water here.

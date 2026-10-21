@@ -1,9 +1,9 @@
-category,german,english
-prompt,Bitte geben Sie die Zahlung in der App frei.,Please approve the payment in the app.
-prompt,Neue Anmeldung auf einem unbekannten Gerät.,New sign-in on an unknown device.
-prompt,Zahlung erfolgreich.,Payment successful.
-prompt,"Sie haben 20,00 € erhalten.",You've received €20.00.
-prompt,Ihre Karte wurde vorübergehend gesperrt.,Your card has been temporarily blocked.
-prompt,Wir werden Sie niemals nach Ihrer PIN fragen.,We will never ask you for your PIN.
-prompt,Kein Käuferschutz bei Zahlungen an Freunde und Familie.,No buyer protection for Friends and Family payments.
-friend,Hast du mir das Geld schon geschickt?,Have you sent me the money yet?
+category,who,german,english
+prompt,app,Bitte geben Sie die Zahlung in der App frei.,Please approve the payment in the app.
+prompt,app,Neue Anmeldung auf einem unbekannten Gerät.,New sign-in on an unknown device.
+prompt,app,Zahlung erfolgreich.,Payment successful.
+prompt,app,"Sie haben 20,00 € erhalten.",You've received €20.00.
+prompt,app,Ihre Karte wurde vorübergehend gesperrt.,Your card has been temporarily blocked.
+prompt,app,Wir werden Sie niemals nach Ihrer PIN fragen.,We will never ask you for your PIN.
+prompt,app,Kein Käuferschutz bei Zahlungen an Freunde und Familie.,No buyer protection for Friends and Family payments.
+friend,friend,Hast du mir das Geld schon geschickt?,Have you sent me the money yet?

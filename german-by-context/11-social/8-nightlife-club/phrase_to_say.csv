@@ -1,17 +1,17 @@
-category,german,english
-club,Wie viel kostet der Eintritt?,How much is the entry?
-club,Wir sind zu zweit.,There are two of us.
-club,Wo ist die Garderobe?,Where's the cloakroom?
-plans,Gehen wir heute feiern?,Shall we go out partying tonight?
-plans,Wer legt heute auf?,Who's DJing tonight?
-plans,Wie lang ist die Schlange?,How long is the queue?
-door,Wir sind nur zu zweit.,There are only two of us.
-door,Ich war schon mal hier.,I've been here before.
-inside,Wo ist die Bar?,Where's the bar?
-inside,"Ein Wasser, bitte.","A water, please."
-inside,Ich brauche kurz eine Pause.,I need a short break.
-safety,Jemand belästigt mich.,Someone is harassing me.
-safety,Wo ist das Awareness-Team?,Where's the awareness team?
-safety,Meinem Freund geht es nicht gut.,My friend isn't feeling well.
-end,Ich habe meinen Garderobenzettel verloren.,I lost my cloakroom ticket.
-end,Ich fahre mit der U-Bahn nach Hause.,I'm taking the U-Bahn home.
+category,who,german,english
+club,bouncer,Wie viel kostet der Eintritt?,How much is the entry?
+club,bouncer,Wir sind zu zweit.,There are two of us.
+club,staff,Wo ist die Garderobe?,Where's the cloakroom?
+plans,friend,Gehen wir heute feiern?,Shall we go out partying tonight?
+plans,friend,Wer legt heute auf?,Who's DJing tonight?
+plans,friend,Wie lang ist die Schlange?,How long is the queue?
+door,bouncer,Wir sind nur zu zweit.,There are only two of us.
+door,bouncer,Ich war schon mal hier.,I've been here before.
+inside,staff,Wo ist die Bar?,Where's the bar?
+inside,bartender,"Ein Wasser, bitte.","A water, please."
+inside,friend,Ich brauche kurz eine Pause.,I need a short break.
+safety,staff,Jemand belästigt mich.,Someone is harassing me.
+safety,staff,Wo ist das Awareness-Team?,Where's the awareness team?
+safety,staff,Meinem Freund geht es nicht gut.,My friend isn't feeling well.
+end,staff,Ich habe meinen Garderobenzettel verloren.,I lost my cloakroom ticket.
+end,friend,Ich fahre mit der U-Bahn nach Hause.,I'm taking the U-Bahn home.

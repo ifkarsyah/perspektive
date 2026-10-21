@@ -1,8 +1,8 @@
-category,german,english
-use,Das Bad ist besetzt.,The bathroom is occupied.
-use,Ich bin gleich fertig.,I'm almost done.
-rules,Bitte nach dem Duschen lüften.,Please air the room after showering.
-rules,Bitte das Bad sauber hinterlassen.,Please leave the bathroom clean.
-rules,Nach 22 Uhr bitte nicht mehr waschen.,Please don't run the washing machine after 10 pm.
-rules,Der Putzplan hängt in der Küche.,The cleaning schedule is in the kitchen.
-problem,Ich rufe einen Klempner.,I'll call a plumber.
+category,who,german,english
+use,flatmate,Das Bad ist besetzt.,The bathroom is occupied.
+use,flatmate,Ich bin gleich fertig.,I'm almost done.
+rules,flatmate,Bitte nach dem Duschen lüften.,Please air the room after showering.
+rules,flatmate,Bitte das Bad sauber hinterlassen.,Please leave the bathroom clean.
+rules,flatmate,Nach 22 Uhr bitte nicht mehr waschen.,Please don't run the washing machine after 10 pm.
+rules,flatmate,Der Putzplan hängt in der Küche.,The cleaning schedule is in the kitchen.
+problem,landlord,Ich rufe einen Klempner.,I'll call a plumber.

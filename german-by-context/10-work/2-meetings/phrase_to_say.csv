@@ -1,15 +1,15 @@
-category,german,english
-online,Hört ihr mich?,Can you hear me?
-online,"Sorry, ich war stumm geschaltet.","Sorry, I was muted."
-online,Kannst du deinen Bildschirm teilen?,Can you share your screen?
-online,Du bist gerade eingefroren.,You froze just now.
-status,"Gestern habe ich an ___ gearbeitet, heute mache ich ___.","Yesterday I worked on ___, today I'm doing ___."
-status,"Ich bin gerade blockiert, weil ___.",I'm blocked right now because ___.
-opinion,Ich habe eine Frage dazu.,I have a question about that.
-opinion,Da stimme ich zu.,I agree with that.
-opinion,Ich sehe das etwas anders.,I see that a bit differently.
-opinion,"Ich schlage vor, dass wir ___.",I suggest that we ___.
-opinion,Können wir das offline klären?,Can we sort that out separately?
-opinion,"Habe ich das richtig verstanden, dass ___?",Did I understand correctly that ___?
-closing,Kannst du die nächsten Schritte kurz zusammenfassen?,Can you briefly summarise the next steps?
-closing,Ich muss leider früher los.,"Sorry, I have to leave early."
+category,who,german,english
+online,colleague,Hört ihr mich?,Can you hear me?
+online,colleague,"Sorry, ich war stumm geschaltet.","Sorry, I was muted."
+online,colleague,Kannst du deinen Bildschirm teilen?,Can you share your screen?
+online,colleague,Du bist gerade eingefroren.,You froze just now.
+status,colleague,"Gestern habe ich an ___ gearbeitet, heute mache ich ___.","Yesterday I worked on ___, today I'm doing ___."
+status,colleague,"Ich bin gerade blockiert, weil ___.",I'm blocked right now because ___.
+opinion,colleague,Ich habe eine Frage dazu.,I have a question about that.
+opinion,colleague,Da stimme ich zu.,I agree with that.
+opinion,colleague,Ich sehe das etwas anders.,I see that a bit differently.
+opinion,colleague,"Ich schlage vor, dass wir ___.",I suggest that we ___.
+opinion,colleague,Können wir das offline klären?,Can we sort that out separately?
+opinion,colleague,"Habe ich das richtig verstanden, dass ___?",Did I understand correctly that ___?
+closing,colleague,Kannst du die nächsten Schritte kurz zusammenfassen?,Can you briefly summarise the next steps?
+closing,colleague,Ich muss leider früher los.,"Sorry, I have to leave early."

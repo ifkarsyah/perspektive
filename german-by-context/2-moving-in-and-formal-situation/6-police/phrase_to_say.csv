@@ -1,19 +1,19 @@
-category,german,english
-emergency,Hilfe! Rufen Sie die Polizei!,Help! Call the police!
-emergency,Ich möchte einen Notfall melden.,I'd like to report an emergency.
-emergency,Es gab einen Unfall.,There was an accident.
-emergency,Jemand ist verletzt.,Someone is injured.
-report,Ich möchte einen Diebstahl anzeigen.,I'd like to report a theft.
-report,Mein Handy wurde gestohlen.,My phone was stolen.
-report,Mein Fahrrad wurde gestohlen.,My bike was stolen.
-report,Jemand ist in meine Wohnung eingebrochen.,Someone broke into my apartment.
-report,Es ist vor einer Stunde in der U-Bahn passiert.,It happened an hour ago on the subway.
-report,Ich habe den Täter nicht gesehen.,I didn't see the offender.
-report,"Er war ungefähr 1,80 groß und trug eine schwarze Jacke.",He was about 1.80 m tall and wore a black jacket.
-report,Ich brauche eine Bestätigung für meine Versicherung.,I need a confirmation for my insurance.
-report,Ich brauche einen Dolmetscher.,I need an interpreter.
-lost,Ich habe meine Brieftasche verloren.,I lost my wallet.
-lost,Ich habe meinen Pass verloren.,I lost my passport.
-lost,Wo ist das Fundbüro?,Where is the lost and found?
-lost,Wurde ein schwarzer Rucksack abgegeben?,Was a black backpack handed in?
-fine,Das wusste ich nicht. Es tut mir leid.,I didn't know that. I'm sorry.
+category,who,german,english
+emergency,stranger,Hilfe! Rufen Sie die Polizei!,Help! Call the police!
+emergency,emergency-operator,Ich möchte einen Notfall melden.,I'd like to report an emergency.
+emergency,emergency-operator,Es gab einen Unfall.,There was an accident.
+emergency,emergency-operator,Jemand ist verletzt.,Someone is injured.
+report,police,Ich möchte einen Diebstahl anzeigen.,I'd like to report a theft.
+report,police,Mein Handy wurde gestohlen.,My phone was stolen.
+report,police,Mein Fahrrad wurde gestohlen.,My bike was stolen.
+report,police,Jemand ist in meine Wohnung eingebrochen.,Someone broke into my apartment.
+report,police,Es ist vor einer Stunde in der U-Bahn passiert.,It happened an hour ago on the subway.
+report,police,Ich habe den Täter nicht gesehen.,I didn't see the offender.
+report,police,"Er war ungefähr 1,80 groß und trug eine schwarze Jacke.",He was about 1.80 m tall and wore a black jacket.
+report,police,Ich brauche eine Bestätigung für meine Versicherung.,I need a confirmation for my insurance.
+report,police,Ich brauche einen Dolmetscher.,I need an interpreter.
+lost,police,Ich habe meine Brieftasche verloren.,I lost my wallet.
+lost,police,Ich habe meinen Pass verloren.,I lost my passport.
+lost,stranger,Wo ist das Fundbüro?,Where is the lost and found?
+lost,staff,Wurde ein schwarzer Rucksack abgegeben?,Was a black backpack handed in?
+fine,ticket-inspector,Das wusste ich nicht. Es tut mir leid.,I didn't know that. I'm sorry.

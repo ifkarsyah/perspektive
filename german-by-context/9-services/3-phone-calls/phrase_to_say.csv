@@ -1,15 +1,15 @@
-category,german,english
-opening,"Guten Tag, mein Name ist ___.","Hello, my name is ___."
-opening,Ich rufe wegen ___ an.,I'm calling about ___.
-opening,Ich habe eine Frage zu meiner Rechnung.,I have a question about my bill.
-opening,Meine Kundennummer ist ___.,My customer number is ___.
-opening,Spreche ich mit Frau ___?,Am I speaking with Ms ___?
-opening,Können Sie mich bitte mit ___ verbinden?,"Could you put me through to ___, please?"
-problem,"Entschuldigung, die Verbindung ist schlecht.","Sorry, the connection is bad."
-problem,Können Sie bitte etwas langsamer sprechen?,"Could you speak a bit more slowly, please?"
-problem,Können Sie das bitte wiederholen?,"Could you repeat that, please?"
-problem,"Ich buchstabiere: I wie Ingelheim, F wie Frankfurt, K wie Köln.","I'll spell it: I as in Ingelheim, F as in Frankfurt, K as in Köln."
-problem,Können Sie mir das bitte per E-Mail schicken?,"Could you send me that by email, please?"
-closing,Können Sie mich bitte zurückrufen?,"Could you call me back, please?"
-closing,Ich bin unter dieser Nummer erreichbar.,You can reach me at this number.
-closing,Vielen Dank für Ihre Hilfe. Auf Wiederhören!,Thanks for your help. Goodbye! (on the phone)
+category,who,german,english
+opening,customer-service,"Guten Tag, mein Name ist ___.","Hello, my name is ___."
+opening,customer-service,Ich rufe wegen ___ an.,I'm calling about ___.
+opening,customer-service,Ich habe eine Frage zu meiner Rechnung.,I have a question about my bill.
+opening,customer-service,Meine Kundennummer ist ___.,My customer number is ___.
+opening,customer-service,Spreche ich mit Frau ___?,Am I speaking with Ms ___?
+opening,customer-service,Können Sie mich bitte mit ___ verbinden?,"Could you put me through to ___, please?"
+problem,customer-service,"Entschuldigung, die Verbindung ist schlecht.","Sorry, the connection is bad."
+problem,customer-service,Können Sie bitte etwas langsamer sprechen?,"Could you speak a bit more slowly, please?"
+problem,customer-service,Können Sie das bitte wiederholen?,"Could you repeat that, please?"
+problem,customer-service,"Ich buchstabiere: I wie Ingelheim, F wie Frankfurt, K wie Köln.","I'll spell it: I as in Ingelheim, F as in Frankfurt, K as in Köln."
+problem,customer-service,Können Sie mir das bitte per E-Mail schicken?,"Could you send me that by email, please?"
+closing,customer-service,Können Sie mich bitte zurückrufen?,"Could you call me back, please?"
+closing,customer-service,Ich bin unter dieser Nummer erreichbar.,You can reach me at this number.
+closing,customer-service,Vielen Dank für Ihre Hilfe. Auf Wiederhören!,Thanks for your help. Goodbye! (on the phone)

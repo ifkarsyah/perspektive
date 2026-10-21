@@ -1,19 +1,19 @@
-category,german,english
-pick,Wer nimmt Tank?,Who's taking tank?
-pick,Ich spiele Jungle.,I'm playing jungle.
-pick,Ich gehe Gold Lane.,I'm going gold lane.
-pick,Bannt bitte ___.,Please ban ___.
-game,"Achtung, Gegner kommen!","Careful, enemies coming!"
-game,Mid fehlt!,Mid is missing!
-game,Hilfe! Ich werde gegankt!,Help! I'm getting ganked!
-game,Rückzug!,Retreat!
-game,Wartet auf mich!,Wait for me!
-game,Meine Ulti ist noch nicht bereit.,My ultimate isn't ready yet.
-game,Lass uns den Lord holen.,Let's take the Lord.
-game,Lass uns zusammen pushen.,Let's push together.
-game,Nicht alleine reingehen!,Don't go in alone!
-game,Ich habe Lag.,I'm lagging.
-game,Ich bin gleich wieder da.,I'll be right back.
-after,"GG, gut gespielt!","GG, well played!"
-after,Noch eine Runde?,One more game?
-after,Schick mir eine Freundschaftsanfrage.,Send me a friend request.
+category,who,german,english
+pick,teammate,Wer nimmt Tank?,Who's taking tank?
+pick,teammate,Ich spiele Jungle.,I'm playing jungle.
+pick,teammate,Ich gehe Gold Lane.,I'm going gold lane.
+pick,teammate,Bannt bitte ___.,Please ban ___.
+game,teammate,"Achtung, Gegner kommen!","Careful, enemies coming!"
+game,teammate,Mid fehlt!,Mid is missing!
+game,teammate,Hilfe! Ich werde gegankt!,Help! I'm getting ganked!
+game,teammate,Rückzug!,Retreat!
+game,teammate,Wartet auf mich!,Wait for me!
+game,teammate,Meine Ulti ist noch nicht bereit.,My ultimate isn't ready yet.
+game,teammate,Lass uns den Lord holen.,Let's take the Lord.
+game,teammate,Lass uns zusammen pushen.,Let's push together.
+game,teammate,Nicht alleine reingehen!,Don't go in alone!
+game,teammate,Ich habe Lag.,I'm lagging.
+game,teammate,Ich bin gleich wieder da.,I'll be right back.
+after,teammate,"GG, gut gespielt!","GG, well played!"
+after,teammate,Noch eine Runde?,One more game?
+after,teammate,Schick mir eine Freundschaftsanfrage.,Send me a friend request.

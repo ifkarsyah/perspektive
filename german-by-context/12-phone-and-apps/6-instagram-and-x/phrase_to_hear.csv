@@ -1,9 +1,9 @@
-category,german,english
-prompt,"___ hat angefangen, dir zu folgen.",___ started following you.
-prompt,___ gefällt dein Beitrag.,___ liked your post.
-prompt,___ hat dich in einem Beitrag markiert.,___ tagged you in a post.
-prompt,Dieses Konto ist privat.,This account is private.
-prompt,"Folge diesem Konto, um die Fotos und Videos zu sehen.",Follow this account to see their photos and videos.
-prompt,Gesponsert,Sponsored
-prompt,Mehr anzeigen,Show more
-prompt,Leser haben Kontext hinzugefügt.,Readers added context. (X community note)
+category,who,german,english
+prompt,app,"___ hat angefangen, dir zu folgen.",___ started following you.
+prompt,app,___ gefällt dein Beitrag.,___ liked your post.
+prompt,app,___ hat dich in einem Beitrag markiert.,___ tagged you in a post.
+prompt,app,Dieses Konto ist privat.,This account is private.
+prompt,app,"Folge diesem Konto, um die Fotos und Videos zu sehen.",Follow this account to see their photos and videos.
+prompt,app,Gesponsert,Sponsored
+prompt,app,Mehr anzeigen,Show more
+prompt,app,Leser haben Kontext hinzugefügt.,Readers added context. (X community note)

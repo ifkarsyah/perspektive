@@ -1,13 +1,13 @@
-category,german,english
-joining,Willkommen! Wie heißt du?,Welcome! What's your name?
-joining,Fährst du schon lange?,Have you been cycling for long?
-joining,Was für ein Rad hast du?,What kind of bike do you have?
-joining,Wir fahren so 25 im Schnitt.,We ride about 25 km/h on average.
-joining,Ohne Helm darfst du nicht mitfahren.,You can't ride with us without a helmet.
-ride,Wir fahren in Zweierreihe.,We ride two abreast.
-ride,Loch!,Pothole!
-ride,Auto!,Car! (warning)
-ride,Wir warten oben auf dich.,We'll wait for you at the top.
-ride,Alles okay bei dir?,Everything okay with you?
-after,Gut gefahren!,Well ridden!
-after,Wir gehen noch einen Kaffee trinken. Kommst du mit?,We're going for a coffee. Are you coming?
+category,who,german,english
+joining,club-member,Willkommen! Wie heißt du?,Welcome! What's your name?
+joining,club-member,Fährst du schon lange?,Have you been cycling for long?
+joining,club-member,Was für ein Rad hast du?,What kind of bike do you have?
+joining,club-member,Wir fahren so 25 im Schnitt.,We ride about 25 km/h on average.
+joining,club-member,Ohne Helm darfst du nicht mitfahren.,You can't ride with us without a helmet.
+ride,club-member,Wir fahren in Zweierreihe.,We ride two abreast.
+ride,club-member,Loch!,Pothole!
+ride,club-member,Auto!,Car! (warning)
+ride,club-member,Wir warten oben auf dich.,We'll wait for you at the top.
+ride,club-member,Alles okay bei dir?,Everything okay with you?
+after,club-member,Gut gefahren!,Well ridden!
+after,club-member,Wir gehen noch einen Kaffee trinken. Kommst du mit?,We're going for a coffee. Are you coming?

@@ -1,19 +1,19 @@
-category,german,english
-emergency,Polizei-Notruf. Was ist passiert?,Police emergency. What happened?
-emergency,Wo genau sind Sie?,Where exactly are you?
-emergency,Ist jemand verletzt?,Is anyone injured?
-emergency,"Bleiben Sie, wo Sie sind.",Stay where you are.
-report,Wann ist das passiert?,When did it happen?
-report,Wo ist das passiert?,Where did it happen?
-report,Können Sie die Person beschreiben?,Can you describe the person?
-report,Was wurde gestohlen?,What was stolen?
-report,Wie viel ist das Fahrrad wert?,How much is the bike worth?
-report,Haben Sie die Rahmennummer?,Do you have the frame number?
-report,Gibt es Zeugen?,Are there any witnesses?
-report,Ihren Ausweis bitte.,"Your ID, please."
-report,Hier ist Ihr Aktenzeichen.,Here is your case number.
-report,Sie können die Anzeige auch online machen.,You can also file the report online.
-lost,Bitte sperren Sie Ihre Karten sofort.,Please block your cards immediately.
-lost,"Wir melden uns, wenn wir etwas finden.",We'll contact you if we find something.
-fine,Sie sind ohne gültigen Fahrschein gefahren.,You travelled without a valid ticket.
-fine,Das kostet 60 Euro.,That costs 60 euros.
+category,who,german,english
+emergency,emergency-operator,Polizei-Notruf. Was ist passiert?,Police emergency. What happened?
+emergency,emergency-operator,Wo genau sind Sie?,Where exactly are you?
+emergency,emergency-operator,Ist jemand verletzt?,Is anyone injured?
+emergency,emergency-operator,"Bleiben Sie, wo Sie sind.",Stay where you are.
+report,police,Wann ist das passiert?,When did it happen?
+report,police,Wo ist das passiert?,Where did it happen?
+report,police,Können Sie die Person beschreiben?,Can you describe the person?
+report,police,Was wurde gestohlen?,What was stolen?
+report,police,Wie viel ist das Fahrrad wert?,How much is the bike worth?
+report,police,Haben Sie die Rahmennummer?,Do you have the frame number?
+report,police,Gibt es Zeugen?,Are there any witnesses?
+report,police,Ihren Ausweis bitte.,"Your ID, please."
+report,police,Hier ist Ihr Aktenzeichen.,Here is your case number.
+report,police,Sie können die Anzeige auch online machen.,You can also file the report online.
+lost,police,Bitte sperren Sie Ihre Karten sofort.,Please block your cards immediately.
+lost,police,"Wir melden uns, wenn wir etwas finden.",We'll contact you if we find something.
+fine,ticket-inspector,Sie sind ohne gültigen Fahrschein gefahren.,You travelled without a valid ticket.
+fine,ticket-inspector,Das kostet 60 Euro.,That costs 60 euros.

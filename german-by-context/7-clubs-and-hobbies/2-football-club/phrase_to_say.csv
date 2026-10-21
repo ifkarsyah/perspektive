@@ -1,14 +1,14 @@
-category,german,english
-joining,Sucht ihr noch Spieler?,Are you still looking for players?
-joining,Kann ich mal beim Training mitmachen?,Can I join a training session?
-joining,Wann und wo ist das Training?,When and where is training?
-joining,Ich spiele am liebsten im Mittelfeld.,I prefer to play in midfield.
-joining,Kunstrasen oder Rasen? Welche Schuhe brauche ich?,Artificial or grass? Which boots do I need?
-pitch,Hier! Ich bin frei!,Here! I'm free!
-pitch,Spiel ab!,Pass it!
-pitch,Hintermann!,Man on! (behind you)
-pitch,Zeit!,You've got time!
-pitch,Schieß!,Shoot!
-pitch,Mein Ball!,My ball!
-pitch,"Sorry, mein Fehler.","Sorry, my fault."
-pitch,Gut gespielt!,Well played!
+category,who,german,english
+joining,teammate,Sucht ihr noch Spieler?,Are you still looking for players?
+joining,teammate,Kann ich mal beim Training mitmachen?,Can I join a training session?
+joining,teammate,Wann und wo ist das Training?,When and where is training?
+joining,teammate,Ich spiele am liebsten im Mittelfeld.,I prefer to play in midfield.
+joining,teammate,Kunstrasen oder Rasen? Welche Schuhe brauche ich?,Artificial or grass? Which boots do I need?
+pitch,teammate,Hier! Ich bin frei!,Here! I'm free!
+pitch,teammate,Spiel ab!,Pass it!
+pitch,teammate,Hintermann!,Man on! (behind you)
+pitch,teammate,Zeit!,You've got time!
+pitch,teammate,Schieß!,Shoot!
+pitch,teammate,Mein Ball!,My ball!
+pitch,teammate,"Sorry, mein Fehler.","Sorry, my fault."
+pitch,teammate,Gut gespielt!,Well played!

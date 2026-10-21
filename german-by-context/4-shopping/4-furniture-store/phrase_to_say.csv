@@ -1,14 +1,14 @@
-category,german,english
-finding,"Ich suche ein Bett, 140 mal 200.","I'm looking for a bed, 140 by 200."
-finding,Haben Sie das auch in Weiß?,Do you have this in white too?
-finding,Wie breit ist das Sofa?,How wide is the sofa?
-finding,Ist das vorrätig?,Is this in stock?
-finding,Wo finde ich diesen Artikel im Lager?,Where do I find this item in the warehouse?
-delivery,Liefern Sie auch?,Do you deliver too?
-delivery,Was kostet die Lieferung?,How much does delivery cost?
-delivery,Ich wohne im vierten Stock ohne Aufzug.,I live on the fourth floor without an elevator.
-delivery,Können Sie das auch aufbauen?,Can you assemble it too?
-delivery,Können Sie die alte Matratze mitnehmen?,Can you take the old mattress away?
-problem,Es fehlt eine Schraube.,A screw is missing.
-problem,Der Schrank ist beschädigt angekommen.,The wardrobe arrived damaged.
-return,Ich möchte das zurückgeben.,I'd like to return this.
+category,who,german,english
+finding,staff,"Ich suche ein Bett, 140 mal 200.","I'm looking for a bed, 140 by 200."
+finding,staff,Haben Sie das auch in Weiß?,Do you have this in white too?
+finding,staff,Wie breit ist das Sofa?,How wide is the sofa?
+finding,staff,Ist das vorrätig?,Is this in stock?
+finding,staff,Wo finde ich diesen Artikel im Lager?,Where do I find this item in the warehouse?
+delivery,staff,Liefern Sie auch?,Do you deliver too?
+delivery,staff,Was kostet die Lieferung?,How much does delivery cost?
+delivery,staff,Ich wohne im vierten Stock ohne Aufzug.,I live on the fourth floor without an elevator.
+delivery,staff,Können Sie das auch aufbauen?,Can you assemble it too?
+delivery,staff,Können Sie die alte Matratze mitnehmen?,Can you take the old mattress away?
+problem,staff,Es fehlt eine Schraube.,A screw is missing.
+problem,staff,Der Schrank ist beschädigt angekommen.,The wardrobe arrived damaged.
+return,staff,Ich möchte das zurückgeben.,I'd like to return this.

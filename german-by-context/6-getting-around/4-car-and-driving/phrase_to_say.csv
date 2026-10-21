@@ -1,12 +1,12 @@
-category,german,english
-licence,Ich möchte meinen indonesischen Führerschein umschreiben.,I'd like to convert my Indonesian licence.
-licence,Wie lange ist mein ausländischer Führerschein gültig?,How long is my foreign licence valid?
-licence,Muss ich die Prüfung noch einmal machen?,Do I have to take the test again?
-licence,Gibt es Fahrstunden auf Englisch?,Are there driving lessons in English?
-rent,Ich möchte ein Auto für das Wochenende mieten.,I'd like to rent a car for the weekend.
-rent,Ist die Versicherung inklusive?,Is insurance included?
-rent,Muss ich vollgetankt zurückgeben?,Do I have to return it with a full tank?
-park,Kann ich hier parken?,Can I park here?
-park,Wo ist das nächste Parkhaus?,Where is the nearest parking garage?
-problem,Ich hatte einen kleinen Unfall.,I had a small accident.
-problem,Das Auto springt nicht an.,The car won't start.
+category,who,german,english
+licence,official,Ich möchte meinen indonesischen Führerschein umschreiben.,I'd like to convert my Indonesian licence.
+licence,official,Wie lange ist mein ausländischer Führerschein gültig?,How long is my foreign licence valid?
+licence,official,Muss ich die Prüfung noch einmal machen?,Do I have to take the test again?
+licence,official,Gibt es Fahrstunden auf Englisch?,Are there driving lessons in English?
+rent,staff,Ich möchte ein Auto für das Wochenende mieten.,I'd like to rent a car for the weekend.
+rent,staff,Ist die Versicherung inklusive?,Is insurance included?
+rent,staff,Muss ich vollgetankt zurückgeben?,Do I have to return it with a full tank?
+park,stranger,Kann ich hier parken?,Can I park here?
+park,stranger,Wo ist das nächste Parkhaus?,Where is the nearest parking garage?
+problem,police,Ich hatte einen kleinen Unfall.,I had a small accident.
+problem,mechanic,Das Auto springt nicht an.,The car won't start.

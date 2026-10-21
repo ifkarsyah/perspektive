@@ -1,14 +1,14 @@
-category,german,english
-opening,"Firma ___, mein Name ist ___. Was kann ich für Sie tun?","Company ___, my name is ___. How can I help you?"
-opening,Herzlich willkommen beim Kundenservice.,Welcome to customer service.
-opening,Für Fragen zu Ihrer Rechnung drücken Sie die Eins.,"For questions about your bill, press one."
-opening,Bitte bleiben Sie dran.,Please stay on the line.
-opening,Alle Mitarbeiter sind im Gespräch.,All agents are busy.
-opening,Ihre voraussichtliche Wartezeit beträgt fünf Minuten.,Your estimated waiting time is five minutes.
-talk,Wie war Ihr Name noch mal?,What was your name again?
-talk,Können Sie das bitte buchstabieren?,"Could you spell that, please?"
-talk,Ich verbinde Sie.,I'll put you through.
-talk,Frau ___ ist gerade nicht am Platz.,Ms ___ isn't at her desk right now.
-talk,Möchten Sie eine Nachricht hinterlassen?,Would you like to leave a message?
-talk,Unter welcher Nummer kann ich Sie erreichen?,At which number can I reach you?
-closing,Auf Wiederhören!,Goodbye! (on the phone)
+category,who,german,english
+opening,customer-service,"Firma ___, mein Name ist ___. Was kann ich für Sie tun?","Company ___, my name is ___. How can I help you?"
+opening,phone-menu,Herzlich willkommen beim Kundenservice.,Welcome to customer service.
+opening,phone-menu,Für Fragen zu Ihrer Rechnung drücken Sie die Eins.,"For questions about your bill, press one."
+opening,phone-menu,Bitte bleiben Sie dran.,Please stay on the line.
+opening,phone-menu,Alle Mitarbeiter sind im Gespräch.,All agents are busy.
+opening,phone-menu,Ihre voraussichtliche Wartezeit beträgt fünf Minuten.,Your estimated waiting time is five minutes.
+talk,customer-service,Wie war Ihr Name noch mal?,What was your name again?
+talk,customer-service,Können Sie das bitte buchstabieren?,"Could you spell that, please?"
+talk,customer-service,Ich verbinde Sie.,I'll put you through.
+talk,customer-service,Frau ___ ist gerade nicht am Platz.,Ms ___ isn't at her desk right now.
+talk,customer-service,Möchten Sie eine Nachricht hinterlassen?,Would you like to leave a message?
+talk,customer-service,Unter welcher Nummer kann ich Sie erreichen?,At which number can I reach you?
+closing,customer-service,Auf Wiederhören!,Goodbye! (on the phone)

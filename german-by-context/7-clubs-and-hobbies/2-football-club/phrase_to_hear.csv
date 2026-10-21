@@ -1,14 +1,14 @@
-category,german,english
-joining,Komm einfach am Dienstag vorbei.,Just come by on Tuesday.
-joining,Auf welcher Position spielst du?,What position do you play?
-joining,Bring Schienbeinschoner mit.,Bring shin guards.
-training,Wir machen zuerst Aufwärmen.,We'll warm up first.
-training,"Zieh ein Leibchen an, du bist bei Gelb.","Put on a bib, you're on yellow."
-training,Zum Schluss spielen wir fünf gegen fünf.,At the end we play five-a-side.
-pitch,Lauf!,Run!
-pitch,Rück auf!,Push up!
-pitch,Bleib bei deinem Mann!,Stay with your man!
-pitch,Mach das Spiel breit!,Spread the play wide!
-pitch,Ecke!,Corner!
-pitch,Das war Abseits!,That was offside!
-after,Wir gehen noch ein Bier trinken.,We're going for a beer.
+category,who,german,english
+joining,coach,Komm einfach am Dienstag vorbei.,Just come by on Tuesday.
+joining,coach,Auf welcher Position spielst du?,What position do you play?
+joining,coach,Bring Schienbeinschoner mit.,Bring shin guards.
+training,coach,Wir machen zuerst Aufwärmen.,We'll warm up first.
+training,coach,"Zieh ein Leibchen an, du bist bei Gelb.","Put on a bib, you're on yellow."
+training,coach,Zum Schluss spielen wir fünf gegen fünf.,At the end we play five-a-side.
+pitch,teammate,Lauf!,Run!
+pitch,teammate,Rück auf!,Push up!
+pitch,teammate,Bleib bei deinem Mann!,Stay with your man!
+pitch,teammate,Mach das Spiel breit!,Spread the play wide!
+pitch,teammate,Ecke!,Corner!
+pitch,teammate,Das war Abseits!,That was offside!
+after,teammate,Wir gehen noch ein Bier trinken.,We're going for a beer.

@@ -1,17 +1,17 @@
-category,german,english
-finding,"Ich schaue mich nur um, danke.","I'm just looking around, thanks."
-finding,Ich suche eine warme Winterjacke.,I'm looking for a warm winter jacket.
-finding,Haben Sie das auch in Größe M?,Do you have this in size M too?
-finding,Haben Sie das in einer anderen Farbe?,Do you have this in another colour?
-finding,Wo ist die Herrenabteilung?,Where is the men's section?
-trying,Kann ich das anprobieren?,Can I try this on?
-trying,Wo sind die Umkleidekabinen?,Where are the fitting rooms?
-trying,Das ist mir zu eng.,This is too tight for me.
-trying,Haben Sie das eine Nummer größer?,Do you have this one size bigger?
-trying,Die Hose ist zu lang.,The trousers are too long.
-trying,Das passt perfekt.,It fits perfectly.
-deciding,Ich nehme die Jacke.,I'll take the jacket.
-deciding,Ich überlege es mir noch.,I'll think about it.
-deciding,Ist das schon reduziert?,Is this already reduced?
-return,Ich möchte das umtauschen. Es passt nicht.,I'd like to exchange this. It doesn't fit.
-return,Kann ich das Geld zurückbekommen?,Can I get my money back?
+category,who,german,english
+finding,staff,"Ich schaue mich nur um, danke.","I'm just looking around, thanks."
+finding,staff,Ich suche eine warme Winterjacke.,I'm looking for a warm winter jacket.
+finding,staff,Haben Sie das auch in Größe M?,Do you have this in size M too?
+finding,staff,Haben Sie das in einer anderen Farbe?,Do you have this in another colour?
+finding,staff,Wo ist die Herrenabteilung?,Where is the men's section?
+trying,staff,Kann ich das anprobieren?,Can I try this on?
+trying,staff,Wo sind die Umkleidekabinen?,Where are the fitting rooms?
+trying,staff,Das ist mir zu eng.,This is too tight for me.
+trying,staff,Haben Sie das eine Nummer größer?,Do you have this one size bigger?
+trying,staff,Die Hose ist zu lang.,The trousers are too long.
+trying,staff,Das passt perfekt.,It fits perfectly.
+deciding,staff,Ich nehme die Jacke.,I'll take the jacket.
+deciding,staff,Ich überlege es mir noch.,I'll think about it.
+deciding,staff,Ist das schon reduziert?,Is this already reduced?
+return,staff,Ich möchte das umtauschen. Es passt nicht.,I'd like to exchange this. It doesn't fit.
+return,staff,Kann ich das Geld zurückbekommen?,Can I get my money back?

@@ -1,14 +1,14 @@
-category,german,english
-time,Um wie viel Uhr?,At what time?
-time,Wir haben von 9 bis 18 Uhr geöffnet.,We're open from 9 am to 6 pm.
-time,"Mo.–Fr. 8–20 Uhr, Sa. 9–14 Uhr","Mon–Fri 8 am–8 pm, Sat 9 am–2 pm"
-time,In einer Viertelstunde.,In a quarter of an hour.
-time,Das dauert ungefähr zwei Stunden.,That takes about two hours.
-date,"Der nächste freie Termin ist am Dienstag, dem 14.",The next free appointment is on Tuesday the 14th.
-date,Bitte geben Sie Ihr Geburtsdatum an.,Please enter your date of birth. (TT.MM.JJJJ)
-date,Kommen Sie in zwei Wochen wieder.,Come back in two weeks.
-date,Die Frist endet am 31.12.,The deadline ends on 31 December.
-number,Das macht zwölf achtzig.,That's 12.80.
-number,Haben Sie es passend?,Do you have the exact amount?
-number,Das sind 20 Prozent Rabatt.,That's 20 percent off.
-number,Zimmer zwo-null-drei.,Room 203. (zwo instead of zwei to avoid confusion with drei)
+category,who,german,english
+time,staff,Um wie viel Uhr?,At what time?
+time,staff,Wir haben von 9 bis 18 Uhr geöffnet.,We're open from 9 am to 6 pm.
+time,sign,"Mo.–Fr. 8–20 Uhr, Sa. 9–14 Uhr","Mon–Fri 8 am–8 pm, Sat 9 am–2 pm"
+time,staff,In einer Viertelstunde.,In a quarter of an hour.
+time,staff,Das dauert ungefähr zwei Stunden.,That takes about two hours.
+date,staff,"Der nächste freie Termin ist am Dienstag, dem 14.",The next free appointment is on Tuesday the 14th.
+date,form,Bitte geben Sie Ihr Geburtsdatum an.,Please enter your date of birth. (TT.MM.JJJJ)
+date,staff,Kommen Sie in zwei Wochen wieder.,Come back in two weeks.
+date,letter,Die Frist endet am 31.12.,The deadline ends on 31 December.
+number,cashier,Das macht zwölf achtzig.,That's 12.80.
+number,cashier,Haben Sie es passend?,Do you have the exact amount?
+number,cashier,Das sind 20 Prozent Rabatt.,That's 20 percent off.
+number,staff,Zimmer zwo-null-drei.,Room 203. (zwo instead of zwei to avoid confusion with drei)

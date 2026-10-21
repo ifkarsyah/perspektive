@@ -1,11 +1,11 @@
-category,german,english
-finding,Wo finde ich Sonnencreme?,Where can I find sunscreen?
-finding,Haben Sie Kontaktlinsenlösung?,Do you have contact lens solution?
-finding,Ich suche ein Shampoo für trockene Haare.,I'm looking for a shampoo for dry hair.
-finding,Haben Sie das auch ohne Parfüm?,Do you have this without fragrance too?
-finding,Haben Sie das in einer größeren Packung?,Do you have this in a bigger pack?
-photo,Wo kann ich Passfotos machen?,Where can I take passport photos?
-photo,Sind die Fotos biometrisch?,Are the photos biometric?
-photo,Ich möchte Fotos ausdrucken.,I'd like to print photos.
-medicine,Haben Sie etwas gegen Kopfschmerzen?,Do you have something for headaches?
-checkout,Ich habe keine Kundenkarte.,I don't have a loyalty card.
+category,who,german,english
+finding,staff,Wo finde ich Sonnencreme?,Where can I find sunscreen?
+finding,staff,Haben Sie Kontaktlinsenlösung?,Do you have contact lens solution?
+finding,staff,Ich suche ein Shampoo für trockene Haare.,I'm looking for a shampoo for dry hair.
+finding,staff,Haben Sie das auch ohne Parfüm?,Do you have this without fragrance too?
+finding,staff,Haben Sie das in einer größeren Packung?,Do you have this in a bigger pack?
+photo,staff,Wo kann ich Passfotos machen?,Where can I take passport photos?
+photo,staff,Sind die Fotos biometrisch?,Are the photos biometric?
+photo,staff,Ich möchte Fotos ausdrucken.,I'd like to print photos.
+medicine,staff,Haben Sie etwas gegen Kopfschmerzen?,Do you have something for headaches?
+checkout,cashier,Ich habe keine Kundenkarte.,I don't have a loyalty card.

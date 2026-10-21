@@ -1,12 +1,12 @@
-category,german,english
-daily,Mahlzeit!,Enjoy your lunch!
-daily,"Na, wie geht's?","Hey, how's it going?"
-daily,Gehst du mit in die Kantine?,Are you coming to the canteen?
-daily,Machst du schon Feierabend?,Are you already finishing for the day?
-daily,Schönes Wochenende!,Have a nice weekend!
-work,Kannst du das übernehmen?,Can you take this over?
-work,Das hat Priorität.,This is a priority.
-work,Das muss bis Freitag fertig sein.,This has to be done by Friday.
-work,Kannst du mir kurz Bescheid geben?,Can you let me know?
-work,Das stimmen wir im Team ab.,We'll align on that in the team.
-work,Du kannst mich jederzeit fragen.,You can ask me anytime.
+category,who,german,english
+daily,colleague,Mahlzeit!,Enjoy your lunch!
+daily,colleague,"Na, wie geht's?","Hey, how's it going?"
+daily,colleague,Gehst du mit in die Kantine?,Are you coming to the canteen?
+daily,colleague,Machst du schon Feierabend?,Are you already finishing for the day?
+daily,colleague,Schönes Wochenende!,Have a nice weekend!
+work,colleague,Kannst du das übernehmen?,Can you take this over?
+work,colleague,Das hat Priorität.,This is a priority.
+work,colleague,Das muss bis Freitag fertig sein.,This has to be done by Friday.
+work,colleague,Kannst du mir kurz Bescheid geben?,Can you let me know?
+work,colleague,Das stimmen wir im Team ab.,We'll align on that in the team.
+work,colleague,Du kannst mich jederzeit fragen.,You can ask me anytime.

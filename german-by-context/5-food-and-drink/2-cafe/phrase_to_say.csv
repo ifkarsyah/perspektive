@@ -1,17 +1,17 @@
-category,german,english
-arrival,Ist hier noch frei?,Is this seat free?
-arrival,Kann ich draußen sitzen?,Can I sit outside?
-arrival,Bestellt man hier an der Theke?,Do you order here at the counter?
-ordering,"Einen Cappuccino, bitte.","A cappuccino, please."
-ordering,"Einen Milchkaffee mit Hafermilch, bitte.","A large coffee with oat milk, please."
-ordering,Haben Sie auch entkoffeinierten Kaffee?,Do you have decaf coffee too?
-ordering,"Ein Stück Käsekuchen, bitte.","A slice of cheesecake, please."
-ordering,Was für Kuchen haben Sie heute?,What cakes do you have today?
-ordering,"Zum Mitnehmen, bitte.","To take away, please."
-ordering,Hier ist mein Becher.,Here's my cup.
-stay,Haben Sie WLAN?,Do you have Wi-Fi?
-stay,Wie ist das WLAN-Passwort?,What's the Wi-Fi password?
-stay,Gibt es hier eine Steckdose?,Is there a power socket here?
-stay,Darf ich hier mit dem Laptop arbeiten?,May I work here on my laptop?
-stay,Wo ist die Toilette?,Where is the toilet?
-pay,Kann ich mit Karte zahlen?,Can I pay by card?
+category,who,german,english
+arrival,stranger,Ist hier noch frei?,Is this seat free?
+arrival,barista,Kann ich draußen sitzen?,Can I sit outside?
+arrival,barista,Bestellt man hier an der Theke?,Do you order here at the counter?
+ordering,barista,"Einen Cappuccino, bitte.","A cappuccino, please."
+ordering,barista,"Einen Milchkaffee mit Hafermilch, bitte.","A large coffee with oat milk, please."
+ordering,barista,Haben Sie auch entkoffeinierten Kaffee?,Do you have decaf coffee too?
+ordering,barista,"Ein Stück Käsekuchen, bitte.","A slice of cheesecake, please."
+ordering,barista,Was für Kuchen haben Sie heute?,What cakes do you have today?
+ordering,barista,"Zum Mitnehmen, bitte.","To take away, please."
+ordering,barista,Hier ist mein Becher.,Here's my cup.
+stay,barista,Haben Sie WLAN?,Do you have Wi-Fi?
+stay,barista,Wie ist das WLAN-Passwort?,What's the Wi-Fi password?
+stay,barista,Gibt es hier eine Steckdose?,Is there a power socket here?
+stay,barista,Darf ich hier mit dem Laptop arbeiten?,May I work here on my laptop?
+stay,barista,Wo ist die Toilette?,Where is the toilet?
+pay,barista,Kann ich mit Karte zahlen?,Can I pay by card?
