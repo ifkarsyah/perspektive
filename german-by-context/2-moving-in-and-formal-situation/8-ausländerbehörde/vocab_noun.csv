@@ -1,0 +1,37 @@
+category,german,english
+office,die Ausländerbehörde,immigration office
+office,das Landesamt für Einwanderung (LEA),Berlin immigration office
+office,der Termin,appointment
+office,das Kontaktformular,contact form
+office,der Sachbearbeiter,caseworker (m)
+office,die Sachbearbeiterin,caseworker (f)
+office,die Gebühr,fee
+permit,der Aufenthaltstitel,residence title
+permit,die Aufenthaltserlaubnis,residence permit
+permit,die Blaue Karte EU,EU Blue Card
+permit,die Niederlassungserlaubnis,permanent residence permit
+permit,die Fiktionsbescheinigung,interim permit (while waiting)
+permit,das Visum,visa
+permit,die Arbeitserlaubnis,work permit
+permit,die Verlängerung,extension
+permit,der elektronische Aufenthaltstitel (eAT),residence permit card
+permit,der PIN-Brief,PIN letter
+document,der Antrag,application
+document,der Reisepass,passport
+document,das biometrische Passfoto,biometric passport photo
+document,der Arbeitsvertrag,employment contract
+document,die Erklärung zum Beschäftigungsverhältnis,employer declaration form
+document,der Hochschulabschluss,university degree
+document,die Anerkennung,recognition (of degree)
+document,der Krankenversicherungsnachweis,proof of health insurance
+document,die Meldebescheinigung,registration certificate
+document,der Mietvertrag,rental contract
+document,die Gehaltsabrechnung,payslip
+document,die Kopie,copy
+document,die Übersetzung,translation
+process,die Fingerabdrücke,fingerprints
+process,die Unterschrift,signature
+process,die Abholung,collection
+process,die Bearbeitungszeit,processing time
+process,die Ablehnung,rejection
+process,die Genehmigung,approval

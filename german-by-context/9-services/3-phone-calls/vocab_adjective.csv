@@ -1,0 +1,9 @@
+category,german,english
+line,besetzt,busy (line)
+line,erreichbar,reachable
+line,nicht erreichbar,unreachable
+line,schlecht,bad (connection)
+line,unterbrochen,cut off
+person,zuständig,responsible
+person,freundlich,friendly
+matter,dringend,urgent

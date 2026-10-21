@@ -1,0 +1,12 @@
+category,german,english
+document,gültig,valid
+document,abgelaufen,expired
+document,vollständig,complete
+document,unvollständig,incomplete
+document,beglaubigt,certified
+document,übersetzt,translated
+document,anerkannt,recognised
+status,befristet,temporary
+status,unbefristet,permanent
+status,zuständig,responsible (office)
+status,dringend,urgent

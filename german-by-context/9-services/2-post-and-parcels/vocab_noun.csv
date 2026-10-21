@@ -1,0 +1,31 @@
+category,german,english
+post,die Post,post / post office
+post,die Postfiliale,post office branch
+post,der Paketshop,parcel shop
+post,die Packstation,parcel locker
+post,der Briefkasten,mailbox / post box
+post,der Briefträger,postman
+post,der Paketbote,delivery driver
+item,der Brief,letter
+item,das Paket,parcel
+item,das Päckchen,small parcel
+item,das Einschreiben,registered letter
+item,die Briefmarke,stamp
+item,der Umschlag,envelope
+item,der Karton,box
+item,das Klebeband,tape
+delivery,die Sendung,shipment
+delivery,die Sendungsnummer,tracking number
+delivery,die Benachrichtigungskarte,missed delivery card
+delivery,der Abholschein,pickup slip
+delivery,der Ablageort,safe place (delivery)
+delivery,die Zustellung,delivery
+delivery,der Zustellversuch,delivery attempt
+delivery,der Absender,sender
+delivery,der Empfänger,recipient
+delivery,die Adresse,address
+delivery,das Porto,postage
+delivery,der Zoll,customs
+delivery,die Zollgebühr,customs fee
+delivery,die Rücksendung,return shipment
+delivery,das Retourenetikett,return label
