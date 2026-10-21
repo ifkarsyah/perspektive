@@ -1,47 +1,47 @@
-category,german,english
-settings,die Einstellungen,Settings
-settings,der Flugmodus,Airplane Mode
-settings,das WLAN,Wi-Fi
-settings,der Mobilfunk,Cellular / Mobile Data
-settings,der Persönliche Hotspot,Personal Hotspot
-settings,die Mitteilungen,Notifications
-settings,Töne & Haptik,Sounds & Haptics
-settings,der Fokus,Focus
-settings,die Bildschirmzeit,Screen Time
-settings,Allgemein,General
-settings,das Kontrollzentrum,Control Center
-settings,Anzeige & Helligkeit,Display & Brightness
-settings,die Bedienungshilfen,Accessibility
-settings,das Hintergrundbild,Wallpaper
-settings,Face ID & Code,Face ID & Passcode
-settings,der Notruf SOS,Emergency SOS
-settings,die Batterie,Battery
-settings,der Stromsparmodus,Low Power Mode
-settings,Datenschutz & Sicherheit,Privacy & Security
-settings,die Ortungsdienste,Location Services
-settings,das Softwareupdate,Software Update
-settings,der iPhone-Speicher,iPhone Storage
-settings,Sprache & Region,Language & Region
-settings,Datum & Uhrzeit,Date & Time
-settings,die Tastatur,Keyboard
-settings,die Passwörter,Passwords
-app,die Fotos,Photos
-app,die Kamera,Camera
-app,die Nachrichten,Messages
-app,das Telefon,Phone
-app,die Kontakte,Contacts
-app,die Uhr,Clock
-app,der Wecker,Alarm
-app,der Kalender,Calendar
-app,die Erinnerungen,Reminders
-app,die Notizen,Notes
-app,die Karten,Maps
-app,das Wetter,Weather
-app,der Rechner,Calculator
-app,die Dateien,Files
-app,Wo ist?,Find My
-app,der Home-Bildschirm,Home Screen
-app,die App-Mediathek,App Library
-app,die Taschenlampe,Flashlight
-app,das Bildschirmfoto,screenshot
-app,die Bildschirmaufnahme,screen recording
+category,german,english,similarity
+settings,die Einstellungen,Settings,different
+settings,der Flugmodus,Airplane Mode,different
+settings,das WLAN,Wi-Fi,different
+settings,der Mobilfunk,Cellular / Mobile Data,different
+settings,die Mitteilungen,Notifications,different
+settings,Töne & Haptik,Sounds & Haptics,different
+settings,die Bildschirmzeit,Screen Time,different
+settings,Allgemein,General,different
+settings,Anzeige & Helligkeit,Display & Brightness,different
+settings,die Bedienungshilfen,Accessibility,different
+settings,das Hintergrundbild,Wallpaper,different
+settings,der Notruf SOS,Emergency SOS,different
+settings,der Stromsparmodus,Low Power Mode,different
+settings,Datenschutz & Sicherheit,Privacy & Security,different
+settings,die Ortungsdienste,Location Services,different
+settings,der iPhone-Speicher,iPhone Storage,different
+settings,Sprache & Region,Language & Region,different
+settings,Datum & Uhrzeit,Date & Time,different
+settings,die Tastatur,Keyboard,different
+app,die Nachrichten,Messages,different
+app,das Telefon,Phone,different
+app,die Uhr,Clock,different
+app,der Wecker,Alarm,different
+app,die Erinnerungen,Reminders,different
+app,die Karten,Maps,different
+app,der Rechner,Calculator,different
+app,die Dateien,Files,different
+app,Wo ist?,Find My,different
+app,der Home-Bildschirm,Home Screen,different
+app,die App-Mediathek,App Library,different
+app,die Taschenlampe,Flashlight,different
+app,das Bildschirmfoto,screenshot,different
+app,die Bildschirmaufnahme,screen recording,different
+settings,der Persönliche Hotspot,Personal Hotspot,cognate
+settings,der Fokus,Focus,cognate
+settings,das Kontrollzentrum,Control Center,cognate
+settings,Face ID & Code,Face ID & Passcode,cognate
+settings,die Batterie,Battery,cognate
+settings,das Softwareupdate,Software Update,cognate
+settings,die Passwörter,Passwords,cognate
+app,die Fotos,Photos,cognate
+app,die Kamera,Camera,cognate
+app,die Kontakte,Contacts,cognate
+app,der Kalender,Calendar,cognate
+app,die Notizen,Notes,cognate
+app,das Wetter,Weather,cognate

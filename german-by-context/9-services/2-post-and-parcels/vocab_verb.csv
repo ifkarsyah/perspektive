@@ -1,15 +1,15 @@
-category,german,english
-send,schicken,to send
-send,verschicken,to ship
-send,einwerfen (sep.),to post (a letter)
-send,aufgeben (sep.),to drop off (a parcel)
-send,frankieren,to put postage on
-send,verpacken,to pack
-receive,bekommen,to receive
-receive,abholen (sep.),to pick up
-receive,zustellen (sep.),to deliver
-receive,annehmen (sep.),to accept
-receive,unterschreiben,to sign
-receive,verfolgen,to track
-return,zurückschicken (sep.),to send back
-return,umleiten (sep.),to redirect
+category,german,english,similarity
+receive,bekommen,to receive,false-friend
+send,schicken,to send,different
+send,verschicken,to ship,different
+send,einwerfen (sep.),to post (a letter),different
+send,aufgeben (sep.),to drop off (a parcel),different
+send,frankieren,to put postage on,different
+receive,abholen (sep.),to pick up,different
+receive,zustellen (sep.),to deliver,different
+receive,annehmen (sep.),to accept,different
+receive,unterschreiben,to sign,different
+receive,verfolgen,to track,different
+return,zurückschicken (sep.),to send back,different
+return,umleiten (sep.),to redirect,different
+send,verpacken,to pack,cognate

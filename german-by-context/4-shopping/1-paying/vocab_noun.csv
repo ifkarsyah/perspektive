@@ -1,24 +1,24 @@
-category,german,english
-bill,die Rechnung,bill / invoice
-bill,die Quittung,receipt
-bill,der Kassenbon,till receipt
-bill,die Kasse,checkout / till
-bill,der Betrag,amount
-bill,der Preis,price
-bill,die Mehrwertsteuer,VAT
-bill,das Trinkgeld,tip
-cash,das Bargeld,cash
-cash,das Kleingeld,small change
-cash,das Wechselgeld,change (returned)
-cash,der Schein,banknote
-cash,die Münze,coin
-cash,der Euro,euro
-cash,der Cent,cent
-card,die Karte,card
-card,die Girocard,debit card (EC card)
-card,die Kreditkarte,credit card
-card,das Kartenlesegerät,card reader
-card,die PIN,PIN
-discount,der Rabatt,discount
-discount,das Angebot,special offer
-discount,die Rückgabe,return
+category,german,english,similarity
+bill,die Rechnung,bill / invoice,different
+bill,die Quittung,receipt,different
+bill,der Kassenbon,till receipt,different
+bill,die Kasse,checkout / till,different
+bill,der Betrag,amount,different
+bill,die Mehrwertsteuer,VAT,different
+bill,das Trinkgeld,tip,different
+cash,das Bargeld,cash,different
+cash,das Kleingeld,small change,different
+cash,das Wechselgeld,change (returned),different
+cash,der Schein,banknote,different
+cash,die Münze,coin,different
+card,die Girocard,debit card (EC card),different
+card,das Kartenlesegerät,card reader,different
+discount,der Rabatt,discount,different
+discount,das Angebot,special offer,different
+discount,die Rückgabe,return,different
+bill,der Preis,price,cognate
+cash,der Euro,euro,cognate
+cash,der Cent,cent,cognate
+card,die Karte,card,cognate
+card,die Kreditkarte,credit card,cognate
+card,die PIN,PIN,cognate

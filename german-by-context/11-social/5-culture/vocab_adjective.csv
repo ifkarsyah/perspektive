@@ -1,10 +1,10 @@
-category,german,english
-review,spannend,exciting
-review,lustig,funny
-review,traurig,sad
-review,langweilig,boring
-review,beeindruckend,impressive
-review,sehenswert,worth seeing
-ticket,ausverkauft,sold out
-ticket,ermäßigt,reduced
-ticket,kostenlos,free
+category,german,english,similarity
+review,spannend,exciting,different
+review,lustig,funny,different
+review,traurig,sad,different
+review,langweilig,boring,different
+review,beeindruckend,impressive,different
+review,sehenswert,worth seeing,different
+ticket,ausverkauft,sold out,different
+ticket,ermäßigt,reduced,different
+ticket,kostenlos,free,different

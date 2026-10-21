@@ -1,17 +1,17 @@
-category,german,english
-play,spielen,to play
-play,schießen,to shoot
-play,abspielen (sep.),to pass
-play,passen,to pass
-play,flanken,to cross
-play,köpfen,to head
-play,dribbeln,to dribble
-play,annehmen (sep.),to receive (ball)
-play,ein Tor schießen,to score a goal
-play,verteidigen,to defend
-play,decken,to mark (a player)
-play,einwechseln (sep.),to sub in
-play,auswechseln (sep.),to sub out
-result,gewinnen,to win
-result,verlieren,to lose
-result,unentschieden spielen,to draw
+category,german,english,similarity
+play,spielen,to play,different
+play,schießen,to shoot,different
+play,abspielen (sep.),to pass,different
+play,flanken,to cross,different
+play,köpfen,to head,different
+play,annehmen (sep.),to receive (ball),different
+play,ein Tor schießen,to score a goal,different
+play,verteidigen,to defend,different
+play,decken,to mark (a player),different
+play,einwechseln (sep.),to sub in,different
+play,auswechseln (sep.),to sub out,different
+result,verlieren,to lose,different
+result,unentschieden spielen,to draw,different
+play,passen,to pass,cognate
+play,dribbeln,to dribble,cognate
+result,gewinnen,to win,cognate

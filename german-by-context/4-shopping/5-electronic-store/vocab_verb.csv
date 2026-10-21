@@ -1,15 +1,15 @@
-category,german,english
-shop,vergleichen,to compare
-shop,ausprobieren (sep.),to try out
-shop,kaufen,to buy
-shop,bestellen,to order
-setup,einrichten (sep.),to set up
-setup,anschließen (sep.),to connect (cable)
-setup,installieren,to install
-setup,aufladen (sep.),to charge
-setup,einschalten (sep.),to turn on
-setup,ausschalten (sep.),to turn off
-problem,funktionieren,to work (function)
-problem,reparieren,to repair
-problem,zurückgeben (sep.),to return
-problem,umtauschen (sep.),to exchange
+category,german,english,similarity
+shop,vergleichen,to compare,different
+shop,ausprobieren (sep.),to try out,different
+shop,kaufen,to buy,different
+shop,bestellen,to order,different
+setup,einrichten (sep.),to set up,different
+setup,anschließen (sep.),to connect (cable),different
+setup,aufladen (sep.),to charge,different
+setup,einschalten (sep.),to turn on,different
+setup,ausschalten (sep.),to turn off,different
+problem,funktionieren,to work (function),different
+problem,zurückgeben (sep.),to return,different
+problem,umtauschen (sep.),to exchange,different
+setup,installieren,to install,cognate
+problem,reparieren,to repair,cognate

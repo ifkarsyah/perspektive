@@ -1,13 +1,13 @@
-category,german,english
-go,ins Kino gehen,to go to the cinema
-go,ins Museum gehen,to go to a museum
-go,sich anschauen (sep.),to watch / look at
-go,besuchen,to visit
-go,empfehlen,to recommend
-ticket,Karten kaufen,to buy tickets
-ticket,reservieren,to reserve
-ticket,abgeben (sep.),to check (coat)
-show,anfangen (sep.),to start
-show,dauern,to last
-show,klatschen,to clap
-show,gefallen,to like
+category,german,english,similarity
+go,ins Kino gehen,to go to the cinema,different
+go,ins Museum gehen,to go to a museum,different
+go,sich anschauen (sep.),to watch / look at,different
+go,besuchen,to visit,different
+go,empfehlen,to recommend,different
+ticket,Karten kaufen,to buy tickets,different
+ticket,abgeben (sep.),to check (coat),different
+show,anfangen (sep.),to start,different
+show,dauern,to last,different
+show,klatschen,to clap,different
+show,gefallen,to like,different
+ticket,reservieren,to reserve,cognate

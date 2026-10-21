@@ -1,21 +1,21 @@
-category,german,english
-button,Folgen,Follow
-button,Gefolgt,Following (button state)
-button,Entfolgen,Unfollow
-button,Gefällt mir,Like
-button,Kommentieren,Comment
-button,Teilen,Share
-button,Speichern,Save
-button,Profil bearbeiten,Edit profile
-button,Blockieren,Block
-button,Stummschalten,Mute
-button,Einschränken,Restrict
-button,Melden,Report
-button,Posten,Post
-button,Reposten,Repost
-button,Zitieren,Quote
-button,Antworten,Reply
-social,markieren,to tag
-social,erwähnen,to mention
-social,liken,to like (informal)
-social,folgen,to follow
+category,german,english,similarity
+button,Gefällt mir,Like,different
+button,Teilen,Share,different
+button,Speichern,Save,different
+button,Profil bearbeiten,Edit profile,different
+button,Stummschalten,Mute,different
+button,Einschränken,Restrict,different
+button,Melden,Report,different
+button,Zitieren,Quote,different
+button,Antworten,Reply,different
+social,markieren,to tag,different
+social,erwähnen,to mention,different
+button,Folgen,Follow,cognate
+button,Gefolgt,Following (button state),cognate
+button,Entfolgen,Unfollow,cognate
+button,Kommentieren,Comment,cognate
+button,Blockieren,Block,cognate
+button,Posten,Post,cognate
+button,Reposten,Repost,cognate
+social,liken,to like (informal),cognate
+social,folgen,to follow,cognate

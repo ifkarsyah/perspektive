@@ -1,9 +1,9 @@
-category,german,english
-time,monatlich,monthly
-time,sofort,immediately
-time,automatisch,automatically
-time,in zwei Werktagen,in two business days
-way,online,online
-way,kontaktlos,contactless
-balance,im Minus,overdrawn
-balance,im Plus,in credit
+category,german,english,similarity
+time,monatlich,monthly,different
+time,sofort,immediately,different
+time,in zwei Werktagen,in two business days,different
+balance,im Minus,overdrawn,different
+balance,im Plus,in credit,different
+time,automatisch,automatically,cognate
+way,online,online,cognate
+way,kontaktlos,contactless,cognate

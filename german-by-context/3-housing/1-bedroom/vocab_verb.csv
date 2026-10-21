@@ -1,16 +1,16 @@
-category,german,english
-sleep,schlafen,to sleep
-sleep,ins Bett gehen,to go to bed
-sleep,sich hinlegen (sep.),to lie down
-sleep,aufwachen (sep.),to wake up
-sleep,aufstehen (sep.),to get up
-clothes,sich anziehen (sep.),to get dressed
-clothes,sich ausziehen (sep.),to get undressed
-clothes,aufhängen (sep.),to hang up
-room,das Bett machen,to make the bed
-room,aufräumen (sep.),to tidy up
-room,lüften,to air out (a room)
-room,einschalten (sep.),to switch on
-room,ausschalten (sep.),to switch off
-room,aufmachen (sep.),to open
-room,zumachen (sep.),to close
+category,german,english,similarity
+sleep,ins Bett gehen,to go to bed,different
+sleep,sich hinlegen (sep.),to lie down,different
+sleep,aufwachen (sep.),to wake up,different
+sleep,aufstehen (sep.),to get up,different
+clothes,sich anziehen (sep.),to get dressed,different
+clothes,sich ausziehen (sep.),to get undressed,different
+room,das Bett machen,to make the bed,different
+room,aufräumen (sep.),to tidy up,different
+room,lüften,to air out (a room),different
+room,einschalten (sep.),to switch on,different
+room,ausschalten (sep.),to switch off,different
+room,aufmachen (sep.),to open,different
+room,zumachen (sep.),to close,different
+sleep,schlafen,to sleep,cognate
+clothes,aufhängen (sep.),to hang up,cognate

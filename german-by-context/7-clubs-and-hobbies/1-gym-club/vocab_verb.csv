@@ -1,17 +1,17 @@
-category,german,english
-train,trainieren,to train
-train,Sport machen,to exercise
-train,sich aufwärmen (sep.),to warm up
-train,sich dehnen,to stretch
-train,heben,to lift
-train,drücken,to press
-train,ziehen,to pull
-train,laufen,to run
-train,schwitzen,to sweat
-train,abwechseln (sep.),to take turns
-gym,sich anmelden (sep.),to sign up
-gym,kündigen,to cancel
-gym,pausieren,to pause (membership)
-gym,desinfizieren,to disinfect
-gym,zurücklegen (sep.),to put back
-gym,benutzen,to use
+category,german,english,similarity
+train,Sport machen,to exercise,different
+train,sich dehnen,to stretch,different
+train,heben,to lift,different
+train,drücken,to press,different
+train,ziehen,to pull,different
+train,laufen,to run,different
+train,abwechseln (sep.),to take turns,different
+gym,sich anmelden (sep.),to sign up,different
+gym,kündigen,to cancel,different
+gym,zurücklegen (sep.),to put back,different
+gym,benutzen,to use,different
+train,trainieren,to train,cognate
+train,sich aufwärmen (sep.),to warm up,cognate
+train,schwitzen,to sweat,cognate
+gym,pausieren,to pause (membership),cognate
+gym,desinfizieren,to disinfect,cognate

@@ -1,15 +1,15 @@
-category,german,english
-talk,sich unterhalten,to chat
-talk,erzählen,to tell
-talk,fragen,to ask
-talk,meinen,to think / mean
-talk,empfehlen,to recommend
-talk,kennen,to know (someone / a place)
-talk,kennenlernen (sep.),to get to know
-free,unternehmen,to do (activities)
-free,ausgehen (sep.),to go out
-free,sich ausruhen (sep.),to relax / rest
-free,besuchen,to visit
-free,ausschlafen (sep.),to sleep in
-free,reisen,to travel
-free,gefallen,to like (Berlin gefällt mir)
+category,german,english,similarity
+talk,sich unterhalten,to chat,different
+talk,erzählen,to tell,different
+talk,fragen,to ask,different
+talk,empfehlen,to recommend,different
+talk,kennen,to know (someone / a place),different
+talk,kennenlernen (sep.),to get to know,different
+free,unternehmen,to do (activities),different
+free,ausgehen (sep.),to go out,different
+free,sich ausruhen (sep.),to relax / rest,different
+free,besuchen,to visit,different
+free,ausschlafen (sep.),to sleep in,different
+free,reisen,to travel,different
+free,gefallen,to like (Berlin gefällt mir),different
+talk,meinen,to think / mean,cognate

@@ -1,8 +1,8 @@
-category,german,english
-time,heute Abend,tonight
-time,die ganze Nacht,all night
-time,bis morgens,until morning
-time,später,later
-time,noch,still / another
-place,draußen,outside
-place,drinnen,inside
+category,german,english,similarity
+time,heute Abend,tonight,different
+time,die ganze Nacht,all night,different
+time,bis morgens,until morning,different
+time,später,later,different
+time,noch,still / another,different
+place,draußen,outside,different
+place,drinnen,inside,different

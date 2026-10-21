@@ -1,15 +1,15 @@
-category,german,english
-drive,fahren,to drive
-drive,Auto fahren,to drive a car
-drive,abbiegen (sep.),to turn
-drive,überholen,to overtake
-drive,bremsen,to brake
-drive,parken,to park
-drive,tanken,to fill up
-drive,laden,to charge
-licence,umschreiben (sep.),to convert (licence)
-licence,bestehen,to pass
-licence,durchfallen (sep.),to fail
-rent,mieten,to rent
-rent,zurückgeben (sep.),to return
-problem,abschleppen (sep.),to tow
+category,german,english,similarity
+drive,fahren,to drive,different
+drive,Auto fahren,to drive a car,different
+drive,abbiegen (sep.),to turn,different
+drive,überholen,to overtake,different
+drive,tanken,to fill up,different
+drive,laden,to charge,different
+licence,umschreiben (sep.),to convert (licence),different
+licence,bestehen,to pass,different
+licence,durchfallen (sep.),to fail,different
+rent,mieten,to rent,different
+rent,zurückgeben (sep.),to return,different
+problem,abschleppen (sep.),to tow,different
+drive,bremsen,to brake,cognate
+drive,parken,to park,cognate

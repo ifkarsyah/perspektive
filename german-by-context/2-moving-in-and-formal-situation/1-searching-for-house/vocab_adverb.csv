@@ -1,12 +1,12 @@
-category,german,english
-time,ab sofort,available immediately
-time,ab dem ersten,from the first (of the month)
-time,schon,already
-time,noch,still
-time,leider,unfortunately
-cost,monatlich,monthly
-cost,inklusive,including
-cost,zuzüglich,plus (extra costs)
-location,in der Nähe,nearby
-location,im Hinterhaus,in the rear building
-location,im Vorderhaus,in the front building
+category,german,english,similarity
+time,ab sofort,available immediately,different
+time,ab dem ersten,from the first (of the month),different
+time,schon,already,different
+time,noch,still,different
+time,leider,unfortunately,different
+cost,monatlich,monthly,different
+cost,zuzüglich,plus (extra costs),different
+location,in der Nähe,nearby,different
+location,im Hinterhaus,in the rear building,different
+location,im Vorderhaus,in the front building,different
+cost,inklusive,including,cognate

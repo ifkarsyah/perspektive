@@ -1,38 +1,38 @@
-category,german,english
-building,das Haus,building
-building,der Altbau,old building
-building,das Vorderhaus,front building
-building,das Hinterhaus,rear building
-building,der Hof,courtyard
-building,das Treppenhaus,stairwell
-building,der Aufzug,elevator
-building,der Keller,basement
-building,der Fahrradkeller,bike storage
-building,der Waschkeller,laundry room
-building,der Dachboden,attic
-building,die Haustür,front door (building)
-building,die Wohnungstür,apartment door
-building,die Klingel,doorbell
-building,die Gegensprechanlage,intercom
-building,der Briefkasten,mailbox
-building,das Namensschild,name tag (doorbell / mailbox)
-building,die Mülltonne,bin
-people,der Nachbar,neighbour (m)
-people,die Nachbarin,neighbour (f)
-people,die Hausverwaltung,property management
-people,der Hausmeister,caretaker
-people,der Vermieter,landlord
-people,der Handwerker,tradesperson
-rules,die Hausordnung,house rules
-rules,die Ruhezeit,quiet hours
-rules,die Nachtruhe,night quiet hours
-rules,der Lärm,noise
-rules,die Party,party
-rules,der Aushang,notice (on the board)
-rules,das Schwarze Brett,notice board
-problem,der Mangel,defect
-problem,die Mängelanzeige,defect report
-problem,der Schaden,damage
-problem,der Wasserschaden,water damage
-problem,der Schlüssel,key
-problem,der Schlüsseldienst,locksmith
+category,german,english,similarity
+building,der Altbau,old building,different
+building,das Vorderhaus,front building,different
+building,das Hinterhaus,rear building,different
+building,der Hof,courtyard,different
+building,das Treppenhaus,stairwell,different
+building,der Aufzug,elevator,different
+building,der Fahrradkeller,bike storage,different
+building,der Waschkeller,laundry room,different
+building,der Dachboden,attic,different
+building,die Haustür,front door (building),different
+building,die Wohnungstür,apartment door,different
+building,die Klingel,doorbell,different
+building,die Gegensprechanlage,intercom,different
+building,der Briefkasten,mailbox,different
+building,das Namensschild,name tag (doorbell / mailbox),different
+building,die Mülltonne,bin,different
+people,die Nachbarin,neighbour (f),different
+people,die Hausverwaltung,property management,different
+people,der Hausmeister,caretaker,different
+people,der Vermieter,landlord,different
+people,der Handwerker,tradesperson,different
+rules,die Hausordnung,house rules,different
+rules,die Ruhezeit,quiet hours,different
+rules,die Nachtruhe,night quiet hours,different
+rules,der Lärm,noise,different
+rules,der Aushang,notice (on the board),different
+rules,das Schwarze Brett,notice board,different
+problem,der Mangel,defect,different
+problem,die Mängelanzeige,defect report,different
+problem,der Schaden,damage,different
+problem,der Wasserschaden,water damage,different
+problem,der Schlüssel,key,different
+problem,der Schlüsseldienst,locksmith,different
+building,das Haus,building,cognate
+building,der Keller,basement,cognate
+people,der Nachbar,neighbour (m),cognate
+rules,die Party,party,cognate

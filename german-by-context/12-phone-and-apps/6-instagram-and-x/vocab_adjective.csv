@@ -1,7 +1,7 @@
-category,german,english
-account,privat,private
-account,öffentlich,public
-account,verifiziert,verified
-account,gesperrt,suspended
-post,gesponsert,sponsored
-post,viral,viral
+category,german,english,similarity
+account,öffentlich,public,different
+account,gesperrt,suspended,different
+account,privat,private,cognate
+account,verifiziert,verified,cognate
+post,gesponsert,sponsored,cognate
+post,viral,viral,cognate

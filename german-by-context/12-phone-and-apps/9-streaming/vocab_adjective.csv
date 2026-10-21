@@ -1,10 +1,10 @@
-category,german,english
-show,spannend,gripping
-show,lustig,funny
-show,langweilig,boring
-show,gruselig,scary
-show,neu,new
-show,beliebt,popular
-audio,synchronisiert,dubbed
-audio,im Original,in the original
-audio,werbefrei,ad-free
+category,german,english,similarity
+show,spannend,gripping,different
+show,lustig,funny,different
+show,langweilig,boring,different
+show,gruselig,scary,different
+show,beliebt,popular,different
+audio,synchronisiert,dubbed,different
+audio,werbefrei,ad-free,different
+show,neu,new,cognate
+audio,im Original,in the original,cognate

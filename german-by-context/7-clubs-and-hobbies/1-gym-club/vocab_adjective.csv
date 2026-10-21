@@ -1,15 +1,15 @@
-category,german,english
-weight,schwer,heavy
-weight,leicht,light
-effort,anstrengend,exhausting
-effort,locker,easy
-feeling,fit,fit
-feeling,stark,strong
-feeling,müde,tired
-feeling,kaputt,wrecked (informal)
-feeling,verspannt,tense
-gym,frei,free (machine)
-gym,besetzt,taken
-gym,voll,busy
-gym,leer,empty
-contract,monatlich kündbar,cancellable monthly
+category,german,english,similarity
+weight,schwer,heavy,different
+effort,anstrengend,exhausting,different
+effort,locker,easy,different
+feeling,stark,strong,different
+feeling,müde,tired,different
+feeling,kaputt,wrecked (informal),different
+feeling,verspannt,tense,different
+gym,besetzt,taken,different
+gym,leer,empty,different
+contract,monatlich kündbar,cancellable monthly,different
+weight,leicht,light,cognate
+feeling,fit,fit,cognate
+gym,frei,free (machine),cognate
+gym,voll,busy,cognate

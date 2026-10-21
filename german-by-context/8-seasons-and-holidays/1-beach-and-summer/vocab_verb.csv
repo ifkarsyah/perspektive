@@ -1,17 +1,17 @@
-category,german,english
-water,schwimmen,to swim
-water,baden gehen,to go swimming
-water,tauchen,to dive (underwater)
-water,springen,to jump
-water,planschen,to splash about
-sun,sich sonnen,to sunbathe
-sun,sich eincremen (sep.),to put on sunscreen
-sun,braun werden,to get a tan
-sun,sich verbrennen,to get sunburnt
-sun,schwitzen,to sweat
-sun,sich abkühlen (sep.),to cool off
-social,grillen,to have a barbecue
-social,chillen,to chill (informal)
-social,ein Eis essen,to have an ice cream
-social,mitbringen (sep.),to bring along
-social,abhängen (sep.),to hang out (informal)
+category,german,english,similarity
+water,baden gehen,to go swimming,different
+water,tauchen,to dive (underwater),different
+water,springen,to jump,different
+water,planschen,to splash about,different
+sun,sich sonnen,to sunbathe,different
+sun,braun werden,to get a tan,different
+sun,sich verbrennen,to get sunburnt,different
+sun,sich abkühlen (sep.),to cool off,different
+social,grillen,to have a barbecue,different
+social,ein Eis essen,to have an ice cream,different
+water,schwimmen,to swim,cognate
+sun,sich eincremen (sep.),to put on sunscreen,cognate
+sun,schwitzen,to sweat,cognate
+social,chillen,to chill (informal),cognate
+social,mitbringen (sep.),to bring along,cognate
+social,abhängen (sep.),to hang out (informal),cognate

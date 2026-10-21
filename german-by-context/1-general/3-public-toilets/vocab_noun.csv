@@ -1,30 +1,30 @@
-category,german,english
-place,die Toilette,toilet
-place,das WC,WC / toilet
-place,das Klo,loo (informal)
-place,die öffentliche Toilette,public toilet
-place,die Kundentoilette,customer toilet
-place,die Berliner Toilette,Berlin street toilet (automatic)
-place,das Dixi-Klo,portable toilet
-place,die Nette Toilette,business toilet open to the public (sticker)
-place,die Herrentoilette,men's toilet
-place,die Damentoilette,women's toilet
-place,das Behinderten-WC,accessible toilet
-place,der Wickelraum,baby changing room
-place,das Pissoir,urinal
-place,die Kabine,cubicle
-inside,das Toilettenpapier,toilet paper
-inside,das Waschbecken,sink
-inside,die Seife,soap
-inside,der Händetrockner,hand dryer
-inside,die Papierhandtücher,paper towels
-inside,die Spülung,flush
-inside,der Spülknopf,flush button
-inside,der Mülleimer,bin
-inside,das Schloss,lock
-pay,die Gebühr,fee
-pay,die Münze,coin
-pay,das Drehkreuz,turnstile
-pay,der Wertbon,voucher (Sanifair)
-pay,der Teller,plate (for tips)
-pay,das Toilettenpersonal,toilet attendant
+category,german,english,similarity
+place,das Klo,loo (informal),different
+place,die öffentliche Toilette,public toilet,different
+place,die Kundentoilette,customer toilet,different
+place,das Dixi-Klo,portable toilet,different
+place,die Nette Toilette,business toilet open to the public (sticker),different
+place,die Herrentoilette,men's toilet,different
+place,die Damentoilette,women's toilet,different
+place,das Behinderten-WC,accessible toilet,different
+place,der Wickelraum,baby changing room,different
+place,das Pissoir,urinal,different
+inside,das Waschbecken,sink,different
+inside,die Papierhandtücher,paper towels,different
+inside,die Spülung,flush,different
+inside,der Spülknopf,flush button,different
+inside,der Mülleimer,bin,different
+inside,das Schloss,lock,different
+pay,die Gebühr,fee,different
+pay,die Münze,coin,different
+pay,das Drehkreuz,turnstile,different
+pay,der Wertbon,voucher (Sanifair),different
+pay,der Teller,plate (for tips),different
+place,die Toilette,toilet,cognate
+place,das WC,WC / toilet,cognate
+place,die Berliner Toilette,Berlin street toilet (automatic),cognate
+place,die Kabine,cubicle,cognate
+inside,das Toilettenpapier,toilet paper,cognate
+inside,die Seife,soap,cognate
+inside,der Händetrockner,hand dryer,cognate
+pay,das Toilettenpersonal,toilet attendant,cognate

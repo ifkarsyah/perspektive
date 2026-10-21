@@ -1,8 +1,8 @@
-category,german,english
-status,erfolgreich,successful
-status,ausstehend,pending
-status,abgelehnt,declined
-status,gesperrt,blocked
-status,verdächtig,suspicious
-status,sicher,secure
-status,kostenlos,free
+category,german,english,similarity
+status,erfolgreich,successful,different
+status,ausstehend,pending,different
+status,abgelehnt,declined,different
+status,gesperrt,blocked,different
+status,verdächtig,suspicious,different
+status,kostenlos,free,different
+status,sicher,secure,cognate

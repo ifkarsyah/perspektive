@@ -1,52 +1,52 @@
-category,german,english
-place,der Strand,beach
-place,der See,lake
-place,der Badesee,swimming lake
-place,das Strandbad,lakeside beach (with entry fee)
-place,das Freibad,outdoor pool
-place,das Schwimmbad,swimming pool
-place,die Ostsee,Baltic Sea
-place,das Meer,sea
-place,das Ufer,shore
-place,die Liegewiese,sunbathing lawn
-place,der Steg,jetty
-place,der FKK-Bereich,nudist area
-place,der Biergarten,beer garden
-place,der Park,park
-place,der Grillplatz,barbecue area
-pool,der Eintritt,entry fee
-pool,das Becken,pool (basin)
-pool,das Sprungbrett,diving board
-pool,die Rutsche,water slide
-pool,der Bademeister,lifeguard
-pool,die Umkleide,changing room
-pool,das Schließfach,locker
-beach,die Badehose,swim trunks
-beach,der Badeanzug,swimsuit
-beach,der Bikini,bikini
-beach,das Handtuch,towel
-beach,die Decke,blanket
-beach,der Sonnenschirm,parasol
-beach,der Strandkorb,roofed beach chair
-beach,die Liege,sun lounger
-beach,die Luftmatratze,inflatable mattress
-beach,die Sonnenbrille,sunglasses
-beach,die Sonnencreme,sunscreen
-beach,der Sonnenhut,sun hat
-beach,die Flip-Flops,flip-flops
-food,das Eis,ice cream
-food,die Kugel,scoop
-food,die Waffel,cone
-food,der Becher,cup
-food,das Picknick,picnic
-food,der Grill,grill
-food,die Würstchen,sausages
-food,das kühle Getränk,cold drink
-summer,die Hitze,heat
-summer,die Hitzewelle,heatwave
-summer,der Sonnenbrand,sunburn
-summer,die Mücke,mosquito
-summer,die Wespe,wasp
-summer,die Zecke,tick
-summer,der Schatten,shade
-summer,das Gewitter,thunderstorm
+category,german,english,similarity
+place,der Strand,beach,false-friend
+place,der See,lake,false-friend
+beach,die Decke,blanket,false-friend
+beach,der Sonnenhut,sun hat,false-friend
+place,der Badesee,swimming lake,different
+place,das Strandbad,lakeside beach (with entry fee),different
+place,das Freibad,outdoor pool,different
+place,das Schwimmbad,swimming pool,different
+place,die Ostsee,Baltic Sea,different
+place,das Meer,sea,different
+place,das Ufer,shore,different
+place,die Liegewiese,sunbathing lawn,different
+place,der Steg,jetty,different
+place,der FKK-Bereich,nudist area,different
+place,der Grillplatz,barbecue area,different
+pool,der Eintritt,entry fee,different
+pool,das Becken,pool (basin),different
+pool,das Sprungbrett,diving board,different
+pool,die Rutsche,water slide,different
+pool,der Bademeister,lifeguard,different
+pool,die Umkleide,changing room,different
+pool,das Schließfach,locker,different
+beach,die Badehose,swim trunks,different
+beach,der Badeanzug,swimsuit,different
+beach,der Sonnenschirm,parasol,different
+beach,der Strandkorb,roofed beach chair,different
+beach,die Liege,sun lounger,different
+beach,die Luftmatratze,inflatable mattress,different
+beach,die Sonnenbrille,sunglasses,different
+food,die Kugel,scoop,different
+food,die Waffel,cone,different
+food,der Becher,cup,different
+food,die Würstchen,sausages,different
+food,das kühle Getränk,cold drink,different
+summer,die Hitze,heat,different
+summer,die Hitzewelle,heatwave,different
+summer,die Mücke,mosquito,different
+summer,die Zecke,tick,different
+summer,das Gewitter,thunderstorm,different
+place,der Biergarten,beer garden,cognate
+place,der Park,park,cognate
+beach,der Bikini,bikini,cognate
+beach,das Handtuch,towel,cognate
+beach,die Sonnencreme,sunscreen,cognate
+beach,die Flip-Flops,flip-flops,cognate
+food,das Eis,ice cream,cognate
+food,das Picknick,picnic,cognate
+food,der Grill,grill,cognate
+summer,der Sonnenbrand,sunburn,cognate
+summer,die Wespe,wasp,cognate
+summer,der Schatten,shade,cognate

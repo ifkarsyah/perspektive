@@ -1,11 +1,11 @@
-category,german,english
-meeting,kurz,short
-meeting,lang,long
-meeting,pünktlich,on time
-meeting,produktiv,productive
-content,wichtig,important
-content,klar,clear
-content,unklar,unclear
-content,realistisch,realistic
-content,offen,open (question)
-content,erledigt,done
+category,german,english,similarity
+meeting,kurz,short,different
+meeting,pünktlich,on time,different
+content,wichtig,important,different
+content,offen,open (question),different
+content,erledigt,done,different
+meeting,lang,long,cognate
+meeting,produktiv,productive,cognate
+content,klar,clear,cognate
+content,unklar,unclear,cognate
+content,realistisch,realistic,cognate

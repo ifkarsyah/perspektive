@@ -1,22 +1,22 @@
-category,german,english
-topic,das Wetter,weather
-topic,das Wochenende,weekend
-topic,der Urlaub,holiday
-topic,das Hobby,hobby
-topic,die Arbeit,work
-topic,die Familie,family
-topic,die Heimat,home country
-topic,das Essen,food
-topic,die Stadt,city
-topic,der Kiez,neighbourhood (Berlin)
-topic,der Film,film
-topic,die Serie,TV series
-topic,die Musik,music
-topic,das Buch,book
-topic,der Sport,sport
-topic,das Konzert,concert
-weather,die Sonne,sun
-weather,der Regen,rain
-weather,der Wind,wind
-weather,der Schnee,snow
-weather,das Grad,degree (temperature)
+category,german,english,similarity
+topic,das Wochenende,weekend,different
+topic,der Urlaub,holiday,different
+topic,die Arbeit,work,different
+topic,die Heimat,home country,different
+topic,das Essen,food,different
+topic,die Stadt,city,different
+topic,der Kiez,neighbourhood (Berlin),different
+weather,das Grad,degree (temperature),different
+topic,das Wetter,weather,cognate
+topic,das Hobby,hobby,cognate
+topic,die Familie,family,cognate
+topic,der Film,film,cognate
+topic,die Serie,TV series,cognate
+topic,die Musik,music,cognate
+topic,das Buch,book,cognate
+topic,der Sport,sport,cognate
+topic,das Konzert,concert,cognate
+weather,die Sonne,sun,cognate
+weather,der Regen,rain,cognate
+weather,der Wind,wind,cognate
+weather,der Schnee,snow,cognate

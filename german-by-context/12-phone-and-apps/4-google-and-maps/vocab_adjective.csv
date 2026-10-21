@@ -1,8 +1,8 @@
-category,german,english
-maps,jetzt geöffnet,open now
-maps,geschlossen,closed
-maps,schließt bald,closing soon
-maps,dauerhaft geschlossen,permanently closed
-maps,vorübergehend geschlossen,temporarily closed
-maps,schnellste,fastest
-maps,in der Nähe,nearby
+category,german,english,similarity
+maps,schließt bald,closing soon,false-friend
+maps,jetzt geöffnet,open now,different
+maps,geschlossen,closed,different
+maps,dauerhaft geschlossen,permanently closed,different
+maps,vorübergehend geschlossen,temporarily closed,different
+maps,schnellste,fastest,different
+maps,in der Nähe,nearby,different

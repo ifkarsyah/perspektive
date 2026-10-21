@@ -1,16 +1,16 @@
-category,german,english
-neighbour,sich vorstellen (sep.),to introduce oneself
-neighbour,klingeln,to ring the bell
-neighbour,grüßen,to greet
-neighbour,ein Paket annehmen (sep.),to accept a parcel
-neighbour,Bescheid sagen,to let someone know
-neighbour,sich beschweren,to complain
-neighbour,stören,to disturb
-rules,Lärm machen,to make noise
-rules,leise sein,to be quiet
-rules,den Müll trennen,to sort the waste
-rules,abstellen (sep.),to leave (something somewhere)
-problem,melden,to report
-problem,reparieren,to repair
-problem,vorbeikommen (sep.),to come by
-problem,sich aussperren (sep.),to lock oneself out
+category,german,english,similarity
+neighbour,sich vorstellen (sep.),to introduce oneself,different
+neighbour,klingeln,to ring the bell,different
+neighbour,grüßen,to greet,different
+neighbour,ein Paket annehmen (sep.),to accept a parcel,different
+neighbour,Bescheid sagen,to let someone know,different
+neighbour,sich beschweren,to complain,different
+neighbour,stören,to disturb,different
+rules,Lärm machen,to make noise,different
+rules,leise sein,to be quiet,different
+rules,den Müll trennen,to sort the waste,different
+rules,abstellen (sep.),to leave (something somewhere),different
+problem,melden,to report,different
+problem,vorbeikommen (sep.),to come by,different
+problem,sich aussperren (sep.),to lock oneself out,different
+problem,reparieren,to repair,cognate

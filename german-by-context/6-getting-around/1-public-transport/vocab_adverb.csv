@@ -1,12 +1,12 @@
-category,german,english
-direction,geradeaus,straight ahead
-direction,links,left
-direction,rechts,right
-direction,zurück,back
-place,hier,here
-place,dort,there
-place,weit,far
-place,in der Nähe,nearby
-way,zu Fuß,on foot
-time,gleich,in a moment
-time,ungefähr,about / roughly
+category,german,english,similarity
+direction,geradeaus,straight ahead,different
+direction,links,left,different
+direction,zurück,back,different
+place,dort,there,different
+place,weit,far,different
+place,in der Nähe,nearby,different
+way,zu Fuß,on foot,different
+time,gleich,in a moment,different
+time,ungefähr,about / roughly,different
+direction,rechts,right,cognate
+place,hier,here,cognate

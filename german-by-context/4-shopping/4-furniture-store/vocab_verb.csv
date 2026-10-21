@@ -1,17 +1,17 @@
-category,german,english
-shop,aussuchen (sep.),to choose
-shop,ausprobieren (sep.),to try out
-shop,messen,to measure
-shop,bestellen,to order
-shop,liefern,to deliver
-shop,abholen (sep.),to pick up
-shop,tragen,to carry
-shop,passen,to fit
-assembly,aufbauen (sep.),to assemble
-assembly,abbauen (sep.),to disassemble
-assembly,zusammenbauen (sep.),to put together
-assembly,festschrauben (sep.),to screw tight
-assembly,bohren,to drill
-assembly,an der Wand befestigen,to fix to the wall
-return,zurückgeben (sep.),to return
-return,umtauschen (sep.),to exchange
+category,german,english,similarity
+shop,aussuchen (sep.),to choose,different
+shop,ausprobieren (sep.),to try out,different
+shop,messen,to measure,different
+shop,bestellen,to order,different
+shop,liefern,to deliver,different
+shop,abholen (sep.),to pick up,different
+shop,tragen,to carry,different
+shop,passen,to fit,different
+assembly,aufbauen (sep.),to assemble,different
+assembly,abbauen (sep.),to disassemble,different
+assembly,zusammenbauen (sep.),to put together,different
+assembly,festschrauben (sep.),to screw tight,different
+assembly,bohren,to drill,different
+assembly,an der Wand befestigen,to fix to the wall,different
+return,zurückgeben (sep.),to return,different
+return,umtauschen (sep.),to exchange,different

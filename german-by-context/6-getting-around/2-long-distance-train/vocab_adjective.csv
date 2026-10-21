@@ -1,10 +1,10 @@
-category,german,english
-seat,reserviert,reserved
-seat,frei,free
-seat,besetzt,taken
-train,voll,full
-train,pünktlich,on time
-train,verspätet,delayed
-ticket,gültig,valid
-ticket,flexibel,flexible
-ticket,günstig,cheap
+category,german,english,similarity
+seat,besetzt,taken,different
+train,pünktlich,on time,different
+train,verspätet,delayed,different
+ticket,gültig,valid,different
+ticket,günstig,cheap,different
+seat,reserviert,reserved,cognate
+seat,frei,free,cognate
+train,voll,full,cognate
+ticket,flexibel,flexible,cognate

@@ -1,9 +1,9 @@
-category,german,english
-time,sofort,immediately
-time,jederzeit,anytime
-time,schon,already
-time,noch nicht,not yet
-place,im Laden,in the shop
-place,online,online
-place,im Ausland,abroad
-place,überall,everywhere
+category,german,english,similarity
+time,sofort,immediately,different
+time,jederzeit,anytime,different
+time,schon,already,different
+time,noch nicht,not yet,different
+place,im Laden,in the shop,different
+place,im Ausland,abroad,different
+place,überall,everywhere,different
+place,online,online,cognate

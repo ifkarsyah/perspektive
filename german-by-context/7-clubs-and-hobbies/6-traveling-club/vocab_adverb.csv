@@ -1,10 +1,10 @@
-category,german,english
-time,am Wochenende,at the weekend
-time,nächsten Monat,next month
-time,im Voraus,in advance
-time,rechtzeitig,in good time
-time,unterwegs,on the way
-cost,pro Person,per person
-cost,insgesamt,in total
-place,im Ausland,abroad
-place,in der Nähe von Berlin,near Berlin
+category,german,english,similarity
+time,am Wochenende,at the weekend,different
+time,nächsten Monat,next month,different
+time,im Voraus,in advance,different
+time,rechtzeitig,in good time,different
+time,unterwegs,on the way,different
+cost,insgesamt,in total,different
+place,im Ausland,abroad,different
+place,in der Nähe von Berlin,near Berlin,different
+cost,pro Person,per person,cognate

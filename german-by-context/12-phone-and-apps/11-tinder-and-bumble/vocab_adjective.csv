@@ -1,12 +1,12 @@
-category,german,english
-profile,neu in Berlin,new in Berlin
-profile,aktiv,active
-profile,verifiziert,verified
-profile,gelegentlich,occasionally (drinking / smoking)
-profile,nie,never
-profile,sportlich,sporty
-profile,abenteuerlustig,adventurous
-profile,ehrlich,honest
-chat,lustig,funny
-chat,süß,cute
-chat,seltsam,weird
+category,german,english,similarity
+profile,gelegentlich,occasionally (drinking / smoking),different
+profile,nie,never,different
+profile,abenteuerlustig,adventurous,different
+profile,ehrlich,honest,different
+chat,lustig,funny,different
+chat,seltsam,weird,different
+profile,neu in Berlin,new in Berlin,cognate
+profile,aktiv,active,cognate
+profile,verifiziert,verified,cognate
+profile,sportlich,sporty,cognate
+chat,süß,cute,cognate

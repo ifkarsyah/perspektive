@@ -1,44 +1,44 @@
-category,german,english
-place,das Café,café
-place,die Bäckerei,bakery
-place,die Theke,counter
-place,der Tresen,bar counter
-place,die Selbstbedienung,self-service
-place,die Terrasse,terrace
-place,der Platz,seat
-place,die Steckdose,power socket
-place,das WLAN,Wi-Fi
-place,das Passwort,password
-place,die Toilette,toilet
-coffee,der Kaffee,coffee
-coffee,der Espresso,espresso
-coffee,der Cappuccino,cappuccino
-coffee,der Latte macchiato,latte macchiato
-coffee,der Milchkaffee,large coffee with milk
-coffee,der Filterkaffee,filter coffee
-coffee,der Eiskaffee,iced coffee (with ice cream)
-coffee,der Iced Latte,iced latte
-coffee,der Kakao,hot chocolate
-coffee,der Tee,tea
-coffee,der Pfefferminztee,peppermint tea
-coffee,die Tasse,cup
-coffee,der Becher,mug / to-go cup
-coffee,der Mehrwegbecher,reusable cup
-milk,die Milch,milk
-milk,die Hafermilch,oat milk
-milk,die Sojamilch,soy milk
-milk,der Zucker,sugar
-milk,der Süßstoff,sweetener
-milk,die Sahne,cream
-food,der Kuchen,cake
-food,die Torte,layered cake / gâteau
-food,der Käsekuchen,cheesecake
-food,das Croissant,croissant
-food,das Franzbrötchen,cinnamon pastry
-food,die Brezel,pretzel
-food,das belegte Brötchen,filled roll
-food,das Stück,piece / slice
-food,das Frühstück,breakfast
-food,das Müsli,muesli
-food,das Rührei,scrambled eggs
-food,der Bagel,bagel
+category,german,english,similarity
+place,die Theke,counter,different
+place,der Tresen,bar counter,different
+place,die Selbstbedienung,self-service,different
+place,der Platz,seat,different
+place,die Steckdose,power socket,different
+place,das WLAN,Wi-Fi,different
+coffee,der Milchkaffee,large coffee with milk,different
+coffee,die Tasse,cup,different
+coffee,der Becher,mug / to-go cup,different
+coffee,der Mehrwegbecher,reusable cup,different
+milk,die Hafermilch,oat milk,different
+milk,der Süßstoff,sweetener,different
+milk,die Sahne,cream,different
+food,der Kuchen,cake,different
+food,die Torte,layered cake / gâteau,different
+food,das Franzbrötchen,cinnamon pastry,different
+food,das belegte Brötchen,filled roll,different
+food,das Stück,piece / slice,different
+food,das Frühstück,breakfast,different
+food,das Rührei,scrambled eggs,different
+place,das Café,café,cognate
+place,die Bäckerei,bakery,cognate
+place,die Terrasse,terrace,cognate
+place,das Passwort,password,cognate
+place,die Toilette,toilet,cognate
+coffee,der Kaffee,coffee,cognate
+coffee,der Espresso,espresso,cognate
+coffee,der Cappuccino,cappuccino,cognate
+coffee,der Latte macchiato,latte macchiato,cognate
+coffee,der Filterkaffee,filter coffee,cognate
+coffee,der Eiskaffee,iced coffee (with ice cream),cognate
+coffee,der Iced Latte,iced latte,cognate
+coffee,der Kakao,hot chocolate,cognate
+coffee,der Tee,tea,cognate
+coffee,der Pfefferminztee,peppermint tea,cognate
+milk,die Milch,milk,cognate
+milk,die Sojamilch,soy milk,cognate
+milk,der Zucker,sugar,cognate
+food,der Käsekuchen,cheesecake,cognate
+food,das Croissant,croissant,cognate
+food,die Brezel,pretzel,cognate
+food,das Müsli,muesli,cognate
+food,der Bagel,bagel,cognate

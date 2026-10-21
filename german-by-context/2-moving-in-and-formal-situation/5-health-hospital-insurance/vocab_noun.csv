@@ -1,61 +1,61 @@
-category,german,english
-insurance,die Krankenversicherung,health insurance
-insurance,die Krankenkasse,health insurance provider
-insurance,die gesetzliche Krankenversicherung,public health insurance
-insurance,die private Krankenversicherung,private health insurance
-insurance,die Versichertenkarte,health insurance card
-insurance,die Versicherungsnummer,insurance number
-insurance,der Beitrag,contribution (monthly fee)
-insurance,die Haftpflichtversicherung,personal liability insurance
-doctor,die Arztpraxis,doctor's office
-doctor,der Hausarzt,general practitioner
-doctor,der Facharzt,specialist
-doctor,der Zahnarzt,dentist
-doctor,der Frauenarzt,gynaecologist
-doctor,der Augenarzt,eye doctor
-doctor,die Sprechstunde,consultation hours
-doctor,der Termin,appointment
-doctor,das Wartezimmer,waiting room
-doctor,die Überweisung,referral
-doctor,das Rezept,prescription
-doctor,die Krankschreibung,sick note
-doctor,die Arbeitsunfähigkeitsbescheinigung,official sick note (AU)
-hospital,das Krankenhaus,hospital
-hospital,die Notaufnahme,emergency room
-hospital,der Notruf,emergency call (112)
-hospital,der Krankenwagen,ambulance
-hospital,der ärztliche Bereitschaftsdienst,out-of-hours doctor (116117)
-hospital,die Station,ward
-hospital,die Operation,surgery
-hospital,die Spritze,injection
-hospital,die Impfung,vaccination
-hospital,die Blutabnahme,blood test
-symptom,die Schmerzen,pain
-symptom,das Fieber,fever
-symptom,der Husten,cough
-symptom,der Schnupfen,runny nose / cold
-symptom,die Erkältung,cold
-symptom,die Grippe,flu
-symptom,die Kopfschmerzen,headache
-symptom,die Bauchschmerzen,stomach ache
-symptom,die Halsschmerzen,sore throat
-symptom,der Durchfall,diarrhoea
-symptom,die Übelkeit,nausea
-symptom,die Allergie,allergy
-symptom,die Verletzung,injury
-body,der Kopf,head
-body,der Hals,throat / neck
-body,der Bauch,stomach
-body,der Rücken,back
-body,die Brust,chest
-body,der Arm,arm
-body,das Bein,leg
-body,die Hand,hand
-body,der Fuß,foot
-body,das Auge,eye
-body,das Ohr,ear
-body,der Zahn,tooth
-medicine,das Medikament,medicine
-medicine,die Tablette,pill
-medicine,die Apotheke,pharmacy
-medicine,die Nebenwirkung,side effect
+category,german,english,similarity
+doctor,der Termin,appointment,false-friend
+doctor,das Rezept,prescription,false-friend
+hospital,die Station,ward,false-friend
+insurance,die Krankenversicherung,health insurance,different
+insurance,die Krankenkasse,health insurance provider,different
+insurance,die gesetzliche Krankenversicherung,public health insurance,different
+insurance,die private Krankenversicherung,private health insurance,different
+insurance,die Versichertenkarte,health insurance card,different
+insurance,die Versicherungsnummer,insurance number,different
+insurance,der Beitrag,contribution (monthly fee),different
+insurance,die Haftpflichtversicherung,personal liability insurance,different
+doctor,die Arztpraxis,doctor's office,different
+doctor,der Hausarzt,general practitioner,different
+doctor,der Facharzt,specialist,different
+doctor,der Zahnarzt,dentist,different
+doctor,der Frauenarzt,gynaecologist,different
+doctor,der Augenarzt,eye doctor,different
+doctor,die Sprechstunde,consultation hours,different
+doctor,das Wartezimmer,waiting room,different
+doctor,die Überweisung,referral,different
+doctor,die Krankschreibung,sick note,different
+doctor,die Arbeitsunfähigkeitsbescheinigung,official sick note (AU),different
+hospital,das Krankenhaus,hospital,different
+hospital,die Notaufnahme,emergency room,different
+hospital,der Notruf,emergency call (112),different
+hospital,der Krankenwagen,ambulance,different
+hospital,der ärztliche Bereitschaftsdienst,out-of-hours doctor (116117),different
+hospital,die Operation,surgery,different
+hospital,die Spritze,injection,different
+hospital,die Impfung,vaccination,different
+hospital,die Blutabnahme,blood test,different
+symptom,die Schmerzen,pain,different
+symptom,der Husten,cough,different
+symptom,der Schnupfen,runny nose / cold,different
+symptom,die Erkältung,cold,different
+symptom,die Grippe,flu,different
+symptom,die Kopfschmerzen,headache,different
+symptom,die Bauchschmerzen,stomach ache,different
+symptom,die Halsschmerzen,sore throat,different
+symptom,der Durchfall,diarrhoea,different
+symptom,die Übelkeit,nausea,different
+symptom,die Verletzung,injury,different
+body,der Kopf,head,different
+body,der Hals,throat / neck,different
+body,der Bauch,stomach,different
+body,der Rücken,back,different
+body,das Bein,leg,different
+body,das Auge,eye,different
+medicine,die Nebenwirkung,side effect,different
+symptom,das Fieber,fever,cognate
+symptom,die Allergie,allergy,cognate
+body,die Brust,chest,cognate
+body,der Arm,arm,cognate
+body,die Hand,hand,cognate
+body,der Fuß,foot,cognate
+body,das Ohr,ear,cognate
+body,der Zahn,tooth,cognate
+medicine,das Medikament,medicine,cognate
+medicine,die Tablette,pill,cognate
+medicine,die Apotheke,pharmacy,cognate

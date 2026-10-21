@@ -1,13 +1,13 @@
-category,german,english
-setup,einlegen (sep.),to insert (SIM)
-setup,aktivieren,to activate
-setup,freischalten (sep.),to unlock / activate
-setup,abschließen (sep.),to sign (a contract)
-setup,wechseln,to switch (provider)
-setup,kündigen,to cancel
-usage,aufladen (sep.),to top up
-usage,telefonieren,to make phone calls
-usage,anrufen (sep.),to call
-usage,surfen,to browse the internet
-usage,sich verbinden,to connect
-usage,funktionieren,to work (function)
+category,german,english,similarity
+setup,einlegen (sep.),to insert (SIM),different
+setup,freischalten (sep.),to unlock / activate,different
+setup,abschließen (sep.),to sign (a contract),different
+setup,wechseln,to switch (provider),different
+setup,kündigen,to cancel,different
+usage,aufladen (sep.),to top up,different
+usage,telefonieren,to make phone calls,different
+usage,anrufen (sep.),to call,different
+usage,surfen,to browse the internet,different
+usage,sich verbinden,to connect,different
+usage,funktionieren,to work (function),different
+setup,aktivieren,to activate,cognate

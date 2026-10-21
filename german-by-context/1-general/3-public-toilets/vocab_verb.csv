@@ -1,12 +1,12 @@
-category,german,english
-use,auf die Toilette gehen,to go to the toilet
-use,aufs Klo gehen,to go to the loo (informal)
-use,benutzen,to use
-use,müssen,to need to go (Ich muss mal)
-use,abschließen (sep.),to lock
-use,spülen,to flush
-use,sich die Hände waschen,to wash one's hands
-use,warten,to wait
-pay,bezahlen,to pay
-pay,einwerfen (sep.),to insert (coin)
-pay,einlösen (sep.),to redeem (voucher)
+category,german,english,similarity
+use,auf die Toilette gehen,to go to the toilet,different
+use,aufs Klo gehen,to go to the loo (informal),different
+use,benutzen,to use,different
+use,müssen,to need to go (Ich muss mal),different
+use,abschließen (sep.),to lock,different
+use,spülen,to flush,different
+use,sich die Hände waschen,to wash one's hands,different
+pay,bezahlen,to pay,different
+pay,einwerfen (sep.),to insert (coin),different
+pay,einlösen (sep.),to redeem (voucher),different
+use,warten,to wait,cognate

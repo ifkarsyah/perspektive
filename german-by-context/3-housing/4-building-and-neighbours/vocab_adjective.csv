@@ -1,13 +1,13 @@
-category,german,english
-noise,laut,loud
-noise,leise,quiet
-noise,ruhig,calm / quiet
-noise,störend,disturbing
-people,freundlich,friendly
-people,hilfsbereit,helpful
-people,neu,new
-problem,kaputt,broken
-problem,defekt,defective
-problem,undicht,leaking
-problem,verstopft,blocked
-problem,dringend,urgent
+category,german,english,similarity
+noise,leise,quiet,different
+noise,ruhig,calm / quiet,different
+noise,störend,disturbing,different
+people,hilfsbereit,helpful,different
+problem,kaputt,broken,different
+problem,undicht,leaking,different
+problem,verstopft,blocked,different
+problem,dringend,urgent,different
+noise,laut,loud,cognate
+people,freundlich,friendly,cognate
+people,neu,new,cognate
+problem,defekt,defective,cognate

@@ -1,37 +1,37 @@
-category,german,english
-store,der Elektronikmarkt,electronics store
-store,die Abteilung,department
-store,der Verkäufer,salesperson
-store,die Garantie,warranty
-store,die Gewährleistung,statutory warranty
-store,die Reparatur,repair
-store,der Kundendienst,customer service
-store,die Rückgabe,return
-device,der Laptop,laptop
-device,der Computer,computer
-device,der Bildschirm,monitor
-device,die Tastatur,keyboard
-device,die Maus,mouse
-device,das Handy,mobile phone
-device,das Tablet,tablet
-device,der Fernseher,TV
-device,die Kopfhörer,headphones
-device,der Lautsprecher,speaker
-device,der Drucker,printer
-device,die Kamera,camera
-device,der Router,router
-accessory,das Ladegerät,charger
-accessory,das Kabel,cable
-accessory,der Adapter,adapter
-accessory,der Stecker,plug
-accessory,die Mehrfachsteckdose,power strip
-accessory,die Powerbank,power bank
-accessory,die Hülle,case
-accessory,die Schutzfolie,screen protector
-accessory,die Speicherkarte,memory card
-accessory,die Festplatte,hard drive
-spec,der Akku,battery (rechargeable)
-spec,der Speicher,storage
-spec,der Arbeitsspeicher,RAM
-spec,der Prozessor,processor
-spec,die Tastaturbelegung,keyboard layout
+category,german,english,similarity
+device,das Handy,mobile phone,false-friend
+store,die Abteilung,department,different
+store,der Verkäufer,salesperson,different
+store,die Gewährleistung,statutory warranty,different
+store,der Kundendienst,customer service,different
+store,die Rückgabe,return,different
+device,der Bildschirm,monitor,different
+device,die Tastatur,keyboard,different
+device,der Fernseher,TV,different
+device,die Kopfhörer,headphones,different
+device,der Lautsprecher,speaker,different
+device,der Drucker,printer,different
+accessory,das Ladegerät,charger,different
+accessory,der Stecker,plug,different
+accessory,die Mehrfachsteckdose,power strip,different
+accessory,die Hülle,case,different
+accessory,die Schutzfolie,screen protector,different
+accessory,die Speicherkarte,memory card,different
+accessory,die Festplatte,hard drive,different
+spec,der Akku,battery (rechargeable),different
+spec,der Speicher,storage,different
+spec,der Arbeitsspeicher,RAM,different
+spec,die Tastaturbelegung,keyboard layout,different
+store,der Elektronikmarkt,electronics store,cognate
+store,die Garantie,warranty,cognate
+store,die Reparatur,repair,cognate
+device,der Laptop,laptop,cognate
+device,der Computer,computer,cognate
+device,die Maus,mouse,cognate
+device,das Tablet,tablet,cognate
+device,die Kamera,camera,cognate
+device,der Router,router,cognate
+accessory,das Kabel,cable,cognate
+accessory,der Adapter,adapter,cognate
+accessory,die Powerbank,power bank,cognate
+spec,der Prozessor,processor,cognate

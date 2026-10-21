@@ -1,9 +1,9 @@
-category,german,english
-delivery,bis vor die Tür,to the front door
-delivery,in die Wohnung,into the apartment
-delivery,in den vierten Stock,to the fourth floor
-time,innerhalb von einer Woche,within a week
-time,vormittags,in the morning
-time,nachmittags,in the afternoon
-amount,zusätzlich,additionally
-amount,im Preis inbegriffen,included in the price
+category,german,english,similarity
+delivery,in den vierten Stock,to the fourth floor,false-friend
+delivery,bis vor die Tür,to the front door,different
+delivery,in die Wohnung,into the apartment,different
+time,innerhalb von einer Woche,within a week,different
+time,vormittags,in the morning,different
+time,nachmittags,in the afternoon,different
+amount,zusätzlich,additionally,different
+amount,im Preis inbegriffen,included in the price,different

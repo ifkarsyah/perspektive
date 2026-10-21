@@ -1,11 +1,11 @@
-category,german,english
-out,ausgehen (sep.),to go out
-out,feiern,to party
-out,tanzen,to dance
-out,trinken,to drink
-out,anstoßen (sep.),to clink glasses
-out,einen ausgeben (sep.),to buy someone a drink
-out,rauchen,to smoke
-home,nach Hause gehen,to go home
-home,ein Taxi nehmen,to take a taxi
-home,ausschlafen (sep.),to sleep in
+category,german,english,similarity
+out,ausgehen (sep.),to go out,different
+out,feiern,to party,different
+out,anstoßen (sep.),to clink glasses,different
+out,einen ausgeben (sep.),to buy someone a drink,different
+out,rauchen,to smoke,different
+home,nach Hause gehen,to go home,different
+home,ein Taxi nehmen,to take a taxi,different
+home,ausschlafen (sep.),to sleep in,different
+out,tanzen,to dance,cognate
+out,trinken,to drink,cognate

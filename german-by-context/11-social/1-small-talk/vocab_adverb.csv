@@ -1,11 +1,11 @@
-category,german,english
-time,am Wochenende,at the weekend
-time,letzte Woche,last week
-time,neulich,recently
-time,bald,soon
-time,ab und zu,now and then
-time,meistens,mostly
-degree,eigentlich,actually
-degree,ziemlich,quite
-degree,total,totally
-degree,echt,really
+category,german,english,similarity
+time,bald,soon,false-friend
+time,am Wochenende,at the weekend,different
+time,letzte Woche,last week,different
+time,neulich,recently,different
+time,ab und zu,now and then,different
+time,meistens,mostly,different
+degree,eigentlich,actually,different
+degree,ziemlich,quite,different
+degree,echt,really,different
+degree,total,totally,cognate

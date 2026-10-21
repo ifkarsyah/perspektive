@@ -1,30 +1,30 @@
-category,german,english
-morning,aufwachen (sep.),to wake up
-morning,aufstehen (sep.),to get up
-morning,duschen,to shower
-morning,sich die Zähne putzen,to brush one's teeth
-morning,sich anziehen (sep.),to get dressed
-morning,frühstücken,to have breakfast
-morning,Kaffee kochen,to make coffee
-day,zur Arbeit fahren,to go to work
-day,arbeiten,to work
-day,Mittag essen,to have lunch
-day,nach Hause kommen,to come home
-day,einkaufen (sep.),to go shopping
-home,kochen,to cook
-home,abwaschen (sep.),to do the dishes
-home,aufräumen (sep.),to tidy up
-home,putzen,to clean
-home,Wäsche waschen,to do laundry
-home,den Müll rausbringen,to take out the trash
-evening,zu Abend essen,to have dinner
-evening,fernsehen (sep.),to watch TV
-evening,Serien schauen,to watch series
-evening,lesen,to read
-evening,Sport machen,to exercise
-evening,spazieren gehen,to go for a walk
-evening,sich ausruhen (sep.),to rest
-night,ins Bett gehen,to go to bed
-night,einschlafen (sep.),to fall asleep
-night,schlafen,to sleep
-weekend,ausschlafen (sep.),to sleep in
+category,german,english,similarity
+morning,aufwachen (sep.),to wake up,different
+morning,aufstehen (sep.),to get up,different
+morning,duschen,to shower,different
+morning,sich die Zähne putzen,to brush one's teeth,different
+morning,sich anziehen (sep.),to get dressed,different
+morning,frühstücken,to have breakfast,different
+morning,Kaffee kochen,to make coffee,different
+day,zur Arbeit fahren,to go to work,different
+day,arbeiten,to work,different
+day,Mittag essen,to have lunch,different
+day,nach Hause kommen,to come home,different
+day,einkaufen (sep.),to go shopping,different
+home,abwaschen (sep.),to do the dishes,different
+home,aufräumen (sep.),to tidy up,different
+home,putzen,to clean,different
+home,Wäsche waschen,to do laundry,different
+home,den Müll rausbringen,to take out the trash,different
+evening,zu Abend essen,to have dinner,different
+evening,fernsehen (sep.),to watch TV,different
+evening,Serien schauen,to watch series,different
+evening,lesen,to read,different
+evening,Sport machen,to exercise,different
+evening,spazieren gehen,to go for a walk,different
+evening,sich ausruhen (sep.),to rest,different
+night,ins Bett gehen,to go to bed,different
+night,einschlafen (sep.),to fall asleep,different
+weekend,ausschlafen (sep.),to sleep in,different
+home,kochen,to cook,cognate
+night,schlafen,to sleep,cognate

@@ -1,14 +1,14 @@
-category,german,english
-pace,schnell,fast
-pace,langsam,slow
-pace,locker,easy (pace)
-pace,anstrengend,exhausting
-route,flach,flat
-route,hügelig,hilly
-route,steil,steep
-route,matschig,muddy
-feeling,fit,fit
-feeling,kaputt,exhausted (informal)
-feeling,durstig,thirsty
-weather,windig,windy
-weather,nass,wet
+category,german,english,similarity
+pace,schnell,fast,different
+pace,langsam,slow,different
+pace,locker,easy (pace),different
+pace,anstrengend,exhausting,different
+route,hügelig,hilly,different
+route,steil,steep,different
+route,matschig,muddy,different
+feeling,kaputt,exhausted (informal),different
+weather,nass,wet,different
+route,flach,flat,cognate
+feeling,fit,fit,cognate
+feeling,durstig,thirsty,cognate
+weather,windig,windy,cognate

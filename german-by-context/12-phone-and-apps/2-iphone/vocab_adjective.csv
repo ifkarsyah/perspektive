@@ -1,7 +1,7 @@
-category,german,english
-status,stummgeschaltet,muted
-status,gesperrt,locked
-status,voll,full (storage)
-status,schwach,low (battery)
-status,geladen,charged
-status,kabellos,wireless
+category,german,english,similarity
+status,stummgeschaltet,muted,different
+status,gesperrt,locked,different
+status,schwach,low (battery),different
+status,geladen,charged,different
+status,kabellos,wireless,different
+status,voll,full (storage),cognate

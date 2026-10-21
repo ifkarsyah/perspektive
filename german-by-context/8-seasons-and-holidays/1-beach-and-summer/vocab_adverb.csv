@@ -1,11 +1,11 @@
-category,german,english
-place,im Schatten,in the shade
-place,in der Sonne,in the sun
-place,am See,at the lake
-place,am Strand,on the beach
-place,im Wasser,in the water
-time,den ganzen Tag,all day
-time,am Wochenende,at the weekend
-time,bei gutem Wetter,if the weather's good
-time,früh,early
-manner,barfuß,barefoot
+category,german,english,similarity
+place,am See,at the lake,false-friend
+place,am Strand,on the beach,false-friend
+place,im Schatten,in the shade,different
+place,im Wasser,in the water,different
+time,den ganzen Tag,all day,different
+time,am Wochenende,at the weekend,different
+time,bei gutem Wetter,if the weather's good,different
+time,früh,early,different
+place,in der Sonne,in the sun,cognate
+manner,barfuß,barefoot,cognate

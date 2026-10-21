@@ -1,11 +1,11 @@
-category,german,english
-manner,langsam,slowly
-manner,deutlich,clearly
-manner,laut,loudly
-manner,richtig,correctly
-manner,falsch,wrongly
-manner,auf Deutsch,in German
-manner,auf Englisch,in English
-time,seit drei Monaten,for three months
-time,jeden Dienstag,every Tuesday
-time,ab und zu,now and then
+category,german,english,similarity
+manner,langsam,slowly,different
+manner,deutlich,clearly,different
+manner,richtig,correctly,different
+manner,falsch,wrongly,different
+manner,auf Deutsch,in German,different
+time,seit drei Monaten,for three months,different
+time,jeden Dienstag,every Tuesday,different
+time,ab und zu,now and then,different
+manner,laut,loudly,cognate
+manner,auf Englisch,in English,cognate

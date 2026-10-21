@@ -1,13 +1,13 @@
-category,german,english
-out,reinkommen (sep.),to get in
-out,abgewiesen werden,to be turned away
-club,feiern gehen,to go out partying
-club,tanzen,to dance
-club,anstehen (sep.),to queue
-club,reingelassen werden,to be let in
-club,abgeben (sep.),to check (coat)
-club,durchfeiern (sep.),to party all night
-club,auflegen (sep.),to DJ
-safety,aufpassen (sep.),to look out
-safety,belästigen,to harass
-safety,Bescheid sagen,to tell (someone)
+category,german,english,similarity
+out,reinkommen (sep.),to get in,different
+out,abgewiesen werden,to be turned away,different
+club,feiern gehen,to go out partying,different
+club,anstehen (sep.),to queue,different
+club,reingelassen werden,to be let in,different
+club,abgeben (sep.),to check (coat),different
+club,durchfeiern (sep.),to party all night,different
+club,auflegen (sep.),to DJ,different
+safety,aufpassen (sep.),to look out,different
+safety,belästigen,to harass,different
+safety,Bescheid sagen,to tell (someone),different
+club,tanzen,to dance,cognate

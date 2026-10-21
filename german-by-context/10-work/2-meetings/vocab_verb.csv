@@ -1,16 +1,16 @@
-category,german,english
-meeting,einladen (sep.),to invite
-meeting,verschieben,to postpone
-meeting,absagen (sep.),to cancel
-meeting,teilnehmen (sep.),to attend
-meeting,leiten,to lead (a meeting)
-meeting,präsentieren,to present
-meeting,den Bildschirm teilen,to share the screen
-meeting,stumm schalten,to mute
-discuss,besprechen,to discuss
-discuss,vorschlagen (sep.),to suggest
-discuss,zustimmen (sep.),to agree
-discuss,widersprechen,to disagree
-discuss,entscheiden,to decide
-discuss,zusammenfassen (sep.),to summarise
-discuss,nachfragen (sep.),to follow up
+category,german,english,similarity
+meeting,einladen (sep.),to invite,different
+meeting,verschieben,to postpone,different
+meeting,absagen (sep.),to cancel,different
+meeting,teilnehmen (sep.),to attend,different
+meeting,leiten,to lead (a meeting),different
+meeting,den Bildschirm teilen,to share the screen,different
+meeting,stumm schalten,to mute,different
+discuss,besprechen,to discuss,different
+discuss,vorschlagen (sep.),to suggest,different
+discuss,zustimmen (sep.),to agree,different
+discuss,widersprechen,to disagree,different
+discuss,entscheiden,to decide,different
+discuss,zusammenfassen (sep.),to summarise,different
+discuss,nachfragen (sep.),to follow up,different
+meeting,präsentieren,to present,cognate

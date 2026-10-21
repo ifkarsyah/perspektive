@@ -1,7 +1,7 @@
-category,german,english
-status,eingefroren,frozen
-status,langsam,slow
-status,heiß,hot
-status,voll,full
-status,beschädigt,corrupted
-status,geschützt,protected
+category,german,english,similarity
+status,eingefroren,frozen,different
+status,langsam,slow,different
+status,beschädigt,corrupted,different
+status,geschützt,protected,different
+status,heiß,hot,cognate
+status,voll,full,cognate

@@ -1,58 +1,58 @@
-category,german,english
-game,das Spiel,game / match
-game,das Match,match
-game,die Runde,round / game
-game,der Spielmodus,game mode
-game,das Ranked,ranked mode
-game,die Rangliste,leaderboard
-game,der Rang,rank
-game,die Saison,season
-game,die Warteschlange,queue
-game,das Team,team
-game,der Gegner,opponent / enemy
-game,der Mitspieler,teammate
-game,der Sieg,victory
-game,die Niederlage,defeat
-game,der Held,hero
-game,die Heldin,hero (f)
-game,der Skin,skin
-game,die Diamanten,diamonds (MLBB currency)
-game,das Event,event
-map,die Karte,map
-map,die Lane,lane
-map,die Toplane,top lane
-map,die Midlane,mid lane
-map,die Botlane,bottom lane
-map,die Gold Lane,gold lane (MLBB)
-map,die EXP Lane,EXP lane (MLBB)
-map,der Dschungel,jungle
-map,der Turm,tower
-map,die Basis,base
-map,der Brunnen,fountain / base spawn
-map,das Gebüsch,bush
-map,der Fluss,river
-map,die Creeps,creeps / minions
-map,der Lord,Lord (MLBB)
-map,die Schildkröte,Turtle (MLBB)
-map,Roshan,Roshan (Dota)
-role,der Tank,tank
-role,der Kämpfer,fighter
-role,der Assassine,assassin
-role,der Magier,mage
-role,der Schütze,marksman
-role,der Support,support
-role,der Carry,carry
-role,der Jungler,jungler
-skill,die Fähigkeit,skill / ability
-skill,die Ulti,ultimate (informal)
-skill,die Abklingzeit,cooldown
-skill,das Mana,mana
-skill,die Lebenspunkte,HP / health
-skill,der Schaden,damage
-skill,die Rüstung,armour
-skill,das Item,item
-skill,die Ausrüstung,equipment / build
-skill,der Buff,buff
-skill,der Kill,kill
-skill,der Tod,death
-skill,die Assists,assists
+category,german,english,similarity
+game,das Spiel,game / match,different
+game,der Spielmodus,game mode,different
+game,die Rangliste,leaderboard,different
+game,die Warteschlange,queue,different
+game,der Gegner,opponent / enemy,different
+game,der Mitspieler,teammate,different
+game,der Sieg,victory,different
+game,die Niederlage,defeat,different
+game,der Held,hero,different
+game,die Heldin,hero (f),different
+map,der Turm,tower,different
+map,der Brunnen,fountain / base spawn,different
+map,das Gebüsch,bush,different
+map,der Fluss,river,different
+map,die Schildkröte,Turtle (MLBB),different
+role,der Kämpfer,fighter,different
+role,der Schütze,marksman,different
+skill,die Fähigkeit,skill / ability,different
+skill,die Abklingzeit,cooldown,different
+skill,die Lebenspunkte,HP / health,different
+skill,der Schaden,damage,different
+skill,die Rüstung,armour,different
+skill,die Ausrüstung,equipment / build,different
+skill,der Tod,death,different
+game,das Match,match,cognate
+game,die Runde,round / game,cognate
+game,das Ranked,ranked mode,cognate
+game,der Rang,rank,cognate
+game,die Saison,season,cognate
+game,das Team,team,cognate
+game,der Skin,skin,cognate
+game,die Diamanten,diamonds (MLBB currency),cognate
+game,das Event,event,cognate
+map,die Karte,map,cognate
+map,die Lane,lane,cognate
+map,die Toplane,top lane,cognate
+map,die Midlane,mid lane,cognate
+map,die Botlane,bottom lane,cognate
+map,die Gold Lane,gold lane (MLBB),cognate
+map,die EXP Lane,EXP lane (MLBB),cognate
+map,der Dschungel,jungle,cognate
+map,die Basis,base,cognate
+map,die Creeps,creeps / minions,cognate
+map,der Lord,Lord (MLBB),cognate
+map,Roshan,Roshan (Dota),cognate
+role,der Tank,tank,cognate
+role,der Assassine,assassin,cognate
+role,der Magier,mage,cognate
+role,der Support,support,cognate
+role,der Carry,carry,cognate
+role,der Jungler,jungler,cognate
+skill,die Ulti,ultimate (informal),cognate
+skill,das Mana,mana,cognate
+skill,das Item,item,cognate
+skill,der Buff,buff,cognate
+skill,der Kill,kill,cognate
+skill,die Assists,assists,cognate

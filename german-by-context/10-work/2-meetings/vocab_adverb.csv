@@ -1,10 +1,10 @@
-category,german,english
-order,zuerst,first
-order,danach,after that
-order,zum Schluss,finally
-order,kurz,briefly
-opinion,meiner Meinung nach,in my opinion
-opinion,eigentlich,actually
-opinion,grundsätzlich,basically
-time,bis nächste Woche,by next week
-time,offline,offline (separately)
+category,german,english,similarity
+order,zuerst,first,different
+order,danach,after that,different
+order,zum Schluss,finally,different
+order,kurz,briefly,different
+opinion,meiner Meinung nach,in my opinion,different
+opinion,eigentlich,actually,different
+opinion,grundsätzlich,basically,different
+time,bis nächste Woche,by next week,different
+time,offline,offline (separately),cognate

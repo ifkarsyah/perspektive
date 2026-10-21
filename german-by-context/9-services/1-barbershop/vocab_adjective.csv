@@ -1,14 +1,14 @@
-category,german,english
-length,kurz,short
-length,lang,long
-length,kürzer,shorter
-length,länger,longer
-length,gleich lang,the same length
-style,natürlich,natural
-style,ordentlich,neat
-style,modern,modern
-style,klassisch,classic
-hair,dick,thick
-hair,dünn,thin
-hair,lockig,curly
-hair,glatt,straight
+category,german,english,similarity
+length,kurz,short,different
+length,kürzer,shorter,different
+length,gleich lang,the same length,different
+style,ordentlich,neat,different
+hair,dünn,thin,different
+hair,lockig,curly,different
+hair,glatt,straight,different
+length,lang,long,cognate
+length,länger,longer,cognate
+style,natürlich,natural,cognate
+style,modern,modern,cognate
+style,klassisch,classic,cognate
+hair,dick,thick,cognate

@@ -1,27 +1,27 @@
-category,german,english
-meeting,der Sprachaustausch,language exchange
-meeting,das Tandem,tandem (language partner)
-meeting,der Tandempartner,tandem partner
-meeting,der Stammtisch,regular meetup
-meeting,das Treffen,meeting
-meeting,die Gruppe,group
-meeting,der Muttersprachler,native speaker
-language,die Sprache,language
-language,die Muttersprache,native language
-language,die Fremdsprache,foreign language
-language,das Wort,word
-language,der Satz,sentence
-language,die Bedeutung,meaning
-language,die Aussprache,pronunciation
-language,die Grammatik,grammar
-language,der Akzent,accent
-language,der Fehler,mistake
-language,der Dialekt,dialect
-language,der Ausdruck,expression
-learning,der Deutschkurs,German course
-learning,das Niveau,level (A1 / B2)
-learning,die Prüfung,exam
-learning,die Hausaufgabe,homework
-learning,das Wörterbuch,dictionary
-learning,die Karteikarte,flashcard
-learning,die App,app
+category,german,english,similarity
+meeting,der Sprachaustausch,language exchange,different
+meeting,der Stammtisch,regular meetup,different
+meeting,das Treffen,meeting,different
+meeting,der Muttersprachler,native speaker,different
+language,die Sprache,language,different
+language,die Muttersprache,native language,different
+language,die Fremdsprache,foreign language,different
+language,der Satz,sentence,different
+language,die Bedeutung,meaning,different
+language,die Aussprache,pronunciation,different
+language,der Fehler,mistake,different
+language,der Ausdruck,expression,different
+learning,der Deutschkurs,German course,different
+learning,das Niveau,level (A1 / B2),different
+learning,die Prüfung,exam,different
+learning,die Hausaufgabe,homework,different
+learning,das Wörterbuch,dictionary,different
+learning,die Karteikarte,flashcard,different
+meeting,das Tandem,tandem (language partner),cognate
+meeting,der Tandempartner,tandem partner,cognate
+meeting,die Gruppe,group,cognate
+language,das Wort,word,cognate
+language,die Grammatik,grammar,cognate
+language,der Akzent,accent,cognate
+language,der Dialekt,dialect,cognate
+learning,die App,app,cognate

@@ -1,11 +1,11 @@
-category,german,english
-player,schnell,fast
-player,fit,fit
-player,frei,unmarked / free
-player,offen,open
-player,verletzt,injured
-game,knapp,close (score)
-game,fair,fair
-game,hart,rough
-pitch,nass,wet
-pitch,rutschig,slippery
+category,german,english,similarity
+player,schnell,fast,different
+player,offen,open,different
+player,verletzt,injured,different
+game,knapp,close (score),different
+game,hart,rough,different
+pitch,nass,wet,different
+pitch,rutschig,slippery,different
+player,fit,fit,cognate
+player,frei,unmarked / free,cognate
+game,fair,fair,cognate

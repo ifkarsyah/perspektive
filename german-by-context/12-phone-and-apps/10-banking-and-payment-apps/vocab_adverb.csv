@@ -1,7 +1,7 @@
-category,german,english
-time,sofort,instantly
-time,in Echtzeit,in real time
-time,bis morgen,by tomorrow
-manner,per PayPal,via PayPal
-manner,per Überweisung,by bank transfer
-manner,in bar,in cash
+category,german,english,similarity
+time,bis morgen,by tomorrow,false-friend
+time,sofort,instantly,different
+time,in Echtzeit,in real time,different
+manner,per Überweisung,by bank transfer,different
+manner,in bar,in cash,different
+manner,per PayPal,via PayPal,cognate

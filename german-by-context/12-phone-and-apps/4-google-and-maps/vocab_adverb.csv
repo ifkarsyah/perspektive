@@ -1,7 +1,7 @@
-category,german,english
-maps,in 300 Metern,in 300 metres
-maps,links abbiegen,turn left
-maps,rechts abbiegen,turn right
-maps,geradeaus weiter,continue straight
-maps,an der Ampel,at the traffic light
-maps,in 5 Minuten,in 5 minutes
+category,german,english,similarity
+maps,links abbiegen,turn left,different
+maps,rechts abbiegen,turn right,different
+maps,geradeaus weiter,continue straight,different
+maps,an der Ampel,at the traffic light,different
+maps,in 300 Metern,in 300 metres,cognate
+maps,in 5 Minuten,in 5 minutes,cognate

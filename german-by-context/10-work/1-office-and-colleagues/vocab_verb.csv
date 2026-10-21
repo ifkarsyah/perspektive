@@ -1,16 +1,16 @@
-category,german,english
-work,arbeiten,to work
-work,anfangen (sep.),to start
-work,aufhören (sep.),to stop
-work,erledigen,to get done
-work,fertig machen,to finish
-work,übernehmen,to take over
-work,helfen,to help
-work,fragen,to ask
-work,abstimmen (sep.),to align / coordinate
-work,Bescheid geben,to let know
-work,weiterleiten (sep.),to forward
-work,sich einarbeiten (sep.),to get up to speed
-break,Mittag machen,to have lunch
-break,Feierabend machen,to finish work for the day
-break,Kaffee holen,to get coffee
+category,german,english,similarity
+work,arbeiten,to work,different
+work,anfangen (sep.),to start,different
+work,aufhören (sep.),to stop,different
+work,erledigen,to get done,different
+work,fertig machen,to finish,different
+work,übernehmen,to take over,different
+work,fragen,to ask,different
+work,abstimmen (sep.),to align / coordinate,different
+work,Bescheid geben,to let know,different
+work,weiterleiten (sep.),to forward,different
+work,sich einarbeiten (sep.),to get up to speed,different
+break,Mittag machen,to have lunch,different
+break,Feierabend machen,to finish work for the day,different
+break,Kaffee holen,to get coffee,different
+work,helfen,to help,cognate

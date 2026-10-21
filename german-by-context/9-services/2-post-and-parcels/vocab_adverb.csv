@@ -1,9 +1,9 @@
-category,german,english
-place,beim Nachbarn,with the neighbour
-place,in der Filiale,at the branch
-place,vor der Tür,at the door
-place,im Ausland,abroad
-time,innerhalb von sieben Tagen,within seven days
-time,morgen,tomorrow
-time,per Express,by express
-way,per Einschreiben,by registered mail
+category,german,english,similarity
+time,morgen,tomorrow,false-friend
+place,beim Nachbarn,with the neighbour,different
+place,in der Filiale,at the branch,different
+place,vor der Tür,at the door,different
+place,im Ausland,abroad,different
+time,innerhalb von sieben Tagen,within seven days,different
+way,per Einschreiben,by registered mail,different
+time,per Express,by express,cognate

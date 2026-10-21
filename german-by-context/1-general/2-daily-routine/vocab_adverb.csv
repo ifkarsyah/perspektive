@@ -1,14 +1,14 @@
-category,german,english
-order,zuerst,first
-order,dann,then
-order,danach,after that
-order,später,later
-order,zum Schluss,finally
-frequency,normalerweise,normally
-frequency,meistens,mostly
-frequency,jeden Tag,every day
-frequency,unter der Woche,during the week
-frequency,am Wochenende,at the weekend
-time,früh,early
-time,spät,late
-time,um sieben,at seven
+category,german,english,similarity
+order,zuerst,first,different
+order,dann,then,different
+order,danach,after that,different
+order,später,later,different
+order,zum Schluss,finally,different
+frequency,meistens,mostly,different
+frequency,jeden Tag,every day,different
+frequency,unter der Woche,during the week,different
+frequency,am Wochenende,at the weekend,different
+time,früh,early,different
+time,spät,late,different
+time,um sieben,at seven,different
+frequency,normalerweise,normally,cognate

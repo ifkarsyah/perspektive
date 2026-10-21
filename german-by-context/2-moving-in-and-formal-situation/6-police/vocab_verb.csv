@@ -1,18 +1,18 @@
-category,german,english
-report,anzeigen (sep.),to report (a crime)
-report,melden,to report
-report,anrufen (sep.),to call
-report,beschreiben,to describe
-report,sehen,to see
-report,passieren,to happen
-crime,stehlen,to steal
-crime,klauen,to steal (informal)
-crime,einbrechen (sep.),to break in
-crime,angreifen (sep.),to attack
-crime,betrügen,to cheat / defraud
-lost,verlieren,to lose
-lost,vergessen,to forget
-lost,finden,to find
-lost,abholen (sep.),to pick up
-help,helfen,to help
-help,sperren,to block (card / phone)
+category,german,english,similarity
+report,anzeigen (sep.),to report (a crime),different
+report,melden,to report,different
+report,anrufen (sep.),to call,different
+report,beschreiben,to describe,different
+report,passieren,to happen,different
+crime,klauen,to steal (informal),different
+crime,angreifen (sep.),to attack,different
+crime,betrügen,to cheat / defraud,different
+lost,verlieren,to lose,different
+lost,vergessen,to forget,different
+lost,abholen (sep.),to pick up,different
+help,sperren,to block (card / phone),different
+report,sehen,to see,cognate
+crime,stehlen,to steal,cognate
+crime,einbrechen (sep.),to break in,cognate
+lost,finden,to find,cognate
+help,helfen,to help,cognate

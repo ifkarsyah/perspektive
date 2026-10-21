@@ -1,33 +1,33 @@
-category,german,english
-power,der Strom,electricity
-power,der Stromanbieter,electricity provider
-power,der Grundversorger,default local provider
-power,der Stromvertrag,electricity contract
-power,der Stromzähler,electricity meter
-power,der Zählerstand,meter reading
-power,die Zählernummer,meter number
-power,das Gas,gas
-power,die Fernwärme,district heating
-power,der Ökostrom,green electricity
-bill,der Abschlag,monthly instalment
-bill,die Jahresabrechnung,annual bill
-bill,die Nachzahlung,additional payment
-bill,das Guthaben,credit (refund)
-bill,die Kilowattstunde,kilowatt hour
-bill,der Grundpreis,base price
-bill,die Nebenkostenabrechnung,annual service charge statement
-internet,der Internetanschluss,internet connection
-internet,der Glasfaseranschluss,fibre connection
-internet,das DSL,DSL
-internet,der Router,router
-internet,die Leitung,line
-internet,der Techniker,technician
-internet,die Störung,outage / fault
-fee,der Rundfunkbeitrag,broadcasting fee (TV and radio)
-fee,der Beitragsservice,broadcasting fee office
-fee,die Beitragsnummer,contribution number
-contract,der Anbieterwechsel,switching provider
-contract,das Vergleichsportal,comparison website
-contract,die Mindestlaufzeit,minimum term
-contract,die Kündigung,cancellation
-contract,der Bonus,sign-up bonus
+category,german,english,similarity
+power,der Strom,electricity,different
+power,der Stromanbieter,electricity provider,different
+power,der Grundversorger,default local provider,different
+power,der Stromvertrag,electricity contract,different
+power,der Stromzähler,electricity meter,different
+power,der Zählerstand,meter reading,different
+power,die Zählernummer,meter number,different
+power,die Fernwärme,district heating,different
+power,der Ökostrom,green electricity,different
+bill,der Abschlag,monthly instalment,different
+bill,die Jahresabrechnung,annual bill,different
+bill,die Nachzahlung,additional payment,different
+bill,das Guthaben,credit (refund),different
+bill,die Kilowattstunde,kilowatt hour,different
+bill,der Grundpreis,base price,different
+bill,die Nebenkostenabrechnung,annual service charge statement,different
+internet,der Internetanschluss,internet connection,different
+internet,der Glasfaseranschluss,fibre connection,different
+internet,die Leitung,line,different
+internet,die Störung,outage / fault,different
+fee,der Rundfunkbeitrag,broadcasting fee (TV and radio),different
+fee,der Beitragsservice,broadcasting fee office,different
+fee,die Beitragsnummer,contribution number,different
+contract,der Anbieterwechsel,switching provider,different
+contract,das Vergleichsportal,comparison website,different
+contract,die Mindestlaufzeit,minimum term,different
+contract,die Kündigung,cancellation,different
+power,das Gas,gas,cognate
+internet,das DSL,DSL,cognate
+internet,der Router,router,cognate
+internet,der Techniker,technician,cognate
+contract,der Bonus,sign-up bonus,cognate

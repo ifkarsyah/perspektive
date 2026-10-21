@@ -1,34 +1,34 @@
-category,german,english
-trail,die Wanderung,hike
-trail,der Wanderweg,hiking trail
-trail,die Route,route
-trail,die Markierung,trail marker
-trail,der Gipfel,summit
-trail,der Berg,mountain
-trail,der Hügel,hill
-trail,das Tal,valley
-trail,der Wald,forest
-trail,der See,lake
-trail,der Fluss,river
-trail,der Aussichtspunkt,viewpoint
-trail,die Hütte,mountain hut
-trail,die Rast,rest stop
-trail,die Höhenmeter,elevation gain (metres)
-gear,der Rucksack,backpack
-gear,die Wanderschuhe,hiking boots
-gear,die Regenjacke,rain jacket
-gear,die Wanderstöcke,hiking poles
-gear,die Wasserflasche,water bottle
-gear,die Karte,map
-gear,die Sonnencreme,sunscreen
-gear,die Taschenlampe,torch
-food,der Proviant,snacks for the trip
-food,das Picknick,picnic
-food,die Stulle,sandwich (Berlin)
-weather,das Wetter,weather
-weather,der Regen,rain
-weather,die Sonne,sun
-weather,das Gewitter,thunderstorm
-group,die Gruppe,group
-group,der Wanderführer,hiking guide
-group,der Treffpunkt,meeting point
+category,german,english,similarity
+trail,der See,lake,false-friend
+trail,die Wanderung,hike,different
+trail,der Wanderweg,hiking trail,different
+trail,der Gipfel,summit,different
+trail,der Berg,mountain,different
+trail,der Hügel,hill,different
+trail,das Tal,valley,different
+trail,der Wald,forest,different
+trail,der Fluss,river,different
+trail,der Aussichtspunkt,viewpoint,different
+trail,die Hütte,mountain hut,different
+trail,die Rast,rest stop,different
+trail,die Höhenmeter,elevation gain (metres),different
+gear,der Rucksack,backpack,different
+gear,die Wanderschuhe,hiking boots,different
+gear,die Regenjacke,rain jacket,different
+gear,die Wanderstöcke,hiking poles,different
+gear,die Taschenlampe,torch,different
+food,der Proviant,snacks for the trip,different
+food,die Stulle,sandwich (Berlin),different
+weather,das Gewitter,thunderstorm,different
+group,der Wanderführer,hiking guide,different
+group,der Treffpunkt,meeting point,different
+trail,die Route,route,cognate
+trail,die Markierung,trail marker,cognate
+gear,die Wasserflasche,water bottle,cognate
+gear,die Karte,map,cognate
+gear,die Sonnencreme,sunscreen,cognate
+food,das Picknick,picnic,cognate
+weather,das Wetter,weather,cognate
+weather,der Regen,rain,cognate
+weather,die Sonne,sun,cognate
+group,die Gruppe,group,cognate

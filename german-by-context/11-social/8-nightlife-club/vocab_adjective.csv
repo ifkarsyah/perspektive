@@ -1,11 +1,11 @@
-category,german,english
-door,streng,strict
-door,lang,long (queue)
-door,ausverkauft,sold out
-vibe,laut,loud
-vibe,voll,packed
-vibe,dunkel,dark
-vibe,geil,awesome (slang)
-vibe,entspannt,chilled
-style,schwarz,black (dress code)
-style,schlicht,plain / low-key
+category,german,english,similarity
+door,streng,strict,different
+door,ausverkauft,sold out,different
+vibe,dunkel,dark,different
+vibe,geil,awesome (slang),different
+vibe,entspannt,chilled,different
+style,schwarz,black (dress code),different
+style,schlicht,plain / low-key,different
+door,lang,long (queue),cognate
+vibe,laut,loud,cognate
+vibe,voll,packed,cognate

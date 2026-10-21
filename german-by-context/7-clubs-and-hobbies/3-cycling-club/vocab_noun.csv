@@ -1,40 +1,40 @@
-category,german,english
-bike,das Fahrrad,bicycle
-bike,das Rennrad,road bike
-bike,das Mountainbike,mountain bike
-bike,das Gravelbike,gravel bike
-bike,das E-Bike,e-bike
-bike,der Rahmen,frame
-bike,der Lenker,handlebar
-bike,der Sattel,saddle
-bike,das Pedal,pedal
-bike,die Kette,chain
-bike,die Gangschaltung,gears
-bike,die Bremse,brake
-bike,der Reifen,tyre
-bike,der Schlauch,inner tube
-bike,das Ventil,valve
-bike,das Licht,light
-bike,die Klingel,bell
-gear,der Helm,helmet
-gear,die Radhose,cycling shorts
-gear,das Trikot,jersey
-gear,die Handschuhe,gloves
-gear,die Trinkflasche,water bottle
-gear,die Luftpumpe,pump
-gear,das Flickzeug,puncture repair kit
-gear,das Schloss,lock
-ride,die Ausfahrt,group ride
-ride,die Tour,tour
-ride,die Strecke,route
-ride,der Radweg,bike lane
-ride,der Treffpunkt,meeting point
-ride,die Pause,break
-ride,der Platten,flat tyre
-ride,der Anstieg,climb
-ride,die Abfahrt,descent
-ride,der Gegenwind,headwind
-ride,der Kilometer,kilometre
-club,der Verein,club
-club,das Mitglied,member
-club,der Mitgliedsbeitrag,membership fee
+category,german,english,similarity
+bike,das Fahrrad,bicycle,different
+bike,das Rennrad,road bike,different
+bike,der Rahmen,frame,different
+bike,der Lenker,handlebar,different
+bike,die Kette,chain,different
+bike,die Gangschaltung,gears,different
+bike,der Reifen,tyre,different
+bike,der Schlauch,inner tube,different
+bike,das Ventil,valve,different
+bike,die Klingel,bell,different
+gear,die Radhose,cycling shorts,different
+gear,das Trikot,jersey,different
+gear,die Handschuhe,gloves,different
+gear,die Trinkflasche,water bottle,different
+gear,die Luftpumpe,pump,different
+gear,das Flickzeug,puncture repair kit,different
+gear,das Schloss,lock,different
+ride,die Ausfahrt,group ride,different
+ride,die Strecke,route,different
+ride,der Radweg,bike lane,different
+ride,der Treffpunkt,meeting point,different
+ride,die Pause,break,different
+ride,der Platten,flat tyre,different
+ride,der Anstieg,climb,different
+ride,die Abfahrt,descent,different
+ride,der Gegenwind,headwind,different
+club,der Verein,club,different
+club,das Mitglied,member,different
+club,der Mitgliedsbeitrag,membership fee,different
+bike,das Mountainbike,mountain bike,cognate
+bike,das Gravelbike,gravel bike,cognate
+bike,das E-Bike,e-bike,cognate
+bike,der Sattel,saddle,cognate
+bike,das Pedal,pedal,cognate
+bike,die Bremse,brake,cognate
+bike,das Licht,light,cognate
+gear,der Helm,helmet,cognate
+ride,die Tour,tour,cognate
+ride,der Kilometer,kilometre,cognate

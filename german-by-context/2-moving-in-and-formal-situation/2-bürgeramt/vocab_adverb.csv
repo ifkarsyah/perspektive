@@ -1,11 +1,11 @@
-category,german,english
-time,rechtzeitig,in time
-time,innerhalb von zwei Wochen,within two weeks
-time,vorher,beforehand
-time,danach,afterwards
-time,heute,today
-time,morgen,tomorrow
-time,noch nicht,not yet
-way,persönlich,in person
-way,online,online
-way,per Post,by mail
+category,german,english,similarity
+time,morgen,tomorrow,false-friend
+time,rechtzeitig,in time,different
+time,innerhalb von zwei Wochen,within two weeks,different
+time,vorher,beforehand,different
+time,danach,afterwards,different
+time,heute,today,different
+time,noch nicht,not yet,different
+way,persönlich,in person,cognate
+way,online,online,cognate
+way,per Post,by mail,cognate

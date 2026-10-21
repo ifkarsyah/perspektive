@@ -1,8 +1,8 @@
-category,german,english
-time,am Samstag,on Saturday
-time,ab 19 Uhr,from 7 pm
-time,pünktlich,on time
-time,ein bisschen später,a bit later
-time,um Mitternacht,at midnight
-place,bei mir,at my place
-place,bei dir,at your place
+category,german,english,similarity
+time,am Samstag,on Saturday,different
+time,ab 19 Uhr,from 7 pm,different
+time,pünktlich,on time,different
+time,ein bisschen später,a bit later,different
+time,um Mitternacht,at midnight,different
+place,bei mir,at my place,different
+place,bei dir,at your place,different

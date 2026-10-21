@@ -1,11 +1,11 @@
-category,german,english
-order,zum Mitnehmen,to take away
-order,zum hier Trinken,to drink in
-order,mit Milch,with milk
-order,ohne Zucker,without sugar
-order,extra heiß,extra hot
-order,noch einen,one more
-place,drinnen,inside
-place,draußen,outside
-place,am Fenster,by the window
-time,kurz,for a moment
+category,german,english,similarity
+order,zum Mitnehmen,to take away,different
+order,zum hier Trinken,to drink in,different
+order,ohne Zucker,without sugar,different
+order,noch einen,one more,different
+place,drinnen,inside,different
+place,draußen,outside,different
+place,am Fenster,by the window,different
+time,kurz,for a moment,different
+order,mit Milch,with milk,cognate
+order,extra heiß,extra hot,cognate

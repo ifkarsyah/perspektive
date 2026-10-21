@@ -1,32 +1,32 @@
-category,german,english
-shop,der Friseur,hairdresser
-shop,der Barbier,barber
-shop,der Barbershop,barbershop
-shop,der Termin,appointment
-shop,die Wartezeit,waiting time
-cut,der Haarschnitt,haircut
-cut,die Frisur,hairstyle
-cut,die Seiten,sides
-cut,der Oberkopf,top of the head
-cut,der Hinterkopf,back of the head
-cut,der Nacken,neck / nape
-cut,der Pony,fringe
-cut,der Scheitel,parting
-cut,der Übergang,fade / transition
-cut,der Fade,fade
-cut,die Spitzen,ends (of the hair)
-cut,die Locken,curls
-tool,die Schere,scissors
-tool,die Haarschneidemaschine,clippers
-tool,der Aufsatz,clipper guard
-tool,der Kamm,comb
-tool,das Rasiermesser,straight razor
-tool,der Föhn,hair dryer
-tool,das Haarwachs,hair wax
-tool,das Gel,gel
-beard,der Bart,beard
-beard,der Schnurrbart,moustache
-beard,die Kontur,line-up / edges
-beard,die Augenbrauen,eyebrows
-service,das Waschen,washing
-service,die Rasur,shave
+category,german,english,similarity
+shop,der Termin,appointment,false-friend
+shop,der Friseur,hairdresser,different
+shop,die Wartezeit,waiting time,different
+cut,der Haarschnitt,haircut,different
+cut,die Frisur,hairstyle,different
+cut,die Seiten,sides,different
+cut,der Oberkopf,top of the head,different
+cut,der Hinterkopf,back of the head,different
+cut,der Pony,fringe,different
+cut,der Scheitel,parting,different
+cut,der Übergang,fade / transition,different
+cut,die Spitzen,ends (of the hair),different
+cut,die Locken,curls,different
+tool,die Schere,scissors,different
+tool,die Haarschneidemaschine,clippers,different
+tool,der Aufsatz,clipper guard,different
+tool,das Rasiermesser,straight razor,different
+tool,der Föhn,hair dryer,different
+beard,der Schnurrbart,moustache,different
+beard,die Kontur,line-up / edges,different
+beard,die Augenbrauen,eyebrows,different
+service,die Rasur,shave,different
+shop,der Barbier,barber,cognate
+shop,der Barbershop,barbershop,cognate
+cut,der Nacken,neck / nape,cognate
+cut,der Fade,fade,cognate
+tool,der Kamm,comb,cognate
+tool,das Haarwachs,hair wax,cognate
+tool,das Gel,gel,cognate
+beard,der Bart,beard,cognate
+service,das Waschen,washing,cognate

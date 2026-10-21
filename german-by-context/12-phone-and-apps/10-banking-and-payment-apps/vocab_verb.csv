@@ -1,15 +1,15 @@
-category,german,english
-button,Geld senden,Send money
-button,Geld anfordern,Request money
-button,Überweisen,Transfer
-button,Freigeben,Approve
-button,Ablehnen,Decline
-button,Karte sperren,Block card
-button,Bankkonto verknüpfen,Link bank account
-money,überweisen,to transfer
-money,schicken,to send
-money,zurückzahlen (sep.),to pay back
-money,teilen,to split
-money,auslegen (sep.),to pay for someone (temporarily)
-security,bestätigen,to confirm
-security,registrieren,to register (device)
+category,german,english,similarity
+button,Geld senden,Send money,different
+button,Geld anfordern,Request money,different
+button,Überweisen,Transfer,different
+button,Freigeben,Approve,different
+button,Ablehnen,Decline,different
+button,Karte sperren,Block card,different
+button,Bankkonto verknüpfen,Link bank account,different
+money,überweisen,to transfer,different
+money,schicken,to send,different
+money,zurückzahlen (sep.),to pay back,different
+money,teilen,to split,different
+money,auslegen (sep.),to pay for someone (temporarily),different
+security,bestätigen,to confirm,different
+security,registrieren,to register (device),cognate

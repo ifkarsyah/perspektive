@@ -1,13 +1,13 @@
-category,german,english
-invite,einladen (sep.),to invite
-invite,zusagen (sep.),to accept
-invite,absagen (sep.),to decline
-invite,vorbeikommen (sep.),to come by
-invite,mitbringen (sep.),to bring along
-party,feiern,to celebrate
-party,reinfeiern (sep.),to celebrate into a birthday at midnight
-party,gratulieren,to congratulate
-party,schenken,to give (a gift)
-party,anstoßen (sep.),to toast
-party,aufräumen (sep.),to tidy up
-party,helfen,to help
+category,german,english,similarity
+invite,einladen (sep.),to invite,different
+invite,zusagen (sep.),to accept,different
+invite,absagen (sep.),to decline,different
+invite,vorbeikommen (sep.),to come by,different
+party,feiern,to celebrate,different
+party,reinfeiern (sep.),to celebrate into a birthday at midnight,different
+party,schenken,to give (a gift),different
+party,anstoßen (sep.),to toast,different
+party,aufräumen (sep.),to tidy up,different
+invite,mitbringen (sep.),to bring along,cognate
+party,gratulieren,to congratulate,cognate
+party,helfen,to help,cognate

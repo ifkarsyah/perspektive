@@ -1,45 +1,45 @@
-category,german,english
-shop,die Drogerie,drugstore
-shop,der Drogeriemarkt,drugstore chain (dm / Rossmann)
-shop,die Kasse,checkout
-shop,das Regal,shelf
-shop,das Angebot,special offer
-shop,die Kundenkarte,loyalty card
-hygiene,das Shampoo,shampoo
-hygiene,die Spülung,conditioner
-hygiene,das Duschgel,shower gel
-hygiene,die Seife,soap
-hygiene,das Deo,deodorant
-hygiene,die Zahnbürste,toothbrush
-hygiene,die Zahnpasta,toothpaste
-hygiene,die Zahnseide,dental floss
-hygiene,die Mundspülung,mouthwash
-hygiene,der Rasierer,razor
-hygiene,der Rasierschaum,shaving foam
-hygiene,die Taschentücher,tissues
-hygiene,das Toilettenpapier,toilet paper
-hygiene,die Wattestäbchen,cotton buds
-care,die Creme,cream
-care,die Sonnencreme,sunscreen
-care,die Bodylotion,body lotion
-care,der Lippenpflegestift,lip balm
-care,das Pflaster,plaster
-care,die Damenbinde,sanitary pad
-care,der Tampon,tampon
-care,die Kontaktlinsenlösung,contact lens solution
-care,das Vitamin,vitamin
-care,die Haarbürste,hairbrush
-care,das Haargel,hair gel
-cleaning,das Putzmittel,cleaning product
-cleaning,das Waschmittel,laundry detergent
-cleaning,der Weichspüler,fabric softener
-cleaning,das Spülmittel,dish soap
-cleaning,die Spülmaschinentabs,dishwasher tablets
-cleaning,der Müllbeutel,bin bag
-cleaning,der Schwamm,sponge
-cleaning,die Küchenrolle,paper towels
-cleaning,der Entkalker,descaler
-home,die Batterie,battery
-home,die Glühbirne,light bulb
-home,das Fotopapier,photo paper
-home,der Passbildautomat,passport photo booth
+category,german,english,similarity
+shop,die Drogerie,drugstore,different
+shop,der Drogeriemarkt,drugstore chain (dm / Rossmann),different
+shop,die Kasse,checkout,different
+shop,das Regal,shelf,different
+shop,das Angebot,special offer,different
+shop,die Kundenkarte,loyalty card,different
+hygiene,die Spülung,conditioner,different
+hygiene,das Duschgel,shower gel,different
+hygiene,die Zahnbürste,toothbrush,different
+hygiene,die Zahnpasta,toothpaste,different
+hygiene,die Zahnseide,dental floss,different
+hygiene,die Mundspülung,mouthwash,different
+hygiene,der Rasierschaum,shaving foam,different
+hygiene,die Taschentücher,tissues,different
+hygiene,die Wattestäbchen,cotton buds,different
+care,der Lippenpflegestift,lip balm,different
+care,die Damenbinde,sanitary pad,different
+care,die Kontaktlinsenlösung,contact lens solution,different
+cleaning,das Putzmittel,cleaning product,different
+cleaning,das Waschmittel,laundry detergent,different
+cleaning,der Weichspüler,fabric softener,different
+cleaning,das Spülmittel,dish soap,different
+cleaning,die Spülmaschinentabs,dishwasher tablets,different
+cleaning,der Müllbeutel,bin bag,different
+cleaning,der Schwamm,sponge,different
+cleaning,die Küchenrolle,paper towels,different
+cleaning,der Entkalker,descaler,different
+home,die Glühbirne,light bulb,different
+home,der Passbildautomat,passport photo booth,different
+hygiene,das Shampoo,shampoo,cognate
+hygiene,die Seife,soap,cognate
+hygiene,das Deo,deodorant,cognate
+hygiene,der Rasierer,razor,cognate
+hygiene,das Toilettenpapier,toilet paper,cognate
+care,die Creme,cream,cognate
+care,die Sonnencreme,sunscreen,cognate
+care,die Bodylotion,body lotion,cognate
+care,das Pflaster,plaster,cognate
+care,der Tampon,tampon,cognate
+care,das Vitamin,vitamin,cognate
+care,die Haarbürste,hairbrush,cognate
+care,das Haargel,hair gel,cognate
+home,die Batterie,battery,cognate
+home,das Fotopapier,photo paper,cognate

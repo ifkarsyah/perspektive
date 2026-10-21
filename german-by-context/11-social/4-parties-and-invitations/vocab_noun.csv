@@ -1,23 +1,23 @@
-category,german,english
-party,die Party,party
-party,die Feier,celebration
-party,die Geburtstagsfeier,birthday party
-party,die Einweihungsparty,housewarming party
-party,das Grillfest,barbecue party
-party,der Spieleabend,games night
-party,das Abendessen,dinner
-party,der Gastgeber,host
-party,der Gast,guest
-party,die Einladung,invitation
-party,die Zusage,acceptance (RSVP yes)
-party,die Absage,decline (RSVP no)
-gift,das Geschenk,gift
-gift,das Mitbringsel,small gift for the host
-gift,die Blumen,flowers
-gift,die Flasche Wein,bottle of wine
-gift,die Karte,card
-food,der Kuchen,cake
-food,die Torte,layered cake
-food,das Buffet,buffet
-food,die Snacks,snacks
-food,die Getränke,drinks
+category,german,english,similarity
+party,die Feier,celebration,different
+party,die Geburtstagsfeier,birthday party,different
+party,die Einweihungsparty,housewarming party,different
+party,das Grillfest,barbecue party,different
+party,der Spieleabend,games night,different
+party,das Abendessen,dinner,different
+party,der Gastgeber,host,different
+party,die Einladung,invitation,different
+party,die Zusage,acceptance (RSVP yes),different
+party,die Absage,decline (RSVP no),different
+gift,das Geschenk,gift,different
+gift,das Mitbringsel,small gift for the host,different
+gift,die Blumen,flowers,different
+gift,die Flasche Wein,bottle of wine,different
+food,der Kuchen,cake,different
+food,die Torte,layered cake,different
+food,die Getränke,drinks,different
+party,die Party,party,cognate
+party,der Gast,guest,cognate
+gift,die Karte,card,cognate
+food,das Buffet,buffet,cognate
+food,die Snacks,snacks,cognate

@@ -1,8 +1,8 @@
-category,german,english
-price,teuer,expensive
-price,billig,cheap
-price,günstig,good value
-price,kostenlos,free
-price,reduziert,reduced
-check,richtig,correct
-check,falsch,wrong
+category,german,english,similarity
+price,teuer,expensive,different
+price,billig,cheap,different
+price,günstig,good value,different
+price,kostenlos,free,different
+check,richtig,correct,different
+check,falsch,wrong,different
+price,reduziert,reduced,cognate

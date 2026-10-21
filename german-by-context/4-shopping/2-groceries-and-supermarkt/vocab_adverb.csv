@@ -1,12 +1,12 @@
-category,german,english
-offer,im Angebot,on sale
-amount,pro Kilo,per kilo
-amount,ungefähr,about
-amount,mehr,more
-amount,weniger,less
-time,sonntags,on Sundays
-time,heute,today
-place,hinten,at the back
-place,vorne,at the front
-place,oben,on top
-place,unten,at the bottom
+category,german,english,similarity
+offer,im Angebot,on sale,different
+amount,ungefähr,about,different
+amount,weniger,less,different
+time,heute,today,different
+place,hinten,at the back,different
+place,vorne,at the front,different
+place,oben,on top,different
+place,unten,at the bottom,different
+amount,pro Kilo,per kilo,cognate
+amount,mehr,more,cognate
+time,sonntags,on Sundays,cognate

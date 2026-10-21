@@ -1,34 +1,34 @@
-category,german,english
-place,der Club,club
-place,die Tanzfläche,dance floor
-place,die Garderobe,cloakroom
-door,der Türsteher,bouncer
-door,die Schlange,queue
-door,die Gästeliste,guest list
-door,der Eintritt,entry fee
-door,der Stempel,stamp
-door,der Ausweis,ID
-night,der DJ,DJ
-club,die Location,venue
-club,der Floor,dance floor (room)
-club,der Darkroom,darkroom
-club,die Bar,bar
-club,das Line-up,line-up
-club,das Set,DJ set
-club,der Techno,techno
-club,der House,house music
-club,der Rave,rave
-club,der Open Air,open-air party
-club,die Afterhour,afterhour
-door,die Türpolitik,door policy
-door,die Abendkasse,door ticket sales
-door,das Ticket,ticket
-door,der Garderobenzettel,cloakroom ticket
-door,der Sticker,sticker (over phone camera)
-door,die Taschenkontrolle,bag check
-safety,das Awareness-Team,awareness team (safety staff)
-safety,die Security,security staff
-safety,das Wasser,water
-safety,der Chill-out-Bereich,chill-out area
-home,die U-Bahn,subway (runs all night at weekends)
-home,der Nachtbus,night bus
+category,german,english,similarity
+place,die Tanzfläche,dance floor,different
+door,der Türsteher,bouncer,different
+door,die Schlange,queue,different
+door,der Eintritt,entry fee,different
+door,der Ausweis,ID,different
+club,die Location,venue,different
+door,die Türpolitik,door policy,different
+door,die Abendkasse,door ticket sales,different
+door,der Garderobenzettel,cloakroom ticket,different
+door,die Taschenkontrolle,bag check,different
+safety,der Chill-out-Bereich,chill-out area,different
+home,die U-Bahn,subway (runs all night at weekends),different
+place,der Club,club,cognate
+place,die Garderobe,cloakroom,cognate
+door,die Gästeliste,guest list,cognate
+door,der Stempel,stamp,cognate
+night,der DJ,DJ,cognate
+club,der Floor,dance floor (room),cognate
+club,der Darkroom,darkroom,cognate
+club,die Bar,bar,cognate
+club,das Line-up,line-up,cognate
+club,das Set,DJ set,cognate
+club,der Techno,techno,cognate
+club,der House,house music,cognate
+club,der Rave,rave,cognate
+club,der Open Air,open-air party,cognate
+club,die Afterhour,afterhour,cognate
+door,das Ticket,ticket,cognate
+door,der Sticker,sticker (over phone camera),cognate
+safety,das Awareness-Team,awareness team (safety staff),cognate
+safety,die Security,security staff,cognate
+safety,das Wasser,water,cognate
+home,der Nachtbus,night bus,cognate

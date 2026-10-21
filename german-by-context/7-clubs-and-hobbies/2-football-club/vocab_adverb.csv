@@ -1,10 +1,10 @@
-category,german,english
-position,vorne,up front
-position,hinten,at the back
-position,links,on the left
-position,rechts,on the right
-position,in der Mitte,in the middle
-direction,nach vorne,forward
-direction,zurück,back
-time,in der ersten Halbzeit,in the first half
-time,in der Nachspielzeit,in stoppage time
+category,german,english,similarity
+position,vorne,up front,different
+position,hinten,at the back,different
+position,links,on the left,different
+direction,nach vorne,forward,different
+direction,zurück,back,different
+time,in der ersten Halbzeit,in the first half,different
+time,in der Nachspielzeit,in stoppage time,different
+position,rechts,on the right,cognate
+position,in der Mitte,in the middle,cognate

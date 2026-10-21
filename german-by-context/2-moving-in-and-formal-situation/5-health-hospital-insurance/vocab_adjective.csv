@@ -1,17 +1,17 @@
-category,german,english
-health,krank,sick
-health,gesund,healthy
-health,erkältet,having a cold
-health,schwanger,pregnant
-health,allergisch gegen,allergic to
-feeling,schwindelig,dizzy
-feeling,müde,tired
-feeling,schwach,weak
-feeling,übel,nauseous
-pain,stark,strong / severe
-pain,leicht,mild
-pain,dringend,urgent
-pain,gebrochen,broken (bone)
-pain,geschwollen,swollen
-insurance,gesetzlich versichert,publicly insured
-insurance,privat versichert,privately insured
+category,german,english,similarity
+health,krank,sick,different
+health,gesund,healthy,different
+health,erkältet,having a cold,different
+health,schwanger,pregnant,different
+feeling,schwindelig,dizzy,different
+feeling,müde,tired,different
+feeling,schwach,weak,different
+feeling,übel,nauseous,different
+pain,stark,strong / severe,different
+pain,leicht,mild,different
+pain,dringend,urgent,different
+insurance,gesetzlich versichert,publicly insured,different
+health,allergisch gegen,allergic to,cognate
+pain,gebrochen,broken (bone),cognate
+pain,geschwollen,swollen,cognate
+insurance,privat versichert,privately insured,cognate

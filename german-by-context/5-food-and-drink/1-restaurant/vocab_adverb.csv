@@ -1,25 +1,25 @@
-category,german,english
-order,zum Mitnehmen,to take away
-order,zum Hieressen,to eat in
-order,ohne Fleisch,without meat
-order,dazu,with it / on the side
-order,noch,another / still (Noch ein Bier)
-order,mehr,more
-order,weniger,less
-order,ohne,without
-order,mit,with
-order,extra,extra
-time,sofort,right away
-time,gleich,in a moment
-time,schon,already
-time,noch nicht,not yet
-time,später,later
-time,zuerst,first
-time,danach,afterwards
-degree,sehr,very
-degree,zu,too (zu scharf)
-degree,ein bisschen,a little
-degree,genug,enough
-place,hier,here
-place,draußen,outside
-place,drinnen,inside
+category,german,english,similarity
+order,zum Mitnehmen,to take away,different
+order,zum Hieressen,to eat in,different
+order,ohne Fleisch,without meat,different
+order,dazu,with it / on the side,different
+order,noch,another / still (Noch ein Bier),different
+order,weniger,less,different
+order,ohne,without,different
+order,mit,with,different
+time,sofort,right away,different
+time,gleich,in a moment,different
+time,schon,already,different
+time,noch nicht,not yet,different
+time,später,later,different
+time,zuerst,first,different
+time,danach,afterwards,different
+degree,sehr,very,different
+degree,zu,too (zu scharf),different
+place,draußen,outside,different
+place,drinnen,inside,different
+order,mehr,more,cognate
+order,extra,extra,cognate
+degree,ein bisschen,a little,cognate
+degree,genug,enough,cognate
+place,hier,here,cognate

@@ -1,14 +1,14 @@
-category,german,english
-cooking,kochen,to cook
-cooking,backen,to bake
-cooking,braten,to fry
-cooking,schneiden,to cut
-cooking,umrühren (sep.),to stir
-cooking,aufwärmen (sep.),to reheat
-food,einfrieren (sep.),to freeze
-food,auftauen (sep.),to defrost
-cleaning,abwaschen (sep.),to wash the dishes
-cleaning,einräumen (sep.),to put away / load (dishwasher)
-cleaning,ausräumen (sep.),to unload
-waste,trennen,to separate (waste)
-waste,den Müll rausbringen,to take out the trash
+category,german,english,similarity
+cooking,braten,to fry,different
+cooking,schneiden,to cut,different
+cooking,umrühren (sep.),to stir,different
+food,einfrieren (sep.),to freeze,different
+food,auftauen (sep.),to defrost,different
+cleaning,abwaschen (sep.),to wash the dishes,different
+cleaning,einräumen (sep.),to put away / load (dishwasher),different
+cleaning,ausräumen (sep.),to unload,different
+waste,trennen,to separate (waste),different
+waste,den Müll rausbringen,to take out the trash,different
+cooking,kochen,to cook,cognate
+cooking,backen,to bake,cognate
+cooking,aufwärmen (sep.),to reheat,cognate

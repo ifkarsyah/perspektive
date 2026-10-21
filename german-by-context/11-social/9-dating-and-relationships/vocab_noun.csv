@@ -1,27 +1,27 @@
-category,german,english
-dating,das Date,date
-dating,die Dating-App,dating app
-dating,das Profil,profile
-dating,das Match,match
-dating,die Beziehung,relationship
-dating,der Partner,partner (m)
-dating,die Partnerin,partner (f)
-dating,der Single,single person
-dating,das erste Date,first date
-dating,das Swipen,swiping
-dating,der Schwarm,crush
-dating,der feste Freund,boyfriend
-dating,die feste Freundin,girlfriend
-dating,mein Freund,my boyfriend
-dating,meine Freundin,my girlfriend
-dating,der Schatz,darling / sweetheart
-dating,der Liebling,darling
-dating,die Liebe,love
-dating,die Schmetterlinge im Bauch,butterflies in the stomach
-dating,die Eifersucht,jealousy
-dating,die Fernbeziehung,long-distance relationship
-dating,der Jahrestag,anniversary
-dating,der Liebeskummer,heartbreak
-dating,die Trennung,breakup
-dating,der Ex,ex (m)
-dating,die Ex,ex (f)
+category,german,english,similarity
+dating,mein Freund,my boyfriend,false-friend
+dating,meine Freundin,my girlfriend,false-friend
+dating,die Beziehung,relationship,different
+dating,der Schwarm,crush,different
+dating,der feste Freund,boyfriend,different
+dating,die feste Freundin,girlfriend,different
+dating,der Schatz,darling / sweetheart,different
+dating,der Liebling,darling,different
+dating,die Liebe,love,different
+dating,die Schmetterlinge im Bauch,butterflies in the stomach,different
+dating,die Eifersucht,jealousy,different
+dating,die Fernbeziehung,long-distance relationship,different
+dating,der Jahrestag,anniversary,different
+dating,der Liebeskummer,heartbreak,different
+dating,die Trennung,breakup,different
+dating,das Date,date,cognate
+dating,die Dating-App,dating app,cognate
+dating,das Profil,profile,cognate
+dating,das Match,match,cognate
+dating,der Partner,partner (m),cognate
+dating,die Partnerin,partner (f),cognate
+dating,der Single,single person,cognate
+dating,das erste Date,first date,cognate
+dating,das Swipen,swiping,cognate
+dating,der Ex,ex (m),cognate
+dating,die Ex,ex (f),cognate

@@ -1,15 +1,15 @@
-category,german,english
-order,bestellen,to order
-order,in den Warenkorb legen,to add to cart
-order,bezahlen,to pay
-order,liefern,to deliver
-order,verfolgen,to track
-order,stornieren,to cancel (order)
-return,zurückschicken (sep.),to send back
-return,reklamieren,to complain about
-return,umtauschen (sep.),to exchange
-return,erstatten,to refund
-return,widerrufen,to withdraw (from purchase)
-review,bewerten,to rate
-second-hand,verkaufen,to sell
-second-hand,verhandeln,to negotiate
+category,german,english,similarity
+order,bestellen,to order,different
+order,in den Warenkorb legen,to add to cart,different
+order,bezahlen,to pay,different
+order,liefern,to deliver,different
+order,verfolgen,to track,different
+order,stornieren,to cancel (order),different
+return,zurückschicken (sep.),to send back,different
+return,reklamieren,to complain about,different
+return,umtauschen (sep.),to exchange,different
+return,erstatten,to refund,different
+return,widerrufen,to withdraw (from purchase),different
+review,bewerten,to rate,different
+second-hand,verkaufen,to sell,different
+second-hand,verhandeln,to negotiate,different

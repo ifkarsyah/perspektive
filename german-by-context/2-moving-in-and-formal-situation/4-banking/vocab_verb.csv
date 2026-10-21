@@ -1,13 +1,13 @@
-category,german,english
-account,eröffnen,to open (account)
-account,schließen,to close
-account,einrichten (sep.),to set up
-money,überweisen,to transfer
-money,abheben (sep.),to withdraw
-money,einzahlen (sep.),to deposit
-money,sparen,to save
-money,ausgeben (sep.),to spend
-money,verdienen,to earn
-security,eingeben (sep.),to enter (PIN)
-security,bestätigen,to confirm
-security,sperren,to block (card)
+category,german,english,similarity
+account,eröffnen,to open (account),different
+account,schließen,to close,different
+account,einrichten (sep.),to set up,different
+money,überweisen,to transfer,different
+money,abheben (sep.),to withdraw,different
+money,einzahlen (sep.),to deposit,different
+money,sparen,to save,different
+money,ausgeben (sep.),to spend,different
+money,verdienen,to earn,different
+security,eingeben (sep.),to enter (PIN),different
+security,bestätigen,to confirm,different
+security,sperren,to block (card),different

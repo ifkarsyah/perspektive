@@ -1,28 +1,28 @@
-category,german,english
-device,das Handy,mobile phone
-device,das Ladegerät,charger
-device,die SIM-Karte,SIM card
-device,die eSIM,eSIM
-device,die PIN,PIN
-device,die PUK,PUK
-contract,der Anbieter,provider
-contract,der Handyvertrag,phone contract
-contract,der Prepaid-Tarif,prepaid plan
-contract,der Tarif,plan
-contract,die Laufzeit,contract term
-contract,die Kündigungsfrist,notice period
-contract,die Rufnummer,phone number
-contract,die Rufnummernmitnahme,number porting
-contract,die Identifizierung,identity verification
-contract,der Ausweis,ID
-usage,das Datenvolumen,data allowance
-usage,das Guthaben,credit (prepaid)
-usage,die Aufladung,top-up
-usage,die Flatrate,unlimited plan
-usage,das Netz,network
-usage,der Empfang,reception
-usage,das Roaming,roaming
-internet,das WLAN,Wi-Fi
-internet,der Router,router
-internet,der Internetanschluss,internet connection
-internet,der Techniker,technician
+category,german,english,similarity
+device,das Handy,mobile phone,false-friend
+device,das Ladegerät,charger,different
+contract,der Anbieter,provider,different
+contract,der Handyvertrag,phone contract,different
+contract,der Tarif,plan,different
+contract,die Laufzeit,contract term,different
+contract,die Kündigungsfrist,notice period,different
+contract,die Rufnummer,phone number,different
+contract,die Rufnummernmitnahme,number porting,different
+contract,der Ausweis,ID,different
+usage,das Datenvolumen,data allowance,different
+usage,das Guthaben,credit (prepaid),different
+usage,die Aufladung,top-up,different
+usage,die Flatrate,unlimited plan,different
+usage,der Empfang,reception,different
+internet,das WLAN,Wi-Fi,different
+internet,der Internetanschluss,internet connection,different
+device,die SIM-Karte,SIM card,cognate
+device,die eSIM,eSIM,cognate
+device,die PIN,PIN,cognate
+device,die PUK,PUK,cognate
+contract,der Prepaid-Tarif,prepaid plan,cognate
+contract,die Identifizierung,identity verification,cognate
+usage,das Netz,network,cognate
+usage,das Roaming,roaming,cognate
+internet,der Router,router,cognate
+internet,der Techniker,technician,cognate

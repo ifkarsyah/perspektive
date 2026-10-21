@@ -1,16 +1,16 @@
-category,german,english
-call,anrufen (sep.),to call
-call,zurückrufen (sep.),to call back
-call,telefonieren,to talk on the phone
-call,wählen,to dial
-call,drücken,to press (a key)
-call,verbinden,to connect
-call,weiterleiten (sep.),to forward
-call,warten,to wait
-call,dranbleiben (sep.),to stay on the line
-call,auflegen (sep.),to hang up
-call,erreichen,to reach (someone)
-call,hinterlassen,to leave (a message)
-talk,buchstabieren,to spell
-talk,wiederholen,to repeat
-talk,verstehen,to understand
+category,german,english,similarity
+call,anrufen (sep.),to call,different
+call,zurückrufen (sep.),to call back,different
+call,telefonieren,to talk on the phone,different
+call,wählen,to dial,different
+call,drücken,to press (a key),different
+call,verbinden,to connect,different
+call,weiterleiten (sep.),to forward,different
+call,dranbleiben (sep.),to stay on the line,different
+call,auflegen (sep.),to hang up,different
+call,hinterlassen,to leave (a message),different
+talk,buchstabieren,to spell,different
+talk,wiederholen,to repeat,different
+talk,verstehen,to understand,different
+call,warten,to wait,cognate
+call,erreichen,to reach (someone),cognate

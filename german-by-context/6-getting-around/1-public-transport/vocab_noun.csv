@@ -1,34 +1,34 @@
-category,german,english
-vehicle,die U-Bahn,subway
-vehicle,die S-Bahn,suburban train
-vehicle,die Straßenbahn,tram
-vehicle,der Bus,bus
-vehicle,der Zug,train
-vehicle,der Regionalzug,regional train
-vehicle,das Fahrrad,bicycle
-vehicle,das Taxi,taxi
-station,der Bahnhof,station
-station,der Hauptbahnhof,main station
-station,die Haltestelle,stop
-station,das Gleis,track / platform
-station,der Bahnsteig,platform
-station,der Ausgang,exit
-station,der Eingang,entrance
-station,die Rolltreppe,escalator
-station,der Aufzug,elevator
-route,die Linie,line
-route,die Richtung,direction
-route,der Fahrplan,timetable
-route,die Abfahrt,departure
-route,die Ankunft,arrival
-route,die Verspätung,delay
-route,der Ausfall,cancellation
-route,die Umleitung,diversion
-route,der Ersatzverkehr,replacement service
-ticket,die Fahrkarte,ticket
-ticket,das Deutschlandticket,Germany-wide monthly ticket
-ticket,die Monatskarte,monthly pass
-ticket,der Fahrkartenautomat,ticket machine
-ticket,die Tarifzone,fare zone (AB / ABC)
-ticket,der Kontrolleur,ticket inspector
-ticket,die Fahrkartenkontrolle,ticket check
+category,german,english,similarity
+vehicle,die U-Bahn,subway,different
+vehicle,die S-Bahn,suburban train,different
+vehicle,die Straßenbahn,tram,different
+vehicle,der Zug,train,different
+vehicle,der Regionalzug,regional train,different
+vehicle,das Fahrrad,bicycle,different
+station,der Bahnhof,station,different
+station,der Hauptbahnhof,main station,different
+station,die Haltestelle,stop,different
+station,das Gleis,track / platform,different
+station,der Bahnsteig,platform,different
+station,der Ausgang,exit,different
+station,der Eingang,entrance,different
+station,die Rolltreppe,escalator,different
+station,der Aufzug,elevator,different
+route,die Richtung,direction,different
+route,der Fahrplan,timetable,different
+route,die Abfahrt,departure,different
+route,die Ankunft,arrival,different
+route,die Verspätung,delay,different
+route,der Ausfall,cancellation,different
+route,die Umleitung,diversion,different
+route,der Ersatzverkehr,replacement service,different
+ticket,die Fahrkarte,ticket,different
+ticket,die Monatskarte,monthly pass,different
+ticket,der Fahrkartenautomat,ticket machine,different
+ticket,der Kontrolleur,ticket inspector,different
+ticket,die Fahrkartenkontrolle,ticket check,different
+vehicle,der Bus,bus,cognate
+vehicle,das Taxi,taxi,cognate
+route,die Linie,line,cognate
+ticket,das Deutschlandticket,Germany-wide monthly ticket,cognate
+ticket,die Tarifzone,fare zone (AB / ABC),cognate

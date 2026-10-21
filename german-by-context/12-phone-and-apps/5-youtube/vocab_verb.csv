@@ -1,15 +1,15 @@
-category,german,english
-button,Abonnieren,Subscribe
-button,Abonniert,Subscribed
-button,Mag ich,Like
-button,Mag ich nicht,Dislike
-button,Teilen,Share
-button,Speichern,Save
-button,Herunterladen,Download
-button,Melden,Report
-button,Kommentieren,Comment
-button,Überspringen,Skip (ad)
-button,Video wird fortgesetzt,Video will resume
-watch,ansehen (sep.),to watch
-watch,hochladen (sep.),to upload
-watch,streamen,to stream
+category,german,english,similarity
+button,Abonnieren,Subscribe,different
+button,Abonniert,Subscribed,different
+button,Mag ich,Like,different
+button,Mag ich nicht,Dislike,different
+button,Teilen,Share,different
+button,Speichern,Save,different
+button,Herunterladen,Download,different
+button,Melden,Report,different
+button,Überspringen,Skip (ad),different
+button,Video wird fortgesetzt,Video will resume,different
+watch,ansehen (sep.),to watch,different
+watch,hochladen (sep.),to upload,different
+button,Kommentieren,Comment,cognate
+watch,streamen,to stream,cognate

@@ -1,25 +1,25 @@
-category,german,english
-instagram,der Beitrag,post
-instagram,die Story,story
-instagram,das Reel,reel
-instagram,der Feed,feed
-instagram,die Follower,followers
-instagram,Gefolgt,Following (list)
-instagram,die Direktnachricht,direct message
-instagram,die Nachrichten,messages
-instagram,die Markierung,tag
-instagram,die Erwähnung,mention
-instagram,der Hashtag,hashtag
-instagram,die Bildunterschrift,caption
-instagram,Enge Freunde,Close Friends
-instagram,das Archiv,archive
-instagram,die Highlights,highlights
-x,der Post,post (formerly tweet)
-x,der Repost,repost (formerly retweet)
-x,das Zitat,quote
-x,Für dich,For you
-x,Folge ich,Following (tab)
-x,die Lesezeichen,bookmarks
-x,der Thread,thread
-x,die Trends,trends
-x,die Community Notes,community notes
+category,german,english,similarity
+instagram,der Beitrag,post,different
+instagram,die Direktnachricht,direct message,different
+instagram,die Nachrichten,messages,different
+instagram,die Erwähnung,mention,different
+instagram,die Bildunterschrift,caption,different
+instagram,Enge Freunde,Close Friends,different
+x,das Zitat,quote,different
+x,Für dich,For you,different
+x,Folge ich,Following (tab),different
+x,die Lesezeichen,bookmarks,different
+instagram,die Story,story,cognate
+instagram,das Reel,reel,cognate
+instagram,der Feed,feed,cognate
+instagram,die Follower,followers,cognate
+instagram,Gefolgt,Following (list),cognate
+instagram,die Markierung,tag,cognate
+instagram,der Hashtag,hashtag,cognate
+instagram,das Archiv,archive,cognate
+instagram,die Highlights,highlights,cognate
+x,der Post,post (formerly tweet),cognate
+x,der Repost,repost (formerly retweet),cognate
+x,der Thread,thread,cognate
+x,die Trends,trends,cognate
+x,die Community Notes,community notes,cognate

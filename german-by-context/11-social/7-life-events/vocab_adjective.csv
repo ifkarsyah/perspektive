@@ -1,10 +1,10 @@
-category,german,english
-happy,frisch verheiratet,newly married
-happy,schwanger,pregnant
-happy,stolz,proud
-happy,dankbar,grateful
-sad,traurig,sad
-sad,schockiert,shocked
-sad,verstorben,deceased
-dress,schwarz,black
-dress,festlich,formal / festive
+category,german,english,similarity
+happy,frisch verheiratet,newly married,different
+happy,schwanger,pregnant,different
+happy,stolz,proud,different
+happy,dankbar,grateful,different
+sad,traurig,sad,different
+sad,verstorben,deceased,different
+dress,schwarz,black,different
+sad,schockiert,shocked,cognate
+dress,festlich,formal / festive,cognate

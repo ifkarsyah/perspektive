@@ -1,12 +1,12 @@
-category,german,english
-status,frei,free / vacant
-status,besetzt,occupied
-status,außer Betrieb,out of order
-status,defekt,broken
-status,geschlossen,closed
-status,kostenlos,free of charge
-status,kostenpflichtig,paid
-state,sauber,clean
-state,schmutzig,dirty
-state,eklig,gross
-state,dringend,urgent
+category,german,english,similarity
+status,besetzt,occupied,different
+status,außer Betrieb,out of order,different
+status,defekt,broken,different
+status,geschlossen,closed,different
+status,kostenlos,free of charge,different
+status,kostenpflichtig,paid,different
+state,sauber,clean,different
+state,schmutzig,dirty,different
+state,eklig,gross,different
+state,dringend,urgent,different
+status,frei,free / vacant,cognate

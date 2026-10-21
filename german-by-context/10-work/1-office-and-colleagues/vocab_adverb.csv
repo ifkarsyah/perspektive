@@ -1,10 +1,10 @@
-category,german,english
-time,heute,today
-time,bis morgen,by tomorrow
-time,bis Ende der Woche,by the end of the week
-time,gleich,in a moment
-time,später,later
-time,vormittags,in the morning
-place,im Büro,at the office
-place,im Homeoffice,working from home
-place,vor Ort,on site
+category,german,english,similarity
+time,bis morgen,by tomorrow,false-friend
+time,heute,today,different
+time,bis Ende der Woche,by the end of the week,different
+time,gleich,in a moment,different
+time,später,later,different
+time,vormittags,in the morning,different
+place,im Büro,at the office,different
+place,im Homeoffice,working from home,different
+place,vor Ort,on site,different

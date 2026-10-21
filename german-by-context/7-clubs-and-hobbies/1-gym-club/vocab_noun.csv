@@ -1,44 +1,44 @@
-category,german,english
-gym,das Fitnessstudio,gym
-gym,die Mitgliedschaft,membership
-gym,der Vertrag,contract
-gym,die Laufzeit,contract term
-gym,die Kündigungsfrist,notice period
-gym,das Probetraining,trial session
-gym,die Anmeldegebühr,joining fee
-gym,der Mitgliedsausweis,membership card
-gym,die Umkleide,changing room
-gym,der Spind,locker
-gym,das Schloss,padlock
-gym,die Dusche,shower
-gym,das Handtuch,towel
-gym,die Trinkflasche,water bottle
-equipment,das Gerät,machine
-equipment,die Hantel,dumbbell
-equipment,die Langhantel,barbell
-equipment,die Hantelbank,weight bench
-equipment,das Gewicht,weight
-equipment,die Scheibe,weight plate
-equipment,das Laufband,treadmill
-equipment,das Fahrrad,exercise bike
-equipment,der Crosstrainer,elliptical
-equipment,die Matte,mat
-equipment,das Seil,rope
-training,das Training,workout
-training,der Trainingsplan,training plan
-training,der Trainer,trainer
-training,der Kurs,class
-training,der Satz,set
-training,die Wiederholung,rep
-training,die Übung,exercise
-training,das Aufwärmen,warm-up
-training,die Kniebeuge,squat
-training,der Liegestütz,push-up
-training,das Bankdrücken,bench press
-training,das Kreuzheben,deadlift
-body,der Muskel,muscle
-body,der Muskelkater,sore muscles
-body,die Schulter,shoulder
-body,der Rücken,back
-body,das Bein,leg
-body,der Bauch,abs / stomach
+category,german,english,similarity
+gym,das Fitnessstudio,gym,different
+gym,die Mitgliedschaft,membership,different
+gym,der Vertrag,contract,different
+gym,die Laufzeit,contract term,different
+gym,die Kündigungsfrist,notice period,different
+gym,das Probetraining,trial session,different
+gym,die Anmeldegebühr,joining fee,different
+gym,der Mitgliedsausweis,membership card,different
+gym,die Umkleide,changing room,different
+gym,der Spind,locker,different
+gym,das Schloss,padlock,different
+gym,die Dusche,shower,different
+gym,die Trinkflasche,water bottle,different
+equipment,das Gerät,machine,different
+equipment,die Hantel,dumbbell,different
+equipment,die Langhantel,barbell,different
+equipment,die Hantelbank,weight bench,different
+equipment,das Gewicht,weight,different
+equipment,die Scheibe,weight plate,different
+equipment,das Laufband,treadmill,different
+equipment,das Fahrrad,exercise bike,different
+equipment,der Crosstrainer,elliptical,different
+equipment,das Seil,rope,different
+training,das Training,workout,different
+training,der Kurs,class,different
+training,der Satz,set,different
+training,die Wiederholung,rep,different
+training,die Übung,exercise,different
+training,die Kniebeuge,squat,different
+training,der Liegestütz,push-up,different
+training,das Bankdrücken,bench press,different
+training,das Kreuzheben,deadlift,different
+body,der Muskelkater,sore muscles,different
+body,der Rücken,back,different
+body,das Bein,leg,different
+body,der Bauch,abs / stomach,different
+gym,das Handtuch,towel,cognate
+equipment,die Matte,mat,cognate
+training,der Trainingsplan,training plan,cognate
+training,der Trainer,trainer,cognate
+training,das Aufwärmen,warm-up,cognate
+body,der Muskel,muscle,cognate
+body,die Schulter,shoulder,cognate

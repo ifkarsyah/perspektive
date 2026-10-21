@@ -1,31 +1,31 @@
-category,german,english
-train,die Deutsche Bahn,German railways
-train,der ICE,high-speed train
-train,der IC,intercity train
-train,der Regionalexpress,regional express
-train,der Nachtzug,night train
-train,der Wagen,carriage
-train,die Wagenreihung,carriage order
-train,der Sitzplatz,seat
-train,das Großraumabteil,open carriage
-train,der Ruhebereich,quiet zone
-train,das Bordbistro,on-board café
-train,der Zugbegleiter,conductor
-station,der Hauptbahnhof,main station
-station,das Gleis,platform / track
-station,der Gleiswechsel,platform change
-station,der Bahnsteigabschnitt,platform section
-station,die Anzeigetafel,departure board
-station,das Reisezentrum,travel centre
-ticket,die Fahrkarte,ticket
-ticket,der Sparpreis,saver fare
-ticket,der Flexpreis,flexible fare
-ticket,die Zugbindung,train-specific ticket restriction
-ticket,die Sitzplatzreservierung,seat reservation
-ticket,die BahnCard,rail discount card
-ticket,die App DB Navigator,DB Navigator app
-delay,die Verspätung,delay
-delay,der Zugausfall,train cancellation
-delay,der Anschluss,connection
-delay,die Fahrgastrechte,passenger rights
-delay,die Entschädigung,compensation
+category,german,english,similarity
+train,die Deutsche Bahn,German railways,different
+train,der ICE,high-speed train,different
+train,der IC,intercity train,different
+train,der Nachtzug,night train,different
+train,der Wagen,carriage,different
+train,die Wagenreihung,carriage order,different
+train,der Sitzplatz,seat,different
+train,das Großraumabteil,open carriage,different
+train,der Ruhebereich,quiet zone,different
+train,das Bordbistro,on-board café,different
+train,der Zugbegleiter,conductor,different
+station,der Hauptbahnhof,main station,different
+station,das Gleis,platform / track,different
+station,der Gleiswechsel,platform change,different
+station,der Bahnsteigabschnitt,platform section,different
+station,die Anzeigetafel,departure board,different
+station,das Reisezentrum,travel centre,different
+ticket,die Fahrkarte,ticket,different
+ticket,der Sparpreis,saver fare,different
+ticket,die Zugbindung,train-specific ticket restriction,different
+ticket,die Sitzplatzreservierung,seat reservation,different
+ticket,die BahnCard,rail discount card,different
+delay,die Verspätung,delay,different
+delay,der Zugausfall,train cancellation,different
+delay,der Anschluss,connection,different
+delay,die Fahrgastrechte,passenger rights,different
+delay,die Entschädigung,compensation,different
+train,der Regionalexpress,regional express,cognate
+ticket,der Flexpreis,flexible fare,cognate
+ticket,die App DB Navigator,DB Navigator app,cognate

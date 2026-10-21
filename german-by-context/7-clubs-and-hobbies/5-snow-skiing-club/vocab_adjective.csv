@@ -1,17 +1,17 @@
-category,german,english
-slope,steil,steep
-slope,flach,gentle
-slope,eisig,icy
-slope,vereist,iced over
-slope,gesperrt,closed
-slope,präpariert,groomed
-snow,weich,soft
-snow,pulvrig,powdery
-snow,matschig,slushy
-weather,kalt,cold
-weather,neblig,foggy
-weather,sonnig,sunny
-gear,zu eng,too tight
-gear,locker,loose
-feeling,ängstlich,nervous
-feeling,kaputt,exhausted (informal)
+category,german,english,similarity
+slope,steil,steep,different
+slope,eisig,icy,different
+slope,vereist,iced over,different
+slope,gesperrt,closed,different
+slope,präpariert,groomed,different
+snow,weich,soft,different
+snow,pulvrig,powdery,different
+snow,matschig,slushy,different
+weather,neblig,foggy,different
+gear,zu eng,too tight,different
+gear,locker,loose,different
+feeling,ängstlich,nervous,different
+feeling,kaputt,exhausted (informal),different
+slope,flach,gentle,cognate
+weather,kalt,cold,cognate
+weather,sonnig,sunny,cognate

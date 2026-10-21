@@ -1,11 +1,11 @@
-category,german,english
-time,pünktlich,on time
-time,verspätet,delayed
-time,ausgefallen,cancelled
-time,nächste,next
-time,letzte,last
-route,direkt,direct
-crowd,voll,crowded
-crowd,leer,empty
-ticket,gültig,valid
-ticket,ungültig,invalid
+category,german,english,similarity
+time,pünktlich,on time,different
+time,verspätet,delayed,different
+time,ausgefallen,cancelled,different
+time,nächste,next,different
+time,letzte,last,different
+crowd,leer,empty,different
+ticket,gültig,valid,different
+ticket,ungültig,invalid,different
+route,direkt,direct,cognate
+crowd,voll,crowded,cognate

@@ -1,16 +1,16 @@
-category,german,english
-phone,entsperren,to unlock
-phone,sperren,to lock
-phone,aufladen (sep.),to charge
-phone,neu starten (sep.),to restart
-phone,ausschalten (sep.),to turn off
-phone,aktualisieren,to update
-phone,sichern,to back up
-phone,wiederherstellen (sep.),to restore
-phone,zurücksetzen (sep.),to reset
-phone,koppeln,to pair (Bluetooth)
-phone,verbinden,to connect
-phone,tippen,to tap
-phone,wischen,to swipe
-phone,gedrückt halten (sep.),to press and hold
-phone,ein Bildschirmfoto machen,to take a screenshot
+category,german,english,similarity
+phone,entsperren,to unlock,different
+phone,sperren,to lock,different
+phone,aufladen (sep.),to charge,different
+phone,ausschalten (sep.),to turn off,different
+phone,aktualisieren,to update,different
+phone,sichern,to back up,different
+phone,wiederherstellen (sep.),to restore,different
+phone,zurücksetzen (sep.),to reset,different
+phone,koppeln,to pair (Bluetooth),different
+phone,verbinden,to connect,different
+phone,tippen,to tap,different
+phone,wischen,to swipe,different
+phone,gedrückt halten (sep.),to press and hold,different
+phone,ein Bildschirmfoto machen,to take a screenshot,different
+phone,neu starten (sep.),to restart,cognate

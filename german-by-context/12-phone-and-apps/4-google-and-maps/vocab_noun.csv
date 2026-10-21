@@ -1,33 +1,33 @@
-category,german,english
-search,die Google-Suche,Google search
-search,das Suchergebnis,search result
-search,die Bilder,Images
-search,die News,News
-search,die Videos,Videos
-search,der Übersetzer,Translate
-search,das Google-Konto,Google account
-gmail,der Posteingang,Inbox
-gmail,die Entwürfe,Drafts
-gmail,Gesendet,Sent
-gmail,der Spam,Spam
-gmail,der Papierkorb,Trash
-gmail,der Anhang,attachment
-gmail,der Betreff,subject
-gmail,der Empfänger,recipient
-gmail,CC,CC
-drive,Google Drive,Google Drive
-drive,Meine Ablage,My Drive
-drive,Für mich freigegeben,Shared with me
-drive,die Freigabe,sharing
-maps,die Route,route
-maps,die Wegbeschreibung,directions
-maps,der Standort,location
-maps,der Start,starting point
-maps,das Ziel,destination
-maps,die Rezension,review
-maps,die Bewertung,rating
-maps,die Stoßzeiten,popular times
-maps,die Öffnungszeiten,opening hours
-maps,die öffentlichen Verkehrsmittel,public transport
-maps,zu Fuß,walking
-maps,das Fahrrad,cycling
+category,german,english,similarity
+search,die Google-Suche,Google search,different
+search,das Suchergebnis,search result,different
+search,die Bilder,Images,different
+search,der Übersetzer,Translate,different
+search,das Google-Konto,Google account,different
+gmail,der Posteingang,Inbox,different
+gmail,die Entwürfe,Drafts,different
+gmail,der Papierkorb,Trash,different
+gmail,der Anhang,attachment,different
+gmail,der Betreff,subject,different
+gmail,der Empfänger,recipient,different
+drive,Meine Ablage,My Drive,different
+drive,Für mich freigegeben,Shared with me,different
+drive,die Freigabe,sharing,different
+maps,die Wegbeschreibung,directions,different
+maps,der Standort,location,different
+maps,das Ziel,destination,different
+maps,die Rezension,review,different
+maps,die Bewertung,rating,different
+maps,die Stoßzeiten,popular times,different
+maps,die Öffnungszeiten,opening hours,different
+maps,die öffentlichen Verkehrsmittel,public transport,different
+maps,zu Fuß,walking,different
+maps,das Fahrrad,cycling,different
+search,die News,News,cognate
+search,die Videos,Videos,cognate
+gmail,Gesendet,Sent,cognate
+gmail,der Spam,Spam,cognate
+gmail,CC,CC,cognate
+drive,Google Drive,Google Drive,cognate
+maps,die Route,route,cognate
+maps,der Start,starting point,cognate

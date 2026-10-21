@@ -1,8 +1,8 @@
-category,german,english
-time,gleich,in a moment
-time,später,later
-time,morgen Vormittag,tomorrow morning
-time,zwischen 9 und 12 Uhr,between 9 and 12
-manner,langsam,slowly
-manner,noch einmal,once more
-manner,laut,loudly
+category,german,english,similarity
+time,morgen Vormittag,tomorrow morning,false-friend
+time,gleich,in a moment,different
+time,später,later,different
+time,zwischen 9 und 12 Uhr,between 9 and 12,different
+manner,langsam,slowly,different
+manner,noch einmal,once more,different
+manner,laut,loudly,cognate

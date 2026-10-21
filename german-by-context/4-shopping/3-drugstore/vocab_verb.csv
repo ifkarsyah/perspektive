@@ -1,15 +1,15 @@
-category,german,english
-shop,suchen,to look for
-shop,finden,to find
-shop,kaufen,to buy
-shop,brauchen,to need
-shop,vergleichen,to compare
-shop,umtauschen (sep.),to exchange
-care,sich eincremen (sep.),to put on cream
-care,sich die Haare waschen,to wash one's hair
-care,sich schminken,to put on make-up
-cleaning,putzen,to clean
-cleaning,waschen,to wash
-cleaning,entkalken,to descale
-photo,Passfotos machen,to take passport photos
-photo,Fotos ausdrucken (sep.),to print photos
+category,german,english,similarity
+shop,suchen,to look for,different
+shop,kaufen,to buy,different
+shop,brauchen,to need,different
+shop,vergleichen,to compare,different
+shop,umtauschen (sep.),to exchange,different
+care,sich die Haare waschen,to wash one's hair,different
+care,sich schminken,to put on make-up,different
+cleaning,putzen,to clean,different
+cleaning,entkalken,to descale,different
+photo,Passfotos machen,to take passport photos,different
+photo,Fotos ausdrucken (sep.),to print photos,different
+shop,finden,to find,cognate
+care,sich eincremen (sep.),to put on cream,cognate
+cleaning,waschen,to wash,cognate

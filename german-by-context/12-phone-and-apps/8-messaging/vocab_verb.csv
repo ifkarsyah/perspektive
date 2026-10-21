@@ -1,22 +1,22 @@
-category,german,english
-button,Antworten,Reply
-button,Weiterleiten,Forward
-button,Kopieren,Copy
-button,Löschen,Delete
-button,Für alle löschen,Delete for everyone
-button,Für mich löschen,Delete for me
-button,Anpinnen,Pin
-button,Archivieren,Archive
-button,Stummschalten,Mute
-button,Blockieren,Block
-button,Melden,Report
-button,Neue Gruppe,New group
-button,Mitglieder hinzufügen,Add members
-button,Gruppe verlassen,Exit group
-chat,schreiben,to text / write
-chat,antworten,to reply
-chat,eine Sprachnachricht schicken,to send a voice message
-chat,anrufen (sep.),to call
-chat,hinzufügen (sep.),to add
-chat,reagieren,to react
-chat,teilen,to share
+category,german,english,similarity
+button,Antworten,Reply,different
+button,Weiterleiten,Forward,different
+button,Löschen,Delete,different
+button,Für alle löschen,Delete for everyone,different
+button,Für mich löschen,Delete for me,different
+button,Stummschalten,Mute,different
+button,Melden,Report,different
+button,Mitglieder hinzufügen,Add members,different
+button,Gruppe verlassen,Exit group,different
+chat,schreiben,to text / write,different
+chat,eine Sprachnachricht schicken,to send a voice message,different
+chat,anrufen (sep.),to call,different
+chat,hinzufügen (sep.),to add,different
+chat,teilen,to share,different
+button,Kopieren,Copy,cognate
+button,Anpinnen,Pin,cognate
+button,Archivieren,Archive,cognate
+button,Blockieren,Block,cognate
+button,Neue Gruppe,New group,cognate
+chat,antworten,to reply,cognate
+chat,reagieren,to react,cognate

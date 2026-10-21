@@ -1,12 +1,12 @@
-category,german,english
-skin,trocken,dry
-skin,fettig,oily
-skin,empfindlich,sensitive
-product,parfümfrei,fragrance-free
-product,vegan,vegan
-product,natürlich,natural
-product,biologisch abbaubar,biodegradable
-size,groß,large
-size,klein,small
-price,günstig,cheap
-price,teuer,expensive
+category,german,english,similarity
+skin,trocken,dry,different
+skin,fettig,oily,different
+skin,empfindlich,sensitive,different
+product,parfümfrei,fragrance-free,different
+product,biologisch abbaubar,biodegradable,different
+size,groß,large,different
+size,klein,small,different
+price,günstig,cheap,different
+price,teuer,expensive,different
+product,vegan,vegan,cognate
+product,natürlich,natural,cognate

@@ -1,12 +1,12 @@
-category,german,english
-trip,spontan,spontaneous
-trip,entspannt,relaxed
-trip,stressig,stressful
-trip,interessant,interesting
-trip,beeindruckend,impressive
-trip,touristisch,touristy
-stay,ausgebucht,fully booked
-stay,zentral,central
-stay,sauber,clean
-cost,günstig,cheap
-cost,teuer,expensive
+category,german,english,similarity
+trip,entspannt,relaxed,different
+trip,beeindruckend,impressive,different
+stay,ausgebucht,fully booked,different
+stay,sauber,clean,different
+cost,günstig,cheap,different
+cost,teuer,expensive,different
+trip,spontan,spontaneous,cognate
+trip,stressig,stressful,cognate
+trip,interessant,interesting,cognate
+trip,touristisch,touristy,cognate
+stay,zentral,central,cognate

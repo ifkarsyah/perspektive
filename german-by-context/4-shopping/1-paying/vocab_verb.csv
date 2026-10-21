@@ -1,11 +1,11 @@
-category,german,english
-pay,bezahlen,to pay
-pay,zahlen,to pay
-pay,kosten,to cost
-pay,eingeben (sep.),to enter (PIN)
-pay,hinhalten (sep.),to hold (card) to the reader
-pay,abbuchen (sep.),to debit
-cash,wechseln,to change (money)
-cash,herausgeben (sep.),to give change
-return,zurückgeben (sep.),to return
-return,erstatten,to refund
+category,german,english,similarity
+pay,bezahlen,to pay,different
+pay,zahlen,to pay,different
+pay,eingeben (sep.),to enter (PIN),different
+pay,hinhalten (sep.),to hold (card) to the reader,different
+pay,abbuchen (sep.),to debit,different
+cash,wechseln,to change (money),different
+cash,herausgeben (sep.),to give change,different
+return,zurückgeben (sep.),to return,different
+return,erstatten,to refund,different
+pay,kosten,to cost,cognate

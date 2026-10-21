@@ -1,26 +1,26 @@
-category,german,english
-account,die Bank,bank
-account,die Filiale,branch
-account,der Berater,advisor
-account,das Konto,account
-account,das Girokonto,checking account
-account,das Sparkonto,savings account
-account,die IBAN,IBAN
-account,die BIC,BIC
-account,der Kontostand,balance
-account,der Kontoauszug,bank statement
-account,die Kontoführungsgebühr,account fee
-card,die Girocard,debit card (EC card)
-card,die Kreditkarte,credit card
-card,der Geldautomat,ATM
-card,die PIN,PIN
-card,das Bargeld,cash
-transfer,die Überweisung,bank transfer
-transfer,der Dauerauftrag,standing order
-transfer,die Lastschrift,direct debit
-transfer,der Betrag,amount
-transfer,der Empfänger,recipient
-transfer,der Verwendungszweck,payment reference
-online,das Online-Banking,online banking
-online,die App,app
-online,die TAN,transaction code
+category,german,english,similarity
+account,die Filiale,branch,different
+account,der Berater,advisor,different
+account,das Konto,account,different
+account,das Girokonto,checking account,different
+account,das Sparkonto,savings account,different
+account,der Kontostand,balance,different
+account,der Kontoauszug,bank statement,different
+account,die Kontoführungsgebühr,account fee,different
+card,die Girocard,debit card (EC card),different
+card,der Geldautomat,ATM,different
+card,das Bargeld,cash,different
+transfer,die Überweisung,bank transfer,different
+transfer,der Dauerauftrag,standing order,different
+transfer,die Lastschrift,direct debit,different
+transfer,der Betrag,amount,different
+transfer,der Empfänger,recipient,different
+transfer,der Verwendungszweck,payment reference,different
+online,die TAN,transaction code,different
+account,die Bank,bank,cognate
+account,die IBAN,IBAN,cognate
+account,die BIC,BIC,cognate
+card,die Kreditkarte,credit card,cognate
+card,die PIN,PIN,cognate
+online,das Online-Banking,online banking,cognate
+online,die App,app,cognate

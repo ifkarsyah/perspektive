@@ -1,10 +1,10 @@
-category,german,english
-amount,ein bisschen,a little
-amount,nur die Spitzen,just the ends
-amount,nicht zu kurz,not too short
-amount,etwa zwei Zentimeter,about two centimetres
-place,an den Seiten,on the sides
-place,oben,on top
-place,hinten,at the back
-place,vorne,at the front
-manner,wie vorher,like before
+category,german,english,similarity
+amount,nur die Spitzen,just the ends,different
+amount,nicht zu kurz,not too short,different
+amount,etwa zwei Zentimeter,about two centimetres,different
+place,an den Seiten,on the sides,different
+place,oben,on top,different
+place,hinten,at the back,different
+place,vorne,at the front,different
+manner,wie vorher,like before,different
+amount,ein bisschen,a little,cognate

@@ -1,43 +1,43 @@
-category,german,english
-button,Abbrechen,Cancel
-button,Fertig,Done
-button,Weiter,Next / Continue
-button,Zurück,Back
-button,Bearbeiten,Edit
-button,Löschen,Delete
-button,Entfernen,Remove
-button,Hinzufügen,Add
-button,Speichern,Save
-button,Sichern,"Save (Apple, older wording)"
-button,Teilen,Share
-button,Senden,Send
-button,Antworten,Reply
-button,Weiterleiten,Forward
-button,Kopieren,Copy
-button,Ausschneiden,Cut
-button,Einsetzen,Paste (Apple)
-button,Einfügen,Paste / Insert
-button,Rückgängig,Undo
-button,Wiederholen,Redo / Repeat
-button,Auswählen,Select
-button,Alles auswählen,Select all
-button,Suchen,Search
-button,Öffnen,Open
-button,Schließen,Close
-button,Herunterladen,Download
-button,Hochladen,Upload
-button,Aktualisieren,Refresh / Update
-button,Erneut versuchen,Try again
-button,Überspringen,Skip
-button,Bestätigen,Confirm
-button,Akzeptieren,Accept
-button,Ablehnen,Decline
-button,Zulassen,Allow
-button,Erlauben,Allow
-button,Nicht erlauben,Don't allow
-button,Später,Later
-account,Anmelden,Sign in
-account,Abmelden,Sign out
-account,Registrieren,Sign up
-account,Konto erstellen,Create account
-account,Passwort zurücksetzen,Reset password
+category,german,english,similarity
+button,Abbrechen,Cancel,different
+button,Fertig,Done,different
+button,Weiter,Next / Continue,different
+button,Zurück,Back,different
+button,Bearbeiten,Edit,different
+button,Löschen,Delete,different
+button,Entfernen,Remove,different
+button,Hinzufügen,Add,different
+button,Speichern,Save,different
+button,Sichern,"Save (Apple, older wording)",different
+button,Teilen,Share,different
+button,Antworten,Reply,different
+button,Weiterleiten,Forward,different
+button,Ausschneiden,Cut,different
+button,Einsetzen,Paste (Apple),different
+button,Einfügen,Paste / Insert,different
+button,Rückgängig,Undo,different
+button,Wiederholen,Redo / Repeat,different
+button,Auswählen,Select,different
+button,Alles auswählen,Select all,different
+button,Suchen,Search,different
+button,Schließen,Close,different
+button,Herunterladen,Download,different
+button,Hochladen,Upload,different
+button,Aktualisieren,Refresh / Update,different
+button,Erneut versuchen,Try again,different
+button,Überspringen,Skip,different
+button,Bestätigen,Confirm,different
+button,Ablehnen,Decline,different
+button,Zulassen,Allow,different
+button,Erlauben,Allow,different
+button,Nicht erlauben,Don't allow,different
+button,Später,Later,different
+account,Anmelden,Sign in,different
+account,Abmelden,Sign out,different
+account,Registrieren,Sign up,different
+account,Konto erstellen,Create account,different
+account,Passwort zurücksetzen,Reset password,different
+button,Senden,Send,cognate
+button,Kopieren,Copy,cognate
+button,Öffnen,Open,cognate
+button,Akzeptieren,Accept,cognate

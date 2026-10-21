@@ -1,37 +1,37 @@
-category,german,english
-desktop,der Schreibtisch,Desktop
-desktop,das Dock,Dock
-desktop,die Menüleiste,menu bar
-desktop,der Papierkorb,Trash
-desktop,die Systemeinstellungen,System Settings
-desktop,das Kontrollzentrum,Control Center
-desktop,die Mitteilungszentrale,Notification Center
-desktop,die Spotlight-Suche,Spotlight search
-desktop,das Fenster,window
-desktop,der Bildschirmschoner,screen saver
-finder,der Finder,Finder
-finder,die Programme,Applications
-finder,die Dokumente,Documents
-finder,die Downloads,Downloads
-finder,der Ordner,folder
-finder,die Datei,file
-finder,das Programm,application
-finder,die Vorschau,Preview (app)
-finder,die Aktivitätsanzeige,Activity Monitor
-finder,das Festplattendienstprogramm,Disk Utility
-menu,Ablage,File (menu)
-menu,Bearbeiten,Edit (menu)
-menu,Darstellung,View (menu)
-menu,Gehe zu,Go (menu)
-menu,Fenster,Window (menu)
-menu,Hilfe,Help (menu)
-key,die Befehlstaste,Command key
-key,die Wahltaste,Option key
-key,die Umschalttaste,Shift key
-key,die Steuerungstaste,Control key
-key,die Feststelltaste,Caps Lock
-key,die Eingabetaste,Return / Enter
-key,die Leertaste,Space bar
-key,die Rückschritttaste,Delete (backspace)
-key,die Tabulatortaste,Tab key
-key,die Tastenkombination,keyboard shortcut
+category,german,english,similarity
+desktop,der Schreibtisch,Desktop,different
+desktop,die Menüleiste,menu bar,different
+desktop,der Papierkorb,Trash,different
+desktop,die Systemeinstellungen,System Settings,different
+desktop,die Mitteilungszentrale,Notification Center,different
+desktop,die Spotlight-Suche,Spotlight search,different
+desktop,das Fenster,window,different
+desktop,der Bildschirmschoner,screen saver,different
+finder,die Programme,Applications,different
+finder,der Ordner,folder,different
+finder,die Datei,file,different
+finder,das Programm,application,different
+finder,die Vorschau,Preview (app),different
+finder,die Aktivitätsanzeige,Activity Monitor,different
+finder,das Festplattendienstprogramm,Disk Utility,different
+menu,Ablage,File (menu),different
+menu,Bearbeiten,Edit (menu),different
+menu,Darstellung,View (menu),different
+menu,Gehe zu,Go (menu),different
+menu,Fenster,Window (menu),different
+menu,Hilfe,Help (menu),different
+key,die Befehlstaste,Command key,different
+key,die Wahltaste,Option key,different
+key,die Umschalttaste,Shift key,different
+key,die Steuerungstaste,Control key,different
+key,die Feststelltaste,Caps Lock,different
+key,die Eingabetaste,Return / Enter,different
+key,die Leertaste,Space bar,different
+key,die Rückschritttaste,Delete (backspace),different
+key,die Tabulatortaste,Tab key,different
+key,die Tastenkombination,keyboard shortcut,different
+desktop,das Dock,Dock,cognate
+desktop,das Kontrollzentrum,Control Center,cognate
+finder,der Finder,Finder,cognate
+finder,die Dokumente,Documents,cognate
+finder,die Downloads,Downloads,cognate

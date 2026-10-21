@@ -1,34 +1,34 @@
-category,german,english
-office,das Büro,office
-office,der Arbeitsplatz,workplace / desk
-office,der Schreibtisch,desk
-office,das Großraumbüro,open-plan office
-office,der Besprechungsraum,meeting room
-office,die Kaffeeküche,office kitchen
-office,die Kantine,canteen
-office,das Homeoffice,working from home
-office,der Ausweis,badge
-people,der Kollege,colleague (m)
-people,die Kollegin,colleague (f)
-people,der Chef,boss (m)
-people,die Chefin,boss (f)
-people,die Führungskraft,manager
-people,das Team,team
-people,die Abteilung,department
-people,die Personalabteilung,HR department
-people,der Praktikant,intern
-work,die Aufgabe,task
-work,das Projekt,project
-work,das Ticket,ticket
-work,die Frist,deadline
-work,die Priorität,priority
-work,das Feedback,feedback
-work,der Fehler,bug / mistake
-work,die Mittagspause,lunch break
-work,der Feierabend,end of the workday
-work,die Überstunden,overtime
-work,die Gleitzeit,flexible hours
-work,die Kernarbeitszeit,core hours
-work,der Urlaub,vacation
-work,die Probezeit,probation period
-work,das Gehalt,salary
+category,german,english,similarity
+people,der Chef,boss (m),false-friend
+office,das Büro,office,different
+office,der Arbeitsplatz,workplace / desk,different
+office,der Schreibtisch,desk,different
+office,das Großraumbüro,open-plan office,different
+office,der Besprechungsraum,meeting room,different
+office,das Homeoffice,working from home,different
+office,der Ausweis,badge,different
+people,die Chefin,boss (f),different
+people,die Führungskraft,manager,different
+people,die Abteilung,department,different
+people,die Personalabteilung,HR department,different
+people,der Praktikant,intern,different
+work,die Aufgabe,task,different
+work,die Frist,deadline,different
+work,der Fehler,bug / mistake,different
+work,die Mittagspause,lunch break,different
+work,der Feierabend,end of the workday,different
+work,die Überstunden,overtime,different
+work,die Gleitzeit,flexible hours,different
+work,die Kernarbeitszeit,core hours,different
+work,der Urlaub,vacation,different
+work,die Probezeit,probation period,different
+work,das Gehalt,salary,different
+office,die Kaffeeküche,office kitchen,cognate
+office,die Kantine,canteen,cognate
+people,der Kollege,colleague (m),cognate
+people,die Kollegin,colleague (f),cognate
+people,das Team,team,cognate
+work,das Projekt,project,cognate
+work,das Ticket,ticket,cognate
+work,die Priorität,priority,cognate
+work,das Feedback,feedback,cognate

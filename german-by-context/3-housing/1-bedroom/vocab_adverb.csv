@@ -1,10 +1,10 @@
-category,german,english
-time,morgens,in the morning
-time,abends,in the evening
-time,nachts,at night
-time,früh,early
-time,spät,late
-place,oben,up / upstairs
-place,unten,down / downstairs
-place,links,on the left
-place,rechts,on the right
+category,german,english,similarity
+time,morgens,in the morning,different
+time,abends,in the evening,different
+time,nachts,at night,different
+time,früh,early,different
+time,spät,late,different
+place,oben,up / upstairs,different
+place,unten,down / downstairs,different
+place,links,on the left,different
+place,rechts,on the right,cognate

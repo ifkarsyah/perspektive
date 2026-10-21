@@ -1,43 +1,43 @@
-category,german,english
-club,der Fußballverein,football club
-club,die Mannschaft,team
-club,die Hobbymannschaft,amateur / casual team
-club,das Training,training
-club,das Spiel,match
-club,das Turnier,tournament
-club,der Trainer,coach
-club,der Mitspieler,teammate
-club,der Gegner,opponent
-pitch,der Platz,pitch
-pitch,der Kunstrasen,artificial turf
-pitch,die Halle,indoor hall
-pitch,das Tor,goal
-pitch,der Strafraum,penalty area
-pitch,die Mittellinie,halfway line
-pitch,die Seitenlinie,touchline
-position,der Torwart,goalkeeper
-position,der Verteidiger,defender
-position,das Mittelfeld,midfield
-position,der Stürmer,striker
-position,der Flügel,wing
-game,der Ball,ball
-game,der Pass,pass
-game,der Schuss,shot
-game,die Flanke,cross
-game,die Ecke,corner
-game,der Einwurf,throw-in
-game,der Freistoß,free kick
-game,der Elfmeter,penalty
-game,das Abseits,offside
-game,das Foul,foul
-game,die Gelbe Karte,yellow card
-game,die Rote Karte,red card
-game,der Schiedsrichter,referee
-game,die Halbzeit,half-time
-game,das Ergebnis,score
-game,das Unentschieden,draw
-gear,die Fußballschuhe,football boots
-gear,die Stollen,studs
-gear,die Schienbeinschoner,shin guards
-gear,das Trikot,jersey
-gear,das Leibchen,training bib
+category,german,english,similarity
+club,der Fußballverein,football club,different
+club,die Mannschaft,team,different
+club,die Hobbymannschaft,amateur / casual team,different
+club,das Spiel,match,different
+club,der Trainer,coach,different
+club,der Mitspieler,teammate,different
+club,der Gegner,opponent,different
+pitch,der Platz,pitch,different
+pitch,der Kunstrasen,artificial turf,different
+pitch,das Tor,goal,different
+pitch,der Strafraum,penalty area,different
+pitch,die Mittellinie,halfway line,different
+pitch,die Seitenlinie,touchline,different
+position,der Torwart,goalkeeper,different
+position,der Verteidiger,defender,different
+position,der Stürmer,striker,different
+position,der Flügel,wing,different
+game,der Schuss,shot,different
+game,die Flanke,cross,different
+game,die Ecke,corner,different
+game,der Einwurf,throw-in,different
+game,der Freistoß,free kick,different
+game,der Elfmeter,penalty,different
+game,das Abseits,offside,different
+game,der Schiedsrichter,referee,different
+game,das Ergebnis,score,different
+game,das Unentschieden,draw,different
+gear,die Fußballschuhe,football boots,different
+gear,die Stollen,studs,different
+gear,die Schienbeinschoner,shin guards,different
+gear,das Trikot,jersey,different
+gear,das Leibchen,training bib,different
+club,das Training,training,cognate
+club,das Turnier,tournament,cognate
+pitch,die Halle,indoor hall,cognate
+position,das Mittelfeld,midfield,cognate
+game,der Ball,ball,cognate
+game,der Pass,pass,cognate
+game,das Foul,foul,cognate
+game,die Gelbe Karte,yellow card,cognate
+game,die Rote Karte,red card,cognate
+game,die Halbzeit,half-time,cognate

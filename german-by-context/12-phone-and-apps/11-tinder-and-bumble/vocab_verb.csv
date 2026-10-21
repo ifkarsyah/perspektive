@@ -1,18 +1,18 @@
-category,german,english
-button,Like,Like
-button,Nope,Nope (swipe left)
-button,Nachricht senden,Send message
-button,Weiter swipen,Keep swiping
-button,Profil bearbeiten,Edit profile
-button,Erweitern,Extend (Bumble 24h)
-button,Melden,Report
-button,Match aufheben,Unmatch
-app,swipen,to swipe
-app,nach rechts wischen,to swipe right
-app,nach links wischen,to swipe left
-app,matchen,to match
-app,anschreiben (sep.),to message first
-app,antworten,to reply
-app,ghosten,to ghost
-app,sich verifizieren,to verify oneself
-app,sich treffen,to meet
+category,german,english,similarity
+button,Nachricht senden,Send message,different
+button,Weiter swipen,Keep swiping,different
+button,Profil bearbeiten,Edit profile,different
+button,Erweitern,Extend (Bumble 24h),different
+button,Melden,Report,different
+button,Match aufheben,Unmatch,different
+app,nach rechts wischen,to swipe right,different
+app,nach links wischen,to swipe left,different
+app,anschreiben (sep.),to message first,different
+app,sich treffen,to meet,different
+button,Like,Like,cognate
+button,Nope,Nope (swipe left),cognate
+app,swipen,to swipe,cognate
+app,matchen,to match,cognate
+app,antworten,to reply,cognate
+app,ghosten,to ghost,cognate
+app,sich verifizieren,to verify oneself,cognate

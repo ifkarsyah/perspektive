@@ -1,22 +1,22 @@
-category,german,english
-ordering,bestellen,to order
-ordering,nehmen,to take / to have
-ordering,empfehlen,to recommend
-ordering,reservieren,to reserve
-ordering,warten,to wait
-ordering,bringen,to bring
-ordering,brauchen,to need
-ordering,möchten,would like
-ordering,mitnehmen (sep.),to take away
-ordering,sich setzen,to sit down
-eating,essen,to eat
-eating,trinken,to drink
-eating,probieren,to try / to taste
-eating,schmecken,to taste (Es schmeckt gut)
-eating,teilen,to share
-eating,frühstücken,to have breakfast
-eating,zu Mittag essen,to have lunch
-eating,zu Abend essen,to have dinner
-problems,vergessen,to forget
-problems,fehlen,to be missing
-problems,zurückgehen lassen,to send back (food)
+category,german,english,similarity
+ordering,bestellen,to order,different
+ordering,nehmen,to take / to have,different
+ordering,empfehlen,to recommend,different
+ordering,brauchen,to need,different
+ordering,möchten,would like,different
+ordering,mitnehmen (sep.),to take away,different
+ordering,sich setzen,to sit down,different
+eating,probieren,to try / to taste,different
+eating,schmecken,to taste (Es schmeckt gut),different
+eating,teilen,to share,different
+eating,frühstücken,to have breakfast,different
+eating,zu Mittag essen,to have lunch,different
+eating,zu Abend essen,to have dinner,different
+problems,vergessen,to forget,different
+problems,fehlen,to be missing,different
+problems,zurückgehen lassen,to send back (food),different
+ordering,reservieren,to reserve,cognate
+ordering,warten,to wait,cognate
+ordering,bringen,to bring,cognate
+eating,essen,to eat,cognate
+eating,trinken,to drink,cognate

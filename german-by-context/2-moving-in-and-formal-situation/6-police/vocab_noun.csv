@@ -1,34 +1,34 @@
-category,german,english
-police,die Polizei,police
-police,die Polizeiwache,police station
-police,der Polizist,police officer (m)
-police,die Polizistin,police officer (f)
-police,der Notruf,emergency call (110)
-police,die Anzeige,police report
-police,der Zeuge,witness
-police,der Täter,offender
-police,das Opfer,victim
-police,der Dolmetscher,interpreter
-crime,der Diebstahl,theft
-crime,der Taschendieb,pickpocket
-crime,der Einbruch,burglary
-crime,der Betrug,fraud
-crime,der Überfall,robbery / assault
-crime,der Unfall,accident
-crime,die Belästigung,harassment
-lost,das Fundbüro,lost and found
-lost,die Brieftasche,wallet
-lost,das Portemonnaie,purse / wallet
-lost,der Schlüssel,key
-lost,das Handy,phone
-lost,der Rucksack,backpack
-lost,die Tasche,bag
-lost,das Fahrrad,bicycle
-lost,das Fahrradschloss,bike lock
-document,der Ausweis,ID
-document,der Reisepass,passport
-document,die Aufenthaltserlaubnis,residence permit
-document,die Bestätigung,confirmation
-document,das Aktenzeichen,case number
-fine,das Bußgeld,fine
-fine,der Strafzettel,ticket (parking / traffic)
+category,german,english,similarity
+lost,das Handy,phone,false-friend
+police,die Polizeiwache,police station,different
+police,der Notruf,emergency call (110),different
+police,die Anzeige,police report,different
+police,der Zeuge,witness,different
+police,der Täter,offender,different
+police,das Opfer,victim,different
+police,der Dolmetscher,interpreter,different
+crime,der Diebstahl,theft,different
+crime,der Taschendieb,pickpocket,different
+crime,der Einbruch,burglary,different
+crime,der Betrug,fraud,different
+crime,der Überfall,robbery / assault,different
+crime,der Unfall,accident,different
+crime,die Belästigung,harassment,different
+lost,das Fundbüro,lost and found,different
+lost,die Brieftasche,wallet,different
+lost,das Portemonnaie,purse / wallet,different
+lost,der Schlüssel,key,different
+lost,der Rucksack,backpack,different
+lost,die Tasche,bag,different
+lost,das Fahrrad,bicycle,different
+lost,das Fahrradschloss,bike lock,different
+document,der Ausweis,ID,different
+document,der Reisepass,passport,different
+document,die Aufenthaltserlaubnis,residence permit,different
+document,die Bestätigung,confirmation,different
+document,das Aktenzeichen,case number,different
+fine,das Bußgeld,fine,different
+fine,der Strafzettel,ticket (parking / traffic),different
+police,die Polizei,police,cognate
+police,der Polizist,police officer (m),cognate
+police,die Polizistin,police officer (f),cognate

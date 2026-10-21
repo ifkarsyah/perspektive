@@ -1,15 +1,15 @@
-category,german,english
-order,bestellen,to order
-order,nehmen,to have / take
-order,mitnehmen (sep.),to take away
-order,hier trinken,to drink here
-order,aufwärmen (sep.),to warm up
-order,bringen,to bring
-stay,sitzen,to sit
-stay,sich setzen,to sit down
-stay,arbeiten,to work
-stay,lesen,to read
-stay,sich treffen,to meet up
-stay,plaudern,to chat
-stay,laden,to charge (phone)
-pay,zahlen,to pay
+category,german,english,similarity
+order,bestellen,to order,different
+order,nehmen,to have / take,different
+order,mitnehmen (sep.),to take away,different
+order,hier trinken,to drink here,different
+stay,sich setzen,to sit down,different
+stay,arbeiten,to work,different
+stay,lesen,to read,different
+stay,sich treffen,to meet up,different
+stay,plaudern,to chat,different
+stay,laden,to charge (phone),different
+pay,zahlen,to pay,different
+order,aufwärmen (sep.),to warm up,cognate
+order,bringen,to bring,cognate
+stay,sitzen,to sit,cognate

@@ -1,12 +1,12 @@
-category,german,english
-time,seit gestern,since yesterday
-time,seit drei Tagen,for three days
-time,dreimal täglich,three times a day
-time,vor dem Essen,before meals
-time,nach dem Essen,after meals
-time,sofort,immediately
-time,nachts,at night
-degree,sehr,very
-degree,ein bisschen,a little
-degree,immer noch,still
-place,hier,here (Es tut hier weh)
+category,german,english,similarity
+time,seit gestern,since yesterday,different
+time,seit drei Tagen,for three days,different
+time,dreimal täglich,three times a day,different
+time,vor dem Essen,before meals,different
+time,nach dem Essen,after meals,different
+time,sofort,immediately,different
+time,nachts,at night,different
+degree,sehr,very,different
+degree,immer noch,still,different
+degree,ein bisschen,a little,cognate
+place,hier,here (Es tut hier weh),cognate

@@ -1,9 +1,9 @@
-category,german,english
-amount,zehn Mal,ten times
-amount,noch einen Satz,one more set
-amount,dreimal pro Woche,three times a week
-time,morgens früh,early in the morning
-time,nach der Arbeit,after work
-time,regelmäßig,regularly
-manner,langsam,slowly
-manner,sauber,with clean form
+category,german,english,similarity
+amount,zehn Mal,ten times,different
+amount,noch einen Satz,one more set,different
+amount,dreimal pro Woche,three times a week,different
+time,morgens früh,early in the morning,different
+time,nach der Arbeit,after work,different
+manner,langsam,slowly,different
+manner,sauber,with clean form,different
+time,regelmäßig,regularly,cognate

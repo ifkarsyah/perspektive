@@ -1,67 +1,67 @@
-category,german,english
-meta,die Speisekarte,menu
-meta,die Getränkekarte,drinks menu
-meta,die Vorspeise,starter
-meta,die Hauptspeise,main course
-meta,die Nachspeise,dessert
-meta,die Beilage,side dish
-meta,das Tagesgericht,dish of the day
-meta,der Mittagstisch,lunch special
-meta,die Reservierung,reservation
-meta,der Tisch,table
-meta,die Bestellung,order
-meta,die Portion,portion
-meat,das Hähnchen,chicken
-meat,das Rindfleisch,beef
-meat,das Schweinefleisch,pork
-meat,das Lammfleisch,lamb
-meat,das Schnitzel,schnitzel
-meat,die Wurst,sausage
-meat,das Steak,steak
-meat,der Speck,bacon
-people,der Kellner,waiter
-people,die Kellnerin,waitress
-people,der Koch,cook
-people,der Gast,guest
-fish,der Fisch,fish
-fish,der Lachs,salmon
-fish,der Thunfisch,tuna
-fish,die Garnelen,prawns
-vegetables,das Gemüse,vegetables
-vegetables,der Salat,salad
-vegetables,die Kartoffel,potato
-vegetables,die Tomate,tomato
-vegetables,die Zwiebel,onion
-vegetables,der Knoblauch,garlic
-vegetables,die Pilze,mushrooms
-vegetables,die Paprika,bell pepper
-side,die Pommes,fries
-side,der Reis,rice
-side,die Nudeln,noodles / pasta
-side,das Brot,bread
-side,das Brötchen,bread roll
-side,die Suppe,soup
-side,die Soße,sauce
-side,das Ei,egg
-side,der Käse,cheese
-drinks,das Wasser,water
-drinks,das Mineralwasser,sparkling water
-drinks,stilles Wasser,still water
-drinks,das Leitungswasser,tap water
-drinks,der Saft,juice
-drinks,die Apfelschorle,apple juice spritzer
-drinks,das Bier,beer
-drinks,der Wein,wine
-drinks,der Kaffee,coffee
-drinks,der Tee,tea
-drinks,die Milch,milk
-dessert,der Kuchen,cake
-dessert,das Eis,ice cream
-dessert,der Apfelstrudel,apple strudel
-tableware,der Teller,plate
-tableware,das Glas,glass
-tableware,die Tasse,cup
-tableware,die Gabel,fork
-tableware,das Messer,knife
-tableware,der Löffel,spoon
-tableware,die Serviette,napkin
+category,german,english,similarity
+meta,die Speisekarte,menu,different
+meta,die Getränkekarte,drinks menu,different
+meta,die Vorspeise,starter,different
+meta,die Hauptspeise,main course,different
+meta,die Nachspeise,dessert,different
+meta,die Beilage,side dish,different
+meta,das Tagesgericht,dish of the day,different
+meta,der Mittagstisch,lunch special,different
+meta,der Tisch,table,different
+meta,die Bestellung,order,different
+meat,das Hähnchen,chicken,different
+meat,das Rindfleisch,beef,different
+meat,das Schweinefleisch,pork,different
+meat,das Lammfleisch,lamb,different
+meat,der Speck,bacon,different
+people,der Kellner,waiter,different
+people,die Kellnerin,waitress,different
+fish,der Lachs,salmon,different
+fish,die Garnelen,prawns,different
+vegetables,das Gemüse,vegetables,different
+vegetables,die Kartoffel,potato,different
+vegetables,die Zwiebel,onion,different
+vegetables,der Knoblauch,garlic,different
+vegetables,die Pilze,mushrooms,different
+side,die Pommes,fries,different
+side,das Brötchen,bread roll,different
+side,das Ei,egg,different
+drinks,das Mineralwasser,sparkling water,different
+drinks,das Leitungswasser,tap water,different
+drinks,der Saft,juice,different
+drinks,die Apfelschorle,apple juice spritzer,different
+dessert,der Kuchen,cake,different
+tableware,der Teller,plate,different
+tableware,die Tasse,cup,different
+tableware,die Gabel,fork,different
+tableware,das Messer,knife,different
+tableware,der Löffel,spoon,different
+tableware,die Serviette,napkin,different
+meta,die Reservierung,reservation,cognate
+meta,die Portion,portion,cognate
+meat,das Schnitzel,schnitzel,cognate
+meat,die Wurst,sausage,cognate
+meat,das Steak,steak,cognate
+people,der Koch,cook,cognate
+people,der Gast,guest,cognate
+fish,der Fisch,fish,cognate
+fish,der Thunfisch,tuna,cognate
+vegetables,der Salat,salad,cognate
+vegetables,die Tomate,tomato,cognate
+vegetables,die Paprika,bell pepper,cognate
+side,der Reis,rice,cognate
+side,die Nudeln,noodles / pasta,cognate
+side,das Brot,bread,cognate
+side,die Suppe,soup,cognate
+side,die Soße,sauce,cognate
+side,der Käse,cheese,cognate
+drinks,das Wasser,water,cognate
+drinks,stilles Wasser,still water,cognate
+drinks,das Bier,beer,cognate
+drinks,der Wein,wine,cognate
+drinks,der Kaffee,coffee,cognate
+drinks,der Tee,tea,cognate
+drinks,die Milch,milk,cognate
+dessert,das Eis,ice cream,cognate
+dessert,der Apfelstrudel,apple strudel,cognate
+tableware,das Glas,glass,cognate

@@ -1,15 +1,15 @@
-category,german,english
-winter,frieren,to be cold
-winter,heizen,to heat
-winter,streuen,to grit
-winter,Schnee schippen,to shovel snow
-winter,ausrutschen (sep.),to slip
-winter,sich warm anziehen (sep.),to dress warmly
-holiday,feiern,to celebrate
-holiday,schenken,to give (as a present)
-holiday,einpacken (sep.),to wrap
-holiday,schmücken,to decorate
-holiday,anstoßen (sep.),to toast (with glasses)
-holiday,Urlaub nehmen,to take time off
-holiday,verreisen,to go away
-holiday,nach Hause fliegen,to fly home
+category,german,english,similarity
+winter,frieren,to be cold,different
+winter,streuen,to grit,different
+winter,Schnee schippen,to shovel snow,different
+winter,ausrutschen (sep.),to slip,different
+winter,sich warm anziehen (sep.),to dress warmly,different
+holiday,feiern,to celebrate,different
+holiday,schenken,to give (as a present),different
+holiday,einpacken (sep.),to wrap,different
+holiday,schmücken,to decorate,different
+holiday,anstoßen (sep.),to toast (with glasses),different
+holiday,Urlaub nehmen,to take time off,different
+holiday,verreisen,to go away,different
+holiday,nach Hause fliegen,to fly home,different
+winter,heizen,to heat,cognate

@@ -1,15 +1,15 @@
-category,german,english
-feel,sich fühlen,to feel
-feel,sich freuen,to be happy
-feel,sich freuen auf,to look forward to
-feel,sich ärgern,to be annoyed
-feel,sich Sorgen machen,to worry
-feel,vermissen,to miss
-feel,Angst haben,to be afraid
-feel,nerven,to annoy
-opinion,finden,to think (opinion)
-opinion,glauben,to believe
-opinion,meinen,to mean / think
-opinion,zustimmen (sep.),to agree
-opinion,widersprechen,to disagree
-opinion,sich beschweren,to complain
+category,german,english,similarity
+feel,sich freuen,to be happy,different
+feel,sich freuen auf,to look forward to,different
+feel,sich ärgern,to be annoyed,different
+feel,sich Sorgen machen,to worry,different
+feel,Angst haben,to be afraid,different
+feel,nerven,to annoy,different
+opinion,finden,to think (opinion),different
+opinion,glauben,to believe,different
+opinion,zustimmen (sep.),to agree,different
+opinion,widersprechen,to disagree,different
+opinion,sich beschweren,to complain,different
+feel,sich fühlen,to feel,cognate
+feel,vermissen,to miss,cognate
+opinion,meinen,to mean / think,cognate

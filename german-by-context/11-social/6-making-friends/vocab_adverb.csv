@@ -1,11 +1,11 @@
-category,german,english
-time,mal,sometime
-time,bald,soon
-time,wieder,again
-time,nächste Woche,next week
-time,langsam,slowly
-degree,wirklich,really
-time,öfter,more often
-time,jedes Wochenende,every weekend
-manner,zusammen,together
-manner,spontan,spontaneously
+category,german,english,similarity
+time,bald,soon,false-friend
+time,mal,sometime,different
+time,wieder,again,different
+time,nächste Woche,next week,different
+time,langsam,slowly,different
+degree,wirklich,really,different
+time,jedes Wochenende,every weekend,different
+manner,zusammen,together,different
+time,öfter,more often,cognate
+manner,spontan,spontaneously,cognate

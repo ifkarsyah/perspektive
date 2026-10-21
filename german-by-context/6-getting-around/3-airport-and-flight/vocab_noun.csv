@@ -1,31 +1,31 @@
-category,german,english
-airport,der Flughafen,airport
-airport,das Terminal,terminal
-airport,der Check-in-Schalter,check-in desk
-airport,die Gepäckaufgabe,baggage drop
-airport,die Sicherheitskontrolle,security check
-airport,die Passkontrolle,passport control
-airport,das Gate,gate
-airport,die Abflughalle,departure hall
-airport,die Ankunftshalle,arrivals hall
-airport,das Gepäckband,baggage carousel
-airport,der Zoll,customs
-airport,das Fundbüro,lost and found
-flight,der Flug,flight
-flight,die Flugnummer,flight number
-flight,die Bordkarte,boarding pass
-flight,der Abflug,departure
-flight,die Ankunft,arrival
-flight,der Direktflug,direct flight
-flight,der Umstieg,layover / transfer
-flight,der Sitzplatz,seat
-flight,der Notausgang,emergency exit
-flight,die Verspätung,delay
-flight,die Annullierung,cancellation
-luggage,das Gepäck,luggage
-luggage,das Handgepäck,carry-on
-luggage,das Aufgabegepäck,checked luggage
-luggage,der Koffer,suitcase
-luggage,das Übergepäck,excess baggage
-luggage,die Flüssigkeiten,liquids
-luggage,die Gepäckverlustmeldung,lost baggage report
+category,german,english,similarity
+airport,der Flughafen,airport,different
+airport,der Check-in-Schalter,check-in desk,different
+airport,die Gepäckaufgabe,baggage drop,different
+airport,die Sicherheitskontrolle,security check,different
+airport,die Abflughalle,departure hall,different
+airport,die Ankunftshalle,arrivals hall,different
+airport,das Gepäckband,baggage carousel,different
+airport,der Zoll,customs,different
+airport,das Fundbüro,lost and found,different
+flight,die Bordkarte,boarding pass,different
+flight,der Abflug,departure,different
+flight,die Ankunft,arrival,different
+flight,der Umstieg,layover / transfer,different
+flight,der Sitzplatz,seat,different
+flight,der Notausgang,emergency exit,different
+flight,die Verspätung,delay,different
+luggage,das Gepäck,luggage,different
+luggage,das Handgepäck,carry-on,different
+luggage,das Aufgabegepäck,checked luggage,different
+luggage,der Koffer,suitcase,different
+luggage,das Übergepäck,excess baggage,different
+luggage,die Flüssigkeiten,liquids,different
+luggage,die Gepäckverlustmeldung,lost baggage report,different
+airport,das Terminal,terminal,cognate
+airport,die Passkontrolle,passport control,cognate
+airport,das Gate,gate,cognate
+flight,der Flug,flight,cognate
+flight,die Flugnummer,flight number,cognate
+flight,der Direktflug,direct flight,cognate
+flight,die Annullierung,cancellation,cognate

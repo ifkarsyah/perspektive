@@ -1,7 +1,7 @@
-category,german,english
-time,zwei Stunden vorher,two hours before
-time,rechtzeitig,in good time
-time,pünktlich,on time
-place,am Fenster,by the window
-place,am Gang,on the aisle
-place,im Ausland,abroad
+category,german,english,similarity
+time,zwei Stunden vorher,two hours before,different
+time,rechtzeitig,in good time,different
+time,pünktlich,on time,different
+place,am Fenster,by the window,different
+place,am Gang,on the aisle,different
+place,im Ausland,abroad,different

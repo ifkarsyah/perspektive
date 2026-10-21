@@ -1,11 +1,11 @@
-category,german,english
-food,frisch,fresh
-food,abgelaufen,expired
-food,roh,raw
-food,fertig,ready / done
-temperature,heiß,hot
-temperature,kalt,cold
-state,leer,empty
-state,voll,full
-state,sauber,clean
-state,schmutzig,dirty
+category,german,english,similarity
+food,abgelaufen,expired,different
+food,roh,raw,different
+food,fertig,ready / done,different
+state,leer,empty,different
+state,sauber,clean,different
+state,schmutzig,dirty,different
+food,frisch,fresh,cognate
+temperature,heiß,hot,cognate
+temperature,kalt,cold,cognate
+state,voll,full,cognate

@@ -1,5 +1,5 @@
-category,german,english
-time,vor 2 Tagen,2 days ago
-time,vor 1 Jahr,1 year ago
-time,als Nächstes,up next
-manner,im Hintergrund,in the background
+category,german,english,similarity
+time,vor 2 Tagen,2 days ago,different
+time,vor 1 Jahr,1 year ago,different
+time,als Nächstes,up next,different
+manner,im Hintergrund,in the background,different

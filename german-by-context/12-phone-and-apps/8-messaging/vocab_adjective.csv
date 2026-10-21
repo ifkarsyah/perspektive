@@ -1,10 +1,10 @@
-category,german,english
-status,online,online
-status,zuletzt online,last seen
-status,gelesen,read
-status,zugestellt,delivered
-status,gesendet,sent
-status,ungelesen,unread
-status,stummgeschaltet,muted
-status,blockiert,blocked
-status,verschlüsselt,encrypted
+category,german,english,similarity
+status,zuletzt online,last seen,different
+status,gelesen,read,different
+status,zugestellt,delivered,different
+status,ungelesen,unread,different
+status,stummgeschaltet,muted,different
+status,verschlüsselt,encrypted,different
+status,online,online,cognate
+status,gesendet,sent,cognate
+status,blockiert,blocked,cognate

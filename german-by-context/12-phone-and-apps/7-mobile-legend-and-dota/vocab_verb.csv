@@ -1,25 +1,25 @@
-category,german,english
-play,spielen,to play
-play,zocken,to play games (slang)
-play,gewinnen,to win
-play,verlieren,to lose
-play,aufgeben (sep.),to surrender
-play,wiederverbinden (sep.),to reconnect
-play,bannen,to ban (a hero)
-play,picken,to pick (a hero)
-fight,angreifen (sep.),to attack
-fight,verteidigen,to defend
-fight,sich zurückziehen (sep.),to retreat
-fight,töten,to kill
-fight,sterben,to die
-fight,heilen,to heal
-fight,schützen,to protect
-slang,farmen,to farm
-slang,pushen,to push
-slang,ganken,to gank
-slang,feeden,to feed
-slang,carryn,to carry
-slang,stealen,to steal (Lord / buff)
-slang,rotieren,to rotate
-slang,flamen,to flame (insult)
-slang,reporten,to report
+category,german,english,similarity
+play,spielen,to play,different
+play,zocken,to play games (slang),different
+play,verlieren,to lose,different
+play,aufgeben (sep.),to surrender,different
+play,wiederverbinden (sep.),to reconnect,different
+fight,angreifen (sep.),to attack,different
+fight,verteidigen,to defend,different
+fight,sich zurückziehen (sep.),to retreat,different
+fight,töten,to kill,different
+fight,sterben,to die,different
+fight,schützen,to protect,different
+play,gewinnen,to win,cognate
+play,bannen,to ban (a hero),cognate
+play,picken,to pick (a hero),cognate
+fight,heilen,to heal,cognate
+slang,farmen,to farm,cognate
+slang,pushen,to push,cognate
+slang,ganken,to gank,cognate
+slang,feeden,to feed,cognate
+slang,carryn,to carry,cognate
+slang,stealen,to steal (Lord / buff),cognate
+slang,rotieren,to rotate,cognate
+slang,flamen,to flame (insult),cognate
+slang,reporten,to report,cognate

@@ -1,10 +1,10 @@
-category,german,english
-direction,links,left
-direction,rechts,right
-direction,geradeaus,straight on
-direction,hinten,at the back
-direction,vorne,at the front
-direction,nebeneinander,side by side
-direction,hintereinander,in single file
-pace,im Schnitt,on average
-time,pünktlich,on time
+category,german,english,similarity
+direction,links,left,different
+direction,geradeaus,straight on,different
+direction,hinten,at the back,different
+direction,vorne,at the front,different
+direction,nebeneinander,side by side,different
+direction,hintereinander,in single file,different
+pace,im Schnitt,on average,different
+time,pünktlich,on time,different
+direction,rechts,right,cognate

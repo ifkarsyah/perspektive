@@ -1,16 +1,16 @@
-category,german,english
-button,Abspielen,Play
-button,Pause,Pause
-button,Weiter,Next
-button,Intro überspringen,Skip intro
-button,Nächste Folge,Next episode
-button,Herunterladen,Download
-button,Zur Liste hinzufügen,Add to list
-button,Bewerten,Rate
-watch,schauen,to watch
-watch,gucken,to watch (informal)
-watch,streamen,to stream
-watch,bingen,to binge-watch
-watch,weiterschauen (sep.),to keep watching
-listen,hören,to listen
-listen,kündigen,to cancel (subscription)
+category,german,english,similarity
+button,Abspielen,Play,different
+button,Weiter,Next,different
+button,Intro überspringen,Skip intro,different
+button,Nächste Folge,Next episode,different
+button,Herunterladen,Download,different
+button,Zur Liste hinzufügen,Add to list,different
+button,Bewerten,Rate,different
+watch,schauen,to watch,different
+watch,gucken,to watch (informal),different
+watch,weiterschauen (sep.),to keep watching,different
+listen,kündigen,to cancel (subscription),different
+button,Pause,Pause,cognate
+watch,streamen,to stream,cognate
+watch,bingen,to binge-watch,cognate
+listen,hören,to listen,cognate

@@ -1,6 +1,6 @@
-category,german,english
-time,von Herzen,from the heart
-time,für die Zukunft,for the future
-time,in dieser schweren Zeit,in this difficult time
-time,leider,sadly
-time,herzlich,warmly
+category,german,english,similarity
+time,von Herzen,from the heart,different
+time,für die Zukunft,for the future,different
+time,in dieser schweren Zeit,in this difficult time,different
+time,leider,sadly,different
+time,herzlich,warmly,different

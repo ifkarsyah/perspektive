@@ -1,7 +1,7 @@
-category,german,english
-time,heute Nacht,tonight
-time,über Nacht,overnight
-place,oben rechts,top right
-place,unten,at the bottom
-place,nach oben wischen,swipe up
-place,nach unten wischen,swipe down
+category,german,english,similarity
+time,heute Nacht,tonight,different
+place,oben rechts,top right,different
+place,unten,at the bottom,different
+place,nach oben wischen,swipe up,different
+place,nach unten wischen,swipe down,different
+time,über Nacht,overnight,cognate

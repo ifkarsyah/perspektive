@@ -1,17 +1,17 @@
-category,german,english
-ride,fahren,to ride
-ride,Rad fahren,to cycle
-ride,treten,to pedal
-ride,schalten,to shift gears
-ride,bremsen,to brake
-ride,überholen,to overtake
-ride,anhalten (sep.),to stop
-ride,warten,to wait
-ride,sich treffen,to meet
-repair,aufpumpen (sep.),to pump up
-repair,flicken,to patch
-repair,wechseln,to change (tube)
-repair,reparieren,to repair
-repair,ölen,to oil
-club,mitfahren (sep.),to ride along
-club,beitreten (sep.),to join
+category,german,english,similarity
+ride,fahren,to ride,different
+ride,Rad fahren,to cycle,different
+ride,treten,to pedal,different
+ride,schalten,to shift gears,different
+ride,überholen,to overtake,different
+ride,anhalten (sep.),to stop,different
+ride,sich treffen,to meet,different
+repair,flicken,to patch,different
+repair,wechseln,to change (tube),different
+club,mitfahren (sep.),to ride along,different
+club,beitreten (sep.),to join,different
+ride,bremsen,to brake,cognate
+ride,warten,to wait,cognate
+repair,aufpumpen (sep.),to pump up,cognate
+repair,reparieren,to repair,cognate
+repair,ölen,to oil,cognate

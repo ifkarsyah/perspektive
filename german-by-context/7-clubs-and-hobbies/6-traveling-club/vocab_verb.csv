@@ -1,16 +1,16 @@
-category,german,english
-plan,planen,to plan
-plan,buchen,to book
-plan,reservieren,to reserve
-plan,stornieren,to cancel (booking)
-plan,packen,to pack
-plan,sich anmelden (sep.),to sign up
-travel,reisen,to travel
-travel,verreisen,to go away (on a trip)
-travel,abfahren (sep.),to depart
-travel,ankommen (sep.),to arrive
-travel,übernachten,to stay overnight
-travel,besichtigen,to visit (sights)
-travel,fotografieren,to take photos
-money,teilen,to split (costs)
-money,überweisen,to transfer
+category,german,english,similarity
+plan,stornieren,to cancel (booking),different
+plan,sich anmelden (sep.),to sign up,different
+travel,reisen,to travel,different
+travel,verreisen,to go away (on a trip),different
+travel,abfahren (sep.),to depart,different
+travel,ankommen (sep.),to arrive,different
+travel,übernachten,to stay overnight,different
+travel,besichtigen,to visit (sights),different
+travel,fotografieren,to take photos,different
+money,teilen,to split (costs),different
+money,überweisen,to transfer,different
+plan,planen,to plan,cognate
+plan,buchen,to book,cognate
+plan,reservieren,to reserve,cognate
+plan,packen,to pack,cognate

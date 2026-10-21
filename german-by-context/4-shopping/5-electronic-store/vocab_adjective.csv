@@ -1,13 +1,13 @@
-category,german,english
-device,neu,new
-device,gebraucht,used
-device,kabellos,wireless
-device,wasserdicht,waterproof
-device,leise,quiet
-device,laut,loud
-device,schnell,fast
-device,langsam,slow
-device,kompatibel,compatible
-problem,kaputt,broken
-problem,defekt,defective
-problem,leer,dead (battery)
+category,german,english,similarity
+device,gebraucht,used,different
+device,kabellos,wireless,different
+device,wasserdicht,waterproof,different
+device,leise,quiet,different
+device,schnell,fast,different
+device,langsam,slow,different
+problem,kaputt,broken,different
+problem,leer,dead (battery),different
+device,neu,new,cognate
+device,laut,loud,cognate
+device,kompatibel,compatible,cognate
+problem,defekt,defective,cognate

@@ -1,7 +1,7 @@
-category,german,english
-place,in der Menüleiste,in the menu bar
-place,im Dock,in the Dock
-place,auf dem Schreibtisch,on the desktop
-place,oben links,top left
-manner,mit Rechtsklick,with a right-click
-manner,gleichzeitig drücken,press at the same time
+category,german,english,similarity
+place,in der Menüleiste,in the menu bar,different
+place,im Dock,in the Dock,different
+place,auf dem Schreibtisch,on the desktop,different
+place,oben links,top left,different
+manner,mit Rechtsklick,with a right-click,different
+manner,gleichzeitig drücken,press at the same time,different

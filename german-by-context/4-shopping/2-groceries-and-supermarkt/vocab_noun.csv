@@ -1,42 +1,42 @@
-category,german,english
-shop,der Supermarkt,supermarket
-shop,der Discounter,discount supermarket
-shop,die Bäckerei,bakery
-shop,die Drogerie,drugstore
-shop,der Späti,late-night shop (Berlin)
-shop,die Theke,counter (deli)
-shop,das Regal,shelf
-shop,der Einkaufswagen,shopping cart
-shop,der Korb,basket
-shop,die Tüte,bag
-shop,die Kasse,checkout
-shop,die Selbstbedienungskasse,self-checkout
-deposit,das Pfand,bottle deposit
-deposit,der Pfandautomat,deposit return machine
-deposit,der Pfandbon,deposit receipt
-deposit,die Flasche,bottle
-deposit,die Dose,can
-food,das Obst,fruit
-food,das Gemüse,vegetables
-food,der Apfel,apple
-food,die Banane,banana
-food,das Brot,bread
-food,das Brötchen,bread roll
-food,die Butter,butter
-food,die Milch,milk
-food,der Joghurt,yogurt
-food,das Ei,egg
-food,der Käse,cheese
-food,das Fleisch,meat
-food,der Reis,rice
-food,die Nudeln,pasta
-food,das Mehl,flour
-food,der Zucker,sugar
-food,das Salz,salt
-food,das Öl,oil
-amount,die Packung,pack
-amount,das Kilo,kilo
-amount,das Gramm,gram
-amount,das Stück,piece
-label,das Haltbarkeitsdatum,best-before date
-label,das Angebot,special offer
+category,german,english,similarity
+shop,die Drogerie,drugstore,different
+shop,der Späti,late-night shop (Berlin),different
+shop,die Theke,counter (deli),different
+shop,das Regal,shelf,different
+shop,der Einkaufswagen,shopping cart,different
+shop,der Korb,basket,different
+shop,die Tüte,bag,different
+shop,die Kasse,checkout,different
+shop,die Selbstbedienungskasse,self-checkout,different
+deposit,das Pfand,bottle deposit,different
+deposit,der Pfandautomat,deposit return machine,different
+deposit,der Pfandbon,deposit receipt,different
+deposit,die Flasche,bottle,different
+deposit,die Dose,can,different
+food,das Obst,fruit,different
+food,das Gemüse,vegetables,different
+food,das Brötchen,bread roll,different
+food,das Ei,egg,different
+food,das Fleisch,meat,different
+food,das Mehl,flour,different
+amount,das Stück,piece,different
+label,das Haltbarkeitsdatum,best-before date,different
+label,das Angebot,special offer,different
+shop,der Supermarkt,supermarket,cognate
+shop,der Discounter,discount supermarket,cognate
+shop,die Bäckerei,bakery,cognate
+food,der Apfel,apple,cognate
+food,die Banane,banana,cognate
+food,das Brot,bread,cognate
+food,die Butter,butter,cognate
+food,die Milch,milk,cognate
+food,der Joghurt,yogurt,cognate
+food,der Käse,cheese,cognate
+food,der Reis,rice,cognate
+food,die Nudeln,pasta,cognate
+food,der Zucker,sugar,cognate
+food,das Salz,salt,cognate
+food,das Öl,oil,cognate
+amount,die Packung,pack,cognate
+amount,das Kilo,kilo,cognate
+amount,das Gramm,gram,cognate

@@ -1,11 +1,11 @@
-category,german,english
-fit,zu eng,too tight
-fit,zu groß,too big
-fit,eine Nummer größer,one size bigger
-fit,eine Nummer kleiner,one size smaller
-fit,genau richtig,just right
-place,hinten links,at the back on the left
-place,oben,upstairs
-place,unten,downstairs
-price,im Sale,on sale
-price,um 30 Prozent reduziert,30 percent off
+category,german,english,similarity
+fit,zu eng,too tight,different
+fit,zu groß,too big,different
+fit,eine Nummer größer,one size bigger,different
+fit,eine Nummer kleiner,one size smaller,different
+fit,genau richtig,just right,different
+place,hinten links,at the back on the left,different
+place,oben,upstairs,different
+place,unten,downstairs,different
+price,im Sale,on sale,cognate
+price,um 30 Prozent reduziert,30 percent off,cognate

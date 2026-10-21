@@ -1,23 +1,23 @@
-category,german,english
-sick,die Krankmeldung,sick notification
-sick,die Arbeitsunfähigkeitsbescheinigung,sick note (AU)
-sick,die eAU,electronic sick note
-sick,der Krankheitstag,sick day
-sick,die Lohnfortzahlung,continued pay during illness
-sick,das Krankengeld,sickness benefit
-sick,der Arzt,doctor
-vacation,der Urlaub,vacation
-vacation,der Urlaubsantrag,vacation request
-vacation,der Urlaubstag,vacation day
-vacation,der Resturlaub,remaining vacation days
-vacation,der Sonderurlaub,special leave
-vacation,der Brückentag,bridge day
-vacation,der Feiertag,public holiday
-vacation,die Überstunden,overtime
-vacation,der Freizeitausgleich,time off in lieu
-vacation,die Elternzeit,parental leave
-work,die Vertretung,stand-in / cover
-work,die Übergabe,handover
-work,die Abwesenheitsnotiz,out-of-office message
-work,der Kalender,calendar
-work,die Personalabteilung,HR
+category,german,english,similarity
+sick,die Krankmeldung,sick notification,different
+sick,die Arbeitsunfähigkeitsbescheinigung,sick note (AU),different
+sick,die eAU,electronic sick note,different
+sick,der Krankheitstag,sick day,different
+sick,die Lohnfortzahlung,continued pay during illness,different
+sick,das Krankengeld,sickness benefit,different
+sick,der Arzt,doctor,different
+vacation,der Urlaub,vacation,different
+vacation,der Urlaubsantrag,vacation request,different
+vacation,der Urlaubstag,vacation day,different
+vacation,der Resturlaub,remaining vacation days,different
+vacation,der Sonderurlaub,special leave,different
+vacation,der Brückentag,bridge day,different
+vacation,der Feiertag,public holiday,different
+vacation,die Überstunden,overtime,different
+vacation,der Freizeitausgleich,time off in lieu,different
+vacation,die Elternzeit,parental leave,different
+work,die Vertretung,stand-in / cover,different
+work,die Übergabe,handover,different
+work,die Abwesenheitsnotiz,out-of-office message,different
+work,die Personalabteilung,HR,different
+work,der Kalender,calendar,cognate

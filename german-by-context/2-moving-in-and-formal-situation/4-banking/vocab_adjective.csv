@@ -1,10 +1,10 @@
-category,german,english
-cost,kostenlos,free
-cost,gebührenfrei,fee-free
-status,gesperrt,blocked
-status,gedeckt,covered (enough money)
-status,verloren,lost
-status,gestohlen,stolen
-status,sicher,secure
-status,falsch,wrong
-status,richtig,correct
+category,german,english,similarity
+cost,kostenlos,free,different
+cost,gebührenfrei,fee-free,different
+status,gesperrt,blocked,different
+status,gedeckt,covered (enough money),different
+status,verloren,lost,different
+status,falsch,wrong,different
+status,richtig,correct,different
+status,gestohlen,stolen,cognate
+status,sicher,secure,cognate

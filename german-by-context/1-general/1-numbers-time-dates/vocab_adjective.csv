@@ -1,14 +1,14 @@
-category,german,english
-time,früh,early
-time,spät,late
-time,pünktlich,on time
-time,nächste,next
-time,letzte,last
-time,ganze,whole
-time,halbe,half
-time,täglich,daily
-time,wöchentlich,weekly
-time,monatlich,monthly
-time,jährlich,yearly
-number,gerade,even (number)
-number,ungerade,odd (number)
+category,german,english,similarity
+time,früh,early,different
+time,spät,late,different
+time,pünktlich,on time,different
+time,nächste,next,different
+time,letzte,last,different
+time,ganze,whole,different
+time,täglich,daily,different
+time,wöchentlich,weekly,different
+time,monatlich,monthly,different
+time,jährlich,yearly,different
+number,gerade,even (number),different
+number,ungerade,odd (number),different
+time,halbe,half,cognate

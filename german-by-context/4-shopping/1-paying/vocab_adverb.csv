@@ -1,9 +1,9 @@
-category,german,english
-split,zusammen,together (one bill)
-split,getrennt,separately (split bill)
-split,pro Person,per person
-method,bar,in cash
-method,mit Karte,by card
-method,kontaktlos,contactless
-total,insgesamt,in total
-total,nur,only
+category,german,english,similarity
+split,zusammen,together (one bill),different
+split,getrennt,separately (split bill),different
+method,bar,in cash,different
+method,mit Karte,by card,different
+total,insgesamt,in total,different
+total,nur,only,different
+split,pro Person,per person,cognate
+method,kontaktlos,contactless,cognate

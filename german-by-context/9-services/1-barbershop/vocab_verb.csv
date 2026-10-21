@@ -1,14 +1,14 @@
-category,german,english
-cut,schneiden,to cut
-cut,kürzen,to shorten
-cut,nachschneiden (sep.),to trim / touch up
-cut,ausrasieren (sep.),to shave out
-cut,stufen,to layer
-cut,waschen,to wash
-cut,föhnen,to blow-dry
-cut,stylen,to style
-beard,trimmen,to trim
-beard,rasieren,to shave
-beard,konturieren,to line up
-book,einen Termin machen,to book an appointment
-book,warten,to wait
+category,german,english,similarity
+book,einen Termin machen,to book an appointment,false-friend
+cut,schneiden,to cut,different
+cut,kürzen,to shorten,different
+cut,nachschneiden (sep.),to trim / touch up,different
+cut,ausrasieren (sep.),to shave out,different
+cut,stufen,to layer,different
+cut,föhnen,to blow-dry,different
+beard,rasieren,to shave,different
+beard,konturieren,to line up,different
+cut,waschen,to wash,cognate
+cut,stylen,to style,cognate
+beard,trimmen,to trim,cognate
+book,warten,to wait,cognate

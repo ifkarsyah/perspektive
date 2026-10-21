@@ -1,15 +1,15 @@
-category,german,english
-trail,leicht,easy
-trail,mittelschwer,moderate
-trail,schwer,difficult
-trail,steil,steep
-trail,rutschig,slippery
-trail,schön,beautiful
-trail,einsam,remote / quiet
-feeling,müde,tired
-feeling,erschöpft,exhausted
-feeling,hungrig,hungry
-weather,sonnig,sunny
-weather,bewölkt,cloudy
-weather,regnerisch,rainy
-weather,kühl,cool
+category,german,english,similarity
+trail,leicht,easy,different
+trail,mittelschwer,moderate,different
+trail,schwer,difficult,different
+trail,steil,steep,different
+trail,rutschig,slippery,different
+trail,schön,beautiful,different
+trail,einsam,remote / quiet,different
+feeling,müde,tired,different
+feeling,erschöpft,exhausted,different
+weather,bewölkt,cloudy,different
+weather,regnerisch,rainy,different
+feeling,hungrig,hungry,cognate
+weather,sonnig,sunny,cognate
+weather,kühl,cool,cognate

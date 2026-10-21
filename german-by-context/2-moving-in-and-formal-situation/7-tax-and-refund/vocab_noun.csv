@@ -1,35 +1,35 @@
-category,german,english
-office,das Finanzamt,tax office
-office,der Steuerberater,tax advisor
-office,der Lohnsteuerhilfeverein,tax help association
-office,ELSTER,online tax portal
-id,die Steuer-ID,tax ID (personal)
-id,die Steuernummer,tax number
-id,die Steuerklasse,tax class
-tax,die Steuer,tax
-tax,die Lohnsteuer,income tax (from salary)
-tax,die Einkommensteuer,income tax
-tax,die Kirchensteuer,church tax
-tax,der Solidaritätszuschlag,solidarity surcharge
-tax,die Sozialversicherung,social security
-tax,die Rentenversicherung,pension insurance
-tax,die Arbeitslosenversicherung,unemployment insurance
-document,die Steuererklärung,tax return
-document,der Steuerbescheid,tax assessment
-document,die Lohnsteuerbescheinigung,annual salary tax statement
-document,die Gehaltsabrechnung,payslip
-document,der Beleg,receipt / proof
-document,die Frist,deadline
-document,der Einspruch,objection
-money,das Bruttogehalt,gross salary
-money,das Nettogehalt,net salary
-money,die Erstattung,refund
-money,die Nachzahlung,additional payment
-money,die Rückzahlung,repayment
-deduction,die Werbungskosten,work-related expenses
-deduction,die Umzugskosten,moving costs
-deduction,die Homeoffice-Pauschale,home office allowance
-deduction,die Arbeitsmittel,work equipment
-deduction,die Fahrtkosten,commuting costs
-deduction,die Pendlerpauschale,commuter allowance
-deduction,die Sonderausgaben,special expenses
+category,german,english,similarity
+office,das Finanzamt,tax office,different
+office,der Steuerberater,tax advisor,different
+office,der Lohnsteuerhilfeverein,tax help association,different
+office,ELSTER,online tax portal,different
+id,die Steuer-ID,tax ID (personal),different
+id,die Steuernummer,tax number,different
+id,die Steuerklasse,tax class,different
+tax,die Steuer,tax,different
+tax,die Lohnsteuer,income tax (from salary),different
+tax,die Einkommensteuer,income tax,different
+tax,die Kirchensteuer,church tax,different
+tax,der Solidaritätszuschlag,solidarity surcharge,different
+tax,die Sozialversicherung,social security,different
+tax,die Rentenversicherung,pension insurance,different
+tax,die Arbeitslosenversicherung,unemployment insurance,different
+document,die Steuererklärung,tax return,different
+document,der Steuerbescheid,tax assessment,different
+document,die Lohnsteuerbescheinigung,annual salary tax statement,different
+document,die Gehaltsabrechnung,payslip,different
+document,der Beleg,receipt / proof,different
+document,die Frist,deadline,different
+document,der Einspruch,objection,different
+money,das Bruttogehalt,gross salary,different
+money,das Nettogehalt,net salary,different
+money,die Erstattung,refund,different
+money,die Nachzahlung,additional payment,different
+money,die Rückzahlung,repayment,different
+deduction,die Werbungskosten,work-related expenses,different
+deduction,die Umzugskosten,moving costs,different
+deduction,die Homeoffice-Pauschale,home office allowance,different
+deduction,die Arbeitsmittel,work equipment,different
+deduction,die Fahrtkosten,commuting costs,different
+deduction,die Pendlerpauschale,commuter allowance,different
+deduction,die Sonderausgaben,special expenses,different

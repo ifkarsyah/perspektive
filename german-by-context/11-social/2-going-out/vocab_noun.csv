@@ -1,16 +1,16 @@
-category,german,english
-place,die Bar,bar
-place,die Kneipe,pub
-place,der Späti,late-night shop (Berlin)
-place,der Raucherbereich,smoking area
-place,die Toilette,toilet
-night,die Musik,music
-night,die Party,party
-night,das Getränk,drink
-night,das Bier,beer
-night,der Cocktail,cocktail
-night,der Shot,shot
-night,die Runde,round
-night,der Kater,hangover
-night,die letzte Bahn,last train
-night,der Nachtbus,night bus
+category,german,english,similarity
+place,die Kneipe,pub,different
+place,der Späti,late-night shop (Berlin),different
+place,der Raucherbereich,smoking area,different
+night,das Getränk,drink,different
+night,der Kater,hangover,different
+night,die letzte Bahn,last train,different
+place,die Bar,bar,cognate
+place,die Toilette,toilet,cognate
+night,die Musik,music,cognate
+night,die Party,party,cognate
+night,das Bier,beer,cognate
+night,der Cocktail,cocktail,cognate
+night,der Shot,shot,cognate
+night,die Runde,round,cognate
+night,der Nachtbus,night bus,cognate

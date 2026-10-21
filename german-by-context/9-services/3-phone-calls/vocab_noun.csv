@@ -1,49 +1,49 @@
-category,german,english
-call,der Anruf,call
-call,das Telefonat,phone call
-call,die Telefonnummer,phone number
-call,die Hotline,hotline
-call,der Kundenservice,customer service
-call,die Warteschleife,hold (queue)
-call,die Durchwahl,direct line / extension
-call,der Rückruf,callback
-call,die Mailbox,voicemail
-call,die Nachricht,message
-call,die Verbindung,connection
-call,die Taste,button (keypad)
-call,die Raute,hash key (#)
-call,der Stern,star key (*)
-call,der Ansprechpartner,contact person
-call,das Anliegen,matter / concern
-call,die Kundennummer,customer number
-call,die Vorgangsnummer,case number
-alphabet,A wie Aachen,A as in Aachen
-alphabet,B wie Berlin,B as in Berlin
-alphabet,C wie Chemnitz,C as in Chemnitz
-alphabet,D wie Düsseldorf,D as in Düsseldorf
-alphabet,E wie Essen,E as in Essen
-alphabet,F wie Frankfurt,F as in Frankfurt
-alphabet,G wie Goslar,G as in Goslar
-alphabet,H wie Hamburg,H as in Hamburg
-alphabet,I wie Ingelheim,I as in Ingelheim
-alphabet,J wie Jena,J as in Jena
-alphabet,K wie Köln,K as in Köln
-alphabet,L wie Leipzig,L as in Leipzig
-alphabet,M wie München,M as in München
-alphabet,N wie Nürnberg,N as in Nürnberg
-alphabet,O wie Offenbach,O as in Offenbach
-alphabet,P wie Potsdam,P as in Potsdam
-alphabet,Q wie Quickborn,Q as in Quickborn
-alphabet,R wie Rostock,R as in Rostock
-alphabet,S wie Salzwedel,S as in Salzwedel
-alphabet,T wie Tübingen,T as in Tübingen
-alphabet,U wie Unna,U as in Unna
-alphabet,V wie Völklingen,V as in Völklingen
-alphabet,W wie Wuppertal,W as in Wuppertal
-alphabet,X wie Xanten,X as in Xanten
-alphabet,Y wie Ypsilon,Y as in Ypsilon
-alphabet,Z wie Zwickau,Z as in Zwickau
-alphabet,Ä wie Umlaut-A,Ä as in umlaut A
-alphabet,Ö wie Umlaut-O,Ö as in umlaut O
-alphabet,Ü wie Umlaut-U,Ü as in umlaut U
-alphabet,ß wie Eszett,ß as in Eszett
+category,german,english,similarity
+call,der Anruf,call,different
+call,das Telefonat,phone call,different
+call,der Kundenservice,customer service,different
+call,die Warteschleife,hold (queue),different
+call,die Durchwahl,direct line / extension,different
+call,der Rückruf,callback,different
+call,die Nachricht,message,different
+call,die Verbindung,connection,different
+call,die Taste,button (keypad),different
+call,die Raute,hash key (#),different
+call,der Stern,star key (*),different
+call,der Ansprechpartner,contact person,different
+call,das Anliegen,matter / concern,different
+call,die Kundennummer,customer number,different
+call,die Vorgangsnummer,case number,different
+call,die Telefonnummer,phone number,cognate
+call,die Hotline,hotline,cognate
+call,die Mailbox,voicemail,cognate
+alphabet,A wie Aachen,A as in Aachen,cognate
+alphabet,B wie Berlin,B as in Berlin,cognate
+alphabet,C wie Chemnitz,C as in Chemnitz,cognate
+alphabet,D wie Düsseldorf,D as in Düsseldorf,cognate
+alphabet,E wie Essen,E as in Essen,cognate
+alphabet,F wie Frankfurt,F as in Frankfurt,cognate
+alphabet,G wie Goslar,G as in Goslar,cognate
+alphabet,H wie Hamburg,H as in Hamburg,cognate
+alphabet,I wie Ingelheim,I as in Ingelheim,cognate
+alphabet,J wie Jena,J as in Jena,cognate
+alphabet,K wie Köln,K as in Köln,cognate
+alphabet,L wie Leipzig,L as in Leipzig,cognate
+alphabet,M wie München,M as in München,cognate
+alphabet,N wie Nürnberg,N as in Nürnberg,cognate
+alphabet,O wie Offenbach,O as in Offenbach,cognate
+alphabet,P wie Potsdam,P as in Potsdam,cognate
+alphabet,Q wie Quickborn,Q as in Quickborn,cognate
+alphabet,R wie Rostock,R as in Rostock,cognate
+alphabet,S wie Salzwedel,S as in Salzwedel,cognate
+alphabet,T wie Tübingen,T as in Tübingen,cognate
+alphabet,U wie Unna,U as in Unna,cognate
+alphabet,V wie Völklingen,V as in Völklingen,cognate
+alphabet,W wie Wuppertal,W as in Wuppertal,cognate
+alphabet,X wie Xanten,X as in Xanten,cognate
+alphabet,Y wie Ypsilon,Y as in Ypsilon,cognate
+alphabet,Z wie Zwickau,Z as in Zwickau,cognate
+alphabet,Ä wie Umlaut-A,Ä as in umlaut A,cognate
+alphabet,Ö wie Umlaut-O,Ö as in umlaut O,cognate
+alphabet,Ü wie Umlaut-U,Ü as in umlaut U,cognate
+alphabet,ß wie Eszett,ß as in Eszett,cognate

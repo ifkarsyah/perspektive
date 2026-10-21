@@ -1,17 +1,17 @@
-category,german,english
-comfort,bequem,comfortable
-comfort,weich,soft
-comfort,hart,firm
-size,breit,wide
-size,schmal,narrow
-size,hoch,tall
-size,niedrig,low
-size,schwer,heavy
-size,leicht,light
-state,stabil,sturdy
-state,wackelig,wobbly
-state,beschädigt,damaged
-state,vorrätig,in stock
-state,ausverkauft,sold out
-price,günstig,cheap
-price,teuer,expensive
+category,german,english,similarity
+comfort,bequem,comfortable,different
+comfort,weich,soft,different
+comfort,hart,firm,different
+size,breit,wide,different
+size,schmal,narrow,different
+size,hoch,tall,different
+size,niedrig,low,different
+size,schwer,heavy,different
+state,stabil,sturdy,different
+state,wackelig,wobbly,different
+state,beschädigt,damaged,different
+state,vorrätig,in stock,different
+state,ausverkauft,sold out,different
+price,günstig,cheap,different
+price,teuer,expensive,different
+size,leicht,light,cognate

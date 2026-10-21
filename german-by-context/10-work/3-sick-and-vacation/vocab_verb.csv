@@ -1,13 +1,13 @@
-category,german,english
-sick,sich krankmelden (sep.),to call in sick
-sick,krankgeschrieben sein,to be on sick leave
-sick,sich gesundmelden (sep.),to report back healthy
-sick,sich auskurieren (sep.),to recover fully
-vacation,Urlaub beantragen,to request vacation
-vacation,Urlaub nehmen,to take vacation
-vacation,genehmigen,to approve
-vacation,ablehnen (sep.),to decline
-vacation,Überstunden abbauen (sep.),to use up overtime
-work,vertreten,to cover for
-work,übergeben,to hand over
-work,eintragen (sep.),to enter (in calendar)
+category,german,english,similarity
+sick,sich krankmelden (sep.),to call in sick,different
+sick,krankgeschrieben sein,to be on sick leave,different
+sick,sich gesundmelden (sep.),to report back healthy,different
+sick,sich auskurieren (sep.),to recover fully,different
+vacation,Urlaub beantragen,to request vacation,different
+vacation,Urlaub nehmen,to take vacation,different
+vacation,genehmigen,to approve,different
+vacation,ablehnen (sep.),to decline,different
+vacation,Überstunden abbauen (sep.),to use up overtime,different
+work,vertreten,to cover for,different
+work,übergeben,to hand over,different
+work,eintragen (sep.),to enter (in calendar),different

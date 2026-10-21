@@ -1,10 +1,10 @@
-category,german,english
-time,rechtzeitig,in time
-time,vor Ablauf,before expiry
-time,sechs Wochen vorher,six weeks beforehand
-time,in etwa vier Wochen,in about four weeks
-time,bis auf Weiteres,until further notice
-way,persönlich,in person
-way,per E-Mail,by email
-way,online,online
-way,per Post,by post
+category,german,english,similarity
+time,rechtzeitig,in time,different
+time,vor Ablauf,before expiry,different
+time,sechs Wochen vorher,six weeks beforehand,different
+time,in etwa vier Wochen,in about four weeks,different
+time,bis auf Weiteres,until further notice,different
+way,persönlich,in person,cognate
+way,per E-Mail,by email,cognate
+way,online,online,cognate
+way,per Post,by post,cognate

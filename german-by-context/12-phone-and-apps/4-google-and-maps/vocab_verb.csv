@@ -1,16 +1,16 @@
-category,german,english
-search,suchen,to search
-search,googeln,to google
-search,übersetzen,to translate
-gmail,Schreiben,Compose
-gmail,Antworten,Reply
-gmail,Allen antworten,Reply all
-gmail,Weiterleiten,Forward
-gmail,Archivieren,Archive
-gmail,Als gelesen markieren,Mark as read
-gmail,Anhängen,Attach
-drive,Freigeben,Share
-drive,Herunterladen,Download
-maps,Route berechnen,Get directions
-maps,Starten,Start (navigation)
-maps,Speichern,Save
+category,german,english,similarity
+search,suchen,to search,different
+search,übersetzen,to translate,different
+gmail,Schreiben,Compose,different
+gmail,Antworten,Reply,different
+gmail,Allen antworten,Reply all,different
+gmail,Weiterleiten,Forward,different
+gmail,Als gelesen markieren,Mark as read,different
+gmail,Anhängen,Attach,different
+drive,Freigeben,Share,different
+drive,Herunterladen,Download,different
+maps,Route berechnen,Get directions,different
+maps,Speichern,Save,different
+search,googeln,to google,cognate
+gmail,Archivieren,Archive,cognate
+maps,Starten,Start (navigation),cognate

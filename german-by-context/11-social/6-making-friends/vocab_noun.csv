@@ -1,23 +1,23 @@
-category,german,english
-friends,der Freund,friend / boyfriend
-friends,die Freundin,friend / girlfriend
-friends,ein Freund von mir,a friend of mine
-friends,der Bekannte,acquaintance
-friends,die Freundschaft,friendship
-friends,der Freundeskreis,circle of friends
-friends,das Treffen,meetup
-friends,die Nummer,(phone) number
-friends,der Kumpel,mate / buddy
-friends,die Jungs,the boys / the guys
-friends,die Mädels,the girls
-friends,die Clique,group of friends
-friends,der beste Freund,best friend (m)
-friends,die beste Freundin,best friend (f)
-friends,der Mitbewohner,flatmate
-friends,der Männerabend,guys' night
-friends,der Mädelsabend,girls' night
-friends,der Spieleabend,games night
-activity,der Kicker,table football
-activity,das Fußballspiel,football match
-activity,das Bier,beer
-activity,die Gruppe,(chat) group
+category,german,english,similarity
+friends,der Bekannte,acquaintance,different
+friends,der Freundeskreis,circle of friends,different
+friends,das Treffen,meetup,different
+friends,der Kumpel,mate / buddy,different
+friends,die Jungs,the boys / the guys,different
+friends,die Mädels,the girls,different
+friends,die Clique,group of friends,different
+friends,der Mitbewohner,flatmate,different
+friends,der Männerabend,guys' night,different
+friends,der Mädelsabend,girls' night,different
+friends,der Spieleabend,games night,different
+activity,der Kicker,table football,different
+activity,das Fußballspiel,football match,different
+friends,der Freund,friend / boyfriend,cognate
+friends,die Freundin,friend / girlfriend,cognate
+friends,ein Freund von mir,a friend of mine,cognate
+friends,die Freundschaft,friendship,cognate
+friends,die Nummer,(phone) number,cognate
+friends,der beste Freund,best friend (m),cognate
+friends,die beste Freundin,best friend (f),cognate
+activity,das Bier,beer,cognate
+activity,die Gruppe,(chat) group,cognate

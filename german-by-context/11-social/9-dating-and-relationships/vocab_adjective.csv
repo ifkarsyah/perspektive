@@ -1,11 +1,11 @@
-category,german,english
-dating,verliebt,in love
-dating,vergeben,taken
-dating,single,single
-dating,süß,cute / sweet
-dating,attraktiv,attractive
-dating,romantisch,romantic
-dating,eifersüchtig,jealous
-dating,ehrlich,honest
-dating,glücklich,happy
-dating,verheiratet,married
+category,german,english,similarity
+dating,verliebt,in love,different
+dating,vergeben,taken,different
+dating,eifersüchtig,jealous,different
+dating,ehrlich,honest,different
+dating,glücklich,happy,different
+dating,verheiratet,married,different
+dating,single,single,cognate
+dating,süß,cute / sweet,cognate
+dating,attraktiv,attractive,cognate
+dating,romantisch,romantic,cognate

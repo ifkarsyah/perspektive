@@ -1,7 +1,7 @@
-category,german,english
-time,am Stück,in one go
-time,heute Abend,tonight
-time,als Nächstes,next up
-manner,mit Untertiteln,with subtitles
-manner,auf Deutsch,in German
-manner,offline,offline
+category,german,english,similarity
+time,am Stück,in one go,different
+time,heute Abend,tonight,different
+time,als Nächstes,next up,different
+manner,mit Untertiteln,with subtitles,different
+manner,auf Deutsch,in German,different
+manner,offline,offline,cognate

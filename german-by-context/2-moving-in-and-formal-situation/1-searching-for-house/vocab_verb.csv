@@ -1,16 +1,16 @@
-category,german,english
-search,suchen,to look for
-search,finden,to find
-search,besichtigen,to view (an apartment)
-search,sich bewerben,to apply
-search,anrufen (sep.),to call
-search,zusagen (sep.),to accept
-search,absagen (sep.),to decline / to cancel
-contract,mieten,to rent
-contract,vermieten,to rent out
-contract,untervermieten,to sublet
-contract,unterschreiben,to sign
-contract,kündigen,to terminate (contract)
-moving,einziehen (sep.),to move in
-moving,ausziehen (sep.),to move out
-moving,umziehen (sep.),to move (house)
+category,german,english,similarity
+search,suchen,to look for,different
+search,besichtigen,to view (an apartment),different
+search,sich bewerben,to apply,different
+search,anrufen (sep.),to call,different
+search,zusagen (sep.),to accept,different
+search,absagen (sep.),to decline / to cancel,different
+contract,mieten,to rent,different
+contract,vermieten,to rent out,different
+contract,untervermieten,to sublet,different
+contract,unterschreiben,to sign,different
+contract,kündigen,to terminate (contract),different
+moving,einziehen (sep.),to move in,different
+moving,ausziehen (sep.),to move out,different
+moving,umziehen (sep.),to move (house),different
+search,finden,to find,cognate

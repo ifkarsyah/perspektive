@@ -1,18 +1,18 @@
-category,german,english
-good,glücklich,happy
-good,froh,glad
-good,zufrieden,satisfied
-good,entspannt,relaxed
-good,begeistert,excited / enthusiastic
-good,stolz,proud
-bad,traurig,sad
-bad,wütend,angry
-bad,sauer,annoyed (informal)
-bad,enttäuscht,disappointed
-bad,gestresst,stressed
-bad,nervös,nervous
-bad,einsam,lonely
-bad,genervt,annoyed
-other,überrascht,surprised
-other,verwirrt,confused
-other,neugierig,curious
+category,german,english,similarity
+good,glücklich,happy,different
+good,froh,glad,different
+good,zufrieden,satisfied,different
+good,entspannt,relaxed,different
+good,begeistert,excited / enthusiastic,different
+good,stolz,proud,different
+bad,traurig,sad,different
+bad,wütend,angry,different
+bad,enttäuscht,disappointed,different
+bad,einsam,lonely,different
+bad,genervt,annoyed,different
+other,überrascht,surprised,different
+other,verwirrt,confused,different
+other,neugierig,curious,different
+bad,sauer,annoyed (informal),cognate
+bad,gestresst,stressed,cognate
+bad,nervös,nervous,cognate

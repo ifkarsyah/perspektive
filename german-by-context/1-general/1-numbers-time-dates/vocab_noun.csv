@@ -1,79 +1,79 @@
-category,german,english
-number,null,0
-number,eins,1
-number,zwei (zwo on the phone),2
-number,drei,3
-number,vier,4
-number,fünf,5
-number,sechs,6
-number,sieben,7
-number,acht,8
-number,neun,9
-number,zehn,10
-number,elf,11
-number,zwölf,12
-number,dreizehn,13
-number,sechzehn,16
-number,siebzehn,17
-number,zwanzig,20
-number,einundzwanzig,21 (one-and-twenty)
-number,dreißig,30
-number,vierzig,40
-number,fünfzig,50
-number,sechzig,60
-number,siebzig,70
-number,achtzig,80
-number,neunzig,90
-number,hundert,100
-number,hunderteins,101
-number,zweihundertfünfunddreißig,235
-number,tausend,"1,000"
-number,zweitausendsechsundzwanzig,2026
-number,die Million,million
-ordinal,der erste,the first
-ordinal,der zweite,the second
-ordinal,der dritte,the third
-ordinal,der siebte,the seventh
-ordinal,der zwanzigste,the twentieth
-fraction,die Hälfte,half
-fraction,das Viertel,quarter
-fraction,das Prozent,percent
-fraction,das Komma,decimal comma
-time,die Uhr,clock / o'clock
-time,die Uhrzeit,time (of day)
-time,die Sekunde,second
-time,die Minute,minute
-time,die Stunde,hour
-time,die Viertelstunde,quarter of an hour
-time,die halbe Stunde,half an hour
-day,der Tag,day
-day,der Montag,Monday
-day,der Dienstag,Tuesday
-day,der Mittwoch,Wednesday
-day,der Donnerstag,Thursday
-day,der Freitag,Friday
-day,der Samstag,Saturday
-day,der Sonntag,Sunday
-day,das Wochenende,weekend
-day,der Werktag,working day
-calendar,die Woche,week
-calendar,die Kalenderwoche (KW),calendar week
-calendar,der Monat,month
-calendar,das Jahr,year
-calendar,das Datum,date
-calendar,der Januar,January
-calendar,der Februar,February
-calendar,der März,March
-calendar,der April,April
-calendar,der Mai,May
-calendar,der Juni,June
-calendar,der Juli,July
-calendar,der August,August
-calendar,der September,September
-calendar,der Oktober,October
-calendar,der November,November
-calendar,der Dezember,December
-calendar,der Frühling,spring
-calendar,der Sommer,summer
-calendar,der Herbst,autumn
-calendar,der Winter,winter
+category,german,english,similarity
+number,null,0,different
+number,eins,1,different
+number,zwei (zwo on the phone),2,different
+number,vier,4,different
+number,zehn,10,different
+number,dreizehn,13,different
+number,sechzehn,16,different
+number,siebzehn,17,different
+number,zwanzig,20,different
+number,einundzwanzig,21 (one-and-twenty),different
+number,dreißig,30,different
+number,vierzig,40,different
+number,fünfzig,50,different
+number,sechzig,60,different
+number,siebzig,70,different
+number,achtzig,80,different
+number,neunzig,90,different
+number,hunderteins,101,different
+number,zweihundertfünfunddreißig,235,different
+number,zweitausendsechsundzwanzig,2026,different
+ordinal,der zweite,the second,different
+ordinal,der dritte,the third,different
+ordinal,der siebte,the seventh,different
+ordinal,der zwanzigste,the twentieth,different
+fraction,das Viertel,quarter,different
+time,die Uhr,clock / o'clock,different
+time,die Uhrzeit,time (of day),different
+time,die Stunde,hour,different
+time,die Viertelstunde,quarter of an hour,different
+time,die halbe Stunde,half an hour,different
+day,der Tag,day,different
+day,der Dienstag,Tuesday,different
+day,der Mittwoch,Wednesday,different
+day,der Donnerstag,Thursday,different
+day,der Samstag,Saturday,different
+day,das Wochenende,weekend,different
+day,der Werktag,working day,different
+calendar,der Frühling,spring,different
+calendar,der Herbst,autumn,different
+number,drei,3,cognate
+number,fünf,5,cognate
+number,sechs,6,cognate
+number,sieben,7,cognate
+number,acht,8,cognate
+number,neun,9,cognate
+number,elf,11,cognate
+number,zwölf,12,cognate
+number,hundert,100,cognate
+number,tausend,"1,000",cognate
+number,die Million,million,cognate
+ordinal,der erste,the first,cognate
+fraction,die Hälfte,half,cognate
+fraction,das Prozent,percent,cognate
+fraction,das Komma,decimal comma,cognate
+time,die Sekunde,second,cognate
+time,die Minute,minute,cognate
+day,der Montag,Monday,cognate
+day,der Freitag,Friday,cognate
+day,der Sonntag,Sunday,cognate
+calendar,die Woche,week,cognate
+calendar,die Kalenderwoche (KW),calendar week,cognate
+calendar,der Monat,month,cognate
+calendar,das Jahr,year,cognate
+calendar,das Datum,date,cognate
+calendar,der Januar,January,cognate
+calendar,der Februar,February,cognate
+calendar,der März,March,cognate
+calendar,der April,April,cognate
+calendar,der Mai,May,cognate
+calendar,der Juni,June,cognate
+calendar,der Juli,July,cognate
+calendar,der August,August,cognate
+calendar,der September,September,cognate
+calendar,der Oktober,October,cognate
+calendar,der November,November,cognate
+calendar,der Dezember,December,cognate
+calendar,der Sommer,summer,cognate
+calendar,der Winter,winter,cognate

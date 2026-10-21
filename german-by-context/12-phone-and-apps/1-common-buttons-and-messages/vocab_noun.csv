@@ -1,30 +1,30 @@
-category,german,english
-account,das Konto,account
-account,das Benutzerkonto,user account
-account,der Benutzername,username
-account,das Passwort,password
-account,der Code,code
-account,der Bestätigungscode,verification code
-account,die Zwei-Faktor-Authentifizierung,two-factor authentication
-account,die E-Mail-Adresse,email address
-account,die Telefonnummer,phone number
-account,das Profil,profile
-app,die App,app
-app,die Einstellungen,settings
-app,die Mitteilung,notification (Apple)
-app,die Benachrichtigung,notification
-app,das Update,update
-app,die Version,version
-app,der Speicher,storage
-app,die Datei,file
-app,der Ordner,folder
-app,der Link,link
-app,der Verlauf,history
-app,die Suche,search
-app,die Hilfe,help
-app,der Datenschutz,privacy
-app,die Nutzungsbedingungen,terms of use
-app,die Cookies,cookies
-app,das Abo,subscription
-app,die Werbung,ads
-app,der Fehler,error
+category,german,english,similarity
+account,das Konto,account,different
+account,das Benutzerkonto,user account,different
+account,der Benutzername,username,different
+account,der Bestätigungscode,verification code,different
+app,die Einstellungen,settings,different
+app,die Mitteilung,notification (Apple),different
+app,die Benachrichtigung,notification,different
+app,der Speicher,storage,different
+app,die Datei,file,different
+app,der Ordner,folder,different
+app,der Verlauf,history,different
+app,die Suche,search,different
+app,die Hilfe,help,different
+app,der Datenschutz,privacy,different
+app,die Nutzungsbedingungen,terms of use,different
+app,das Abo,subscription,different
+app,die Werbung,ads,different
+app,der Fehler,error,different
+account,das Passwort,password,cognate
+account,der Code,code,cognate
+account,die Zwei-Faktor-Authentifizierung,two-factor authentication,cognate
+account,die E-Mail-Adresse,email address,cognate
+account,die Telefonnummer,phone number,cognate
+account,das Profil,profile,cognate
+app,die App,app,cognate
+app,das Update,update,cognate
+app,die Version,version,cognate
+app,der Link,link,cognate
+app,die Cookies,cookies,cognate

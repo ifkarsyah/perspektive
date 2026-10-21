@@ -1,27 +1,27 @@
-category,german,english
-cinema,das Kino,cinema
-cinema,der Film,film
-cinema,die Vorstellung,showing / performance
-cinema,die Originalfassung (OV),original version
-cinema,OmU (Original mit Untertiteln),original with subtitles
-cinema,die Untertitel,subtitles
-cinema,das Popcorn,popcorn
-cinema,das Freiluftkino,open-air cinema
-museum,das Museum,museum
-museum,die Ausstellung,exhibition
-museum,die Führung,guided tour
-museum,der Audioguide,audio guide
-museum,der Museumssonntag,free museum Sunday
-stage,das Theater,theatre
-stage,die Oper,opera
-stage,das Konzert,concert
-stage,das Festival,festival
-stage,die Bühne,stage
-stage,die Pause,interval
-ticket,die Karte,ticket
-ticket,der Vorverkauf,advance sale
-ticket,die Abendkasse,box office (on the night)
-ticket,die Ermäßigung,discount
-ticket,die Reihe,row
-ticket,der Platz,seat
-ticket,die Garderobe,cloakroom
+category,german,english,similarity
+cinema,das Kino,cinema,different
+cinema,die Vorstellung,showing / performance,different
+cinema,OmU (Original mit Untertiteln),original with subtitles,different
+cinema,die Untertitel,subtitles,different
+cinema,das Freiluftkino,open-air cinema,different
+museum,die Ausstellung,exhibition,different
+museum,die Führung,guided tour,different
+stage,die Bühne,stage,different
+stage,die Pause,interval,different
+ticket,der Vorverkauf,advance sale,different
+ticket,die Abendkasse,box office (on the night),different
+ticket,die Ermäßigung,discount,different
+ticket,die Reihe,row,different
+ticket,der Platz,seat,different
+cinema,der Film,film,cognate
+cinema,die Originalfassung (OV),original version,cognate
+cinema,das Popcorn,popcorn,cognate
+museum,das Museum,museum,cognate
+museum,der Audioguide,audio guide,cognate
+museum,der Museumssonntag,free museum Sunday,cognate
+stage,das Theater,theatre,cognate
+stage,die Oper,opera,cognate
+stage,das Konzert,concert,cognate
+stage,das Festival,festival,cognate
+ticket,die Karte,ticket,cognate
+ticket,die Garderobe,cloakroom,cognate

@@ -1,7 +1,7 @@
-category,german,english
-video,neu,new
-video,beliebt,popular
-video,live,live
-video,privat,private
-video,nicht gelistet,unlisted
-video,automatisch generiert,auto-generated
+category,german,english,similarity
+video,beliebt,popular,different
+video,nicht gelistet,unlisted,different
+video,neu,new,cognate
+video,live,live,cognate
+video,privat,private,cognate
+video,automatisch generiert,auto-generated,cognate

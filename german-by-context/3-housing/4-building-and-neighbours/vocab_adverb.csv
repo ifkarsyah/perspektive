@@ -1,11 +1,11 @@
-category,german,english
-place,nebenan,next door
-place,über mir,above me
-place,unter mir,below me
-place,im Erdgeschoss,on the ground floor
-place,im dritten Stock,on the third floor
-place,im Hof,in the courtyard
-time,ab 22 Uhr,from 10 pm
-time,sonntags,on Sundays
-time,mitten in der Nacht,in the middle of the night
-time,seit einer Woche,for a week
+category,german,english,similarity
+place,im dritten Stock,on the third floor,false-friend
+place,nebenan,next door,different
+place,über mir,above me,different
+place,unter mir,below me,different
+place,im Erdgeschoss,on the ground floor,different
+place,im Hof,in the courtyard,different
+time,ab 22 Uhr,from 10 pm,different
+time,mitten in der Nacht,in the middle of the night,different
+time,seit einer Woche,for a week,different
+time,sonntags,on Sundays,cognate

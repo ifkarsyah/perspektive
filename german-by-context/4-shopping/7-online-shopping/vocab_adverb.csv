@@ -1,8 +1,8 @@
-category,german,english
-time,innerhalb von 14 Tagen,within 14 days
-time,bis morgen,by tomorrow
-time,voraussichtlich,expected / probably
-time,noch nicht,not yet
-way,online,online
-way,kostenlos,free of charge
-way,per PayPal,via PayPal
+category,german,english,similarity
+time,bis morgen,by tomorrow,false-friend
+time,innerhalb von 14 Tagen,within 14 days,different
+time,voraussichtlich,expected / probably,different
+time,noch nicht,not yet,different
+way,kostenlos,free of charge,different
+way,online,online,cognate
+way,per PayPal,via PayPal,cognate

@@ -1,8 +1,8 @@
-category,german,english
-time,ab dem Einzug,from the move-in date
-time,einmal im Jahr,once a year
-time,rückwirkend,retroactively
-time,zum Monatsende,at the end of the month
-time,innerhalb von zwei Wochen,within two weeks
-way,online,online
-way,per Lastschrift,by direct debit
+category,german,english,similarity
+time,ab dem Einzug,from the move-in date,different
+time,einmal im Jahr,once a year,different
+time,rückwirkend,retroactively,different
+time,zum Monatsende,at the end of the month,different
+time,innerhalb von zwei Wochen,within two weeks,different
+way,per Lastschrift,by direct debit,different
+way,online,online,cognate

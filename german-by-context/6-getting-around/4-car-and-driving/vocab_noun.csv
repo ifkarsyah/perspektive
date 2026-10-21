@@ -1,36 +1,36 @@
-category,german,english
-licence,der Führerschein,driving licence
-licence,die Führerscheinumschreibung,licence conversion
-licence,die Fahrerlaubnisbehörde,driving licence office
-licence,die Fahrschule,driving school
-licence,die Fahrstunde,driving lesson
-licence,die theoretische Prüfung,theory test
-licence,die praktische Prüfung,practical test
-licence,der Sehtest,eye test
-licence,der Erste-Hilfe-Kurs,first aid course
-car,das Auto,car
-car,das Carsharing,car sharing
-car,der Mietwagen,rental car
-car,der Tank,tank
-car,das Benzin,petrol
-car,der Diesel,diesel
-car,die Ladesäule,charging station
-car,die Tankstelle,petrol station
-road,die Straße,road
-road,die Autobahn,motorway
-road,die Kreuzung,intersection
-road,die Ampel,traffic light
-road,die Vorfahrt,right of way
-road,der Stau,traffic jam
-road,die Baustelle,roadworks
-road,die Umweltzone,low emission zone
-road,die Umweltplakette,emissions sticker
-road,der Blitzer,speed camera
-park,der Parkplatz,parking space
-park,das Parkhaus,parking garage
-park,der Parkschein,parking ticket (pay)
-park,der Parkautomat,parking meter
-park,der Strafzettel,parking fine
-problem,der Unfall,accident
-problem,die Panne,breakdown
-problem,die Versicherung,insurance
+category,german,english,similarity
+licence,der Führerschein,driving licence,different
+licence,die Führerscheinumschreibung,licence conversion,different
+licence,die Fahrerlaubnisbehörde,driving licence office,different
+licence,die Fahrschule,driving school,different
+licence,die Fahrstunde,driving lesson,different
+licence,die theoretische Prüfung,theory test,different
+licence,die praktische Prüfung,practical test,different
+licence,der Sehtest,eye test,different
+licence,der Erste-Hilfe-Kurs,first aid course,different
+car,der Mietwagen,rental car,different
+car,das Benzin,petrol,different
+car,die Ladesäule,charging station,different
+car,die Tankstelle,petrol station,different
+road,die Autobahn,motorway,different
+road,die Kreuzung,intersection,different
+road,die Ampel,traffic light,different
+road,die Vorfahrt,right of way,different
+road,der Stau,traffic jam,different
+road,die Baustelle,roadworks,different
+road,die Umweltzone,low emission zone,different
+road,die Umweltplakette,emissions sticker,different
+road,der Blitzer,speed camera,different
+park,das Parkhaus,parking garage,different
+park,der Parkschein,parking ticket (pay),different
+park,der Parkautomat,parking meter,different
+park,der Strafzettel,parking fine,different
+problem,der Unfall,accident,different
+problem,die Panne,breakdown,different
+problem,die Versicherung,insurance,different
+car,das Auto,car,cognate
+car,das Carsharing,car sharing,cognate
+car,der Tank,tank,cognate
+car,der Diesel,diesel,cognate
+road,die Straße,road,cognate
+park,der Parkplatz,parking space,cognate

@@ -1,48 +1,48 @@
-category,german,english
-store,das Bekleidungsgeschäft,clothing store
-store,das Kaufhaus,department store
-store,der Secondhandladen,second-hand shop
-store,der Flohmarkt,flea market
-store,die Abteilung,department
-store,die Damenabteilung,women's section
-store,die Herrenabteilung,men's section
-store,die Umkleidekabine,fitting room
-store,der Spiegel,mirror
-store,der Kleiderbügel,hanger
-store,das Schaufenster,shop window
-store,der Ausverkauf,clearance sale
-store,der Schlussverkauf,end-of-season sale
-store,das Etikett,label / tag
-store,die Größe,size
-clothes,das Hemd,shirt
-clothes,das T-Shirt,T-shirt
-clothes,die Bluse,blouse
-clothes,der Pullover,sweater
-clothes,der Hoodie,hoodie
-clothes,die Hose,trousers
-clothes,die Jeans,jeans
-clothes,die kurze Hose,shorts
-clothes,der Rock,skirt
-clothes,das Kleid,dress
-clothes,die Jacke,jacket
-clothes,der Mantel,coat
-clothes,die Winterjacke,winter jacket
-clothes,der Anzug,suit
-clothes,die Unterwäsche,underwear
-clothes,die Socken,socks
-accessory,der Schal,scarf
-accessory,die Mütze,beanie
-accessory,die Handschuhe,gloves
-accessory,der Gürtel,belt
-accessory,die Tasche,bag / pocket
-shoes,die Schuhe,shoes
-shoes,die Turnschuhe,sneakers
-shoes,die Stiefel,boots
-shoes,die Schuhgröße,shoe size
-detail,der Ärmel,sleeve
-detail,der Reißverschluss,zip
-detail,der Knopf,button
-material,die Baumwolle,cotton
-material,die Wolle,wool
-material,das Leder,leather
-material,der Stoff,fabric
+category,german,english,similarity
+clothes,die Hose,trousers,false-friend
+clothes,die kurze Hose,shorts,false-friend
+clothes,der Rock,skirt,false-friend
+clothes,der Mantel,coat,false-friend
+store,das Bekleidungsgeschäft,clothing store,different
+store,das Kaufhaus,department store,different
+store,der Secondhandladen,second-hand shop,different
+store,der Flohmarkt,flea market,different
+store,die Abteilung,department,different
+store,die Damenabteilung,women's section,different
+store,die Herrenabteilung,men's section,different
+store,die Umkleidekabine,fitting room,different
+store,der Spiegel,mirror,different
+store,der Kleiderbügel,hanger,different
+store,das Schaufenster,shop window,different
+store,der Ausverkauf,clearance sale,different
+store,der Schlussverkauf,end-of-season sale,different
+store,das Etikett,label / tag,different
+store,die Größe,size,different
+clothes,das Hemd,shirt,different
+clothes,das Kleid,dress,different
+clothes,der Anzug,suit,different
+clothes,die Unterwäsche,underwear,different
+accessory,die Mütze,beanie,different
+accessory,die Handschuhe,gloves,different
+accessory,der Gürtel,belt,different
+accessory,die Tasche,bag / pocket,different
+shoes,die Turnschuhe,sneakers,different
+shoes,die Stiefel,boots,different
+shoes,die Schuhgröße,shoe size,different
+detail,der Ärmel,sleeve,different
+detail,der Reißverschluss,zip,different
+detail,der Knopf,button,different
+material,die Baumwolle,cotton,different
+material,der Stoff,fabric,different
+clothes,das T-Shirt,T-shirt,cognate
+clothes,die Bluse,blouse,cognate
+clothes,der Pullover,sweater,cognate
+clothes,der Hoodie,hoodie,cognate
+clothes,die Jeans,jeans,cognate
+clothes,die Jacke,jacket,cognate
+clothes,die Winterjacke,winter jacket,cognate
+clothes,die Socken,socks,cognate
+accessory,der Schal,scarf,cognate
+shoes,die Schuhe,shoes,cognate
+material,die Wolle,wool,cognate
+material,das Leder,leather,cognate

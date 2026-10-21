@@ -1,34 +1,34 @@
-category,german,english
-office,das Bürgeramt,citizens' office
-office,die Ausländerbehörde,immigration office
-office,der Termin,appointment
-office,die Wartenummer,queue number
-office,der Wartebereich,waiting area
-office,der Schalter,counter
-office,der Sachbearbeiter,clerk (m)
-office,die Sachbearbeiterin,clerk (f)
-office,die Gebühr,fee
-process,die Anmeldung,address registration
-process,die Abmeldung,deregistration
-process,die Ummeldung,change of address
-process,der Antrag,application
-document,das Formular,form
-document,die Meldebescheinigung,registration certificate
-document,die Wohnungsgeberbestätigung,landlord confirmation
-document,der Reisepass,passport
-document,der Personalausweis,ID card
-document,das Visum,visa
-document,die Aufenthaltserlaubnis,residence permit
-document,die Steuer-ID,tax ID
-document,die Kopie,copy
-document,das Original,original
-document,die Unterschrift,signature
-personal,der Name,name
-personal,der Vorname,first name
-personal,der Nachname,last name
-personal,das Geburtsdatum,date of birth
-personal,der Geburtsort,place of birth
-personal,die Staatsangehörigkeit,nationality
-personal,der Familienstand,marital status
-personal,die Adresse,address
-personal,die Religion,religion (for church tax)
+category,german,english,similarity
+office,der Termin,appointment,false-friend
+office,das Bürgeramt,citizens' office,different
+office,die Ausländerbehörde,immigration office,different
+office,die Wartenummer,queue number,different
+office,der Wartebereich,waiting area,different
+office,der Schalter,counter,different
+office,der Sachbearbeiter,clerk (m),different
+office,die Sachbearbeiterin,clerk (f),different
+office,die Gebühr,fee,different
+process,die Anmeldung,address registration,different
+process,die Abmeldung,deregistration,different
+process,die Ummeldung,change of address,different
+process,der Antrag,application,different
+document,die Meldebescheinigung,registration certificate,different
+document,die Wohnungsgeberbestätigung,landlord confirmation,different
+document,der Reisepass,passport,different
+document,der Personalausweis,ID card,different
+document,die Aufenthaltserlaubnis,residence permit,different
+document,die Steuer-ID,tax ID,different
+document,die Unterschrift,signature,different
+personal,der Vorname,first name,different
+personal,der Nachname,last name,different
+personal,das Geburtsdatum,date of birth,different
+personal,der Geburtsort,place of birth,different
+personal,die Staatsangehörigkeit,nationality,different
+personal,der Familienstand,marital status,different
+document,das Formular,form,cognate
+document,das Visum,visa,cognate
+document,die Kopie,copy,cognate
+document,das Original,original,cognate
+personal,der Name,name,cognate
+personal,die Adresse,address,cognate
+personal,die Religion,religion (for church tax),cognate

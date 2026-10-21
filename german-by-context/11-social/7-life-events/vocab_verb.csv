@@ -1,13 +1,13 @@
-category,german,english
-happy,heiraten,to get married
-happy,sich verloben,to get engaged
-happy,ein Baby bekommen,to have a baby
-happy,gratulieren,to congratulate
-happy,feiern,to celebrate
-happy,befördert werden,to be promoted
-happy,in Rente gehen,to retire
-sad,sterben,to die
-sad,trauern,to grieve
-sad,sein Beileid aussprechen (sep.),to offer condolences
-sad,trösten,to comfort
-sad,sich verabschieden (sep.),to say goodbye
+category,german,english,similarity
+happy,ein Baby bekommen,to have a baby,false-friend
+happy,in Rente gehen,to retire,false-friend
+happy,heiraten,to get married,different
+happy,sich verloben,to get engaged,different
+happy,feiern,to celebrate,different
+happy,befördert werden,to be promoted,different
+sad,sterben,to die,different
+sad,trauern,to grieve,different
+sad,sein Beileid aussprechen (sep.),to offer condolences,different
+sad,trösten,to comfort,different
+sad,sich verabschieden (sep.),to say goodbye,different
+happy,gratulieren,to congratulate,cognate

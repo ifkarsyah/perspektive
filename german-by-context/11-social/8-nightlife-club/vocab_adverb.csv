@@ -1,9 +1,9 @@
-category,german,english
-time,ab Mitternacht,from midnight
-time,bis Sonntagmittag,until Sunday noon
-time,das ganze Wochenende,the whole weekend
-time,früh am Morgen,early in the morning
-group,zu zweit,as two
-group,in kleinen Gruppen,in small groups
-place,drinnen,inside
-place,im Garten,in the garden / outdoor area
+category,german,english,similarity
+time,ab Mitternacht,from midnight,different
+time,bis Sonntagmittag,until Sunday noon,different
+time,das ganze Wochenende,the whole weekend,different
+time,früh am Morgen,early in the morning,different
+group,zu zweit,as two,different
+group,in kleinen Gruppen,in small groups,different
+place,drinnen,inside,different
+place,im Garten,in the garden / outdoor area,different

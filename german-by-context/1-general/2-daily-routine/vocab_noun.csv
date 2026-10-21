@@ -1,28 +1,28 @@
-category,german,english
-time,der Morgen,morning
-time,der Vormittag,late morning
-time,der Mittag,noon
-time,der Nachmittag,afternoon
-time,der Abend,evening
-time,die Nacht,night
-time,der Alltag,everyday life
-time,die Routine,routine
-time,der Feierabend,end of the workday
-time,das Wochenende,weekend
-meal,das Frühstück,breakfast
-meal,das Mittagessen,lunch
-meal,das Abendessen,dinner
-meal,das Abendbrot,evening meal (bread-based)
-meal,der Snack,snack
-home,der Wecker,alarm clock
-home,die Dusche,shower
-home,der Haushalt,housework
-home,die Wäsche,laundry
-home,der Einkauf,shopping
-home,der Müll,trash
-work,der Arbeitsweg,commute
-work,die Arbeit,work
-work,der Termin,appointment
-free,die Freizeit,free time
-free,der Spaziergang,walk
-free,die Serie,TV series
+category,german,english,similarity
+work,der Termin,appointment,false-friend
+time,der Vormittag,late morning,different
+time,der Mittag,noon,different
+time,der Nachmittag,afternoon,different
+time,der Abend,evening,different
+time,der Alltag,everyday life,different
+time,der Feierabend,end of the workday,different
+time,das Wochenende,weekend,different
+meal,das Frühstück,breakfast,different
+meal,das Mittagessen,lunch,different
+meal,das Abendessen,dinner,different
+meal,das Abendbrot,evening meal (bread-based),different
+home,der Wecker,alarm clock,different
+home,die Dusche,shower,different
+home,die Wäsche,laundry,different
+home,der Einkauf,shopping,different
+home,der Müll,trash,different
+work,der Arbeitsweg,commute,different
+work,die Arbeit,work,different
+free,die Freizeit,free time,different
+free,der Spaziergang,walk,different
+time,der Morgen,morning,cognate
+time,die Nacht,night,cognate
+time,die Routine,routine,cognate
+meal,der Snack,snack,cognate
+home,der Haushalt,housework,cognate
+free,die Serie,TV series,cognate

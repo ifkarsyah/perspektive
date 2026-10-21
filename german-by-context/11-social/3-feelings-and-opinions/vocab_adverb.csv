@@ -1,11 +1,11 @@
-category,german,english
-degree,sehr,very
-degree,ziemlich,quite
-degree,ein bisschen,a bit
-degree,total,totally
-degree,gar nicht,not at all
-opinion,meiner Meinung nach,in my opinion
-opinion,eigentlich,actually
-opinion,auf jeden Fall,definitely
-opinion,auf keinen Fall,no way
-opinion,vielleicht,maybe
+category,german,english,similarity
+degree,sehr,very,different
+degree,ziemlich,quite,different
+degree,gar nicht,not at all,different
+opinion,meiner Meinung nach,in my opinion,different
+opinion,eigentlich,actually,different
+opinion,auf jeden Fall,definitely,different
+opinion,auf keinen Fall,no way,different
+opinion,vielleicht,maybe,different
+degree,ein bisschen,a bit,cognate
+degree,total,totally,cognate

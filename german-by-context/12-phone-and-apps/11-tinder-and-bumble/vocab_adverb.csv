@@ -1,7 +1,7 @@
-category,german,english
-distance,in der Nähe,nearby
-distance,5 km entfernt,5 km away
-time,vor kurzem aktiv,recently active
-time,innerhalb von 24 Stunden,within 24 hours
-time,zuerst,first
-manner,an einem öffentlichen Ort,in a public place
+category,german,english,similarity
+distance,in der Nähe,nearby,different
+distance,5 km entfernt,5 km away,different
+time,vor kurzem aktiv,recently active,different
+time,innerhalb von 24 Stunden,within 24 hours,different
+time,zuerst,first,different
+manner,an einem öffentlichen Ort,in a public place,different

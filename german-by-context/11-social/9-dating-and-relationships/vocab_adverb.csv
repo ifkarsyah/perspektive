@@ -1,5 +1,5 @@
-category,german,english
-time,seit einem Jahr,for a year
-time,zum ersten Mal,for the first time
-time,langsam,slowly
-manner,ernsthaft,seriously
+category,german,english,similarity
+time,seit einem Jahr,for a year,different
+time,zum ersten Mal,for the first time,different
+time,langsam,slowly,different
+manner,ernsthaft,seriously,different

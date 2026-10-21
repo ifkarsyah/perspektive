@@ -1,15 +1,15 @@
-category,german,english
-hike,wandern,to hike
-hike,laufen,to walk
-hike,aufsteigen (sep.),to ascend
-hike,absteigen (sep.),to descend
-hike,sich verlaufen,to get lost
-hike,eine Pause machen,to take a break
-hike,rasten,to rest
-hike,folgen,to follow
-group,sich treffen,to meet
-group,mitkommen (sep.),to come along
-group,warten,to wait
-group,mitbringen (sep.),to bring along
-body,schwitzen,to sweat
-body,ausrutschen (sep.),to slip
+category,german,english,similarity
+hike,wandern,to hike,false-friend
+hike,laufen,to walk,different
+hike,aufsteigen (sep.),to ascend,different
+hike,absteigen (sep.),to descend,different
+hike,sich verlaufen,to get lost,different
+hike,eine Pause machen,to take a break,different
+group,sich treffen,to meet,different
+group,mitkommen (sep.),to come along,different
+body,ausrutschen (sep.),to slip,different
+hike,rasten,to rest,cognate
+hike,folgen,to follow,cognate
+group,warten,to wait,cognate
+group,mitbringen (sep.),to bring along,cognate
+body,schwitzen,to sweat,cognate

@@ -1,14 +1,14 @@
-category,german,english
-weather,kalt,cold
-weather,eisig,icy
-weather,glatt,slippery
-weather,dunkel,dark
-weather,grau,grey
-weather,verschneit,snowy
-mood,gemütlich,cosy
-mood,festlich,festive
-mood,besinnlich,contemplative / peaceful
-mood,müde,tired
-mood,erkältet,having a cold
-shop,geschlossen,closed
-shop,geöffnet,open
+category,german,english,similarity
+weather,eisig,icy,different
+weather,glatt,slippery,different
+weather,dunkel,dark,different
+weather,verschneit,snowy,different
+mood,gemütlich,cosy,different
+mood,besinnlich,contemplative / peaceful,different
+mood,müde,tired,different
+mood,erkältet,having a cold,different
+shop,geschlossen,closed,different
+shop,geöffnet,open,different
+weather,kalt,cold,cognate
+weather,grau,grey,cognate
+mood,festlich,festive,cognate

@@ -1,32 +1,32 @@
-category,german,english
-app,der Chat,chat
-app,die Nachricht,message
-app,die Sprachnachricht,voice message
-app,die Gruppe,group
-app,der Gruppenchat,group chat
-app,der Gruppenadmin,group admin
-app,die Community,community
-app,der Status,status
-app,die Updates,updates (WhatsApp)
-app,die Anrufe,calls
-app,der Videoanruf,video call
-app,der Kontakt,contact
-app,das Profilbild,profile picture
-app,die Medien,media
-app,der Standort,location
-app,der Live-Standort,live location
-app,die Umfrage,poll
-app,der Sticker,sticker
-app,das Emoji,emoji
-app,die Reaktion,reaction
-app,die Verschlüsselung,encryption
-abbreviation,lg (liebe Grüße),kind regards (casual)
-abbreviation,vg (viele Grüße),best regards
-abbreviation,vlt (vielleicht),maybe
-abbreviation,kp (kein Plan),no idea
-abbreviation,ka (keine Ahnung),no idea
-abbreviation,hdl (hab dich lieb),love you (friends / family)
-abbreviation,bb (bis bald),see you soon
-abbreviation,sry (sorry),sorry
-abbreviation,mmn (meiner Meinung nach),in my opinion
-abbreviation,wg (wegen),because of
+category,german,english,similarity
+abbreviation,bb (bis bald),see you soon,false-friend
+app,die Nachricht,message,different
+app,die Sprachnachricht,voice message,different
+app,die Anrufe,calls,different
+app,der Videoanruf,video call,different
+app,der Standort,location,different
+app,der Live-Standort,live location,different
+app,die Umfrage,poll,different
+app,die Verschlüsselung,encryption,different
+abbreviation,lg (liebe Grüße),kind regards (casual),different
+abbreviation,vg (viele Grüße),best regards,different
+abbreviation,vlt (vielleicht),maybe,different
+abbreviation,kp (kein Plan),no idea,different
+abbreviation,ka (keine Ahnung),no idea,different
+abbreviation,hdl (hab dich lieb),love you (friends / family),different
+abbreviation,mmn (meiner Meinung nach),in my opinion,different
+abbreviation,wg (wegen),because of,different
+app,der Chat,chat,cognate
+app,die Gruppe,group,cognate
+app,der Gruppenchat,group chat,cognate
+app,der Gruppenadmin,group admin,cognate
+app,die Community,community,cognate
+app,der Status,status,cognate
+app,die Updates,updates (WhatsApp),cognate
+app,der Kontakt,contact,cognate
+app,das Profilbild,profile picture,cognate
+app,die Medien,media,cognate
+app,der Sticker,sticker,cognate
+app,das Emoji,emoji,cognate
+app,die Reaktion,reaction,cognate
+abbreviation,sry (sorry),sorry,cognate

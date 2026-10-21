@@ -1,30 +1,30 @@
-category,german,english
-appliance,die Küche,kitchen
-appliance,der Kühlschrank,fridge
-appliance,das Gefrierfach,freezer compartment
-appliance,der Herd,stove
-appliance,der Backofen,oven
-appliance,die Mikrowelle,microwave
-appliance,der Wasserkocher,kettle
-appliance,die Kaffeemaschine,coffee machine
-appliance,die Spülmaschine,dishwasher
-appliance,die Spüle,kitchen sink
-cookware,die Pfanne,pan
-cookware,der Topf,pot
-cookware,das Schneidebrett,cutting board
-cookware,die Schüssel,bowl
-cookware,das Geschirr,dishes
-cookware,das Besteck,cutlery
-furniture,der Schrank,cupboard
-furniture,die Schublade,drawer
-furniture,die Arbeitsplatte,countertop
-cleaning,der Schwamm,sponge
-cleaning,das Spülmittel,dish soap
-cleaning,das Geschirrtuch,dish towel
-waste,der Mülleimer,bin
-waste,der Restmüll,general waste
-waste,der Biomüll,organic waste
-waste,das Altpapier,paper waste
-waste,die Gelbe Tonne,packaging bin
-waste,das Altglas,glass recycling
-waste,das Pfand,bottle deposit
+category,german,english,similarity
+appliance,der Kühlschrank,fridge,different
+appliance,das Gefrierfach,freezer compartment,different
+appliance,der Herd,stove,different
+appliance,der Wasserkocher,kettle,different
+appliance,die Spülmaschine,dishwasher,different
+appliance,die Spüle,kitchen sink,different
+cookware,der Topf,pot,different
+cookware,das Schneidebrett,cutting board,different
+cookware,die Schüssel,bowl,different
+cookware,das Geschirr,dishes,different
+cookware,das Besteck,cutlery,different
+furniture,der Schrank,cupboard,different
+furniture,die Schublade,drawer,different
+furniture,die Arbeitsplatte,countertop,different
+cleaning,der Schwamm,sponge,different
+cleaning,das Spülmittel,dish soap,different
+cleaning,das Geschirrtuch,dish towel,different
+waste,der Mülleimer,bin,different
+waste,der Restmüll,general waste,different
+waste,der Biomüll,organic waste,different
+waste,das Altpapier,paper waste,different
+waste,die Gelbe Tonne,packaging bin,different
+waste,das Altglas,glass recycling,different
+waste,das Pfand,bottle deposit,different
+appliance,die Küche,kitchen,cognate
+appliance,der Backofen,oven,cognate
+appliance,die Mikrowelle,microwave,cognate
+appliance,die Kaffeemaschine,coffee machine,cognate
+cookware,die Pfanne,pan,cognate

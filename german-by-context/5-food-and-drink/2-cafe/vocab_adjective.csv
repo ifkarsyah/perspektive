@@ -1,18 +1,18 @@
-category,german,english
-drink,heiß,hot
-drink,warm,warm
-drink,kalt,cold
-drink,stark,strong
-drink,schwarz,black (no milk)
-drink,entkoffeiniert,decaf
-drink,laktosefrei,lactose-free
-food,frisch,fresh
-food,süß,sweet
-food,hausgemacht,homemade
-food,vegan,vegan
-place,gemütlich,cosy
-place,voll,busy / full
-place,ruhig,quiet
-place,frei,free (seat)
-size,groß,large
-size,klein,small
+category,german,english,similarity
+drink,stark,strong,different
+drink,schwarz,black (no milk),different
+drink,entkoffeiniert,decaf,different
+food,hausgemacht,homemade,different
+place,gemütlich,cosy,different
+place,ruhig,quiet,different
+size,groß,large,different
+size,klein,small,different
+drink,heiß,hot,cognate
+drink,warm,warm,cognate
+drink,kalt,cold,cognate
+drink,laktosefrei,lactose-free,cognate
+food,frisch,fresh,cognate
+food,süß,sweet,cognate
+food,vegan,vegan,cognate
+place,voll,busy / full,cognate
+place,frei,free (seat),cognate

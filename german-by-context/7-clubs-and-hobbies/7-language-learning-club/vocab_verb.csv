@@ -1,17 +1,17 @@
-category,german,english
-talk,sprechen,to speak
-talk,sich unterhalten,to have a conversation
-talk,erzählen,to tell
-talk,fragen,to ask
-talk,antworten,to answer
-talk,wiederholen,to repeat
-talk,aussprechen (sep.),to pronounce
-learn,lernen,to learn
-learn,üben,to practise
-learn,verstehen,to understand
-learn,übersetzen,to translate
-learn,korrigieren,to correct
-learn,erklären,to explain
-learn,sich merken,to remember
-learn,vergessen,to forget
-learn,nachschlagen (sep.),to look up
+category,german,english,similarity
+talk,sich unterhalten,to have a conversation,different
+talk,erzählen,to tell,different
+talk,fragen,to ask,different
+talk,wiederholen,to repeat,different
+talk,aussprechen (sep.),to pronounce,different
+learn,üben,to practise,different
+learn,verstehen,to understand,different
+learn,übersetzen,to translate,different
+learn,erklären,to explain,different
+learn,sich merken,to remember,different
+learn,vergessen,to forget,different
+learn,nachschlagen (sep.),to look up,different
+talk,sprechen,to speak,cognate
+talk,antworten,to answer,cognate
+learn,lernen,to learn,cognate
+learn,korrigieren,to correct,cognate

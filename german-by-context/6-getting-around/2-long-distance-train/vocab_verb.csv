@@ -1,13 +1,13 @@
-category,german,english
-travel,buchen,to book
-travel,reservieren,to reserve
-travel,einsteigen (sep.),to board
-travel,aussteigen (sep.),to get off
-travel,umsteigen (sep.),to change trains
-travel,abfahren (sep.),to depart
-travel,ankommen (sep.),to arrive
-delay,ausfallen (sep.),to be cancelled
-delay,verpassen,to miss
-delay,erreichen,to catch
-delay,sich verspäten,to be delayed
-delay,erstatten,to refund
+category,german,english,similarity
+travel,einsteigen (sep.),to board,different
+travel,aussteigen (sep.),to get off,different
+travel,umsteigen (sep.),to change trains,different
+travel,abfahren (sep.),to depart,different
+travel,ankommen (sep.),to arrive,different
+delay,ausfallen (sep.),to be cancelled,different
+delay,verpassen,to miss,different
+delay,sich verspäten,to be delayed,different
+delay,erstatten,to refund,different
+travel,buchen,to book,cognate
+travel,reservieren,to reserve,cognate
+delay,erreichen,to catch,cognate

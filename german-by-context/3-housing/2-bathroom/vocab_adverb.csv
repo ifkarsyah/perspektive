@@ -1,7 +1,7 @@
-category,german,english
-time,täglich,daily
-time,morgens,in the morning
-time,abends,in the evening
-time,einmal pro Woche,once a week
-manner,schnell,quickly
-manner,lange,for a long time
+category,german,english,similarity
+time,täglich,daily,different
+time,morgens,in the morning,different
+time,abends,in the evening,different
+time,einmal pro Woche,once a week,different
+manner,schnell,quickly,different
+manner,lange,for a long time,different

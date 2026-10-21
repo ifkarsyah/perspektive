@@ -1,17 +1,17 @@
-category,german,english
-shop,suchen,to look for
-shop,anprobieren (sep.),to try on
-shop,passen,to fit (size)
-shop,stehen,to suit (Das steht dir)
-shop,gefallen,to please (Das gefällt mir)
-shop,nehmen,to take
-shop,kaufen,to buy
-shop,sich umschauen (sep.),to look around
-wear,tragen,to wear
-wear,anziehen (sep.),to put on
-wear,ausziehen (sep.),to take off
-return,umtauschen (sep.),to exchange
-return,zurückgeben (sep.),to return
-care,waschen,to wash
-care,bügeln,to iron
-care,kürzen,to shorten (hem)
+category,german,english,similarity
+shop,stehen,to suit (Das steht dir),false-friend
+shop,suchen,to look for,different
+shop,anprobieren (sep.),to try on,different
+shop,passen,to fit (size),different
+shop,gefallen,to please (Das gefällt mir),different
+shop,nehmen,to take,different
+shop,kaufen,to buy,different
+shop,sich umschauen (sep.),to look around,different
+wear,tragen,to wear,different
+wear,anziehen (sep.),to put on,different
+wear,ausziehen (sep.),to take off,different
+return,umtauschen (sep.),to exchange,different
+return,zurückgeben (sep.),to return,different
+care,bügeln,to iron,different
+care,kürzen,to shorten (hem),different
+care,waschen,to wash,cognate

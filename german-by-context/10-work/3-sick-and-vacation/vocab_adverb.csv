@@ -1,8 +1,8 @@
-category,german,english
-time,heute,today
-time,ab morgen,from tomorrow
-time,bis einschließlich Freitag,up to and including Friday
-time,ab dem vierten Tag,from the fourth day
-time,vom 1. bis 14. August,from 1 to 14 August
-time,rechtzeitig,in good time
-time,kurzfristig,at short notice
+category,german,english,similarity
+time,ab morgen,from tomorrow,false-friend
+time,heute,today,different
+time,bis einschließlich Freitag,up to and including Friday,different
+time,ab dem vierten Tag,from the fourth day,different
+time,vom 1. bis 14. August,from 1 to 14 August,different
+time,rechtzeitig,in good time,different
+time,kurzfristig,at short notice,different

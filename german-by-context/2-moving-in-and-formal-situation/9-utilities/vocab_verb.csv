@@ -1,15 +1,15 @@
-category,german,english
-contract,abschließen (sep.),to sign (a contract)
-contract,anmelden (sep.),to register (connection)
-contract,ummelden (sep.),to transfer (to a new address)
-contract,kündigen,to cancel
-contract,wechseln,to switch
-contract,vergleichen,to compare
-meter,ablesen (sep.),to read (the meter)
-meter,übermitteln,to submit (reading)
-bill,zahlen,to pay
-bill,erhöhen,to increase
-bill,senken,to lower
-bill,erstatten,to refund
-internet,freischalten (sep.),to activate
-internet,einrichten (sep.),to set up
+category,german,english,similarity
+contract,abschließen (sep.),to sign (a contract),different
+contract,anmelden (sep.),to register (connection),different
+contract,ummelden (sep.),to transfer (to a new address),different
+contract,kündigen,to cancel,different
+contract,wechseln,to switch,different
+contract,vergleichen,to compare,different
+meter,ablesen (sep.),to read (the meter),different
+meter,übermitteln,to submit (reading),different
+bill,zahlen,to pay,different
+bill,erhöhen,to increase,different
+bill,senken,to lower,different
+bill,erstatten,to refund,different
+internet,freischalten (sep.),to activate,different
+internet,einrichten (sep.),to set up,different

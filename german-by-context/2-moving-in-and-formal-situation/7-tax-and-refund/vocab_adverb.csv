@@ -1,10 +1,10 @@
-category,german,english
-time,bis zum 31. Juli,by 31 July
-time,rückwirkend,retroactively
-time,für das letzte Jahr,for last year
-time,für vier Jahre rückwirkend,up to four years back
-time,innerhalb eines Monats,within one month
-way,online über ELSTER,online via ELSTER
-way,per Post,by post
-amount,pro Jahr,per year
-amount,pro Arbeitstag,per working day
+category,german,english,similarity
+time,bis zum 31. Juli,by 31 July,different
+time,rückwirkend,retroactively,different
+time,für das letzte Jahr,for last year,different
+time,für vier Jahre rückwirkend,up to four years back,different
+time,innerhalb eines Monats,within one month,different
+amount,pro Arbeitstag,per working day,different
+way,online über ELSTER,online via ELSTER,cognate
+way,per Post,by post,cognate
+amount,pro Jahr,per year,cognate

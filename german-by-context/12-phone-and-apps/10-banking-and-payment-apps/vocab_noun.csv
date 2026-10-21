@@ -1,25 +1,25 @@
-category,german,english
-app,die Banking-App,banking app
-app,der Kontostand,balance
-app,die Umsätze,transactions
-app,die Überweisung,transfer
-app,die Echtzeitüberweisung,instant transfer
-app,der Empfänger,recipient
-app,die IBAN,IBAN
-app,der Verwendungszweck,payment reference
-app,der Betrag,amount
-app,die Freigabe,approval
-app,die pushTAN,push TAN (approval code)
-app,das Gerät,device
-app,das Limit,limit
-app,die Karte,card
-app,Apple Pay,Apple Pay
-paypal,das PayPal-Konto,PayPal account
-paypal,das Guthaben,balance
-paypal,Freunde und Familie,Friends and Family
-paypal,Waren und Dienstleistungen,Goods and Services
-paypal,der Käuferschutz,buyer protection
-paypal,die Zahlungsanforderung,payment request
-security,der Betrug,fraud
-security,die Phishing-Mail,phishing email
-security,die Sicherheitsfrage,security question
+category,german,english,similarity
+app,der Kontostand,balance,different
+app,die Umsätze,transactions,different
+app,die Überweisung,transfer,different
+app,die Echtzeitüberweisung,instant transfer,different
+app,der Empfänger,recipient,different
+app,der Verwendungszweck,payment reference,different
+app,der Betrag,amount,different
+app,die Freigabe,approval,different
+app,das Gerät,device,different
+paypal,das PayPal-Konto,PayPal account,different
+paypal,das Guthaben,balance,different
+paypal,Waren und Dienstleistungen,Goods and Services,different
+paypal,der Käuferschutz,buyer protection,different
+paypal,die Zahlungsanforderung,payment request,different
+security,der Betrug,fraud,different
+security,die Sicherheitsfrage,security question,different
+app,die Banking-App,banking app,cognate
+app,die IBAN,IBAN,cognate
+app,die pushTAN,push TAN (approval code),cognate
+app,das Limit,limit,cognate
+app,die Karte,card,cognate
+app,Apple Pay,Apple Pay,cognate
+paypal,Freunde und Familie,Friends and Family,cognate
+security,die Phishing-Mail,phishing email,cognate

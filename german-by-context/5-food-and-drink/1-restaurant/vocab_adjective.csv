@@ -1,41 +1,41 @@
-category,german,english
-taste,lecker,tasty
-taste,scharf,spicy
-taste,süß,sweet
-taste,salzig,salty
-taste,sauer,sour
-taste,kalt,cold
-taste,warm,warm
-diet,vegetarisch,vegetarian
-diet,vegan,vegan
-diet,die Allergie,allergy
-diet,glutenfrei,gluten-free
-diet,laktosefrei,lactose-free
-taste,bitter,bitter
-taste,mild,mild
-taste,fettig,greasy
-taste,frisch,fresh
-taste,heiß,hot (temperature)
-taste,würzig,well-seasoned
-quality,gut,good
-quality,schlecht,bad
-quality,ausgezeichnet,excellent
-quality,teuer,expensive
-quality,günstig,cheap / good value
-quality,voll,full (place) / full (stomach)
-quality,satt,full (not hungry)
-quality,hungrig,hungry
-quality,durstig,thirsty
-cooking,gebraten,fried / roasted
-cooking,frittiert,deep-fried
-cooking,gegrillt,grilled
-cooking,gekocht,boiled / cooked
-cooking,roh,raw
-cooking,durch,well done
-cooking,medium,medium
-cooking,blutig,rare
-size,groß,large
-size,klein,small
-availability,frei,free / available (table)
-availability,besetzt,taken / occupied
-availability,reserviert,reserved
+category,german,english,similarity
+taste,lecker,tasty,different
+taste,scharf,spicy,different
+taste,fettig,greasy,different
+taste,würzig,well-seasoned,different
+quality,schlecht,bad,different
+quality,ausgezeichnet,excellent,different
+quality,teuer,expensive,different
+quality,günstig,cheap / good value,different
+quality,satt,full (not hungry),different
+cooking,gebraten,fried / roasted,different
+cooking,frittiert,deep-fried,different
+cooking,gekocht,boiled / cooked,different
+cooking,roh,raw,different
+cooking,durch,well done,different
+cooking,blutig,rare,different
+size,groß,large,different
+size,klein,small,different
+availability,besetzt,taken / occupied,different
+taste,süß,sweet,cognate
+taste,salzig,salty,cognate
+taste,sauer,sour,cognate
+taste,kalt,cold,cognate
+taste,warm,warm,cognate
+diet,vegetarisch,vegetarian,cognate
+diet,vegan,vegan,cognate
+diet,die Allergie,allergy,cognate
+diet,glutenfrei,gluten-free,cognate
+diet,laktosefrei,lactose-free,cognate
+taste,bitter,bitter,cognate
+taste,mild,mild,cognate
+taste,frisch,fresh,cognate
+taste,heiß,hot (temperature),cognate
+quality,gut,good,cognate
+quality,voll,full (place) / full (stomach),cognate
+quality,hungrig,hungry,cognate
+quality,durstig,thirsty,cognate
+cooking,gegrillt,grilled,cognate
+cooking,medium,medium,cognate
+availability,frei,free / available (table),cognate
+availability,reserviert,reserved,cognate

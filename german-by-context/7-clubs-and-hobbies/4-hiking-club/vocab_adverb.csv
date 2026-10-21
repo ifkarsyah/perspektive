@@ -1,10 +1,10 @@
-category,german,english
-direction,bergauf,uphill
-direction,bergab,downhill
-direction,oben,at the top
-direction,unten,at the bottom
-direction,weiter,further on
-direction,zurück,back
-time,ungefähr vier Stunden,about four hours
-time,früh morgens,early in the morning
-time,bei Sonnenaufgang,at sunrise
+category,german,english,similarity
+direction,bergauf,uphill,different
+direction,bergab,downhill,different
+direction,oben,at the top,different
+direction,unten,at the bottom,different
+direction,weiter,further on,different
+direction,zurück,back,different
+time,ungefähr vier Stunden,about four hours,different
+time,früh morgens,early in the morning,different
+time,bei Sonnenaufgang,at sunrise,different

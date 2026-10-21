@@ -1,12 +1,12 @@
-category,german,english
-document,gültig,valid
-document,abgelaufen,expired
-document,vollständig,complete
-document,unvollständig,incomplete
-document,beglaubigt,certified
-document,übersetzt,translated
-document,anerkannt,recognised
-status,befristet,temporary
-status,unbefristet,permanent
-status,zuständig,responsible (office)
-status,dringend,urgent
+category,german,english,similarity
+document,gültig,valid,different
+document,abgelaufen,expired,different
+document,vollständig,complete,different
+document,unvollständig,incomplete,different
+document,beglaubigt,certified,different
+document,übersetzt,translated,different
+document,anerkannt,recognised,different
+status,befristet,temporary,different
+status,unbefristet,permanent,different
+status,zuständig,responsible (office),different
+status,dringend,urgent,different
