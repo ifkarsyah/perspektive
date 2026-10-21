@@ -1,0 +1,25 @@
+category,german,english
+app,die Banking-App,banking app
+app,der Kontostand,balance
+app,die Umsätze,transactions
+app,die Überweisung,transfer
+app,die Echtzeitüberweisung,instant transfer
+app,der Empfänger,recipient
+app,die IBAN,IBAN
+app,der Verwendungszweck,payment reference
+app,der Betrag,amount
+app,die Freigabe,approval
+app,die pushTAN,push TAN (approval code)
+app,das Gerät,device
+app,das Limit,limit
+app,die Karte,card
+app,Apple Pay,Apple Pay
+paypal,das PayPal-Konto,PayPal account
+paypal,das Guthaben,balance
+paypal,Freunde und Familie,Friends and Family
+paypal,Waren und Dienstleistungen,Goods and Services
+paypal,der Käuferschutz,buyer protection
+paypal,die Zahlungsanforderung,payment request
+security,der Betrug,fraud
+security,die Phishing-Mail,phishing email
+security,die Sicherheitsfrage,security question

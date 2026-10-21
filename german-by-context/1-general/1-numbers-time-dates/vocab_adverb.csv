@@ -1,0 +1,36 @@
+category,german,english
+day,heute,today
+day,morgen,tomorrow
+day,übermorgen,the day after tomorrow
+day,gestern,yesterday
+day,vorgestern,the day before yesterday
+day,montags,on Mondays
+part,morgens,in the morning
+part,vormittags,in the late morning
+part,mittags,at noon
+part,nachmittags,in the afternoon
+part,abends,in the evening
+part,nachts,at night
+when,jetzt,now
+when,gleich,in a moment
+when,bald,soon
+when,sofort,immediately
+when,vorher,before
+when,nachher,afterwards
+frequency,immer,always
+frequency,oft,often
+frequency,manchmal,sometimes
+frequency,selten,rarely
+frequency,nie,never
+frequency,einmal pro Woche,once a week
+prep,um 15 Uhr,at 3 pm
+prep,gegen 15 Uhr,around 3 pm
+prep,ab 15 Uhr,from 3 pm
+prep,bis 15 Uhr,until 3 pm
+prep,von 9 bis 17 Uhr,from 9 to 5
+prep,seit zwei Wochen,for two weeks (until now)
+prep,vor zwei Wochen,two weeks ago
+prep,in zwei Wochen,in two weeks
+prep,am Montag,on Monday
+prep,im Mai,in May
+prep,am 3. Mai,on 3 May

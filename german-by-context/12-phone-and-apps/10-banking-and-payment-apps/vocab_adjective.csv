@@ -1,0 +1,8 @@
+category,german,english
+status,erfolgreich,successful
+status,ausstehend,pending
+status,abgelehnt,declined
+status,gesperrt,blocked
+status,verdächtig,suspicious
+status,sicher,secure
+status,kostenlos,free

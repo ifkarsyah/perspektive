@@ -1,0 +1,10 @@
+category,german,english
+status,online,online
+status,zuletzt online,last seen
+status,gelesen,read
+status,zugestellt,delivered
+status,gesendet,sent
+status,ungelesen,unread
+status,stummgeschaltet,muted
+status,blockiert,blocked
+status,verschlüsselt,encrypted

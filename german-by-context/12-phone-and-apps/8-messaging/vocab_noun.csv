@@ -1,0 +1,32 @@
+category,german,english
+app,der Chat,chat
+app,die Nachricht,message
+app,die Sprachnachricht,voice message
+app,die Gruppe,group
+app,der Gruppenchat,group chat
+app,der Gruppenadmin,group admin
+app,die Community,community
+app,der Status,status
+app,die Updates,updates (WhatsApp)
+app,die Anrufe,calls
+app,der Videoanruf,video call
+app,der Kontakt,contact
+app,das Profilbild,profile picture
+app,die Medien,media
+app,der Standort,location
+app,der Live-Standort,live location
+app,die Umfrage,poll
+app,der Sticker,sticker
+app,das Emoji,emoji
+app,die Reaktion,reaction
+app,die Verschlüsselung,encryption
+abbreviation,lg (liebe Grüße),kind regards (casual)
+abbreviation,vg (viele Grüße),best regards
+abbreviation,vlt (vielleicht),maybe
+abbreviation,kp (kein Plan),no idea
+abbreviation,ka (keine Ahnung),no idea
+abbreviation,hdl (hab dich lieb),love you (friends / family)
+abbreviation,bb (bis bald),see you soon
+abbreviation,sry (sorry),sorry
+abbreviation,mmn (meiner Meinung nach),in my opinion
+abbreviation,wg (wegen),because of

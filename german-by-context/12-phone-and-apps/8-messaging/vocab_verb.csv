@@ -1,0 +1,22 @@
+category,german,english
+button,Antworten,Reply
+button,Weiterleiten,Forward
+button,Kopieren,Copy
+button,Löschen,Delete
+button,Für alle löschen,Delete for everyone
+button,Für mich löschen,Delete for me
+button,Anpinnen,Pin
+button,Archivieren,Archive
+button,Stummschalten,Mute
+button,Blockieren,Block
+button,Melden,Report
+button,Neue Gruppe,New group
+button,Mitglieder hinzufügen,Add members
+button,Gruppe verlassen,Exit group
+chat,schreiben,to text / write
+chat,antworten,to reply
+chat,eine Sprachnachricht schicken,to send a voice message
+chat,anrufen (sep.),to call
+chat,hinzufügen (sep.),to add
+chat,reagieren,to react
+chat,teilen,to share

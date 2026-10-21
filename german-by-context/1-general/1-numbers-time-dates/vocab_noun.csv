@@ -1,0 +1,79 @@
+category,german,english
+number,null,0
+number,eins,1
+number,zwei (zwo on the phone),2
+number,drei,3
+number,vier,4
+number,fünf,5
+number,sechs,6
+number,sieben,7
+number,acht,8
+number,neun,9
+number,zehn,10
+number,elf,11
+number,zwölf,12
+number,dreizehn,13
+number,sechzehn,16
+number,siebzehn,17
+number,zwanzig,20
+number,einundzwanzig,21 (one-and-twenty)
+number,dreißig,30
+number,vierzig,40
+number,fünfzig,50
+number,sechzig,60
+number,siebzig,70
+number,achtzig,80
+number,neunzig,90
+number,hundert,100
+number,hunderteins,101
+number,zweihundertfünfunddreißig,235
+number,tausend,"1,000"
+number,zweitausendsechsundzwanzig,2026
+number,die Million,million
+ordinal,der erste,the first
+ordinal,der zweite,the second
+ordinal,der dritte,the third
+ordinal,der siebte,the seventh
+ordinal,der zwanzigste,the twentieth
+fraction,die Hälfte,half
+fraction,das Viertel,quarter
+fraction,das Prozent,percent
+fraction,das Komma,decimal comma
+time,die Uhr,clock / o'clock
+time,die Uhrzeit,time (of day)
+time,die Sekunde,second
+time,die Minute,minute
+time,die Stunde,hour
+time,die Viertelstunde,quarter of an hour
+time,die halbe Stunde,half an hour
+day,der Tag,day
+day,der Montag,Monday
+day,der Dienstag,Tuesday
+day,der Mittwoch,Wednesday
+day,der Donnerstag,Thursday
+day,der Freitag,Friday
+day,der Samstag,Saturday
+day,der Sonntag,Sunday
+day,das Wochenende,weekend
+day,der Werktag,working day
+calendar,die Woche,week
+calendar,die Kalenderwoche (KW),calendar week
+calendar,der Monat,month
+calendar,das Jahr,year
+calendar,das Datum,date
+calendar,der Januar,January
+calendar,der Februar,February
+calendar,der März,March
+calendar,der April,April
+calendar,der Mai,May
+calendar,der Juni,June
+calendar,der Juli,July
+calendar,der August,August
+calendar,der September,September
+calendar,der Oktober,October
+calendar,der November,November
+calendar,der Dezember,December
+calendar,der Frühling,spring
+calendar,der Sommer,summer
+calendar,der Herbst,autumn
+calendar,der Winter,winter
