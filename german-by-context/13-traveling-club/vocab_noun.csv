@@ -1,0 +1,32 @@
+category,german,english
+trip,die Reise,trip
+trip,der Ausflug,day trip
+trip,der Urlaub,holiday
+trip,das Wochenende,weekend
+trip,das Ziel,destination
+trip,die Sehenswürdigkeit,sight / attraction
+trip,die Stadtführung,city tour
+trip,das Museum,museum
+trip,die Altstadt,old town
+trip,das Schloss,castle
+trip,der Strand,beach
+transport,die Bahn,train (Deutsche Bahn)
+transport,der Fernbus,long-distance bus
+transport,das Flugzeug,plane
+transport,der Flughafen,airport
+transport,die Mitfahrgelegenheit,carpool
+transport,die Sitzplatzreservierung,seat reservation
+transport,die Bahncard,rail discount card
+stay,die Unterkunft,accommodation
+stay,das Hotel,hotel
+stay,die Jugendherberge,youth hostel
+stay,die Ferienwohnung,holiday apartment
+stay,das Doppelzimmer,double room
+stay,das Einzelzimmer,single room
+stay,das Frühstück,breakfast
+plan,die Buchung,booking
+plan,die Kosten,costs
+plan,der Reisepass,passport
+plan,der Koffer,suitcase
+plan,das Gepäck,luggage
+plan,der Reiseplan,itinerary

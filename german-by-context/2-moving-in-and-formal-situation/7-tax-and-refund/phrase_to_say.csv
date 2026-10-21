@@ -1,0 +1,14 @@
+category,german,english
+id,Ich habe meine Steuer-ID noch nicht bekommen.,I haven't received my tax ID yet.
+id,Welche Steuerklasse habe ich?,Which tax class am I in?
+id,Ich bin ledig und habe keine Kinder.,I'm single and have no children.
+id,Ich bin aus der Kirche ausgetreten.,I've left the church. (no church tax)
+filing,Muss ich eine Steuererklärung machen?,Do I have to file a tax return?
+filing,Bis wann muss ich die Steuererklärung abgeben?,By when do I have to submit the tax return?
+filing,Kann ich meine Umzugskosten absetzen?,Can I deduct my moving costs?
+filing,Kann ich meinen Laptop als Arbeitsmittel absetzen?,Can I deduct my laptop as work equipment?
+filing,Ich habe im Homeoffice gearbeitet.,I worked from home.
+filing,Ich bin im Mai nach Deutschland gezogen.,I moved to Germany in May.
+result,Wann bekomme ich die Erstattung?,When will I get the refund?
+result,Ich verstehe den Steuerbescheid nicht.,I don't understand the tax assessment.
+result,Ich möchte Einspruch einlegen.,I'd like to file an objection.

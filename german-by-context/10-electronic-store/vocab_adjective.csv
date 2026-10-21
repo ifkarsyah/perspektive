@@ -1,0 +1,13 @@
+category,german,english
+device,neu,new
+device,gebraucht,used
+device,kabellos,wireless
+device,wasserdicht,waterproof
+device,leise,quiet
+device,laut,loud
+device,schnell,fast
+device,langsam,slow
+device,kompatibel,compatible
+problem,kaputt,broken
+problem,defekt,defective
+problem,leer,dead (battery)

@@ -1,0 +1,17 @@
+category,german,english
+arrival,"Einen Tisch für zwei, bitte.","A table for two, please."
+arrival,Ich habe einen Tisch auf den Namen ___ reserviert.,I reserved a table under the name ___.
+arrival,Ist hier noch frei?,Is this seat free?
+arrival,Können wir draußen sitzen?,Can we sit outside?
+ordering,"Die Speisekarte, bitte.","The menu, please."
+ordering,Ich hätte gern einen Kaffee.,I'd like a coffee.
+ordering,Was können Sie empfehlen?,What can you recommend?
+ordering,Ich nehme das Schnitzel mit Pommes.,I'll have the schnitzel with fries.
+ordering,Haben Sie etwas Vegetarisches?,Do you have something vegetarian?
+ordering,"Ohne Zwiebeln, bitte.","Without onions, please."
+ordering,Ich bin allergisch gegen Nüsse.,I'm allergic to nuts.
+ordering,"Ein Leitungswasser, bitte.","A tap water, please."
+ordering,"Zum Mitnehmen, bitte.","To take away, please."
+during,"Noch ein Bier, bitte.","Another beer, please."
+during,"Entschuldigung, das habe ich nicht bestellt.","Excuse me, I didn't order this."
+during,Es war sehr lecker.,It was very tasty.

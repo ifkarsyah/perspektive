@@ -1,0 +1,44 @@
+category,german,english
+store,das Möbelhaus,furniture store
+store,die Ausstellung,showroom
+store,das Lager,warehouse
+store,die Selbstbedienungshalle,self-service warehouse
+store,der Regalplatz,aisle and shelf location
+store,die Artikelnummer,item number
+store,der Lieferservice,delivery service
+store,der Aufbauservice,assembly service
+store,die Lieferung,delivery
+store,der Liefertermin,delivery date
+store,der Transporter,van
+furniture,das Sofa,sofa
+furniture,der Sessel,armchair
+furniture,der Tisch,table
+furniture,der Esstisch,dining table
+furniture,der Couchtisch,coffee table
+furniture,der Stuhl,chair
+furniture,das Bett,bed
+furniture,der Lattenrost,slatted bed base
+furniture,die Matratze,mattress
+furniture,der Kleiderschrank,wardrobe
+furniture,die Kommode,chest of drawers
+furniture,das Regal,shelf
+furniture,der Schreibtisch,desk
+furniture,der Bürostuhl,office chair
+furniture,der Spiegel,mirror
+furniture,die Lampe,lamp
+furniture,der Teppich,rug
+furniture,der Vorhang,curtain
+assembly,die Aufbauanleitung,assembly instructions
+assembly,die Schraube,screw
+assembly,der Dübel,wall plug
+assembly,der Inbusschlüssel,Allen key
+assembly,der Schraubenzieher,screwdriver
+assembly,die Bohrmaschine,drill
+assembly,der Karton,cardboard box
+material,das Holz,wood
+material,das Metall,metal
+material,der Stoff,fabric
+material,das Leder,leather
+size,die Breite,width
+size,die Höhe,height
+size,die Tiefe,depth

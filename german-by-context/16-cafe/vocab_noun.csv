@@ -1,0 +1,44 @@
+category,german,english
+place,das Café,café
+place,die Bäckerei,bakery
+place,die Theke,counter
+place,der Tresen,bar counter
+place,die Selbstbedienung,self-service
+place,die Terrasse,terrace
+place,der Platz,seat
+place,die Steckdose,power socket
+place,das WLAN,Wi-Fi
+place,das Passwort,password
+place,die Toilette,toilet
+coffee,der Kaffee,coffee
+coffee,der Espresso,espresso
+coffee,der Cappuccino,cappuccino
+coffee,der Latte macchiato,latte macchiato
+coffee,der Milchkaffee,large coffee with milk
+coffee,der Filterkaffee,filter coffee
+coffee,der Eiskaffee,iced coffee (with ice cream)
+coffee,der Iced Latte,iced latte
+coffee,der Kakao,hot chocolate
+coffee,der Tee,tea
+coffee,der Pfefferminztee,peppermint tea
+coffee,die Tasse,cup
+coffee,der Becher,mug / to-go cup
+coffee,der Mehrwegbecher,reusable cup
+milk,die Milch,milk
+milk,die Hafermilch,oat milk
+milk,die Sojamilch,soy milk
+milk,der Zucker,sugar
+milk,der Süßstoff,sweetener
+milk,die Sahne,cream
+food,der Kuchen,cake
+food,die Torte,layered cake / gâteau
+food,der Käsekuchen,cheesecake
+food,das Croissant,croissant
+food,das Franzbrötchen,cinnamon pastry
+food,die Brezel,pretzel
+food,das belegte Brötchen,filled roll
+food,das Stück,piece / slice
+food,das Frühstück,breakfast
+food,das Müsli,muesli
+food,das Rührei,scrambled eggs
+food,der Bagel,bagel

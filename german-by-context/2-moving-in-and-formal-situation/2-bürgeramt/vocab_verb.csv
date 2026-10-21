@@ -1,0 +1,16 @@
+category,german,english
+appointment,buchen,to book
+appointment,vereinbaren,to arrange (appointment)
+appointment,warten,to wait
+appointment,aufrufen (sep.),to call (a number)
+process,sich anmelden (sep.),to register
+process,sich abmelden (sep.),to deregister
+process,sich ummelden (sep.),to change registered address
+process,beantragen,to apply for
+process,verlängern,to extend
+document,ausfüllen (sep.),to fill out
+document,unterschreiben,to sign
+document,mitbringen (sep.),to bring along
+document,vorlegen (sep.),to present (a document)
+document,abgeben (sep.),to hand in
+document,schicken,to send

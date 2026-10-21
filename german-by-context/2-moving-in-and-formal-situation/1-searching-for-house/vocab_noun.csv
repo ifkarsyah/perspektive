@@ -1,0 +1,36 @@
+category,german,english
+listing,die Wohnung,apartment
+listing,das WG-Zimmer,room in a shared flat
+listing,die WG,shared flat
+listing,die Anzeige,listing / ad
+listing,die Besichtigung,viewing
+listing,die Bewerbung,application
+people,der Vermieter,landlord
+people,die Vermieterin,landlady
+people,der Mieter,tenant
+people,der Nachmieter,next tenant
+people,der Mitbewohner,flatmate (m)
+people,die Mitbewohnerin,flatmate (f)
+people,der Makler,real estate agent
+apartment,das Zimmer,room
+apartment,der Quadratmeter,square meter
+apartment,die Etage,floor (level)
+apartment,das Erdgeschoss,ground floor
+apartment,der Altbau,old building
+apartment,der Neubau,new building
+apartment,der Balkon,balcony
+apartment,der Aufzug,elevator
+apartment,der Keller,basement storage
+apartment,die Einbauküche,fitted kitchen
+cost,die Miete,rent
+cost,die Kaltmiete,rent without utilities
+cost,die Warmmiete,rent including utilities
+cost,die Nebenkosten,utilities / extra costs
+cost,die Kaution,deposit
+cost,die Provision,agent fee
+document,der Mietvertrag,rental contract
+document,die SCHUFA-Auskunft,credit report
+document,die Mietschuldenfreiheitsbescheinigung,proof of no rent debt
+document,der Gehaltsnachweis,proof of income
+document,der Arbeitsvertrag,employment contract
+document,die Wohnungsgeberbestätigung,landlord confirmation (for Anmeldung)

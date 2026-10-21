@@ -1,0 +1,35 @@
+category,german,english
+office,das Finanzamt,tax office
+office,der Steuerberater,tax advisor
+office,der Lohnsteuerhilfeverein,tax help association
+office,ELSTER,online tax portal
+id,die Steuer-ID,tax ID (personal)
+id,die Steuernummer,tax number
+id,die Steuerklasse,tax class
+tax,die Steuer,tax
+tax,die Lohnsteuer,income tax (from salary)
+tax,die Einkommensteuer,income tax
+tax,die Kirchensteuer,church tax
+tax,der Solidaritätszuschlag,solidarity surcharge
+tax,die Sozialversicherung,social security
+tax,die Rentenversicherung,pension insurance
+tax,die Arbeitslosenversicherung,unemployment insurance
+document,die Steuererklärung,tax return
+document,der Steuerbescheid,tax assessment
+document,die Lohnsteuerbescheinigung,annual salary tax statement
+document,die Gehaltsabrechnung,payslip
+document,der Beleg,receipt / proof
+document,die Frist,deadline
+document,der Einspruch,objection
+money,das Bruttogehalt,gross salary
+money,das Nettogehalt,net salary
+money,die Erstattung,refund
+money,die Nachzahlung,additional payment
+money,die Rückzahlung,repayment
+deduction,die Werbungskosten,work-related expenses
+deduction,die Umzugskosten,moving costs
+deduction,die Homeoffice-Pauschale,home office allowance
+deduction,die Arbeitsmittel,work equipment
+deduction,die Fahrtkosten,commuting costs
+deduction,die Pendlerpauschale,commuter allowance
+deduction,die Sonderausgaben,special expenses

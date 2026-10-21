@@ -1,0 +1,28 @@
+category,german,english
+device,das Handy,mobile phone
+device,das Ladegerät,charger
+device,die SIM-Karte,SIM card
+device,die eSIM,eSIM
+device,die PIN,PIN
+device,die PUK,PUK
+contract,der Anbieter,provider
+contract,der Handyvertrag,phone contract
+contract,der Prepaid-Tarif,prepaid plan
+contract,der Tarif,plan
+contract,die Laufzeit,contract term
+contract,die Kündigungsfrist,notice period
+contract,die Rufnummer,phone number
+contract,die Rufnummernmitnahme,number porting
+contract,die Identifizierung,identity verification
+contract,der Ausweis,ID
+usage,das Datenvolumen,data allowance
+usage,das Guthaben,credit (prepaid)
+usage,die Aufladung,top-up
+usage,die Flatrate,unlimited plan
+usage,das Netz,network
+usage,der Empfang,reception
+usage,das Roaming,roaming
+internet,das WLAN,Wi-Fi
+internet,der Router,router
+internet,der Internetanschluss,internet connection
+internet,der Techniker,technician

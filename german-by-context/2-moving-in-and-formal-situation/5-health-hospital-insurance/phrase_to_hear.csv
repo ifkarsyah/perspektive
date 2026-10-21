@@ -1,0 +1,47 @@
+category,german,english
+reception,Haben Sie einen Termin?,Do you have an appointment?
+reception,Waren Sie schon einmal bei uns?,Have you been here before?
+reception,"Ihre Versichertenkarte, bitte.","Your insurance card, please."
+reception,Sind Sie gesetzlich oder privat versichert?,Are you publicly or privately insured?
+reception,Bei welcher Krankenkasse sind Sie?,Which health insurer are you with?
+reception,Füllen Sie bitte diesen Bogen aus.,Please fill out this form.
+reception,Nehmen Sie bitte im Wartezimmer Platz.,Please take a seat in the waiting room.
+reception,Sie werden gleich aufgerufen.,You'll be called shortly.
+reception,"Herr / Frau ___, bitte!","Mr / Ms ___, please! (your turn)"
+reception,Wir nehmen leider keine neuen Patienten auf.,Unfortunately we're not taking new patients.
+reception,Der nächste freie Termin ist am ___.,The next free appointment is on ___.
+reception,Kommen Sie in die offene Sprechstunde.,Come during walk-in hours.
+reception,Bitte buchen Sie online über Doctolib.,Please book online via Doctolib.
+doctor,Was kann ich für Sie tun?,What can I do for you?
+doctor,Was fehlt Ihnen?,What's wrong?
+doctor,Seit wann haben Sie die Beschwerden?,Since when have you had the symptoms?
+doctor,Wo tut es weh?,Where does it hurt?
+doctor,Tut das weh?,Does that hurt?
+doctor,Haben Sie Fieber?,Do you have a fever?
+doctor,Nehmen Sie Medikamente?,Do you take any medication?
+doctor,Haben Sie Allergien?,Do you have any allergies?
+doctor,Machen Sie bitte den Oberkörper frei.,Please undress your upper body.
+doctor,Legen Sie sich bitte hin.,Please lie down.
+doctor,Atmen Sie tief ein. Und wieder aus.,Breathe in deeply. And out again.
+doctor,Machen Sie bitte den Mund auf.,Please open your mouth.
+doctor,Ich schreibe Ihnen ein Rezept.,I'll write you a prescription.
+doctor,Ich schreibe Sie bis Freitag krank.,I'll sign you off sick until Friday.
+doctor,Ich überweise Sie zum Facharzt.,I'll refer you to a specialist.
+doctor,Kommen Sie in einer Woche wieder.,Come back in a week.
+doctor,Gute Besserung!,Get well soon!
+pharmacy,Haben Sie ein Rezept?,Do you have a prescription?
+pharmacy,Das ist verschreibungspflichtig.,That needs a prescription.
+pharmacy,Nehmen Sie dreimal täglich eine Tablette.,Take one tablet three times a day.
+pharmacy,Das müssen wir bestellen.,We have to order that.
+pharmacy,Sie können es heute Nachmittag abholen.,You can pick it up this afternoon.
+pharmacy,Die Zuzahlung beträgt fünf Euro.,The co-payment is five euros.
+emergency,Wo genau ist der Notfall?,Where exactly is the emergency?
+emergency,Was ist passiert?,What happened?
+emergency,Wie viele Personen sind verletzt?,How many people are injured?
+emergency,Ist die Person bei Bewusstsein?,Is the person conscious?
+emergency,Bleiben Sie am Telefon.,Stay on the line.
+emergency,Der Rettungswagen ist unterwegs.,The ambulance is on its way.
+insurance,Sie sind ab dem ersten des Monats versichert.,You're insured from the first of the month.
+insurance,Wir brauchen Ihre Rentenversicherungsnummer.,We need your pension insurance number.
+insurance,Bitte schicken Sie uns ein Passfoto.,Please send us a passport photo.
+insurance,Ihre Karte wird Ihnen per Post zugeschickt.,Your card will be sent to you by mail.

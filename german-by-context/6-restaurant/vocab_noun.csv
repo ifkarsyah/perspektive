@@ -1,0 +1,67 @@
+category,german,english
+meta,die Speisekarte,menu
+meta,die Getränkekarte,drinks menu
+meta,die Vorspeise,starter
+meta,die Hauptspeise,main course
+meta,die Nachspeise,dessert
+meta,die Beilage,side dish
+meta,das Tagesgericht,dish of the day
+meta,der Mittagstisch,lunch special
+meta,die Reservierung,reservation
+meta,der Tisch,table
+meta,die Bestellung,order
+meta,die Portion,portion
+meat,das Hähnchen,chicken
+meat,das Rindfleisch,beef
+meat,das Schweinefleisch,pork
+meat,das Lammfleisch,lamb
+meat,das Schnitzel,schnitzel
+meat,die Wurst,sausage
+meat,das Steak,steak
+meat,der Speck,bacon
+people,der Kellner,waiter
+people,die Kellnerin,waitress
+people,der Koch,cook
+people,der Gast,guest
+fish,der Fisch,fish
+fish,der Lachs,salmon
+fish,der Thunfisch,tuna
+fish,die Garnelen,prawns
+vegetables,das Gemüse,vegetables
+vegetables,der Salat,salad
+vegetables,die Kartoffel,potato
+vegetables,die Tomate,tomato
+vegetables,die Zwiebel,onion
+vegetables,der Knoblauch,garlic
+vegetables,die Pilze,mushrooms
+vegetables,die Paprika,bell pepper
+side,die Pommes,fries
+side,der Reis,rice
+side,die Nudeln,noodles / pasta
+side,das Brot,bread
+side,das Brötchen,bread roll
+side,die Suppe,soup
+side,die Soße,sauce
+side,das Ei,egg
+side,der Käse,cheese
+drinks,das Wasser,water
+drinks,das Mineralwasser,sparkling water
+drinks,stilles Wasser,still water
+drinks,das Leitungswasser,tap water
+drinks,der Saft,juice
+drinks,die Apfelschorle,apple juice spritzer
+drinks,das Bier,beer
+drinks,der Wein,wine
+drinks,der Kaffee,coffee
+drinks,der Tee,tea
+drinks,die Milch,milk
+dessert,der Kuchen,cake
+dessert,das Eis,ice cream
+dessert,der Apfelstrudel,apple strudel
+tableware,der Teller,plate
+tableware,das Glas,glass
+tableware,die Tasse,cup
+tableware,die Gabel,fork
+tableware,das Messer,knife
+tableware,der Löffel,spoon
+tableware,die Serviette,napkin

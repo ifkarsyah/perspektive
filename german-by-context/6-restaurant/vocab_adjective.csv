@@ -1,0 +1,41 @@
+category,german,english
+taste,lecker,tasty
+taste,scharf,spicy
+taste,süß,sweet
+taste,salzig,salty
+taste,sauer,sour
+taste,kalt,cold
+taste,warm,warm
+diet,vegetarisch,vegetarian
+diet,vegan,vegan
+diet,die Allergie,allergy
+diet,glutenfrei,gluten-free
+diet,laktosefrei,lactose-free
+taste,bitter,bitter
+taste,mild,mild
+taste,fettig,greasy
+taste,frisch,fresh
+taste,heiß,hot (temperature)
+taste,würzig,well-seasoned
+quality,gut,good
+quality,schlecht,bad
+quality,ausgezeichnet,excellent
+quality,teuer,expensive
+quality,günstig,cheap / good value
+quality,voll,full (place) / full (stomach)
+quality,satt,full (not hungry)
+quality,hungrig,hungry
+quality,durstig,thirsty
+cooking,gebraten,fried / roasted
+cooking,frittiert,deep-fried
+cooking,gegrillt,grilled
+cooking,gekocht,boiled / cooked
+cooking,roh,raw
+cooking,durch,well done
+cooking,medium,medium
+cooking,blutig,rare
+size,groß,large
+size,klein,small
+availability,frei,free / available (table)
+availability,besetzt,taken / occupied
+availability,reserviert,reserved

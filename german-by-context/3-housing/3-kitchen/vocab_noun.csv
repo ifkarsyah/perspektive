@@ -1,0 +1,30 @@
+category,german,english
+appliance,die Küche,kitchen
+appliance,der Kühlschrank,fridge
+appliance,das Gefrierfach,freezer compartment
+appliance,der Herd,stove
+appliance,der Backofen,oven
+appliance,die Mikrowelle,microwave
+appliance,der Wasserkocher,kettle
+appliance,die Kaffeemaschine,coffee machine
+appliance,die Spülmaschine,dishwasher
+appliance,die Spüle,kitchen sink
+cookware,die Pfanne,pan
+cookware,der Topf,pot
+cookware,das Schneidebrett,cutting board
+cookware,die Schüssel,bowl
+cookware,das Geschirr,dishes
+cookware,das Besteck,cutlery
+furniture,der Schrank,cupboard
+furniture,die Schublade,drawer
+furniture,die Arbeitsplatte,countertop
+cleaning,der Schwamm,sponge
+cleaning,das Spülmittel,dish soap
+cleaning,das Geschirrtuch,dish towel
+waste,der Mülleimer,bin
+waste,der Restmüll,general waste
+waste,der Biomüll,organic waste
+waste,das Altpapier,paper waste
+waste,die Gelbe Tonne,packaging bin
+waste,das Altglas,glass recycling
+waste,das Pfand,bottle deposit

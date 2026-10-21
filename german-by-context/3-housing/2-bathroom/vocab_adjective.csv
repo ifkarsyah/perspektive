@@ -1,0 +1,11 @@
+category,german,english
+state,sauber,clean
+state,schmutzig,dirty
+state,nass,wet
+state,trocken,dry
+state,rutschig,slippery
+water,heiß,hot
+water,kalt,cold
+problem,verstopft,clogged
+problem,kaputt,broken
+problem,schimmelig,mouldy

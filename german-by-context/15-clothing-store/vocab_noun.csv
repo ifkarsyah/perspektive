@@ -1,0 +1,48 @@
+category,german,english
+store,das Bekleidungsgeschäft,clothing store
+store,das Kaufhaus,department store
+store,der Secondhandladen,second-hand shop
+store,der Flohmarkt,flea market
+store,die Abteilung,department
+store,die Damenabteilung,women's section
+store,die Herrenabteilung,men's section
+store,die Umkleidekabine,fitting room
+store,der Spiegel,mirror
+store,der Kleiderbügel,hanger
+store,das Schaufenster,shop window
+store,der Ausverkauf,clearance sale
+store,der Schlussverkauf,end-of-season sale
+store,das Etikett,label / tag
+store,die Größe,size
+clothes,das Hemd,shirt
+clothes,das T-Shirt,T-shirt
+clothes,die Bluse,blouse
+clothes,der Pullover,sweater
+clothes,der Hoodie,hoodie
+clothes,die Hose,trousers
+clothes,die Jeans,jeans
+clothes,die kurze Hose,shorts
+clothes,der Rock,skirt
+clothes,das Kleid,dress
+clothes,die Jacke,jacket
+clothes,der Mantel,coat
+clothes,die Winterjacke,winter jacket
+clothes,der Anzug,suit
+clothes,die Unterwäsche,underwear
+clothes,die Socken,socks
+accessory,der Schal,scarf
+accessory,die Mütze,beanie
+accessory,die Handschuhe,gloves
+accessory,der Gürtel,belt
+accessory,die Tasche,bag / pocket
+shoes,die Schuhe,shoes
+shoes,die Turnschuhe,sneakers
+shoes,die Stiefel,boots
+shoes,die Schuhgröße,shoe size
+detail,der Ärmel,sleeve
+detail,der Reißverschluss,zip
+detail,der Knopf,button
+material,die Baumwolle,cotton
+material,die Wolle,wool
+material,das Leder,leather
+material,der Stoff,fabric

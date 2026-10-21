@@ -1,0 +1,46 @@
+category,german,english
+reception,"Guten Tag, ich hätte gern einen Termin.","Hello, I would like an appointment."
+reception,Ich bin neu in Berlin und suche einen Hausarzt.,I'm new in Berlin and looking for a GP.
+reception,Nehmen Sie neue Patienten auf?,Are you taking new patients?
+reception,Haben Sie diese Woche noch einen Termin frei?,Do you have a free appointment this week?
+reception,Es ist dringend.,It's urgent.
+reception,Ich habe um zehn Uhr einen Termin.,I have an appointment at ten.
+reception,Mein Name ist ___.,My name is ___.
+reception,Ich war noch nie hier.,I've never been here before.
+reception,Ich bin bei der TK gesetzlich versichert.,I have public insurance with TK.
+reception,Hier ist meine Versichertenkarte.,Here is my insurance card.
+reception,Sprechen Sie Englisch?,Do you speak English?
+symptom,Mir geht es nicht gut.,I'm not feeling well.
+symptom,Ich habe seit drei Tagen Fieber.,I've had a fever for three days.
+symptom,Ich habe Kopfschmerzen.,I have a headache.
+symptom,Ich habe Halsschmerzen und Husten.,I have a sore throat and a cough.
+symptom,Mein Rücken tut weh.,My back hurts.
+symptom,Es tut hier weh.,It hurts here.
+symptom,Mir ist schwindelig.,I feel dizzy.
+symptom,Mir ist übel.,I feel nauseous.
+symptom,Ich habe mich erkältet.,I caught a cold.
+symptom,Es wird schlimmer.,It's getting worse.
+symptom,Ich bin allergisch gegen Penicillin.,I'm allergic to penicillin.
+symptom,Ich nehme keine Medikamente.,I don't take any medication.
+symptom,Ich nehme regelmäßig ___.,I regularly take ___.
+work,Ich brauche eine Krankschreibung für meinen Arbeitgeber.,I need a sick note for my employer.
+work,Wie lange bin ich krankgeschrieben?,How long am I signed off sick?
+work,Ich brauche eine Überweisung zum Facharzt.,I need a referral to a specialist.
+pharmacy,Ich habe ein Rezept.,I have a prescription.
+pharmacy,Haben Sie etwas gegen Kopfschmerzen?,Do you have something for a headache?
+pharmacy,Brauche ich dafür ein Rezept?,Do I need a prescription for this?
+pharmacy,Wie oft muss ich das nehmen?,How often do I have to take this?
+pharmacy,Gibt es Nebenwirkungen?,Are there side effects?
+emergency,Es ist ein Notfall.,It's an emergency.
+emergency,Bitte rufen Sie einen Krankenwagen!,Please call an ambulance!
+emergency,Ich brauche einen Arzt.,I need a doctor.
+emergency,Die Person ist bewusstlos.,The person is unconscious.
+emergency,Meine Adresse ist ___.,My address is ___.
+emergency,Wo ist die Notaufnahme?,Where is the emergency room?
+insurance,Ich möchte Mitglied werden.,I'd like to become a member.
+insurance,Ab wann bin ich versichert?,From when am I insured?
+insurance,Wie hoch ist der Beitrag?,How much is the contribution?
+insurance,Ich brauche eine Mitgliedsbescheinigung für meinen Arbeitgeber.,I need a membership certificate for my employer.
+insurance,Ich habe meine Versichertenkarte noch nicht bekommen.,I haven't received my insurance card yet.
+understanding,Können Sie das bitte langsamer sagen?,"Could you say that more slowly, please?"
+understanding,Können Sie das bitte aufschreiben?,"Could you write that down, please?"

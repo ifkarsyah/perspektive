@@ -1,0 +1,17 @@
+category,german,english
+furnishing,möbliert,furnished
+furnishing,unmöbliert,unfurnished
+furnishing,renoviert,renovated
+look,hell,bright
+look,dunkel,dark
+look,groß,big
+look,klein,small
+look,ruhig,quiet
+look,laut,noisy
+location,zentral,central
+location,gut angebunden,well connected (transport)
+contract,befristet,fixed-term
+contract,unbefristet,permanent
+contract,frei,available
+cost,günstig,affordable
+cost,teuer,expensive

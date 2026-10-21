@@ -1,0 +1,26 @@
+category,german,english
+account,die Bank,bank
+account,die Filiale,branch
+account,der Berater,advisor
+account,das Konto,account
+account,das Girokonto,checking account
+account,das Sparkonto,savings account
+account,die IBAN,IBAN
+account,die BIC,BIC
+account,der Kontostand,balance
+account,der Kontoauszug,bank statement
+account,die Kontoführungsgebühr,account fee
+card,die Girocard,debit card (EC card)
+card,die Kreditkarte,credit card
+card,der Geldautomat,ATM
+card,die PIN,PIN
+card,das Bargeld,cash
+transfer,die Überweisung,bank transfer
+transfer,der Dauerauftrag,standing order
+transfer,die Lastschrift,direct debit
+transfer,der Betrag,amount
+transfer,der Empfänger,recipient
+transfer,der Verwendungszweck,payment reference
+online,das Online-Banking,online banking
+online,die App,app
+online,die TAN,transaction code

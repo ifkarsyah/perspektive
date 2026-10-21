@@ -1,0 +1,40 @@
+category,german,english
+bike,das Fahrrad,bicycle
+bike,das Rennrad,road bike
+bike,das Mountainbike,mountain bike
+bike,das Gravelbike,gravel bike
+bike,das E-Bike,e-bike
+bike,der Rahmen,frame
+bike,der Lenker,handlebar
+bike,der Sattel,saddle
+bike,das Pedal,pedal
+bike,die Kette,chain
+bike,die Gangschaltung,gears
+bike,die Bremse,brake
+bike,der Reifen,tyre
+bike,der Schlauch,inner tube
+bike,das Ventil,valve
+bike,das Licht,light
+bike,die Klingel,bell
+gear,der Helm,helmet
+gear,die Radhose,cycling shorts
+gear,das Trikot,jersey
+gear,die Handschuhe,gloves
+gear,die Trinkflasche,water bottle
+gear,die Luftpumpe,pump
+gear,das Flickzeug,puncture repair kit
+gear,das Schloss,lock
+ride,die Ausfahrt,group ride
+ride,die Tour,tour
+ride,die Strecke,route
+ride,der Radweg,bike lane
+ride,der Treffpunkt,meeting point
+ride,die Pause,break
+ride,der Platten,flat tyre
+ride,der Anstieg,climb
+ride,die Abfahrt,descent
+ride,der Gegenwind,headwind
+ride,der Kilometer,kilometre
+club,der Verein,club
+club,das Mitglied,member
+club,der Mitgliedsbeitrag,membership fee

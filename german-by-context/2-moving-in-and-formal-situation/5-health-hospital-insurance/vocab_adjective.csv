@@ -1,0 +1,17 @@
+category,german,english
+health,krank,sick
+health,gesund,healthy
+health,erkältet,having a cold
+health,schwanger,pregnant
+health,allergisch gegen,allergic to
+feeling,schwindelig,dizzy
+feeling,müde,tired
+feeling,schwach,weak
+feeling,übel,nauseous
+pain,stark,strong / severe
+pain,leicht,mild
+pain,dringend,urgent
+pain,gebrochen,broken (bone)
+pain,geschwollen,swollen
+insurance,gesetzlich versichert,publicly insured
+insurance,privat versichert,privately insured

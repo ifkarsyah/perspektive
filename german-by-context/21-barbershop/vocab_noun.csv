@@ -1,0 +1,32 @@
+category,german,english
+shop,der Friseur,hairdresser
+shop,der Barbier,barber
+shop,der Barbershop,barbershop
+shop,der Termin,appointment
+shop,die Wartezeit,waiting time
+cut,der Haarschnitt,haircut
+cut,die Frisur,hairstyle
+cut,die Seiten,sides
+cut,der Oberkopf,top of the head
+cut,der Hinterkopf,back of the head
+cut,der Nacken,neck / nape
+cut,der Pony,fringe
+cut,der Scheitel,parting
+cut,der Übergang,fade / transition
+cut,der Fade,fade
+cut,die Spitzen,ends (of the hair)
+cut,die Locken,curls
+tool,die Schere,scissors
+tool,die Haarschneidemaschine,clippers
+tool,der Aufsatz,clipper guard
+tool,der Kamm,comb
+tool,das Rasiermesser,straight razor
+tool,der Föhn,hair dryer
+tool,das Haarwachs,hair wax
+tool,das Gel,gel
+beard,der Bart,beard
+beard,der Schnurrbart,moustache
+beard,die Kontur,line-up / edges
+beard,die Augenbrauen,eyebrows
+service,das Waschen,washing
+service,die Rasur,shave

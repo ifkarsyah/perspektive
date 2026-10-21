@@ -1,0 +1,61 @@
+category,german,english
+insurance,die Krankenversicherung,health insurance
+insurance,die Krankenkasse,health insurance provider
+insurance,die gesetzliche Krankenversicherung,public health insurance
+insurance,die private Krankenversicherung,private health insurance
+insurance,die Versichertenkarte,health insurance card
+insurance,die Versicherungsnummer,insurance number
+insurance,der Beitrag,contribution (monthly fee)
+insurance,die Haftpflichtversicherung,personal liability insurance
+doctor,die Arztpraxis,doctor's office
+doctor,der Hausarzt,general practitioner
+doctor,der Facharzt,specialist
+doctor,der Zahnarzt,dentist
+doctor,der Frauenarzt,gynaecologist
+doctor,der Augenarzt,eye doctor
+doctor,die Sprechstunde,consultation hours
+doctor,der Termin,appointment
+doctor,das Wartezimmer,waiting room
+doctor,die Überweisung,referral
+doctor,das Rezept,prescription
+doctor,die Krankschreibung,sick note
+doctor,die Arbeitsunfähigkeitsbescheinigung,official sick note (AU)
+hospital,das Krankenhaus,hospital
+hospital,die Notaufnahme,emergency room
+hospital,der Notruf,emergency call (112)
+hospital,der Krankenwagen,ambulance
+hospital,der ärztliche Bereitschaftsdienst,out-of-hours doctor (116117)
+hospital,die Station,ward
+hospital,die Operation,surgery
+hospital,die Spritze,injection
+hospital,die Impfung,vaccination
+hospital,die Blutabnahme,blood test
+symptom,die Schmerzen,pain
+symptom,das Fieber,fever
+symptom,der Husten,cough
+symptom,der Schnupfen,runny nose / cold
+symptom,die Erkältung,cold
+symptom,die Grippe,flu
+symptom,die Kopfschmerzen,headache
+symptom,die Bauchschmerzen,stomach ache
+symptom,die Halsschmerzen,sore throat
+symptom,der Durchfall,diarrhoea
+symptom,die Übelkeit,nausea
+symptom,die Allergie,allergy
+symptom,die Verletzung,injury
+body,der Kopf,head
+body,der Hals,throat / neck
+body,der Bauch,stomach
+body,der Rücken,back
+body,die Brust,chest
+body,der Arm,arm
+body,das Bein,leg
+body,die Hand,hand
+body,der Fuß,foot
+body,das Auge,eye
+body,das Ohr,ear
+body,der Zahn,tooth
+medicine,das Medikament,medicine
+medicine,die Tablette,pill
+medicine,die Apotheke,pharmacy
+medicine,die Nebenwirkung,side effect

@@ -1,0 +1,13 @@
+category,german,english
+status,steuerpflichtig,liable to tax
+status,ledig,single
+status,verheiratet,married
+status,konfessionslos,without religious affiliation
+status,unbeschränkt steuerpflichtig,fully tax resident
+document,fällig,due
+document,abzugsfähig,deductible
+document,freiwillig,voluntary
+document,verpflichtet,obliged
+amount,brutto,gross
+amount,netto,net
+amount,jährlich,annual

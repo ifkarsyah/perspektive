@@ -1,0 +1,11 @@
+category,german,english
+document,gültig,valid
+document,abgelaufen,expired
+document,vollständig,complete
+document,nötig,necessary
+document,erforderlich,required
+document,fertig,ready / done
+status,ledig,single
+status,verheiratet,married
+status,geschieden,divorced
+status,neu,new

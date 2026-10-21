@@ -1,0 +1,26 @@
+category,german,english
+fixture,das Badezimmer,bathroom
+fixture,die Toilette,toilet
+fixture,das Waschbecken,sink
+fixture,die Dusche,shower
+fixture,die Badewanne,bathtub
+fixture,der Wasserhahn,tap
+fixture,der Abfluss,drain
+fixture,der Spiegel,mirror
+fixture,der Mülleimer,bin
+hygiene,das Handtuch,towel
+hygiene,die Seife,soap
+hygiene,das Shampoo,shampoo
+hygiene,das Duschgel,shower gel
+hygiene,die Zahnbürste,toothbrush
+hygiene,die Zahnpasta,toothpaste
+hygiene,das Toilettenpapier,toilet paper
+hygiene,der Föhn,hair dryer
+hygiene,der Rasierer,razor
+laundry,die Waschmaschine,washing machine
+laundry,der Trockner,dryer
+laundry,der Wäscheständer,drying rack
+laundry,das Waschmittel,detergent
+laundry,die Wäsche,laundry
+problem,das Warmwasser,hot water
+problem,der Schimmel,mould

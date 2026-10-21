@@ -1,0 +1,49 @@
+category,german,english
+gear,der Ski,ski
+gear,das Snowboard,snowboard
+gear,der Skistock,ski pole
+gear,der Skischuh,ski boot
+gear,die Bindung,binding
+gear,der Helm,helmet
+gear,die Skibrille,ski goggles
+gear,die Skijacke,ski jacket
+gear,die Skihose,ski trousers
+gear,die Handschuhe,gloves
+gear,die Thermounterwäsche,thermal underwear
+gear,der Skiverleih,ski rental
+gear,die Schuhgröße,shoe size
+mountain,das Skigebiet,ski resort
+mountain,die Piste,slope
+mountain,die blaue Piste,easy slope (blue)
+mountain,die rote Piste,intermediate slope (red)
+mountain,die schwarze Piste,difficult slope (black)
+mountain,die Abfahrt,run / descent
+mountain,der Tiefschnee,powder snow
+mountain,der Kunstschnee,artificial snow
+mountain,die Loipe,cross-country trail
+mountain,der Gipfel,summit
+mountain,das Tal,valley
+mountain,die Talstation,bottom lift station
+mountain,die Bergstation,top lift station
+lift,der Lift,lift
+lift,der Sessellift,chairlift
+lift,der Schlepplift,drag lift
+lift,die Gondel,gondola
+lift,der Skipass,ski pass
+lift,die Tageskarte,day pass
+lift,die Schlange,queue
+lesson,die Skischule,ski school
+lesson,der Skikurs,ski course
+lesson,der Skilehrer,ski instructor
+lesson,der Anfänger,beginner
+lesson,der Pflug,snowplough (technique)
+lesson,die Kurve,turn
+social,die Hütte,mountain hut
+social,das Après-Ski,après-ski
+social,der Glühwein,mulled wine
+social,die Skifreizeit,ski trip (group)
+social,die Busreise,bus trip
+weather,der Schnee,snow
+weather,der Nebel,fog
+weather,die Lawine,avalanche
+weather,die Lawinengefahr,avalanche risk

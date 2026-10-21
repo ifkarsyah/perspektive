@@ -1,0 +1,14 @@
+category,german,english
+ride,fahren,to go (by vehicle)
+ride,nehmen,to take (the bus)
+ride,einsteigen (sep.),to get on
+ride,aussteigen (sep.),to get off
+ride,umsteigen (sep.),to change (trains)
+ride,halten,to stop
+time,abfahren (sep.),to depart
+time,ankommen (sep.),to arrive
+time,verpassen,to miss
+time,warten,to wait
+ticket,kaufen,to buy
+ticket,entwerten,to validate (ticket)
+walk,laufen,to walk

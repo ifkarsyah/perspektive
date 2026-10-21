@@ -1,0 +1,43 @@
+category,german,english
+club,der Fußballverein,football club
+club,die Mannschaft,team
+club,die Hobbymannschaft,amateur / casual team
+club,das Training,training
+club,das Spiel,match
+club,das Turnier,tournament
+club,der Trainer,coach
+club,der Mitspieler,teammate
+club,der Gegner,opponent
+pitch,der Platz,pitch
+pitch,der Kunstrasen,artificial turf
+pitch,die Halle,indoor hall
+pitch,das Tor,goal
+pitch,der Strafraum,penalty area
+pitch,die Mittellinie,halfway line
+pitch,die Seitenlinie,touchline
+position,der Torwart,goalkeeper
+position,der Verteidiger,defender
+position,das Mittelfeld,midfield
+position,der Stürmer,striker
+position,der Flügel,wing
+game,der Ball,ball
+game,der Pass,pass
+game,der Schuss,shot
+game,die Flanke,cross
+game,die Ecke,corner
+game,der Einwurf,throw-in
+game,der Freistoß,free kick
+game,der Elfmeter,penalty
+game,das Abseits,offside
+game,das Foul,foul
+game,die Gelbe Karte,yellow card
+game,die Rote Karte,red card
+game,der Schiedsrichter,referee
+game,die Halbzeit,half-time
+game,das Ergebnis,score
+game,das Unentschieden,draw
+gear,die Fußballschuhe,football boots
+gear,die Stollen,studs
+gear,die Schienbeinschoner,shin guards
+gear,das Trikot,jersey
+gear,das Leibchen,training bib

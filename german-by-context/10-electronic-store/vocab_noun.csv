@@ -1,0 +1,37 @@
+category,german,english
+store,der Elektronikmarkt,electronics store
+store,die Abteilung,department
+store,der Verkäufer,salesperson
+store,die Garantie,warranty
+store,die Gewährleistung,statutory warranty
+store,die Reparatur,repair
+store,der Kundendienst,customer service
+store,die Rückgabe,return
+device,der Laptop,laptop
+device,der Computer,computer
+device,der Bildschirm,monitor
+device,die Tastatur,keyboard
+device,die Maus,mouse
+device,das Handy,mobile phone
+device,das Tablet,tablet
+device,der Fernseher,TV
+device,die Kopfhörer,headphones
+device,der Lautsprecher,speaker
+device,der Drucker,printer
+device,die Kamera,camera
+device,der Router,router
+accessory,das Ladegerät,charger
+accessory,das Kabel,cable
+accessory,der Adapter,adapter
+accessory,der Stecker,plug
+accessory,die Mehrfachsteckdose,power strip
+accessory,die Powerbank,power bank
+accessory,die Hülle,case
+accessory,die Schutzfolie,screen protector
+accessory,die Speicherkarte,memory card
+accessory,die Festplatte,hard drive
+spec,der Akku,battery (rechargeable)
+spec,der Speicher,storage
+spec,der Arbeitsspeicher,RAM
+spec,der Prozessor,processor
+spec,die Tastaturbelegung,keyboard layout
