@@ -95,7 +95,27 @@ Scenes are flat-style inline SVG with a 16:9 `viewBox` so they stay sharp and sm
    *you'll say* with a `who` chip. Every row has a speaker button.
 3. **Quiz** — German → English multiple choice from the current situation only.
 
-Audio uses the browser's German voice (`speechSynthesis`, `de-DE`).
+## Audio
+
+Every German text is voiced by the Thorsten Piper voice (`de_DE-thorsten-medium`),
+pre-generated into `public/audio/<hash>.mp3` with a `manifest.json` mapping text to file.
+The app plays the clip when one exists and falls back to the browser's German voice
+(`speechSynthesis`, `de-DE`) otherwise. The audio is generated, not committed.
+
+One-time setup:
+
+```bash
+cd app
+uv venv --python 3.12 scripts/.venv
+uv pip install --python scripts/.venv/bin/python -r scripts/requirements.txt
+# put de_DE-thorsten-medium.onnx and .onnx.json in ~/Downloads (or set THORSTEN_MODEL)
+```
+
+Generate (re-runs only voice new or edited rows and delete stale clips; needs `ffmpeg`):
+
+```bash
+npm run generate-audio
+```
 
 ## Progress
 
@@ -115,7 +135,7 @@ Not in phase 1, but the design is fixed so that moving to a database later is a 
 |---|---|
 | 1 | Data loader, Map, Situation, Quiz, browser audio, a scene for every situation ✅ |
 | 2 | `ProgressStore` on `localStorage`, review log, known/due states |
-| 3 | Pre-generated audio (Thorsten voice) |
+| 3 | Pre-generated audio (Thorsten voice) ✅ |
 | 4 | Postgres-backed progress |
 | — | Deployment config (pick a static host when ready) |
 
