@@ -117,6 +117,9 @@ Generate (re-runs only voice new or edited rows and delete stale clips; needs `f
 npm run generate-audio
 ```
 
+Restart `npm run dev` afterwards: the dev server only serves `public/` files that existed when
+it started, and answers new ones with `index.html`.
+
 ## Progress
 
 Not in phase 1, but the design is fixed so that moving to a database later is a swap:

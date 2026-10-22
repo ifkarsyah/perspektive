@@ -98,6 +98,7 @@ def main():
 
     (OUT / "manifest.json").write_text(json.dumps(manifest, ensure_ascii=False, sort_keys=True))
     print(f"{len(all_texts)} texts, {created} new clips, {removed} removed, manifest written")
+    print("Restart `npm run dev` so the dev server serves the new files.")
 
 
 if __name__ == "__main__":
