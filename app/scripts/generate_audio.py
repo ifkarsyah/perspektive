@@ -1,6 +1,8 @@
 """Generate one mp3 per German text in the content CSVs, using the Thorsten Piper voice.
 
-Writes public/audio/<hash>.mp3 plus public/audio/manifest.json ({text: file}).
+Writes public/audio/<name>.mp3 plus public/audio/manifest.json ({text: file}).
+File names follow the text: "Wo kommt das hin?" -> wo-kommt-das-hin.mp3.
+Texts that differ only in case or punctuation share one clip.
 Existing files are skipped, so re-runs only synthesise new or edited rows;
 clips for texts that no longer exist are deleted.
 
@@ -9,6 +11,7 @@ Usage: scripts/.venv/bin/python scripts/generate_audio.py [--model PATH]
 import argparse
 import csv
 import hashlib
+import unicodedata
 import json
 import os
 import re
@@ -36,8 +39,22 @@ def texts():
     return sorted(found)
 
 
-def file_name(text):
-    return hashlib.sha1(text.encode()).hexdigest()[:12] + ".mp3"
+UMLAUTS = {"ä": "ae", "ö": "oe", "ü": "ue", "ß": "ss"}
+
+
+def slug(text):
+    """Lowercase, umlauts spelled out, spaces as "-", other punctuation dropped."""
+    s = unicodedata.normalize("NFC", text).lower()
+    for umlaut, plain in UMLAUTS.items():
+        s = s.replace(umlaut, plain)
+    s = s.replace("&", " und ")
+    s = re.sub(r"[^a-z0-9]+", "-", s).strip("-")
+    return s or hashlib.sha1(text.encode()).hexdigest()[:12]
+
+
+def file_names(texts):
+    """{text: file}. Texts that differ only in case or punctuation share one clip."""
+    return {text: slug(text) + ".mp3" for text in texts}
 
 
 def spoken(text):
@@ -54,13 +71,11 @@ def main():
     OUT.mkdir(parents=True, exist_ok=True)
 
     all_texts = texts()
-    manifest, created = {}, 0
+    manifest, created = file_names(all_texts), 0
     with tempfile.TemporaryDirectory() as tmp:
         wav_path = Path(tmp) / "clip.wav"
         for i, text in enumerate(all_texts, 1):
-            name = file_name(text)
-            manifest[text] = name
-            target = OUT / name
+            target = OUT / manifest[text]
             if target.exists():
                 continue
             with wave.open(str(wav_path), "wb") as wav:
