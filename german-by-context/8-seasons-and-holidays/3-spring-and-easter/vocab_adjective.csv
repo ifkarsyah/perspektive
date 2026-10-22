@@ -1,0 +1,11 @@
+category,german,english,similarity
+weather,mild,mild,cognate
+weather,frühlingshaft,spring-like,different
+weather,sonnig,sunny,cognate
+weather,wechselhaft,changeable,different
+weather,frisch,fresh / chilly,cognate
+nature,grün,green,cognate
+nature,bunt,colourful,different
+nature,allergisch,allergic,cognate
+mood,gut gelaunt,in a good mood,different
+mood,müde,tired (from the clock change),different

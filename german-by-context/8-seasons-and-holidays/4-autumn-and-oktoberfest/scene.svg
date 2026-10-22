@@ -1,0 +1,170 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1600 900" stroke="#33302c" stroke-width="3" stroke-linejoin="round" stroke-linecap="round">
+  <!-- Autumn park (left) -->
+  <rect x="0" y="0" width="820" height="580" fill="#d9dde3" stroke="none"/>
+  <g data-word="der Herbst"><rect x="0" y="580" width="820" height="320" fill="#c9b27a"/></g>
+  <g data-word="der Herbststurm">
+    <path d="M500 110 c-40 0 -40 -50 0 -50 c10 -40 90 -40 100 0 c40 0 40 50 0 50 Z" fill="#7c868b"/>
+    <path d="M440 160 h120 c20 0 20 -24 4 -24 M460 190 h150 c20 0 20 24 4 24" fill="none" stroke="#9aa3a8" stroke-width="6"/>
+  </g>
+  <g data-word="der Drachen">
+    <path d="M300 60 l40 50 l-40 70 l-40 -70 Z" fill="#e45b4f"/>
+    <path d="M300 180 c20 40 -20 80 10 130 c20 40 -10 90 10 140" fill="none" stroke-width="2"/>
+    <path d="M300 60 v120 M260 110 h80" fill="none" stroke="#ffffff" stroke-width="3"/>
+  </g>
+  <g data-word="der Nebel">
+    <path d="M0 470 C150 440 300 500 450 470 S700 440 820 470 V520 H0 Z" fill="#ffffff" fill-opacity="0.75" stroke="none"/>
+  </g>
+
+  <!-- Golden tree, falling leaves, leaf pile -->
+  <path d="M150 600 V380 M150 450 l-50 -50 M150 420 l60 -60" fill="none" stroke="#7a4f22" stroke-width="18"/>
+  <g data-word="der goldene Oktober">
+    <circle cx="100" cy="330" r="80" fill="#f2b84b"/><circle cx="200" cy="300" r="90" fill="#e0a43c"/><circle cx="150" cy="380" r="70" fill="#f29a2e"/>
+  </g>
+  <g data-word="das Blatt">
+    <path d="M320 380 c20 -30 50 -30 60 -10 c-10 30 -40 40 -60 10 Z" fill="#e45b4f"/><path d="M320 380 l-12 8" fill="none" stroke-width="3"/>
+    <path d="M260 470 c20 -30 50 -30 60 -10 c-10 30 -40 40 -60 10 Z" fill="#f29a2e"/>
+  </g>
+  <g data-word="das Laub">
+    <path d="M30 640 c10 -10 30 -10 36 0 c-10 10 -26 10 -36 0 Z M110 660 c10 -10 30 -10 36 0 c-10 10 -26 10 -36 0 Z M260 630 c10 -10 30 -10 36 0 c-10 10 -26 10 -36 0 Z M200 700 c10 -10 30 -10 36 0 c-10 10 -26 10 -36 0 Z" fill="#e45b4f"/>
+  </g>
+  <g data-word="der Laubhaufen">
+    <path d="M40 820 c20 -90 220 -90 240 0 Z" fill="#e0a43c"/>
+    <path d="M80 790 c10 -10 30 -10 36 0 M150 770 c10 -10 30 -10 36 0 M200 800 c10 -10 30 -10 36 0" fill="none" stroke="#c94a40" stroke-width="5"/>
+  </g>
+  <g data-word="die Kastanie">
+    <circle cx="330" cy="760" r="18" fill="#7a3f1f"/><ellipse cx="330" cy="750" rx="10" ry="5" fill="#e9d29a" stroke="none"/>
+    <circle cx="370" cy="775" r="16" fill="#7a3f1f"/>
+    <path d="M300 800 c0 -20 40 -30 50 -10 c-10 20 -40 20 -50 10 Z" fill="#8bbf7a"/>
+  </g>
+  <g data-word="der Pilz">
+    <path d="M420 840 c0 -50 80 -50 80 0 Z" fill="#c94a40"/>
+    <rect x="448" y="840" width="24" height="34" rx="6" fill="#f4ecd9"/>
+    <circle cx="445" cy="820" r="6" fill="#ffffff" stroke="none"/><circle cx="475" cy="815" r="6" fill="#ffffff" stroke="none"/>
+  </g>
+  <g data-word="der Kürbis">
+    <ellipse cx="560" cy="840" rx="50" ry="38" fill="#f29a2e"/>
+    <path d="M545 805 c-10 20 -10 50 0 70 M575 805 c10 20 10 50 0 70" fill="none" stroke="#d27b14" stroke-width="3"/>
+    <path d="M560 802 v-16" fill="none" stroke="#5b8c5a" stroke-width="6"/>
+  </g>
+  <g data-word="Halloween">
+    <ellipse cx="680" cy="840" rx="50" ry="38" fill="#f29a2e"/>
+    <path d="M660 830 l10 -14 l10 14 Z M690 830 l10 -14 l10 14 Z" fill="#33302c"/>
+    <path d="M655 852 h50 l-8 10 l-8 -6 l-8 6 l-8 -6 l-8 6 Z" fill="#33302c"/>
+    <path d="M680 802 v-16" fill="none" stroke="#5b8c5a" stroke-width="6"/>
+  </g>
+
+  <!-- Walker in autumn clothes -->
+  <g data-word="der Regenschirm">
+    <path d="M330 520 c0 -70 160 -70 160 0 Z" fill="#3d6fb6"/>
+    <path d="M410 520 v90 c0 14 -16 14 -16 0" fill="none" stroke-width="5"/>
+  </g>
+  <circle cx="410" cy="560" r="24" fill="#e8b98f"/>
+  <g data-word="die Übergangsjacke"><path d="M378 590 h64 l12 110 h-88 Z" fill="#5b8c5a"/><path d="M410 590 v110" fill="none" stroke="#3d6e46" stroke-width="3"/></g>
+  <path d="M392 700 v40 M428 700 v40" fill="none" stroke="#2f3f5c" stroke-width="14"/>
+  <g data-word="die Gummistiefel"><path d="M380 735 h26 v40 h-34 c0 -10 2 -18 8 -18 Z M414 735 h26 v22 c6 0 8 8 8 18 h-34 Z" fill="#f6d53b"/></g>
+
+  <!-- Lantern parade and St Martin -->
+  <g data-word="der Laternenumzug">
+    <circle cx="560" cy="560" r="16" fill="#f0c9a6"/><path d="M546 576 h28 v60 h-28 Z" fill="#e45b4f"/>
+    <circle cx="640" cy="565" r="16" fill="#c58c5c"/><path d="M626 581 h28 v60 h-28 Z" fill="#3d6fb6"/>
+    <circle cx="720" cy="560" r="16" fill="#e8b98f"/><path d="M706 576 h28 v60 h-28 Z" fill="#b58ad8"/>
+    <path d="M574 590 l20 -40 M654 595 l20 -40 M734 590 l20 -40" fill="none" stroke="#7a5a3c" stroke-width="3"/>
+  </g>
+  <g data-word="die Laterne">
+    <circle cx="598" cy="562" r="14" fill="#f6d53b"/><circle cx="678" cy="567" r="14" fill="#f29a2e"/><circle cx="758" cy="562" r="14" fill="#e87f98"/>
+  </g>
+  <g data-word="der Sankt-Martins-Tag"><rect x="620" y="240" width="160" height="100" rx="8" fill="#ffffff"/><rect x="620" y="240" width="160" height="28" rx="8" fill="#e45b4f"/>
+    <text x="700" y="318" text-anchor="middle" font-family="sans-serif" font-size="30" font-weight="bold" fill="#33302c" stroke="none">11.11.</text></g>
+  <g data-word="der Tag der Deutschen Einheit"><rect x="620" y="360" width="160" height="90" rx="8" fill="#ffffff"/>
+    <rect x="636" y="372" width="128" height="10" fill="#2b2b2b" stroke="none"/><rect x="636" y="382" width="128" height="10" fill="#e45b4f" stroke="none"/><rect x="636" y="392" width="128" height="10" fill="#f2c94c" stroke="none"/>
+    <text x="700" y="436" text-anchor="middle" font-family="sans-serif" font-size="28" font-weight="bold" fill="#33302c" stroke="none">3.10.</text></g>
+
+  <!-- Clock change -->
+  <g data-word="die Zeitumstellung">
+    <circle cx="100" cy="90" r="60" fill="#ffffff" stroke-width="5"/>
+    <path d="M100 90 V50 M100 90 l28 14" fill="none" stroke-width="6"/>
+    <path d="M44 60 a70 70 0 0 0 -2 64" fill="none" stroke="#e45b4f" stroke-width="5"/>
+    <path d="M32 116 l10 12 l10 -12" fill="none" stroke="#e45b4f" stroke-width="5"/>
+  </g>
+  <g data-word="die Winterzeit"><rect x="50" y="165" width="100" height="40" rx="10" fill="#e45b4f"/>
+    <text x="100" y="193" text-anchor="middle" font-family="sans-serif" font-size="24" font-weight="bold" fill="#ffffff" stroke="none">-1 h</text></g>
+  <g data-word="die Herbstferien"><rect x="180" y="40" width="80" height="60" rx="8" fill="#5b8c5a"/>
+    <path d="M200 60 h40 M200 80 h28" fill="none" stroke="#ffffff" stroke-width="5"/></g>
+
+  <!-- Harvest table -->
+  <g data-word="das Erntedankfest">
+    <path d="M430 260 h180" fill="none" stroke="#c66a43" stroke-width="4"/>
+    <path d="M445 262 c10 20 30 20 40 0 M495 262 c10 20 30 20 40 0 M545 262 c10 20 30 20 40 0" fill="#f2b84b"/>
+    <rect x="430" y="400" width="180" height="14" fill="#9a6b43"/>
+    <path d="M445 414 v40 M595 414 v40" fill="none" stroke-width="6"/>
+  </g>
+  <g data-word="die Ernte">
+    <path d="M440 400 l8 -36 h64 l8 36 Z" fill="#c99d6f"/>
+    <circle cx="462" cy="358" r="12" fill="#e45b4f"/><circle cx="486" cy="352" r="12" fill="#8bd16f"/><path d="M500 360 l16 -20" fill="none" stroke="#f29a2e" stroke-width="8"/>
+  </g>
+  <g data-word="die Kürbissuppe"><path d="M530 380 h50 c0 18 -10 22 -25 22 s-25 -4 -25 -22 Z" fill="#f29a2e"/></g>
+  <g data-word="der Federweißer"><path d="M560 300 l-4 50 h24 l-4 -50 Z" fill="#f4ecc4"/></g>
+  <g data-word="der Zwiebelkuchen"><path d="M520 350 l40 -14 v14 Z" fill="#f2c94c"/></g>
+  <g data-word="die Maroni"><path d="M590 400 l-10 -50 h26 Z" fill="#ffffff"/><circle cx="590" cy="348" r="6" fill="#7a3f1f"/><circle cx="600" cy="352" r="6" fill="#7a3f1f"/></g>
+
+  <!-- Oktoberfest grounds (right) -->
+  <rect x="820" y="0" width="780" height="580" fill="#bfe3f5" stroke="none"/>
+  <g data-word="die Wiesn"><rect x="820" y="580" width="780" height="320" fill="#d9c4a2"/></g>
+  <g data-word="das Riesenrad">
+    <circle cx="1460" cy="230" r="130" fill="none" stroke="#9aa3a8" stroke-width="8"/>
+    <path d="M1460 100 V360 M1330 230 H1590 M1368 138 L1552 322 M1552 138 L1368 322" fill="none" stroke="#9aa3a8" stroke-width="4"/>
+    <path d="M1460 230 L1400 580 M1460 230 L1520 580" fill="none" stroke="#7c868b" stroke-width="10"/>
+    <rect x="1446" y="86" width="28" height="22" rx="4" fill="#e45b4f"/><rect x="1576" y="216" width="28" height="22" rx="4" fill="#3d6fb6"/>
+    <rect x="1316" y="216" width="28" height="22" rx="4" fill="#f2b84b"/><rect x="1446" y="350" width="28" height="22" rx="4" fill="#5b8c5a"/>
+  </g>
+  <g data-word="das Oktoberfest">
+    <path d="M860 580 V300 M1080 580 V300" fill="none" stroke="#7a4f22" stroke-width="14"/>
+    <path d="M850 300 C900 220 1040 220 1090 300 Z" fill="#3d6fb6"/>
+    <path d="M880 280 l20 -30 M940 262 v-30 M1000 262 v-30 M1060 280 l-20 -30" fill="none" stroke="#ffffff" stroke-width="6"/>
+  </g>
+  <g data-word="das Festzelt">
+    <path d="M1100 580 V380 L1210 300 L1320 380 V580 Z" fill="#ffffff"/>
+    <path d="M1100 380 L1210 300 L1320 380" fill="none" stroke="#3d6fb6" stroke-width="10"/>
+    <path d="M1130 580 V400 M1170 580 V380 M1210 580 V370 M1250 580 V380 M1290 580 V400" fill="none" stroke="#3d6fb6" stroke-width="10"/>
+    <path d="M1180 580 v-80 c0 -30 60 -30 60 0 v80 Z" fill="#7a5a3c"/>
+  </g>
+  <g data-word="das Lebkuchenherz">
+    <path d="M1210 470 c-28 -18 -28 -40 -10 -42 c6 0 10 4 10 10 c0 -6 4 -10 10 -10 c18 2 18 24 -10 42 Z" fill="#b77735"/>
+    <path d="M1200 448 h20" fill="none" stroke="#ffffff" stroke-width="3"/>
+  </g>
+  <g data-word="die Blaskapelle">
+    <circle cx="900" cy="470" r="16" fill="#f0c9a6"/><path d="M886 486 h28 v60 h-28 Z" fill="#3d7a4a"/>
+    <circle cx="960" cy="465" r="16" fill="#e8b98f"/><path d="M946 481 h28 v60 h-28 Z" fill="#3d7a4a"/>
+    <path d="M920 470 c30 -10 30 30 0 30" fill="#f2c94c"/><path d="M978 500 h40 l14 -16 v32 Z" fill="#f2c94c"/>
+  </g>
+
+  <!-- Visitors in Tracht clinking glasses -->
+  <g data-word="das Dirndl">
+    <circle cx="940" cy="650" r="28" fill="#f0c9a6"/>
+    <path d="M912 650 c-4 -44 60 -44 56 0 l4 24 h-64 Z" fill="#c98f3e"/><circle cx="940" cy="652" r="24" fill="#f0c9a6"/>
+    <path d="M912 682 h56 l30 150 h-116 Z" fill="#3d7a4a"/>
+    <path d="M920 682 h40 v40 h-40 Z" fill="#ffffff"/><path d="M906 760 h68 l12 72 h-92 Z" fill="#e45b4f"/>
+  </g>
+  <g data-word="die Lederhose">
+    <circle cx="1100" cy="650" r="28" fill="#c58c5c"/>
+    <path d="M1072 646 c0 -40 56 -40 56 0" fill="#2f2622"/>
+    <path d="M1072 682 h56 l6 70 h-68 Z" fill="#ffffff"/>
+    <path d="M1066 752 h68 l-4 50 h-24 l-6 -20 l-6 20 h-24 Z" fill="#7a5a3c"/>
+    <path d="M1080 682 v70 M1120 682 v70" fill="none" stroke="#7a5a3c" stroke-width="6"/>
+    <path d="M1080 802 v30 M1120 802 v30" fill="none" stroke="#c58c5c" stroke-width="12"/>
+  </g>
+  <g data-word="die Maß">
+    <path d="M990 660 v-60 h40 v60 Z" fill="#f2b84b"/><path d="M990 610 c0 -14 40 -14 40 0" fill="#ffffff"/>
+    <path d="M1030 615 c16 0 16 30 0 30" fill="none" stroke-width="5"/>
+    <path d="M1040 660 v-60 h40 v60 Z" fill="#f2b84b"/><path d="M1040 610 c0 -14 40 -14 40 0" fill="#ffffff"/>
+  </g>
+  <g data-word="die Brezn">
+    <path d="M1180 760 c-20 -40 30 -60 50 -25 c20 -35 70 -15 50 25 c-20 15 -40 0 -50 -20 c-10 20 -30 35 -50 20 Z" fill="none" stroke="#8b5a2b" stroke-width="14"/>
+  </g>
+  <g data-word="das Volksfest">
+    <rect x="1340" y="620" width="230" height="200" rx="8" fill="#e87f98"/>
+    <path d="M1340 620 h230 l-20 -40 h-190 Z" fill="#f6d53b"/>
+    <circle cx="1400" cy="700" r="24" fill="#ffffff"/><circle cx="1500" cy="700" r="24" fill="#ffffff"/>
+    <rect x="1370" y="760" width="170" height="40" rx="6" fill="#ffffff"/>
+  </g>
+</svg>

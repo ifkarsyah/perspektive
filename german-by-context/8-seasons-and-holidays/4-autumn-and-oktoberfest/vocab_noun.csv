@@ -1,0 +1,43 @@
+category,german,english,similarity
+season,der Herbst,autumn,different
+season,der goldene Oktober,golden October,different
+season,die Zeitumstellung,clock change,different
+season,die Winterzeit,standard (winter) time,different
+season,die Herbstferien,autumn school holidays,different
+nature,das Laub,fallen leaves,different
+nature,das Blatt,leaf,different
+nature,der Laubhaufen,pile of leaves,different
+nature,die Kastanie,chestnut,cognate
+nature,der Pilz,mushroom,different
+nature,der Kürbis,pumpkin,different
+nature,der Nebel,fog,different
+nature,der Herbststurm,autumn storm,different
+nature,der Drachen,kite,different
+clothes,die Übergangsjacke,in-between jacket,different
+clothes,der Regenschirm,umbrella,different
+clothes,die Gummistiefel,rubber boots,different
+oktoberfest,das Oktoberfest,Oktoberfest,cognate
+oktoberfest,die Wiesn,Oktoberfest grounds (Bavarian),different
+oktoberfest,das Volksfest,funfair / folk festival,different
+oktoberfest,das Festzelt,beer tent,different
+oktoberfest,die Maß,litre of beer,different
+oktoberfest,das Dirndl,dirndl,cognate
+oktoberfest,die Lederhose,lederhosen,cognate
+oktoberfest,die Brezn,pretzel (Bavarian),different
+oktoberfest,das Lebkuchenherz,gingerbread heart,different
+oktoberfest,das Riesenrad,Ferris wheel,different
+oktoberfest,die Blaskapelle,brass band,different
+harvest,das Erntedankfest,harvest festival,different
+harvest,die Ernte,harvest,different
+harvest,die Kürbissuppe,pumpkin soup,different
+harvest,der Federweißer,new wine (partly fermented),different
+harvest,der Zwiebelkuchen,onion tart,different
+harvest,die Maroni,roasted chestnuts,different
+holiday,der Tag der Deutschen Einheit,German Unity Day (3 Oct),different
+holiday,Halloween,Halloween,cognate
+holiday,der Sankt-Martins-Tag,St Martin's Day (11 Nov),different
+holiday,der Laternenumzug,lantern parade,different
+holiday,die Laterne,lantern,cognate
+holiday,die Martinsgans,St Martin's goose,different
+cozy,die Kerze,candle,different
+cozy,die Gemütlichkeit,cosiness,different

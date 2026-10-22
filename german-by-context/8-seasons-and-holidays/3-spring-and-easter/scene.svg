@@ -1,0 +1,178 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1600 900" stroke="#33302c" stroke-width="3" stroke-linejoin="round" stroke-linecap="round">
+  <rect x="0" y="0" width="1600" height="560" fill="#cfe9f7" stroke="none"/>
+  <rect x="0" y="560" width="1600" height="340" fill="#9fd37f" stroke="none"/>
+
+  <!-- Sky -->
+  <g data-word="der Regenbogen">
+    <path d="M40 330 a240 240 0 0 1 480 0" fill="none" stroke="#e45b4f" stroke-width="14"/>
+    <path d="M54 330 a226 226 0 0 1 452 0" fill="none" stroke="#f2b84b" stroke-width="14"/>
+    <path d="M68 330 a212 212 0 0 1 424 0" fill="none" stroke="#8bd16f" stroke-width="14"/>
+    <path d="M82 330 a198 198 0 0 1 396 0" fill="none" stroke="#6fa8dc" stroke-width="14"/>
+  </g>
+  <g data-word="der Regenschauer">
+    <path d="M440 120 c-30 0 -30 -40 0 -40 c8 -30 70 -30 80 0 c30 0 30 40 0 40 Z" fill="#ffffff"/>
+    <path d="M455 135 l-8 22 M480 135 l-8 22 M505 135 l-8 22" fill="none" stroke="#3d6fb6" stroke-width="4"/>
+  </g>
+  <g data-word="der Frühling"><circle cx="1480" cy="80" r="44" fill="#f6d53b"/></g>
+
+  <!-- Clock change and Easter dates -->
+  <g data-word="die Zeitumstellung">
+    <circle cx="640" cy="110" r="64" fill="#ffffff" stroke-width="5"/>
+    <path d="M640 110 V66 M640 110 l30 16" fill="none" stroke-width="6"/>
+    <path d="M700 60 a76 76 0 0 1 4 70" fill="none" stroke="#5b8c5a" stroke-width="5"/>
+    <path d="M696 124 l8 12 l10 -12" fill="none" stroke="#5b8c5a" stroke-width="5"/>
+  </g>
+  <g data-word="die Sommerzeit"><rect x="590" y="190" width="100" height="40" rx="10" fill="#5b8c5a"/>
+    <text x="640" y="218" text-anchor="middle" font-family="sans-serif" font-size="24" font-weight="bold" fill="#ffffff" stroke="none">+1 h</text></g>
+  <g data-word="Ostern"><rect x="820" y="40" width="280" height="150" rx="10" fill="#ffffff"/><rect x="820" y="40" width="280" height="34" rx="10" fill="#b58ad8"/></g>
+  <g data-word="der Karfreitag"><rect x="836" y="90" width="78" height="84" rx="6" fill="#fde7e4"/>
+    <text x="875" y="145" text-anchor="middle" font-family="sans-serif" font-size="28" font-weight="bold" fill="#c33f3f" stroke="none">Fr</text></g>
+  <rect x="921" y="90" width="78" height="84" rx="6" fill="#f4f6f8"/>
+  <g data-word="der Ostermontag"><rect x="1006" y="90" width="78" height="84" rx="6" fill="#fde7e4"/>
+    <text x="1045" y="145" text-anchor="middle" font-family="sans-serif" font-size="28" font-weight="bold" fill="#c33f3f" stroke="none">Mo</text></g>
+
+  <!-- Cherry tree -->
+  <path d="M220 560 V360 M220 430 l-50 -40 M220 400 l60 -50" fill="none" stroke="#7a5a3c" stroke-width="18"/>
+  <g data-word="die Kirschblüte">
+    <circle cx="170" cy="330" r="70" fill="#f5c4d6"/><circle cx="270" cy="300" r="80" fill="#f8d3e1"/><circle cx="220" cy="380" r="60" fill="#f5c4d6"/>
+    <circle cx="150" cy="300" r="6" fill="#e87f98" stroke="none"/><circle cx="250" cy="270" r="6" fill="#e87f98" stroke="none"/><circle cx="300" cy="330" r="6" fill="#e87f98" stroke="none"/>
+  </g>
+  <g data-word="die Knospe"><path d="M300 470 l50 -20" fill="none" stroke="#7a5a3c" stroke-width="6"/><ellipse cx="356" cy="446" rx="9" ry="14" fill="#8bd16f" transform="rotate(60 356 446)"/></g>
+  <g data-word="die Blüte">
+    <circle cx="380" cy="500" r="14" fill="#ffffff"/><circle cx="400" cy="486" r="14" fill="#ffffff"/><circle cx="414" cy="508" r="14" fill="#ffffff"/><circle cx="394" cy="524" r="14" fill="#ffffff"/><circle cx="372" cy="520" r="14" fill="#ffffff"/>
+    <circle cx="393" cy="506" r="9" fill="#f6d53b"/>
+  </g>
+  <g data-word="der Pollen"><circle cx="330" cy="400" r="5" fill="#f2b84b" stroke="none"/><circle cx="360" cy="380" r="4" fill="#f2b84b" stroke="none"/><circle cx="345" cy="420" r="4" fill="#f2b84b" stroke="none"/><circle cx="380" cy="405" r="5" fill="#f2b84b" stroke="none"/><circle cx="400" cy="380" r="4" fill="#f2b84b" stroke="none"/></g>
+
+  <!-- Maypole, May Day -->
+  <g data-word="der Maibaum">
+    <path d="M760 560 V250" fill="none" stroke="#c99d6f" stroke-width="12"/>
+    <ellipse cx="760" cy="270" rx="46" ry="14" fill="none" stroke="#3d7a4a" stroke-width="10"/>
+    <path d="M760 270 l-40 70 M760 270 l40 70 M760 270 l-20 80 M760 270 l20 80" fill="none" stroke="#3d6fb6" stroke-width="4"/>
+    <path d="M745 250 l15 -40 l15 40 Z" fill="#3d7a4a"/>
+  </g>
+  <g data-word="der Tanz in den Mai">
+    <circle cx="690" cy="470" r="16" fill="#e8b98f"/><path d="M676 486 h28 l8 60 h-44 Z" fill="#e87f98"/>
+    <circle cx="830" cy="470" r="16" fill="#c58c5c"/><path d="M816 486 h28 l6 60 h-40 Z" fill="#3d6fb6"/>
+    <path d="M704 500 l30 -20 M816 500 l-30 -20" fill="none" stroke-width="5"/>
+  </g>
+  <g data-word="der Tag der Arbeit"><rect x="870" y="230" width="110" height="80" rx="8" fill="#ffffff"/><rect x="870" y="230" width="110" height="24" rx="8" fill="#e45b4f"/>
+    <text x="925" y="295" text-anchor="middle" font-family="sans-serif" font-size="26" font-weight="bold" fill="#33302c" stroke="none">1.5.</text></g>
+  <g data-word="die Demo">
+    <path d="M880 470 V380 M1000 470 V380" fill="none" stroke="#7a5a3c" stroke-width="5"/>
+    <rect x="880" y="380" width="120" height="44" fill="#e45b4f"/>
+    <circle cx="900" cy="480" r="13" fill="#f0c9a6"/><circle cx="940" cy="485" r="13" fill="#8d5a3b"/><circle cx="980" cy="480" r="13" fill="#e8b98f"/>
+    <path d="M890 493 h20 v50 h-20 Z M930 498 h20 v45 h-20 Z M970 493 h20 v50 h-20 Z" fill="#555b60"/>
+  </g>
+  <g data-word="das Osterfeuer">
+    <path d="M1040 560 l40 -20 l40 20 M1050 560 l70 -30 M1110 560 l-70 -30" fill="none" stroke="#7a4f22" stroke-width="8"/>
+    <path d="M1040 540 c0 -50 30 -60 40 -100 c20 40 50 50 40 100 Z" fill="#f29a2e"/>
+    <path d="M1060 540 c0 -30 15 -40 20 -60 c10 25 25 30 20 60 Z" fill="#f6d53b"/>
+  </g>
+
+  <!-- Building with balcony and terrace café -->
+  <rect x="1160" y="160" width="420" height="440" fill="#f2e3cc"/>
+  <path d="M1200 200 h80 v100 h-80 Z M1460 200 h80 v100 h-80 Z" fill="#cfe6f2"/>
+  <g data-word="der Frühjahrsputz">
+    <path d="M1330 200 h80 v100 h-80 Z" fill="#e8f6fb"/>
+    <path d="M1345 215 l20 -10 M1350 240 l30 -15" fill="none" stroke="#ffffff" stroke-width="5"/>
+    <circle cx="1440" cy="250" r="18" fill="#e8b98f"/><path d="M1426 268 h28 v40 h-28 Z" fill="#f29a2e"/>
+    <path d="M1426 280 l-26 -30" fill="none" stroke-width="5"/><rect x="1384" y="236" width="24" height="14" rx="4" fill="#f6d53b"/>
+  </g>
+  <g data-word="der Balkon">
+    <rect x="1200" y="360" width="200" height="16" fill="#9aa3a8"/>
+    <path d="M1200 376 v60 M1225 376 v60 M1250 376 v60 M1275 376 v60 M1300 376 v60 M1325 376 v60 M1350 376 v60 M1375 376 v60 M1400 376 v60 M1200 436 H1400" fill="none" stroke="#7c868b" stroke-width="4"/>
+  </g>
+  <g data-word="die Gartensaison">
+    <rect x="1230" y="330" width="140" height="30" fill="#c66a43"/>
+    <circle cx="1255" cy="318" r="14" fill="#e45b4f"/><circle cx="1300" cy="312" r="14" fill="#f6d53b"/><circle cx="1345" cy="318" r="14" fill="#b58ad8"/>
+  </g>
+  <g data-word="die Terrasse">
+    <rect x="1160" y="560" width="420" height="40" fill="#c99d6f"/>
+    <path d="M1180 520 c0 -40 100 -40 100 0 Z M1440 520 c0 -40 100 -40 100 0 Z" fill="#e45b4f"/>
+    <rect x="1200" y="530" width="60" height="10" fill="#ffffff"/><path d="M1230 540 v20" fill="none" stroke-width="4"/>
+  </g>
+  <g data-word="das erste Eis">
+    <path d="M1480 556 l-12 -40 h24 Z" fill="#e0a43c"/><circle cx="1480" cy="508" r="14" fill="#f5c4d6"/>
+  </g>
+
+  <!-- Easter egg hunt on the lawn -->
+  <g data-word="der Osterhase">
+    <ellipse cx="620" cy="660" rx="44" ry="38" fill="#c8a07a"/>
+    <circle cx="650" cy="612" r="26" fill="#c8a07a"/>
+    <path d="M640 590 c-10 -40 0 -60 8 -60 c8 0 10 30 4 60 M660 592 c0 -40 14 -58 22 -54 c8 4 0 34 -12 58" fill="#c8a07a"/>
+    <circle cx="660" cy="608" r="4" fill="#33302c" stroke="none"/><circle cx="578" cy="668" r="12" fill="#ffffff"/>
+  </g>
+  <g data-word="das Osternest">
+    <path d="M440 690 h130 c0 30 -30 40 -65 40 s-65 -10 -65 -40 Z" fill="#c99d6f"/>
+    <path d="M445 690 c20 -10 40 4 60 -6 s40 4 60 -4" fill="none" stroke="#e9d29a" stroke-width="6"/>
+    <ellipse cx="480" cy="682" rx="14" ry="18" fill="#6fa8dc"/><ellipse cx="510" cy="678" rx="14" ry="18" fill="#f5c4d6"/><ellipse cx="540" cy="682" rx="14" ry="18" fill="#f2b84b"/>
+  </g>
+  <g data-word="das Osterei">
+    <ellipse cx="720" cy="760" rx="18" ry="24" fill="#e45b4f"/><path d="M704 760 h32" fill="none" stroke="#ffffff" stroke-width="4"/>
+    <ellipse cx="860" cy="820" rx="18" ry="24" fill="#8bd16f"/><path d="M846 812 l28 10" fill="none" stroke="#ffffff" stroke-width="4"/>
+    <ellipse cx="560" cy="850" rx="18" ry="24" fill="#b58ad8"/>
+  </g>
+  <g data-word="die Eiersuche">
+    <circle cx="790" cy="660" r="20" fill="#f0c9a6"/><path d="M772 680 h36 l6 60 h-48 Z" fill="#f6d53b"/>
+    <path d="M808 690 l30 20" fill="none" stroke-width="6"/>
+    <path d="M830 712 h40 c0 20 -10 26 -20 26 s-20 -6 -20 -26 Z" fill="#c99d6f"/>
+  </g>
+
+  <!-- Easter brunch -->
+  <rect x="900" y="700" width="230" height="16" fill="#9a6b43"/>
+  <path d="M915 716 V820 M1115 716 V820" fill="none" stroke-width="8"/>
+  <g data-word="der Osterbrunch"><rect x="900" y="690" width="230" height="12" fill="#ffffff"/></g>
+  <g data-word="die Eierfarbe">
+    <path d="M915 690 v-30 h30 v30 Z" fill="#e45b4f" fill-opacity="0.8"/><path d="M955 690 v-30 h30 v30 Z" fill="#3d6fb6" fill-opacity="0.8"/><path d="M995 690 v-30 h30 v30 Z" fill="#5b8c5a" fill-opacity="0.8"/>
+  </g>
+  <g data-word="das Lamm">
+    <ellipse cx="1080" cy="672" rx="38" ry="24" fill="#ffffff"/><circle cx="1050" cy="656" r="14" fill="#ffffff"/>
+    <circle cx="1046" cy="654" r="2" fill="#33302c" stroke="none"/>
+  </g>
+
+  <!-- Asparagus stall -->
+  <g data-word="der Spargelstand">
+    <path d="M30 640 h290 l-20 -40 h-250 Z" fill="#e45b4f"/>
+    <path d="M60 600 l20 -40 M120 600 l20 -40 M180 600 l20 -40 M240 600 l20 -40" fill="none" stroke="#ffffff" stroke-width="8"/>
+    <rect x="40" y="640" width="270" height="200" fill="#c99d6f"/>
+    <path d="M60 840 v40 M290 840 v40" fill="none" stroke-width="8"/>
+  </g>
+  <g data-word="die Spargelzeit"><rect x="80" y="560" width="190" height="34" rx="6" fill="#ffffff"/>
+    <path d="M100 577 h150" fill="none" stroke="#5b8c5a" stroke-width="8"/></g>
+  <g data-word="der Spargel">
+    <path d="M70 700 l10 -60 M90 700 l8 -62 M110 700 l6 -60 M130 700 l4 -62 M150 700 l2 -60" fill="none" stroke="#f4ecd9" stroke-width="12"/>
+    <path d="M70 700 l10 -60 M90 700 l8 -62 M110 700 l6 -60 M130 700 l4 -62 M150 700 l2 -60" fill="none" stroke="#d9c9a6" stroke-width="2"/>
+    <rect x="60" y="690" width="100" height="14" fill="#5b8c5a"/>
+  </g>
+  <g data-word="die Sauce hollandaise"><path d="M200 700 h60 l-6 -50 h-48 Z" fill="#f6e08a"/><rect x="204" y="636" width="52" height="16" rx="4" fill="#ffffff"/></g>
+  <g data-word="der Bärlauch">
+    <path d="M60 860 c10 -40 30 -50 30 -50 c0 0 -10 30 -20 50 M100 860 c10 -40 30 -50 30 -50 c0 0 -10 30 -20 50 M140 860 c10 -40 30 -50 30 -50 c0 0 -10 30 -20 50" fill="#3d9a5a"/>
+  </g>
+
+  <!-- Flowers -->
+  <g data-word="die Tulpe">
+    <path d="M370 880 V800 M420 880 V810" fill="none" stroke="#3d7a4a" stroke-width="6"/>
+    <path d="M350 800 c0 -40 40 -40 40 0 l-10 -10 l-10 10 l-10 -10 Z" fill="#e45b4f"/>
+    <path d="M400 810 c0 -40 40 -40 40 0 l-10 -10 l-10 10 l-10 -10 Z" fill="#e87f98"/>
+  </g>
+  <g data-word="die Narzisse">
+    <path d="M470 880 V800" fill="none" stroke="#3d7a4a" stroke-width="6"/>
+    <circle cx="456" cy="790" r="12" fill="#fff4b0"/><circle cx="484" cy="790" r="12" fill="#fff4b0"/><circle cx="470" cy="776" r="12" fill="#fff4b0"/><circle cx="470" cy="804" r="12" fill="#fff4b0"/>
+    <circle cx="470" cy="790" r="10" fill="#f29a2e"/>
+  </g>
+
+  <!-- Cycling season and hay fever -->
+  <g data-word="die Fahrradsaison">
+    <circle cx="1220" cy="830" r="34" fill="none" stroke-width="6"/><circle cx="1330" cy="830" r="34" fill="none" stroke-width="6"/>
+    <path d="M1220 830 l40 -60 h50 l20 60 M1260 770 l20 60 l40 -60 M1250 755 h30 M1310 770 v-25 h25" fill="none" stroke="#5b8c5a" stroke-width="6"/>
+  </g>
+  <g data-word="der Heuschnupfen">
+    <circle cx="1480" cy="680" r="28" fill="#e8b98f"/>
+    <path d="M1452 676 c0 -38 56 -38 56 0" fill="#7a5a3c"/>
+    <circle cx="1478" cy="692" r="7" fill="#e45b4f"/>
+    <path d="M1446 715 h68 l10 150 h-88 Z" fill="#7fa79a"/>
+    <path d="M1440 690 c-10 -10 -26 -6 -30 6 M1436 700 c-14 -2 -24 8 -22 18" fill="none" stroke="#9aa3a8" stroke-width="3"/>
+    <rect x="1494" y="690" width="26" height="24" rx="4" fill="#ffffff" stroke-width="2"/>
+  </g>
+</svg>

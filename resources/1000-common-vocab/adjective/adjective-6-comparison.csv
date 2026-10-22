@@ -1,0 +1,12 @@
+german_pos,german_neg,english_pos,english_neg
+nah,weit,near,far
+gleich,anders,same,different
+gleich,ungleich,equal,unequal
+ähnlich,unterschiedlich,similar,different
+vollständig,unvollständig,complete,incomplete
+gesamt,teilweise,total,partial
+einzeln,doppelt,single,double
+allgemein,speziell,general,specific
+vorhanden,fehlend,present,missing
+direkt,indirekt,direct,indirect
+kostenlos,kostenpflichtig,free,paid

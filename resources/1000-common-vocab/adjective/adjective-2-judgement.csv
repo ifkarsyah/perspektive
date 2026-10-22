@@ -1,0 +1,16 @@
+german_pos,german_neg,english_pos,english_neg
+gut,schlecht,good,bad
+besser,schlechter,better,worse
+beste,schlechteste,best,worst
+richtig,falsch,correct,wrong
+wahr,falsch,true,false
+leicht,schwer,easy,hard
+einfach,schwierig,simple,difficult
+klar,unklar,clear,unclear
+genau,ungenau,exact,inexact
+normal,seltsam,normal,strange
+besondere,gewöhnlich,special,ordinary
+sicher,gefährlich,safe,dangerous
+möglich,unmöglich,possible,impossible
+wahrscheinlich,unwahrscheinlich,probable,improbable
+notwendig,unnötig,necessary,unnecessary

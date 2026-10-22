@@ -1,0 +1,40 @@
+category,german,english,similarity
+season,der Frühling,spring,different
+season,die Zeitumstellung,clock change,different
+season,die Sommerzeit,daylight saving time,different
+season,die Frühlingsgefühle,spring fever,different
+season,der Frühjahrsputz,spring cleaning,different
+nature,die Blüte,blossom,different
+nature,die Kirschblüte,cherry blossom,different
+nature,die Tulpe,tulip,cognate
+nature,die Narzisse,daffodil,cognate
+nature,der Bärlauch,wild garlic,different
+nature,die Knospe,bud,different
+nature,der Pollen,pollen,cognate
+nature,der Heuschnupfen,hay fever,different
+nature,der Regenschauer,rain shower,different
+nature,der Regenbogen,rainbow,different
+easter,Ostern,Easter,different
+easter,der Karfreitag,Good Friday,different
+easter,der Ostermontag,Easter Monday,different
+easter,das Osterei,Easter egg,different
+easter,der Osterhase,Easter bunny,different
+easter,das Osternest,Easter basket,different
+easter,die Eiersuche,egg hunt,different
+easter,die Eierfarbe,egg dye,different
+easter,das Osterfeuer,Easter bonfire,different
+easter,der Osterbrunch,Easter brunch,different
+easter,das Lamm,lamb,cognate
+food,der Spargel,asparagus,different
+food,die Spargelzeit,asparagus season,different
+food,der Spargelstand,asparagus stall,different
+food,die Sauce hollandaise,hollandaise sauce,cognate
+food,das erste Eis,the first ice cream (of the year),different
+may,der Tag der Arbeit,Labour Day (1 May),different
+may,der Maibaum,maypole,different
+may,der Tanz in den Mai,May Eve dance,different
+may,die Demo,demonstration,cognate
+outside,die Terrasse,terrace,cognate
+outside,die Fahrradsaison,cycling season,different
+outside,der Balkon,balcony,cognate
+outside,die Gartensaison,gardening season,different
