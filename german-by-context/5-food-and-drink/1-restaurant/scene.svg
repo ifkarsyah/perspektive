@@ -1,0 +1,124 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1600 900" stroke="#33302c" stroke-width="3" stroke-linejoin="round" stroke-linecap="round">
+  <rect x="0" y="0" width="1600" height="560" fill="#f1e4cf" stroke="none"/>
+  <rect x="0" y="560" width="1600" height="340" fill="#8b6240" stroke="none"/>
+  <path d="M0 360 H1600" fill="none" stroke="#d9c4a2" stroke-width="10"/>
+
+  <!-- Dish of the day board -->
+  <g data-word="das Tagesgericht">
+    <rect x="470" y="70" width="320" height="230" rx="6" fill="#2f3a33"/>
+    <rect x="470" y="70" width="320" height="230" rx="6" fill="none" stroke="#9a6b43" stroke-width="10"/>
+    <ellipse cx="630" cy="200" rx="90" ry="40" fill="none" stroke="#ffffff" stroke-width="4"/>
+    <path d="M590 195 c20 -30 70 -30 80 0" fill="none" stroke="#f2c94c" stroke-width="5"/>
+    <text x="560" y="270" font-family="sans-serif" font-size="30" fill="#ffffff" stroke="none">12,90 €</text>
+  </g>
+
+  <!-- Kitchen pass with the cook -->
+  <rect x="1080" y="70" width="440" height="260" fill="#cfd8dc"/>
+  <g data-word="der Koch">
+    <circle cx="1300" cy="200" r="36" fill="#e8b98f"/>
+    <path d="M1262 170 c-20 -50 30 -60 38 -40 c10 -25 60 -20 40 40 Z" fill="#ffffff"/>
+    <path d="M1255 240 h90 l15 90 h-120 Z" fill="#ffffff"/>
+  </g>
+  <rect x="1060" y="320" width="480" height="20" fill="#9aa3a8"/>
+
+  <!-- Waiter -->
+  <g data-word="der Kellner">
+    <circle cx="170" cy="250" r="34" fill="#c58c5c"/>
+    <path d="M136 244 c0 -44 68 -44 68 0" fill="#2f2622"/>
+    <path d="M128 290 h84 l10 220 h-104 Z" fill="#2f3337"/>
+    <path d="M150 290 h40 l-20 40 Z" fill="#ffffff" stroke-width="2"/>
+    <path d="M140 510 v120 M200 510 v120" fill="none" stroke="#2f3337" stroke-width="20"/>
+    <path d="M212 320 l60 -30" fill="none" stroke-width="12"/>
+    <ellipse cx="290" cy="285" rx="70" ry="12" fill="#c3cbd0"/>
+  </g>
+  <g data-word="das Bier">
+    <path d="M255 275 v-60 h40 v60 Z" fill="#f2b84b"/>
+    <path d="M255 225 c0 -20 40 -20 40 0" fill="#ffffff"/>
+    <path d="M295 230 c18 0 18 30 0 30" fill="none" stroke-width="4"/>
+  </g>
+  <g data-word="der Wein">
+    <path d="M320 225 c0 30 30 30 30 0 Z" fill="#8b2d3a"/>
+    <path d="M335 245 v28 M322 275 h26" fill="none" stroke-width="3"/>
+  </g>
+
+  <!-- Guest with the menu -->
+  <g data-word="der Gast">
+    <circle cx="1420" cy="430" r="34" fill="#f0c9a6"/>
+    <path d="M1386 430 c-4 -50 72 -50 68 0 c-8 -22 -60 -22 -68 0 Z" fill="#c98f3e"/>
+    <path d="M1380 470 h80 l10 120 h-100 Z" fill="#7fa79a"/>
+  </g>
+  <g data-word="die Speisekarte">
+    <path d="M1330 470 l60 -10 l10 90 l-60 10 Z" fill="#7a2d2d"/>
+    <path d="M1340 480 l40 -6 M1342 494 l40 -6" fill="none" stroke="#e0c06a" stroke-width="3"/>
+  </g>
+
+  <!-- Table in perspective -->
+  <g data-word="der Tisch">
+    <path d="M300 560 H1300 L1380 800 H220 Z" fill="#f7f3ec"/>
+    <path d="M220 800 H1380 V820 H220 Z" fill="#d9cfc0"/>
+  </g>
+  <g data-word="die Getränkekarte">
+    <path d="M1220 600 l20 -50 l20 50 Z" fill="#3d6fb6"/>
+  </g>
+
+  <!-- Back row -->
+  <g data-word="das Brot">
+    <path d="M330 620 h120 l-15 30 h-90 Z" fill="#c99d6f"/>
+    <path d="M345 620 c0 -30 50 -30 50 0" fill="#c8894d"/>
+    <g data-word="das Brötchen"><ellipse cx="420" cy="612" rx="24" ry="14" fill="#d99a5c"/></g>
+  </g>
+  <g data-word="die Suppe">
+    <ellipse cx="530" cy="625" rx="55" ry="18" fill="#ffffff"/>
+    <ellipse cx="530" cy="622" rx="42" ry="11" fill="#e0a43c" stroke-width="2"/>
+  </g>
+  <g data-word="der Salat">
+    <path d="M610 615 h110 c0 30 -25 40 -55 40 s-55 -10 -55 -40 Z" fill="#ffffff"/>
+    <path d="M620 612 c10 -20 30 -20 40 -5 c10 -20 35 -20 50 5" fill="#8bd16f"/>
+    <g data-word="die Tomate"><circle cx="650" cy="608" r="10" fill="#e45b4f"/><circle cx="685" cy="606" r="10" fill="#e45b4f"/></g>
+  </g>
+  <g data-word="das Glas">
+    <path d="M760 645 l-6 -60 h40 l-6 60 Z" fill="#dff1f7"/>
+    <g data-word="das Wasser"><path d="M757 615 h34 l-3 30 h-28 Z" fill="#9fd3ea" stroke="none"/></g>
+  </g>
+  <g data-word="der Saft"><path d="M830 645 l-6 -60 h40 l-6 60 Z" fill="#f2b84b"/></g>
+  <g data-word="die Apfelschorle"><path d="M900 645 l-6 -60 h40 l-6 60 Z" fill="#f6e08a"/>
+    <circle cx="910" cy="620" r="3" fill="#ffffff" stroke="none"/><circle cx="918" cy="605" r="3" fill="#ffffff" stroke="none"/></g>
+  <g data-word="der Kaffee">
+    <ellipse cx="1000" cy="642" rx="40" ry="10" fill="#ffffff"/>
+    <g data-word="die Tasse"><path d="M975 640 v-35 h50 v35 Z" fill="#ffffff"/><path d="M1025 612 c15 0 15 22 0 22" fill="none" stroke-width="4"/></g>
+    <ellipse cx="1000" cy="605" rx="25" ry="5" fill="#6b4226" stroke-width="2"/>
+  </g>
+  <g data-word="das Eis">
+    <path d="M1080 645 h60 l-10 -20 h-40 Z" fill="#dff1f7"/>
+    <circle cx="1095" cy="615" r="16" fill="#f5c4d6"/><circle cx="1125" cy="615" r="16" fill="#f6e08a"/><circle cx="1110" cy="598" r="16" fill="#8b5a2b"/>
+  </g>
+
+  <!-- Front row -->
+  <g data-word="die Serviette"><path d="M290 700 l60 -12 l20 70 l-60 12 Z" fill="#e45b4f"/></g>
+  <g data-word="die Gabel"><path d="M325 760 l-12 -60 M305 700 l-4 -20 M313 698 l-2 -20 M321 697 l0 -20" fill="none" stroke="#9aa3a8" stroke-width="5"/></g>
+
+  <g data-word="der Teller"><ellipse cx="450" cy="720" rx="85" ry="30" fill="#ffffff"/></g>
+  <g data-word="das Schnitzel"><path d="M390 720 c0 -25 90 -30 100 -5 c5 20 -90 30 -100 5 Z" fill="#d9a050"/>
+    <path d="M410 712 l15 10 M440 708 l15 10" fill="none" stroke="#b7802f" stroke-width="2"/></g>
+  <g data-word="die Pommes"><path d="M490 725 l10 -30 M500 727 l14 -26 M510 729 l6 -32 M478 726 l4 -28" fill="none" stroke="#f2c94c" stroke-width="7"/></g>
+
+  <g data-word="der Teller"><ellipse cx="660" cy="725" rx="85" ry="30" fill="#ffffff"/></g>
+  <g data-word="das Steak"><path d="M600 725 c0 -25 90 -28 95 -5 c3 18 -90 28 -95 5 Z" fill="#9c4a3a"/>
+    <path d="M620 715 l50 -4 M622 728 l50 -4" fill="none" stroke="#6b2d22" stroke-width="3"/></g>
+  <g data-word="die Kartoffel"><ellipse cx="715" cy="728" rx="18" ry="12" fill="#e9c27a"/><ellipse cx="728" cy="712" rx="14" ry="10" fill="#e9c27a"/></g>
+
+  <g data-word="der Teller"><ellipse cx="870" cy="730" rx="85" ry="30" fill="#ffffff"/></g>
+  <g data-word="der Lachs"><path d="M810 730 c10 -25 80 -25 95 -5 c-15 20 -85 25 -95 5 Z" fill="#f19e7a"/>
+    <path d="M830 722 l8 12 M850 718 l8 12 M870 718 l8 12" fill="none" stroke="#ffffff" stroke-width="3"/></g>
+  <g data-word="der Reis"><ellipse cx="925" cy="735" rx="24" ry="12" fill="#fbf7ec"/></g>
+
+  <g data-word="der Teller"><ellipse cx="1080" cy="735" rx="85" ry="30" fill="#ffffff"/></g>
+  <g data-word="die Nudeln"><path d="M1025 735 c10 -20 25 10 35 -10 s25 10 35 -10 s20 10 30 -5" fill="none" stroke="#f2c94c" stroke-width="8"/></g>
+  <g data-word="die Soße"><ellipse cx="1080" cy="725" rx="25" ry="10" fill="#c33f3f" stroke-width="2"/></g>
+
+  <g data-word="der Apfelstrudel"><path d="M1190 745 c0 -25 100 -25 110 0 Z" fill="#d99a5c"/>
+    <path d="M1210 738 l10 -10 M1235 738 l10 -10 M1260 738 l10 -10" fill="none" stroke="#b77735" stroke-width="2"/>
+    <circle cx="1295" cy="735" r="12" fill="#ffffff"/></g>
+  <g data-word="das Messer"><path d="M1310 770 l20 -80" fill="none" stroke="#9aa3a8" stroke-width="7"/></g>
+  <g data-word="der Löffel"><path d="M1345 770 l15 -60" fill="none" stroke="#9aa3a8" stroke-width="5"/><ellipse cx="1362" cy="702" rx="9" ry="14" fill="#c3cbd0"/></g>
+</svg>

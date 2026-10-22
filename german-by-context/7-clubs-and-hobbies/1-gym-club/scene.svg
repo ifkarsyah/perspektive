@@ -1,0 +1,107 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1600 900" stroke="#33302c" stroke-width="3" stroke-linejoin="round" stroke-linecap="round">
+  <g data-word="das Fitnessstudio">
+    <rect x="0" y="0" width="1600" height="700" fill="#e9ecef" stroke="none"/>
+    <rect x="0" y="700" width="1600" height="200" fill="#3a3f44" stroke="none"/>
+    <rect x="0" y="0" width="1600" height="40" fill="#f29a2e" stroke="none"/>
+  </g>
+
+  <!-- Changing room with lockers -->
+  <g data-word="die Umkleide">
+    <rect x="30" y="150" width="140" height="550" fill="#c3cbd0"/>
+    <rect x="60" y="180" width="80" height="34" rx="4" fill="#ffffff"/>
+    <circle cx="150" cy="450" r="7" fill="#9aa3a8"/>
+  </g>
+  <g data-word="der Spind">
+    <rect x="190" y="200" width="240" height="500" fill="#4f8a8b"/>
+    <path d="M270 200 V700 M350 200 V700 M190 450 H430" fill="none"/>
+    <path d="M210 230 h40 M290 230 h40 M370 230 h40 M210 480 h40 M290 480 h40 M370 480 h40" fill="none" stroke="#3a6e6f" stroke-width="4"/>
+  </g>
+  <g data-word="das Schloss">
+    <path d="M300 330 c0 -25 30 -25 30 0" fill="none" stroke="#9aa3a8" stroke-width="5"/>
+    <rect x="296" y="330" width="38" height="34" rx="5" fill="#e45b4f"/>
+  </g>
+  <g data-word="das Handtuch">
+    <path d="M375 260 h50 v120 h-50 Z" fill="#f2b84b"/>
+    <path d="M375 350 h50" fill="none" stroke="#ffffff" stroke-width="4"/>
+  </g>
+
+  <!-- Cardio -->
+  <g data-word="das Laufband">
+    <path d="M470 680 l40 -40 h240 l20 40 Z" fill="#2f3337"/>
+    <path d="M520 640 l-30 -260 h80" fill="none" stroke="#9aa3a8" stroke-width="10"/>
+    <rect x="540" y="360" width="80" height="40" rx="6" fill="#2f3337"/>
+    <rect x="550" y="368" width="60" height="22" fill="#7fe0a8" stroke-width="2"/>
+  </g>
+  <g data-word="das Fahrrad">
+    <path d="M830 690 h140 M860 690 l20 -150 M940 690 l-40 -160" fill="none" stroke="#9aa3a8" stroke-width="10"/>
+    <path d="M860 520 h50" fill="none" stroke-width="12"/>
+    <path d="M900 520 l40 -110 h40" fill="none" stroke="#9aa3a8" stroke-width="8"/>
+    <circle cx="905" cy="600" r="40" fill="#2f3337"/>
+  </g>
+  <g data-word="der Crosstrainer">
+    <path d="M1010 690 h170 M1040 690 l40 -200 M1160 690 l-50 -60" fill="none" stroke="#9aa3a8" stroke-width="10"/>
+    <path d="M1050 600 l-10 -200 M1110 600 l10 -200" fill="none" stroke="#2f3337" stroke-width="8"/>
+    <ellipse cx="1080" cy="640" rx="60" ry="14" fill="#555b60"/>
+    <circle cx="1170" cy="640" r="35" fill="#555b60"/>
+  </g>
+
+  <!-- Trainer with plan -->
+  <g data-word="der Trainer">
+    <circle cx="1310" cy="340" r="32" fill="#c58c5c"/>
+    <path d="M1278 334 c0 -42 64 -42 64 0" fill="#2f2622"/>
+    <path d="M1272 378 h76 l10 160 h-96 Z" fill="#f29a2e"/>
+    <path d="M1282 538 v160 M1338 538 v160" fill="none" stroke="#2f3337" stroke-width="20"/>
+    <path d="M1300 420 h20 M1310 410 v20" fill="none" stroke="#ffffff" stroke-width="5"/>
+  </g>
+  <g data-word="der Trainingsplan">
+    <rect x="1360" y="400" width="80" height="104" rx="4" fill="#ffffff"/>
+    <rect x="1385" y="392" width="30" height="12" fill="#9aa3a8" stroke-width="2"/>
+    <path d="M1372 425 h12 M1392 425 h36 M1372 445 h12 M1392 445 h36 M1372 465 h12 M1392 465 h36 M1372 485 h12 M1392 485 h28" fill="none" stroke-width="3"/>
+  </g>
+  <g data-word="der Mitgliedsausweis">
+    <rect x="1470" y="470" width="100" height="60" rx="8" fill="#f29a2e"/>
+    <rect x="1482" y="482" width="24" height="30" fill="#ffffff" stroke-width="2"/>
+    <path d="M1516 488 h40 M1516 504 h30" fill="none" stroke="#ffffff" stroke-width="4"/>
+  </g>
+
+  <!-- Free weights in the foreground -->
+  <g data-word="die Hantelbank">
+    <rect x="60" y="760" width="300" height="34" rx="10" fill="#c33f3f"/>
+    <path d="M100 794 V880 M320 794 V880" fill="none" stroke="#9aa3a8" stroke-width="12"/>
+    <path d="M330 760 V640 M90 760 V640" fill="none" stroke="#9aa3a8" stroke-width="10"/>
+  </g>
+  <g data-word="die Langhantel">
+    <path d="M30 640 H390" fill="none" stroke="#c3cbd0" stroke-width="10"/>
+    <g data-word="die Scheibe">
+      <rect x="40" y="590" width="26" height="100" rx="6" fill="#2f3337"/>
+      <rect x="354" y="590" width="26" height="100" rx="6" fill="#2f3337"/>
+    </g>
+  </g>
+  <g data-word="die Hantel">
+    <path d="M430 860 h80" fill="none" stroke="#c3cbd0" stroke-width="10"/>
+    <rect x="418" y="836" width="22" height="48" rx="6" fill="#3d6fb6"/><rect x="500" y="836" width="22" height="48" rx="6" fill="#3d6fb6"/>
+    <path d="M560 860 h80" fill="none" stroke="#c3cbd0" stroke-width="10"/>
+    <rect x="548" y="836" width="22" height="48" rx="6" fill="#3d6fb6"/><rect x="630" y="836" width="22" height="48" rx="6" fill="#3d6fb6"/>
+  </g>
+  <g data-word="das Gewicht">
+    <path d="M700 880 c-20 0 -30 -60 0 -70 h60 c30 10 20 70 0 70 Z" fill="#2f3337"/>
+    <path d="M705 812 c0 -40 50 -40 50 0" fill="none" stroke="#2f3337" stroke-width="10"/>
+  </g>
+  <g data-word="die Matte">
+    <rect x="820" y="850" width="400" height="24" rx="6" fill="#8b6fb5"/>
+  </g>
+  <!-- Person doing a push-up on the mat -->
+  <g data-word="der Liegestütz">
+    <circle cx="1170" cy="790" r="24" fill="#e8b98f"/>
+    <path d="M880 845 L1140 800" fill="none" stroke="#3d9a7a" stroke-width="34"/>
+    <path d="M1120 805 V850" fill="none" stroke="#e8b98f" stroke-width="14"/>
+    <path d="M880 845 h-20" fill="none" stroke="#2f3337" stroke-width="14"/>
+  </g>
+  <g data-word="das Seil">
+    <path d="M1260 880 c40 -80 120 -80 160 0 c40 80 120 80 160 0" fill="none" stroke="#f2b84b" stroke-width="12"/>
+  </g>
+  <g data-word="die Trinkflasche">
+    <rect x="1500" y="760" width="40" height="90" rx="10" fill="#3d6fb6"/>
+    <rect x="1508" y="745" width="24" height="18" rx="4" fill="#2f3337"/>
+  </g>
+</svg>

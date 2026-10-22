@@ -1,0 +1,70 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1600 900" stroke="#33302c" stroke-width="3" stroke-linejoin="round" stroke-linecap="round">
+  <rect x="0" y="0" width="1600" height="900" fill="#d6ecf6" stroke="none"/>
+
+  <g data-word="die Sonne"><circle cx="160" cy="110" r="55" fill="#f6d53b"/></g>
+  <g data-word="das Gewitter">
+    <path d="M1250 140 c-10 -50 60 -70 90 -40 c20 -40 100 -30 100 20 c40 0 50 60 0 60 h-170 c-40 0 -50 -40 -20 -40 Z" fill="#6b7378"/>
+    <path d="M1330 180 l-20 50 h25 l-20 50" fill="none" stroke="#f6d53b" stroke-width="7"/>
+    <g data-word="der Regen"><path d="M1400 195 l-10 30 M1430 195 l-10 30 M1460 195 l-10 30 M1270 195 l-10 30" fill="none" stroke="#3d6fb6" stroke-width="4"/></g>
+  </g>
+
+  <!-- Mountains, valley, lake -->
+  <g data-word="der Berg"><path d="M380 520 L760 120 L1140 520 Z" fill="#8a96a3"/></g>
+  <g data-word="der Gipfel"><path d="M690 194 L760 120 L830 194 L800 180 L760 205 L720 180 Z" fill="#ffffff"/></g>
+  <g data-word="der Hügel"><path d="M0 520 C150 330 330 330 480 520 Z" fill="#8bbf7a"/><path d="M1060 520 C1250 340 1450 340 1600 520 Z" fill="#8bbf7a"/></g>
+  <g data-word="das Tal"><path d="M380 520 C560 470 960 470 1140 520 Z" fill="#a9d38f"/></g>
+  <rect x="0" y="520" width="1600" height="380" fill="#9fcf86" stroke="none"/>
+  <g data-word="der See"><ellipse cx="760" cy="560" rx="200" ry="40" fill="#6fa8dc"/></g>
+  <g data-word="der Fluss"><path d="M960 560 C1100 600 1150 680 1300 720 L1360 720 C1220 670 1150 590 1000 555 Z" fill="#6fa8dc"/></g>
+  <g data-word="die Hütte">
+    <rect x="1220" y="400" width="110" height="80" fill="#a0693a"/>
+    <path d="M1205 405 L1275 345 L1345 405 Z" fill="#7a4f22"/>
+    <rect x="1262" y="430" width="26" height="50" fill="#5b4636"/>
+  </g>
+  <g data-word="der Aussichtspunkt">
+    <path d="M520 320 h80 M530 320 v-25 M590 320 v-25 M525 300 h70" fill="none" stroke="#5b4636" stroke-width="5"/>
+    <circle cx="560" cy="270" r="12" fill="#e8b98f"/><path d="M552 284 h16 v30 h-16 Z" fill="#e45b4f"/>
+  </g>
+
+
+  <g data-word="der Wald">
+    <path d="M40 620 l40 -110 l40 110 Z M100 640 l45 -130 l45 130 Z M170 615 l40 -110 l40 110 Z M230 640 l45 -130 l45 130 Z" fill="#3d7a5a"/>
+    <path d="M80 620 v20 M145 640 v20 M210 615 v20 M275 640 v20" fill="none" stroke="#5b4636" stroke-width="6"/>
+  </g>
+  <g data-word="die Markierung"><rect x="263" y="575" width="24" height="16" fill="#ffffff" stroke-width="2"/><path d="M263 583 h24" fill="none" stroke="#e45b4f" stroke-width="5"/></g>
+  <g data-word="der Wanderweg"><path d="M330 900 C420 780 520 700 640 640 C700 610 760 600 820 600" fill="none" stroke="#d9c4a2" stroke-width="40"/></g>
+
+  <!-- Group of hikers -->
+  <g data-word="die Gruppe">
+    <circle cx="470" cy="610" r="18" fill="#c58c5c"/><path d="M455 630 h30 l6 70 h-42 Z" fill="#3d6fb6"/>
+    <circle cx="530" cy="590" r="18" fill="#e8b98f"/><path d="M515 610 h30 l6 70 h-42 Z" fill="#e45b4f"/>
+  </g>
+  <g data-word="der Wanderführer">
+    <circle cx="610" cy="560" r="18" fill="#8d5a3b"/><path d="M595 580 h30 l6 70 h-42 Z" fill="#5b8c5a"/>
+    <path d="M625 590 l25 -30" fill="none" stroke-width="5"/>
+  </g>
+
+  <!-- Hiker in the foreground with gear -->
+  <circle cx="1460" cy="560" r="34" fill="#f0c9a6"/>
+  <path d="M1426 556 c0 -46 68 -46 68 0" fill="#7a5a3c"/>
+  <g data-word="die Regenjacke"><path d="M1416 600 h88 l14 170 h-116 Z" fill="#f29a2e"/><path d="M1460 600 v170" fill="none" stroke="#d27b14" stroke-width="3"/></g>
+  <g data-word="der Rucksack"><path d="M1510 610 h50 c15 0 20 10 20 25 v120 h-70 Z" fill="#3d6fb6"/><rect x="1520" y="680" width="40" height="40" rx="5" fill="#2d568f"/></g>
+  <path d="M1430 770 v80 M1490 770 v80" fill="none" stroke="#555b60" stroke-width="20"/>
+  <g data-word="die Wanderschuhe"><path d="M1410 850 h40 v30 h-60 c0 -15 10 -30 20 -30 Z M1470 850 h40 c10 0 20 15 20 30 h-60 Z" fill="#7a4f22"/></g>
+  <g data-word="die Wanderstöcke"><path d="M1400 640 l-40 240 M1520 640 l40 240" fill="none" stroke="#9aa3a8" stroke-width="6"/></g>
+
+  <!-- Picnic -->
+  <g data-word="das Picknick">
+    <path d="M700 900 l60 -150 h460 l40 150 Z" fill="#e45b4f"/>
+    <path d="M760 750 l-40 150 M860 750 l-30 150 M960 750 l-20 150 M1060 750 l-10 150 M1160 750 v150 M730 800 h480 M715 850 h500" fill="none" stroke="#ffffff" stroke-width="4"/>
+  </g>
+  <g data-word="die Stulle"><path d="M790 800 h90 v40 h-90 Z" fill="#d99a5c"/><path d="M790 812 h90" fill="none" stroke="#8bd16f" stroke-width="6"/></g>
+  <g data-word="die Wasserflasche"><rect x="910" y="760" width="40" height="90" rx="10" fill="#9fd3ea"/><rect x="918" y="746" width="24" height="16" rx="3" fill="#3d6fb6"/></g>
+  <g data-word="die Karte">
+    <path d="M980 790 l60 -10 l60 10 l60 -10 v80 l-60 10 l-60 -10 l-60 10 Z" fill="#f4ecd9"/>
+    <path d="M1040 780 v80 M1100 790 v80" fill="none" stroke-width="2"/>
+    <path d="M995 830 c30 -20 60 10 90 -10 s50 0 60 -20" fill="none" stroke="#e45b4f" stroke-width="3" stroke-dasharray="6 5"/>
+  </g>
+  <g data-word="die Taschenlampe"><rect x="1180" y="820" width="70" height="26" rx="6" fill="#2f3337"/><path d="M1250 818 l20 -8 v46 l-20 -8 Z" fill="#555b60"/></g>
+  <g data-word="die Sonnencreme"><path d="M800 880 h44 l-6 -60 h-32 Z" fill="#f2b84b"/><rect x="812" y="808" width="20" height="14" rx="3" fill="#ffffff"/></g>
+</svg>

@@ -1,0 +1,88 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1600 900" stroke="#33302c" stroke-width="3" stroke-linejoin="round" stroke-linecap="round">
+  <rect x="0" y="0" width="1600" height="900" fill="#eef0f4" stroke="none"/>
+  <g data-word="der Anruf">
+    <circle cx="160" cy="300" r="50" fill="#e8b98f"/>
+    <path d="M110 290 c0 -66 100 -66 100 0" fill="#7a5a3c"/>
+    <path d="M90 360 h140 l20 260 h-180 Z" fill="#3d9a7a"/>
+    <path d="M230 400 l50 -60" fill="none" stroke-width="16"/>
+    <path d="M110 620 v220 M210 620 v220" fill="none" stroke="#2f3f5c" stroke-width="28"/>
+  </g>
+  <rect x="300" y="90" width="300" height="720" rx="40" fill="#2f3337"/>
+  <g data-word="das Telefonat">
+    <rect x="318" y="120" width="264" height="660" rx="20" fill="#ffffff"/>
+  </g>
+  <g data-word="die Telefonnummer"><text x="338" y="185" font-family="monospace" font-size="30" fill="#33302c" stroke="none">030 4471</text></g>
+  <g data-word="die Durchwahl"><rect x="490" y="160" width="76" height="34" rx="6" fill="#ece5fb" stroke-width="2"/>
+    <text x="498" y="186" font-family="monospace" font-size="24" fill="#7b4fd6" stroke="none">-89</text></g>
+  <g data-word="die Warteschleife">
+    <rect x="338" y="215" width="226" height="90" rx="10" fill="#f6f1e6"/>
+    <path d="M368 280 v-40 l26 -8 v40" fill="none" stroke-width="4"/>
+    <ellipse cx="362" cy="282" rx="8" ry="6" fill="#33302c"/><ellipse cx="388" cy="274" rx="8" ry="6" fill="#33302c"/>
+    <text x="420" y="272" font-family="monospace" font-size="28" fill="#e45b4f" stroke="none">12:40</text>
+  </g>
+  <g data-word="die Taste">
+    <circle cx="370" cy="358" r="28" fill="#e6eaec"/><text x="361" y="370" font-family="sans-serif" font-size="30" fill="#33302c" stroke="none">1</text>
+    <circle cx="440" cy="358" r="28" fill="#e6eaec"/><text x="431" y="370" font-family="sans-serif" font-size="30" fill="#33302c" stroke="none">2</text>
+    <circle cx="510" cy="358" r="28" fill="#e6eaec"/><text x="501" y="370" font-family="sans-serif" font-size="30" fill="#33302c" stroke="none">3</text>
+    <circle cx="370" cy="438" r="28" fill="#e6eaec"/><text x="361" y="450" font-family="sans-serif" font-size="30" fill="#33302c" stroke="none">4</text>
+    <circle cx="440" cy="438" r="28" fill="#e6eaec"/><text x="431" y="450" font-family="sans-serif" font-size="30" fill="#33302c" stroke="none">5</text>
+    <circle cx="510" cy="438" r="28" fill="#e6eaec"/><text x="501" y="450" font-family="sans-serif" font-size="30" fill="#33302c" stroke="none">6</text>
+    <circle cx="370" cy="518" r="28" fill="#e6eaec"/><text x="361" y="530" font-family="sans-serif" font-size="30" fill="#33302c" stroke="none">7</text>
+    <circle cx="440" cy="518" r="28" fill="#e6eaec"/><text x="431" y="530" font-family="sans-serif" font-size="30" fill="#33302c" stroke="none">8</text>
+    <circle cx="510" cy="518" r="28" fill="#e6eaec"/><text x="501" y="530" font-family="sans-serif" font-size="30" fill="#33302c" stroke="none">9</text>
+    <circle cx="440" cy="598" r="28" fill="#e6eaec"/><text x="431" y="610" font-family="sans-serif" font-size="30" fill="#33302c" stroke="none">0</text>
+  </g>
+  <g data-word="der Stern"><circle cx="370" cy="598" r="28" fill="#f6d53b"/><text x="358" y="616" font-family="sans-serif" font-size="40" fill="#33302c" stroke="none">*</text></g>
+  <g data-word="die Raute"><circle cx="510" cy="598" r="28" fill="#f6d53b"/><text x="497" y="610" font-family="sans-serif" font-size="32" fill="#33302c" stroke="none">#</text></g>
+  <g data-word="die Mailbox"><circle cx="400" cy="700" r="34" fill="#3d6fb6"/>
+    <circle cx="388" cy="700" r="9" fill="none" stroke="#ffffff" stroke-width="4"/><circle cx="412" cy="700" r="9" fill="none" stroke="#ffffff" stroke-width="4"/><path d="M388 709 h24" fill="none" stroke="#ffffff" stroke-width="4"/></g>
+  <g data-word="der Rückruf"><circle cx="500" cy="700" r="34" fill="#5b8c5a"/>
+    <path d="M486 712 c0 -20 10 -26 28 -26 M506 678 l10 8 l-10 8" fill="none" stroke="#ffffff" stroke-width="5"/></g>
+  <g data-word="der Kundenservice">
+    <circle cx="690" cy="300" r="46" fill="#c58c5c"/>
+    <path d="M644 292 c0 -60 92 -60 92 0" fill="#2f2622"/>
+    <path d="M640 300 c0 -70 100 -70 100 0" fill="none" stroke-width="6"/>
+    <rect x="630" y="288" width="16" height="30" rx="5" fill="#3a3f44"/>
+    <path d="M640 318 c0 30 20 40 40 40" fill="none" stroke-width="4"/>
+    <path d="M630 360 h120 l20 220 h-160 Z" fill="#e45b4f"/>
+  </g>
+  <g data-word="die Kundennummer">
+    <rect x="610" y="640" width="160" height="90" fill="#fff3a6" transform="rotate(-4 690 685)"/>
+    <text x="622" y="696" font-family="monospace" font-size="26" fill="#33302c" stroke="none">KD 48213</text>
+  </g>
+  <g data-word="die Vorgangsnummer">
+    <rect x="610" y="750" width="160" height="90" fill="#cfe9f7" transform="rotate(3 690 795)"/>
+    <text x="622" y="806" font-family="monospace" font-size="26" fill="#33302c" stroke="none">#2024-77</text>
+  </g>
+  <rect x="800" y="40" width="780" height="830" rx="12" fill="#ffffff"/>
+  <g data-word="A wie Aachen"><rect x="820" y="60" width="112" height="146" rx="10" fill="#f6d53b"/><text x="876" y="156" text-anchor="middle" font-family="sans-serif" font-size="64" font-weight="bold" fill="#33302c" stroke="none">A</text></g>
+  <g data-word="B wie Berlin"><rect x="946" y="60" width="112" height="146" rx="10" fill="#9fd3ea"/><text x="1002" y="156" text-anchor="middle" font-family="sans-serif" font-size="64" font-weight="bold" fill="#33302c" stroke="none">B</text></g>
+  <g data-word="C wie Chemnitz"><rect x="1072" y="60" width="112" height="146" rx="10" fill="#f5c4d6"/><text x="1128" y="156" text-anchor="middle" font-family="sans-serif" font-size="64" font-weight="bold" fill="#33302c" stroke="none">C</text></g>
+  <g data-word="D wie Düsseldorf"><rect x="1198" y="60" width="112" height="146" rx="10" fill="#a9d38f"/><text x="1254" y="156" text-anchor="middle" font-family="sans-serif" font-size="64" font-weight="bold" fill="#33302c" stroke="none">D</text></g>
+  <g data-word="E wie Essen"><rect x="1324" y="60" width="112" height="146" rx="10" fill="#e9d2a6"/><text x="1380" y="156" text-anchor="middle" font-family="sans-serif" font-size="64" font-weight="bold" fill="#33302c" stroke="none">E</text></g>
+  <g data-word="F wie Frankfurt"><rect x="1450" y="60" width="112" height="146" rx="10" fill="#c9b8e6"/><text x="1506" y="156" text-anchor="middle" font-family="sans-serif" font-size="64" font-weight="bold" fill="#33302c" stroke="none">F</text></g>
+  <g data-word="G wie Goslar"><rect x="820" y="220" width="112" height="146" rx="10" fill="#9fd3ea"/><text x="876" y="316" text-anchor="middle" font-family="sans-serif" font-size="64" font-weight="bold" fill="#33302c" stroke="none">G</text></g>
+  <g data-word="H wie Hamburg"><rect x="946" y="220" width="112" height="146" rx="10" fill="#f5c4d6"/><text x="1002" y="316" text-anchor="middle" font-family="sans-serif" font-size="64" font-weight="bold" fill="#33302c" stroke="none">H</text></g>
+  <g data-word="I wie Ingelheim"><rect x="1072" y="220" width="112" height="146" rx="10" fill="#a9d38f"/><text x="1128" y="316" text-anchor="middle" font-family="sans-serif" font-size="64" font-weight="bold" fill="#33302c" stroke="none">I</text></g>
+  <g data-word="J wie Jena"><rect x="1198" y="220" width="112" height="146" rx="10" fill="#e9d2a6"/><text x="1254" y="316" text-anchor="middle" font-family="sans-serif" font-size="64" font-weight="bold" fill="#33302c" stroke="none">J</text></g>
+  <g data-word="K wie Köln"><rect x="1324" y="220" width="112" height="146" rx="10" fill="#c9b8e6"/><text x="1380" y="316" text-anchor="middle" font-family="sans-serif" font-size="64" font-weight="bold" fill="#33302c" stroke="none">K</text></g>
+  <g data-word="L wie Leipzig"><rect x="1450" y="220" width="112" height="146" rx="10" fill="#f6d53b"/><text x="1506" y="316" text-anchor="middle" font-family="sans-serif" font-size="64" font-weight="bold" fill="#33302c" stroke="none">L</text></g>
+  <g data-word="M wie München"><rect x="820" y="380" width="112" height="146" rx="10" fill="#f5c4d6"/><text x="876" y="476" text-anchor="middle" font-family="sans-serif" font-size="64" font-weight="bold" fill="#33302c" stroke="none">M</text></g>
+  <g data-word="N wie Nürnberg"><rect x="946" y="380" width="112" height="146" rx="10" fill="#a9d38f"/><text x="1002" y="476" text-anchor="middle" font-family="sans-serif" font-size="64" font-weight="bold" fill="#33302c" stroke="none">N</text></g>
+  <g data-word="O wie Offenbach"><rect x="1072" y="380" width="112" height="146" rx="10" fill="#e9d2a6"/><text x="1128" y="476" text-anchor="middle" font-family="sans-serif" font-size="64" font-weight="bold" fill="#33302c" stroke="none">O</text></g>
+  <g data-word="P wie Potsdam"><rect x="1198" y="380" width="112" height="146" rx="10" fill="#c9b8e6"/><text x="1254" y="476" text-anchor="middle" font-family="sans-serif" font-size="64" font-weight="bold" fill="#33302c" stroke="none">P</text></g>
+  <g data-word="Q wie Quickborn"><rect x="1324" y="380" width="112" height="146" rx="10" fill="#f6d53b"/><text x="1380" y="476" text-anchor="middle" font-family="sans-serif" font-size="64" font-weight="bold" fill="#33302c" stroke="none">Q</text></g>
+  <g data-word="R wie Rostock"><rect x="1450" y="380" width="112" height="146" rx="10" fill="#9fd3ea"/><text x="1506" y="476" text-anchor="middle" font-family="sans-serif" font-size="64" font-weight="bold" fill="#33302c" stroke="none">R</text></g>
+  <g data-word="S wie Salzwedel"><rect x="820" y="540" width="112" height="146" rx="10" fill="#a9d38f"/><text x="876" y="636" text-anchor="middle" font-family="sans-serif" font-size="64" font-weight="bold" fill="#33302c" stroke="none">S</text></g>
+  <g data-word="T wie Tübingen"><rect x="946" y="540" width="112" height="146" rx="10" fill="#e9d2a6"/><text x="1002" y="636" text-anchor="middle" font-family="sans-serif" font-size="64" font-weight="bold" fill="#33302c" stroke="none">T</text></g>
+  <g data-word="U wie Unna"><rect x="1072" y="540" width="112" height="146" rx="10" fill="#c9b8e6"/><text x="1128" y="636" text-anchor="middle" font-family="sans-serif" font-size="64" font-weight="bold" fill="#33302c" stroke="none">U</text></g>
+  <g data-word="V wie Völklingen"><rect x="1198" y="540" width="112" height="146" rx="10" fill="#f6d53b"/><text x="1254" y="636" text-anchor="middle" font-family="sans-serif" font-size="64" font-weight="bold" fill="#33302c" stroke="none">V</text></g>
+  <g data-word="W wie Wuppertal"><rect x="1324" y="540" width="112" height="146" rx="10" fill="#9fd3ea"/><text x="1380" y="636" text-anchor="middle" font-family="sans-serif" font-size="64" font-weight="bold" fill="#33302c" stroke="none">W</text></g>
+  <g data-word="X wie Xanten"><rect x="1450" y="540" width="112" height="146" rx="10" fill="#f5c4d6"/><text x="1506" y="636" text-anchor="middle" font-family="sans-serif" font-size="64" font-weight="bold" fill="#33302c" stroke="none">X</text></g>
+  <g data-word="Y wie Ypsilon"><rect x="820" y="700" width="112" height="146" rx="10" fill="#e9d2a6"/><text x="876" y="796" text-anchor="middle" font-family="sans-serif" font-size="64" font-weight="bold" fill="#33302c" stroke="none">Y</text></g>
+  <g data-word="Z wie Zwickau"><rect x="946" y="700" width="112" height="146" rx="10" fill="#c9b8e6"/><text x="1002" y="796" text-anchor="middle" font-family="sans-serif" font-size="64" font-weight="bold" fill="#33302c" stroke="none">Z</text></g>
+  <g data-word="Ä wie Umlaut-A"><rect x="1072" y="700" width="112" height="146" rx="10" fill="#f6d53b"/><text x="1128" y="796" text-anchor="middle" font-family="sans-serif" font-size="64" font-weight="bold" fill="#33302c" stroke="none">Ä</text></g>
+  <g data-word="Ö wie Umlaut-O"><rect x="1198" y="700" width="112" height="146" rx="10" fill="#9fd3ea"/><text x="1254" y="796" text-anchor="middle" font-family="sans-serif" font-size="64" font-weight="bold" fill="#33302c" stroke="none">Ö</text></g>
+  <g data-word="Ü wie Umlaut-U"><rect x="1324" y="700" width="112" height="146" rx="10" fill="#f5c4d6"/><text x="1380" y="796" text-anchor="middle" font-family="sans-serif" font-size="64" font-weight="bold" fill="#33302c" stroke="none">Ü</text></g>
+  <g data-word="ß wie Eszett"><rect x="1450" y="700" width="112" height="146" rx="10" fill="#a9d38f"/><text x="1506" y="796" text-anchor="middle" font-family="sans-serif" font-size="64" font-weight="bold" fill="#33302c" stroke="none">ß</text></g>
+</svg>

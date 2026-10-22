@@ -1,0 +1,137 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1600 900" stroke="#33302c" stroke-width="3" stroke-linejoin="round" stroke-linecap="round">
+  <g data-word="der Supermarkt">
+    <rect x="0" y="0" width="1600" height="690" fill="#f2f0ea" stroke="none"/>
+    <rect x="0" y="690" width="1600" height="210" fill="#d4d0c6" stroke="none"/>
+    <path d="M0 690 H1600 M0 790 H1600" fill="none" stroke="#bfbab0" stroke-width="2"/>
+  </g>
+  <g data-word="das Angebot">
+    <path d="M640 0 V40 M760 0 V40" fill="none" stroke-width="2"/>
+    <rect x="600" y="40" width="200" height="70" rx="8" fill="#e45b4f"/>
+    <path d="M700 55 l10 18 l20 3 l-15 13 l4 20 l-19 -10 l-19 10 l4 -20 l-15 -13 l20 -3 Z" fill="#f6d53b" stroke-width="2"/>
+  </g>
+
+  <!-- Bottle return -->
+  <g data-word="der Pfandautomat">
+    <rect x="30" y="250" width="170" height="440" rx="10" fill="#5b8c5a"/>
+    <circle cx="115" cy="360" r="45" fill="#2f3337"/>
+    <circle cx="115" cy="360" r="25" fill="#555b60"/>
+    <rect x="60" y="440" width="110" height="60" rx="4" fill="#9fe0a8"/>
+    <rect x="80" y="530" width="70" height="10" rx="3" fill="#2f3337"/>
+  </g>
+  <g data-word="der Pfandbon">
+    <rect x="92" y="536" width="46" height="60" fill="#ffffff" stroke-width="2"/>
+    <path d="M100 552 h30 M100 564 h30 M100 576 h20" fill="none" stroke-width="2"/>
+  </g>
+  <g data-word="das Pfand">
+    <path d="M50 690 v-60 c0 -10 8 -12 8 -24 v-16 h8 v16 c0 12 8 14 8 24 v60 Z" fill="#62b56f"/>
+    <path d="M150 690 v-60 c0 -10 8 -12 8 -24 v-16 h8 v16 c0 12 8 14 8 24 v60 Z" fill="#b67a3e"/>
+  </g>
+
+  <!-- Dry goods shelf -->
+  <g data-word="das Regal">
+    <rect x="230" y="170" width="520" height="520" fill="#e2e6e8"/>
+    <path d="M230 300 H750 M230 430 H750 M230 560 H750" fill="none" stroke-width="6"/>
+  </g>
+  <g data-word="die Nudeln"><rect x="250" y="210" width="80" height="88" rx="4" fill="#f2c94c"/><path d="M262 240 h56 M262 255 h56 M262 270 h56" fill="none" stroke="#c99a1e" stroke-width="4"/></g>
+  <g data-word="der Reis"><rect x="350" y="200" width="80" height="98" rx="6" fill="#ffffff"/><path d="M360 230 h60 v30 h-60 Z" fill="#e45b4f" stroke-width="2"/></g>
+  <g data-word="das Mehl"><path d="M450 298 v-80 l10 -12 h60 l10 12 v80 Z" fill="#f4ecd9"/><path d="M465 240 h50" fill="none" stroke="#3d6fb6" stroke-width="5"/></g>
+  <g data-word="der Zucker"><rect x="550" y="215" width="70" height="83" rx="3" fill="#ffffff"/><path d="M565 245 h40 v25 h-40 Z" fill="#7fb8d6" stroke-width="2"/></g>
+  <g data-word="das Salz"><rect x="650" y="225" width="50" height="73" rx="6" fill="#3d6fb6"/><rect x="655" y="215" width="40" height="12" rx="3" fill="#ffffff"/></g>
+  <g data-word="das Öl"><path d="M270 428 v-80 c0 -12 14 -16 14 -30 v-10 h12 v10 c0 14 14 18 14 30 v80 Z" fill="#f2c94c" fill-opacity="0.85"/></g>
+  <g data-word="die Dose"><rect x="350" y="370" width="55" height="58" rx="5" fill="#c33f3f"/><path d="M350 383 h55 M350 415 h55" fill="none" stroke-width="2"/></g>
+  <g data-word="die Packung"><rect x="440" y="320" width="90" height="108" rx="3" fill="#f2b84b"/><circle cx="485" cy="375" r="20" fill="#ffffff" stroke-width="2"/></g>
+  <g data-word="die Flasche">
+    <path d="M570 428 v-70 c0 -10 10 -14 10 -26 v-14 h12 v14 c0 12 10 16 10 26 v70 Z" fill="#9fd3ea"/>
+    <path d="M630 428 v-70 c0 -10 10 -14 10 -26 v-14 h12 v14 c0 12 10 16 10 26 v70 Z" fill="#9fd3ea"/>
+    <path d="M690 428 v-70 c0 -10 10 -14 10 -26 v-14 h12 v14 c0 12 10 16 10 26 v70 Z" fill="#9fd3ea"/>
+  </g>
+  <g>
+    <rect x="260" y="470" width="110" height="88" rx="6" fill="#f2b84b"/>
+    <path d="M260 500 h110" fill="none" stroke-width="2"/>
+  </g>
+  <g data-word="die Tüte">
+    <path d="M420 558 l10 -80 h100 l10 80 Z" fill="#c89a63"/>
+    <path d="M455 478 c0 -25 50 -25 50 0" fill="none" stroke-width="3"/>
+  </g>
+
+  <!-- Fridge -->
+  <rect x="780" y="170" width="330" height="520" fill="#dff1f7"/>
+  <path d="M780 300 H1110 M780 430 H1110 M780 560 H1110" fill="none" stroke-width="5"/>
+  <g data-word="die Milch">
+    <path d="M800 298 v-80 l20 -20 h40 l20 20 v80 Z" fill="#ffffff"/>
+    <path d="M800 250 h80" fill="none" stroke="#3d6fb6" stroke-width="5"/>
+    <g data-word="das Haltbarkeitsdatum"><rect x="812" y="265" width="56" height="20" fill="#f6d53b" stroke-width="2"/>
+      <text x="815" y="281" font-family="monospace" font-size="14" fill="#33302c" stroke="none">12.11.</text></g>
+  </g>
+  <g data-word="der Joghurt"><path d="M910 298 l-6 -50 h50 l-6 50 Z" fill="#ffffff"/><rect x="902" y="240" width="54" height="10" rx="2" fill="#e87f98"/>
+    <path d="M980 298 l-6 -50 h50 l-6 50 Z" fill="#ffffff"/><rect x="972" y="240" width="54" height="10" rx="2" fill="#8bbf7a"/></g>
+  <g data-word="die Butter"><rect x="810" y="385" width="100" height="43" rx="3" fill="#f6e08a"/><path d="M820 405 h80" fill="none" stroke="#c99a1e" stroke-width="3"/></g>
+  <g data-word="der Käse"><path d="M940 428 v-50 l120 -20 v70 Z" fill="#f2c94c"/><circle cx="980" cy="405" r="7" fill="#d9ab2c" stroke="none"/><circle cx="1030" cy="395" r="9" fill="#d9ab2c" stroke="none"/></g>
+  <g data-word="das Ei">
+    <rect x="810" y="525" width="180" height="33" rx="4" fill="#c3b49a"/>
+    <ellipse cx="835" cy="518" rx="14" ry="18" fill="#fbf4e6"/><ellipse cx="870" cy="518" rx="14" ry="18" fill="#f4e2c4"/><ellipse cx="905" cy="518" rx="14" ry="18" fill="#fbf4e6"/><ellipse cx="940" cy="518" rx="14" ry="18" fill="#f4e2c4"/><ellipse cx="975" cy="518" rx="14" ry="18" fill="#fbf4e6"/>
+  </g>
+
+  <!-- Deli counter with bakery on top -->
+  <g data-word="die Theke">
+    <rect x="1140" y="440" width="270" height="250" fill="#ffffff"/>
+    <path d="M1140 440 l30 -60 h210 l30 60" fill="#dff1f7" fill-opacity="0.8"/>
+  </g>
+  <g data-word="das Fleisch">
+    <path d="M1165 470 c20 -20 80 -20 90 10 c10 30 -70 40 -90 20 c-10 -10 -10 -20 0 -30 Z" fill="#e8838a"/>
+    <circle cx="1200" cy="485" r="8" fill="#ffffff" stroke-width="2"/>
+    <path d="M1280 480 c20 -15 70 -15 100 5 c-10 25 -80 25 -100 -5 Z" fill="#c95a5a"/>
+  </g>
+  <g data-word="die Bäckerei">
+    <rect x="1140" y="170" width="270" height="200" fill="#e9d2a6"/>
+    <path d="M1140 270 H1410" fill="none" stroke-width="4"/>
+  </g>
+  <g data-word="das Brot">
+    <path d="M1160 265 c0 -50 110 -50 110 0 Z" fill="#c8894d"/>
+    <path d="M1185 235 l10 15 M1210 230 l10 15 M1235 232 l10 15" fill="none" stroke-width="2"/>
+  </g>
+  <g data-word="das Brötchen">
+    <ellipse cx="1310" cy="248" rx="28" ry="18" fill="#d99a5c"/><ellipse cx="1370" cy="248" rx="28" ry="18" fill="#d99a5c"/>
+    <ellipse cx="1340" cy="345" rx="28" ry="18" fill="#d99a5c"/>
+    <path d="M1300 240 l20 6 M1360 240 l20 6 M1330 337 l20 6" fill="none" stroke-width="2"/>
+  </g>
+
+  <!-- Self-checkout -->
+  <g data-word="die Selbstbedienungskasse">
+    <rect x="1440" y="430" width="140" height="260" fill="#c3cbd0"/>
+    <rect x="1450" y="300" width="120" height="110" rx="6" fill="#2f3337"/>
+    <rect x="1460" y="310" width="100" height="90" fill="#9fd3ea" stroke="none"/>
+    <path d="M1510 410 v20" fill="none" stroke-width="8"/>
+    <rect x="1460" y="440" width="100" height="20" fill="#e45b4f" stroke-width="2"/>
+  </g>
+
+  <!-- Trolley, basket, produce -->
+  <g data-word="der Einkaufswagen">
+    <path d="M260 700 h320 l-30 130 h-250 Z" fill="none" stroke="#7c868b" stroke-width="6"/>
+    <path d="M280 740 h290 M290 780 h270 M340 700 v130 M410 700 v130 M480 700 v130" fill="none" stroke="#9aa3a8" stroke-width="3"/>
+    <path d="M580 700 l40 -30 h40" fill="none" stroke="#7c868b" stroke-width="7"/>
+    <circle cx="320" cy="860" r="18" fill="#2b2b2b"/><circle cx="530" cy="860" r="18" fill="#2b2b2b"/>
+  </g>
+  <g data-word="der Korb">
+    <path d="M700 790 h140 l-12 80 h-116 Z" fill="#e45b4f"/>
+    <path d="M720 790 c0 -40 100 -40 100 0" fill="none" stroke="#c94a40" stroke-width="7"/>
+    <path d="M712 815 h116 M716 840 h108" fill="none" stroke="#c94a40" stroke-width="3"/>
+  </g>
+  <g data-word="das Obst">
+    <rect x="900" y="770" width="200" height="100" fill="#c99d6f"/>
+    <g data-word="der Apfel"><circle cx="935" cy="760" r="22" fill="#e45b4f"/><circle cx="980" cy="755" r="22" fill="#e45b4f"/><path d="M935 738 v-8 M980 733 v-8" fill="none"/></g>
+    <g data-word="die Banane"><path d="M1010 770 c20 -40 70 -50 90 -40 c-30 10 -60 30 -70 50 Z" fill="#f6d53b"/></g>
+  </g>
+  <g data-word="das Gemüse">
+    <rect x="1140" y="770" width="200" height="100" fill="#c99d6f"/>
+    <path d="M1160 765 l40 -10 l-35 25 Z M1200 768 l40 -10 l-35 25 Z" fill="#f29a2e"/>
+    <circle cx="1290" cy="750" r="34" fill="#8bd16f"/>
+    <path d="M1270 740 c10 10 30 10 40 0" fill="none" stroke-width="2"/>
+  </g>
+  <g data-word="das Kilo">
+    <rect x="1380" y="760" width="160" height="100" rx="8" fill="#e2e6e8"/>
+    <rect x="1395" y="730" width="130" height="30" rx="6" fill="#c3cbd0"/>
+    <rect x="1410" y="780" width="100" height="36" fill="#9fe0a8" stroke-width="2"/>
+    <text x="1418" y="806" font-family="monospace" font-size="22" fill="#33302c" stroke="none">1,0 kg</text>
+  </g>
+</svg>

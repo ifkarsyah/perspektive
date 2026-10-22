@@ -1,0 +1,104 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1600 900" stroke="#33302c" stroke-width="3" stroke-linejoin="round" stroke-linecap="round">
+  <!-- Outside -->
+  <rect x="0" y="0" width="600" height="900" fill="#1a2238" stroke="none"/>
+  <g data-word="der Club">
+    <rect x="200" y="120" width="400" height="600" fill="#4a4f57"/>
+    <path d="M200 160 H600 M200 220 H600 M200 280 H600" fill="none" stroke="#3d4249" stroke-width="2"/>
+  </g>
+  <g data-word="das Line-up">
+    <rect x="250" y="180" width="140" height="200" fill="#e87f98"/>
+    <path d="M270 220 h100 M270 250 h80 M270 280 h100 M270 310 h70 M270 340 h90" fill="none" stroke="#ffffff" stroke-width="6"/>
+  </g>
+  <g data-word="der Eintritt">
+    <rect x="420" y="200" width="150" height="80" rx="8" fill="#f6d53b"/>
+    <text x="440" y="252" font-family="sans-serif" font-size="38" font-weight="bold" fill="#33302c" stroke="none">20 €</text>
+  </g>
+  <rect x="440" y="440" width="140" height="280" fill="#111"/>
+  <g data-word="der Türsteher">
+    <circle cx="390" cy="470" r="34" fill="#8d5a3b"/>
+    <path d="M346 510 h88 l14 170 h-116 Z" fill="#111"/>
+    <path d="M360 680 v40 M420 680 v40" fill="none" stroke="#111" stroke-width="22"/>
+    <path d="M346 530 l-20 60" fill="none" stroke-width="16"/>
+  </g>
+  <g data-word="die Gästeliste">
+    <rect x="300" y="580" width="40" height="56" rx="3" fill="#ffffff"/>
+    <path d="M308 594 h24 M308 606 h24 M308 618 h18" fill="none" stroke-width="2"/>
+  </g>
+  <g data-word="die Schlange">
+    <circle cx="40" cy="560" r="22" fill="#e8b98f"/><path d="M18 584 h44 l6 110 h-56 Z" fill="#3d6fb6"/>
+    <circle cx="110" cy="555" r="22" fill="#c58c5c"/><path d="M88 579 h44 l6 115 h-56 Z" fill="#2f3337"/>
+    <circle cx="180" cy="560" r="22" fill="#f0c9a6"/><path d="M158 584 h44 l6 110 h-56 Z" fill="#b58ad8"/>
+    <circle cx="250" cy="555" r="22" fill="#8d5a3b"/><path d="M228 579 h44 l6 115 h-56 Z" fill="#555b60"/>
+  </g>
+  <g data-word="der Ausweis"><rect x="200" y="620" width="56" height="36" rx="4" fill="#cfe1c9"/><rect x="205" y="626" width="14" height="22" fill="#9aa3a8" stroke-width="1.5"/></g>
+  <rect x="0" y="720" width="600" height="180" fill="#3a3f44" stroke="none"/>
+  <g data-word="der Sticker">
+    <rect x="60" y="760" width="100" height="120" rx="14" fill="#2f3337"/>
+    <circle cx="110" cy="790" r="16" fill="#e45b4f"/>
+    <path d="M100 780 l20 20" fill="none" stroke="#ffffff" stroke-width="3"/>
+  </g>
+  <g data-word="der Stempel">
+    <path d="M220 880 v-60 c0 -20 60 -20 60 0 v60 Z" fill="#e8b98f"/>
+    <circle cx="250" cy="840" r="14" fill="none" stroke="#3d6fb6" stroke-width="4"/>
+  </g>
+  <g data-word="die Taschenkontrolle">
+    <rect x="330" y="800" width="240" height="20" fill="#9a6b43"/>
+    <path d="M370 800 l10 -60 h80 l10 60 Z" fill="#7a4f22"/>
+    <path d="M400 740 c0 -30 40 -30 40 0" fill="none" stroke-width="4"/>
+    <path d="M490 760 a20 20 0 1 1 0.1 0 M505 776 l20 20" fill="none" stroke-width="5"/>
+  </g>
+  <path d="M600 0 V900" fill="none" stroke-width="6"/>
+
+  <!-- Inside -->
+  <g data-word="die Location"><rect x="600" y="0" width="1000" height="900" fill="#14101f" stroke="none"/></g>
+  <path d="M780 0 L700 460 M1100 0 L1100 460 M1420 0 L1500 460" fill="none" stroke="#7b4fd6" stroke-width="8" opacity="0.6"/>
+  <g data-word="der DJ">
+    <rect x="980" y="300" width="240" height="90" fill="#2f3337"/>
+    <circle cx="1030" cy="330" r="22" fill="#555b60"/><circle cx="1170" cy="330" r="22" fill="#555b60"/>
+    <circle cx="1100" cy="250" r="30" fill="#c58c5c"/>
+    <path d="M1070 245 c0 -40 60 -40 60 0" fill="none" stroke-width="6"/>
+    <path d="M1070 280 h60 l6 20 h-72 Z" fill="#2f3337"/>
+  </g>
+  <g data-word="das Set">
+    <path d="M1250 220 v-50 l30 -8 v50 M1300 240 v-40 l24 -6 v40" fill="none" stroke="#f6d53b" stroke-width="4"/>
+    <ellipse cx="1244" cy="222" rx="9" ry="7" fill="#f6d53b" stroke="none"/><ellipse cx="1274" cy="214" rx="9" ry="7" fill="#f6d53b" stroke="none"/>
+  </g>
+  <g data-word="die Tanzfläche">
+    <path d="M700 720 L760 460 H1440 L1500 720 Z" fill="#2b2240"/>
+    <path d="M780 520 H1420 M760 600 H1450 M740 680 H1480 M900 460 L860 720 M1060 460 L1040 720 M1220 460 L1240 720 M1360 460 L1400 720" fill="none" stroke="#7b4fd6" stroke-width="2"/>
+    <circle cx="880" cy="540" r="20" fill="#e8b98f"/><path d="M862 560 h36 l6 90 h-48 Z" fill="#e45b4f"/><path d="M862 570 l-20 -40 M898 570 l20 -40" fill="none" stroke-width="5"/>
+    <circle cx="1020" cy="520" r="20" fill="#c58c5c"/><path d="M1002 540 h36 l6 90 h-48 Z" fill="#3d9a7a"/>
+    <circle cx="1300" cy="530" r="20" fill="#f0c9a6"/><path d="M1282 550 h36 l6 90 h-48 Z" fill="#f6d53b"/><path d="M1318 560 l20 -40" fill="none" stroke-width="5"/>
+  </g>
+  <g data-word="die Bar">
+    <rect x="1420" y="500" width="180" height="220" fill="#7a5a3c"/>
+    <rect x="1410" y="490" width="190" height="16" fill="#5b4636"/>
+  </g>
+  <g data-word="das Wasser"><rect x="1450" y="440" width="30" height="50" rx="6" fill="#9fd3ea"/><rect x="1456" y="430" width="18" height="12" rx="3" fill="#3d6fb6"/></g>
+  <g data-word="der Darkroom">
+    <rect x="640" y="140" width="120" height="240" fill="#000000"/>
+    <rect x="660" y="110" width="80" height="24" rx="4" fill="#e45b4f"/>
+  </g>
+  <g data-word="die Garderobe">
+    <rect x="620" y="760" width="260" height="120" fill="#4a4f57"/>
+    <path d="M640 780 h220" fill="none" stroke="#9aa3a8" stroke-width="5"/>
+    <path d="M660 780 l-10 60 h30 l-10 -60 M720 780 l-10 70 h30 l-10 -70 M780 780 l-10 60 h30 l-10 -60" fill="#3d6fb6"/>
+  </g>
+  <g data-word="der Garderobenzettel"><rect x="900" y="800" width="70" height="44" rx="4" fill="#ffffff"/>
+    <text x="914" y="830" font-family="sans-serif" font-size="22" font-weight="bold" fill="#33302c" stroke="none">212</text></g>
+  <g data-word="der Chill-out-Bereich">
+    <rect x="1010" y="780" width="300" height="80" rx="20" fill="#5585c9"/>
+    <rect x="1030" y="740" width="260" height="60" rx="20" fill="#6b97d3"/>
+    <circle cx="1330" cy="760" r="20" fill="#7fe0a8" opacity="0.7"/>
+  </g>
+  <g data-word="das Awareness-Team">
+    <circle cx="1440" cy="770" r="24" fill="#e8b98f"/>
+    <path d="M1412 796 h56 l8 90 h-72 Z" fill="#f29a2e"/>
+    <path d="M1424 820 h32" fill="none" stroke="#ffffff" stroke-width="6"/>
+  </g>
+  <g data-word="die Security">
+    <circle cx="1540" cy="770" r="24" fill="#8d5a3b"/>
+    <path d="M1512 796 h56 l8 90 h-72 Z" fill="#111"/>
+    <rect x="1520" y="815" width="40" height="16" fill="#f6d53b" stroke-width="2"/>
+  </g>
+</svg>

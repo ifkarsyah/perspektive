@@ -1,0 +1,89 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1600 900" stroke="#33302c" stroke-width="3" stroke-linejoin="round" stroke-linecap="round">
+  <g data-word="das Café">
+    <rect x="0" y="0" width="1600" height="700" fill="#f3e9dc" stroke="none"/>
+    <rect x="0" y="700" width="1600" height="200" fill="#a8774d" stroke="none"/>
+    <path d="M0 700 H1600 M0 790 H1600" fill="none" stroke="#8f6240" stroke-width="2"/>
+  </g>
+
+  <!-- Wi-Fi sign -->
+  <g data-word="das WLAN">
+    <rect x="50" y="50" width="240" height="140" rx="10" fill="#2f3a33"/>
+    <path d="M125 105 a45 45 0 0 1 64 0 M137 120 a28 28 0 0 1 40 0" fill="none" stroke="#ffffff" stroke-width="6"/>
+    <circle cx="157" cy="135" r="6" fill="#ffffff" stroke="none"/>
+    <g data-word="das Passwort"><rect x="80" y="150" width="180" height="30" rx="4" fill="#ffffff" stroke-width="2"/>
+      <text x="92" y="172" font-family="monospace" font-size="18" fill="#33302c" stroke="none">kaffee123</text></g>
+  </g>
+
+  <!-- Back shelf with drinks -->
+  <rect x="320" y="300" width="880" height="14" fill="#9a6b43"/>
+  <g data-word="der Espresso"><path d="M345 298 v-28 h36 v28 Z" fill="#ffffff"/><ellipse cx="363" cy="271" rx="18" ry="4" fill="#4a2c17" stroke-width="2"/></g>
+  <g data-word="der Cappuccino"><path d="M405 298 l-6 -48 h56 l-6 48 Z" fill="#ffffff"/><ellipse cx="427" cy="251" rx="28" ry="6" fill="#e9d2b0" stroke-width="2"/></g>
+  <g data-word="der Latte macchiato"><path d="M480 298 v-95 h40 v95 Z" fill="#dff1f7"/><rect x="480" y="260" width="40" height="38" fill="#f4ecd9" stroke="none"/><rect x="480" y="235" width="40" height="25" fill="#c8894d" stroke="none"/><path d="M480 298 v-95 h40 v95 Z" fill="none"/></g>
+  <g data-word="der Filterkaffee"><path d="M545 298 v-60 h60 v60 Z" fill="#dff1f7"/><rect x="547" y="255" width="56" height="41" fill="#4a2c17" stroke="none"/><path d="M605 248 c18 0 18 30 0 30" fill="none" stroke-width="4"/></g>
+  <g data-word="der Kakao"><path d="M640 298 v-50 h50 v50 Z" fill="#e87f98"/><ellipse cx="665" cy="248" rx="25" ry="5" fill="#8b5a2b" stroke-width="2"/></g>
+  <g data-word="der Tee"><path d="M720 298 v-48 h50 v48 Z" fill="#ffffff"/><path d="M760 250 v20" fill="none" stroke-width="2"/><rect x="752" y="268" width="14" height="14" fill="#e0a43c" stroke-width="2"/></g>
+  <g data-word="der Pfefferminztee"><path d="M800 298 l-4 -60 h44 l-4 60 Z" fill="#dff1f7"/><rect x="800" y="252" width="34" height="44" fill="#a9d38f" stroke="none"/><path d="M810 262 c6 -8 14 -6 14 2 c-6 6 -12 6 -14 -2 Z" fill="#5b8c5a" stroke-width="2"/></g>
+  <g data-word="der Eiskaffee"><path d="M870 298 l-6 -70 h50 l-6 70 Z" fill="#c8894d"/><path d="M864 228 c0 -30 50 -30 50 0" fill="#ffffff"/>
+    <g data-word="die Sahne"><path d="M872 210 c5 -20 30 -20 34 0" fill="#ffffff" stroke-width="2"/></g></g>
+  <g data-word="der Iced Latte"><path d="M950 298 l-6 -80 h50 l-6 80 Z" fill="#e9d2b0"/><rect x="955" y="235" width="14" height="14" fill="#ffffff" stroke-width="2"/><rect x="972" y="248" width="14" height="14" fill="#ffffff" stroke-width="2"/><path d="M975 218 l10 -30" fill="none" stroke="#3d6fb6" stroke-width="5"/></g>
+  <g data-word="die Milch"><path d="M1030 298 v-70 l12 -12 h30 l12 12 v70 Z" fill="#ffffff"/><path d="M1030 255 h54" fill="none" stroke="#3d6fb6" stroke-width="5"/></g>
+  <g data-word="die Hafermilch"><path d="M1095 298 v-70 l12 -12 h30 l12 12 v70 Z" fill="#e9d6b9"/><path d="M1105 260 c10 -15 25 -15 34 0" fill="none" stroke="#c8a46e" stroke-width="4"/></g>
+  <g data-word="die Sojamilch"><path d="M1160 298 v-70 l12 -12 h30 l12 12 v70 Z" fill="#dfeccc" transform="translate(-10 0)"/><circle cx="1177" cy="262" r="8" fill="#8bbf7a" stroke-width="2"/></g>
+
+  <!-- Counter with pastry display -->
+  <g data-word="die Theke">
+    <rect x="40" y="480" width="880" height="220" fill="#7a5a3c"/>
+    <rect x="30" y="465" width="900" height="20" fill="#5b4636"/>
+    <path d="M60 465 v-90 h560 v90" fill="#dff1f7" fill-opacity="0.6"/>
+  </g>
+  <g data-word="das Croissant"><path d="M80 455 c10 -40 80 -40 90 0 c-15 -10 -25 -10 -45 -2 c-20 -8 -30 -8 -45 2 Z" fill="#e0a43c"/></g>
+  <g data-word="die Brezel"><path d="M200 455 c-20 -40 30 -60 50 -25 c20 -35 70 -15 50 25 c-20 15 -40 0 -50 -20 c-10 20 -30 35 -50 20 Z" fill="none" stroke="#8b5a2b" stroke-width="12"/></g>
+  <g data-word="das Franzbrötchen"><path d="M330 455 c0 -30 70 -30 70 0 Z" fill="#c8894d"/><path d="M345 445 c10 -10 20 0 30 -8 c5 -4 10 0 12 6" fill="none" stroke="#7a4f22" stroke-width="3"/></g>
+  <g data-word="der Bagel"><ellipse cx="455" cy="440" rx="34" ry="16" fill="#d99a5c"/><ellipse cx="455" cy="436" rx="10" ry="4" fill="#dff1f7"/></g>
+  <g data-word="das belegte Brötchen"><path d="M510 455 c0 -12 90 -12 90 0 Z" fill="#d99a5c"/><path d="M508 448 h94" fill="none" stroke="#8bd16f" stroke-width="6"/><path d="M512 442 h86" fill="none" stroke="#e8838a" stroke-width="6"/><path d="M510 438 c0 -25 90 -25 90 0 Z" fill="#d99a5c"/></g>
+
+  <g data-word="die Torte">
+    <rect x="650" y="405" width="110" height="60" rx="6" fill="#f5c4d6"/>
+    <path d="M650 425 h110" fill="none" stroke="#ffffff" stroke-width="5"/>
+    <circle cx="675" cy="400" r="8" fill="#e45b4f"/><circle cx="705" cy="398" r="8" fill="#e45b4f"/><circle cx="735" cy="400" r="8" fill="#e45b4f"/>
+  </g>
+  <g data-word="der Käsekuchen"><path d="M790 465 v-40 l70 -16 v56 Z" fill="#f6e08a"/><path d="M790 455 l70 0" fill="none" stroke="#c8894d" stroke-width="8"/></g>
+
+  <!-- Seat with laptop and breakfast -->
+  <g data-word="der Platz">
+    <rect x="980" y="560" width="380" height="20" fill="#9a6b43"/>
+    <path d="M1000 580 V700 M1340 580 V700" fill="none" stroke-width="10"/>
+  </g>
+  <g data-word="das Frühstück">
+    <ellipse cx="1080" cy="550" rx="70" ry="16" fill="#ffffff"/>
+    <g data-word="das Rührei"><path d="M1040 548 c10 -18 30 -8 40 -15 c10 8 30 -2 35 12 c-20 10 -55 10 -75 3 Z" fill="#f6d53b"/></g>
+  </g>
+  <g data-word="das Müsli">
+    <path d="M1160 530 h80 c0 25 -20 30 -40 30 s-40 -5 -40 -30 Z" fill="#ffffff"/>
+    <circle cx="1185" cy="528" r="6" fill="#c8894d" stroke="none"/><circle cx="1205" cy="525" r="6" fill="#e45b4f" stroke="none"/><circle cx="1222" cy="529" r="6" fill="#c8894d" stroke="none"/>
+  </g>
+  <g data-word="der Becher"><path d="M1265 560 l-8 -60 h50 l-8 60 Z" fill="#ffffff"/><rect x="1255" y="492" width="54" height="10" rx="3" fill="#7a5a3c"/><rect x="1262" y="515" width="40" height="18" fill="#c89a63" stroke="none"/></g>
+  <g data-word="der Mehrwegbecher"><path d="M1325 560 l-6 -60 h44 l-6 60 Z" fill="#4f8a8b"/><rect x="1317" y="492" width="48" height="10" rx="3" fill="#2f3337"/></g>
+  <g data-word="die Steckdose"><rect x="1390" y="620" width="34" height="34" rx="5" fill="#ffffff"/><circle cx="1402" cy="637" r="3" fill="#33302c"/><circle cx="1412" cy="637" r="3" fill="#33302c"/></g>
+
+  <!-- Sugar and sweetener on the counter -->
+  <g data-word="der Zucker"><path d="M868 465 h40 c0 -30 -40 -30 -40 0 Z" fill="#ffffff"/><rect x="872" y="430" width="10" height="20" fill="#ffffff" stroke-width="2"/><rect x="886" y="434" width="10" height="16" fill="#ffffff" stroke-width="2"/></g>
+  <g data-word="der Süßstoff"><rect x="912" y="430" width="16" height="35" rx="4" fill="#9ed2c6"/><rect x="914" y="424" width="12" height="8" rx="2" fill="#ffffff" stroke-width="2"/></g>
+
+  <!-- Terrace through the window -->
+  <rect x="1240" y="70" width="320" height="340" fill="#d6ecf6"/>
+  <g data-word="die Terrasse">
+    <path d="M1300 330 c0 -80 160 -80 160 0 Z" fill="#e45b4f"/>
+    <path d="M1380 250 V400" fill="none" stroke-width="5"/>
+    <ellipse cx="1380" cy="385" rx="70" ry="12" fill="#ffffff"/>
+    <path d="M1240 410 H1560" fill="none" stroke-width="3"/>
+  </g>
+  <g data-word="der Kuchen"><path d="M1350 380 l30 -24 h24 v24 Z" fill="#c8894d"/><path d="M1380 356 h24 v7 h-26 Z" fill="#8b5a2b" stroke-width="2"/></g>
+
+  <g data-word="die Toilette">
+    <rect x="1440" y="450" width="130" height="250" fill="#e9d6b9"/>
+    <rect x="1470" y="480" width="70" height="40" rx="4" fill="#ffffff"/>
+    <text x="1480" y="510" font-family="sans-serif" font-size="26" font-weight="bold" fill="#33302c" stroke="none">WC</text>
+    <circle cx="1455" cy="600" r="6" fill="#c9a74a"/>
+  </g>
+</svg>

@@ -1,0 +1,100 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1600 900" stroke="#33302c" stroke-width="3" stroke-linejoin="round" stroke-linecap="round">
+  <g data-word="das Großraumbüro">
+    <rect x="0" y="0" width="1600" height="720" fill="#eef0f2" stroke="none"/>
+    <rect x="0" y="720" width="1600" height="180" fill="#b9c2c7" stroke="none"/>
+  </g>
+
+  <!-- Boss's glass office -->
+  <g data-word="das Büro">
+    <rect x="30" y="80" width="360" height="400" fill="#dff1f7" fill-opacity="0.7"/>
+    <path d="M30 80 H390" fill="none" stroke-width="6"/>
+  </g>
+  <g data-word="die Chefin">
+    <circle cx="210" cy="250" r="34" fill="#f0c9a6"/>
+    <path d="M176 250 c-4 -50 72 -50 68 0 c-8 -22 -60 -22 -68 0 Z" fill="#c9c9c9"/>
+    <path d="M170 290 h80 l14 150 h-108 Z" fill="#2f3f5c"/>
+  </g>
+  <rect x="100" y="420" width="220" height="16" fill="#9a6b43"/>
+
+  <!-- Meeting room -->
+  <g data-word="der Besprechungsraum">
+    <rect x="420" y="80" width="440" height="400" fill="#dff1f7" fill-opacity="0.7"/>
+    <ellipse cx="640" cy="390" rx="160" ry="34" fill="#c99d6f"/>
+    <circle cx="520" cy="330" r="20" fill="#c58c5c"/><circle cx="600" cy="320" r="20" fill="#e8b98f"/><circle cx="680" cy="320" r="20" fill="#8d5a3b"/><circle cx="760" cy="330" r="20" fill="#f0c9a6"/>
+    <rect x="560" y="120" width="160" height="90" fill="#ffffff"/>
+  </g>
+
+  <!-- Project board -->
+  <g data-word="das Projekt">
+    <rect x="900" y="80" width="400" height="260" rx="6" fill="#ffffff"/>
+    <path d="M1033 80 V340 M1166 80 V340" fill="none" stroke-width="2"/>
+  </g>
+  <g data-word="das Ticket">
+    <rect x="915" y="110" width="100" height="60" fill="#fff3a6"/><rect x="915" y="185" width="100" height="60" fill="#fff3a6"/>
+    <rect x="1048" y="110" width="100" height="60" fill="#cfe9f7"/><rect x="1181" y="110" width="100" height="60" fill="#c9eac0"/>
+  </g>
+  <g data-word="die Priorität"><rect x="915" y="260" width="100" height="60" fill="#f6b3ad"/>
+    <text x="955" y="302" font-family="sans-serif" font-size="34" font-weight="bold" fill="#c33f3f" stroke="none">!</text></g>
+  <g data-word="die Frist">
+    <rect x="1340" y="80" width="200" height="200" rx="8" fill="#ffffff"/>
+    <rect x="1340" y="80" width="200" height="44" rx="8" fill="#e45b4f"/>
+    <circle cx="1440" cy="200" r="36" fill="none" stroke="#e45b4f" stroke-width="5"/>
+    <text x="1418" y="214" font-family="sans-serif" font-size="38" font-weight="bold" fill="#33302c" stroke="none">15</text>
+  </g>
+
+  <!-- Coffee kitchen -->
+  <g data-word="die Kaffeeküche">
+    <rect x="1340" y="360" width="230" height="360" fill="#e9d6b9"/>
+    <rect x="1330" y="480" width="250" height="18" fill="#9a6b43"/>
+    <rect x="1370" y="400" width="70" height="80" rx="6" fill="#2f3337"/>
+    <path d="M1470 480 v-30 h30 v30 Z" fill="#ffffff"/>
+  </g>
+
+  <!-- Desks with colleagues -->
+  <g data-word="der Kollege">
+    <circle cx="240" cy="560" r="30" fill="#c58c5c"/>
+    <path d="M210 556 c0 -40 60 -40 60 0" fill="#2f2622"/>
+    <path d="M205 595 h70 l10 110 h-90 Z" fill="#3d9a7a"/>
+  </g>
+  <g data-word="der Schreibtisch">
+    <rect x="100" y="690" width="420" height="22" fill="#c99d6f"/>
+    <path d="M120 712 V860 M500 712 V860" fill="none" stroke-width="10"/>
+  </g>
+  <g data-word="der Arbeitsplatz">
+    <rect x="330" y="580" width="150" height="100" rx="6" fill="#3a3f44"/>
+    <rect x="340" y="590" width="130" height="80" fill="#cfe6f2" stroke="none"/>
+    <path d="M405 680 v10" fill="none" stroke-width="10"/>
+  </g>
+  <g data-word="der Fehler">
+    <ellipse cx="405" cy="630" rx="16" ry="20" fill="#e45b4f"/>
+    <path d="M389 620 h-12 M389 640 h-12 M421 620 h12 M421 640 h12 M398 610 l-8 -10 M412 610 l8 -10" fill="none" stroke-width="3"/>
+  </g>
+
+  <g data-word="die Kollegin">
+    <circle cx="760" cy="560" r="30" fill="#f0c9a6"/>
+    <path d="M730 560 c-4 -46 64 -46 60 0 l4 30 h-68 Z" fill="#7a5a3c"/>
+    <circle cx="760" cy="562" r="26" fill="#f0c9a6"/>
+    <path d="M725 595 h70 l10 110 h-90 Z" fill="#b58ad8"/>
+  </g>
+  <rect x="600" y="690" width="420" height="22" fill="#c99d6f"/>
+  <path d="M620 712 V860 M1000 712 V860" fill="none" stroke-width="10"/>
+  <rect x="840" y="580" width="150" height="100" rx="6" fill="#3a3f44"/>
+  <rect x="850" y="590" width="130" height="80" fill="#cfe6f2" stroke="none"/>
+
+  <g data-word="der Praktikant">
+    <circle cx="1160" cy="540" r="30" fill="#e8b98f"/>
+    <path d="M1130 536 c0 -40 60 -40 60 0" fill="#e0a43c"/>
+    <path d="M1125 575 h70 l10 170 h-90 Z" fill="#f29a2e"/>
+    <path d="M1135 760 v100 M1185 760 v100" fill="none" stroke="#2f3f5c" stroke-width="18"/>
+    <path d="M1145 578 l15 50 l15 -50" fill="none" stroke="#3d6fb6" stroke-width="3"/>
+  </g>
+  <g data-word="der Ausweis">
+    <rect x="1145" y="628" width="30" height="40" rx="4" fill="#ffffff"/>
+    <rect x="1150" y="634" width="20" height="14" fill="#9aa3a8" stroke-width="1.5"/>
+  </g>
+  <g data-word="das Team">
+    <circle cx="1300" cy="770" r="22" fill="#c58c5c"/><path d="M1280 792 h40 l6 80 h-52 Z" fill="#5585c9"/>
+    <circle cx="1380" cy="770" r="22" fill="#f0c9a6"/><path d="M1360 792 h40 l6 80 h-52 Z" fill="#e45b4f"/>
+    <circle cx="1460" cy="770" r="22" fill="#8d5a3b"/><path d="M1440 792 h40 l6 80 h-52 Z" fill="#5b8c5a"/>
+  </g>
+</svg>

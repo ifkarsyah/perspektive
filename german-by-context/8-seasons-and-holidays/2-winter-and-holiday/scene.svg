@@ -1,0 +1,79 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1600 900" stroke="#33302c" stroke-width="3" stroke-linejoin="round" stroke-linecap="round">
+  <!-- Outside at night -->
+  <g data-word="die Dunkelheit"><rect x="0" y="0" width="1600" height="900" fill="#1f2b47" stroke="none"/></g>
+  <g data-word="das Feuerwerk">
+    <path d="M1300 80 v-40 M1300 80 l30 -25 M1300 80 l40 5 M1300 80 l25 30 M1300 80 l-25 30 M1300 80 l-40 5 M1300 80 l-30 -25" fill="none" stroke="#f6d53b" stroke-width="5"/>
+    <path d="M1480 160 v-35 M1480 160 l25 -22 M1480 160 l35 5 M1480 160 l22 26 M1480 160 l-22 26 M1480 160 l-35 5 M1480 160 l-25 -22" fill="none" stroke="#e87f98" stroke-width="5"/>
+  </g>
+  <g data-word="die Böller"><path d="M1380 330 l20 -60 M1410 330 l10 -40" fill="none" stroke="#9aa3a8" stroke-width="3" stroke-dasharray="6 6"/><circle cx="1400" cy="265" r="10" fill="#e45b4f"/></g>
+  <g data-word="der Schnee">
+    <rect x="640" y="700" width="960" height="200" fill="#f4f8fb"/>
+    <circle cx="700" cy="60" r="5" fill="#ffffff" stroke="none"/><circle cx="820" cy="140" r="5" fill="#ffffff" stroke="none"/><circle cx="940" cy="40" r="5" fill="#ffffff" stroke="none"/><circle cx="1080" cy="120" r="5" fill="#ffffff" stroke="none"/><circle cx="1180" cy="220" r="5" fill="#ffffff" stroke="none"/><circle cx="760" cy="260" r="5" fill="#ffffff" stroke="none"/><circle cx="1560" cy="260" r="5" fill="#ffffff" stroke="none"/>
+  </g>
+
+  <!-- Christmas market stall -->
+  <g data-word="der Weihnachtsmarkt">
+    <rect x="700" y="420" width="560" height="280" fill="#a0693a"/>
+    <path d="M680 425 L980 300 L1280 425 Z" fill="#ffffff"/>
+    <path d="M700 425 h560" fill="none" stroke-width="4"/>
+    <path d="M720 440 q30 20 60 0 q30 20 60 0 q30 20 60 0 q30 20 60 0 q30 20 60 0 q30 20 60 0 q30 20 60 0 q30 20 60 0 q30 20 60 0" fill="none" stroke="#f6d53b" stroke-width="3"/>
+    <rect x="700" y="590" width="560" height="22" fill="#7a4f22"/>
+  </g>
+  <g data-word="der Lebkuchen">
+    <path d="M760 520 c-20 -20 0 -45 20 -30 c20 -15 40 10 20 30 l-20 25 Z" fill="#b77735"/>
+    <path d="M840 520 c-20 -20 0 -45 20 -30 c20 -15 40 10 20 30 l-20 25 Z" fill="#b77735"/>
+    <path d="M770 510 h20 M850 510 h20" fill="none" stroke="#ffffff" stroke-width="3"/>
+  </g>
+  <g data-word="die gebrannten Mandeln"><path d="M940 590 l-30 -80 h60 Z" fill="#ffffff"/><circle cx="925" cy="512" r="8" fill="#c8894d"/><circle cx="945" cy="508" r="8" fill="#c8894d"/><circle cx="935" cy="498" r="8" fill="#c8894d"/></g>
+  <g data-word="der Stollen"><path d="M1000 590 c0 -40 120 -40 120 0 Z" fill="#e9c27a"/><path d="M1010 575 c20 -10 80 -10 100 0" fill="none" stroke="#ffffff" stroke-width="8"/></g>
+  <g data-word="der Glühwein">
+    <path d="M1160 590 v-50 h50 v50 Z" fill="#c33f3f"/>
+    <g data-word="die Tasse"><path d="M1210 550 c20 0 20 30 0 30" fill="none" stroke-width="5"/><path d="M1160 560 h50" fill="none" stroke="#ffffff" stroke-width="5"/></g>
+    <path d="M1175 535 c-5 -12 8 -16 3 -28 M1195 535 c-5 -12 8 -16 3 -28" fill="none" stroke="#c3cbd0" stroke-width="3"/>
+  </g>
+
+  <!-- Icy pavement and gritting -->
+  <g data-word="das Glatteis"><ellipse cx="1000" cy="800" rx="200" ry="30" fill="#bfe3f5"/><path d="M880 795 l40 -6 M980 805 l60 -8 M1070 795 l40 -5" fill="none" stroke="#ffffff" stroke-width="4"/></g>
+  <g data-word="der Streudienst">
+    <circle cx="1400" cy="660" r="26" fill="#c58c5c"/>
+    <path d="M1374 652 c0 -36 52 -36 52 0" fill="#f29a2e"/>
+    <path d="M1370 690 h60 l10 120 h-80 Z" fill="#f29a2e"/>
+    <path d="M1380 730 h50" fill="none" stroke="#ffffff" stroke-width="6"/>
+    <path d="M1380 810 v60 M1420 810 v60" fill="none" stroke="#2f3337" stroke-width="14"/>
+    <path d="M1370 720 l-60 40" fill="none" stroke-width="8"/>
+    <circle cx="1290" cy="790" r="3" fill="#ffffff"/><circle cx="1275" cy="800" r="3" fill="#ffffff"/><circle cx="1300" cy="810" r="3" fill="#ffffff"/><circle cx="1265" cy="815" r="3" fill="#ffffff"/>
+  </g>
+
+  <!-- Living room inside -->
+  <rect x="0" y="0" width="640" height="900" fill="#f3e3cc"/>
+  <rect x="0" y="720" width="640" height="180" fill="#b98a5e" stroke="none"/>
+  <g data-word="der Frost">
+    <rect x="80" y="80" width="260" height="240" fill="#1f2b47"/>
+    <path d="M80 80 l60 40 l-20 40 l40 30 M340 80 l-50 30 l20 30 M80 320 l50 -40 l30 20 M340 320 l-60 -30" fill="none" stroke="#dff1f7" stroke-width="3"/>
+    <path d="M210 80 V320 M80 200 H340" fill="none" stroke="#ffffff" stroke-width="6"/>
+  </g>
+  <g data-word="die Heizung">
+    <rect x="100" y="380" width="220" height="110" rx="6" fill="#ffffff"/>
+    <path d="M130 390 V480 M160 390 V480 M190 390 V480 M220 390 V480 M250 390 V480 M280 390 V480" fill="none" stroke-width="2"/>
+  </g>
+  <g data-word="der Adventskalender">
+    <rect x="400" y="90" width="180" height="200" rx="6" fill="#c33f3f"/>
+    <path d="M420 110 h30 v30 h-30 Z M470 110 h30 v30 h-30 Z M520 110 h30 v30 h-30 Z M420 160 h30 v30 h-30 Z M470 160 h30 v30 h-30 Z M520 160 h30 v30 h-30 Z M420 210 h30 v30 h-30 Z M470 210 h30 v30 h-30 Z M520 210 h30 v30 h-30 Z" fill="#f6d53b" stroke-width="2"/>
+  </g>
+  <g data-word="der Weihnachtsbaum">
+    <path d="M450 720 l-130 0 l90 -110 h-60 l80 -110 h-50 l70 -110 l70 110 h-50 l80 110 h-60 l90 110 Z" fill="#3d7a5a" transform="translate(30 0)"/>
+    <rect x="490" y="720" width="40" height="40" fill="#7a4f22"/>
+    <circle cx="470" cy="560" r="10" fill="#e45b4f"/><circle cx="530" cy="620" r="10" fill="#f6d53b"/><circle cx="440" cy="680" r="10" fill="#3d6fb6"/><circle cx="560" cy="690" r="10" fill="#e45b4f"/>
+    <path d="M510 380 l8 16 l18 2 l-13 12 l4 18 l-17 -9 l-17 9 l4 -18 l-13 -12 l18 -2 Z" fill="#f6d53b" stroke-width="2"/>
+  </g>
+  <g data-word="das Geschenk">
+    <rect x="380" y="770" width="100" height="80" fill="#3d6fb6"/><path d="M430 770 v80 M380 805 h100" fill="none" stroke="#f6d53b" stroke-width="8"/>
+    <rect x="520" y="790" width="80" height="60" fill="#e45b4f"/><path d="M560 790 v60 M520 815 h80" fill="none" stroke="#ffffff" stroke-width="7"/>
+  </g>
+  <g data-word="der Adventskranz">
+    <ellipse cx="180" cy="780" rx="120" ry="34" fill="#3d7a5a"/>
+    <rect x="100" y="700" width="18" height="60" fill="#c33f3f"/><rect x="155" y="690" width="18" height="60" fill="#c33f3f"/><rect x="210" y="690" width="18" height="60" fill="#c33f3f"/><rect x="250" y="700" width="18" height="60" fill="#c33f3f"/>
+    <path d="M109 700 c-6 -10 0 -20 0 -20 s6 10 0 20 Z M164 690 c-6 -10 0 -20 0 -20 s6 10 0 20 Z" fill="#f6d53b" stroke-width="2"/>
+  </g>
+  <path d="M640 0 V900" fill="none" stroke-width="6"/>
+</svg>

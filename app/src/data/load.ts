@@ -1,15 +1,18 @@
 import Papa from 'papaparse'
 import type { Article, Category, Phrase, PhraseKind, Situation, Similarity, Word, WordKind } from './types'
 
-// Only these categories are loaded for now. Add globs here to enable more.
-const csvFiles = import.meta.glob<string>(
-  ['@content/2-*/*/*.csv', '@content/3-*/*/*.csv'],
-  { query: '?raw', import: 'default', eager: true },
-)
-const sceneFiles = import.meta.glob<string>(
-  ['@content/2-*/*/scene.svg', '@content/3-*/*/scene.svg'],
-  { query: '?raw', import: 'default', eager: true },
-)
+// <category>/<situation>/<file>. Files directly in a category folder
+// (e.g. 1-general/phrase.csv) are a different format and are not matched.
+const csvFiles = import.meta.glob<string>('@content/*/*/*.csv', {
+  query: '?raw',
+  import: 'default',
+  eager: true,
+})
+const sceneFiles = import.meta.glob<string>('@content/*/*/scene.svg', {
+  query: '?raw',
+  import: 'default',
+  eager: true,
+})
 
 const WORD_FILES: Record<string, WordKind> = {
   'vocab_noun.csv': 'noun',

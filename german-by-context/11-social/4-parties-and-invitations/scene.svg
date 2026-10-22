@@ -1,0 +1,104 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1600 900" stroke="#33302c" stroke-width="3" stroke-linejoin="round" stroke-linecap="round">
+  <g data-word="die Party">
+    <rect x="0" y="0" width="1600" height="720" fill="#f6eee2" stroke="none"/>
+    <rect x="0" y="720" width="1600" height="180" fill="#c99d6f" stroke="none"/>
+  </g>
+  <g data-word="die Geburtstagsfeier">
+    <path d="M300 40 Q800 120 1300 40" fill="none" stroke-width="3"/>
+    <path d="M360 52 l20 50 l20 -42 Z M480 70 l20 50 l20 -46 Z M600 80 l20 50 l20 -48 Z M720 84 l20 50 l20 -50 Z M840 84 l20 50 l20 -50 Z M960 80 l20 50 l20 -48 Z M1080 70 l20 50 l20 -46 Z M1200 52 l20 50 l20 -42 Z" fill="#f6d53b"/>
+    <path d="M200 260 c-30 -60 0 -110 30 -110 s60 50 30 110 Z" fill="#e45b4f"/><path d="M230 260 c0 60 -10 100 0 160" fill="none" stroke-width="2"/>
+    <path d="M1380 260 c-30 -60 0 -110 30 -110 s60 50 30 110 Z" fill="#3d6fb6"/><path d="M1410 260 c0 60 10 100 0 160" fill="none" stroke-width="2"/>
+  </g>
+
+  <!-- Door: host welcomes a guest who brings something -->
+  <rect x="40" y="260" width="200" height="460" fill="#7a5a3c"/>
+  <g data-word="der Gast">
+    <circle cx="140" cy="420" r="32" fill="#c58c5c"/>
+    <path d="M108 414 c0 -42 64 -42 64 0" fill="#2f2622"/>
+    <path d="M100 455 h80 l12 170 h-104 Z" fill="#3d9a7a"/>
+    <path d="M110 625 v95 M170 625 v95" fill="none" stroke="#2f3f5c" stroke-width="18"/>
+  </g>
+  <g data-word="das Mitbringsel">
+    <path d="M150 640 l6 -60 h56 l6 60 Z" fill="#f2b84b"/><path d="M168 580 c0 -20 32 -20 32 0" fill="none" stroke-width="4"/>
+    <g data-word="die Blumen">
+      <path d="M200 520 l30 -60 M215 520 l40 -50 M230 520 l45 -30" fill="none" stroke="#5b8c5a" stroke-width="4"/>
+      <circle cx="230" cy="455" r="14" fill="#e87f98"/><circle cx="256" cy="466" r="14" fill="#f6d53b"/><circle cx="278" cy="488" r="14" fill="#e45b4f"/>
+      <path d="M195 540 l20 -30 l25 30 Z" fill="#ffffff"/>
+    </g>
+  </g>
+  <g data-word="der Gastgeber">
+    <circle cx="340" cy="400" r="34" fill="#f0c9a6"/>
+    <path d="M306 396 c0 -46 68 -46 68 0" fill="#c98f3e"/>
+    <path d="M300 440 h80 l12 180 h-104 Z" fill="#e45b4f"/>
+    <path d="M310 620 v100 M370 620 v100" fill="none" stroke="#2f3f5c" stroke-width="18"/>
+    <path d="M300 460 l-40 40" fill="none" stroke-width="12"/>
+  </g>
+  <g data-word="die Flasche Wein">
+    <path d="M430 720 v-110 c0 -16 14 -20 14 -40 v-30 h16 v30 c0 20 14 24 14 40 v110 Z" fill="#8b2d3a"/>
+    <rect x="436" y="640" width="32" height="40" fill="#f4ecd9" stroke-width="2"/>
+  </g>
+
+  <!-- Buffet -->
+  <g data-word="das Buffet">
+    <rect x="540" y="520" width="560" height="24" fill="#ffffff"/>
+    <rect x="550" y="544" width="540" height="176" fill="#f4ecd9"/>
+  </g>
+  <g data-word="die Snacks">
+    <path d="M570 520 h100 c0 -30 -20 -40 -50 -40 s-50 10 -50 40 Z" fill="#ffffff"/>
+    <circle cx="595" cy="480" r="9" fill="#f2c94c"/><circle cx="620" cy="474" r="9" fill="#f2c94c"/><circle cx="645" cy="480" r="9" fill="#f2c94c"/>
+  </g>
+  <g data-word="die Torte">
+    <rect x="700" y="430" width="140" height="90" rx="8" fill="#f5c4d6"/>
+    <path d="M700 460 h140" fill="none" stroke="#ffffff" stroke-width="6"/>
+    <path d="M730 430 v-30 M770 430 v-30 M810 430 v-30" fill="none" stroke="#3d6fb6" stroke-width="6"/>
+    <path d="M730 395 c-5 -8 0 -14 0 -14 s5 6 0 14 Z M770 395 c-5 -8 0 -14 0 -14 s5 6 0 14 Z M810 395 c-5 -8 0 -14 0 -14 s5 6 0 14 Z" fill="#f6d53b" stroke-width="2"/>
+  </g>
+  <g data-word="der Kuchen"><path d="M870 520 v-50 l100 -30 v80 Z" fill="#c8894d"/><path d="M870 490 l100 -30" fill="none" stroke="#8b5a2b" stroke-width="6"/></g>
+  <g data-word="die Getränke">
+    <path d="M1000 520 v-80 h30 v80 Z" fill="#9fd3ea"/><path d="M1040 520 v-70 h30 v70 Z" fill="#f2b84b"/>
+    <path d="M1010 440 v-20 h10 v20 M1050 450 v-20 h10 v20" fill="none" stroke-width="3"/>
+  </g>
+
+  <!-- Presents and card -->
+  <g data-word="das Geschenk">
+    <rect x="1140" y="600" width="120" height="120" fill="#3d6fb6"/><path d="M1200 600 v120 M1140 655 h120" fill="none" stroke="#f6d53b" stroke-width="10"/>
+    <rect x="1270" y="640" width="90" height="80" fill="#e45b4f"/><path d="M1315 640 v80 M1270 675 h90" fill="none" stroke="#ffffff" stroke-width="8"/>
+  </g>
+  <g data-word="die Karte">
+    <path d="M1150 560 l60 -10 l10 50 l-60 10 Z" fill="#fff3c4"/>
+    <path d="M1172 575 c-8 -8 -2 -16 6 -12 c6 -6 14 2 8 10 l-8 8 Z" fill="#e45b4f" stroke-width="1.5"/>
+  </g>
+
+  <!-- Games night on the side table -->
+  <g data-word="der Spieleabend">
+    <rect x="1140" y="410" width="260" height="16" fill="#9a6b43"/>
+    <rect x="1160" y="360" width="160" height="50" fill="#ffffff"/>
+    <path d="M1160 385 h160 M1213 360 v50 M1266 360 v50" fill="none" stroke-width="2"/>
+    <rect x="1340" y="378" width="30" height="30" rx="5" fill="#ffffff"/><circle cx="1350" cy="388" r="3" fill="#33302c" stroke="none"/><circle cx="1360" cy="398" r="3" fill="#33302c" stroke="none"/>
+  </g>
+
+  <!-- Invitation on a phone with yes / no -->
+  <g data-word="die Einladung">
+    <rect x="1430" y="420" width="140" height="260" rx="20" fill="#2f3337"/>
+    <rect x="1442" y="440" width="116" height="220" rx="8" fill="#ffffff"/>
+    <rect x="1455" y="455" width="90" height="70" rx="6" fill="#fde7e4"/>
+    <path d="M1470 470 l20 30 l20 -30 l20 30" fill="none" stroke="#e45b4f" stroke-width="4"/>
+  </g>
+  <g data-word="die Zusage"><circle cx="1470" cy="600" r="24" fill="#5b8c5a"/><path d="M1459 600 l8 8 l14 -14" fill="none" stroke="#ffffff" stroke-width="5"/></g>
+  <g data-word="die Absage"><circle cx="1530" cy="600" r="24" fill="#e45b4f"/><path d="M1520 590 l20 20 M1540 590 l-20 20" fill="none" stroke="#ffffff" stroke-width="5"/></g>
+
+  <!-- Window: barbecue in the garden -->
+  <rect x="540" y="160" width="420" height="220" fill="#cfe6f2"/>
+  <g data-word="das Grillfest">
+    <path d="M600 330 h120 c0 40 -30 50 -60 50 s-60 -10 -60 -50 Z" fill="#2f3337"/>
+    <path d="M620 330 c0 -16 10 -26 0 -40 M660 330 c0 -16 10 -26 0 -40 M700 330 c0 -16 10 -26 0 -40" fill="none" stroke="#c3cbd0" stroke-width="3"/>
+    <circle cx="820" cy="300" r="18" fill="#e8b98f"/><path d="M805 318 h30 v40 h-30 Z" fill="#f29a2e"/>
+    <circle cx="880" cy="305" r="18" fill="#c58c5c"/><path d="M865 323 h30 v40 h-30 Z" fill="#7fa79a"/>
+  </g>
+  <g data-word="die Einweihungsparty">
+    <rect x="1000" y="220" width="110" height="90" fill="#c89a63"/>
+    <path d="M1000 245 h110 M1055 220 v25" fill="none" stroke-width="2"/>
+    <circle cx="1080" cy="280" r="10" fill="none" stroke="#c9a74a" stroke-width="4"/>
+    <path d="M1090 280 h18 M1102 280 v8" fill="none" stroke="#c9a74a" stroke-width="4"/>
+  </g>
+</svg>

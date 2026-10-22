@@ -1,0 +1,102 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1600 900" stroke="#33302c" stroke-width="3" stroke-linejoin="round" stroke-linecap="round">
+  <rect x="0" y="0" width="1600" height="700" fill="#eef1f4" stroke="none"/>
+  <rect x="0" y="700" width="1600" height="200" fill="#c69c6d" stroke="none"/>
+
+  <!-- Laptop with the shop open -->
+  <path d="M120 720 l-40 30 h960 l-40 -30 Z" fill="#9aa3a8"/>
+  <rect x="140" y="80" width="840" height="640" rx="16" fill="#3a3f44"/>
+  <g data-word="der Onlineshop">
+    <rect x="160" y="100" width="800" height="600" fill="#ffffff" stroke="none"/>
+    <rect x="160" y="100" width="800" height="70" fill="#3d6fb6" stroke="none"/>
+    <rect x="190" y="118" width="380" height="34" rx="17" fill="#ffffff" stroke="none"/>
+  </g>
+  <g data-word="das Kundenkonto">
+    <circle cx="830" cy="135" r="22" fill="#ffffff"/>
+    <circle cx="830" cy="128" r="8" fill="#3d6fb6" stroke="none"/>
+    <path d="M816 150 c4 -14 24 -14 28 0" fill="#3d6fb6" stroke="none"/>
+  </g>
+  <g data-word="der Warenkorb">
+    <path d="M880 120 h10 l10 35 h35 l8 -25 h-48" fill="none" stroke="#ffffff" stroke-width="5"/>
+    <circle cx="905" cy="165" r="5" fill="#ffffff" stroke="none"/><circle cx="930" cy="165" r="5" fill="#ffffff" stroke="none"/>
+    <circle cx="940" cy="118" r="12" fill="#e45b4f" stroke="none"/>
+  </g>
+
+  <g data-word="der Artikel">
+    <rect x="200" y="200" width="300" height="300" rx="10" fill="#f4f6f8"/>
+    <path d="M260 440 l12 -150 h156 l12 150 Z" fill="#e0a43c"/>
+    <path d="M300 290 c0 -40 80 -40 80 0" fill="none" stroke-width="5"/>
+  </g>
+  <g data-word="die Bewertung">
+    <path d="M210 545 l9 18 l20 3 l-15 13 l4 20 l-18 -10 l-18 10 l4 -20 l-15 -13 l20 -3 Z" fill="#f6d53b" stroke-width="2"/>
+    <path d="M260 545 l9 18 l20 3 l-15 13 l4 20 l-18 -10 l-18 10 l4 -20 l-15 -13 l20 -3 Z" fill="#f6d53b" stroke-width="2"/>
+    <path d="M310 545 l9 18 l20 3 l-15 13 l4 20 l-18 -10 l-18 10 l4 -20 l-15 -13 l20 -3 Z" fill="#f6d53b" stroke-width="2"/>
+    <path d="M360 545 l9 18 l20 3 l-15 13 l4 20 l-18 -10 l-18 10 l4 -20 l-15 -13 l20 -3 Z" fill="#f6d53b" stroke-width="2"/>
+    <path d="M410 545 l9 18 l20 3 l-15 13 l4 20 l-18 -10 l-18 10 l4 -20 l-15 -13 l20 -3 Z" fill="#e6eaec" stroke-width="2"/>
+  </g>
+
+  <!-- Checkout panel -->
+  <rect x="540" y="200" width="390" height="470" rx="10" fill="#f4f6f8"/>
+  <g data-word="die Lieferadresse">
+    <rect x="565" y="225" width="340" height="80" rx="6" fill="#ffffff"/>
+    <path d="M585 248 l12 -12 l12 12 v18 h-24 Z" fill="#3d6fb6" stroke-width="2"/>
+    <path d="M630 245 h250 M630 265 h200 M630 285 h160" fill="none" stroke="#c3cbd0" stroke-width="6"/>
+  </g>
+  <g data-word="die Zahlungsart">
+    <rect x="565" y="325" width="340" height="70" rx="6" fill="#ffffff"/>
+    <circle cx="590" cy="360" r="10" fill="#3d6fb6" stroke-width="2"/>
+    <g data-word="die Kreditkarte"><rect x="615" y="340" width="64" height="40" rx="5" fill="#2f3337"/><rect x="623" y="348" width="12" height="9" rx="2" fill="#e0c06a" stroke-width="1.5"/></g>
+    <circle cx="710" cy="360" r="10" fill="#ffffff" stroke-width="2"/>
+    <path d="M730 352 h120 M730 370 h80" fill="none" stroke="#c3cbd0" stroke-width="6"/>
+  </g>
+  <g data-word="der Rabattcode">
+    <rect x="565" y="415" width="220" height="50" rx="6" fill="#ffffff"/>
+    <text x="580" y="449" font-family="monospace" font-size="24" fill="#33302c" stroke="none">SPAR10</text>
+    <rect x="795" y="415" width="110" height="50" rx="6" fill="#c3cbd0"/>
+  </g>
+  <g data-word="die Versandkosten">
+    <path d="M565 500 h340 M565 530 h340" fill="none" stroke="#e6eaec" stroke-width="2"/>
+    <rect x="575" y="507" width="40" height="18" rx="3" fill="#8bbf7a" stroke-width="2"/>
+    <path d="M630 516 h120" fill="none" stroke="#c3cbd0" stroke-width="6"/>
+  </g>
+  <g data-word="die Kasse">
+    <rect x="565" y="580" width="340" height="64" rx="32" fill="#f2b84b"/>
+    <path d="M710 612 h50 M745 598 l15 14 l-15 14" fill="none" stroke-width="5"/>
+  </g>
+
+  <!-- Gift voucher next to the laptop -->
+  <g data-word="der Gutschein">
+    <rect x="1040" y="560" width="230" height="130" rx="10" fill="#e87f98"/>
+    <path d="M1110 560 V690 M1040 625 H1270" fill="none" stroke="#f6d53b" stroke-width="10"/>
+    <path d="M1110 625 c-30 -40 -50 -10 0 0 c30 -40 50 -10 0 0" fill="none" stroke="#f6d53b" stroke-width="6"/>
+  </g>
+
+  <!-- Phone with tracking and order confirmation -->
+  <rect x="1320" y="80" width="230" height="440" rx="28" fill="#2f3337"/>
+  <rect x="1334" y="100" width="202" height="400" rx="14" fill="#ffffff"/>
+  <g data-word="die Bestellbestätigung">
+    <rect x="1350" y="120" width="170" height="80" rx="8" fill="#e8f5e8"/>
+    <circle cx="1380" cy="160" r="16" fill="#5b8c5a"/>
+    <path d="M1372 160 l6 6 l12 -12" fill="none" stroke="#ffffff" stroke-width="4"/>
+    <path d="M1405 150 h100 M1405 170 h70" fill="none" stroke="#9fc49f" stroke-width="6"/>
+  </g>
+  <g data-word="die Sendungsverfolgung">
+    <rect x="1350" y="220" width="170" height="260" rx="8" fill="#e8f0f6"/>
+    <path d="M1375 450 c20 -60 60 -40 80 -90 s40 -60 40 -100" fill="none" stroke="#3d6fb6" stroke-width="5" stroke-dasharray="10 8"/>
+    <circle cx="1375" cy="450" r="10" fill="#3d6fb6"/>
+    <path d="M1495 245 c-14 0 -18 12 -18 18 c0 14 18 30 18 30 s18 -16 18 -30 c0 -6 -4 -18 -18 -18 Z" fill="#e45b4f"/>
+  </g>
+
+  <!-- Parcels on the floor -->
+  <g data-word="die Bestellung">
+    <rect x="1100" y="740" width="200" height="140" fill="#c89a63"/>
+    <path d="M1100 775 H1300 M1200 740 V775" fill="none" stroke-width="2"/>
+    <g data-word="die Bestellnummer"><rect x="1130" y="800" width="140" height="50" fill="#ffffff" stroke-width="2"/>
+      <path d="M1140 812 v28 M1146 812 v28 M1154 812 v28 M1158 812 v28 M1166 812 v28 M1174 812 v28 M1178 812 v28 M1186 812 v28 M1196 812 v28 M1200 812 v28 M1208 812 v28 M1214 812 v28" fill="none" stroke-width="2"/></g>
+  </g>
+  <g data-word="die Rücksendung">
+    <rect x="1340" y="760" width="200" height="120" fill="#d6ab76"/>
+    <path d="M1340 790 H1540" fill="none" stroke-width="2"/>
+    <rect x="1380" y="805" width="120" height="55" fill="#ffffff" stroke-width="2"/>
+    <path d="M1470 832 h-60 M1425 818 l-15 14 l15 14" fill="none" stroke="#e45b4f" stroke-width="5"/>
+  </g>
+</svg>

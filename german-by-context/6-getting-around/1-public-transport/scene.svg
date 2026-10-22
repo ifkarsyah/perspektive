@@ -1,0 +1,116 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1600 900" stroke="#33302c" stroke-width="3" stroke-linejoin="round" stroke-linecap="round">
+  <!-- Street level -->
+  <rect x="0" y="0" width="1600" height="300" fill="#d6ecf6" stroke="none"/>
+  <rect x="0" y="300" width="1600" height="40" fill="#9aa3a8" stroke="none"/>
+
+  <g data-word="die Haltestelle">
+    <path d="M100 320 V120" fill="none" stroke-width="6"/>
+    <circle cx="100" cy="110" r="34" fill="#f6d53b"/>
+    <text x="85" y="124" font-family="sans-serif" font-size="38" font-weight="bold" fill="#3d7a5a" stroke="none">H</text>
+  </g>
+  <g data-word="der Bus">
+    <rect x="150" y="170" width="380" height="130" rx="16" fill="#f6d53b"/>
+    <path d="M170 190 h70 v50 h-70 Z M260 190 h70 v50 h-70 Z M350 190 h70 v50 h-70 Z M440 190 h70 v50 h-70 Z" fill="#cfe6f2"/>
+    <circle cx="220" cy="300" r="22" fill="#2b2b2b"/><circle cx="460" cy="300" r="22" fill="#2b2b2b"/>
+  </g>
+  <g data-word="die Straßenbahn">
+    <path d="M760 90 V150 M800 90 V150 M560 90 H1080" fill="none" stroke-width="2"/>
+    <path d="M760 150 l20 -12 l20 12" fill="none" stroke-width="3"/>
+    <rect x="580" y="150" width="480" height="140" rx="14" fill="#f2c94c"/>
+    <rect x="580" y="250" width="480" height="40" fill="#ffffff"/>
+    <path d="M600 170 h80 v60 h-80 Z M700 170 h80 v60 h-80 Z M860 170 h80 v60 h-80 Z M960 170 h80 v60 h-80 Z" fill="#cfe6f2"/>
+    <path d="M800 170 v110 M840 170 v110" fill="none"/>
+  </g>
+  <g data-word="das Taxi">
+    <path d="M1110 300 v-40 l30 -40 h130 l30 40 v40 Z" fill="#f2efe6"/>
+    <rect x="1180" y="198" width="50" height="22" rx="4" fill="#f6d53b"/>
+    <path d="M1150 225 l-20 30 h70 v-30 Z M1215 225 v30 h70 l-20 -30 Z" fill="#cfe6f2" stroke-width="2"/>
+    <circle cx="1160" cy="300" r="20" fill="#2b2b2b"/><circle cx="1260" cy="300" r="20" fill="#2b2b2b"/>
+  </g>
+  <g data-word="das Fahrrad">
+    <circle cx="1390" cy="285" r="32" fill="none" stroke-width="5"/><circle cx="1500" cy="285" r="32" fill="none" stroke-width="5"/>
+    <path d="M1390 285 l35 -55 h55 l20 55 M1425 230 l20 55 l35 -55 M1415 215 h30 M1480 230 v-25 h25" fill="none" stroke="#e45b4f" stroke-width="6"/>
+  </g>
+
+  <!-- Underground station -->
+  <g data-word="der Bahnhof">
+    <rect x="0" y="340" width="1600" height="440" fill="#e9e3c9" stroke="none"/>
+    <path d="M0 420 H1600 M0 500 H1600 M0 580 H1600" fill="none" stroke="#d8d0b0" stroke-width="2"/>
+  </g>
+
+  <g data-word="die Rolltreppe">
+    <path d="M200 340 L420 780 H500 L280 340 Z" fill="#9aa3a8"/>
+    <path d="M215 370 h70 M240 420 h70 M265 470 h70 M290 520 h70 M315 570 h70 M340 620 h70 M365 670 h70 M390 720 h70" fill="none" stroke="#7c868b" stroke-width="4"/>
+  </g>
+  <g data-word="der Ausgang">
+    <rect x="300" y="370" width="170" height="60" rx="6" fill="#3d7a5a"/>
+    <path d="M330 400 h50 M365 385 l15 15 l-15 15" fill="none" stroke="#ffffff" stroke-width="5"/>
+    <rect x="400" y="385" width="40" height="30" fill="none" stroke="#ffffff" stroke-width="3"/>
+  </g>
+  <g data-word="der Fahrkartenautomat">
+    <rect x="30" y="540" width="150" height="240" rx="8" fill="#e45b4f"/>
+    <rect x="50" y="565" width="110" height="80" rx="4" fill="#cfe6f2"/>
+    <rect x="60" y="670" width="90" height="12" rx="3" fill="#2f3337"/>
+    <rect x="70" y="710" width="70" height="30" rx="4" fill="#2f3337"/>
+  </g>
+  <g data-word="der Fahrplan">
+    <rect x="30" y="380" width="150" height="130" fill="#ffffff"/>
+    <path d="M45 400 h120 M45 420 h120 M45 440 h120 M45 460 h120 M45 480 h120" fill="none" stroke="#c3cbd0" stroke-width="5"/>
+  </g>
+
+  <!-- Departure display -->
+  <g data-word="die Abfahrt">
+    <path d="M760 340 V370 M1040 340 V370" fill="none" stroke-width="4"/>
+    <rect x="700" y="370" width="400" height="90" rx="8" fill="#2f3337"/>
+    <rect x="715" y="390" width="56" height="34" rx="4" fill="#3d6fb6"/>
+    <text x="722" y="416" font-family="sans-serif" font-size="24" font-weight="bold" fill="#ffffff" stroke="none">U2</text>
+    <path d="M790 400 h150" fill="none" stroke="#f6d53b" stroke-width="10"/>
+    <text x="960" y="418" font-family="monospace" font-size="26" fill="#f6d53b" stroke="none">3'</text>
+    <g data-word="die Verspätung"><text x="1010" y="418" font-family="monospace" font-size="26" font-weight="bold" fill="#e45b4f" stroke="none">+5</text></g>
+    <path d="M790 440 h110" fill="none" stroke="#f6d53b" stroke-width="6"/>
+  </g>
+
+  <!-- Train at the platform -->
+  <g data-word="die U-Bahn">
+    <rect x="540" y="520" width="1060" height="250" rx="20" fill="#f2c94c"/>
+    <rect x="540" y="700" width="1060" height="20" fill="#e0a43c" stroke="none"/>
+    <path d="M580 550 h120 v90 h-120 Z M760 550 h120 v90 h-120 Z M1040 550 h120 v90 h-120 Z M1220 550 h120 v90 h-120 Z M1400 550 h120 v90 h-120 Z" fill="#cfe6f2"/>
+    <path d="M900 545 h120 v215 h-120 Z" fill="#f6dc7a"/>
+    <path d="M960 545 v215" fill="none"/>
+    <g data-word="die Linie"><rect x="560" y="660" width="70" height="40" rx="6" fill="#3d6fb6"/>
+      <text x="570" y="690" font-family="sans-serif" font-size="26" font-weight="bold" fill="#ffffff" stroke="none">U2</text></g>
+  </g>
+  <g data-word="das Gleis">
+    <rect x="0" y="770" width="1600" height="18" fill="#7c868b"/>
+    <path d="M0 779 H1600" fill="none" stroke="#c3cbd0" stroke-width="4"/>
+  </g>
+  <g data-word="der Bahnsteig">
+    <rect x="0" y="788" width="1600" height="112" fill="#c3c0b4"/>
+    <path d="M0 800 H1600" fill="none" stroke="#f6d53b" stroke-width="10" stroke-dasharray="40 20"/>
+  </g>
+
+  <!-- People on the platform -->
+  <circle cx="1120" cy="680" r="30" fill="#e8b98f"/>
+  <path d="M1090 676 c0 -40 60 -40 60 0" fill="#c98f3e"/>
+  <path d="M1086 715 h68 l10 130 h-88 Z" fill="#8b6fb5"/>
+  <path d="M1154 740 l40 -10" fill="none" stroke-width="10"/>
+  <g data-word="das Deutschlandticket">
+    <rect x="1190" y="690" width="50" height="86" rx="8" fill="#2f3337"/>
+    <rect x="1196" y="698" width="38" height="68" rx="3" fill="#ffffff"/>
+    <path d="M1202 710 h26 v26 h-26 Z" fill="#33302c" stroke="none"/>
+    <path d="M1202 745 h26 M1202 755 h18" fill="none" stroke="#e45b4f" stroke-width="4"/>
+  </g>
+  <g data-word="der Kontrolleur">
+    <circle cx="1380" cy="670" r="30" fill="#c58c5c"/>
+    <path d="M1346 650 h68 v-12 c-12 -14 -56 -14 -68 0 Z" fill="#2f3f5c"/>
+    <path d="M1342 705 h76 l10 150 h-96 Z" fill="#2f3f5c"/>
+    <path d="M1342 730 l-40 30" fill="none" stroke-width="10"/>
+    <rect x="1276" y="745" width="36" height="50" rx="6" fill="#3a3f44"/>
+    <rect x="1282" y="752" width="24" height="18" fill="#7fe0a8" stroke-width="1.5"/>
+  </g>
+  <g data-word="die Fahrkarte">
+    <rect x="620" y="820" width="120" height="60" rx="4" fill="#ffffff" transform="rotate(-6 680 850)"/>
+    <path d="M635 840 h60 M635 855 h80" fill="none" stroke="#e45b4f" stroke-width="4" transform="rotate(-6 680 850)"/>
+    <rect x="705" y="830" width="24" height="18" fill="#f6d53b" stroke-width="2" transform="rotate(-6 680 850)"/>
+  </g>
+</svg>

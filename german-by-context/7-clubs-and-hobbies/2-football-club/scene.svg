@@ -1,0 +1,71 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1600 900" stroke="#33302c" stroke-width="3" stroke-linejoin="round" stroke-linecap="round">
+  <rect x="0" y="0" width="1600" height="900" fill="#e6efe1" stroke="none"/>
+
+  <!-- Pitch seen from above -->
+  <g data-word="der Platz">
+    <rect x="60" y="30" width="1480" height="580" fill="#5fa65a"/>
+    <path d="M60 30 h185 v580 h-185 Z M430 30 h185 v580 h-185 Z M985 30 h185 v580 h-185 Z" fill="#6bb466" stroke="none"/>
+  </g>
+  <g data-word="die Seitenlinie"><path d="M100 60 H1500 M100 580 H1500" fill="none" stroke="#ffffff" stroke-width="6"/></g>
+  <path d="M100 60 V580 M1500 60 V580" fill="none" stroke="#ffffff" stroke-width="6"/>
+  <g data-word="die Mittellinie"><path d="M800 60 V580" fill="none" stroke="#ffffff" stroke-width="6"/></g>
+  <g data-word="das Mittelfeld"><circle cx="800" cy="320" r="80" fill="none" stroke="#ffffff" stroke-width="6"/><circle cx="800" cy="320" r="6" fill="#ffffff" stroke="none"/></g>
+  <g data-word="der Strafraum">
+    <path d="M100 170 H320 V470 H100" fill="none" stroke="#ffffff" stroke-width="6"/>
+    <path d="M1500 170 H1280 V470 H1500" fill="none" stroke="#ffffff" stroke-width="6"/>
+  </g>
+  <g data-word="das Tor">
+    <rect x="66" y="270" width="34" height="100" fill="#ffffff" fill-opacity="0.6"/>
+    <rect x="1500" y="270" width="34" height="100" fill="#ffffff" fill-opacity="0.6"/>
+  </g>
+  <g data-word="die Ecke">
+    <path d="M100 60 V30 l22 8 l-22 8" fill="#f6d53b" stroke-width="2"/>
+    <path d="M1500 580 V550 l22 8 l-22 8" fill="#f6d53b" stroke-width="2"/>
+  </g>
+
+  <!-- Players -->
+  <g data-word="der Torwart"><circle cx="140" cy="320" r="22" fill="#f6d53b"/></g>
+  <g data-word="der Verteidiger"><circle cx="420" cy="210" r="22" fill="#3d6fb6"/><circle cx="420" cy="430" r="22" fill="#3d6fb6"/></g>
+  <g data-word="der Flügel"><circle cx="1000" cy="110" r="22" fill="#3d6fb6"/></g>
+  <g data-word="der Stürmer"><circle cx="1180" cy="330" r="22" fill="#3d6fb6"/></g>
+  <g data-word="der Mitspieler"><circle cx="700" cy="320" r="22" fill="#3d6fb6"/></g>
+  <g data-word="der Gegner">
+    <circle cx="1300" cy="250" r="22" fill="#e45b4f"/><circle cx="1320" cy="420" r="22" fill="#e45b4f"/><circle cx="950" cy="420" r="22" fill="#e45b4f"/>
+    <circle cx="1460" cy="320" r="22" fill="#9ed2c6"/>
+  </g>
+  <g data-word="der Schiedsrichter"><circle cx="860" cy="500" r="22" fill="#2f3337"/></g>
+  <g data-word="die Flanke"><path d="M1020 120 C1120 160 1180 220 1190 300" fill="none" stroke="#ffffff" stroke-width="4" stroke-dasharray="12 10"/></g>
+  <g data-word="der Schuss"><path d="M1205 330 H1490" fill="none" stroke="#f6d53b" stroke-width="5"/><path d="M1475 318 l18 12 l-18 12" fill="none" stroke="#f6d53b" stroke-width="5"/></g>
+  <g data-word="der Ball"><circle cx="1210" cy="345" r="10" fill="#ffffff"/></g>
+
+  <!-- Sideline -->
+  <g data-word="der Trainer">
+    <circle cx="140" cy="680" r="30" fill="#e8b98f"/>
+    <path d="M110 676 c0 -40 60 -40 60 0" fill="#7a5a3c"/>
+    <path d="M100 715 h80 l10 170 h-100 Z" fill="#2f3f5c"/>
+    <path d="M180 740 l40 -30" fill="none" stroke-width="10"/>
+  </g>
+  <g data-word="das Ergebnis">
+    <rect x="260" y="650" width="230" height="120" rx="10" fill="#2f3337"/>
+    <text x="300" y="735" font-family="monospace" font-size="64" font-weight="bold" fill="#f6d53b" stroke="none">2:1</text>
+  </g>
+  <g data-word="das Trikot">
+    <path d="M560 660 h40 c0 15 40 15 40 0 h40 l40 30 l-20 35 l-25 -15 v135 h-150 v-135 l-25 15 l-20 -35 Z" fill="#3d6fb6"/>
+    <text x="598" y="780" font-family="sans-serif" font-size="56" font-weight="bold" fill="#ffffff" stroke="none">9</text>
+  </g>
+  <g data-word="das Leibchen">
+    <path d="M770 670 h30 c0 25 50 25 50 0 h30 v180 h-110 Z" fill="#f29a2e" fill-opacity="0.9"/>
+    <path d="M780 700 h100 M780 730 h100 M780 760 h100 M780 790 h100 M780 820 h100" fill="none" stroke="#d27b14" stroke-width="2"/>
+  </g>
+  <g data-word="die Fußballschuhe">
+    <path d="M930 830 v-40 h50 l70 20 c20 6 20 20 12 20 Z" fill="#2f3337"/>
+    <path d="M960 800 l15 8 M972 792 l15 8" fill="none" stroke="#ffffff" stroke-width="3"/>
+    <g data-word="die Stollen"><path d="M945 830 v12 M975 830 v12 M1010 830 v12 M1045 830 v12" fill="none" stroke="#9aa3a8" stroke-width="8"/></g>
+  </g>
+  <g data-word="die Schienbeinschoner">
+    <path d="M1110 680 c0 -20 60 -20 60 0 v140 c0 20 -60 20 -60 0 Z" fill="#ffffff"/>
+    <path d="M1190 680 c0 -20 60 -20 60 0 v140 c0 20 -60 20 -60 0 Z" fill="#ffffff"/>
+  </g>
+  <g data-word="die Gelbe Karte"><rect x="1300" y="680" width="70" height="100" rx="6" fill="#f6d53b" transform="rotate(-8 1335 730)"/></g>
+  <g data-word="die Rote Karte"><rect x="1400" y="680" width="70" height="100" rx="6" fill="#e45b4f" transform="rotate(8 1435 730)"/></g>
+</svg>

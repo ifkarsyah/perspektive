@@ -1,0 +1,111 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1600 900" stroke="#33302c" stroke-width="3" stroke-linejoin="round" stroke-linecap="round">
+  <g data-word="der Hauptbahnhof">
+    <rect x="0" y="0" width="1600" height="640" fill="#e4ebf0" stroke="none"/>
+    <path d="M0 260 C200 120 400 120 600 260 C800 120 1000 120 1200 260 C1400 120 1600 120 1800 260" fill="none" stroke="#9aa3a8" stroke-width="8"/>
+    <path d="M100 180 V260 M300 140 V260 M500 180 V260 M700 180 V260 M900 140 V260 M1100 180 V260 M1300 180 V260 M1500 140 V260" fill="none" stroke="#b9c2c7" stroke-width="3"/>
+  </g>
+
+  <!-- Departure board -->
+  <g data-word="die Anzeigetafel">
+    <rect x="40" y="40" width="470" height="200" rx="8" fill="#2f3f5c"/>
+    <path d="M60 80 h60 M140 80 h220 M400 80 h40" fill="none" stroke="#ffffff" stroke-width="10"/>
+    <path d="M60 120 h60 M140 120 h180 M400 120 h40" fill="none" stroke="#ffffff" stroke-width="10"/>
+    <g data-word="der Gleiswechsel">
+      <rect x="55" y="150" width="440" height="40" fill="#f6d53b" stroke="none"/>
+      <path d="M60 170 h60 M140 170 h150" fill="none" stroke="#2f3f5c" stroke-width="10"/>
+      <text x="370" y="182" font-family="sans-serif" font-size="28" font-weight="bold" fill="#e45b4f" stroke="none">7→9</text>
+    </g>
+    <path d="M60 215 h60 M140 215 h200 M400 215 h40" fill="none" stroke="#ffffff" stroke-width="10"/>
+  </g>
+
+  <!-- Carriage order with platform sections -->
+  <g data-word="die Wagenreihung">
+    <rect x="560" y="60" width="440" height="110" rx="8" fill="#ffffff"/>
+    <path d="M580 120 c0 -20 20 -30 40 -30 h40 v50 h-80 Z" fill="#e6eaec"/>
+    <rect x="670" y="90" width="70" height="50" fill="#e6eaec"/>
+    <rect x="750" y="90" width="70" height="50" fill="#f6d53b"/>
+    <rect x="830" y="90" width="70" height="50" fill="#e6eaec"/>
+    <rect x="910" y="90" width="70" height="50" fill="#e6eaec"/>
+    <text x="772" y="125" font-family="sans-serif" font-size="26" font-weight="bold" fill="#33302c" stroke="none">7</text>
+  </g>
+  <g data-word="der Bahnsteigabschnitt">
+    <path d="M1100 0 V70" fill="none" stroke-width="4"/>
+    <rect x="1060" y="70" width="80" height="80" rx="8" fill="#3d6fb6"/>
+    <text x="1080" y="128" font-family="sans-serif" font-size="52" font-weight="bold" fill="#ffffff" stroke="none">C</text>
+  </g>
+  <g data-word="das Gleis">
+    <rect x="1240" y="70" width="110" height="110" rx="10" fill="#ffffff"/>
+    <text x="1272" y="150" font-family="sans-serif" font-size="72" font-weight="bold" fill="#33302c" stroke="none">9</text>
+  </g>
+
+  <!-- High-speed train -->
+  <g data-word="der ICE">
+    <path d="M40 620 V430 c0 -60 60 -110 200 -120 H900 V620 Z" fill="#f7f7f5"/>
+    <path d="M60 470 c30 -80 80 -110 150 -120 v80 Z" fill="#2f3337"/>
+    <path d="M40 560 H900" fill="none" stroke="#e45b4f" stroke-width="14"/>
+    <path d="M280 380 h120 v70 h-120 Z M440 380 h120 v70 h-120 Z M600 380 h120 v70 h-120 Z M760 380 h120 v70 h-120 Z" fill="#2f3337"/>
+  </g>
+  <!-- Cut-away carriage -->
+  <g data-word="der Wagen">
+    <path d="M900 310 H1600 V620 H900 Z" fill="#f7f7f5"/>
+    <path d="M900 560 H1600" fill="none" stroke="#e45b4f" stroke-width="14"/>
+  </g>
+  <g data-word="das Großraumabteil">
+    <rect x="920" y="330" width="420" height="215" fill="#e8e4d8"/>
+  </g>
+  <g data-word="der Sitzplatz">
+    <path d="M940 540 V420 c0 -12 30 -12 30 0 V500 h60 v40 Z" fill="#c33f3f"/>
+    <path d="M1060 540 V420 c0 -12 30 -12 30 0 V500 h60 v40 Z" fill="#c33f3f"/>
+    <path d="M1180 540 V420 c0 -12 30 -12 30 0 V500 h60 v40 Z" fill="#c33f3f"/>
+  </g>
+  <g data-word="die Sitzplatzreservierung">
+    <rect x="1050" y="350" width="70" height="34" rx="4" fill="#2f3337"/>
+    <path d="M1060 367 h50" fill="none" stroke="#e45b4f" stroke-width="6"/>
+  </g>
+  <g data-word="der Ruhebereich">
+    <circle cx="1260" cy="370" r="26" fill="#ffffff"/>
+    <path d="M1250 372 c0 -16 20 -16 20 0 v12 h-20 Z" fill="#3a3f44" stroke-width="2"/>
+    <path d="M1240 350 l40 40" fill="none" stroke="#e45b4f" stroke-width="5"/>
+  </g>
+  <g data-word="das Bordbistro">
+    <rect x="1360" y="330" width="220" height="215" fill="#f3e9dc"/>
+    <rect x="1370" y="440" width="200" height="100" fill="#7a5a3c"/>
+    <rect x="1365" y="430" width="210" height="14" fill="#5b4636"/>
+    <path d="M1400 428 v-26 h26 v26 Z M1450 428 v-30 h26 v30 Z" fill="#ffffff" stroke-width="2"/>
+    <path d="M1500 428 l-8 -40 h40 l-8 40 Z" fill="#f2b84b" stroke-width="2"/>
+  </g>
+  <path d="M0 620 H1600" fill="none" stroke-width="4"/>
+  <circle cx="200" cy="625" r="20" fill="#2b2b2b"/><circle cx="700" cy="625" r="20" fill="#2b2b2b"/><circle cx="1100" cy="625" r="20" fill="#2b2b2b"/><circle cx="1450" cy="625" r="20" fill="#2b2b2b"/>
+
+  <!-- Platform -->
+  <rect x="0" y="640" width="1600" height="260" fill="#c3c0b4" stroke="none"/>
+  <path d="M0 660 H1600" fill="none" stroke="#ffffff" stroke-width="8" stroke-dasharray="30 18"/>
+
+  <g data-word="der Zugbegleiter">
+    <circle cx="500" cy="690" r="30" fill="#e8b98f"/>
+    <path d="M466 670 h68 v-12 c-12 -14 -56 -14 -68 0 Z" fill="#c33f3f"/>
+    <path d="M462 725 h76 l10 150 h-96 Z" fill="#2f3f5c"/>
+    <path d="M484 725 h32 l-16 30 Z" fill="#c33f3f" stroke-width="2"/>
+  </g>
+
+  <!-- Traveller with ticket, BahnCard and app -->
+  <circle cx="900" cy="690" r="30" fill="#8d5a3b"/>
+  <path d="M870 686 c0 -40 60 -40 60 0" fill="#2f2622"/>
+  <path d="M862 725 h76 l10 150 h-96 Z" fill="#e0a43c"/>
+  <path d="M1010 760 h120 v90 h-120 Z" fill="#555b60"/>
+  <path d="M1030 760 v-18 h80 v18" fill="none" stroke-width="5"/>
+  <g data-word="die Fahrkarte">
+    <rect x="720" y="760" width="100" height="56" rx="4" fill="#ffffff"/>
+    <path d="M732 778 h60 M732 795 h40" fill="none" stroke="#c33f3f" stroke-width="4"/>
+  </g>
+  <g data-word="die BahnCard">
+    <rect x="740" y="830" width="96" height="56" rx="7" fill="#c33f3f"/>
+    <path d="M752 850 h40 M752 866 h30" fill="none" stroke="#ffffff" stroke-width="4"/>
+  </g>
+  <g data-word="die App DB Navigator">
+    <rect x="950" y="740" width="44" height="80" rx="8" fill="#2f3337"/>
+    <rect x="955" y="748" width="34" height="62" rx="3" fill="#ffffff"/>
+    <rect x="955" y="748" width="34" height="14" rx="3" fill="#c33f3f" stroke="none"/>
+    <path d="M962 775 h20 M962 788 h14" fill="none" stroke-width="3"/>
+  </g>
+</svg>

@@ -1,0 +1,92 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1600 900" stroke="#33302c" stroke-width="3" stroke-linejoin="round" stroke-linecap="round">
+  <rect x="0" y="0" width="1600" height="900" fill="#cfe6f2" stroke="none"/>
+
+  <!-- Ski resort mountain -->
+  <g data-word="das Skigebiet">
+    <path d="M0 640 L520 90 L1100 640 Z" fill="#eef4f8"/>
+    <path d="M700 640 L1180 200 L1600 560 V640 Z" fill="#e2ecf2"/>
+  </g>
+  <g data-word="der Gipfel"><path d="M455 160 L520 90 L585 160 L550 150 L520 175 L490 150 Z" fill="#ffffff"/></g>
+  <g data-word="die blaue Piste"><path d="M500 140 C430 260 360 360 220 520" fill="none" stroke="#3d6fb6" stroke-width="10"/></g>
+  <g data-word="die rote Piste"><path d="M530 140 C560 280 520 380 520 560" fill="none" stroke="#e45b4f" stroke-width="10"/></g>
+  <g data-word="die schwarze Piste"><path d="M545 140 C640 240 700 330 820 480" fill="none" stroke="#2f3337" stroke-width="10"/></g>
+  <g data-word="die Bergstation"><rect x="1120" y="200" width="110" height="70" fill="#a0693a"/><path d="M1110 205 l65 -40 l65 40 Z" fill="#7a4f22"/></g>
+  <g data-word="die Gondel">
+    <path d="M1175 230 L1520 560" fill="none" stroke-width="2"/>
+    <path d="M1340 385 v20" fill="none" stroke-width="3"/>
+    <rect x="1310" y="405" width="60" height="50" rx="10" fill="#e45b4f"/>
+    <rect x="1320" y="415" width="40" height="20" rx="4" fill="#cfe6f2" stroke-width="2"/>
+  </g>
+  <g data-word="der Sessellift">
+    <path d="M300 620 L520 180" fill="none" stroke-width="2"/>
+    <path d="M380 460 v18 h30 v-10 M450 320 v18 h30 v-10" fill="none" stroke-width="4"/>
+  </g>
+  <g data-word="die Hütte">
+    <rect x="860" y="480" width="130" height="90" fill="#a0693a"/>
+    <path d="M845 485 l80 -60 l80 60 Z" fill="#ffffff"/>
+    <rect x="905" y="510" width="40" height="60" fill="#5b4636"/>
+  </g>
+  <g data-word="die Lawinengefahr">
+    <path d="M1460 600 V520" fill="none" stroke-width="5"/>
+    <path d="M1460 430 l50 85 h-100 Z" fill="#f6d53b"/>
+    <path d="M1430 500 l20 -30 l15 15 l20 -25" fill="none" stroke-width="4"/>
+  </g>
+  <g data-word="die Loipe">
+    <path d="M1000 640 C1150 600 1300 620 1600 600 M1000 655 C1150 615 1300 635 1600 615" fill="none" stroke="#9fb7c4" stroke-width="4"/>
+  </g>
+
+  <!-- Snowy foreground -->
+  <g data-word="der Schnee"><rect x="0" y="640" width="1600" height="260" fill="#ffffff"/></g>
+  <g data-word="die Talstation">
+    <rect x="60" y="520" width="200" height="150" fill="#c3cbd0"/>
+    <path d="M50 525 l110 -60 l110 60 Z" fill="#7c868b"/>
+    <path d="M160 520 L300 620" fill="none" stroke-width="2"/>
+  </g>
+  <g data-word="die Schlange">
+    <circle cx="300" cy="640" r="14" fill="#e8b98f"/><rect x="288" y="654" width="24" height="40" rx="6" fill="#3d6fb6"/>
+    <circle cx="340" cy="645" r="14" fill="#c58c5c"/><rect x="328" y="659" width="24" height="40" rx="6" fill="#e45b4f"/>
+    <circle cx="380" cy="650" r="14" fill="#f0c9a6"/><rect x="368" y="664" width="24" height="40" rx="6" fill="#5b8c5a"/>
+  </g>
+
+  <!-- Instructor and beginner doing the snowplough -->
+  <g data-word="der Skilehrer">
+    <circle cx="520" cy="620" r="22" fill="#e8b98f"/>
+    <path d="M498 612 c0 -32 44 -32 44 0" fill="#e45b4f"/>
+    <path d="M495 645 h50 l8 90 h-66 Z" fill="#e45b4f"/>
+    <path d="M500 735 l-10 40 M540 735 l10 40" fill="none" stroke-width="10"/>
+    <path d="M460 775 h70 M510 775 h70" fill="none" stroke="#2f3337" stroke-width="6"/>
+  </g>
+  <g data-word="der Anfänger">
+    <circle cx="660" cy="680" r="18" fill="#f0c9a6"/>
+    <path d="M642 674 c0 -26 36 -26 36 0" fill="#f6d53b"/>
+    <path d="M640 700 h40 l6 60 h-52 Z" fill="#8b6fb5"/>
+    <g data-word="der Pflug"><path d="M620 800 l40 -40 M700 800 l-40 -40" fill="none" stroke="#3d6fb6" stroke-width="7"/></g>
+  </g>
+
+  <!-- Skier in full kit -->
+  <circle cx="1000" cy="660" r="34" fill="#f0c9a6"/>
+  <g data-word="der Helm"><path d="M964 660 c0 -52 72 -52 72 0 Z" fill="#3d6fb6"/></g>
+  <g data-word="die Skibrille"><rect x="970" y="652" width="60" height="22" rx="10" fill="#f29a2e"/></g>
+  <g data-word="die Skijacke"><path d="M955 700 h90 l14 120 h-118 Z" fill="#3d9a7a"/></g>
+  <g data-word="die Handschuhe"><circle cx="935" cy="790" r="14" fill="#2f3337"/><circle cx="1065" cy="790" r="14" fill="#2f3337"/></g>
+  <g data-word="der Skistock"><path d="M935 790 l-20 100 M1065 790 l20 100" fill="none" stroke="#9aa3a8" stroke-width="5"/></g>
+  <g data-word="die Skihose"><path d="M960 820 h80 l-6 50 h-22 l-12 -30 l-12 30 h-22 Z" fill="#2f3f5c"/></g>
+  <g data-word="der Skischuh"><rect x="960" y="860" width="34" height="24" rx="4" fill="#e45b4f"/><rect x="1006" y="860" width="34" height="24" rx="4" fill="#e45b4f"/></g>
+  <g data-word="der Ski"><path d="M860 888 h260 c10 0 20 -6 24 -16" fill="none" stroke="#f6d53b" stroke-width="8"/></g>
+
+  <!-- Snowboard, ski pass, mulled wine -->
+  <g data-word="das Snowboard">
+    <rect x="1180" y="700" width="70" height="190" rx="34" fill="#b58ad8"/>
+    <g data-word="die Bindung"><rect x="1190" y="740" width="50" height="22" rx="5" fill="#2f3337"/><rect x="1190" y="820" width="50" height="22" rx="5" fill="#2f3337"/></g>
+  </g>
+  <g data-word="der Skipass">
+    <rect x="1290" y="760" width="120" height="76" rx="8" fill="#3d6fb6"/>
+    <path d="M1305 780 h50 M1305 798 h70" fill="none" stroke="#ffffff" stroke-width="5"/>
+    <rect x="1370" y="790" width="28" height="34" fill="#ffffff" stroke-width="2"/>
+  </g>
+  <g data-word="der Glühwein">
+    <path d="M1450 880 v-80 h70 v80 Z" fill="#c33f3f"/>
+    <path d="M1520 815 c25 0 25 45 0 45" fill="none" stroke-width="6"/>
+    <path d="M1470 790 c-5 -15 10 -20 5 -35 M1495 790 c-5 -15 10 -20 5 -35" fill="none" stroke="#9aa3a8" stroke-width="3"/>
+  </g>
+</svg>

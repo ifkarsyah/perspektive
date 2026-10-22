@@ -1,0 +1,85 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1600 900" stroke="#33302c" stroke-width="3" stroke-linejoin="round" stroke-linecap="round">
+  <g data-word="der Stammtisch">
+    <rect x="0" y="0" width="1600" height="900" fill="#f1e4cf" stroke="none"/>
+    <rect x="0" y="0" width="1600" height="30" fill="#7a5a3c" stroke="none"/>
+  </g>
+
+  <!-- Grammar board -->
+  <g data-word="die Grammatik">
+    <rect x="40" y="70" width="480" height="300" rx="6" fill="#2f3a33"/>
+    <rect x="40" y="70" width="480" height="300" rx="6" fill="none" stroke="#9a6b43" stroke-width="10"/>
+    <text x="80" y="140" font-family="sans-serif" font-size="40" fill="#7fb8f0" stroke="none">der</text>
+    <text x="210" y="140" font-family="sans-serif" font-size="40" fill="#f08a8a" stroke="none">die</text>
+    <text x="340" y="140" font-family="sans-serif" font-size="40" fill="#8fe0a8" stroke="none">das</text>
+    <path d="M70 160 H490" fill="none" stroke="#ffffff" stroke-width="2"/>
+    <text x="70" y="210" font-family="sans-serif" font-size="32" fill="#ffffff" stroke="none">den  die  das</text>
+  </g>
+  <g data-word="der Satz">
+    <path d="M70 260 H490" fill="none" stroke="none"/>
+    <text x="70" y="330" font-family="serif" font-size="34" font-style="italic" fill="#f6d53b" stroke="none">Ich hätte gern …</text>
+  </g>
+  <g data-word="das Niveau">
+    <rect x="580" y="80" width="120" height="120" rx="60" fill="#3d6fb6"/>
+    <text x="608" y="158" font-family="sans-serif" font-size="48" font-weight="bold" fill="#ffffff" stroke="none">B1</text>
+  </g>
+
+  <!-- Speech bubbles -->
+  <g data-word="der Sprachaustausch">
+    <path d="M760 90 h300 c20 0 30 10 30 30 v80 c0 20 -10 30 -30 30 h-200 l-40 40 v-40 h-60 c-20 0 -30 -10 -30 -30 v-80 c0 -20 10 -30 30 -30 Z" fill="#ffffff"/>
+    <text x="785" y="172" font-family="sans-serif" font-size="32" fill="#33302c" stroke="none">Wie sagt man …?</text>
+    <path d="M1130 140 h300 c20 0 30 10 30 30 v80 c0 20 -10 30 -30 30 h-60 v40 l-40 -40 h-200 c-20 0 -30 -10 -30 -30 v-80 c0 -20 10 -30 30 -30 Z" fill="#fff3c4"/>
+    <text x="1150" y="222" font-family="sans-serif" font-size="30" fill="#33302c" stroke="none">How do you say …?</text>
+  </g>
+  <g data-word="die Aussprache">
+    <path d="M590 280 c20 -10 40 -10 60 0 c-20 30 -40 30 -60 0 Z" fill="#e45b4f"/>
+    <path d="M670 260 q20 20 0 40 M690 245 q35 35 0 70 M710 230 q50 50 0 100" fill="none" stroke="#3d6fb6" stroke-width="4"/>
+  </g>
+
+  <!-- Tandem pair at the table -->
+  <g data-word="der Tandempartner">
+    <circle cx="900" cy="400" r="40" fill="#e8b98f"/>
+    <path d="M860 392 c0 -52 80 -52 80 0" fill="#c98f3e"/>
+    <path d="M850 445 h100 l14 160 h-128 Z" fill="#5b8c5a"/>
+  </g>
+  <g data-word="der Muttersprachler">
+    <circle cx="1300" cy="400" r="40" fill="#f0c9a6"/>
+    <path d="M1260 392 c0 -52 80 -52 80 0" fill="#7a5a3c"/>
+    <path d="M1250 445 h100 l14 160 h-128 Z" fill="#3d6fb6"/>
+  </g>
+  <g data-word="die Gruppe">
+    <circle cx="1480" cy="450" r="30" fill="#8d5a3b"/><path d="M1446 486 h68 l10 120 h-88 Z" fill="#e45b4f"/>
+    <circle cx="700" cy="450" r="30" fill="#c58c5c"/><path d="M666 486 h68 l10 120 h-88 Z" fill="#b58ad8"/>
+  </g>
+
+  <!-- Table -->
+  <path d="M520 600 H1580 L1600 880 H500 Z" fill="#9a6b43"/>
+  <g data-word="das Wörterbuch">
+    <rect x="580" y="640" width="200" height="140" rx="6" fill="#f6d53b"/>
+    <path d="M600 640 v140" fill="none" stroke-width="4"/>
+    <text x="640" y="725" font-family="sans-serif" font-size="40" font-weight="bold" fill="#3d6fb6" stroke="none">D↔E</text>
+  </g>
+  <g data-word="die Karteikarte">
+    <rect x="820" y="670" width="140" height="90" rx="6" fill="#ffffff" transform="rotate(-8 890 715)"/>
+    <rect x="840" y="680" width="140" height="90" rx="6" fill="#ffffff"/>
+    <g data-word="das Wort"><text x="860" y="735" font-family="sans-serif" font-size="30" fill="#33302c" stroke="none">die Tür</text></g>
+  </g>
+  <g data-word="die Hausaufgabe">
+    <rect x="1010" y="650" width="190" height="150" rx="4" fill="#ffffff"/>
+    <path d="M1030 680 h150 M1030 710 h150 M1030 740 h150 M1030 770 h110" fill="none" stroke="#9fc8de" stroke-width="2"/>
+    <path d="M1030 680 h110 M1030 710 h90" fill="none" stroke-width="3"/>
+    <g data-word="der Fehler"><path d="M1120 730 l30 20 M1150 730 l-30 20" fill="none" stroke="#e45b4f" stroke-width="5"/>
+      <circle cx="1080" cy="740" r="18" fill="none" stroke="#e45b4f" stroke-width="3"/></g>
+  </g>
+  <g data-word="die Prüfung">
+    <rect x="1240" y="640" width="150" height="190" rx="4" fill="#fdfbf5"/>
+    <path d="M1260 670 h110 M1260 700 h80 M1260 730 h110 M1260 760 h90" fill="none" stroke-width="3"/>
+    <circle cx="1350" cy="790" r="26" fill="none" stroke="#5b8c5a" stroke-width="4"/>
+    <path d="M1338 790 l8 8 l16 -16" fill="none" stroke="#5b8c5a" stroke-width="4"/>
+  </g>
+  <g data-word="die App">
+    <rect x="1440" y="660" width="80" height="150" rx="14" fill="#2f3337"/>
+    <rect x="1448" y="674" width="64" height="122" rx="5" fill="#8bd16f"/>
+    <circle cx="1480" cy="720" r="18" fill="#ffffff"/>
+    <rect x="1458" y="760" width="44" height="14" rx="5" fill="#ffffff"/>
+  </g>
+</svg>

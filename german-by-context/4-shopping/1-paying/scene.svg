@@ -1,0 +1,103 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1600 900" stroke="#33302c" stroke-width="3" stroke-linejoin="round" stroke-linecap="round">
+  <rect x="0" y="0" width="1600" height="720" fill="#f3efe6" stroke="none"/>
+  <rect x="0" y="720" width="1600" height="180" fill="#c9c3b8" stroke="none"/>
+
+  <!-- Signs on the wall -->
+  <g data-word="der Rabatt">
+    <circle cx="200" cy="170" r="95" fill="#e45b4f"/>
+    <text x="128" y="192" font-family="sans-serif" font-size="64" font-weight="bold" fill="#ffffff" stroke="none">-20%</text>
+  </g>
+  <g data-word="das Angebot">
+    <path d="M420 90 l25 50 l55 8 l-40 38 l10 55 l-50 -26 l-50 26 l10 -55 l-40 -38 l55 -8 Z" fill="#f6d53b"/>
+  </g>
+  <g data-word="der Preis">
+    <path d="M600 110 h170 l40 55 l-40 55 h-170 Z" fill="#ffffff"/>
+    <circle cx="625" cy="165" r="10" fill="#f3efe6"/>
+    <text x="650" y="182" font-family="sans-serif" font-size="44" font-weight="bold" fill="#33302c" stroke="none">4,99</text>
+  </g>
+
+  <!-- Cashier -->
+  <circle cx="420" cy="340" r="34" fill="#e8b98f"/>
+  <path d="M386 330 c0 -46 68 -46 68 0" fill="#7a5a3c"/>
+  <path d="M380 380 h80 l12 120 h-104 Z" fill="#3d6fb6"/>
+
+  <!-- Counter -->
+  <rect x="140" y="520" width="1000" height="200" fill="#d9c3a0"/>
+  <rect x="130" y="500" width="1020" height="24" fill="#9a6b43"/>
+
+  <g data-word="die Kasse">
+    <rect x="180" y="400" width="200" height="100" rx="8" fill="#3a3f44"/>
+    <rect x="200" y="330" width="150" height="70" rx="6" fill="#2f3337"/>
+    <g data-word="der Betrag">
+      <rect x="212" y="342" width="126" height="46" fill="#9fe0a8" stroke-width="2"/>
+      <text x="220" y="376" font-family="monospace" font-size="28" fill="#33302c" stroke="none">12,40</text>
+    </g>
+    <path d="M205 430 h20 M240 430 h20 M275 430 h20 M205 455 h20 M240 455 h20 M275 455 h20" fill="none" stroke="#c3cbd0" stroke-width="10"/>
+  </g>
+  <g data-word="der Kassenbon">
+    <path d="M330 400 v-80 h40 v80" fill="#ffffff" stroke-width="2"/>
+    <path d="M338 340 h24 M338 352 h24 M338 364 h18" fill="none" stroke-width="2"/>
+  </g>
+
+  <g data-word="das Kartenlesegerät">
+    <rect x="560" y="400" width="90" height="100" rx="10" fill="#2f3337"/>
+    <g data-word="die PIN"><rect x="572" y="412" width="66" height="26" fill="#9fe0a8" stroke-width="2"/>
+      <text x="582" y="432" font-family="monospace" font-size="18" fill="#33302c" stroke="none">****</text></g>
+    <path d="M575 455 h10 M600 455 h10 M625 455 h10 M575 478 h10 M600 478 h10 M625 478 h10" fill="none" stroke="#ffffff" stroke-width="5"/>
+  </g>
+  <g data-word="die Girocard">
+    <rect x="575" y="360" width="60" height="44" rx="5" fill="#3d6fb6"/>
+    <rect x="585" y="368" width="14" height="10" rx="2" fill="#e0c06a" stroke-width="1.5"/>
+  </g>
+  <g data-word="die Kreditkarte">
+    <rect x="690" y="460" width="86" height="40" rx="6" fill="#2f3337"/>
+    <rect x="700" y="468" width="16" height="11" rx="2" fill="#e0c06a" stroke-width="1.5"/>
+    <path d="M700 490 h40" fill="none" stroke="#c9c9c9" stroke-width="3"/>
+  </g>
+  <g data-word="das Trinkgeld">
+    <path d="M820 390 h80 l-6 110 h-68 Z" fill="#dff1f7" fill-opacity="0.8"/>
+    <circle cx="845" cy="480" r="12" fill="#e0c06a"/><circle cx="872" cy="472" r="12" fill="#c9c9c9"/><circle cx="858" cy="455" r="12" fill="#e0c06a"/>
+  </g>
+  <g data-word="die Rechnung">
+    <rect x="940" y="440" width="120" height="60" rx="4" fill="#2f3f5c"/>
+    <rect x="955" y="420" width="70" height="40" fill="#ffffff" stroke-width="2"/>
+    <path d="M963 432 h50 M963 444 h36" fill="none" stroke-width="2"/>
+  </g>
+
+  <!-- Customer's cash -->
+  <g data-word="das Bargeld">
+    <rect x="1200" y="560" width="260" height="150" rx="14" fill="#5b4636"/>
+    <g data-word="der Schein">
+      <rect x="1230" y="510" width="150" height="70" rx="4" fill="#8bbf7a"/>
+      <circle cx="1305" cy="545" r="16" fill="none" stroke-width="2"/>
+      <text x="1240" y="535" font-family="sans-serif" font-size="20" fill="#33302c" stroke="none">20</text>
+    </g>
+  </g>
+  <g data-word="die Münze">
+    <circle cx="1240" cy="780" r="34" fill="#e0c06a"/>
+    <text x="1226" y="792" font-family="sans-serif" font-size="32" font-weight="bold" fill="#33302c" stroke="none">2</text>
+  </g>
+  <g data-word="der Euro">
+    <circle cx="1330" cy="790" r="30" fill="#c9c9c9"/>
+    <circle cx="1330" cy="790" r="18" fill="#e0c06a" stroke-width="2"/>
+    <text x="1320" y="799" font-family="sans-serif" font-size="22" font-weight="bold" fill="#33302c" stroke="none">€</text>
+  </g>
+  <g data-word="das Kleingeld">
+    <circle cx="1420" cy="800" r="16" fill="#c66a43"/><circle cx="1450" cy="790" r="14" fill="#c66a43"/><circle cx="1440" cy="815" r="15" fill="#e0c06a"/><circle cx="1470" cy="812" r="12" fill="#c66a43"/>
+  </g>
+  <g data-word="der Cent">
+    <circle cx="1530" cy="800" r="20" fill="#c66a43"/>
+    <text x="1522" y="808" font-family="sans-serif" font-size="20" font-weight="bold" fill="#33302c" stroke="none">1</text>
+  </g>
+
+  <!-- Change handed back -->
+  <g data-word="das Wechselgeld">
+    <path d="M300 560 c30 -10 60 -10 80 10 l-20 30 c-20 -10 -40 -12 -60 -10 Z" fill="#e8b98f"/>
+    <circle cx="350" cy="560" r="12" fill="#e0c06a"/><circle cx="372" cy="566" r="10" fill="#c66a43"/>
+  </g>
+  <g data-word="die Quittung">
+    <rect x="480" y="560" width="70" height="90" fill="#ffffff"/>
+    <path d="M492 578 h46 M492 592 h46 M492 606 h30" fill="none" stroke-width="2"/>
+    <circle cx="525" cy="630" r="12" fill="none" stroke="#3d6fb6" stroke-width="3"/>
+  </g>
+</svg>

@@ -1,0 +1,89 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1600 900" stroke="#33302c" stroke-width="3" stroke-linejoin="round" stroke-linecap="round">
+  <rect x="0" y="0" width="1600" height="900" fill="#e9edf2" stroke="none"/>
+  <rect x="30" y="16" width="1540" height="600" rx="18" fill="#2f3337"/>
+  <g data-word="der Schreibtisch"><rect x="46" y="32" width="1508" height="568" fill="#7fb0d6"/><path d="M46 500 C400 380 800 560 1554 420 V600 H46 Z" fill="#5f97c2" stroke="none"/></g>
+  <g data-word="die Menüleiste"><rect x="46" y="32" width="1508" height="34" fill="#f4f6f8"/></g>
+  <g data-word="der Finder"><rect x="62" y="38" width="44" height="22" rx="4" fill="#3d6fb6"/></g>
+  <g data-word="Ablage"><rect x="120" y="40" width="70" height="18" rx="4" fill="#d6dbe0" stroke="none"/></g>
+  <g data-word="Bearbeiten"><rect x="208" y="40" width="100" height="18" rx="4" fill="#d6dbe0" stroke="none"/></g>
+  <g data-word="Darstellung"><rect x="326" y="40" width="110" height="18" rx="4" fill="#d6dbe0" stroke="none"/></g>
+  <g data-word="Gehe zu"><rect x="454" y="40" width="80" height="18" rx="4" fill="#d6dbe0" stroke="none"/></g>
+  <g data-word="Fenster"><rect x="552" y="40" width="80" height="18" rx="4" fill="#d6dbe0" stroke="none"/></g>
+  <g data-word="Hilfe"><rect x="650" y="40" width="60" height="18" rx="4" fill="#d6dbe0" stroke="none"/></g>
+  <g data-word="das Kontrollzentrum"><rect x="1430" y="38" width="30" height="22" rx="5" fill="#c3cbd0"/><circle cx="1440" cy="49" r="4" fill="#33302c" stroke="none"/><circle cx="1452" cy="49" r="4" fill="#ffffff" stroke="#33302c" stroke-width="1.5"/></g>
+  <g data-word="die Spotlight-Suche"><circle cx="1490" cy="47" r="8" fill="none" stroke-width="3"/><path d="M1496 53 l7 7" fill="none" stroke-width="3"/><rect x="560" y="110" width="480" height="56" rx="14" fill="#ffffff" fill-opacity="0.95"/><circle cx="592" cy="138" r="12" fill="none" stroke-width="4"/><path d="M601 147 l10 10" fill="none" stroke-width="4"/></g>
+  <g data-word="das Fenster"><rect x="120" y="200" width="620" height="360" rx="12" fill="#ffffff"/><rect x="120" y="200" width="620" height="40" rx="12" fill="#e6eaec"/><circle cx="145" cy="220" r="7" fill="#e45b4f"/><circle cx="168" cy="220" r="7" fill="#f2b84b"/><circle cx="191" cy="220" r="7" fill="#5b8c5a"/><rect x="120" y="240" width="160" height="320" fill="#f2f2f7" stroke="none"/></g>
+  <g data-word="die Programme"><rect x="132" y="262" width="136" height="36" rx="8" fill="#ffffff"/><circle cx="152" cy="280" r="9" fill="#7b4fd6" stroke="none"/><path d="M170 280 h80" fill="none" stroke="#c3cbd0" stroke-width="6"/></g>
+  <g data-word="die Dokumente"><rect x="132" y="308" width="136" height="36" rx="8" fill="#ffffff"/><circle cx="152" cy="326" r="9" fill="#3d6fb6" stroke="none"/><path d="M170 326 h80" fill="none" stroke="#c3cbd0" stroke-width="6"/></g>
+  <g data-word="die Downloads"><rect x="132" y="354" width="136" height="36" rx="8" fill="#ffffff"/><circle cx="152" cy="372" r="9" fill="#5b8c5a" stroke="none"/><path d="M170 372 h80" fill="none" stroke="#c3cbd0" stroke-width="6"/></g>
+  <g data-word="der Ordner"><path d="M320 280 h50 l12 14 h78 v80 h-140 Z" fill="#7fb8d6"/><path d="M520 280 h50 l12 14 h78 v80 h-140 Z" fill="#7fb8d6"/></g>
+  <g data-word="die Datei"><path d="M340 420 h60 l26 26 v90 h-86 Z" fill="#ffffff"/><path d="M400 420 v26 h26" fill="none"/><path d="M540 420 h60 l26 26 v90 h-86 Z" fill="#ffffff"/><path d="M600 420 v26 h26" fill="none"/></g>
+  <g data-word="die Mitteilungszentrale"><rect x="1230" y="90" width="300" height="90" rx="16" fill="#ffffff" fill-opacity="0.95"/><rect x="1246" y="106" width="40" height="40" rx="9" fill="#5b8c5a"/><path d="M1300 115 h200 M1300 140 h150" fill="none" stroke-width="6"/><rect x="1230" y="196" width="300" height="90" rx="16" fill="#ffffff" fill-opacity="0.95"/><rect x="1246" y="212" width="40" height="40" rx="9" fill="#e45b4f"/><path d="M1300 221 h200 M1300 246 h120" fill="none" stroke-width="6"/></g>
+  <g data-word="das Dock"><rect x="440" y="520" width="720" height="72" rx="20" fill="#ffffff" fill-opacity="0.55"/></g>
+  <g data-word="der Finder"><rect x="462" y="530" width="56" height="56" rx="13" fill="#3d6fb6"/><text x="490" y="568" text-anchor="middle" font-family="sans-serif" font-size="30" font-weight="bold" fill="#ffffff" stroke="none">☺</text></g>
+  <g data-word="die Vorschau"><rect x="548" y="530" width="56" height="56" rx="13" fill="#62b5c9"/><text x="576" y="568" text-anchor="middle" font-family="sans-serif" font-size="30" font-weight="bold" fill="#ffffff" stroke="none">▣</text></g>
+  <g data-word="die Systemeinstellungen"><rect x="634" y="530" width="56" height="56" rx="13" fill="#8e8e93"/><text x="662" y="568" text-anchor="middle" font-family="sans-serif" font-size="30" font-weight="bold" fill="#ffffff" stroke="none">⚙</text></g>
+  <g data-word="die Aktivitätsanzeige"><rect x="720" y="530" width="56" height="56" rx="13" fill="#2f3337"/><text x="748" y="568" text-anchor="middle" font-family="sans-serif" font-size="30" font-weight="bold" fill="#ffffff" stroke="none">∿</text></g>
+  <g data-word="das Festplattendienstprogramm"><rect x="806" y="530" width="56" height="56" rx="13" fill="#c3cbd0"/><text x="834" y="568" text-anchor="middle" font-family="sans-serif" font-size="30" font-weight="bold" fill="#33302c" stroke="none">◎</text></g>
+  <g data-word="das Programm"><rect x="892" y="530" width="56" height="56" rx="13" fill="#f29a2e"/><text x="920" y="568" text-anchor="middle" font-family="sans-serif" font-size="30" font-weight="bold" fill="#ffffff" stroke="none">✎</text></g>
+  <g data-word="die Programme"><rect x="978" y="530" width="56" height="56" rx="13" fill="#7b4fd6"/><text x="1006" y="568" text-anchor="middle" font-family="sans-serif" font-size="30" font-weight="bold" fill="#ffffff" stroke="none">A</text></g>
+  <g data-word="der Papierkorb"><rect x="1064" y="530" width="56" height="56" rx="13" fill="#e6eaec"/><text x="1092" y="568" text-anchor="middle" font-family="sans-serif" font-size="30" font-weight="bold" fill="#33302c" stroke="none">⌫</text></g>
+  <g data-word="der Bildschirmschoner"><rect x="1300" y="330" width="220" height="150" rx="10" fill="#1f2b47"/><circle cx="1360" cy="380" r="4" fill="#ffffff" stroke="none"/><circle cx="1420" cy="410" r="3" fill="#ffffff" stroke="none"/><circle cx="1480" cy="370" r="4" fill="#ffffff" stroke="none"/><path d="M1340 450 c40 -40 100 -40 140 0" fill="none" stroke="#7b4fd6" stroke-width="6"/></g>
+  <rect x="140" y="640" width="1320" height="250" rx="22" fill="#c3cbd0"/>
+  <g data-word="die Tabulatortaste"><rect x="160" y="660" width="100" height="50" rx="8" fill="#ffffff"/><text x="210.0" y="693" text-anchor="middle" font-family="sans-serif" font-size="24" font-weight="bold" fill="#33302c" stroke="none">⇥</text></g>
+  <rect x="270" y="660" width="54" height="50" rx="8" fill="#f4f6f8"/>
+  <rect x="332" y="660" width="54" height="50" rx="8" fill="#f4f6f8"/>
+  <rect x="394" y="660" width="54" height="50" rx="8" fill="#f4f6f8"/>
+  <rect x="456" y="660" width="54" height="50" rx="8" fill="#f4f6f8"/>
+  <rect x="518" y="660" width="54" height="50" rx="8" fill="#f4f6f8"/>
+  <rect x="580" y="660" width="54" height="50" rx="8" fill="#f4f6f8"/>
+  <rect x="642" y="660" width="54" height="50" rx="8" fill="#f4f6f8"/>
+  <rect x="704" y="660" width="54" height="50" rx="8" fill="#f4f6f8"/>
+  <rect x="766" y="660" width="54" height="50" rx="8" fill="#f4f6f8"/>
+  <rect x="828" y="660" width="54" height="50" rx="8" fill="#f4f6f8"/>
+  <rect x="890" y="660" width="54" height="50" rx="8" fill="#f4f6f8"/>
+  <rect x="952" y="660" width="54" height="50" rx="8" fill="#f4f6f8"/>
+  <rect x="1014" y="660" width="54" height="50" rx="8" fill="#f4f6f8"/>
+  <rect x="1076" y="660" width="54" height="50" rx="8" fill="#f4f6f8"/>
+  <rect x="1138" y="660" width="54" height="50" rx="8" fill="#f4f6f8"/>
+  <rect x="1200" y="660" width="54" height="50" rx="8" fill="#f4f6f8"/>
+  <rect x="1262" y="660" width="54" height="50" rx="8" fill="#f4f6f8"/>
+  <g data-word="die Rückschritttaste"><rect x="1324" y="660" width="116" height="50" rx="8" fill="#ffffff"/><text x="1382.0" y="693" text-anchor="middle" font-family="sans-serif" font-size="24" font-weight="bold" fill="#33302c" stroke="none">⌫</text></g>
+  <g data-word="die Feststelltaste"><rect x="160" y="720" width="120" height="50" rx="8" fill="#ffffff"/><text x="220.0" y="753" text-anchor="middle" font-family="sans-serif" font-size="24" font-weight="bold" fill="#33302c" stroke="none">⇪</text></g>
+  <rect x="290" y="720" width="54" height="50" rx="8" fill="#f4f6f8"/>
+  <rect x="352" y="720" width="54" height="50" rx="8" fill="#f4f6f8"/>
+  <rect x="414" y="720" width="54" height="50" rx="8" fill="#f4f6f8"/>
+  <rect x="476" y="720" width="54" height="50" rx="8" fill="#f4f6f8"/>
+  <rect x="538" y="720" width="54" height="50" rx="8" fill="#f4f6f8"/>
+  <rect x="600" y="720" width="54" height="50" rx="8" fill="#f4f6f8"/>
+  <rect x="662" y="720" width="54" height="50" rx="8" fill="#f4f6f8"/>
+  <rect x="724" y="720" width="54" height="50" rx="8" fill="#f4f6f8"/>
+  <rect x="786" y="720" width="54" height="50" rx="8" fill="#f4f6f8"/>
+  <rect x="848" y="720" width="54" height="50" rx="8" fill="#f4f6f8"/>
+  <rect x="910" y="720" width="54" height="50" rx="8" fill="#f4f6f8"/>
+  <rect x="972" y="720" width="54" height="50" rx="8" fill="#f4f6f8"/>
+  <rect x="1034" y="720" width="54" height="50" rx="8" fill="#f4f6f8"/>
+  <rect x="1096" y="720" width="54" height="50" rx="8" fill="#f4f6f8"/>
+  <rect x="1158" y="720" width="54" height="50" rx="8" fill="#f4f6f8"/>
+  <g data-word="die Eingabetaste"><rect x="1220" y="720" width="220" height="50" rx="8" fill="#ffffff"/><text x="1330.0" y="753" text-anchor="middle" font-family="sans-serif" font-size="24" font-weight="bold" fill="#33302c" stroke="none">↵</text></g>
+  <g data-word="die Umschalttaste"><rect x="160" y="780" width="160" height="50" rx="8" fill="#ffffff"/><text x="240.0" y="813" text-anchor="middle" font-family="sans-serif" font-size="24" font-weight="bold" fill="#33302c" stroke="none">⇧</text></g>
+  <rect x="330" y="780" width="54" height="50" rx="8" fill="#f4f6f8"/>
+  <rect x="392" y="780" width="54" height="50" rx="8" fill="#f4f6f8"/>
+  <rect x="454" y="780" width="54" height="50" rx="8" fill="#f4f6f8"/>
+  <rect x="516" y="780" width="54" height="50" rx="8" fill="#f4f6f8"/>
+  <rect x="578" y="780" width="54" height="50" rx="8" fill="#f4f6f8"/>
+  <rect x="640" y="780" width="54" height="50" rx="8" fill="#f4f6f8"/>
+  <rect x="702" y="780" width="54" height="50" rx="8" fill="#f4f6f8"/>
+  <rect x="764" y="780" width="54" height="50" rx="8" fill="#f4f6f8"/>
+  <rect x="826" y="780" width="54" height="50" rx="8" fill="#f4f6f8"/>
+  <rect x="888" y="780" width="54" height="50" rx="8" fill="#f4f6f8"/>
+  <rect x="950" y="780" width="54" height="50" rx="8" fill="#f4f6f8"/>
+  <rect x="1012" y="780" width="54" height="50" rx="8" fill="#f4f6f8"/>
+  <rect x="1074" y="780" width="54" height="50" rx="8" fill="#f4f6f8"/>
+  <rect x="1136" y="780" width="54" height="50" rx="8" fill="#f4f6f8"/>
+  <g data-word="die Steuerungstaste"><rect x="160" y="836" width="90" height="50" rx="8" fill="#ffffff"/><text x="205.0" y="869" text-anchor="middle" font-family="sans-serif" font-size="24" font-weight="bold" fill="#33302c" stroke="none">⌃</text></g>
+  <g data-word="die Wahltaste"><rect x="260" y="836" width="90" height="50" rx="8" fill="#ffffff"/><text x="305.0" y="869" text-anchor="middle" font-family="sans-serif" font-size="24" font-weight="bold" fill="#33302c" stroke="none">⌥</text></g>
+  <g data-word="die Befehlstaste"><rect x="360" y="836" width="110" height="50" rx="8" fill="#ffffff"/><text x="415.0" y="869" text-anchor="middle" font-family="sans-serif" font-size="24" font-weight="bold" fill="#33302c" stroke="none">⌘</text></g>
+  <g data-word="die Leertaste"><rect x="480" y="836" width="560" height="44" rx="8" fill="#ffffff"/></g>
+  <g data-word="die Tastenkombination"><rect x="1080" y="836" width="360" height="44" rx="10" fill="#ece5fb"/><text x="1260" y="867" text-anchor="middle" font-family="sans-serif" font-size="26" font-weight="bold" fill="#7b4fd6" stroke="none">⌘ + C</text></g>
+</svg>

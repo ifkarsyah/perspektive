@@ -1,0 +1,58 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1600 900" stroke="#33302c" stroke-width="3" stroke-linejoin="round" stroke-linecap="round">
+  <g data-word="das Bekleidungsgeschäft">
+    <rect x="0" y="0" width="1600" height="720" fill="#f6f1ea" stroke="none"/>
+    <rect x="0" y="720" width="1600" height="180" fill="#c9b8a0" stroke="none"/>
+  </g>
+  <g data-word="das Schaufenster">
+    <rect x="30" y="90" width="300" height="600" fill="#d6ecf6"/>
+    <circle cx="180" cy="230" r="30" fill="#e6e1d8"/>
+    <path d="M180 260 v20" fill="none" stroke-width="8"/>
+    <g data-word="das Kleid"><path d="M135 290 h90 l25 260 h-140 Z" fill="#3d9a7a"/></g>
+    <path d="M180 550 v120 M150 680 h60" fill="none" stroke-width="6"/>
+  </g>
+  <g data-word="der Ausverkauf">
+    <circle cx="260" cy="150" r="50" fill="#e45b4f"/>
+    <text x="222" y="162" font-family="sans-serif" font-size="30" font-weight="bold" fill="#ffffff" stroke="none">SALE</text>
+  </g>
+  <path d="M370 165 H1060 M380 165 V700 M1050 165 V700" fill="none" stroke="#9aa3a8" stroke-width="8"/>
+  <g data-word="das Hemd"><path d="M423 175 c0 -12 14 -12 14 0 c0 6 -7 8 -7 14 l-38 18 h90 l-38 -18" fill="none" stroke-width="3"/><path d="M395 205 h70 l35 20 l-5 120 h-18 l-4 -80 v110 h-86 v-110 l-4 80 h-18 l-5 -120 Z" fill="#ffffff"/><g data-word="der Ärmel"><path d="M470 225 l-5 120 h-18 l-4 -80 Z" fill="#e6f0fa"/></g></g>
+  <g data-word="das T-Shirt"><path d="M505 175 c0 -12 14 -12 14 0 c0 6 -7 8 -7 14 l-38 18 h90 l-38 -18" fill="none" stroke-width="3"/><path d="M477 205 h70 l35 20 l-5 50 h-18 l-4 -10 v90 h-86 v-90 l-4 10 h-18 l-5 -50 Z" fill="#e45b4f"/></g>
+  <g data-word="die Bluse"><path d="M587 175 c0 -12 14 -12 14 0 c0 6 -7 8 -7 14 l-38 18 h90 l-38 -18" fill="none" stroke-width="3"/><path d="M559 205 h70 l35 20 l-5 120 h-18 l-4 -80 v100 h-86 v-100 l-4 80 h-18 l-5 -120 Z" fill="#f5c4d6"/></g>
+  <g data-word="der Pullover"><path d="M669 175 c0 -12 14 -12 14 0 c0 6 -7 8 -7 14 l-38 18 h90 l-38 -18" fill="none" stroke-width="3"/><path d="M641 205 h70 l35 20 l-5 120 h-18 l-4 -80 v110 h-86 v-110 l-4 80 h-18 l-5 -120 Z" fill="#5b8c5a"/><g data-word="das Etikett"><rect x="681" y="300" width="22" height="34" fill="#f6d53b" stroke-width="2"/></g></g>
+  <g data-word="der Hoodie"><path d="M751 175 c0 -12 14 -12 14 0 c0 6 -7 8 -7 14 l-38 18 h90 l-38 -18" fill="none" stroke-width="3"/><path d="M723 205 h70 l35 20 l-5 120 h-18 l-4 -80 v120 h-86 v-120 l-4 80 h-18 l-5 -120 Z" fill="#8b6fb5"/></g>
+  <g data-word="die Jacke"><path d="M833 175 c0 -12 14 -12 14 0 c0 6 -7 8 -7 14 l-38 18 h90 l-38 -18" fill="none" stroke-width="3"/><path d="M805 205 h70 l35 20 l-5 120 h-18 l-4 -80 v110 h-86 v-110 l-4 80 h-18 l-5 -120 Z" fill="#2f3f5c"/><g data-word="der Reißverschluss"><path d="M840 210 v145" fill="none" stroke="#c3cbd0" stroke-width="5" stroke-dasharray="4 3"/></g></g>
+  <g data-word="die Winterjacke"><path d="M915 175 c0 -12 14 -12 14 0 c0 6 -7 8 -7 14 l-38 18 h90 l-38 -18" fill="none" stroke-width="3"/><path d="M887 205 h70 l35 20 l-5 120 h-18 l-4 -80 v130 h-86 v-130 l-4 80 h-18 l-5 -120 Z" fill="#e0a43c"/></g>
+  <g data-word="der Mantel"><path d="M997 175 c0 -12 14 -12 14 0 c0 6 -7 8 -7 14 l-38 18 h90 l-38 -18" fill="none" stroke-width="3"/><path d="M969 205 h70 l35 20 l-5 120 h-18 l-4 -80 v190 h-86 v-190 l-4 80 h-18 l-5 -120 Z" fill="#7a5a3c"/><g data-word="der Knopf"><circle cx="1004" cy="260" r="6" fill="#e0c06a"/><circle cx="1004" cy="295" r="6" fill="#e0c06a"/><circle cx="1004" cy="330" r="6" fill="#e0c06a"/></g></g>
+  <g data-word="der Kleiderbügel"><path d="M1012 175 c0 -12 14 -12 14 0 c0 6 -7 8 -7 14 l-38 18 h90 l-38 -18" fill="none" stroke-width="3"/></g>
+  <rect x="390" y="560" width="650" height="22" fill="#9a6b43"/><rect x="410" y="582" width="610" height="118" fill="#c99d6f"/>
+  <g data-word="die Jeans"><rect x="405" y="545" width="90" height="18" rx="4" fill="#3d6fb6"/><rect x="405" y="527" width="90" height="18" rx="4" fill="#3d6fb6"/><rect x="405" y="509" width="90" height="18" rx="4" fill="#3d6fb6"/></g>
+  <g data-word="die Hose"><rect x="510" y="545" width="90" height="18" rx="4" fill="#555b60"/><rect x="510" y="527" width="90" height="18" rx="4" fill="#555b60"/><rect x="510" y="509" width="90" height="18" rx="4" fill="#555b60"/></g>
+  <g data-word="die kurze Hose"><rect x="615" y="545" width="90" height="18" rx="4" fill="#c8a46e"/><rect x="615" y="527" width="90" height="18" rx="4" fill="#c8a46e"/><rect x="615" y="509" width="90" height="18" rx="4" fill="#c8a46e"/></g>
+  <g data-word="der Rock"><rect x="720" y="545" width="90" height="18" rx="4" fill="#b5524b"/><rect x="720" y="527" width="90" height="18" rx="4" fill="#b5524b"/><rect x="720" y="509" width="90" height="18" rx="4" fill="#b5524b"/></g>
+  <g data-word="die Socken"><rect x="825" y="545" width="90" height="18" rx="4" fill="#f2f2ee"/><rect x="825" y="527" width="90" height="18" rx="4" fill="#f2f2ee"/><rect x="825" y="509" width="90" height="18" rx="4" fill="#f2f2ee"/></g>
+  <g data-word="die Unterwäsche"><rect x="930" y="545" width="90" height="18" rx="4" fill="#9ed2c6"/><rect x="930" y="527" width="90" height="18" rx="4" fill="#9ed2c6"/><rect x="930" y="509" width="90" height="18" rx="4" fill="#9ed2c6"/></g>
+  <g data-word="die Umkleidekabine">
+    <rect x="1090" y="120" width="240" height="580" fill="#e9d6b9"/>
+    <path d="M1080 120 H1340" fill="none" stroke-width="6"/>
+    <path d="M1095 125 c15 0 15 570 0 570 h140 c-20 -190 20 -380 0 -570 Z" fill="#b5524b"/>
+    <path d="M1135 130 c10 180 -10 380 5 560 M1180 130 c-10 180 10 380 -5 560" fill="none" stroke="#9c4640" stroke-width="2"/>
+    <path d="M1260 640 l15 50 h40 l-5 -50 Z" fill="#555b60"/>
+  </g>
+  <g data-word="der Spiegel">
+    <rect x="1360" y="200" width="100" height="440" rx="8" fill="#d7e9f2"/>
+    <path d="M1375 260 l50 -40 M1375 300 l70 -55" fill="none" stroke="#ffffff" stroke-width="5"/>
+  </g>
+  <g data-word="die Größe">
+    <rect x="1365" y="120" width="90" height="50" rx="6" fill="#ffffff"/>
+    <text x="1382" y="156" font-family="sans-serif" font-size="30" font-weight="bold" fill="#33302c" stroke="none">M L</text>
+  </g>
+  <g data-word="die Mütze"><path d="M1490 250 c0 -60 90 -60 90 0 Z" fill="#e45b4f"/><rect x="1485" y="245" width="100" height="18" rx="5" fill="#c94a40"/><circle cx="1535" cy="195" r="12" fill="#ffffff"/></g>
+  <g data-word="der Schal"><path d="M1500 300 h70 v30 h-20 v150 h-30 v-150 h-20 Z" fill="#7fb8d6"/><path d="M1520 480 v12 M1530 480 v12 M1540 480 v12" fill="none" stroke-width="2"/></g>
+  <g data-word="die Handschuhe"><path d="M1495 580 v-50 c0 -10 30 -10 30 0 v50 Z M1545 580 v-50 c0 -10 30 -10 30 0 v50 Z" fill="#5b8c5a"/><path d="M1495 545 l-10 -10 M1575 545 l10 -10" fill="none" stroke-width="6"/></g>
+  <g data-word="die Schuhe"><path d="M400 860 v-30 h40 l50 15 c15 5 15 15 10 15 Z" fill="#5b4636"/></g>
+  <g data-word="die Turnschuhe"><path d="M560 860 v-35 h45 l50 15 c15 5 15 20 10 20 Z" fill="#ffffff"/><path d="M560 852 h105" fill="none" stroke="#e45b4f" stroke-width="5"/><path d="M590 835 l12 6 M598 828 l12 6" fill="none" stroke-width="2"/></g>
+  <g data-word="die Stiefel"><path d="M730 860 v-110 h45 v70 l45 15 c12 5 12 25 6 25 Z" fill="#7a4f22"/></g>
+  <g data-word="der Gürtel"><path d="M880 840 h200" fill="none" stroke="#5b4636" stroke-width="16"/><rect x="1060" y="826" width="30" height="28" rx="3" fill="none" stroke="#c9a74a" stroke-width="5"/></g>
+  <g data-word="die Tasche"><path d="M1150 870 l12 -90 h110 l12 90 Z" fill="#8b6fb5"/><path d="M1185 780 c0 -40 60 -40 60 0" fill="none" stroke-width="6"/></g>
+  <g data-word="die Schuhgröße"><rect x="1340" y="800" width="120" height="60" rx="6" fill="#ffffff"/><text x="1365" y="842" font-family="sans-serif" font-size="32" font-weight="bold" fill="#33302c" stroke="none">43</text></g>
+</svg>

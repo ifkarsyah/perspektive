@@ -1,0 +1,78 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1600 900" stroke="#33302c" stroke-width="3" stroke-linejoin="round" stroke-linecap="round">
+  <g data-word="der Barbershop">
+    <rect x="0" y="0" width="1600" height="720" fill="#efe7dc" stroke="none"/>
+    <rect x="0" y="720" width="1600" height="180" fill="#2f3337" stroke="none"/>
+    <path d="M0 760 H1600 M0 820 H1600 M0 880 H1600 M100 720 V900 M300 720 V900 M500 720 V900 M700 720 V900 M900 720 V900" fill="none" stroke="#454b51" stroke-width="2"/>
+    <rect x="60" y="80" width="40" height="220" rx="20" fill="#ffffff"/>
+    <path d="M60 110 l40 -20 M60 150 l40 -20 M60 190 l40 -20 M60 230 l40 -20 M60 270 l40 -20" fill="none" stroke="#e45b4f" stroke-width="10"/>
+  </g>
+  <g data-word="die Wartezeit">
+    <circle cx="560" cy="120" r="60" fill="#ffffff"/>
+    <path d="M560 120 V80 M560 120 l30 15" fill="none" stroke-width="5"/>
+  </g>
+
+  <!-- Barber at work -->
+  <rect x="150" y="150" width="300" height="260" rx="10" fill="#d7e9f2"/>
+  <path d="M190 200 l60 -40 M190 250 l100 -80" fill="none" stroke="#ffffff" stroke-width="6"/>
+  <path d="M220 720 v-60 h120 v60 M200 640 h160 v-30 h-160 Z" fill="#2f3337"/>
+  <path d="M190 420 h180 v200 h-180 Z" fill="#c33f3f"/>
+  <circle cx="280" cy="400" r="40" fill="#c58c5c"/>
+  <path d="M240 390 c0 -50 80 -50 80 0" fill="#2f2622"/>
+  <path d="M220 440 h120 l30 180 h-180 Z" fill="#ffffff"/>
+  <g data-word="der Barbier">
+    <circle cx="470" cy="330" r="34" fill="#e8b98f"/>
+    <path d="M436 320 c0 -44 68 -44 68 0" fill="#7a5a3c"/>
+    <path d="M490 345 c0 25 -20 40 -40 40 c-10 -5 -10 -15 -6 -20" fill="#7a5a3c"/>
+    <path d="M430 370 h80 l14 230 h-108 Z" fill="#2f3337"/>
+    <path d="M440 372 l20 228 M500 372 l-20 228" fill="none" stroke="#7a5a3c" stroke-width="5"/>
+    <path d="M520 600 v120 M460 600 v120" fill="none" stroke="#3a3f44" stroke-width="20"/>
+    <path d="M430 400 l-80 -10" fill="none" stroke-width="12"/>
+  </g>
+
+  <!-- Hair zones on a big profile -->
+  <rect x="1065" y="540" width="130" height="180" fill="#e8b98f"/>
+  <g data-word="der Nacken"><path d="M1065 560 h50 v160 h-50 Z" fill="#d9a77d"/></g>
+  <ellipse cx="1170" cy="410" rx="170" ry="190" fill="#e8b98f"/>
+  <path d="M1335 380 l30 70 l-30 10" fill="#e8b98f"/>
+  <ellipse cx="1130" cy="440" rx="22" ry="36" fill="#d9a77d"/>
+  <circle cx="1300" cy="380" r="7" fill="#33302c" stroke="none"/>
+
+  <g data-word="der Hinterkopf"><path d="M1010 320 C995 400 1010 480 1050 530 L1075 470 L1060 330 Z" fill="#3a2a20"/></g>
+  <g data-word="der Oberkopf"><path d="M1010 330 C1030 230 1150 200 1260 235 C1290 248 1310 270 1318 300 C1250 270 1150 270 1060 330 Z" fill="#3a2a20"/></g>
+  <g data-word="der Scheitel"><path d="M1090 268 C1140 242 1190 236 1240 246" fill="none" stroke="#e8b98f" stroke-width="5"/></g>
+  <g data-word="der Pony"><path d="M1255 240 C1305 255 1330 295 1328 335 C1305 315 1280 305 1255 300 C1265 280 1262 260 1255 240 Z" fill="#4b382b"/></g>
+  <g data-word="die Seiten"><path d="M1060 330 C1120 296 1210 290 1255 300 L1250 345 C1200 335 1140 345 1100 380 L1075 400 Z" fill="#4b382b"/></g>
+  <g data-word="der Fade"><path d="M1075 400 L1100 380 C1140 345 1200 335 1250 345 L1248 370 C1200 362 1150 372 1110 405 L1090 430 Z" fill="#8a7564"/></g>
+  <g data-word="die Kontur"><path d="M1255 300 C1248 330 1248 350 1248 372" fill="none" stroke="#e45b4f" stroke-width="4" stroke-dasharray="8 6"/></g>
+  <g data-word="die Augenbrauen"><path d="M1280 358 l36 -6" fill="none" stroke="#3a2a20" stroke-width="7"/></g>
+  <g data-word="der Bart"><path d="M1170 470 C1180 570 1270 610 1330 540 L1338 490 C1310 520 1250 525 1210 470 Z" fill="#3a2a20"/></g>
+  <g data-word="der Schnurrbart"><path d="M1295 478 c18 -12 45 -10 52 4 c-18 8 -38 6 -52 -4 Z" fill="#3a2a20"/></g>
+
+  <!-- Tools -->
+  <rect x="580" y="560" width="380" height="20" fill="#9a6b43"/>
+  <path d="M600 580 V720 M940 580 V720" fill="none" stroke-width="8"/>
+  <g data-word="die Schere">
+    <circle cx="610" cy="540" r="12" fill="none" stroke-width="5"/><circle cx="640" cy="544" r="12" fill="none" stroke-width="5"/>
+    <path d="M618 530 l60 -40 M632 534 l50 -36" fill="none" stroke="#9aa3a8" stroke-width="6"/>
+  </g>
+  <g data-word="der Kamm"><rect x="700" y="535" width="90" height="16" rx="4" fill="#2f3337"/><path d="M706 551 v12 M716 551 v12 M726 551 v12 M736 551 v12 M746 551 v12 M756 551 v12 M766 551 v12 M776 551 v12" fill="none" stroke="#2f3337" stroke-width="3"/></g>
+  <g data-word="die Haarschneidemaschine">
+    <rect x="820" y="460" width="50" height="100" rx="14" fill="#555b60"/>
+    <g data-word="der Aufsatz"><path d="M815 470 h60 l-6 -20 h-48 Z" fill="#e45b4f"/></g>
+  </g>
+  <g data-word="das Rasiermesser"><path d="M890 550 l40 -60 l10 6 l-40 60 Z" fill="#c3cbd0"/><path d="M900 556 l-20 4" fill="none" stroke="#2f3337" stroke-width="8"/></g>
+
+  <rect x="1400" y="200" width="180" height="16" fill="#9a6b43"/>
+  <rect x="1400" y="420" width="180" height="16" fill="#9a6b43"/>
+  <g data-word="das Haarwachs"><rect x="1410" y="160" width="70" height="40" rx="8" fill="#f2b84b"/><rect x="1406" y="150" width="78" height="14" rx="4" fill="#2f3337"/></g>
+  <g data-word="das Gel"><path d="M1500 200 h50 l-8 -90 h-34 Z" fill="#7fe0a8"/><rect x="1510" y="96" width="30" height="16" rx="3" fill="#2f3337"/></g>
+  <g data-word="der Föhn">
+    <path d="M1420 320 a40 40 0 1 1 60 0 l-8 90 h-30 Z" fill="#2f3337"/>
+    <rect x="1480" y="300" width="80" height="40" rx="8" fill="#2f3337"/>
+  </g>
+  <g data-word="die Locken">
+    <circle cx="1460" cy="560" r="20" fill="none" stroke="#7a5a3c" stroke-width="8"/>
+    <circle cx="1500" cy="545" r="20" fill="none" stroke="#7a5a3c" stroke-width="8"/>
+    <circle cx="1540" cy="560" r="20" fill="none" stroke="#7a5a3c" stroke-width="8"/>
+  </g>
+</svg>

@@ -7,9 +7,7 @@ words → phrases you'll hear and say → quiz — before moving to the next one
 Not grammar-focused. The structure of the course is the folder tree in
 [`../german-by-context`](../german-by-context).
 
-> Status: phase 1 built for two categories — *Moving in and formal situation* and
-> *Housing* (14 situations, each with a scene). Other categories are added by extending
-> the globs in `src/data/load.ts`.
+> Status: phase 1 built. All 12 categories (65 situations) are loaded, each with a scene.
 
 ## Principles
 
@@ -115,11 +113,10 @@ Not in phase 1, but the design is fixed so that moving to a database later is a 
 
 | Phase | Scope |
 |---|---|
-| 1 | Data loader, Map, Situation, Quiz, browser audio, scenes for `2-moving-in-and-formal-situation` and `3-housing` ✅ |
+| 1 | Data loader, Map, Situation, Quiz, browser audio, a scene for every situation ✅ |
 | 2 | `ProgressStore` on `localStorage`, review log, known/due states |
-| 3 | Remaining categories and their scenes |
-| 4 | Pre-generated audio (Thorsten voice) |
-| 5 | Postgres-backed progress |
+| 3 | Pre-generated audio (Thorsten voice) |
+| 4 | Postgres-backed progress |
 | — | Deployment config (pick a static host when ready) |
 
 ## Development

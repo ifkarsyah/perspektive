@@ -1,0 +1,47 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1600 900" stroke="#33302c" stroke-width="3" stroke-linejoin="round" stroke-linecap="round">
+  <rect x="0" y="0" width="1600" height="900" fill="#fbe9ee" stroke="none"/>
+  <g data-word="die Dating-App">
+    <rect x="60" y="60" width="380" height="760" rx="44" fill="#2f3337"/>
+    <rect x="80" y="100" width="340" height="690" rx="24" fill="#fff4f6"/>
+  </g>
+  <g data-word="das Profil">
+    <rect x="110" y="140" width="280" height="400" rx="20" fill="#ffffff"/>
+    <rect x="110" y="140" width="280" height="290" rx="20" fill="#f5c4d6"/>
+    <circle cx="250" cy="260" r="60" fill="#e8b98f"/>
+    <path d="M190 250 c0 -80 120 -80 120 0" fill="#7a5a3c"/>
+    <path d="M180 430 c0 -60 140 -60 140 0" fill="#3d9a7a"/>
+    <path d="M130 460 h140 M130 490 h100" fill="none" stroke-width="6"/>
+  </g>
+  <g data-word="das Swipen">
+    <path d="M130 620 h240" fill="none" stroke="#c3cbd0" stroke-width="6"/>
+    <path d="M150 605 l-20 15 l20 15 M350 605 l20 15 l-20 15" fill="none" stroke="#c3cbd0" stroke-width="6"/>
+    <circle cx="180" cy="700" r="38" fill="#ffffff"/><path d="M165 685 l30 30 M195 685 l-30 30" fill="none" stroke="#e45b4f" stroke-width="7"/>
+    <circle cx="320" cy="700" r="38" fill="#ffffff"/><path d="M320 722 c-30 -18 -30 -40 -12 -42 c8 0 12 6 12 12 c0 -6 4 -12 12 -12 c18 2 18 24 -12 42 Z" fill="#e45b4f" stroke-width="2"/>
+  </g>
+  <g data-word="das Match">
+    <rect x="470" y="80" width="250" height="150" rx="20" fill="#e87f98"/>
+    <circle cx="545" cy="150" r="34" fill="#e8b98f"/><circle cx="645" cy="150" r="34" fill="#c58c5c"/>
+    <path d="M595 200 c-20 -12 -20 -28 -8 -30 c5 0 8 4 8 8 c0 -4 3 -8 8 -8 c12 2 12 18 -8 30 Z" fill="#ffffff" stroke-width="2"/>
+  </g>
+  <g data-word="das erste Date">
+    <rect x="520" y="300" width="560" height="520" rx="20" fill="#f6eee2"/>
+    <circle cx="650" cy="480" r="30.0" fill="#e8b98f"/><path d="M620.0 476.0 c0 -40.0 60.0 -40.0 60.0 0" fill="#7a5a3c"/><path d="M615.0 518.0 h70.0 l10.0 120.0 h-90.0 Z" fill="#3d9a7a"/>
+    <circle cx="950" cy="480" r="30.0" fill="#c58c5c"/><path d="M920.0 476.0 c0 -40.0 60.0 -40.0 60.0 0" fill="#2f2622"/><path d="M915.0 518.0 h70.0 l10.0 120.0 h-90.0 Z" fill="#e45b4f"/>
+    <rect x="600" y="650" width="400" height="20" fill="#9a6b43"/>
+    <path d="M800 670 v130" fill="none" stroke-width="10"/>
+    <path d="M700 650 v-34 h40 v34 Z M860 650 v-34 h40 v34 Z" fill="#ffffff"/>
+  </g>
+  <g data-word="die Schmetterlinge im Bauch">
+    <path d="M790 380 c-30 -30 -40 0 -10 10 c-30 10 -20 40 10 10 c30 30 40 0 10 -10 c30 -10 20 -40 -10 -10 Z" fill="#f2b84b"/>
+    <path d="M840 340 c-20 -20 -28 0 -6 7 c-20 7 -14 28 6 7 c20 20 28 0 6 -7 c20 -7 14 -28 -6 -7 Z" fill="#b58ad8"/>
+  </g>
+  <g data-word="die Liebe"><path d="M800 300 c-50 -30 -50 -70 -20 -72 c10 0 20 8 20 18 c0 -10 10 -18 20 -18 c30 2 30 42 -20 72 Z" fill="#e45b4f"/></g>
+  <g data-word="der Schwarm" transform="translate(1120 40)"><rect x="0" y="0" width="200" height="190" rx="16" fill="#ffffff"/><circle cx="90" cy="90" r="50" fill="#f6d53b"/><path d="M70 82 c-8 -8 -2 -16 6 -12 c4 -6 14 0 8 8 l-7 8 Z M110 82 c-8 -8 -2 -16 6 -12 c4 -6 14 0 8 8 l-7 8 Z" fill="#e45b4f" stroke-width="1.5"/><path d="M70 110 q20 16 40 0" fill="none" stroke-width="4"/></g>
+  <g data-word="die Eifersucht" transform="translate(1350 40)"><rect x="0" y="0" width="200" height="190" rx="16" fill="#fdf6e3"/><circle cx="90" cy="90" r="50" fill="#a9d38f"/><path d="M70 85 h14 M98 85 h14 M72 115 q18 -10 36 0" fill="none" stroke-width="5"/><path d="M62 70 l20 6 M118 70 l-20 6" fill="none" stroke-width="4"/></g>
+  <g data-word="der Liebeskummer" transform="translate(1120 250)"><rect x="0" y="0" width="200" height="190" rx="16" fill="#ffffff"/><path d="M85 150 c-60 -40 -60 -90 -20 -90 c14 0 22 10 22 22 l-10 20 l14 12 Z" fill="#9aa3a8"/><path d="M98 150 c60 -40 60 -90 20 -90 c-14 0 -22 10 -22 22 l-8 16 l14 16 Z" fill="#9aa3a8"/></g>
+  <g data-word="die Fernbeziehung" transform="translate(1350 250)"><rect x="0" y="0" width="200" height="190" rx="16" fill="#fdf6e3"/><circle cx="40" cy="80" r="16" fill="#e8b98f"/><path d="M26 98 h28 v40 h-28 Z" fill="#3d9a7a"/><circle cx="140" cy="80" r="16" fill="#c58c5c"/><path d="M126 98 h28 v40 h-28 Z" fill="#e45b4f"/><path d="M60 60 c20 -30 40 -30 60 0" fill="none" stroke-width="3" stroke-dasharray="6 6"/></g>
+  <g data-word="der Jahrestag" transform="translate(1120 460)"><rect x="0" y="0" width="200" height="190" rx="16" fill="#ffffff"/><rect x="40" y="40" width="100" height="110" rx="8" fill="#ffffff"/><rect x="40" y="40" width="100" height="26" rx="8" fill="#e45b4f"/><path d="M90 130 c-26 -16 -26 -38 -10 -40 c6 0 10 4 10 10 c0 -6 4 -10 10 -10 c16 2 16 24 -10 40 Z" fill="#e87f98" stroke-width="2"/></g>
+  <g data-word="die Trennung" transform="translate(1350 460)"><rect x="0" y="0" width="200" height="190" rx="16" fill="#fdf6e3"/><circle cx="50" cy="80" r="18" fill="#e8b98f"/><path d="M34 100 h32 v45 h-32 Z" fill="#3d9a7a"/><circle cx="135" cy="80" r="18" fill="#c58c5c"/><path d="M119 100 h32 v45 h-32 Z" fill="#e45b4f"/><path d="M80 60 l-10 30 l20 10 l-10 30" fill="none" stroke="#e45b4f" stroke-width="4"/></g>
+  <g data-word="der Single" transform="translate(1120 670)"><rect x="0" y="0" width="200" height="190" rx="16" fill="#ffffff"/><circle cx="90" cy="70" r="22" fill="#f0c9a6"/><path d="M68 96 h44 l6 60 h-56 Z" fill="#7b4fd6"/></g>
+  <g data-word="der Ex" transform="translate(1350 670)"><rect x="0" y="0" width="200" height="190" rx="16" fill="#fdf6e3"/><rect x="40" y="40" width="100" height="110" rx="6" fill="#ffffff"/><circle cx="90" cy="85" r="22" fill="#c58c5c"/><path d="M64 140 c0 -30 52 -30 52 0" fill="#555b60"/><path d="M40 40 l100 110 M140 40 l-100 110" fill="none" stroke="#e45b4f" stroke-width="6"/></g>
+</svg>

@@ -1,0 +1,79 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1600 900" stroke="#33302c" stroke-width="3" stroke-linejoin="round" stroke-linecap="round">
+  <g data-word="das Treffen">
+    <rect x="0" y="0" width="1600" height="720" fill="#f1e4cf" stroke="none"/>
+    <rect x="0" y="720" width="1600" height="180" fill="#a8774d" stroke="none"/>
+  </g>
+
+  <!-- TV with a football match -->
+  <g data-word="das Fußballspiel">
+    <rect x="60" y="60" width="380" height="230" rx="10" fill="#2f3337"/>
+    <rect x="75" y="75" width="350" height="200" fill="#5fa65a" stroke="none"/>
+    <path d="M250 75 V275 M75 175 h0" fill="none" stroke="#ffffff" stroke-width="3"/>
+    <circle cx="250" cy="175" r="30" fill="none" stroke="#ffffff" stroke-width="3"/>
+    <circle cx="200" cy="150" r="8" fill="#e45b4f" stroke="none"/><circle cx="310" cy="200" r="8" fill="#3d6fb6" stroke="none"/>
+  </g>
+
+  <!-- The guys at the table football -->
+  <g data-word="der Kicker">
+    <rect x="80" y="470" width="420" height="160" rx="8" fill="#5fa65a"/>
+    <rect x="70" y="460" width="440" height="20" fill="#9a6b43"/>
+    <path d="M40 510 H540 M40 560 H540 M40 600 H540" fill="none" stroke="#9aa3a8" stroke-width="6"/>
+    <path d="M100 630 v90 M480 630 v90" fill="none" stroke-width="12"/>
+  </g>
+  <g data-word="die Jungs">
+    <circle cx="60" cy="410" r="30" fill="#c58c5c"/><path d="M30 406 c0 -40 60 -40 60 0" fill="#2f2622"/><path d="M25 445 h70 l10 140 h-90 Z" fill="#3d6fb6"/>
+    <circle cx="530" cy="410" r="30" fill="#e8b98f"/><path d="M500 406 c0 -40 60 -40 60 0" fill="#c98f3e"/><path d="M495 445 h70 l10 140 h-90 Z" fill="#e45b4f"/>
+  </g>
+  <g data-word="das Bier">
+    <path d="M300 460 v-50 h30 v50 Z" fill="#f2b84b"/><path d="M300 418 c0 -12 30 -12 30 0" fill="#ffffff"/>
+  </g>
+
+  <!-- Best friends -->
+  <g data-word="die beste Freundin">
+    <circle cx="720" cy="360" r="32" fill="#f0c9a6"/>
+    <path d="M688 360 c-4 -48 68 -48 64 0 l4 40 h-72 Z" fill="#7a5a3c"/>
+    <circle cx="720" cy="362" r="28" fill="#f0c9a6"/>
+    <path d="M680 400 h80 l12 180 h-104 Z" fill="#b58ad8"/>
+  </g>
+  <g data-word="der beste Freund">
+    <circle cx="840" cy="360" r="32" fill="#8d5a3b"/>
+    <path d="M808 356 c0 -44 64 -44 64 0" fill="#2f2622"/>
+    <path d="M800 400 h80 l12 180 h-104 Z" fill="#5b8c5a"/>
+    <path d="M800 420 l-60 30" fill="none" stroke="#8d5a3b" stroke-width="12"/>
+  </g>
+  <path d="M680 580 v140 M760 580 v140 M800 580 v140 M880 580 v140" fill="none" stroke="#2f3f5c" stroke-width="18"/>
+  <g data-word="die Freundschaft">
+    <path d="M780 300 c-30 -20 -30 -50 -10 -55 c10 -2 20 5 20 15 c0 -10 10 -17 20 -15 c20 5 20 35 -10 55 l-10 8 Z" fill="#e45b4f"/>
+  </g>
+
+  <!-- Games night -->
+  <g data-word="der Spieleabend">
+    <rect x="960" y="560" width="300" height="20" fill="#9a6b43"/>
+    <path d="M980 580 v140 M1240 580 v140" fill="none" stroke-width="10"/>
+    <rect x="1000" y="510" width="180" height="50" fill="#ffffff"/>
+    <path d="M1000 535 h180 M1060 510 v50 M1120 510 v50" fill="none" stroke-width="2"/>
+    <rect x="1200" y="525" width="30" height="30" rx="5" fill="#ffffff"/><circle cx="1210" cy="535" r="3" fill="#33302c" stroke="none"/><circle cx="1220" cy="545" r="3" fill="#33302c" stroke="none"/>
+  </g>
+  <g data-word="die Mädels">
+    <circle cx="1000" cy="420" r="28" fill="#e8b98f"/><path d="M972 420 c-4 -44 60 -44 56 0 l4 30 h-64 Z" fill="#c98f3e"/><circle cx="1000" cy="422" r="24" fill="#e8b98f"/><path d="M968 455 h64 l8 100 h-80 Z" fill="#f29a2e"/>
+    <circle cx="1220" cy="420" r="28" fill="#c58c5c"/><path d="M1192 420 c-4 -44 60 -44 56 0 l4 30 h-64 Z" fill="#2f2622"/><circle cx="1220" cy="422" r="24" fill="#c58c5c"/><path d="M1188 455 h64 l8 100 h-80 Z" fill="#3d9a7a"/>
+  </g>
+
+  <!-- Swapping numbers and the group chat -->
+  <g data-word="die Nummer">
+    <rect x="1320" y="60" width="240" height="320" rx="24" fill="#2f3337"/>
+    <rect x="1334" y="80" width="212" height="280" rx="10" fill="#ffffff"/>
+    <circle cx="1440" cy="140" r="34" fill="#cfe6f2"/>
+    <text x="1440" y="220" text-anchor="middle" font-family="monospace" font-size="24" fill="#33302c" stroke="none">0176 …</text>
+    <rect x="1370" y="260" width="140" height="44" rx="22" fill="#5b8c5a"/>
+    <path d="M1420 282 h40 M1440 262 v40" fill="none" stroke="#ffffff" stroke-width="5"/>
+  </g>
+  <g data-word="die Gruppe">
+    <rect x="1320" y="420" width="240" height="300" rx="24" fill="#2f3337"/>
+    <rect x="1334" y="440" width="212" height="260" rx="10" fill="#e8f5e8"/>
+    <rect x="1350" y="460" width="140" height="40" rx="10" fill="#ffffff"/>
+    <rect x="1390" y="515" width="140" height="40" rx="10" fill="#c9eac0"/>
+    <rect x="1350" y="570" width="120" height="40" rx="10" fill="#ffffff"/>
+    <circle cx="1370" cy="650" r="14" fill="#e8b98f"/><circle cx="1400" cy="650" r="14" fill="#c58c5c"/><circle cx="1430" cy="650" r="14" fill="#8d5a3b"/>
+  </g>
+</svg>

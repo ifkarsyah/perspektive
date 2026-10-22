@@ -1,0 +1,101 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1600 900" stroke="#33302c" stroke-width="3" stroke-linejoin="round" stroke-linecap="round">
+  <!-- Cinema -->
+  <g data-word="das Kino"><rect x="0" y="0" width="800" height="900" fill="#2b2338" stroke="none"/></g>
+  <g data-word="der Film">
+    <rect x="60" y="50" width="680" height="340" fill="#cfe6f2"/>
+    <path d="M60 300 l160 -120 l120 90 l100 -60 l300 190 Z" fill="#8bbf7a" stroke="none"/>
+    <circle cx="600" cy="120" r="34" fill="#f6d53b" stroke="none"/>
+  </g>
+  <g data-word="die Untertitel">
+    <rect x="200" y="330" width="400" height="44" fill="#2f3337" fill-opacity="0.8" stroke="none"/>
+    <text x="400" y="361" text-anchor="middle" font-family="sans-serif" font-size="26" fill="#ffffff" stroke="none">I'll be right back.</text>
+  </g>
+  <g data-word="OmU (Original mit Untertiteln)">
+    <rect x="80" y="70" width="90" height="44" rx="6" fill="#e45b4f"/>
+    <text x="125" y="101" text-anchor="middle" font-family="sans-serif" font-size="26" font-weight="bold" fill="#ffffff" stroke="none">OmU</text>
+  </g>
+  <g data-word="die Reihe">
+    <path d="M40 520 h720 v40 h-720 Z" fill="#a33b4a"/>
+    <path d="M60 520 v-50 h70 v50 M150 520 v-50 h70 v50 M240 520 v-50 h70 v50 M420 520 v-50 h70 v50 M510 520 v-50 h70 v50 M600 520 v-50 h70 v50" fill="#c44a5a"/>
+  </g>
+  <g data-word="der Platz"><path d="M330 520 v-50 h70 v50 Z" fill="#f6d53b"/><text x="350" y="508" font-family="sans-serif" font-size="22" font-weight="bold" fill="#33302c" stroke="none">12</text></g>
+  <path d="M20 660 h760 v40 h-760 Z" fill="#a33b4a"/>
+  <path d="M40 660 v-50 h70 v50 M130 660 v-50 h70 v50 M220 660 v-50 h70 v50 M310 660 v-50 h70 v50 M400 660 v-50 h70 v50 M490 660 v-50 h70 v50 M580 660 v-50 h70 v50 M670 660 v-50 h70 v50" fill="#c44a5a"/>
+  <g data-word="das Popcorn">
+    <path d="M100 880 l-20 -130 h120 l-20 130 Z" fill="#ffffff"/>
+    <path d="M95 750 l10 130 M140 750 v130 M185 750 l-10 130" fill="none" stroke="#e45b4f" stroke-width="10"/>
+    <circle cx="100" cy="745" r="16" fill="#fff4b0"/><circle cx="130" cy="735" r="16" fill="#fff4b0"/><circle cx="160" cy="740" r="16" fill="#fff4b0"/><circle cx="185" cy="748" r="14" fill="#fff4b0"/>
+  </g>
+  <g data-word="die Karte">
+    <rect x="260" y="760" width="200" height="90" rx="8" fill="#f6d53b"/>
+    <path d="M410 760 v90" fill="none" stroke-width="2" stroke-dasharray="6 5"/>
+    <text x="280" y="805" font-family="sans-serif" font-size="22" font-weight="bold" fill="#33302c" stroke="none">Reihe 7</text>
+    <text x="280" y="832" font-family="sans-serif" font-size="22" font-weight="bold" fill="#33302c" stroke="none">Platz 12</text>
+  </g>
+  <g data-word="die Abendkasse">
+    <rect x="520" y="740" width="240" height="140" fill="#7a5a3c"/>
+    <rect x="550" y="760" width="180" height="70" fill="#fff4b0"/>
+    <circle cx="640" cy="790" r="18" fill="#c58c5c"/>
+  </g>
+  <path d="M800 0 V900" fill="none" stroke-width="6"/>
+
+  <!-- Museum -->
+  <g data-word="das Museum"><rect x="800" y="0" width="800" height="450" fill="#f3efe6" stroke="none"/></g>
+  <g data-word="die Ausstellung">
+    <rect x="860" y="60" width="200" height="160" fill="#c99d6f"/><rect x="875" y="75" width="170" height="130" fill="#7fb8d6"/>
+    <path d="M875 175 l50 -40 l40 30 l30 -20 l50 40 v20 h-170 Z" fill="#5b8c5a" stroke="none"/>
+    <rect x="1100" y="80" width="140" height="180" fill="#c99d6f"/><rect x="1112" y="92" width="116" height="156" fill="#f2b884"/>
+    <circle cx="1170" cy="150" r="30" fill="#e8b98f" stroke="none"/>
+  </g>
+  <g data-word="die Führung">
+    <circle cx="1340" cy="230" r="24" fill="#c58c5c"/><path d="M1314 256 h52 l8 120 h-68 Z" fill="#3d6fb6"/>
+    <path d="M1366 270 l40 -60" fill="none" stroke-width="6"/><rect x="1400" y="190" width="40" height="26" fill="#f6d53b"/>
+    <circle cx="1460" cy="280" r="18" fill="#f0c9a6"/><path d="M1442 298 h36 v70 h-36 Z" fill="#e45b4f"/>
+    <circle cx="1520" cy="285" r="18" fill="#8d5a3b"/><path d="M1502 303 h36 v70 h-36 Z" fill="#5b8c5a"/>
+  </g>
+  <g data-word="der Audioguide">
+    <circle cx="960" cy="320" r="24" fill="#e8b98f"/><path d="M936 346 h48 l8 90 h-64 Z" fill="#b58ad8"/>
+    <rect x="992" y="300" width="22" height="50" rx="6" fill="#2f3337"/>
+    <path d="M940 316 c0 -26 40 -26 40 0" fill="none" stroke-width="5"/>
+  </g>
+  <g data-word="der Museumssonntag">
+    <rect x="1080" y="300" width="160" height="110" rx="10" fill="#ffffff"/>
+    <text x="1100" y="345" font-family="sans-serif" font-size="30" font-weight="bold" fill="#e45b4f" stroke="none">So</text>
+    <text x="1100" y="390" font-family="sans-serif" font-size="30" font-weight="bold" fill="#5b8c5a" stroke="none">0 €</text>
+  </g>
+  <path d="M800 450 H1600" fill="none" stroke-width="6"/>
+
+  <!-- Theatre -->
+  <g data-word="das Theater"><rect x="800" y="450" width="800" height="450" fill="#5b2330" stroke="none"/></g>
+  <g data-word="die Bühne">
+    <rect x="880" y="520" width="640" height="260" fill="#c99d6f"/>
+    <path d="M880 520 h120 c-20 80 -10 180 0 260 h-120 Z M1520 520 h-120 c20 80 10 180 0 260 h120 Z" fill="#a33b4a"/>
+    <path d="M870 510 H1530" fill="none" stroke="#e0c06a" stroke-width="12"/>
+  </g>
+  <g data-word="die Oper">
+    <circle cx="1200" cy="600" r="30" fill="#f0c9a6"/>
+    <path d="M1170 630 h60 l30 150 h-120 Z" fill="#7b4fd6"/>
+    <ellipse cx="1200" cy="614" rx="8" ry="10" fill="#33302c" stroke="none"/>
+    <path d="M1250 580 v-36 l22 -6 v36" fill="none" stroke="#ffffff" stroke-width="4"/>
+  </g>
+  <g data-word="die Garderobe">
+    <path d="M1540 880 V560 M1520 580 h40" fill="none" stroke="#9aa3a8" stroke-width="6"/>
+    <path d="M1525 590 l-15 80 h40 l-10 -80 Z" fill="#3d6fb6"/>
+    <rect x="1530" y="680" width="40" height="28" rx="4" fill="#ffffff"/>
+    <text x="1536" y="702" font-family="sans-serif" font-size="18" font-weight="bold" fill="#33302c" stroke="none">47</text>
+  </g>
+  <g data-word="die Pause">
+    <rect x="820" y="800" width="190" height="80" rx="10" fill="#f6d53b"/>
+    <path d="M860 820 v40 M880 820 v40" fill="none" stroke-width="8"/>
+    <text x="900" y="852" font-family="sans-serif" font-size="30" font-weight="bold" fill="#33302c" stroke="none">20'</text>
+  </g>
+  <g data-word="die Ermäßigung">
+    <rect x="1040" y="800" width="160" height="80" rx="10" fill="#5b8c5a"/>
+    <text x="1070" y="852" font-family="sans-serif" font-size="34" font-weight="bold" fill="#ffffff" stroke="none">-50%</text>
+  </g>
+  <g data-word="der Vorverkauf">
+    <rect x="1230" y="800" width="260" height="80" rx="10" fill="#ffffff"/>
+    <rect x="1250" y="815" width="50" height="50" rx="6" fill="#cfe6f2" stroke-width="2"/>
+    <path d="M1320 830 h150 M1320 850 h110" fill="none" stroke-width="4"/>
+  </g>
+</svg>
