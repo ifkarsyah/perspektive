@@ -1,0 +1,40 @@
+category,german,english,similarity
+bins,die Biotonne,organic waste bin,different
+bins,die Papiertonne,paper bin,different
+bins,die Restmülltonne,general waste bin,different
+bins,der Gelbe Sack,yellow packaging bag,different
+bins,die Wertstofftonne,recycling bin (packaging and metal),different
+bins,der Glascontainer,glass bottle bank,different
+bins,das Weißglas,clear glass,different
+bins,das Braunglas,brown glass,different
+bins,das Grünglas,green glass,different
+bins,der Müllraum,bin room,different
+bins,der Deckel,lid,different
+collection,die Müllabfuhr,rubbish collection,different
+collection,das Müllauto,bin lorry,different
+collection,der Abholtermin,collection date,different
+collection,der Abfallkalender,waste collection calendar,different
+what-goes-where,die Verpackung,packaging,different
+what-goes-where,der Kunststoff,plastic,different
+what-goes-where,die Plastiktüte,plastic bag,cognate
+what-goes-where,die Dose,can / tin,different
+what-goes-where,der Karton,cardboard box,cognate
+what-goes-where,die Pappe,cardboard,different
+what-goes-where,die Zeitung,newspaper,different
+what-goes-where,der Joghurtbecher,yoghurt pot,different
+what-goes-where,der Tetrapak,drink carton,cognate
+what-goes-where,das Styropor,polystyrene,different
+what-goes-where,die Essensreste,food scraps,different
+what-goes-where,der Kaffeesatz,coffee grounds,different
+what-goes-where,die Schale,peel,different
+what-goes-where,der Kassenbon,receipt,different
+what-goes-where,die Windel,nappy / diaper,different
+special,der Sperrmüll,bulky waste,different
+special,der Elektroschrott,electronic waste,different
+special,die Batterie,battery,cognate
+special,die Glühbirne,light bulb,different
+special,die Altkleider,old clothes,different
+special,der Altkleidercontainer,clothing donation bin,different
+special,der Sondermüll,hazardous waste,different
+special,der Wertstoffhof,recycling centre,different
+special,die BSR,Berlin's city waste company,different

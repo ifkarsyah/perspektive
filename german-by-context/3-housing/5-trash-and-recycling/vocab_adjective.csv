@@ -1,0 +1,12 @@
+category,german,english,similarity
+state,voll,full,cognate
+state,leer,empty,different
+state,sauber,clean,different
+state,dreckig,dirty,different
+state,kaputt,broken,different
+type,sperrig,bulky,different
+type,recycelbar,recyclable,cognate
+type,giftig,toxic,different
+type,fettig,greasy,different
+rules,getrennt,separated,different
+rules,falsch,wrong,different
