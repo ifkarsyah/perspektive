@@ -1,0 +1,164 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1600 900" stroke="#33302c" stroke-width="3" stroke-linejoin="round" stroke-linecap="round">
+  <rect x="0" y="0" width="1600" height="740" fill="#dbe8f0" stroke="none"/>
+  <rect x="0" y="740" width="1600" height="160" fill="#8a6d52" stroke="none"/>
+
+  <!-- Back building across the courtyard -->
+  <g data-word="das Hinterhaus">
+    <rect x="1300" y="200" width="280" height="540" fill="#e9d6b9"/>
+    <path d="M1290 200 H1590 L1560 160 H1320 Z" fill="#a85b45"/>
+    <g fill="#c7dbe6">
+      <rect x="1335" y="240" width="70" height="90"/><rect x="1475" y="240" width="70" height="90"/>
+      <rect x="1335" y="380" width="70" height="90"/><rect x="1475" y="380" width="70" height="90"/>
+      <rect x="1335" y="520" width="70" height="90"/><rect x="1475" y="520" width="70" height="90"/>
+    </g>
+    <rect x="1405" y="640" width="70" height="100" fill="#7a5a3c"/>
+  </g>
+
+  <!-- Courtyard -->
+  <g data-word="der Hof">
+    <rect x="860" y="700" width="440" height="40" fill="#b8b2a7"/>
+    <path d="M900 700 v40 M960 700 v40 M1020 700 v40 M1080 700 v40 M1140 700 v40 M1200 700 v40 M1260 700 v40" fill="none" stroke="#9c968c" stroke-width="2"/>
+  </g>
+  <g data-word="die Mülltonne">
+    <path d="M890 610 h90 l-6 115 h-78 Z" fill="#555b60"/><rect x="884" y="595" width="102" height="18" rx="5" fill="#3f4448"/>
+    <path d="M1000 610 h90 l-6 115 h-78 Z" fill="#3d6fb6"/><rect x="994" y="595" width="102" height="18" rx="5" fill="#2d568f"/>
+  </g>
+  <g data-word="der Nachbar">
+    <circle cx="1190" cy="570" r="20" fill="#e8b98f"/>
+    <path d="M1170 560 c0 -25 40 -25 40 0" fill="#5b4636"/>
+    <rect x="1168" y="592" width="44" height="70" rx="12" fill="#5b8c5a"/>
+    <path d="M1178 662 v58 M1202 662 v58" fill="none" stroke-width="8"/>
+    <path d="M1212 610 l25 30" fill="none" stroke-width="7"/>
+  </g>
+
+  <!-- Front building: cut-away view -->
+  <g data-word="das Vorderhaus">
+    <path d="M60 180 V740 H860 V180" fill="#f3ead8"/>
+    <path d="M60 320 H560 M60 460 H560 M60 600 H560 M560 180 V740" fill="none" stroke-width="6"/>
+  </g>
+  <g data-word="der Dachboden">
+    <path d="M40 180 L460 50 L880 180 Z" fill="#a85b45"/>
+    <path d="M140 170 L460 75 L780 170 Z" fill="#d9c3a2"/>
+    <rect x="300" y="125" width="60" height="45" fill="#c89a63"/><rect x="370" y="140" width="45" height="30" fill="#c89a63"/>
+    <rect x="520" y="130" width="80" height="40" fill="#c89a63"/>
+  </g>
+
+  <!-- 3rd floor: party -->
+  <g data-word="die Party">
+    <path d="M110 200 c-5 40 10 60 0 90 M90 200 c0 -30 40 -30 40 0 c0 30 -40 30 -40 0" fill="#e45b4f"/>
+    <path d="M160 215 c-5 30 10 50 0 75 M145 215 c0 -25 30 -25 30 0 c0 25 -30 25 -30 0" fill="#f2b84b"/>
+    <circle cx="250" cy="245" r="18" fill="#e8b98f"/><rect x="230" y="265" width="40" height="45" rx="10" fill="#b58ad8"/>
+    <path d="M232 270 l-20 -30 M268 270 l20 -30" fill="none" stroke-width="7"/>
+    <circle cx="340" cy="245" r="18" fill="#c58c5c"/><rect x="320" y="265" width="40" height="45" rx="10" fill="#3d6fb6"/>
+    <path d="M322 272 l-22 -25 M358 272 l24 -20" fill="none" stroke-width="7"/>
+    <rect x="430" y="240" width="60" height="78" rx="6" fill="#2f3337"/>
+    <circle cx="460" cy="265" r="12" fill="#9aa3a8"/><circle cx="460" cy="298" r="14" fill="#9aa3a8"/>
+  </g>
+  <g data-word="der Lärm">
+    <path d="M500 220 v-30 l20 -6 v30" fill="none" stroke-width="4"/>
+    <ellipse cx="495" cy="222" rx="7" ry="5" fill="#33302c"/><ellipse cx="515" cy="216" rx="7" ry="5" fill="#33302c"/>
+    <path d="M535 250 q10 -10 0 -20 M545 258 q18 -18 0 -36" fill="none" stroke-width="3"/>
+    <path d="M380 205 v-20 l14 -4 v20" fill="none" stroke-width="4"/>
+    <ellipse cx="376" cy="206" rx="6" ry="4" fill="#33302c"/>
+  </g>
+
+  <!-- 2nd floor: water damage under the party flat -->
+  <g data-word="der Wasserschaden">
+    <ellipse cx="300" cy="330" rx="110" ry="14" fill="#a68a5b" stroke="none" opacity="0.8"/>
+    <path d="M260 340 c-6 12 6 18 6 8 Z M330 342 c-6 14 6 20 6 8 Z" fill="#6fa8dc" stroke-width="2"/>
+    <path d="M280 445 h50 l-6 15 h-38 Z" fill="#9aa3a8"/>
+  </g>
+  <g data-word="die Nachbarin">
+    <circle cx="140" cy="380" r="18" fill="#c58c5c"/>
+    <path d="M120 380 c0 -35 40 -35 40 0 v20 h-40 Z" fill="#2f2622" opacity="0.9"/>
+    <circle cx="140" cy="382" r="16" fill="#c58c5c"/>
+    <path d="M120 400 h40 l10 55 h-60 Z" fill="#e45b4f"/>
+    <path d="M160 410 l20 -35" fill="none" stroke-width="7"/>
+  </g>
+
+  <!-- 1st floor: tradesperson fixing the heating -->
+  <g data-word="der Handwerker">
+    <circle cx="250" cy="500" r="18" fill="#e8b98f"/>
+    <path d="M230 497 c0 -28 40 -28 40 0 Z" fill="#f2b84b"/>
+    <rect x="228" y="518" width="44" height="50" rx="8" fill="#3d6fb6"/>
+    <path d="M238 568 v30 M262 568 v30" fill="none" stroke-width="8"/>
+    <path d="M272 530 l35 10" fill="none" stroke-width="7"/>
+    <rect x="300" y="533" width="30" height="8" rx="2" fill="#9aa3a8"/>
+    <rect x="140" y="560" width="70" height="38" rx="4" fill="#e45b4f"/>
+    <path d="M160 560 v-10 h30 v10" fill="none"/>
+  </g>
+  <rect x="360" y="510" width="90" height="70" rx="6" fill="#f7f7f7"/>
+  <path d="M378 515 V575 M396 515 V575 M414 515 V575 M432 515 V575" fill="none" stroke-width="2"/>
+
+  <!-- Ground floor entrance hall -->
+  <g data-word="der Briefkasten">
+    <rect x="90" y="625" width="160" height="80" fill="#c9a74a"/>
+    <path d="M90 652 H250 M90 679 H250 M143 625 V705 M196 625 V705" fill="none" stroke-width="2"/>
+    <path d="M100 640 h30 M153 640 h30 M206 640 h30 M100 667 h30 M153 667 h30 M206 667 h30" fill="none" stroke-width="3"/>
+  </g>
+  <g data-word="das Schwarze Brett">
+    <rect x="280" y="618" width="150" height="95" fill="#3a3f44"/>
+    <g data-word="die Hausordnung"><rect x="292" y="628" width="55" height="72" fill="#ffffff" stroke-width="2"/>
+      <path d="M300 642 h38 M300 654 h38 M300 666 h38 M300 678 h30" fill="none" stroke-width="2"/></g>
+    <g data-word="der Aushang"><rect x="360" y="632" width="58" height="45" fill="#f6d53b" stroke-width="2"/>
+      <path d="M368 645 h40 M368 657 h30" fill="none" stroke-width="2"/></g>
+  </g>
+  <g data-word="die Haustür">
+    <rect x="470" y="610" width="80" height="130" fill="#7a5a3c"/>
+    <rect x="482" y="622" width="56" height="45" fill="#c7dbe6" stroke-width="2"/>
+    <circle cx="535" cy="690" r="6" fill="#c9a74a"/>
+  </g>
+  <g data-word="die Klingel">
+    <rect x="442" y="630" width="22" height="80" rx="3" fill="#c3cbd0"/>
+    <circle cx="453" cy="672" r="4" fill="#33302c"/><circle cx="453" cy="688" r="4" fill="#33302c"/><circle cx="453" cy="704" r="4" fill="#33302c"/>
+    <g data-word="die Gegensprechanlage"><rect x="445" y="636" width="16" height="20" rx="2" fill="#9aa3a8" stroke-width="2"/>
+      <path d="M449 642 h8 M449 647 h8 M449 652 h8" fill="none" stroke-width="1.5"/></g>
+  </g>
+  <g data-word="das Namensschild"><rect x="408" y="668" width="28" height="10" rx="2" fill="#ffffff" stroke-width="2"/></g>
+  <g data-word="der Schlüssel">
+    <circle cx="390" cy="728" r="8" fill="none" stroke="#c9a74a" stroke-width="4"/>
+    <path d="M398 728 h22 M412 728 v6 M418 728 v6" fill="none" stroke="#c9a74a" stroke-width="4"/>
+  </g>
+
+  <!-- Stairwell with lift -->
+  <g data-word="das Treppenhaus">
+    <rect x="560" y="180" width="300" height="560" fill="#e7dcc6"/>
+    <path d="M580 320 l30 -20 l30 -20 l30 -20 l30 -20 l30 -20 l30 -20 M580 460 l30 -20 l30 -20 l30 -20 l30 -20 l30 -20 l30 -20 M580 600 l30 -20 l30 -20 l30 -20 l30 -20 l30 -20 l30 -20 M580 740 l30 -20 l30 -20 l30 -20 l30 -20 l30 -20 l30 -20" fill="none" stroke-width="4"/>
+  </g>
+  <g data-word="der Aufzug">
+    <rect x="790" y="180" width="60" height="560" fill="#c3cbd0"/>
+    <rect x="795" y="460" width="50" height="80" fill="#9aa3a8"/>
+    <path d="M820 180 V460" fill="none" stroke-width="2"/>
+  </g>
+  <g data-word="die Wohnungstür">
+    <rect x="565" y="370" width="45" height="90" fill="#7a5a3c"/>
+    <circle cx="602" cy="418" r="4" fill="#c9a74a"/>
+  </g>
+  <g data-word="der Hausmeister">
+    <circle cx="690" cy="640" r="18" fill="#c58c5c"/>
+    <path d="M672 634 h36 v-10 h-36 Z" fill="#3d6fb6"/>
+    <rect x="668" y="660" width="44" height="50" rx="8" fill="#6c7b58"/>
+    <path d="M678 710 v30 M702 710 v30" fill="none" stroke-width="8"/>
+    <path d="M735 610 V735" fill="none" stroke="#9c6b45" stroke-width="5"/>
+    <path d="M722 735 h26" fill="none" stroke-width="8"/>
+    <path d="M712 675 l23 -10" fill="none" stroke-width="7"/>
+  </g>
+
+  <!-- Basement -->
+  <g data-word="der Keller">
+    <rect x="60" y="755" width="800" height="135" fill="#cbbfae"/>
+    <path d="M400 755 V890" fill="none" stroke-width="6"/>
+  </g>
+  <g data-word="der Fahrradkeller">
+    <circle cx="140" cy="850" r="30" fill="none" stroke-width="5"/><circle cx="230" cy="850" r="30" fill="none" stroke-width="5"/>
+    <path d="M140 850 l30 -45 h45 l15 45 M170 805 l15 45 l30 -45" fill="none" stroke="#e45b4f" stroke-width="5"/>
+    <circle cx="290" cy="850" r="30" fill="none" stroke-width="5"/><circle cx="370" cy="850" r="30" fill="none" stroke-width="5"/>
+    <path d="M290 850 l25 -45 h40 l15 45 M315 805 l15 45 l25 -45" fill="none" stroke="#3d6fb6" stroke-width="5"/>
+  </g>
+  <g data-word="der Waschkeller">
+    <rect x="440" y="780" width="100" height="105" rx="6" fill="#ffffff"/><circle cx="490" cy="840" r="30" fill="#7fb8d6"/>
+    <rect x="560" y="780" width="100" height="105" rx="6" fill="#ffffff"/><circle cx="610" cy="840" r="30" fill="#7fb8d6"/>
+    <path d="M690 790 H840" fill="none" stroke-width="2"/>
+    <path d="M705 790 h30 v40 h-30 Z M760 790 h40 v30 h-40 Z" fill="#f19e7a" stroke-width="2"/>
+  </g>
+</svg>

@@ -1,0 +1,149 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1600 900" stroke="#33302c" stroke-width="3" stroke-linejoin="round" stroke-linecap="round">
+  <rect x="0" y="0" width="1600" height="700" fill="#f4ecd9" stroke="none"/>
+  <rect x="300" y="300" width="1300" height="155" fill="#dfe9e6" stroke="none"/>
+  <path d="M300 352 H1600 M300 404 H1600" fill="none" stroke="#c9d8d3" stroke-width="2"/>
+  <rect x="0" y="700" width="1600" height="200" fill="#b9a48a" stroke="none"/>
+  <path d="M0 700 H1600 M0 800 H1600 M250 700 V900 M650 700 V900 M1050 700 V900 M1450 700 V900" fill="none" stroke="#a38e74" stroke-width="2"/>
+
+  <g data-word="der Kühlschrank">
+    <rect x="40" y="150" width="240" height="550" rx="12" fill="#f7f7f5"/>
+    <path d="M40 510 H280" fill="none"/>
+    <rect x="250" y="230" width="10" height="90" rx="4" fill="#9aa3a8"/>
+    <rect x="180" y="250" width="40" height="50" rx="3" fill="#f2b84b" stroke-width="2"/>
+    <g data-word="das Gefrierfach">
+      <rect x="40" y="510" width="240" height="190" rx="12" fill="#e7eef2"/>
+      <rect x="250" y="540" width="10" height="60" rx="4" fill="#9aa3a8"/>
+    </g>
+  </g>
+
+  <g data-word="der Schrank">
+    <rect x="320" y="80" width="740" height="190" fill="#7fa79a"/>
+    <path d="M505 80 V270 M690 80 V270 M875 80 V270" fill="none"/>
+    <path d="M490 160 v30 M520 160 v30 M860 160 v30 M890 160 v30 M675 160 v30" fill="none" stroke-width="5"/>
+    <rect x="1080" y="80" width="230" height="190" fill="#e8e1d1"/>
+    <path d="M1080 80 L1040 95 V255 L1080 270" fill="#7fa79a"/>
+    <rect x="1300" y="475" width="280" height="225" fill="#7fa79a"/>
+    <path d="M1440 475 V700 M1425 560 v30 M1455 560 v30" fill="none"/>
+    <rect x="540" y="475" width="240" height="225" fill="#7fa79a"/>
+    <path d="M660 475 V700 M645 560 v30 M675 560 v30" fill="none"/>
+  </g>
+  <g data-word="das Geschirr">
+    <path d="M1080 175 H1310" fill="none" stroke-width="2"/>
+    <ellipse cx="1150" cy="165" rx="45" ry="8" fill="#ffffff"/>
+    <ellipse cx="1150" cy="155" rx="45" ry="8" fill="#ffffff"/>
+    <ellipse cx="1150" cy="145" rx="45" ry="8" fill="#ffffff"/>
+    <path d="M1225 130 h40 v45 h-40 Z M1265 140 c15 0 15 25 0 25" fill="#ffffff"/>
+    <path d="M1110 260 c0 -45 80 -45 80 0 Z" fill="#9ed2c6"/>
+    <path d="M1215 260 c0 -45 80 -45 80 0 Z" fill="#9ed2c6"/>
+  </g>
+
+  <g data-word="die Arbeitsplatte">
+    <rect x="300" y="455" width="1300" height="22" fill="#d8c3a0"/>
+  </g>
+
+  <g data-word="die Spülmaschine">
+    <rect x="320" y="477" width="200" height="223" fill="#e6eaec"/>
+    <rect x="320" y="477" width="200" height="30" fill="#c3cbd0"/>
+    <rect x="390" y="520" width="60" height="8" rx="3" fill="#9aa3a8"/>
+  </g>
+
+  <g data-word="die Spüle">
+    <path d="M560 455 H760 V470 H560 Z" fill="#b9c3c8"/>
+    <path d="M655 455 V395 H700 V415" fill="none" stroke="#9aa3a8" stroke-width="10"/>
+  </g>
+  <g data-word="das Spülmittel">
+    <rect x="570" y="385" width="34" height="70" rx="8" fill="#8bd16f"/>
+    <rect x="579" y="370" width="16" height="16" rx="3" fill="#ffffff"/>
+  </g>
+  <g data-word="der Schwamm">
+    <rect x="715" y="434" width="50" height="21" rx="4" fill="#f6d53b"/>
+    <rect x="715" y="434" width="50" height="8" rx="3" fill="#5b8c5a"/>
+  </g>
+
+  <g data-word="die Schublade">
+    <rect x="800" y="477" width="200" height="223" fill="#7fa79a"/>
+    <path d="M800 625 H1000" fill="none"/>
+    <path d="M870 660 h60" fill="none" stroke-width="5"/>
+    <path d="M790 540 H1010 V600 H790 Z" fill="#8fb7aa"/>
+    <path d="M870 585 h60" fill="none" stroke-width="5"/>
+  </g>
+  <g data-word="das Besteck">
+    <path d="M820 545 V535 M835 548 V530 M850 548 V530 M865 548 V530" fill="none" stroke="#9aa3a8" stroke-width="5"/>
+    <path d="M890 548 V528 c8 0 10 6 10 12 v8" fill="#c3cbd0" stroke="#9aa3a8" stroke-width="3"/>
+    <path d="M930 548 V530 M950 548 V530 M970 548 V530" fill="none" stroke="#9aa3a8" stroke-width="5"/>
+  </g>
+  <g data-word="der Wasserkocher">
+    <path d="M820 455 l10 -70 h50 l10 70 Z" fill="#e45b4f"/>
+    <path d="M890 400 c25 0 25 45 0 45" fill="none" stroke-width="6"/>
+    <path d="M820 395 l-15 -10" fill="none" stroke-width="6"/>
+  </g>
+  <g data-word="das Schneidebrett">
+    <rect x="905" y="440" width="120" height="15" rx="5" fill="#c99d6f"/>
+    <circle cx="1040" cy="447" r="6" fill="#c99d6f"/>
+    <circle cx="935" cy="432" r="9" fill="#e45b4f"/><circle cx="960" cy="432" r="9" fill="#e45b4f"/>
+  </g>
+  <g data-word="die Schüssel">
+    <path d="M330 420 H440 c0 30 -25 35 -55 35 c-30 0 -55 -5 -55 -35 Z" fill="#f2b84b"/>
+  </g>
+
+  <g data-word="der Herd">
+    <rect x="1040" y="445" width="250" height="12" fill="#2f3337"/>
+    <ellipse cx="1100" cy="445" rx="34" ry="5" fill="#e45b4f" stroke="none"/>
+    <ellipse cx="1225" cy="445" rx="34" ry="5" fill="#e45b4f" stroke="none"/>
+  </g>
+  <g data-word="der Topf">
+    <rect x="1060" y="380" width="85" height="62" rx="6" fill="#9aa3a8"/>
+    <rect x="1055" y="372" width="95" height="10" rx="4" fill="#7c868b"/>
+    <path d="M1060 395 h-15 M1145 395 h15" fill="none" stroke-width="6"/>
+  </g>
+  <g data-word="die Pfanne">
+    <path d="M1185 425 H1265 c0 15 -10 18 -40 18 c-30 0 -40 -3 -40 -18 Z" fill="#2f3337"/>
+    <path d="M1265 430 H1330" fill="none" stroke-width="8"/>
+  </g>
+  <g data-word="der Backofen">
+    <rect x="1040" y="477" width="250" height="223" fill="#3a3f44"/>
+    <rect x="1065" y="525" width="200" height="140" rx="8" fill="#6b7378"/>
+    <path d="M1080 505 H1250" fill="none" stroke="#c3cbd0" stroke-width="7"/>
+  </g>
+  <g data-word="das Geschirrtuch">
+    <path d="M1130 500 h50 v85 h-50 Z" fill="#ffffff"/>
+    <path d="M1130 525 h50 M1130 545 h50" fill="none" stroke="#e45b4f" stroke-width="4"/>
+  </g>
+
+  <g data-word="die Mikrowelle">
+    <rect x="1320" y="345" width="170" height="110" rx="8" fill="#e6eaec"/>
+    <rect x="1335" y="360" width="105" height="80" rx="4" fill="#3a3f44"/>
+    <circle cx="1465" cy="380" r="7" fill="#9aa3a8" stroke-width="2"/>
+    <circle cx="1465" cy="410" r="7" fill="#9aa3a8" stroke-width="2"/>
+  </g>
+  <g data-word="die Kaffeemaschine">
+    <rect x="1505" y="330" width="80" height="125" rx="8" fill="#2f3337"/>
+    <rect x="1520" y="395" width="50" height="40" fill="#c3cbd0"/>
+    <path d="M1525 400 h40 v30 h-40 Z" fill="#8b5a2b" stroke-width="2"/>
+  </g>
+
+  <!-- Waste sorting corner -->
+  <g data-word="der Mülleimer">
+    <rect x="400" y="740" width="380" height="20" rx="6" fill="#9aa3a8"/>
+    <g data-word="der Restmüll"><path d="M410 760 h110 l-8 120 h-94 Z" fill="#555b60"/></g>
+    <g data-word="der Biomüll"><path d="M535 760 h110 l-8 120 h-94 Z" fill="#8b5a2b"/>
+      <path d="M570 790 c8 -20 30 -20 26 0 c-4 16 -22 20 -26 0 Z" fill="#a9c97a" stroke-width="2"/></g>
+    <g data-word="die Gelbe Tonne"><path d="M660 760 h110 l-8 120 h-94 Z" fill="#f6d53b"/></g>
+  </g>
+  <g data-word="das Altpapier">
+    <rect x="820" y="830" width="140" height="50" fill="#c89a63"/>
+    <rect x="830" y="800" width="120" height="30" fill="#f4f1ea"/>
+    <path d="M840 812 H930" fill="none" stroke-width="2"/>
+  </g>
+  <g data-word="das Altglas">
+    <path d="M1010 880 v-55 c0 -12 8 -14 8 -26 v-20 h8 v20 c0 12 8 14 8 26 v55 Z" fill="#62b56f"/>
+    <path d="M1048 880 v-45 c0 -10 6 -12 6 -22 v-15 h8 v15 c0 10 6 12 6 22 v45 Z" fill="#b67a3e"/>
+    <rect x="1080" y="835" width="38" height="45" rx="6" fill="#e8eef0"/>
+  </g>
+  <g data-word="das Pfand">
+    <rect x="1170" y="810" width="220" height="80" rx="6" fill="#3d6fb6"/>
+    <path d="M1200 810 v-45 M1240 810 v-45 M1280 810 v-45 M1320 810 v-45 M1360 810 v-45" fill="none" stroke="#7a4f22" stroke-width="16"/>
+    <path d="M1200 770 v-18 M1240 770 v-18 M1280 770 v-18 M1320 770 v-18 M1360 770 v-18" fill="none" stroke="#7a4f22" stroke-width="7"/>
+    <rect x="1190" y="830" width="180" height="20" rx="4" fill="#5585c9" stroke-width="2"/>
+  </g>
+</svg>

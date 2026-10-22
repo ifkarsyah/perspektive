@@ -1,0 +1,157 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1600 900" stroke="#33302c" stroke-width="3" stroke-linejoin="round" stroke-linecap="round">
+  <!-- Courtyard (Hof) behind a Berlin building -->
+  <rect x="0" y="0" width="1600" height="640" fill="#efe4d2" stroke="none"/>
+  <rect x="0" y="640" width="1600" height="260" fill="#c9ccce" stroke="none"/>
+  <path d="M0 640 H1600 M0 720 H1600 M0 810 H1600" stroke="#b3b7ba" stroke-width="2" fill="none"/>
+  <g fill="#c7dbe6">
+    <rect x="70" y="50" width="110" height="150" rx="4"/>
+    <rect x="330" y="50" width="110" height="150" rx="4"/>
+    <rect x="590" y="50" width="110" height="150" rx="4"/>
+    <rect x="850" y="50" width="110" height="150" rx="4"/>
+    <rect x="1240" y="50" width="110" height="150" rx="4"/>
+  </g>
+  <path d="M125 50 V200 M385 50 V200 M645 50 V200 M905 50 V200 M1295 50 V200" fill="none"/>
+
+  <!-- Waste collection calendar on the wall -->
+  <g data-word="der Abfallkalender">
+    <rect x="70" y="270" width="160" height="210" rx="6" fill="#ffffff"/>
+    <rect x="70" y="270" width="160" height="40" rx="6" fill="#5b8c5a"/>
+    <g fill="#e9eef0" stroke-width="2">
+      <rect x="88" y="326" width="28" height="24"/><rect x="122" y="326" width="28" height="24"/><rect x="156" y="326" width="28" height="24"/><rect x="190" y="326" width="24" height="24"/>
+      <rect x="88" y="358" width="28" height="24"/><rect x="122" y="358" width="28" height="24" fill="#8b5a2b"/><rect x="156" y="358" width="28" height="24"/><rect x="190" y="358" width="24" height="24"/>
+      <rect x="88" y="390" width="28" height="24" fill="#3d6fb6"/><rect x="122" y="390" width="28" height="24"/><rect x="156" y="390" width="28" height="24" fill="#f29a2e"/><rect x="190" y="390" width="24" height="24"/>
+      <rect x="88" y="422" width="28" height="24"/><rect x="122" y="422" width="28" height="24" fill="#555b60"/><rect x="156" y="422" width="28" height="24"/><rect x="190" y="422" width="24" height="24"/>
+    </g>
+  </g>
+
+  <!-- Bin shelter -->
+  <g data-word="der Müllraum">
+    <path d="M290 330 L1010 330 L990 300 L310 300 Z" fill="#9c6b45"/>
+    <rect x="300" y="330" width="16" height="320" fill="#b07d52"/>
+    <rect x="984" y="330" width="16" height="320" fill="#b07d52"/>
+  </g>
+
+  <!-- General waste -->
+  <g data-word="die Restmülltonne">
+    <path d="M335 425 H475 L465 640 H345 Z" fill="#555b60"/>
+    <circle cx="360" cy="645" r="12" fill="#2b2b2b"/><circle cx="450" cy="645" r="12" fill="#2b2b2b"/>
+    <g data-word="der Deckel"><rect x="325" y="400" width="160" height="28" rx="6" fill="#3f4448"/></g>
+  </g>
+
+  <!-- Organic waste -->
+  <g data-word="die Biotonne">
+    <path d="M500 425 H640 L630 640 H510 Z" fill="#8b5a2b"/>
+    <rect x="490" y="400" width="160" height="28" rx="6" fill="#6e4520"/>
+    <path d="M555 500 c10 -25 35 -25 30 0 c-5 20 -25 25 -30 0 Z M570 520 v20" fill="#a9c97a" stroke-width="2"/>
+    <circle cx="525" cy="645" r="12" fill="#2b2b2b"/><circle cx="615" cy="645" r="12" fill="#2b2b2b"/>
+  </g>
+
+  <!-- Paper -->
+  <g data-word="die Papiertonne">
+    <path d="M665 425 H805 L795 640 H675 Z" fill="#3d6fb6"/>
+    <rect x="655" y="400" width="160" height="28" rx="6" fill="#2d568f"/>
+    <circle cx="690" cy="645" r="12" fill="#2b2b2b"/><circle cx="780" cy="645" r="12" fill="#2b2b2b"/>
+  </g>
+
+  <!-- Packaging and metal -->
+  <g data-word="die Wertstofftonne">
+    <path d="M830 425 H970 L960 640 H840 Z" fill="#f29a2e"/>
+    <rect x="820" y="400" width="160" height="28" rx="6" fill="#d27b14"/>
+    <circle cx="855" cy="645" r="12" fill="#2b2b2b"/><circle cx="945" cy="645" r="12" fill="#2b2b2b"/>
+  </g>
+
+  <!-- Flattened cardboard leaning on the paper bin -->
+  <g data-word="der Karton">
+    <path d="M700 520 L770 500 L790 650 L715 665 Z" fill="#c89a63"/>
+    <path d="M712 560 L778 545" fill="none" stroke-width="2"/>
+  </g>
+  <!-- Bundle of newspapers -->
+  <g data-word="die Zeitung">
+    <rect x="600" y="668" width="110" height="34" rx="3" fill="#f4f1ea"/>
+    <path d="M610 680 H700 M610 690 H690" fill="none" stroke-width="2"/>
+    <path d="M655 668 V702" fill="none" stroke="#b33a3a" stroke-width="3"/>
+  </g>
+
+  <!-- Food scraps and peel in front of the organic bin -->
+  <g data-word="die Essensreste">
+    <path d="M500 690 c-5 -25 20 -30 22 -12 c3 -18 28 -12 22 12 c-6 18 -38 18 -44 0 Z" fill="#e06b4e"/>
+    <path d="M522 672 v-10" fill="none"/>
+  </g>
+  <g data-word="die Schale">
+    <path d="M555 700 c15 -30 45 -30 60 -10 c-20 -8 -40 -5 -60 10 Z" fill="#f2d24b"/>
+  </g>
+
+  <!-- Yellow bags -->
+  <g data-word="der Gelbe Sack">
+    <path d="M1020 650 c-15 -60 10 -120 45 -125 l-8 -18 l24 0 l-6 18 c35 8 55 65 40 125 Z" fill="#f6d53b"/>
+    <path d="M1040 600 c15 10 40 10 60 -5" fill="none" stroke-width="2"/>
+  </g>
+  <g data-word="die Dose">
+    <rect x="1000" y="690" width="34" height="50" rx="4" fill="#c33f3f"/>
+    <path d="M1000 700 H1034 M1000 730 H1034" fill="none" stroke-width="2"/>
+  </g>
+  <g data-word="der Joghurtbecher">
+    <path d="M1050 690 h44 l-6 52 h-32 Z" fill="#ffffff"/>
+    <rect x="1048" y="684" width="48" height="8" rx="2" fill="#7fb2e5"/>
+  </g>
+
+  <!-- Gate to the street with the bin lorry -->
+  <path d="M1180 640 V360 c0 -70 280 -70 280 0 V640 Z" fill="#6e6a64"/>
+  <g data-word="das Müllauto">
+    <rect x="1200" y="470" width="170" height="130" rx="10" fill="#f28c28"/>
+    <path d="M1370 500 h60 l25 40 v60 h-85 Z" fill="#f28c28"/>
+    <rect x="1385" y="508" width="40" height="32" rx="3" fill="#c7dbe6"/>
+    <path d="M1210 520 H1360" fill="none" stroke="#ffffff" stroke-width="6"/>
+    <circle cx="1245" cy="610" r="22" fill="#2b2b2b"/><circle cx="1410" cy="610" r="22" fill="#2b2b2b"/>
+  </g>
+
+  <g data-word="die Plastiktüte">
+    <path d="M1105 700 l10 -60 h60 l10 60 Z" fill="#f7f7f7"/>
+    <path d="M1125 640 c0 -25 40 -25 40 0" fill="none"/>
+  </g>
+
+
+  <!-- Bulky waste: old sofa with a broken TV -->
+  <g data-word="der Sperrmüll">
+    <rect x="60" y="700" width="330" height="110" rx="18" fill="#7f8f6a"/>
+    <rect x="80" y="650" width="290" height="80" rx="18" fill="#93a37d"/>
+    <rect x="40" y="690" width="50" height="130" rx="18" fill="#6c7b58"/>
+    <rect x="360" y="690" width="50" height="130" rx="18" fill="#6c7b58"/>
+    <path d="M200 740 l20 30 l-25 15" fill="none" stroke-width="2"/>
+    <path d="M70 820 v20 M380 820 v20" fill="none" stroke-width="6"/>
+  </g>
+  <g data-word="der Elektroschrott">
+    <rect x="430" y="740" width="150" height="110" rx="10" fill="#4b4f54"/>
+    <rect x="445" y="752" width="120" height="80" rx="6" fill="#8fa3ad"/>
+    <path d="M470 760 l30 30 l-15 10 l35 25" fill="none" stroke="#ffffff" stroke-width="2"/>
+  </g>
+  <g data-word="die Batterie">
+    <rect x="600" y="815" width="22" height="44" rx="3" fill="#2f9e5b"/>
+    <rect x="606" y="809" width="10" height="7" fill="#c9c9c9"/>
+    <rect x="630" y="815" width="22" height="44" rx="3" fill="#2f9e5b"/>
+    <rect x="636" y="809" width="10" height="7" fill="#c9c9c9"/>
+  </g>
+  <g data-word="die Glühbirne">
+    <circle cx="700" cy="815" r="24" fill="#fff4b0"/>
+    <rect x="690" y="836" width="20" height="22" rx="3" fill="#a7a7a7"/>
+  </g>
+
+  <!-- Bottle banks -->
+  <g data-word="der Glascontainer">
+    <path d="M1160 860 V700 c0 -40 110 -40 110 0 V860 Z" fill="#e8eef0"/>
+    <path d="M1290 860 V700 c0 -40 110 -40 110 0 V860 Z" fill="#8a5a33"/>
+    <path d="M1420 860 V700 c0 -40 110 -40 110 0 V860 Z" fill="#3f8a4f"/>
+    <circle cx="1215" cy="720" r="16" fill="#33302c"/>
+    <circle cx="1345" cy="720" r="16" fill="#33302c"/>
+    <circle cx="1475" cy="720" r="16" fill="#33302c"/>
+  </g>
+  <g data-word="das Weißglas">
+    <path d="M1205 845 v-50 c0 -12 8 -14 8 -26 v-14 h6 v14 c0 12 8 14 8 26 v50 Z" fill="#f7fbfc"/>
+  </g>
+  <g data-word="das Braunglas">
+    <path d="M1335 845 v-50 c0 -12 8 -14 8 -26 v-14 h6 v14 c0 12 8 14 8 26 v50 Z" fill="#b67a3e"/>
+  </g>
+  <g data-word="das Grünglas">
+    <path d="M1465 845 v-50 c0 -12 8 -14 8 -26 v-14 h6 v14 c0 12 8 14 8 26 v50 Z" fill="#62b56f"/>
+  </g>
+</svg>

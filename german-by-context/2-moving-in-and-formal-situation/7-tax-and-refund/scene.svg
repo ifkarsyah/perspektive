@@ -1,0 +1,103 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1600 900" stroke="#33302c" stroke-width="3" stroke-linejoin="round" stroke-linecap="round">
+  <rect x="0" y="0" width="1600" height="720" fill="#f2ede4" stroke="none"/>
+  <rect x="0" y="720" width="1600" height="180" fill="#c69c6d" stroke="none"/>
+  <path d="M0 720 H1600 M0 800 H1600" fill="none" stroke="#a97f52" stroke-width="2"/>
+
+  <!-- Wall calendar with the deadline circled -->
+  <g data-word="die Frist">
+    <rect x="80" y="90" width="220" height="250" rx="6" fill="#ffffff"/>
+    <rect x="80" y="90" width="220" height="50" rx="6" fill="#3d6fb6"/>
+    <path d="M110 170 h20 M150 170 h20 M190 170 h20 M230 170 h20 M110 210 h20 M150 210 h20 M190 210 h20 M230 210 h20 M110 250 h20 M150 250 h20 M190 250 h20 M110 290 h20 M150 290 h20" fill="none" stroke="#c3cbd0" stroke-width="8"/>
+    <circle cx="240" cy="250" r="22" fill="none" stroke="#e45b4f" stroke-width="5"/>
+    <path d="M230 250 h20" fill="none" stroke="#33302c" stroke-width="8"/>
+  </g>
+
+  <!-- Window with the tax office across the street -->
+  <rect x="1080" y="80" width="440" height="320" fill="#d6ecf6"/>
+  <g data-word="das Finanzamt">
+    <rect x="1140" y="200" width="320" height="200" fill="#e9dfc9"/>
+    <path d="M1120 200 L1300 130 L1480 200 Z" fill="#d1c4a8"/>
+    <path d="M1180 230 V390 M1240 230 V390 M1300 230 V390 M1360 230 V390 M1420 230 V390" fill="none" stroke="#b8aa8c" stroke-width="14"/>
+    <path d="M1300 130 V80" fill="none" stroke-width="3"/>
+    <rect x="1300" y="80" width="50" height="10" fill="#2b2b2b" stroke="none"/><rect x="1300" y="90" width="50" height="10" fill="#e45b4f" stroke="none"/><rect x="1300" y="100" width="50" height="10" fill="#f2c94c" stroke="none"/>
+  </g>
+
+  <!-- Home office desk -->
+  <g data-word="die Homeoffice-Pauschale">
+    <rect x="380" y="520" width="720" height="24" fill="#9a6b43"/>
+    <path d="M400 544 V720 M1080 544 V720" fill="none" stroke-width="12"/>
+    <rect x="900" y="544" width="160" height="150" fill="#b98a5e"/>
+    <path d="M900 619 H1060" fill="none" stroke-width="2"/>
+  </g>
+
+  <!-- Person -->
+  <circle cx="300" cy="420" r="30" fill="#c58c5c"/>
+  <path d="M270 414 c0 -40 60 -40 60 0" fill="#2f2622"/>
+  <path d="M262 452 h76 l10 140 h-96 Z" fill="#4f8a8b"/>
+  <path d="M338 480 l120 40" fill="none" stroke-width="12"/>
+  <path d="M270 592 h90 v128" fill="none" stroke-width="12"/>
+  <rect x="220" y="580" width="140" height="18" rx="5" fill="#3a3f44"/>
+  <path d="M240 598 V720 M340 598 V720" fill="none" stroke-width="7"/>
+
+  <g data-word="die Arbeitsmittel">
+    <path d="M520 520 l-20 -10 h240 l-20 10 Z" fill="#9aa3a8"/>
+    <rect x="520" y="340" width="200" height="170" rx="8" fill="#3a3f44"/>
+    <path d="M760 400 c0 -60 70 -60 70 0" fill="none" stroke-width="6"/>
+    <rect x="752" y="398" width="16" height="30" rx="5" fill="#3a3f44"/>
+    <rect x="822" y="398" width="16" height="30" rx="5" fill="#3a3f44"/>
+  </g>
+  <g data-word="ELSTER">
+    <rect x="532" y="352" width="176" height="146" fill="#ffffff" stroke="none"/>
+    <rect x="532" y="352" width="176" height="28" fill="#3d7a5a" stroke="none"/>
+    <path d="M548 400 h140 M548 420 h140 M548 440 h100" fill="none" stroke="#c3cbd0" stroke-width="8"/>
+    <rect x="620" y="462" width="70" height="24" rx="4" fill="#3d7a5a" stroke="none"/>
+  </g>
+
+  <g data-word="die Steuererklärung">
+    <rect x="410" y="470" width="90" height="50" fill="#ffffff"/>
+    <rect x="404" y="478" width="90" height="42" fill="#fdfbf5"/>
+    <path d="M414 490 h70 M414 502 h70" fill="none" stroke-width="2"/>
+  </g>
+  <g data-word="der Beleg">
+    <path d="M760 520 v-60 l5 4 l5 -4 l5 4 l5 -4 l5 4 l5 -4 l5 4 v56 Z" fill="#ffffff" transform="rotate(-8 780 490)"/>
+    <path d="M790 520 v-50 l5 4 l5 -4 l5 4 l5 -4 l5 4 l5 -4 l5 4 v46 Z" fill="#fffdf2"/>
+    <path d="M796 485 h30 M796 495 h30 M796 505 h20" fill="none" stroke-width="2"/>
+  </g>
+  <g data-word="die Gehaltsabrechnung">
+    <rect x="850" y="470" width="80" height="50" fill="#e6f0fa"/>
+    <path d="M860 484 h60 M860 496 h40 M860 508 h50" fill="none" stroke="#3d6fb6" stroke-width="2"/>
+  </g>
+  <g data-word="die Lohnsteuerbescheinigung">
+    <rect x="945" y="465" width="80" height="55" fill="#fff3c4"/>
+    <path d="M955 480 h60 M955 492 h60 M955 504 h40" fill="none" stroke-width="2"/>
+  </g>
+  <g data-word="der Steuerbescheid">
+    <rect x="1040" y="480" width="60" height="40" fill="#efe1b8"/>
+    <path d="M1040 480 l30 18 l30 -18" fill="none" stroke-width="2"/>
+    <rect x="1048" y="448" width="44" height="40" fill="#ffffff" stroke-width="2"/>
+    <path d="M1054 460 h32 M1054 470 h24" fill="none" stroke-width="2"/>
+  </g>
+
+  <!-- Refund -->
+  <g data-word="die Erstattung">
+    <path d="M1180 520 c40 -60 120 -60 160 -10" fill="none" stroke="#5b8c5a" stroke-width="8"/>
+    <path d="M1330 490 l14 26 l-30 2" fill="#5b8c5a" stroke="#5b8c5a" stroke-width="4"/>
+    <circle cx="1360" cy="560" r="28" fill="#e0c06a"/>
+    <text x="1346" y="572" font-family="sans-serif" font-size="32" font-weight="bold" fill="#33302c" stroke="none">€</text>
+  </g>
+
+  <!-- Moving boxes -->
+  <g data-word="die Umzugskosten">
+    <rect x="1180" y="620" width="190" height="130" fill="#c89a63"/>
+    <path d="M1180 655 H1370 M1275 620 V655" fill="none" stroke-width="2"/>
+    <rect x="1390" y="660" width="150" height="100" fill="#d6ab76"/>
+    <path d="M1390 690 H1540" fill="none" stroke-width="2"/>
+  </g>
+
+  <!-- Monthly transit ticket -->
+  <g data-word="die Fahrtkosten">
+    <rect x="440" y="790" width="130" height="70" rx="8" fill="#f6d53b" transform="rotate(-8 505 825)"/>
+    <path d="M458 812 h70 M458 826 h50" fill="none" stroke-width="3" transform="rotate(-8 505 825)"/>
+    <circle cx="545" cy="842" r="12" fill="#e45b4f" stroke-width="2"/>
+  </g>
+</svg>

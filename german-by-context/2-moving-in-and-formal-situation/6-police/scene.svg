@@ -1,0 +1,105 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1600 900" stroke="#33302c" stroke-width="3" stroke-linejoin="round" stroke-linecap="round">
+  <g data-word="die Polizeiwache">
+    <rect x="0" y="0" width="1600" height="720" fill="#e7ecef" stroke="none"/>
+    <rect x="0" y="720" width="1600" height="180" fill="#aeb6bb" stroke="none"/>
+    <path d="M0 720 H1600" fill="none" stroke="#98a1a6" stroke-width="2"/>
+  </g>
+
+  <!-- Window with a patrol car -->
+  <rect x="60" y="70" width="420" height="240" fill="#d6ecf6"/>
+  <g data-word="die Polizei">
+    <path d="M110 260 v-50 l40 -40 h160 l40 40 v50 Z" fill="#ffffff"/>
+    <path d="M110 230 H350" fill="none" stroke="#3d6fb6" stroke-width="10"/>
+    <path d="M160 175 l-30 35 h90 v-35 Z M240 175 v35 h90 l-30 -35 Z" fill="#9fc8de" stroke-width="2"/>
+    <rect x="210" y="152" width="44" height="16" rx="4" fill="#3d6fb6"/>
+    <circle cx="160" cy="265" r="20" fill="#2b2b2b"/><circle cx="310" cy="265" r="20" fill="#2b2b2b"/>
+  </g>
+
+  <!-- Wanted poster -->
+  <g data-word="der Taschendieb">
+    <rect x="540" y="80" width="160" height="210" fill="#fdf6e3"/>
+    <circle cx="620" cy="160" r="35" fill="#555b60"/>
+    <rect x="590" y="148" width="60" height="14" rx="6" fill="#2b2b2b"/>
+    <path d="M570 270 c0 -60 100 -60 100 0" fill="#555b60"/>
+  </g>
+
+  <!-- Officers -->
+  <g data-word="die Polizistin">
+    <circle cx="900" cy="330" r="28" fill="#f0c9a6"/>
+    <path d="M872 330 c-4 -44 60 -44 56 0 l4 30 h-64 Z" fill="#c98f3e"/>
+    <circle cx="900" cy="334" r="24" fill="#f0c9a6"/>
+    <path d="M868 300 h64 v-16 c-10 -10 -54 -10 -64 0 Z" fill="#2f3f5c"/>
+    <path d="M864 365 h72 l12 120 h-96 Z" fill="#3d5f8f"/>
+    <path d="M880 390 h12" fill="none" stroke="#e0c06a" stroke-width="6"/>
+  </g>
+  <g data-word="der Polizist">
+    <circle cx="1240" cy="300" r="28" fill="#c58c5c"/>
+    <path d="M1206 272 h68 v-16 c-12 -12 -56 -12 -68 0 Z" fill="#2f3f5c"/>
+    <path d="M1204 335 h72 l10 220 h-92 Z" fill="#3d5f8f"/>
+    <path d="M1220 365 h12" fill="none" stroke="#e0c06a" stroke-width="6"/>
+    <path d="M1222 555 v165 M1258 555 v165" fill="none" stroke="#2f3f5c" stroke-width="18"/>
+  </g>
+
+  <!-- Counter -->
+  <rect x="760" y="500" width="380" height="220" fill="#c3cbd0"/>
+  <rect x="750" y="482" width="400" height="22" fill="#7c868b"/>
+  <g data-word="die Anzeige">
+    <rect x="780" y="430" width="100" height="55" fill="#ffffff" transform="rotate(-4 830 457)"/>
+    <path d="M792 444 h76 M792 456 h76 M792 468 h50" fill="none" stroke-width="2" transform="rotate(-4 830 457)"/>
+    <path d="M870 476 l30 -40" fill="none" stroke="#3d6fb6" stroke-width="5"/>
+  </g>
+  <g data-word="der Strafzettel">
+    <rect x="920" y="440" width="60" height="45" fill="#f6d53b"/>
+    <path d="M928 452 h44 M928 464 h30" fill="none" stroke-width="2"/>
+  </g>
+  <g data-word="der Reisepass">
+    <rect x="1000" y="447" width="50" height="36" rx="3" fill="#8b2d3a"/>
+    <circle cx="1025" cy="465" r="8" fill="none" stroke="#e0c06a" stroke-width="2"/>
+  </g>
+  <g data-word="der Ausweis">
+    <rect x="1065" y="457" width="60" height="28" rx="4" fill="#cfe1c9"/>
+    <rect x="1071" y="462" width="16" height="18" fill="#9aa3a8" stroke-width="1.5"/>
+  </g>
+
+  <!-- Lost and found shelf -->
+  <g data-word="das Fundbüro">
+    <rect x="1330" y="160" width="240" height="560" fill="#b98a5e"/>
+    <path d="M1330 330 H1570 M1330 500 H1570" fill="none" stroke-width="6"/>
+  </g>
+  <g data-word="der Rucksack">
+    <path d="M1350 325 v-90 c0 -30 70 -30 70 0 v90 Z" fill="#e45b4f"/>
+    <rect x="1362" y="270" width="46" height="30" rx="6" fill="#c94a40" stroke-width="2"/>
+  </g>
+  <g data-word="die Tasche">
+    <path d="M1440 325 l10 -70 h90 l10 70 Z" fill="#8b6fb5"/>
+    <path d="M1470 255 c0 -30 40 -30 40 0" fill="none" stroke-width="5"/>
+  </g>
+  <g data-word="die Brieftasche">
+    <rect x="1350" y="455" width="70" height="44" rx="5" fill="#5b4636"/>
+    <path d="M1350 470 h70" fill="none" stroke-width="2"/>
+  </g>
+  <g data-word="das Portemonnaie">
+    <rect x="1440" y="450" width="60" height="48" rx="10" fill="#e87f98"/>
+    <circle cx="1470" cy="450" r="6" fill="#e0c06a"/>
+  </g>
+  <g data-word="der Schlüssel">
+    <circle cx="1525" cy="470" r="10" fill="none" stroke="#c9a74a" stroke-width="5"/>
+    <path d="M1535 470 h25 M1550 470 v8 M1557 470 v8" fill="none" stroke="#c9a74a" stroke-width="5"/>
+  </g>
+  <g data-word="das Handy">
+    <rect x="1365" y="590" width="44" height="80" rx="8" fill="#2f3337"/>
+    <rect x="1370" y="598" width="34" height="62" rx="3" fill="#9fc8de"/>
+  </g>
+
+  <!-- Bike with a cut lock -->
+  <g data-word="das Fahrrad">
+    <circle cx="1020" cy="800" r="55" fill="none" stroke-width="6"/>
+    <circle cx="1220" cy="800" r="55" fill="none" stroke-width="6"/>
+    <path d="M1020 800 l60 -90 h100 l40 90 M1080 710 l40 90 l60 -90 M1070 690 h30 M1180 710 v-30 h30" fill="none" stroke="#5b8c5a" stroke-width="7"/>
+  </g>
+  <g data-word="das Fahrradschloss">
+    <path d="M1105 815 c-30 0 -40 -50 0 -50" fill="none" stroke="#e0a43c" stroke-width="8"/>
+    <path d="M1135 815 c30 0 40 -50 0 -50" fill="none" stroke="#e0a43c" stroke-width="8"/>
+    <rect x="1100" y="805" width="40" height="28" rx="4" fill="#3a3f44"/>
+  </g>
+</svg>

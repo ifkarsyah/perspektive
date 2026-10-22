@@ -1,0 +1,86 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1600 900" stroke="#33302c" stroke-width="3" stroke-linejoin="round" stroke-linecap="round">
+  <g data-word="das Bürgeramt">
+    <rect x="0" y="0" width="1600" height="700" fill="#e4e9ec" stroke="none"/>
+    <rect x="0" y="700" width="1600" height="200" fill="#b7bfc4" stroke="none"/>
+    <path d="M0 700 H1600 M0 800 H1600" fill="none" stroke="#a3abb0" stroke-width="2"/>
+    <rect x="0" y="420" width="1600" height="14" fill="#c9d1d5" stroke="none"/>
+  </g>
+
+  <!-- Queue number display -->
+  <g data-word="die Wartenummer">
+    <rect x="560" y="50" width="440" height="150" rx="10" fill="#2f3337"/>
+    <text x="600" y="115" font-family="monospace" font-size="44" fill="#f6d53b" stroke="none">A 214 → 7</text>
+    <text x="600" y="175" font-family="monospace" font-size="44" fill="#f6d53b" stroke="none">A 215 → 3</text>
+  </g>
+
+  <!-- Waiting area -->
+  <g data-word="der Wartebereich">
+    <rect x="60" y="590" width="440" height="22" rx="6" fill="#3d6fb6"/>
+    <path d="M60 590 v-90 h100 v90 M170 590 v-90 h100 v90 M280 590 v-90 h100 v90 M390 590 v-90 h100 v90" fill="#5585c9"/>
+    <path d="M80 612 V700 M480 612 V700" fill="none" stroke-width="8"/>
+    <circle cx="220" cy="470" r="20" fill="#e8b98f"/><rect x="196" y="492" width="48" height="80" rx="12" fill="#e0a43c"/>
+    <path d="M244 572 h40 v120" fill="none" stroke-width="9"/>
+    <circle cx="440" cy="470" r="20" fill="#8d5a3b"/><rect x="416" y="492" width="48" height="80" rx="12" fill="#6c7b58"/>
+    <path d="M416 572 h-30 v120" fill="none" stroke-width="9"/>
+    <rect x="402" y="525" width="34" height="44" fill="#ffffff" stroke-width="2"/>
+  </g>
+
+  <!-- Copier -->
+  <g data-word="die Kopie">
+    <rect x="560" y="520" width="140" height="180" rx="8" fill="#d3d8db"/>
+    <rect x="560" y="505" width="140" height="22" rx="4" fill="#9aa3a8"/>
+    <rect x="590" y="560" width="80" height="12" fill="#3a3f44" stroke-width="2"/>
+    <path d="M598 572 h64 v40 h-64 Z" fill="#ffffff" stroke-width="2"/>
+  </g>
+
+  <!-- Applicant at the counter -->
+  <circle cx="790" cy="400" r="24" fill="#c58c5c"/>
+  <path d="M766 396 c0 -34 48 -34 48 0" fill="#2f2622"/>
+  <path d="M762 426 h56 l8 150 h-72 Z" fill="#4f8a8b"/>
+  <path d="M775 576 v124 M805 576 v124" fill="none" stroke-width="10"/>
+  <path d="M818 440 l40 50" fill="none" stroke-width="9"/>
+  <g data-word="die Wartenummer">
+    <rect x="740" y="470" width="30" height="44" fill="#ffffff" stroke-width="2"/>
+    <path d="M747 485 h16 M747 495 h16" fill="none" stroke-width="2"/>
+  </g>
+
+  <!-- Clerk behind the counter -->
+  <g data-word="die Sachbearbeiterin">
+    <circle cx="1280" cy="330" r="26" fill="#f0c9a6"/>
+    <path d="M1254 335 c-6 -50 58 -50 52 0 l6 40 h-64 Z" fill="#b5524b"/>
+    <circle cx="1280" cy="334" r="22" fill="#f0c9a6"/>
+    <path d="M1246 365 h68 l10 115 h-88 Z" fill="#7fa79a"/>
+  </g>
+  <rect x="1090" y="340" width="140" height="100" rx="6" fill="#3a3f44"/>
+  <rect x="1100" y="350" width="120" height="78" fill="#cfe6f2" stroke="none"/>
+  <g data-word="der Schalter">
+    <rect x="860" y="480" width="700" height="220" fill="#d9c3a0"/>
+    <rect x="850" y="465" width="720" height="22" fill="#b98a5e"/>
+    <path d="M1010 465 V250 M1010 250 h-150 v215" fill="#dff1f7" fill-opacity="0.5"/>
+  </g>
+
+  <!-- On the counter -->
+  <g data-word="das Formular">
+    <rect x="1030" y="420" width="90" height="48" fill="#ffffff" transform="rotate(-4 1075 444)"/>
+    <path d="M1040 432 h70 M1040 442 h70" fill="none" stroke-width="2" transform="rotate(-4 1075 444)"/>
+    <g data-word="die Unterschrift"><path d="M1045 458 c10 -12 15 6 25 -4 c8 -8 12 6 22 -2" fill="none" stroke="#3d6fb6" stroke-width="3"/></g>
+  </g>
+  <g data-word="der Reisepass">
+    <rect x="890" y="430" width="52" height="36" rx="3" fill="#8b2d3a"/>
+    <circle cx="916" cy="448" r="8" fill="none" stroke="#e0c06a" stroke-width="2"/>
+  </g>
+  <g data-word="der Personalausweis">
+    <rect x="955" y="440" width="58" height="26" rx="4" fill="#cfe1c9"/>
+    <rect x="960" y="445" width="16" height="17" fill="#9aa3a8" stroke-width="1.5"/>
+  </g>
+  <g data-word="die Meldebescheinigung">
+    <rect x="1150" y="425" width="70" height="42" fill="#fffdf5"/>
+    <circle cx="1200" cy="452" r="10" fill="none" stroke="#b33a3a" stroke-width="3"/>
+    <path d="M1160 435 h40" fill="none" stroke-width="2"/>
+  </g>
+  <g data-word="die Gebühr">
+    <rect x="1250" y="415" width="48" height="52" rx="6" fill="#3a3f44"/>
+    <rect x="1258" y="422" width="32" height="14" fill="#8bbf7a" stroke-width="1.5"/>
+    <path d="M1260 446 h6 M1272 446 h6 M1284 446 h6 M1260 456 h6 M1272 456 h6 M1284 456 h6" fill="none" stroke="#ffffff" stroke-width="3"/>
+  </g>
+</svg>

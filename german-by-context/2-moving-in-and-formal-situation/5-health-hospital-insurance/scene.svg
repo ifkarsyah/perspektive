@@ -1,0 +1,126 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1600 900" stroke="#33302c" stroke-width="3" stroke-linejoin="round" stroke-linecap="round">
+  <g data-word="die Arztpraxis">
+    <rect x="0" y="0" width="1600" height="760" fill="#eef5f4" stroke="none"/>
+    <rect x="0" y="760" width="1600" height="140" fill="#b8cfcc" stroke="none"/>
+    <path d="M0 760 H1600" fill="none" stroke="#9fbab6" stroke-width="2"/>
+  </g>
+
+  <!-- Window with an ambulance outside -->
+  <rect x="60" y="80" width="380" height="240" fill="#d6ecf6"/>
+  <path d="M60 270 H440" fill="none" stroke="#9aa3a8" stroke-width="2"/>
+  <g data-word="der Krankenwagen">
+    <rect x="110" y="160" width="190" height="100" rx="8" fill="#ffffff"/>
+    <path d="M300 185 h60 l35 40 v35 h-95 Z" fill="#ffffff"/>
+    <rect x="310" y="193" width="40" height="30" rx="3" fill="#9fc8de"/>
+    <path d="M110 215 H300" fill="none" stroke="#e45b4f" stroke-width="8"/>
+    <path d="M190 175 v30 M175 190 h30" fill="none" stroke="#e45b4f" stroke-width="7"/>
+    <rect x="180" y="148" width="22" height="12" rx="3" fill="#3d6fb6"/>
+    <circle cx="150" cy="265" r="16" fill="#2b2b2b"/><circle cx="350" cy="265" r="16" fill="#2b2b2b"/>
+  </g>
+
+  <!-- Waiting room -->
+  <g data-word="das Wartezimmer">
+    <rect x="40" y="620" width="440" height="22" rx="6" fill="#7fa79a"/>
+    <path d="M40 620 v-90 h100 v90 M150 620 v-90 h100 v90 M260 620 v-90 h100 v90 M370 620 v-90 h100 v90" fill="#9cc0b4"/>
+    <path d="M60 642 V760 M460 642 V760" fill="none" stroke-width="8"/>
+  </g>
+  <circle cx="200" cy="500" r="22" fill="#e8b98f"/>
+  <rect x="176" y="524" width="48" height="80" rx="12" fill="#b58ad8"/>
+  <path d="M224 604 h40 v150" fill="none" stroke-width="9"/>
+  <g data-word="der Husten">
+    <path d="M230 490 q14 -6 24 4 M236 506 q18 -2 28 12 M232 474 q12 -14 26 -10" fill="none" stroke="#7a8288" stroke-width="3"/>
+  </g>
+  <circle cx="400" cy="500" r="22" fill="#c58c5c"/>
+  <rect x="376" y="524" width="48" height="80" rx="12" fill="#e0a43c"/>
+  <path d="M376 604 h-30 v150" fill="none" stroke-width="9"/>
+  <g data-word="der Schnupfen">
+    <circle cx="400" cy="506" r="7" fill="#e45b4f"/>
+    <path d="M372 512 c-4 -16 18 -22 22 -8 c-2 12 -18 18 -22 8 Z" fill="#ffffff" stroke-width="2"/>
+  </g>
+
+  <!-- Patient: body parts -->
+  <g data-word="das Bein">
+    <rect x="725" y="545" width="30" height="185" rx="12" fill="#f0c9a6"/>
+    <rect x="770" y="545" width="30" height="185" rx="12" fill="#f0c9a6"/>
+  </g>
+  <rect x="718" y="520" width="90" height="70" rx="10" fill="#3d6fb6"/>
+  <g data-word="der Fuß">
+    <path d="M722 728 h34 v20 h-50 c0 -12 6 -20 16 -20 Z" fill="#f0c9a6"/>
+    <path d="M770 728 h34 c10 0 16 8 16 20 h-50 Z" fill="#f0c9a6"/>
+  </g>
+  <g data-word="der Arm">
+    <path d="M700 340 l-38 160" fill="none" stroke="#f0c9a6" stroke-width="26"/>
+    <path d="M826 340 l38 160" fill="none" stroke="#f0c9a6" stroke-width="26"/>
+  </g>
+  <g data-word="die Hand">
+    <circle cx="660" cy="515" r="18" fill="#f0c9a6"/>
+    <circle cx="866" cy="515" r="18" fill="#f0c9a6"/>
+  </g>
+  <g data-word="die Brust">
+    <path d="M700 320 H826 L816 430 H710 Z" fill="#7fc0b0"/>
+  </g>
+  <g data-word="der Bauch">
+    <path d="M710 430 H816 L812 525 H714 Z" fill="#6aae9e"/>
+  </g>
+  <g data-word="der Hals">
+    <rect x="745" y="285" width="36" height="40" fill="#f0c9a6"/>
+  </g>
+  <g data-word="der Kopf">
+    <circle cx="763" cy="230" r="58" fill="#f0c9a6"/>
+    <path d="M707 220 c0 -70 112 -70 112 0 c-20 -28 -90 -28 -112 0 Z" fill="#5b4636"/>
+    <path d="M748 268 q15 10 30 0" fill="none" stroke-width="3"/>
+  </g>
+  <g data-word="das Auge">
+    <circle cx="743" cy="236" r="7" fill="#33302c" stroke="none"/>
+    <circle cx="783" cy="236" r="7" fill="#33302c" stroke="none"/>
+  </g>
+  <g data-word="das Ohr">
+    <ellipse cx="705" cy="238" rx="10" ry="16" fill="#e8b98f"/>
+    <ellipse cx="821" cy="238" rx="10" ry="16" fill="#e8b98f"/>
+  </g>
+
+  <!-- GP with stethoscope -->
+  <g data-word="der Hausarzt">
+    <circle cx="1080" cy="260" r="40" fill="#c58c5c"/>
+    <path d="M1040 252 c0 -52 80 -52 80 0" fill="#2f2622"/>
+    <path d="M1030 305 h100 l20 260 h-140 Z" fill="#ffffff"/>
+    <path d="M1060 305 c-10 60 50 70 40 0" fill="none" stroke="#3a3f44" stroke-width="5"/>
+    <circle cx="1080" cy="370" r="10" fill="#9aa3a8"/>
+    <path d="M1050 565 v190 M1110 565 v190" fill="none" stroke="#2f3f5c" stroke-width="20"/>
+  </g>
+  <g data-word="die Spritze">
+    <path d="M1130 380 l70 -40" fill="none" stroke-width="10" stroke="#f0c9a6"/>
+    <rect x="1190" y="318" width="70" height="20" rx="4" fill="#dff1f7" transform="rotate(-30 1225 328)"/>
+    <path d="M1255 305 l30 -17" fill="none" stroke-width="2"/>
+  </g>
+
+  <!-- Doctor's desk -->
+  <rect x="1240" y="560" width="330" height="20" fill="#9a6b43"/>
+  <path d="M1260 580 V760 M1550 580 V760" fill="none" stroke-width="10"/>
+  <g data-word="das Rezept">
+    <rect x="1255" y="510" width="80" height="50" fill="#f5c4d6" transform="rotate(-5 1295 535)"/>
+    <path d="M1265 525 h55 M1265 537 h55 M1265 549 h35" fill="none" stroke-width="2" transform="rotate(-5 1295 535)"/>
+  </g>
+  <g data-word="die Krankschreibung">
+    <rect x="1345" y="515" width="80" height="45" fill="#fff3c4"/>
+    <path d="M1355 528 h60 M1355 540 h45" fill="none" stroke-width="2"/>
+  </g>
+  <g data-word="das Medikament">
+    <rect x="1440" y="490" width="70" height="70" rx="4" fill="#ffffff"/>
+    <path d="M1462 525 h26 M1475 512 v26" fill="none" stroke="#5b8c5a" stroke-width="6"/>
+  </g>
+  <g data-word="die Tablette">
+    <ellipse cx="1528" cy="552" rx="12" ry="7" fill="#ffffff"/>
+    <ellipse cx="1548" cy="554" rx="12" ry="7" fill="#f2b84b"/>
+  </g>
+  <g data-word="die Versichertenkarte">
+    <rect x="1290" y="440" width="76" height="44" rx="5" fill="#7fb8d6"/>
+    <rect x="1300" y="452" width="16" height="12" rx="2" fill="#e0c06a" stroke-width="1.5"/>
+    <path d="M1324 470 h34" fill="none" stroke-width="2"/>
+  </g>
+  <g data-word="das Fieber">
+    <rect x="1390" y="430" width="90" height="16" rx="8" fill="#ffffff" transform="rotate(-20 1435 438)"/>
+    <circle cx="1394" cy="452" r="10" fill="#e45b4f"/>
+    <path d="M1402 446 l42 -15" fill="none" stroke="#e45b4f" stroke-width="5"/>
+  </g>
+</svg>

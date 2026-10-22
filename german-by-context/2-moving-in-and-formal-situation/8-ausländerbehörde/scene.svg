@@ -1,0 +1,106 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1600 900" stroke="#33302c" stroke-width="3" stroke-linejoin="round" stroke-linecap="round">
+  <g data-word="die Ausländerbehörde">
+    <rect x="0" y="0" width="1600" height="720" fill="#e8ebe6" stroke="none"/>
+    <rect x="0" y="720" width="1600" height="180" fill="#b4bab0" stroke="none"/>
+    <path d="M0 720 H1600" fill="none" stroke="#9ea596" stroke-width="2"/>
+    <rect x="0" y="440" width="1600" height="12" fill="#d3d8cf" stroke="none"/>
+  </g>
+
+  <!-- Processing time: hourglass on the shelf -->
+  <rect x="80" y="230" width="300" height="16" fill="#9a6b43"/>
+  <g data-word="die Bearbeitungszeit">
+    <path d="M110 120 h70 M110 230 h70 M120 120 c0 40 50 40 50 55 c0 15 -50 15 -50 55 M170 120 c0 40 -50 40 -50 55 c0 15 50 15 50 55" fill="#f6e7b8"/>
+    <path d="M128 222 c5 -15 30 -15 34 0 Z" fill="#e0a43c" stroke="none"/>
+  </g>
+  <rect x="220" y="150" width="30" height="80" fill="#3d6fb6"/><rect x="252" y="160" width="30" height="70" fill="#b5524b"/><rect x="284" y="140" width="30" height="90" fill="#5b8c5a"/>
+
+  <!-- Caseworker -->
+  <g data-word="die Sachbearbeiterin">
+    <circle cx="560" cy="300" r="34" fill="#e8b98f"/>
+    <path d="M526 300 c-6 -56 74 -56 68 0 c-8 -24 -60 -24 -68 0 Z" fill="#7a5a3c"/>
+    <path d="M520 340 h80 l14 160 h-108 Z" fill="#8b6fb5"/>
+    <rect x="535" y="355" width="22" height="30" rx="3" fill="#ffffff" stroke-width="2"/>
+  </g>
+  <rect x="660" y="330" width="160" height="120" rx="6" fill="#3a3f44"/>
+  <rect x="670" y="340" width="140" height="98" fill="#cfe6f2" stroke="none"/>
+  <path d="M740 450 v40" fill="none" stroke-width="10"/>
+
+  <!-- Applicant -->
+  <circle cx="1380" cy="330" r="34" fill="#8d5a3b"/>
+  <path d="M1346 324 c0 -46 68 -46 68 0" fill="#2f2622"/>
+  <path d="M1340 370 h80 l14 190 h-108 Z" fill="#e0a43c"/>
+  <path d="M1350 560 v160 M1410 560 v160" fill="none" stroke="#2f3f5c" stroke-width="18"/>
+  <path d="M1340 400 l-90 90" fill="none" stroke-width="12"/>
+
+  <!-- Desk -->
+  <path d="M460 500 H1320 L1370 690 H410 Z" fill="#c99d6f"/>
+  <rect x="410" y="690" width="960" height="22" fill="#9a6b43"/>
+  <path d="M440 712 V870 M1340 712 V870" fill="none" stroke-width="12"/>
+
+  <g data-word="die Fingerabdrücke">
+    <rect x="1170" y="450" width="110" height="50" rx="8" fill="#3a3f44"/>
+    <rect x="1185" y="458" width="80" height="30" rx="4" fill="#7fe0a8"/>
+    <path d="M1212 482 c0 -18 26 -18 26 0 M1218 482 c0 -10 14 -10 14 0 M1206 482 c0 -26 38 -26 38 0" fill="none" stroke="#2f3337" stroke-width="2"/>
+  </g>
+  <g data-word="der Reisepass">
+    <rect x="470" y="455" width="110" height="44" rx="3" fill="#8b2d3a"/>
+    <path d="M525 455 V499" fill="none" stroke-width="2"/>
+    <g data-word="das Visum"><rect x="533" y="462" width="40" height="30" rx="2" fill="#cfe1c9" stroke-width="2"/><rect x="537" y="466" width="12" height="15" fill="#9aa3a8" stroke-width="1"/></g>
+  </g>
+  <g data-word="das biometrische Passfoto">
+    <rect x="600" y="445" width="38" height="50" fill="#ffffff"/>
+    <circle cx="619" cy="465" r="10" fill="#c58c5c" stroke-width="2"/>
+    <path d="M605 495 c0 -18 28 -18 28 0" fill="#e0a43c" stroke-width="2"/>
+  </g>
+  <g data-word="der Antrag">
+    <rect x="660" y="455" width="90" height="45" fill="#ffffff" transform="rotate(-4 705 477)"/>
+    <path d="M670 467 h70 M670 479 h70 M670 491 h40" fill="none" stroke-width="2" transform="rotate(-4 705 477)"/>
+  </g>
+  <g data-word="der Arbeitsvertrag">
+    <rect x="765" y="458" width="70" height="42" fill="#e6f0fa"/>
+    <path d="M773 470 h54 M773 482 h40" fill="none" stroke="#3d6fb6" stroke-width="2"/>
+  </g>
+  <g data-word="der Mietvertrag">
+    <rect x="845" y="458" width="70" height="42" fill="#fdf0d5"/>
+    <path d="M853 470 h54 M853 482 h40" fill="none" stroke="#c66a43" stroke-width="2"/>
+  </g>
+  <g data-word="die Meldebescheinigung">
+    <rect x="925" y="458" width="70" height="42" fill="#fffdf5"/>
+    <circle cx="975" cy="483" r="9" fill="none" stroke="#b33a3a" stroke-width="3"/>
+  </g>
+  <g data-word="der Krankenversicherungsnachweis">
+    <rect x="1005" y="458" width="70" height="42" fill="#e3f3ef"/>
+    <path d="M1030 472 h20 M1040 462 v20" fill="none" stroke="#3d9a7a" stroke-width="5"/>
+  </g>
+  <g data-word="die Gebühr">
+    <rect x="1090" y="448" width="50" height="52" rx="6" fill="#3a3f44"/>
+    <rect x="1098" y="455" width="34" height="14" fill="#8bbf7a" stroke-width="1.5"/>
+    <path d="M1100 480 h6 M1112 480 h6 M1124 480 h6 M1100 490 h6 M1112 490 h6 M1124 490 h6" fill="none" stroke="#ffffff" stroke-width="3"/>
+  </g>
+
+  <!-- Things you get back -->
+  <g data-word="der Hochschulabschluss" transform="translate(-20 140)">
+    <rect x="1240" y="470" width="120" height="28" rx="14" fill="#fdf6e3"/>
+    <ellipse cx="1360" cy="484" rx="8" ry="14" fill="#fdf6e3"/>
+    <path d="M1290 470 v28" fill="none" stroke="#b33a3a" stroke-width="7"/>
+  </g>
+  <g data-word="der elektronische Aufenthaltstitel (eAT)">
+    <rect x="560" y="580" width="140" height="86" rx="10" fill="#d9e8d3"/>
+    <rect x="574" y="595" width="40" height="52" fill="#9aa3a8" stroke-width="2"/>
+    <path d="M626 600 h60 M626 615 h50 M626 630 h55" fill="none" stroke-width="3"/>
+  </g>
+  <g data-word="die Blaue Karte EU">
+    <rect x="740" y="580" width="140" height="86" rx="10" fill="#2f55a4"/>
+    <circle cx="810" cy="623" r="26" fill="none" stroke="#f2c94c" stroke-width="5" stroke-dasharray="3 8"/>
+  </g>
+  <g data-word="der PIN-Brief">
+    <rect x="920" y="585" width="130" height="80" fill="#f4f1ea"/>
+    <path d="M920 585 l65 40 l65 -40" fill="none" stroke-width="2"/>
+    <rect x="1010" y="595" width="30" height="20" fill="#e0c06a" stroke-width="2"/>
+  </g>
+  <g data-word="die Unterschrift">
+    <rect x="1090" y="590" width="140" height="70" rx="6" fill="#3a3f44"/>
+    <rect x="1100" y="600" width="120" height="50" fill="#ffffff"/>
+    <path d="M1112 632 c12 -16 18 8 30 -6 c10 -10 14 8 26 -2 c8 -6 14 4 26 -4" fill="none" stroke="#3d6fb6" stroke-width="3"/>
+  </g>
+</svg>
