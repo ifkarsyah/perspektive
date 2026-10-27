@@ -1,0 +1,41 @@
+german,article,plural,english,part_of_speech,entry_type,notes,context
+das Formular,das,Formulare,form,noun,main,,personal_info_forms_authorities
+ausfüllen,,,to fill out,verb,main,separable,personal_info_forms_authorities
+ankreuzen,,,to tick; to mark with a cross,verb,main,separable,personal_info_forms_authorities
+unterschreiben,,,to sign,verb,main,,personal_info_forms_authorities
+die Unterschrift,die,,signature,noun,main,,personal_info_forms_authorities
+der Name,der,Namen,name,noun,main,,personal_info_forms_authorities
+der Vorname,der,Vornamen,first name,noun,main,,personal_info_forms_authorities
+der Familienname,der,,surname,noun,derived,,personal_info_forms_authorities
+der Familienstand,der,,marital status,noun,derived,,personal_info_forms_authorities
+ledig,,,single (unmarried),adj,main,,personal_info_forms_authorities
+verheiratet,,,married,adj,main,,personal_info_forms_authorities
+geboren,,,born,adj,main,Wo sind Sie geboren?,personal_info_forms_authorities
+das Geburtsjahr,das,,year of birth,noun,main,,personal_info_forms_authorities
+der Geburtsort,der,,place of birth,noun,main,,personal_info_forms_authorities
+das Alter,das,,age,noun,main,,personal_info_forms_authorities
+weiblich,,,female,adj,main,,personal_info_forms_authorities
+männlich,,,male,adj,derived,,personal_info_forms_authorities
+die Adresse,die,Adressen,address,noun,main,,personal_info_forms_authorities
+die Postleitzahl,die,,postcode,noun,main,,personal_info_forms_authorities
+der Ausweis,der,,ID card,noun,main,,personal_info_forms_authorities
+der Pass,der,Pässe,passport,noun,main,,personal_info_forms_authorities
+die Papiere,die,(pl.),documents; papers,noun,main,plural only,personal_info_forms_authorities
+gültig,,,valid,adj,main,,personal_info_forms_authorities
+(sich) anmelden,,,to register,verb,main,separable,personal_info_forms_authorities
+die Anmeldung,die,,registration; reception desk,noun,derived,,personal_info_forms_authorities
+der Beamte,der,Beamten,civil servant; official,noun,main,f: die Beamtin,personal_info_forms_authorities
+der Schalter,der,,"counter (office, station)",noun,main,,personal_info_forms_authorities
+die Polizei,die,,police,noun,main,,personal_info_forms_authorities
+heißen,,,to be called,verb,main,Ich heiße ...,personal_info_forms_authorities
+die Heimat,die,,home country; homeland,noun,main,,personal_info_forms_authorities
+Deutschland,,,Germany,noun,group,,personal_info_forms_authorities
+der/die Deutsche,der/die,Deutschen,German (person),noun,group,ein Deutscher / eine Deutsche,personal_info_forms_authorities
+deutsch,,,German (adj.),adj,group,auf Deutsch,personal_info_forms_authorities
+Europa,,,Europe,noun,group,,personal_info_forms_authorities
+der Europäer,der,Europäer,European (person),noun,group,,personal_info_forms_authorities
+europäisch,,,European (adj.),adj,group,,personal_info_forms_authorities
+das Land,das,Länder,country,noun,main,,personal_info_forms_authorities
+das Ausland,das,,abroad; foreign countries,noun,main,,personal_info_forms_authorities
+der Ausländer,der,Ausländer,foreigner,noun,derived,f: die Ausländerin,personal_info_forms_authorities
+ausländisch,,,foreign,adj,derived,,personal_info_forms_authorities

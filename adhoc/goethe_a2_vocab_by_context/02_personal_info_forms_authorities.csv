@@ -1,0 +1,49 @@
+german,article,plural,english,part_of_speech,entry_type,notes,context
+die Adresse,die,Adressen,address,noun,main,,personal_info_forms_authorities
+das Alter,das,,age,noun,main,,personal_info_forms_authorities
+(sich) anmelden,,,to register,verb,main,separable,personal_info_forms_authorities
+die Anmeldung,die,Anmeldungen,registration,noun,main,,personal_info_forms_authorities
+ausfüllen,,,to fill out,verb,main,separable,personal_info_forms_authorities
+der Ausweis,der,Ausweise,ID card,noun,main,,personal_info_forms_authorities
+(sich) eintragen,,,to sign up; to enter (name),verb,main,separable,personal_info_forms_authorities
+der Familienname,der,Familiennamen,surname,noun,main,,personal_info_forms_authorities
+das Formular,das,Formulare,form,noun,main,,personal_info_forms_authorities
+geboren,,,born,adj,main,,personal_info_forms_authorities
+das Geburtsjahr,das,Geburtsjahre,year of birth,noun,main,,personal_info_forms_authorities
+der Geburtsort,der,Geburtsorte,place of birth,noun,main,,personal_info_forms_authorities
+gültig sein,,,to be valid,verb,main,,personal_info_forms_authorities
+die Heimat,die,,home country,noun,main,,personal_info_forms_authorities
+heißen,,,to be called,verb,main,,personal_info_forms_authorities
+das Land,das,Länder,country; countryside,noun,main,,personal_info_forms_authorities
+männlich,,,male,adj,main,,personal_info_forms_authorities
+der Name,der,Namen,name,noun,main,,personal_info_forms_authorities
+die Papiere,die,(pl.),documents,noun,main,plural only,personal_info_forms_authorities
+der Pass,der,Pässe,passport,noun,main,,personal_info_forms_authorities
+die Polizei,die,,police,noun,main,,personal_info_forms_authorities
+die Postleitzahl,die,Postleitzahlen,postcode,noun,main,,personal_info_forms_authorities
+das Rathaus,das,Rathäuser,town hall,noun,main,,personal_info_forms_authorities
+der Schalter,der,Schalter,counter; switch,noun,main,,personal_info_forms_authorities
+unterschreiben,,,to sign,verb,main,,personal_info_forms_authorities
+die Unterschrift,die,Unterschriften,signature,noun,main,,personal_info_forms_authorities
+der Vorname,der,Vornamen,first name,noun,main,,personal_info_forms_authorities
+weiblich,,,female,adj,main,,personal_info_forms_authorities
+ledig,,,single,adj,group,,personal_info_forms_authorities
+verheiratet,,,married,adj,group,,personal_info_forms_authorities
+getrennt,,,separated,adj,group,,personal_info_forms_authorities
+geschieden,,,divorced,adj,group,,personal_info_forms_authorities
+der Polizist,der,Polizisten,police officer,noun,group,"f: die Polizistin, -nen",personal_info_forms_authorities
+Deutschland,,,Germany,noun,group,,personal_info_forms_authorities
+der/die Deutsche,der/die,Deutschen,German (person),noun,group,,personal_info_forms_authorities
+deutsch,,,German (adj.),adj,group,auf Deutsch,personal_info_forms_authorities
+Österreich,,,Austria,noun,group,,personal_info_forms_authorities
+der Österreicher,der,Österreicher,Austrian (person),noun,group,"f: die Österreicherin, -nen",personal_info_forms_authorities
+österreichisch,,,Austrian (adj.),adj,group,,personal_info_forms_authorities
+die Schweiz,die,,Switzerland,noun,group,,personal_info_forms_authorities
+der Schweizer,der,Schweizer,Swiss (person),noun,group,"f: die Schweizerin, -nen",personal_info_forms_authorities
+schweizerisch,,,Swiss (adj.),adj,group,,personal_info_forms_authorities
+Luxemburg,,,Luxembourg,noun,group,,personal_info_forms_authorities
+der Luxemburger,der,Luxemburger,Luxembourger,noun,group,"f: die Luxemburgerin, -nen",personal_info_forms_authorities
+luxemburgisch,,,Luxembourgish,adj,group,,personal_info_forms_authorities
+Europa,,,Europe,noun,group,,personal_info_forms_authorities
+der Europäer,der,Europäer,European (person),noun,group,"f: die Europäerin, -nen",personal_info_forms_authorities
+europäisch,,,European (adj.),adj,group,,personal_info_forms_authorities

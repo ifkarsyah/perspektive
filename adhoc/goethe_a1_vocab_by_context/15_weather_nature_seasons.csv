@@ -1,0 +1,17 @@
+german,article,plural,english,part_of_speech,entry_type,notes,context
+das Wetter,das,,weather,noun,main,,weather_nature_seasons
+regnen,,,to rain,verb,main,,weather_nature_seasons
+der Regen,der,,rain,noun,derived,,weather_nature_seasons
+die Sonne,die,,sun,noun,main,,weather_nature_seasons
+scheinen,,,to shine,verb,main,,weather_nature_seasons
+der Wind,der,,wind,noun,main,,weather_nature_seasons
+der Grad,der,,degree (temperature),noun,main,dreißig Grad,weather_nature_seasons
+der Baum,der,Bäume,tree,noun,main,,weather_nature_seasons
+die Blume,die,Blumen,flower,noun,main,,weather_nature_seasons
+der Hund,der,Hunde,dog,noun,main,,weather_nature_seasons
+das Meer,das,,sea,noun,main,,weather_nature_seasons
+der See,der,,lake,noun,main,,weather_nature_seasons
+der Frühling,der,,spring,noun,group,also das Frühjahr,weather_nature_seasons
+der Sommer,der,,summer,noun,group,,weather_nature_seasons
+der Herbst,der,,autumn,noun,group,,weather_nature_seasons
+der Winter,der,,winter,noun,group,,weather_nature_seasons

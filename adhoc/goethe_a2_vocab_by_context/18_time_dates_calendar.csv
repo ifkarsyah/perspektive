@@ -1,0 +1,97 @@
+german,article,plural,english,part_of_speech,entry_type,notes,context
+ab,,,from (time),prep,main,ab morgen,time_dates_calendar
+anfangen,,,to begin,verb,main,separable,time_dates_calendar
+der Anfang,der,Anfänge,beginning,noun,main,,time_dates_calendar
+aufhören,,,to stop,verb,main,separable,time_dates_calendar
+bald,,,soon,adv,main,,time_dates_calendar
+beenden,,,to end; to finish,verb,main,,time_dates_calendar
+beginnen,,,to begin,verb,main,,time_dates_calendar
+bis,,,until,prep,main,,time_dates_calendar
+damals,,,back then,adv,main,,time_dates_calendar
+das Datum,das,Daten,date,noun,main,,time_dates_calendar
+dauern,,,to last; to take (time),verb,main,,time_dates_calendar
+einmal,,,once,adv,main,,time_dates_calendar
+das Ende,das,Enden,end,noun,main,,time_dates_calendar
+enden,,,to end,verb,main,,time_dates_calendar
+endlich,,,finally,adv,main,,time_dates_calendar
+erst,,,only; not until; first,adv,main,,time_dates_calendar
+früh,,,early,adj,main,,time_dates_calendar
+früher,,,earlier; in the past,adv,main,,time_dates_calendar
+gerade,,,just now,adv,main,,time_dates_calendar
+gestern,,,yesterday,adv,main,,time_dates_calendar
+gleich,,,right away; same,adv,main,,time_dates_calendar
+heute,,,today,adv,main,,time_dates_calendar
+immer,,,always,adv,main,,time_dates_calendar
+jetzt,,,now,adv,main,,time_dates_calendar
+der Kalender,der,Kalender,calendar,noun,main,,time_dates_calendar
+lange,,,(for) a long time,adv,main,,time_dates_calendar
+letzt-,,,last,adj,main,,time_dates_calendar
+mal / das Mal,das,Male,time(s); once,adv,main,zum ersten Mal,time_dates_calendar
+manchmal,,,sometimes,adv,main,,time_dates_calendar
+meistens,,,mostly,adv,main,,time_dates_calendar
+der Moment,der,Momente,moment,noun,main,,time_dates_calendar
+morgen,,,tomorrow,adv,main,,time_dates_calendar
+nächste,,,next,adj,main,,time_dates_calendar
+oft,,,often,adv,main,,time_dates_calendar
+plötzlich,,,suddenly,adv,main,,time_dates_calendar
+pünktlich,,,punctual; on time,adj,main,,time_dates_calendar
+der Schluss,der,Schlüsse,end,noun,main,,time_dates_calendar
+schon,,,already,adv,main,,time_dates_calendar
+seit,,,since; for,prep,main,,time_dates_calendar
+sofort,,,immediately,adv,main,,time_dates_calendar
+spät,,,late,adj,main,,time_dates_calendar
+später,,,later,adv,main,,time_dates_calendar
+übermorgen,,,the day after tomorrow,adv,main,,time_dates_calendar
+die Uhr,die,Uhren,clock; o'clock,noun,main,,time_dates_calendar
+um,,,at (time); around,prep,main,,time_dates_calendar
+verschieben,,,to postpone,verb,main,,time_dates_calendar
+vorgestern,,,the day before yesterday,adv,main,,time_dates_calendar
+vorher,,,before(hand),adv,main,,time_dates_calendar
+wieder,,,again,adv,main,,time_dates_calendar
+die Zeit,die,Zeiten,time,noun,main,,time_dates_calendar
+zuerst,,,first; at first,adv,main,,time_dates_calendar
+zuletzt,,,last; finally,adv,main,,time_dates_calendar
+der Karneval,der,,carnival,noun,group,,time_dates_calendar
+Ostern,,,Easter,noun,group,,time_dates_calendar
+Weihnachten,,,Christmas,noun,group,,time_dates_calendar
+Neujahr,,,New Year's Day,noun,group,,time_dates_calendar
+Silvester,,,New Year's Eve,noun,group,,time_dates_calendar
+der Januar,der,,January,noun,group,,time_dates_calendar
+der Februar,der,,February,noun,group,,time_dates_calendar
+der März,der,,March,noun,group,,time_dates_calendar
+der April,der,,April,noun,group,,time_dates_calendar
+der Mai,der,,May,noun,group,,time_dates_calendar
+der Juni,der,,June,noun,group,,time_dates_calendar
+der Juli,der,,July,noun,group,,time_dates_calendar
+der August,der,,August,noun,group,,time_dates_calendar
+der September,der,,September,noun,group,,time_dates_calendar
+der Oktober,der,,October,noun,group,,time_dates_calendar
+der November,der,,November,noun,group,,time_dates_calendar
+der Dezember,der,,December,noun,group,,time_dates_calendar
+der Tag,der,Tage,day,noun,group,,time_dates_calendar
+der Morgen,der,,morning,noun,group,"morgens, am Morgen",time_dates_calendar
+der Vormittag,der,Vormittage,late morning,noun,group,vormittags,time_dates_calendar
+der Mittag,der,Mittage,noon,noun,group,mittags,time_dates_calendar
+der Nachmittag,der,Nachmittage,afternoon,noun,group,nachmittags,time_dates_calendar
+der Abend,der,Abende,evening,noun,group,abends,time_dates_calendar
+die Nacht,die,Nächte,night,noun,group,"nachts, in der Nacht",time_dates_calendar
+die Mitternacht,die,,midnight,noun,group,um Mitternacht,time_dates_calendar
+täglich,,,daily,adv,group,,time_dates_calendar
+tagsüber,,,during the day,adv,group,,time_dates_calendar
+halb,,,half (past),adj,group,halb vier = 3:30,time_dates_calendar
+viertel,,,quarter,adj,group,viertel nach / vor,time_dates_calendar
+das Wochenende,das,,weekend,noun,group,am Wochenende,time_dates_calendar
+der Montag,der,,Monday,noun,group,montags,time_dates_calendar
+der Dienstag,der,,Tuesday,noun,group,dienstags,time_dates_calendar
+der Mittwoch,der,,Wednesday,noun,group,mittwochs,time_dates_calendar
+der Donnerstag,der,,Thursday,noun,group,donnerstags,time_dates_calendar
+der Freitag,der,,Friday,noun,group,freitags,time_dates_calendar
+der Samstag,der,,Saturday,noun,group,samstags,time_dates_calendar
+der Sonntag,der,,Sunday,noun,group,sonntags,time_dates_calendar
+der Arbeitstag,der,Arbeitstage,working day,noun,group,also der Werktag,time_dates_calendar
+der Feiertag,der,Feiertage,public holiday,noun,group,,time_dates_calendar
+die Sekunde,die,Sekunden,second,noun,group,,time_dates_calendar
+die Minute,die,Minuten,minute,noun,group,,time_dates_calendar
+die Stunde,die,Stunden,hour,noun,group,,time_dates_calendar
+die Woche,die,Wochen,week,noun,group,,time_dates_calendar
+das Jahr,das,Jahre,year,noun,group,,time_dates_calendar

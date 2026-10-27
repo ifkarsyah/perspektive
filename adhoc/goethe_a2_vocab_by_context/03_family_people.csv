@@ -1,0 +1,43 @@
+german,article,plural,english,part_of_speech,entry_type,notes,context
+das Baby,das,Babys,baby,noun,main,,family_people
+der Babysitter,der,Babysitter,babysitter,noun,main,,family_people
+der/die Bekannte,der/die,Bekannten,acquaintance,noun,main,,family_people
+die Ehefrau,die,Ehefrauen,wife,noun,main,,family_people
+der Ehemann,der,Ehemänner,husband,noun,main,,family_people
+der Ehepartner,der,Ehepartner,spouse,noun,main,,family_people
+der/die Erwachsene,der/die,Erwachsenen,adult,noun,main,,family_people
+die Familie,die,Familien,family,noun,main,,family_people
+die Frau,die,Frauen,woman; wife; Mrs,noun,main,,family_people
+der Freund,der,Freunde,friend; boyfriend,noun,main,"f: die Freundin, -nen",family_people
+heiraten,,,to marry,verb,main,,family_people
+die Hochzeit,die,Hochzeiten,wedding,noun,main,,family_people
+der/die Jugendliche,der/die,Jugendlichen,young person,noun,main,,family_people
+der Junge,der,Jungen,boy,noun,main,,family_people
+das Kind,das,Kinder,child,noun,main,,family_people
+(sich) kümmern,,,to look after,verb,main,um + Akk.,family_people
+die Leute,die,(pl.),people,noun,main,plural only,family_people
+das Mädchen,das,Mädchen,girl,noun,main,,family_people
+der Mann,der,Männer,man; husband,noun,main,,family_people
+der Mensch,der,Menschen,human; person,noun,main,,family_people
+der Partner,der,Partner,partner,noun,main,"f: die Partnerin, -nen",family_people
+die Person,die,Personen,person,noun,main,,family_people
+sterben,,,to die,verb,main,,family_people
+das Taschengeld,das,,pocket money,noun,main,,family_people
+tot,,,dead,adj,main,,family_people
+die Eltern,die,(pl.),parents,noun,group,,family_people
+die Mutter,die,Mütter,mother,noun,group,Mama,family_people
+der Vater,der,Väter,father,noun,group,Papa,family_people
+der Sohn,der,Söhne,son,noun,group,,family_people
+die Tochter,die,Töchter,daughter,noun,group,,family_people
+der Bruder,der,Brüder,brother,noun,group,,family_people
+die Schwester,die,Schwestern,sister,noun,group,,family_people
+die Geschwister,die,(pl.),siblings,noun,group,,family_people
+die Großeltern,die,(pl.),grandparents,noun,group,,family_people
+die Großmutter,die,Großmütter,grandmother,noun,group,Oma,family_people
+der Großvater,der,Großväter,grandfather,noun,group,Opa,family_people
+der Enkel,der,Enkel,grandson,noun,group,"f: die Enkelin, -nen",family_people
+der Onkel,der,Onkel,uncle,noun,group,,family_people
+die Tante,die,Tanten,aunt,noun,group,,family_people
+der Cousin,der,Cousins,cousin (m),noun,group,,family_people
+die Cousine,die,Cousinen,cousin (f),noun,group,,family_people
+der/die Verwandte,der/die,Verwandten,relative,noun,group,,family_people

@@ -1,0 +1,88 @@
+german,article,plural,english,part_of_speech,entry_type,notes,context
+der Apfel,der,Äpfel,apple,noun,main,,food_drink_restaurant
+backen,,,to bake,verb,main,,food_drink_restaurant
+die Bäckerei,die,Bäckereien,bakery,noun,main,,food_drink_restaurant
+die Banane,die,Bananen,banana,noun,main,,food_drink_restaurant
+bestellen,,,to order,verb,main,,food_drink_restaurant
+das Bier,das,Biere,beer,noun,main,,food_drink_restaurant
+die Birne,die,Birnen,pear,noun,main,,food_drink_restaurant
+bitter,,,bitter,adj,main,,food_drink_restaurant
+die Bohne,die,Bohnen,bean,noun,main,,food_drink_restaurant
+braten,,,to fry; to roast,verb,main,,food_drink_restaurant
+das Brot,das,Brote,bread,noun,main,,food_drink_restaurant
+das Brötchen,das,Brötchen,bread roll,noun,main,,food_drink_restaurant
+die Butter,die,,butter,noun,main,,food_drink_restaurant
+das Café,das,Cafés,café,noun,main,,food_drink_restaurant
+die Cafeteria,die,Cafeterias,cafeteria,noun,main,,food_drink_restaurant
+der Durst,der,,thirst,noun,main,,food_drink_restaurant
+das Ei,das,Eier,egg,noun,main,,food_drink_restaurant
+das Eis,das,,ice cream; ice,noun,main,,food_drink_restaurant
+empfehlen,,,to recommend,verb,main,,food_drink_restaurant
+essen,,,to eat,verb,main,,food_drink_restaurant
+das Essen,das,Essen,food; meal,noun,main,,food_drink_restaurant
+fett,,,fatty,adj,main,,food_drink_restaurant
+der Fisch,der,Fische,fish,noun,main,,food_drink_restaurant
+die Flasche,die,Flaschen,bottle,noun,main,,food_drink_restaurant
+das Fleisch,das,,meat,noun,main,,food_drink_restaurant
+frisch,,,fresh,adj,main,,food_drink_restaurant
+das Frühstück,das,,breakfast,noun,main,,food_drink_restaurant
+frühstücken,,,to have breakfast,verb,main,,food_drink_restaurant
+die Gabel,die,Gabeln,fork,noun,main,,food_drink_restaurant
+das Gemüse,das,,vegetables,noun,main,,food_drink_restaurant
+das Gericht,das,Gerichte,dish (meal),noun,main,,food_drink_restaurant
+das Getränk,das,Getränke,drink,noun,main,,food_drink_restaurant
+das Glas,das,Gläser,glass,noun,main,,food_drink_restaurant
+grillen,,,to barbecue,verb,main,,food_drink_restaurant
+das Hähnchen,das,Hähnchen,chicken,noun,main,,food_drink_restaurant
+der Hamburger,der,Hamburger,hamburger,noun,main,,food_drink_restaurant
+der Hunger,der,,hunger,noun,main,,food_drink_restaurant
+der Kaffee,der,Kaffees,coffee,noun,main,,food_drink_restaurant
+die Kartoffel,die,Kartoffeln,potato,noun,main,,food_drink_restaurant
+der Käse,der,,cheese,noun,main,,food_drink_restaurant
+kochen,,,to cook,verb,main,,food_drink_restaurant
+der Kuchen,der,Kuchen,cake,noun,main,,food_drink_restaurant
+die Lebensmittel,die,(pl.),groceries,noun,main,plural only,food_drink_restaurant
+der Löffel,der,Löffel,spoon,noun,main,,food_drink_restaurant
+das Lokal,das,Lokale,pub; restaurant,noun,main,,food_drink_restaurant
+das Messer,das,Messer,knife,noun,main,,food_drink_restaurant
+die Milch,die,,milk,noun,main,,food_drink_restaurant
+das Mineralwasser,das,,mineral water,noun,main,,food_drink_restaurant
+das Mittagessen,das,Mittagessen,lunch,noun,main,,food_drink_restaurant
+die Nudel,die,Nudeln,noodle; pasta,noun,main,,food_drink_restaurant
+das Obst,das,,fruit,noun,main,,food_drink_restaurant
+das Öl,das,Öle,oil,noun,main,,food_drink_restaurant
+die Orange,die,Orangen,orange,noun,main,,food_drink_restaurant
+die Pizza,die,Pizzas / Pizzen,pizza,noun,main,,food_drink_restaurant
+die Pommes frites,die,(pl.),French fries,noun,main,plural only,food_drink_restaurant
+die Portion,die,Portionen,portion,noun,main,,food_drink_restaurant
+probieren,,,to try; to taste,verb,main,,food_drink_restaurant
+der Reis,der,,rice,noun,main,,food_drink_restaurant
+der Rest,der,Reste,rest; leftovers,noun,main,,food_drink_restaurant
+das Restaurant,das,Restaurants,restaurant,noun,main,,food_drink_restaurant
+das Rezept,das,Rezepte,recipe; prescription,noun,main,two meanings,food_drink_restaurant
+riechen,,,to smell,verb,main,,food_drink_restaurant
+das Rind,das,Rinder,beef; cow,noun,main,,food_drink_restaurant
+der Saft,der,Säfte,juice,noun,main,,food_drink_restaurant
+der Salat,der,Salate,salad; lettuce,noun,main,,food_drink_restaurant
+das Salz,das,Salze,salt,noun,main,,food_drink_restaurant
+sauer,,,sour; annoyed,adj,main,,food_drink_restaurant
+scharf,,,spicy; sharp,adj,main,,food_drink_restaurant
+schmecken,,,to taste,verb,main,,food_drink_restaurant
+die Schokolade,die,,chocolate,noun,main,,food_drink_restaurant
+die Speisekarte,die,Speisekarten,menu,noun,main,,food_drink_restaurant
+die Suppe,die,Suppen,soup,noun,main,,food_drink_restaurant
+süß,,,sweet,adj,main,,food_drink_restaurant
+die Süßigkeiten,die,(pl.),sweets,noun,main,plural only,food_drink_restaurant
+die Tasse,die,Tassen,cup,noun,main,,food_drink_restaurant
+der Tee,der,Tees,tea,noun,main,,food_drink_restaurant
+der Teller,der,Teller,plate,noun,main,,food_drink_restaurant
+die Tomate,die,Tomaten,tomato,noun,main,,food_drink_restaurant
+der Topf,der,Töpfe,pot,noun,main,,food_drink_restaurant
+die Torte,die,Torten,gateau; tart,noun,main,,food_drink_restaurant
+trinken,,,to drink,verb,main,,food_drink_restaurant
+das Wasser,das,,water,noun,main,,food_drink_restaurant
+der Wein,der,Weine,wine,noun,main,,food_drink_restaurant
+die Wurst,die,Würste,sausage,noun,main,,food_drink_restaurant
+die Zitrone,die,Zitronen,lemon,noun,main,,food_drink_restaurant
+der Zucker,der,,sugar,noun,main,,food_drink_restaurant
+der Kellner,der,Kellner,waiter,noun,group,"f: die Kellnerin, -nen",food_drink_restaurant

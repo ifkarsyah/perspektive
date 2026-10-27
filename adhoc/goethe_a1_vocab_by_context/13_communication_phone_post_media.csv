@@ -1,0 +1,33 @@
+german,article,plural,english,part_of_speech,entry_type,notes,context
+telefonieren,,,to phone,verb,main,,communication_phone_post_media
+das Telefon,das,,telephone,noun,derived,,communication_phone_post_media
+anrufen,,,to call (phone),verb,main,separable,communication_phone_post_media
+der Anruf,der,Anrufe,phone call,noun,derived,,communication_phone_post_media
+der Anrufbeantworter,der,,answering machine,noun,derived,,communication_phone_post_media
+das Handy,das,Handys,mobile phone,noun,main,,communication_phone_post_media
+die Vorwahl,die,,area code,noun,main,,communication_phone_post_media
+besetzt,,,busy; occupied,adj,main,,communication_phone_post_media
+die Post,die,,post office; mail,noun,main,,communication_phone_post_media
+der Brief,der,Briefe,letter,noun,main,,communication_phone_post_media
+die Briefmarke,die,Briefmarken,stamp,noun,main,,communication_phone_post_media
+die Karte,die,Karten,card; postcard; menu; ticket,noun,main,several meanings,communication_phone_post_media
+der Absender,der,,sender,noun,main,,communication_phone_post_media
+der Empfänger,der,Empfänger,recipient,noun,main,,communication_phone_post_media
+schicken,,,to send,verb,main,,communication_phone_post_media
+schreiben,,,to write,verb,main,,communication_phone_post_media
+die E-Mail,die,E-Mails,email,noun,main,,communication_phone_post_media
+das Fax,das,Faxe,fax,noun,main,,communication_phone_post_media
+der Computer,der,Computer,computer,noun,main,,communication_phone_post_media
+das Internet,das,,internet,noun,main,,communication_phone_post_media
+anklicken,,,to click (on),verb,main,separable,communication_phone_post_media
+die Zeitung,die,Zeitungen,newspaper,noun,main,,communication_phone_post_media
+die Anzeige,die,Anzeigen,advertisement,noun,main,,communication_phone_post_media
+sprechen,,,to speak,verb,main,,communication_phone_post_media
+sagen,,,to say,verb,main,,communication_phone_post_media
+erzählen,,,to tell,verb,main,,communication_phone_post_media
+fragen,,,to ask,verb,main,,communication_phone_post_media
+die Frage,die,Fragen,question,noun,derived,,communication_phone_post_media
+antworten,,,to answer,verb,main,,communication_phone_post_media
+die Antwort,die,Antworten,answer,noun,derived,,communication_phone_post_media
+das Gespräch,das,Gespräche,conversation; talk,noun,main,,communication_phone_post_media
+verstehen,,,to understand,verb,main,,communication_phone_post_media

@@ -1,0 +1,43 @@
+german,article,plural,english,part_of_speech,entry_type,notes,context
+lernen,,,to learn; to study,verb,main,,school_learning_exam
+die Schule,die,,school,noun,main,,school_learning_exam
+der Schüler,der,Schüler,pupil; student,noun,derived,f: die Schülerin,school_learning_exam
+der Kindergarten,der,,kindergarten,noun,main,,school_learning_exam
+der Kurs,der,Kurse,course,noun,main,,school_learning_exam
+der Unterricht,der,,lessons; class,noun,main,,school_learning_exam
+die Klasse,die,,class; grade,noun,main,,school_learning_exam
+der Lehrer,der,Lehrer,teacher,noun,main,f: die Lehrerin,school_learning_exam
+studieren,,,to study (at university),verb,main,,school_learning_exam
+das Studium,das,,university studies,noun,main,,school_learning_exam
+der Student,der,Studenten,student,noun,derived,f: die Studentin,school_learning_exam
+die Hausaufgabe,die,Hausaufgaben,homework,noun,main,,school_learning_exam
+die Aufgabe,die,Aufgaben,task; exercise,noun,main,,school_learning_exam
+die Prüfung,die,,exam,noun,main,,school_learning_exam
+der Test,der,,test,noun,main,,school_learning_exam
+das Ergebnis,das,Ergebnisse,result,noun,main,,school_learning_exam
+die Lösung,die,Lösungen,solution; answer,noun,main,,school_learning_exam
+der Bogen,der,,sheet (of paper),noun,main,Antwortbogen = answer sheet,school_learning_exam
+die Aussage,die,Aussagen,statement,noun,main,,school_learning_exam
+der Fehler,der,Fehler,mistake,noun,main,,school_learning_exam
+der Text,der,Texte,text,noun,main,,school_learning_exam
+der Teil,der,Teile,part,noun,main,,school_learning_exam
+das Thema,das,,topic,noun,main,,school_learning_exam
+das Beispiel,das,Beispiele,example,noun,main,,school_learning_exam
+zum Beispiel (z. B.),,,for example,phrase,main,,school_learning_exam
+der Satz,der,Sätze,sentence,noun,main,,school_learning_exam
+das Wort,das,Wörter / Worte,word,noun,main,,school_learning_exam
+der Buchstabe,der,Buchstaben,letter (of alphabet),noun,main,,school_learning_exam
+buchstabieren,,,to spell,verb,main,,school_learning_exam
+die Sprache,die,Sprachen,language,noun,main,,school_learning_exam
+bedeuten,,,to mean,verb,main,,school_learning_exam
+erklären,,,to explain,verb,main,,school_learning_exam
+wiederholen,,,to repeat,verb,main,,school_learning_exam
+das Problem,das,Probleme,problem,noun,main,,school_learning_exam
+die Gruppe,die,Gruppen,group,noun,main,,school_learning_exam
+die Pause,die,Pausen,break,noun,main,,school_learning_exam
+der Raum,der,Räume,room,noun,main,,school_learning_exam
+lesen,,,to read,verb,main,,school_learning_exam
+das Buch,das,Bücher,book,noun,main,,school_learning_exam
+das Papier,das,,paper,noun,main,,school_learning_exam
+der Bleistift,der,Bleistifte,pencil,noun,main,,school_learning_exam
+der Kugelschreiber,der,,ballpoint pen,noun,main,,school_learning_exam

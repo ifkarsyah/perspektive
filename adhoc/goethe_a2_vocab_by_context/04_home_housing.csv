@@ -1,0 +1,65 @@
+german,article,plural,english,part_of_speech,entry_type,notes,context
+abschließen,,,to lock; to finish,verb,main,separable,home_housing
+anmachen,,,to switch on,verb,main,separable,home_housing
+aufmachen,,,to open,verb,main,separable,home_housing
+aufräumen,,,to tidy up,verb,main,separable,home_housing
+der Aufzug,der,Aufzüge,elevator; lift,noun,main,,home_housing
+ausmachen,,,to switch off; to arrange,verb,main,separable,home_housing
+das Bad,das,Bäder,bathroom; bath,noun,main,,home_housing
+der Balkon,der,Balkone,balcony,noun,main,,home_housing
+das Bett,das,Betten,bed,noun,main,,home_housing
+die Dusche,die,Duschen,shower,noun,main,,home_housing
+einziehen,,,to move in,verb,main,separable,home_housing
+das Erdgeschoss,das,Erdgeschosse,ground floor,noun,main,,home_housing
+das Fenster,das,Fenster,window,noun,main,,home_housing
+der Fernseher,der,Fernseher,TV set,noun,main,,home_housing
+die Garage,die,Garagen,garage,noun,main,,home_housing
+der Garten,der,Gärten,garden,noun,main,,home_housing
+das Gerät,das,Geräte,appliance; device,noun,main,,home_housing
+das Geschirr,das,,dishes,noun,main,,home_housing
+das Handtuch,das,Handtücher,towel,noun,main,,home_housing
+das Haus,das,Häuser,house,noun,main,nach Hause / zu Hause,home_housing
+der Haushalt,der,Haushalte,household; housework,noun,main,,home_housing
+die Heizung,die,Heizungen,heating,noun,main,,home_housing
+der Herd,der,Herde,stove,noun,main,,home_housing
+der Keller,der,Keller,cellar; basement,noun,main,,home_housing
+die Küche,die,Küchen,kitchen,noun,main,,home_housing
+der Kühlschrank,der,Kühlschränke,fridge,noun,main,,home_housing
+die Lampe,die,Lampen,lamp,noun,main,,home_housing
+das Licht,das,Lichter,light,noun,main,,home_housing
+die Maschine,die,Maschinen,machine,noun,main,,home_housing
+die Miete,die,Mieten,rent,noun,main,,home_housing
+mieten,,,to rent,verb,main,,home_housing
+die Möbel,die,(pl.),furniture,noun,main,plural only,home_housing
+der Müll,der,,rubbish; garbage,noun,main,,home_housing
+der Nachbar,der,Nachbarn,neighbour,noun,main,"f: die Nachbarin, -nen",home_housing
+putzen,,,to clean,verb,main,,home_housing
+der Raum,der,Räume,room; space,noun,main,,home_housing
+renovieren,,,to renovate,verb,main,,home_housing
+die Reparatur,die,Reparaturen,repair,noun,main,,home_housing
+reparieren,,,to repair,verb,main,,home_housing
+sauber,,,clean,adj,main,,home_housing
+die Schere,die,Scheren,scissors,noun,main,,home_housing
+das Schlafzimmer,das,Schlafzimmer,bedroom,noun,main,,home_housing
+der Schlüssel,der,Schlüssel,key,noun,main,,home_housing
+schmutzig,,,dirty,adj,main,,home_housing
+der Schrank,der,Schränke,cupboard; wardrobe,noun,main,,home_housing
+an sein / aus sein,,,to be on / off,verb,main,,home_housing
+auf sein / zu sein,,,to be open / closed,verb,main,,home_housing
+das Sofa,das,Sofas,sofa,noun,main,,home_housing
+der Stock,der,Stockwerke,floor; storey,noun,main,im zweiten Stock,home_housing
+das Stockwerk,das,Stockwerke,floor; storey,noun,main,,home_housing
+der Stuhl,der,Stühle,chair,noun,main,,home_housing
+der Tisch,der,Tische,table,noun,main,,home_housing
+die Treppe,die,Treppen,stairs,noun,main,,home_housing
+die Tür,die,Türen,door,noun,main,,home_housing
+umziehen,,,to move (house),verb,main,separable,home_housing
+der Umzug,der,Umzüge,move (house),noun,main,,home_housing
+vermieten,,,to rent out,verb,main,,home_housing
+der Vermieter,der,Vermieter,landlord,noun,main,"f: die Vermieterin, -nen",home_housing
+die Wäsche,die,,laundry,noun,main,,home_housing
+wohnen,,,to live (reside),verb,main,,home_housing
+die Wohnung,die,Wohnungen,apartment; flat,noun,main,,home_housing
+das Wohnzimmer,das,Wohnzimmer,living room,noun,main,,home_housing
+das Zimmer,das,Zimmer,room,noun,main,,home_housing
+zumachen,,,to close,verb,main,separable,home_housing

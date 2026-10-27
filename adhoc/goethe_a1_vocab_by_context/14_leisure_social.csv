@@ -1,0 +1,37 @@
+german,article,plural,english,part_of_speech,entry_type,notes,context
+die Freizeit,die,,free time,noun,main,,leisure_social
+das Hobby,das,Hobbys,hobby,noun,main,,leisure_social
+Lieblings-,,,favourite ...,prefix,main,e.g. Lieblingsfilm,leisure_social
+der Sport,der,,sport,noun,main,,leisure_social
+der Fußball,der,,football,noun,main,,leisure_social
+spielen,,,to play,verb,main,,leisure_social
+gewinnen,,,to win,verb,main,,leisure_social
+schwimmen,,,to swim,verb,main,,leisure_social
+das Schwimmbad,das,,swimming pool,noun,derived,,leisure_social
+wandern,,,to hike,verb,main,,leisure_social
+Rad fahren,,,to cycle,verb,main,,leisure_social
+tanzen,,,to dance,verb,main,,leisure_social
+die Disco,die,,disco; club,noun,main,,leisure_social
+die Party,die,,party,noun,main,,leisure_social
+feiern,,,to celebrate,verb,main,,leisure_social
+der Geburtstag,der,,birthday,noun,main,,leisure_social
+das Geschenk,das,Geschenke,present; gift,noun,main,,leisure_social
+einladen,,,to invite,verb,main,separable,leisure_social
+die Einladung,die,,invitation,noun,derived,,leisure_social
+der Gast,der,Gäste,guest,noun,main,,leisure_social
+besuchen,,,to visit,verb,main,,leisure_social
+(sich) treffen,,,to meet,verb,main,,leisure_social
+der Verein,der,,club; association,noun,main,,leisure_social
+das Kino,das,Kinos,cinema,noun,main,,leisure_social
+der Film,der,Filme,film,noun,main,,leisure_social
+fernsehen,,,to watch TV,verb,main,separable,leisure_social
+die CD,die,CDs,CD,noun,main,,leisure_social
+das Lied,das,Lieder,song,noun,main,,leisure_social
+hören,,,to hear; to listen,verb,main,,leisure_social
+das Foto,das,Fotos,photo,noun,main,,leisure_social
+das Bild,das,Bilder,picture,noun,main,,leisure_social
+der Eintritt,der,,admission; entry fee,noun,main,,leisure_social
+kulturell,,,cultural,adj,main,,leisure_social
+rauchen,,,to smoke,verb,main,,leisure_social
+die Zigarette,die,Zigaretten,cigarette,noun,main,,leisure_social
+das Feuer,das,,fire; a light,noun,main,Haben Sie Feuer?,leisure_social

@@ -1,0 +1,39 @@
+german,article,plural,english,part_of_speech,entry_type,notes,context
+die Stadt,die,Städte,city; town,noun,main,,places_directions
+das Dorf,das,Dörfer,village,noun,main,,places_directions
+der Ort,der,Orte,place; town,noun,main,,places_directions
+die Straße,die,Straßen,street,noun,main,,places_directions
+der Platz,der,Plätze,square; seat; space,noun,main,,places_directions
+die Halle,die,,hall,noun,main,,places_directions
+die Welt,die,,world,noun,main,,places_directions
+die Ecke,die,Ecken,corner,noun,main,,places_directions
+die Mitte,die,,middle,noun,main,,places_directions
+hier,,,here,adv,main,,places_directions
+da,,,there,adv,main,,places_directions
+dort,,,there,adv,main,also dorther / dorthin,places_directions
+draußen,,,outside,adv,main,,places_directions
+oben,,,above; upstairs,adv,main,,places_directions
+unten,,,below; downstairs,adv,main,,places_directions
+hinten,,,at the back,adv,main,,places_directions
+daneben,,,next to it,adv,main,,places_directions
+links,,,left,adv,main,,places_directions
+rechts,,,right,adv,main,,places_directions
+geradeaus,,,straight ahead,adv,main,,places_directions
+weit,,,far,adj,main,,places_directions
+weiter,,,further,adv,main,,places_directions
+zurück,,,back,adv,main,,places_directions
+an,,,at; on (vertical),prep,main,,places_directions
+auf,,,on; onto,prep,main,,places_directions
+in,,,in; into,prep,main,,places_directions
+aus,,,out of; from,prep,main,,places_directions
+bei,,,at; near; with,prep,main,,places_directions
+nach,,,"to (cities, countries); after",prep,main,,places_directions
+über,,,over; above; across,prep,main,,places_directions
+unter,,,under; below,prep,main,,places_directions
+vor,,,in front of; before; ago,prep,main,,places_directions
+zwischen,,,between,prep,main,,places_directions
+durch,,,through,prep,main,,places_directions
+der Norden,der,,north,noun,group,,places_directions
+der Süden,der,,south,noun,group,,places_directions
+der Westen,der,,west,noun,group,,places_directions
+der Osten,der,,east,noun,group,,places_directions

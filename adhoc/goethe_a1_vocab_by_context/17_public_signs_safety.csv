@@ -1,0 +1,15 @@
+german,article,plural,english,part_of_speech,entry_type,notes,context
+Achtung,,,attention! caution!,interj,main,,public_signs_safety
+die Vorsicht,die,,caution,noun,main,Vorsicht!,public_signs_safety
+die Hilfe,die,,help,noun,main,Hilfe!,public_signs_safety
+verboten,,,forbidden,adj,main,,public_signs_safety
+erlauben,,,to allow,verb,main,,public_signs_safety
+das Schild,das,Schilder,sign,noun,main,,public_signs_safety
+der Eingang,der,,entrance,noun,main,,public_signs_safety
+der Ausgang,der,,exit,noun,main,,public_signs_safety
+die Toilette,die,Toiletten,toilet,noun,main,,public_signs_safety
+geöffnet,,,open,adj,derived,,public_signs_safety
+geschlossen,,,closed,adj,derived,,public_signs_safety
+öffnen,,,to open,verb,main,,public_signs_safety
+schließen,,,to close,verb,main,,public_signs_safety
+die Information,die,Informationen,information (desk),noun,main,,public_signs_safety

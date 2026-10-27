@@ -1,0 +1,52 @@
+german,article,plural,english,part_of_speech,entry_type,notes,context
+die Ampel,die,Ampeln,traffic light,noun,main,,transport_station_airport
+ankommen,,,to arrive,verb,main,separable,transport_station_airport
+die Ankunft,die,Ankünfte,arrival,noun,main,,transport_station_airport
+der Anschluss,der,Anschlüsse,connection,noun,main,,transport_station_airport
+die Auskunft,die,Auskünfte,information,noun,main,,transport_station_airport
+aussteigen,,,to get off,verb,main,separable,transport_station_airport
+das Auto,das,Autos,car,noun,main,,transport_station_airport
+die Autobahn,die,Autobahnen,motorway,noun,main,,transport_station_airport
+der Automat,der,Automaten,vending machine,noun,main,,transport_station_airport
+die Bahn,die,Bahnen,train; railway,noun,main,,transport_station_airport
+der Bahnhof,der,Bahnhöfe,train station,noun,main,,transport_station_airport
+der Bahnsteig,der,Bahnsteige,platform,noun,main,,transport_station_airport
+die Baustelle,die,Baustellen,construction site; roadworks,noun,main,,transport_station_airport
+der Bus,der,Busse,bus,noun,main,,transport_station_airport
+einsteigen,,,to get on,verb,main,separable,transport_station_airport
+erreichen,,,to reach; to catch (a train),verb,main,,transport_station_airport
+(ab)fahren,,,to drive; to depart,verb,main,,transport_station_airport
+die Abfahrt,die,Abfahrten,departure,noun,main,,transport_station_airport
+die Fahrkarte,die,Fahrkarten,ticket,noun,main,,transport_station_airport
+der Fahrplan,der,Fahrpläne,timetable,noun,main,,transport_station_airport
+das (Fahr)Rad,das,(Fahr)Räder,bicycle,noun,main,,transport_station_airport
+(ab)fliegen,,,to fly; to take off,verb,main,,transport_station_airport
+der Flug,der,Flüge,flight,noun,main,,transport_station_airport
+der Flughafen,der,Flughäfen,airport,noun,main,,transport_station_airport
+das Flugzeug,das,Flugzeuge,airplane,noun,main,,transport_station_airport
+der Führerschein,der,Führerscheine,driving licence,noun,main,,transport_station_airport
+das Gleis,das,Gleise,track; platform,noun,main,,transport_station_airport
+halten,,,to stop; to hold,verb,main,,transport_station_airport
+die Haltestelle,die,Haltestellen,"stop (bus, tram)",noun,main,,transport_station_airport
+die Kreuzung,die,Kreuzungen,crossroads,noun,main,,transport_station_airport
+der Motor,der,Motoren,engine,noun,main,,transport_station_airport
+der Motorroller,der,Motorroller,scooter,noun,main,,transport_station_airport
+parken,,,to park,verb,main,,transport_station_airport
+der Reifen,der,Reifen,tyre,noun,main,,transport_station_airport
+das Schiff,das,Schiffe,ship,noun,main,,transport_station_airport
+die Straßenbahn,die,Straßenbahnen,tram,noun,main,,transport_station_airport
+das Taxi,das,Taxis,taxi,noun,main,,transport_station_airport
+das Ticket,das,Tickets,ticket,noun,main,,transport_station_airport
+umsteigen,,,to change (trains),verb,main,separable,transport_station_airport
+der Unfall,der,Unfälle,accident,noun,main,,transport_station_airport
+der Verkehr,der,,traffic,noun,main,,transport_station_airport
+das Verkehrsmittel,das,Verkehrsmittel,means of transport,noun,main,,transport_station_airport
+verpassen,,,to miss (train),verb,main,,transport_station_airport
+die Verspätung,die,Verspätungen,delay,noun,main,,transport_station_airport
+der Wagen,der,Wagen,car; carriage,noun,main,,transport_station_airport
+die Werkstatt,die,Werkstätten,garage (repair); workshop,noun,main,,transport_station_airport
+der Zug,der,Züge,train,noun,main,,transport_station_airport
+der ICE,der,ICEs,high-speed train,abbr,group,,transport_station_airport
+der Lkw,der,Lkws,truck,abbr,group,,transport_station_airport
+die Durchsage,die,Durchsagen,announcement,noun,group,,transport_station_airport
+der Fahrer,der,Fahrer,driver,noun,group,"f: die Fahrerin, -nen",transport_station_airport

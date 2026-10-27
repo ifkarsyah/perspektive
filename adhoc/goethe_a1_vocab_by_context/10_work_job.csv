@@ -1,0 +1,19 @@
+german,article,plural,english,part_of_speech,entry_type,notes,context
+arbeiten,,,to work,verb,main,,work_job
+die Arbeit,die,Arbeiten,work; job,noun,derived,,work_job
+arbeitslos,,,unemployed,adj,main,,work_job
+der Arbeitsplatz,der,Arbeitsplätze,workplace; job,noun,main,,work_job
+der Beruf,der,Berufe,profession; job,noun,main,Was sind Sie von Beruf?,work_job
+der Job,der,Jobs,job,noun,main,,work_job
+die Stelle,die,Stellen,position; job,noun,main,,work_job
+die Firma,die,,company,noun,main,,work_job
+der Chef,der,,boss,noun,main,f: die Chefin,work_job
+der Kollege,der,Kollegen,colleague,noun,main,f: die Kollegin,work_job
+die Hausfrau,die,Hausfrauen,housewife,noun,main,,work_job
+der Hausmann,der,,househusband,noun,main,,work_job
+selbstständig,,,self-employed,adj,main,,work_job
+verdienen,,,to earn,verb,main,,work_job
+das Praktikum,das,,internship,noun,main,,work_job
+der Termin,der,Termine,appointment,noun,main,,work_job
+drucken,,,to print,verb,main,,work_job
+der Drucker,der,Drucker,printer,noun,derived,,work_job

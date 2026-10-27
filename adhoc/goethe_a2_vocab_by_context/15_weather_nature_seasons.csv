@@ -1,0 +1,48 @@
+german,article,plural,english,part_of_speech,entry_type,notes,context
+der Baum,der,Bäume,tree,noun,main,,weather_nature_seasons
+der Berg,der,Berge,mountain,noun,main,,weather_nature_seasons
+bewölkt,,,cloudy,adj,main,,weather_nature_seasons
+die Wolke,die,Wolken,cloud,noun,main,,weather_nature_seasons
+das Blatt,das,Blätter,leaf; sheet of paper,noun,main,,weather_nature_seasons
+die Blume,die,Blumen,flower,noun,main,,weather_nature_seasons
+der Fluss,der,Flüsse,river,noun,main,,weather_nature_seasons
+das Gewitter,das,Gewitter,thunderstorm,noun,main,,weather_nature_seasons
+heiß,,,hot,adj,main,,weather_nature_seasons
+der Himmel,der,,sky,noun,main,,weather_nature_seasons
+der Hund,der,Hunde,dog,noun,main,,weather_nature_seasons
+die Insel,die,Inseln,island,noun,main,,weather_nature_seasons
+kalt,,,cold,adj,main,,weather_nature_seasons
+die Katze,die,Katzen,cat,noun,main,,weather_nature_seasons
+kühl,,,cool,adj,main,,weather_nature_seasons
+die Landschaft,die,Landschaften,landscape,noun,main,,weather_nature_seasons
+das Meer,das,Meere,sea,noun,main,,weather_nature_seasons
+nass,,,wet,adj,main,,weather_nature_seasons
+die Natur,die,,nature,noun,main,,weather_nature_seasons
+neblig,,,foggy,adj,main,,weather_nature_seasons
+das Pferd,das,Pferde,horse,noun,main,,weather_nature_seasons
+die Pflanze,die,Pflanzen,plant,noun,main,,weather_nature_seasons
+der Regen,der,,rain,noun,main,,weather_nature_seasons
+regnen,,,to rain,verb,main,,weather_nature_seasons
+die Rose,die,Rosen,rose,noun,main,,weather_nature_seasons
+scheinen,,,to shine; to seem,verb,main,,weather_nature_seasons
+der Schnee,der,,snow,noun,main,,weather_nature_seasons
+schneien,,,to snow,verb,main,,weather_nature_seasons
+das Schwein,das,Schweine,pig,noun,main,,weather_nature_seasons
+der See,der,Seen,lake,noun,main,,weather_nature_seasons
+die See,die,,sea,noun,main,,weather_nature_seasons
+die Sonne,die,Sonnen,sun,noun,main,,weather_nature_seasons
+sonnig,,,sunny,adj,main,,weather_nature_seasons
+der Strand,der,Strände,beach,noun,main,,weather_nature_seasons
+das Tier,das,Tiere,animal,noun,main,,weather_nature_seasons
+trocken,,,dry,adj,main,,weather_nature_seasons
+der Vogel,der,Vögel,bird,noun,main,,weather_nature_seasons
+der Wald,der,Wälder,forest,noun,main,,weather_nature_seasons
+warm,,,warm,adj,main,,weather_nature_seasons
+das Wetter,das,,weather,noun,main,,weather_nature_seasons
+der Wind,der,Winde,wind,noun,main,,weather_nature_seasons
+windig,,,windy,adj,main,,weather_nature_seasons
+der Frühling,der,,spring,noun,group,also das Frühjahr,weather_nature_seasons
+der Sommer,der,,summer,noun,group,,weather_nature_seasons
+der Herbst,der,,autumn,noun,group,,weather_nature_seasons
+der Winter,der,,winter,noun,group,,weather_nature_seasons
+der Grad (Celsius),der,,degree (Celsius),noun,group,,weather_nature_seasons

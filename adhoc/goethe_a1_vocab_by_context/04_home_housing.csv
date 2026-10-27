@@ -1,0 +1,37 @@
+german,article,plural,english,part_of_speech,entry_type,notes,context
+die Wohnung,die,Wohnungen,apartment; flat,noun,derived,,home_housing
+wohnen,,,to live (reside),verb,main,,home_housing
+das Haus,das,Häuser,house,noun,main,nach Hause / zu Hause,home_housing
+das Apartment,das,Apartments,apartment,noun,main,,home_housing
+das Zimmer,das,Zimmer,room,noun,main,,home_housing
+die Küche,die,,kitchen,noun,main,,home_housing
+das Bad,das,,bathroom; bath,noun,main,,home_housing
+die Dusche,die,,shower,noun,main,,home_housing
+der Balkon,der,,balcony,noun,main,,home_housing
+der Garten,der,,garden,noun,main,,home_housing
+der Stock,der,,floor; storey,noun,main,im ersten Stock,home_housing
+die Treppe,die,Treppen,stairs,noun,main,,home_housing
+der Aufzug,der,Aufzüge,elevator; lift,noun,main,,home_housing
+die Möbel,die,(pl.),furniture,noun,main,plural only,home_housing
+das Bett,das,Betten,bed,noun,main,,home_housing
+das Sofa,das,,sofa,noun,main,,home_housing
+der Tisch,der,Tische,table,noun,main,,home_housing
+der Schrank,der,Schränke,cupboard; wardrobe,noun,main,,home_housing
+der Herd,der,,stove,noun,main,,home_housing
+der Kühlschrank,der,,fridge,noun,main,,home_housing
+die Maschine,die,Maschinen,machine,noun,main,e.g. Waschmaschine,home_housing
+das Licht,das,,light,noun,main,,home_housing
+anmachen,,,to switch on,verb,main,separable,home_housing
+ausmachen,,,to switch off,verb,main,separable,home_housing
+an sein,,,to be on,verb,main,,home_housing
+aus sein,,,to be off; to be over,verb,main,,home_housing
+auf sein,,,to be open,verb,main,,home_housing
+zu sein,,,to be closed,verb,derived,,home_housing
+der Schlüssel,der,Schlüssel,key,noun,main,,home_housing
+mieten,,,to rent,verb,main,,home_housing
+die Miete,die,,rent,noun,derived,,home_housing
+vermieten,,,to rent out,verb,main,,home_housing
+der Vermieter,der,,landlord,noun,derived,f: die Vermieterin,home_housing
+umziehen,,,to move (house),verb,main,separable,home_housing
+reparieren,,,to repair,verb,main,,home_housing
+die Reparatur,die,,repair,noun,derived,,home_housing

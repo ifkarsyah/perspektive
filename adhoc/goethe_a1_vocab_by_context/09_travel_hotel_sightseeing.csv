@@ -1,0 +1,22 @@
+german,article,plural,english,part_of_speech,entry_type,notes,context
+reisen,,,to travel,verb,main,,travel_hotel_sightseeing
+die Reise,die,,trip; journey,noun,main,,travel_hotel_sightseeing
+das Reisebüro,das,Reisebüros,travel agency,noun,derived,,travel_hotel_sightseeing
+der Reiseführer,der,,guidebook; tour guide,noun,derived,,travel_hotel_sightseeing
+der Urlaub,der,,holiday; vacation,noun,main,,travel_hotel_sightseeing
+der Ausflug,der,,excursion; day trip,noun,main,,travel_hotel_sightseeing
+besichtigen,,,to visit (a sight),verb,main,,travel_hotel_sightseeing
+die Sehenswürdigkeit,die,Sehenswürdigkeiten,sight; attraction,noun,main,,travel_hotel_sightseeing
+die Führung,die,,guided tour,noun,main,,travel_hotel_sightseeing
+der Blick,der,,view,noun,main,,travel_hotel_sightseeing
+der Prospekt,der,Prospekte,brochure,noun,main,,travel_hotel_sightseeing
+der Plan,der,Pläne,plan; map,noun,main,e.g. Stadtplan,travel_hotel_sightseeing
+das Gepäck,das,,luggage,noun,main,,travel_hotel_sightseeing
+der Koffer,der,Koffer,suitcase,noun,main,,travel_hotel_sightseeing
+der Zoll,der,,customs,noun,main,,travel_hotel_sightseeing
+das Hotel,das,Hotels,hotel,noun,main,,travel_hotel_sightseeing
+die Rezeption,die,,reception,noun,main,,travel_hotel_sightseeing
+das Einzelzimmer,das,,single room,noun,main,,travel_hotel_sightseeing
+das Doppelzimmer,das,,double room,noun,main,,travel_hotel_sightseeing
+die Halbpension,die,,half board,noun,main,,travel_hotel_sightseeing
+übernachten,,,to stay overnight,verb,main,,travel_hotel_sightseeing

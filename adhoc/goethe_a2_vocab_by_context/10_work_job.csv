@@ -1,0 +1,51 @@
+german,article,plural,english,part_of_speech,entry_type,notes,context
+arbeiten,,,to work,verb,main,,work_job
+die Arbeit,die,Arbeiten,work; job,noun,main,,work_job
+arbeitslos,,,unemployed,adj,main,,work_job
+die Ausbildung,die,Ausbildungen,vocational training,noun,main,,work_job
+austragen,,,"to deliver (newspapers, post)",verb,main,separable,work_job
+der Beruf,der,Berufe,profession; job,noun,main,,work_job
+(sich) bewerben,,,to apply,verb,main,,work_job
+die Bewerbung,die,Bewerbungen,application,noun,main,,work_job
+das Büro,das,Büros,office,noun,main,,work_job
+der Chef,der,Chefs,boss,noun,main,"f: die Chefin, -nen",work_job
+drucken,,,to print,verb,main,,work_job
+der Drucker,der,Drucker,printer,noun,main,,work_job
+die Erfahrung,die,Erfahrungen,experience,noun,main,,work_job
+die Firma,die,Firmen,company,noun,main,,work_job
+das Gehalt,das,Gehälter,salary,noun,main,,work_job
+herstellen,,,to produce; to manufacture,verb,main,separable,work_job
+der Job,der,Jobs,job,noun,main,,work_job
+die Kenntnisse,die,(pl.),knowledge; skills,noun,main,plural only,work_job
+der Kollege,der,Kollegen,colleague,noun,main,"f: die Kollegin, -nen",work_job
+kündigen,,,to give notice; to cancel,verb,main,,work_job
+die Messe,die,Messen,trade fair,noun,main,,work_job
+der Mitarbeiter,der,Mitarbeiter,employee,noun,main,,work_job
+organisieren,,,to organise,verb,main,,work_job
+das Praktikum,das,Praktika,internship,noun,main,,work_job
+das Projekt,das,Projekte,project,noun,main,,work_job
+der Rentner,der,Rentner,pensioner,noun,main,"f: die Rentnerin, -nen",work_job
+die Stelle,die,Stellen,position; job; place,noun,main,,work_job
+das Team,das,Teams,team,noun,main,,work_job
+der Termin,der,Termine,appointment,noun,main,,work_job
+verdienen,,,to earn,verb,main,,work_job
+vereinbaren,,,to agree; to arrange,verb,main,,work_job
+der Vertrag,der,Verträge,contract,noun,main,,work_job
+der Workshop,der,Workshops,workshop,noun,main,,work_job
+der/die Angestellte,der/die,Angestellten,employee,noun,group,,work_job
+der/die Auszubildende,der/die,Auszubildenden,apprentice; trainee,noun,group,,work_job
+der Autor,der,Autoren,author,noun,group,"f: die Autorin, -nen",work_job
+der Bäcker,der,Bäcker,baker,noun,group,"f: die Bäckerin, -nen",work_job
+der Friseur,der,Friseure,hairdresser,noun,group,"f: die Friseurin, -nen",work_job
+der Handwerker,der,Handwerker,tradesperson,noun,group,"f: die Handwerkerin, -nen",work_job
+der Hausmann,der,Hausmänner,househusband,noun,group,"f: die Hausfrau, -en",work_job
+der Journalist,der,Journalisten,journalist,noun,group,"f: die Journalistin, -nen",work_job
+der Kaufmann,der,Kaufleute,businessman; merchant,noun,group,"f: die Kauffrau, -en",work_job
+der Koch,der,Köche,cook,noun,group,"f: die Köchin, -nen",work_job
+der Künstler,der,Künstler,artist,noun,group,"f: die Künstlerin, -nen",work_job
+der Mechaniker,der,Mechaniker,mechanic,noun,group,"f: die Mechanikerin, -nen",work_job
+das Model,das,Models,model,noun,group,,work_job
+der Musiker,der,Musiker,musician,noun,group,"f: die Musikerin, -nen",work_job
+der Sänger,der,Sänger,singer,noun,group,"f: die Sängerin, -nen",work_job
+der Schauspieler,der,Schauspieler,actor,noun,group,"f: die Schauspielerin, -nen",work_job
+der Techniker,der,Techniker,technician,noun,group,"f: die Technikerin, -nen",work_job

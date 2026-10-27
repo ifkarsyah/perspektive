@@ -1,0 +1,16 @@
+german,article,plural,english,part_of_speech,entry_type,notes,context
+krank,,,sick; ill,adj,main,,body_health_doctor
+das Fieber,das,,fever,noun,main,,body_health_doctor
+weh tun,,,to hurt,verb,main,,body_health_doctor
+der Arzt,der,Ärzte,doctor,noun,main,f: die Ärztin,body_health_doctor
+der Doktor,der,,doctor,noun,main,,body_health_doctor
+die Praxis,die,,doctor's practice,noun,main,,body_health_doctor
+der Kopf,der,,head,noun,main,,body_health_doctor
+das Auge,das,Augen,eye,noun,main,,body_health_doctor
+der Mund,der,,mouth,noun,main,,body_health_doctor
+das Haar,das,Haare,hair,noun,main,,body_health_doctor
+der Arm,der,Arme,arm,noun,main,,body_health_doctor
+die Hand,die,Hände,hand,noun,main,,body_health_doctor
+der Bauch,der,,belly; stomach,noun,main,,body_health_doctor
+das Bein,das,Beine,leg,noun,main,,body_health_doctor
+der Fuß,der,Füße,foot,noun,main,zu Fuß = on foot,body_health_doctor

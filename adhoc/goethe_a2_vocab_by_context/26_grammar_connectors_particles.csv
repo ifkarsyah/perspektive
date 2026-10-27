@@ -1,0 +1,62 @@
+german,article,plural,english,part_of_speech,entry_type,notes,context
+aber,,,but,conj,main,,grammar_connectors_particles
+als,,,as; than; when (past),conj,main,,grammar_connectors_particles
+also,,,so; therefore,adv,main,,grammar_connectors_particles
+auch,,,also; too,adv,main,,grammar_connectors_particles
+auf jeden/keinen Fall,,,definitely / definitely not,phrase,main,,grammar_connectors_particles
+außer,,,except; apart from,prep,main,,grammar_connectors_particles
+außerdem,,,besides; in addition,adv,main,,grammar_connectors_particles
+besonders,,,especially,adv,main,,grammar_connectors_particles
+bisschen,,,a little bit,det,main,ein bisschen,grammar_connectors_particles
+da(r)-,,,"there- (darauf, damit, ...)",prefix,main,,grammar_connectors_particles
+dann,,,then,adv,main,,grammar_connectors_particles
+dass,,,that,conj,main,,grammar_connectors_particles
+denn,,,because; then (particle),conj,main,,grammar_connectors_particles
+deshalb,,,therefore,adv,main,,grammar_connectors_particles
+doch,,,yes (contradicting); after all,particle,main,,grammar_connectors_particles
+echt,,,really; genuine,adj,main,,grammar_connectors_particles
+eigentlich,,,actually,adv,main,,grammar_connectors_particles
+fast,,,almost,adv,main,,grammar_connectors_particles
+für,,,for,prep,main,,grammar_connectors_particles
+ganz,,,quite; whole,adj,main,,grammar_connectors_particles
+gegen,,,against; around (time),prep,main,,grammar_connectors_particles
+genau,,,exactly,adj,main,,grammar_connectors_particles
+genug,,,enough,adv,main,,grammar_connectors_particles
+gern,,,gladly; like to,adv,main,"lieber, am liebsten",grammar_connectors_particles
+her/her-/-her,,,here (towards speaker),adv,main,,grammar_connectors_particles
+ja,,,yes,particle,main,,grammar_connectors_particles
+klar,,,clear; sure,adj,main,,grammar_connectors_particles
+leider,,,unfortunately,adv,main,,grammar_connectors_particles
+mehr,,,more,det,main,,grammar_connectors_particles
+mit,,,with,prep,main,"mitbringen, mitkommen, mitmachen, mitnehmen, mitspielen",grammar_connectors_particles
+natürlich,,,of course; natural,adv,main,,grammar_connectors_particles
+nein,,,no,particle,main,,grammar_connectors_particles
+nicht,,,not,adv,main,,grammar_connectors_particles
+nichts,,,nothing,pron,main,,grammar_connectors_particles
+nie,,,never,adv,main,,grammar_connectors_particles
+noch,,,still; yet; more,adv,main,,grammar_connectors_particles
+nur,,,only,adv,main,,grammar_connectors_particles
+oder,,,or,conj,main,,grammar_connectors_particles
+ohne,,,without,prep,main,,grammar_connectors_particles
+sehr,,,very,adv,main,,grammar_connectors_particles
+so,,,so; like this,adv,main,,grammar_connectors_particles
+sogar,,,even,adv,main,,grammar_connectors_particles
+sonst,,,otherwise; else,adv,main,,grammar_connectors_particles
+total,,,totally,adv,main,,grammar_connectors_particles
+unbedingt,,,absolutely; definitely,adv,main,,grammar_connectors_particles
+und,,,and,conj,main,,grammar_connectors_particles
+viel,,,much; a lot,det,main,,grammar_connectors_particles
+vielleicht,,,maybe,adv,main,,grammar_connectors_particles
+von,,,from; of,prep,main,,grammar_connectors_particles
+wahrscheinlich,,,probably,adv,main,,grammar_connectors_particles
+wegen,,,because of,prep,main,,grammar_connectors_particles
+weil,,,because,conj,main,,grammar_connectors_particles
+wenig,,,little; few,det,main,,grammar_connectors_particles
+wenigstens,,,at least,adv,main,,grammar_connectors_particles
+wenn,,,if; when,conj,main,,grammar_connectors_particles
+wirklich,,,really,adv,main,,grammar_connectors_particles
+zu,,,to; too,prep,main,,grammar_connectors_particles
+zusammen,,,together,adv,main,,grammar_connectors_particles
+ca.,,,approx. (circa),abbr,group,,grammar_connectors_particles
+d. h.,,,i.e. (das heißt),abbr,group,,grammar_connectors_particles
+usw.,,,etc. (und so weiter),abbr,group,,grammar_connectors_particles

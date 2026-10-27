@@ -1,0 +1,87 @@
+german,article,plural,english,part_of_speech,entry_type,notes,context
+aussprechen,,,to pronounce,verb,main,separable,school_learning_exam
+bedeuten,,,to mean,verb,main,,school_learning_exam
+begründen,,,to give reasons,verb,main,,school_learning_exam
+bestehen,,,to pass (exam); to consist of,verb,main,,school_learning_exam
+die Bibliothek,die,Bibliotheken,library,noun,main,,school_learning_exam
+der Bleistift,der,Bleistifte,pencil,noun,main,,school_learning_exam
+das Buch,das,Bücher,book,noun,main,,school_learning_exam
+der Buchstabe,der,Buchstaben,letter (alphabet),noun,main,,school_learning_exam
+buchstabieren,,,to spell,verb,main,,school_learning_exam
+erklären,,,to explain,verb,main,,school_learning_exam
+das Fach,das,Fächer,subject (school),noun,main,,school_learning_exam
+der Fehler,der,Fehler,mistake,noun,main,,school_learning_exam
+das Gegenteil,das,Gegenteile,opposite,noun,main,,school_learning_exam
+die Geschichte,die,Geschichten,story; history,noun,main,,school_learning_exam
+die Gruppe,die,Gruppen,group,noun,main,,school_learning_exam
+das Heft,das,Hefte,exercise book,noun,main,,school_learning_exam
+der Kindergarten,der,Kindergärten,kindergarten,noun,main,,school_learning_exam
+der Kurs,der,Kurse,course,noun,main,,school_learning_exam
+lernen,,,to learn,verb,main,,school_learning_exam
+lesen,,,to read,verb,main,,school_learning_exam
+die Note,die,Noten,grade; mark,noun,main,,school_learning_exam
+notieren,,,to note down,verb,main,,school_learning_exam
+die Notiz,die,Notizen,note,noun,main,,school_learning_exam
+das Papier,das,Papiere,paper,noun,main,,school_learning_exam
+die Pause,die,Pausen,break,noun,main,,school_learning_exam
+die Prüfung,die,Prüfungen,exam,noun,main,,school_learning_exam
+raten,,,to guess; to advise,verb,main,,school_learning_exam
+rechnen,,,to calculate,verb,main,,school_learning_exam
+der Satz,der,Sätze,sentence,noun,main,,school_learning_exam
+schriftlich,,,written,adj,main,,school_learning_exam
+die Schule,die,Schulen,school,noun,main,,school_learning_exam
+der Schüler,der,Schüler,pupil,noun,main,"f: die Schülerin, -nen",school_learning_exam
+die Seite,die,Seiten,page; side,noun,main,,school_learning_exam
+die Sprache,die,Sprachen,language,noun,main,,school_learning_exam
+der Stift,der,Stifte,pen; pencil,noun,main,,school_learning_exam
+das Stipendium,das,Stipendien,scholarship,noun,main,,school_learning_exam
+der Student,der,Studenten,student,noun,main,"f: die Studentin, -nen",school_learning_exam
+studieren,,,to study (university),verb,main,,school_learning_exam
+das Studium,das,,university studies,noun,main,,school_learning_exam
+die Tafel,die,Tafeln,board (black-/info-),noun,main,,school_learning_exam
+der Text,der,Texte,text,noun,main,,school_learning_exam
+das Thema,das,Themen,topic,noun,main,,school_learning_exam
+üben,,,to practise,verb,main,,school_learning_exam
+übersetzen,,,to translate,verb,main,,school_learning_exam
+die Übersetzung,die,Übersetzungen,translation,noun,main,,school_learning_exam
+die Universität,die,Universitäten,university,noun,main,,school_learning_exam
+der Unterricht,der,,lessons,noun,main,,school_learning_exam
+der Unterschied,der,Unterschiede,difference,noun,main,,school_learning_exam
+wiederholen,,,to repeat,verb,main,,school_learning_exam
+das Wort,das,Wörter,word,noun,main,,school_learning_exam
+der Zettel,der,Zettel,slip of paper; note,noun,main,,school_learning_exam
+das Zeugnis,das,Zeugnisse,report card; certificate,noun,main,,school_learning_exam
+zum Beispiel (z. B.),,,for example,phrase,main,,school_learning_exam
+der Antwortbogen,der,Antwortbögen,answer sheet,noun,group,,school_learning_exam
+die Aufgabe,die,Aufgaben,task; exercise,noun,group,,school_learning_exam
+das Beispiel,das,Beispiele,example,noun,group,,school_learning_exam
+die Lösung,die,Lösungen,solution; answer,noun,group,,school_learning_exam
+markieren,,,to mark,verb,group,,school_learning_exam
+der Prüfer,der,Prüfer,examiner,noun,group,"f: die Prüferin, -nen",school_learning_exam
+der Punkt,der,Punkte,point; dot,noun,group,,school_learning_exam
+der Teil,der,Teile,part,noun,group,,school_learning_exam
+der Test,der,Tests,test,noun,group,,school_learning_exam
+das Wörterbuch,das,Wörterbücher,dictionary,noun,group,,school_learning_exam
+der Lehrer,der,Lehrer,teacher,noun,group,"f: die Lehrerin, -nen",school_learning_exam
+das Abitur,das,,A-levels; school-leaving exam,noun,group,,school_learning_exam
+der Direktor,der,Direktoren,head teacher,noun,group,,school_learning_exam
+die Hausaufgabe,die,Hausaufgaben,homework,noun,group,,school_learning_exam
+die Klasse,die,Klassen,class; grade,noun,group,,school_learning_exam
+die Klassenfahrt,die,Klassenfahrten,class trip,noun,group,,school_learning_exam
+das Sekretariat,das,Sekretariate,school office,noun,group,,school_learning_exam
+der Stundenplan,der,Stundenpläne,timetable (school),noun,group,,school_learning_exam
+Biologie,,,biology,noun,group,,school_learning_exam
+Chemie,,,chemistry,noun,group,,school_learning_exam
+Deutsch,,,German (subject),noun,group,,school_learning_exam
+Englisch,,,English,noun,group,,school_learning_exam
+Französisch,,,French,noun,group,,school_learning_exam
+Geografie,,,geography,noun,group,,school_learning_exam
+Geschichte (Fach),,,history,noun,group,,school_learning_exam
+Kunst(erziehung),,,art,noun,group,,school_learning_exam
+Latein,,,Latin,noun,group,,school_learning_exam
+Mathematik,,,mathematics,noun,group,,school_learning_exam
+Musik (Fach),,,music,noun,group,,school_learning_exam
+Physik,,,physics,noun,group,,school_learning_exam
+Religion,,,religion,noun,group,,school_learning_exam
+Sozialkunde,,,social studies,noun,group,,school_learning_exam
+Sport (Fach),,,PE,noun,group,,school_learning_exam

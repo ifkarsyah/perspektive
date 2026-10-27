@@ -1,0 +1,31 @@
+german,article,plural,english,part_of_speech,entry_type,notes,context
+einkaufen,,,to shop,verb,main,separable,shopping_money_bank
+kaufen,,,to buy,verb,main,,shopping_money_bank
+verkaufen,,,to sell,verb,main,,shopping_money_bank
+der Verkäufer,der,Verkäufer,sales assistant,noun,derived,f: die Verkäuferin,shopping_money_bank
+der Kunde,der,Kunden,customer,noun,main,f: die Kundin,shopping_money_bank
+das Geschäft,das,Geschäfte,shop; store,noun,main,,shopping_money_bank
+der Laden,der,Läden,shop,noun,main,,shopping_money_bank
+der Kiosk,der,,kiosk,noun,main,,shopping_money_bank
+die Kasse,die,,checkout; cash desk,noun,main,,shopping_money_bank
+kosten,,,to cost,verb,main,,shopping_money_bank
+der Preis,der,Preise,price,noun,main,,shopping_money_bank
+billig,,,cheap,adj,main,,shopping_money_bank
+teuer,,,expensive,adj,main,,shopping_money_bank
+günstig,,,good value; reasonably priced,adj,main,,shopping_money_bank
+anbieten,,,to offer,verb,main,separable,shopping_money_bank
+das Angebot,das,Angebote,offer; special offer,noun,derived,im Angebot = on sale,shopping_money_bank
+die Kleidung,die,,clothing,noun,main,,shopping_money_bank
+die Jacke,die,Jacken,jacket,noun,main,,shopping_money_bank
+der Schuh,der,Schuhe,shoe,noun,main,,shopping_money_bank
+die Größe,die,,size,noun,derived,,shopping_money_bank
+die Tasche,die,Taschen,bag; pocket,noun,main,,shopping_money_bank
+das Geld,das,,money,noun,main,,shopping_money_bank
+bezahlen,,,to pay,verb,main,,shopping_money_bank
+zahlen,,,to pay,verb,main,"Zahlen, bitte!",shopping_money_bank
+bar,,,in cash,adv,main,,shopping_money_bank
+die (Kredit)Karte,die,Karten,(credit) card,noun,main,,shopping_money_bank
+die Rechnung,die,Rechnungen,bill; invoice,noun,main,,shopping_money_bank
+die Bank,die,,bank; bench,noun,main,two meanings,shopping_money_bank
+das Konto,das,,bank account,noun,main,,shopping_money_bank
+überweisen,,,to transfer (money),verb,main,,shopping_money_bank

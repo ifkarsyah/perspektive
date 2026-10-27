@@ -1,0 +1,63 @@
+german,article,plural,english,part_of_speech,entry_type,notes,context
+an,,,at; on (vertical),prep,main,,places_directions
+auf,,,on; onto,prep,main,,places_directions
+aus,,,out of; from,prep,main,,places_directions
+außerhalb,,,outside (of),prep,main,,places_directions
+die Bank (Sitz),die,Bänke,bench,noun,main,,places_directions
+bei,,,at; near; with,prep,main,,places_directions
+die Brücke,die,Brücken,bridge,noun,main,,places_directions
+da,,,there,adv,main,,places_directions
+daneben,,,next to it,adv,main,,places_directions
+das Dorf,das,Dörfer,village,noun,main,,places_directions
+dort,,,there,adv,main,also dorther / dorthin,places_directions
+draußen,,,outside,adv,main,,places_directions
+drinnen,,,inside,adv,main,,places_directions
+drüben,,,over there,adv,main,,places_directions
+durch,,,through,prep,main,,places_directions
+die Ecke,die,Ecken,corner,noun,main,,places_directions
+gegenüber,,,opposite,prep,main,,places_directions
+geradeaus,,,straight ahead,adv,main,,places_directions
+die Halle,die,Hallen,hall,noun,main,,places_directions
+die Hauptstadt,die,Hauptstädte,capital city,noun,main,,places_directions
+heraus/raus,,,out,adv,main,,places_directions
+herein/rein,,,in,adv,main,,places_directions
+hier,,,here,adv,main,,places_directions
+hin/hin-/-hin,,,there (away from speaker),adv,main,,places_directions
+hinten,,,at the back,adv,main,,places_directions
+hinter,,,behind,prep,main,,places_directions
+in,,,in; into,prep,main,,places_directions
+die Kirche,die,Kirchen,church,noun,main,,places_directions
+links,,,left,adv,main,,places_directions
+die Mitte,die,Mitten,middle,noun,main,,places_directions
+nach,,,to; after,prep,main,,places_directions
+die Nähe,die,,vicinity,noun,main,in der Nähe,places_directions
+neben,,,next to,prep,main,,places_directions
+nebenan,,,next door,adv,main,,places_directions
+nirgends,,,nowhere,adv,main,,places_directions
+oben,,,above; upstairs,adv,main,,places_directions
+der Ort,der,Orte,place; town,noun,main,,places_directions
+der Park,der,Parks,park,noun,main,,places_directions
+der Platz,der,Plätze,square; seat; space,noun,main,,places_directions
+rechts,,,right,adv,main,,places_directions
+die Stadt,die,Städte,city; town,noun,main,,places_directions
+die Straße,die,Straßen,street,noun,main,,places_directions
+über,,,over; about,prep,main,,places_directions
+überall,,,everywhere,adv,main,,places_directions
+unten,,,below; downstairs,adv,main,,places_directions
+unter,,,under,prep,main,,places_directions
+vor,,,in front of; before; ago,prep,main,,places_directions
+vorbei,,,past; over,adv,main,,places_directions
+vorn(e),,,at the front,adv,main,,places_directions
+vorwärts,,,forwards,adv,main,,places_directions
+weg / weg-,,,"away (wegfahren, weggehen, ...)",adv,main,,places_directions
+der Weg,der,Wege,way; path,noun,main,,places_directions
+weit,,,far,adj,main,,places_directions
+weiter,,,"further (weitermachen, weiterhelfen)",adv,main,,places_directions
+die Welt,die,Welten,world,noun,main,,places_directions
+das Zentrum,das,Zentren,centre,noun,main,,places_directions
+zurück / zurück-,,,"back (zurückfahren, ...)",adv,main,,places_directions
+zwischen,,,between,prep,main,,places_directions
+der Norden,der,,north,noun,group,,places_directions
+der Süden,der,,south,noun,group,,places_directions
+der Osten,der,,east,noun,group,,places_directions
+der Westen,der,,west,noun,group,,places_directions

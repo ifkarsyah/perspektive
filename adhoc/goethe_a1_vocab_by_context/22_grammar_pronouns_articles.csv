@@ -1,0 +1,26 @@
+german,article,plural,english,part_of_speech,entry_type,notes,context
+ich,,,I,pron,main,,grammar_pronouns_articles
+er,,,he,pron,main,,grammar_pronouns_articles
+es,,,it,pron,main,,grammar_pronouns_articles
+sie,,,she; they,pron,main,,grammar_pronouns_articles
+Sie,,,you (formal),pron,main,,grammar_pronouns_articles
+wir,,,we,pron,main,,grammar_pronouns_articles
+dich,,,you (acc.),pron,main,,grammar_pronouns_articles
+dir,,,you (dat.),pron,main,,grammar_pronouns_articles
+ihr / ihm / ihn,,,her / him (dat./acc.),pron,main,,grammar_pronouns_articles
+sich,,,oneself; himself; herself,pron,main,,grammar_pronouns_articles
+man,,,one; you (general),pron,main,,grammar_pronouns_articles
+mein,,,my,det,main,,grammar_pronouns_articles
+dein-,,,your (informal),det,main,,grammar_pronouns_articles
+sein,,,his,det,main,,grammar_pronouns_articles
+euer,,,your (pl.),det,main,,grammar_pronouns_articles
+unser-,,,our,det,main,,grammar_pronouns_articles
+"der, die, das",,,the; that; which,det,main,,grammar_pronouns_articles
+ein-,,,a; one,det,main,,grammar_pronouns_articles
+kein,,,no; not a,det,main,,grammar_pronouns_articles
+dies-,,,this,det,main,,grammar_pronouns_articles
+jed-,,,every; each,det,main,,grammar_pronouns_articles
+all-,,,all,det,main,Alles Gute!,grammar_pronouns_articles
+ander-,,,other,det,main,,grammar_pronouns_articles
+beide,,,both,det,main,,grammar_pronouns_articles
+meist-,,,most,det,main,,grammar_pronouns_articles

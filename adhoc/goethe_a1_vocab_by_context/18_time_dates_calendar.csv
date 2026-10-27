@@ -1,0 +1,73 @@
+german,article,plural,english,part_of_speech,entry_type,notes,context
+die Zeit,die,,time,noun,main,,time_dates_calendar
+zurzeit,,,at the moment,adv,derived,,time_dates_calendar
+die Uhr,die,,clock; o'clock,noun,main,,time_dates_calendar
+um,,,at (time); around,prep,main,um sieben Uhr,time_dates_calendar
+halb,,,half,adj,group,halb drei = 2:30,time_dates_calendar
+das Viertel,das,,quarter,noun,group,Viertel vor/nach zwei,time_dates_calendar
+die Sekunde,die,Sekunden,second,noun,group,,time_dates_calendar
+die Minute,die,Minuten,minute,noun,group,,time_dates_calendar
+die Stunde,die,Stunden,hour,noun,main,,time_dates_calendar
+der Tag,der,Tage,day,noun,group,,time_dates_calendar
+die Woche,die,Wochen,week,noun,group,"source prints -e, correct plural is Wochen",time_dates_calendar
+das Jahr,das,Jahre,year,noun,group,,time_dates_calendar
+der Monat,der,Monate,month,noun,group,,time_dates_calendar
+der Wochentag,der,Wochentage,weekday,noun,group,,time_dates_calendar
+der Montag,der,,Monday,noun,group,,time_dates_calendar
+der Dienstag,der,,Tuesday,noun,group,,time_dates_calendar
+der Mittwoch,der,,Wednesday,noun,group,,time_dates_calendar
+der Donnerstag,der,,Thursday,noun,group,,time_dates_calendar
+der Freitag,der,,Friday,noun,group,,time_dates_calendar
+der Samstag,der,,Saturday,noun,group,also der Sonnabend (north),time_dates_calendar
+der Sonntag,der,,Sunday,noun,group,,time_dates_calendar
+das Wochenende,das,,weekend,noun,group,am Wochenende,time_dates_calendar
+der Morgen,der,,morning,noun,group,,time_dates_calendar
+der Vormittag,der,Vormittage,late morning,noun,group,,time_dates_calendar
+der Mittag,der,,noon,noun,group,,time_dates_calendar
+der Nachmittag,der,Nachmittage,afternoon,noun,group,,time_dates_calendar
+der Abend,der,Abende,evening,noun,group,,time_dates_calendar
+die Nacht,die,Nächte,night,noun,group,,time_dates_calendar
+der Januar,der,,January,noun,group,,time_dates_calendar
+der Februar,der,,February,noun,group,,time_dates_calendar
+der März,der,,March,noun,group,,time_dates_calendar
+der April,der,,April,noun,group,,time_dates_calendar
+der Mai,der,,May,noun,group,,time_dates_calendar
+der Juni,der,,June,noun,group,,time_dates_calendar
+der Juli,der,,July,noun,group,,time_dates_calendar
+der August,der,,August,noun,group,,time_dates_calendar
+der September,der,,September,noun,group,,time_dates_calendar
+der Oktober,der,,October,noun,group,,time_dates_calendar
+der November,der,,November,noun,group,,time_dates_calendar
+der Dezember,der,,December,noun,group,,time_dates_calendar
+das Datum,das,,date,noun,main,,time_dates_calendar
+heute,,,today,adv,main,,time_dates_calendar
+gestern,,,yesterday,adv,main,,time_dates_calendar
+morgen,,,tomorrow,adv,main,,time_dates_calendar
+jetzt,,,now,adv,main,,time_dates_calendar
+gerade,,,just now,adv,main,,time_dates_calendar
+bald,,,soon,adv,main,,time_dates_calendar
+sofort,,,immediately,adv,main,,time_dates_calendar
+spät,,,late,adj,main,,time_dates_calendar
+später,,,later,adv,main,,time_dates_calendar
+früher,,,earlier; in the past,adv,main,,time_dates_calendar
+pünktlich,,,punctual; on time,adj,main,,time_dates_calendar
+immer,,,always,adv,main,,time_dates_calendar
+oft,,,often,adv,main,,time_dates_calendar
+einmal,,,once,adv,main,,time_dates_calendar
+schon,,,already,adv,main,,time_dates_calendar
+lange,,,(for) a long time,adv,main,,time_dates_calendar
+seit,,,since; for,prep,main,,time_dates_calendar
+ab,,,from (time),prep,main,,time_dates_calendar
+bis,,,until; up to,prep,main,,time_dates_calendar
+nächst-,,,next,adj,main,,time_dates_calendar
+letzt-,,,last,adj,main,,time_dates_calendar
+der Moment,der,,moment,noun,main,Einen Moment bitte.,time_dates_calendar
+dauern,,,to last; to take (time),verb,main,,time_dates_calendar
+anfangen,,,to begin,verb,main,separable,time_dates_calendar
+der Anfang,der,,beginning,noun,derived,,time_dates_calendar
+beginnen,,,to begin,verb,main,,time_dates_calendar
+aufhören,,,to stop; to end,verb,main,separable,time_dates_calendar
+enden,,,to end,verb,main,,time_dates_calendar
+das Ende,das,,end,noun,derived,,time_dates_calendar
+der Schluss,der,,end,noun,main,Schluss machen,time_dates_calendar
+Feier-,,,holiday- / after-work-,prefix,main,"Feierabend, Feiertag",time_dates_calendar

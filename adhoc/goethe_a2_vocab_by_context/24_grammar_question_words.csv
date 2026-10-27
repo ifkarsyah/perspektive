@@ -1,0 +1,11 @@
+german,article,plural,english,part_of_speech,entry_type,notes,context
+wann,,,when,adv,main,,grammar_question_words
+warum,,,why,adv,main,,grammar_question_words
+was,,,what,pron,main,,grammar_question_words
+"welcher, welche, welches",,,which,det,main,,grammar_question_words
+wer,,,who,pron,main,"wen, wem",grammar_question_words
+wie,,,how; like; as,adv,main,,grammar_question_words
+wie viel,,,how much,adv,main,,grammar_question_words
+wo,,,where,adv,main,,grammar_question_words
+woher,,,where from,adv,main,,grammar_question_words
+wohin,,,where to,adv,main,,grammar_question_words

@@ -1,0 +1,52 @@
+german,article,plural,english,part_of_speech,entry_type,notes,context
+essen,,,to eat,verb,main,,food_drink_restaurant
+das Essen,das,,food; meal,noun,derived,,food_drink_restaurant
+trinken,,,to drink,verb,main,,food_drink_restaurant
+das Getränk,das,Getränke,drink,noun,main,,food_drink_restaurant
+der Hunger,der,,hunger,noun,main,Ich habe Hunger.,food_drink_restaurant
+der Durst,der,,thirst,noun,main,Ich habe Durst.,food_drink_restaurant
+frühstücken,,,to have breakfast,verb,main,,food_drink_restaurant
+das Frühstück,das,,breakfast,noun,derived,,food_drink_restaurant
+kochen,,,to cook,verb,main,,food_drink_restaurant
+grillen,,,to barbecue,verb,main,,food_drink_restaurant
+schmecken,,,to taste,verb,main,,food_drink_restaurant
+riechen,,,to smell,verb,main,,food_drink_restaurant
+bitter,,,bitter,adj,main,,food_drink_restaurant
+das Restaurant,das,Restaurants,restaurant,noun,main,,food_drink_restaurant
+das Café,das,Cafés,café,noun,main,,food_drink_restaurant
+das Lokal,das,,pub; restaurant,noun,main,,food_drink_restaurant
+die Speisekarte,die,,menu,noun,main,,food_drink_restaurant
+bestellen,,,to order,verb,main,,food_drink_restaurant
+empfehlen,,,to recommend,verb,main,,food_drink_restaurant
+die Bäckerei,die,,bakery,noun,main,,food_drink_restaurant
+die Lebensmittel,die,(pl.),groceries,noun,derived,plural only,food_drink_restaurant
+das Brot,das,Brote,bread,noun,main,,food_drink_restaurant
+das Brötchen,das,Brötchen,bread roll,noun,main,,food_drink_restaurant
+die Butter,die,,butter,noun,main,,food_drink_restaurant
+das Ei,das,Eier,egg,noun,main,,food_drink_restaurant
+der Schinken,der,Schinken,ham,noun,main,,food_drink_restaurant
+das Fleisch,das,,meat,noun,main,,food_drink_restaurant
+der Fisch,der,Fische,fish,noun,main,,food_drink_restaurant
+das Hähnchen,das,Hähnchen,chicken,noun,main,,food_drink_restaurant
+die Pommes frites,die,(pl.),French fries,noun,main,plural only,food_drink_restaurant
+die Kartoffel,die,Kartoffeln,potato,noun,main,,food_drink_restaurant
+der Reis,der,,rice,noun,main,,food_drink_restaurant
+der Salat,der,,salad; lettuce,noun,main,,food_drink_restaurant
+das Gemüse,das,,vegetables,noun,main,,food_drink_restaurant
+die Tomate,die,Tomaten,tomato,noun,main,,food_drink_restaurant
+das Obst,das,,fruit,noun,main,,food_drink_restaurant
+der Apfel,der,Äpfel,apple,noun,main,,food_drink_restaurant
+die Banane,die,Bananen,banana,noun,main,,food_drink_restaurant
+die Birne,die,Birnen,pear,noun,main,,food_drink_restaurant
+der Kuchen,der,,cake,noun,main,,food_drink_restaurant
+das Salz,das,,salt,noun,main,,food_drink_restaurant
+das Öl,das,,oil,noun,main,,food_drink_restaurant
+die Milch,die,,milk,noun,main,,food_drink_restaurant
+der Kaffee,der,,coffee,noun,main,,food_drink_restaurant
+der Tee,der,,tea,noun,main,,food_drink_restaurant
+der Saft,der,,juice,noun,main,,food_drink_restaurant
+das Wasser,das,,water,noun,main,,food_drink_restaurant
+das Bier,das,,beer,noun,main,,food_drink_restaurant
+der Wein,der,,wine,noun,main,,food_drink_restaurant
+die Flasche,die,Flaschen,bottle,noun,main,,food_drink_restaurant
+das Glas,das,Gläser,glass,noun,main,,food_drink_restaurant

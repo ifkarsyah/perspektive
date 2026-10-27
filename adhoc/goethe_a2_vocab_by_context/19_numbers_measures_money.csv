@@ -1,0 +1,41 @@
+german,article,plural,english,part_of_speech,entry_type,notes,context
+die Menge,die,Mengen,amount; crowd,noun,main,,numbers_measures_money
+mindestens,,,at least,adv,main,,numbers_measures_money
+die Nummer,die,Nummern,number,noun,main,,numbers_measures_money
+das Paar,das,Paare,pair; couple,noun,main,,numbers_measures_money
+ein paar,,,a few,det,main,,numbers_measures_money
+pro,,,per,prep,main,,numbers_measures_money
+das Stück,das,Stücke,piece,noun,main,,numbers_measures_money
+die Zahl,die,Zahlen,number,noun,main,,numbers_measures_money
+der Euro,der,,euro,noun,group,1 Euro = 100 Cent,numbers_measures_money
+der Cent,der,,cent,noun,group,,numbers_measures_money
+der Franken,der,,Swiss franc,noun,group,1 Franken = 100 Rappen,numbers_measures_money
+der Rappen,der,,Rappen (Swiss cent),noun,group,,numbers_measures_money
+der Meter,der,,metre,noun,group,,numbers_measures_money
+der Zentimeter,der,,centimetre,noun,group,,numbers_measures_money
+der Kilometer,der,,kilometre,noun,group,,numbers_measures_money
+das Prozent,das,,percent,noun,group,,numbers_measures_money
+der Liter,der,,litre,noun,group,,numbers_measures_money
+das Gramm,das,,gram,noun,group,,numbers_measures_money
+das Kilogramm,das,,kilogram,noun,group,,numbers_measures_money
+null,,,zero,num,group,,numbers_measures_money
+eins,,,one,num,group,,numbers_measures_money
+zwei,,,two,num,group,,numbers_measures_money
+drei,,,three,num,group,,numbers_measures_money
+vier,,,four,num,group,,numbers_measures_money
+fünf,,,five,num,group,,numbers_measures_money
+sechs,,,six,num,group,,numbers_measures_money
+sieben,,,seven,num,group,,numbers_measures_money
+acht,,,eight,num,group,,numbers_measures_money
+neun,,,nine,num,group,,numbers_measures_money
+zehn,,,ten,num,group,,numbers_measures_money
+elf,,,eleven,num,group,,numbers_measures_money
+zwölf,,,twelve,num,group,,numbers_measures_money
+dreizehn,,,thirteen,num,group,,numbers_measures_money
+zwanzig,,,twenty,num,group,,numbers_measures_money
+einundzwanzig,,,twenty-one,num,group,,numbers_measures_money
+dreißig,,,thirty,num,group,,numbers_measures_money
+hundert,,,hundred,num,group,,numbers_measures_money
+tausend,,,thousand,num,group,,numbers_measures_money
+die Million,die,Millionen,million,noun,group,,numbers_measures_money
+erste / zweite / dritte,,,first / second / third,num,group,,numbers_measures_money

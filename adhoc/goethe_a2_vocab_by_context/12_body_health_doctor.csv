@@ -1,0 +1,42 @@
+german,article,plural,english,part_of_speech,entry_type,notes,context
+die Apotheke,die,Apotheken,pharmacy,noun,main,,body_health_doctor
+der Arm,der,Arme,arm,noun,main,,body_health_doctor
+das Auge,das,Augen,eye,noun,main,,body_health_doctor
+der Bauch,der,Bäuche,belly; stomach,noun,main,,body_health_doctor
+das Bein,das,Beine,leg,noun,main,,body_health_doctor
+erkältet sein,,,to have a cold,verb,main,,body_health_doctor
+das Fieber,das,,fever,noun,main,,body_health_doctor
+fit sein,,,to be fit,verb,main,,body_health_doctor
+der Fuß,der,Füße,foot,noun,main,zu Fuß = on foot,body_health_doctor
+das Gesicht,das,Gesichter,face,noun,main,,body_health_doctor
+gesund,,,healthy,adj,main,,body_health_doctor
+die Gesundheit,die,,health,noun,main,,body_health_doctor
+die Grippe,die,,flu,noun,main,,body_health_doctor
+das Haar,das,Haare,hair,noun,main,,body_health_doctor
+der Hals,der,Hälse,throat; neck,noun,main,,body_health_doctor
+die Hand,die,Hände,hand,noun,main,,body_health_doctor
+husten,,,to cough,verb,main,,body_health_doctor
+der Kopf,der,Köpfe,head,noun,main,,body_health_doctor
+der Körper,der,Körper,body,noun,main,,body_health_doctor
+krank,,,sick; ill,adj,main,,body_health_doctor
+das Krankenhaus,das,Krankenhäuser,hospital,noun,main,,body_health_doctor
+die Krankenkasse,die,Krankenkassen,health insurance,noun,main,,body_health_doctor
+die Krankheit,die,Krankheiten,illness,noun,main,,body_health_doctor
+der Magen,der,Mägen,stomach,noun,main,,body_health_doctor
+das Medikament,das,Medikamente,medicine,noun,main,,body_health_doctor
+der Mund,der,Münder,mouth,noun,main,,body_health_doctor
+das Ohr,das,Ohren,ear,noun,main,,body_health_doctor
+die Praxis,die,Praxen,doctor's practice,noun,main,,body_health_doctor
+der Rücken,der,Rücken,back,noun,main,,body_health_doctor
+schädlich,,,harmful,adj,main,,body_health_doctor
+der Schmerz,der,Schmerzen,pain,noun,main,,body_health_doctor
+schwanger,,,pregnant,adj,main,,body_health_doctor
+die Sprechstunde,die,Sprechstunden,office hours (doctor),noun,main,,body_health_doctor
+die Tablette,die,Tabletten,pill,noun,main,,body_health_doctor
+untersuchen,,,to examine,verb,main,,body_health_doctor
+(sich) verletzen,,,to injure (oneself),verb,main,,body_health_doctor
+wehtun,,,to hurt,verb,main,,body_health_doctor
+der Zahn,der,Zähne,tooth,noun,main,,body_health_doctor
+der Arzt,der,Ärzte,doctor,noun,group,"f: die Ärztin, -nen",body_health_doctor
+der Doktor,der,Doktoren,doctor,noun,group,,body_health_doctor
+der Krankenpfleger,der,Krankenpfleger,nurse (m),noun,group,"f: die Krankenschwester, -n",body_health_doctor

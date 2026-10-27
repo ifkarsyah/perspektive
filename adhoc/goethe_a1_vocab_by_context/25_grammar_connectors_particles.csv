@@ -1,0 +1,34 @@
+german,article,plural,english,part_of_speech,entry_type,notes,context
+und,,,and,conj,main,,grammar_connectors_particles
+oder,,,or,conj,main,,grammar_connectors_particles
+aber,,,but,conj,main,,grammar_connectors_particles
+denn,,,because,conj,main,,grammar_connectors_particles
+also,,,so; therefore,adv,main,,grammar_connectors_particles
+dann,,,then,adv,main,,grammar_connectors_particles
+so,,,so; like this,adv,main,,grammar_connectors_particles
+auch,,,also; too,adv,main,,grammar_connectors_particles
+noch,,,still; yet; more,adv,main,,grammar_connectors_particles
+nur,,,only,adv,main,,grammar_connectors_particles
+sehr,,,very,adv,main,,grammar_connectors_particles
+ja,,,yes,particle,main,,grammar_connectors_particles
+nein,,,no,particle,main,,grammar_connectors_particles
+nicht,,,not,adv,main,,grammar_connectors_particles
+nichts,,,nothing,pron,main,,grammar_connectors_particles
+nie,,,never,adv,main,,grammar_connectors_particles
+vielleicht,,,maybe,adv,main,,grammar_connectors_particles
+leider,,,unfortunately,adv,main,,grammar_connectors_particles
+gern(e),,,gladly; like to,adv,main,,grammar_connectors_particles
+lieber,,,rather; prefer,adv,derived,,grammar_connectors_particles
+klar,,,clear; sure,adj,main,Klar!,grammar_connectors_particles
+gleich,,,same; right away,adj,main,,grammar_connectors_particles
+zusammen,,,together,adv,main,,grammar_connectors_particles
+viel,,,much; a lot,det,main,,grammar_connectors_particles
+wenig,,,little; few,det,main,,grammar_connectors_particles
+mehr,,,more,det,main,,grammar_connectors_particles
+bisschen,,,a little bit,det,main,ein bisschen,grammar_connectors_particles
+mit,,,with,prep,main,,grammar_connectors_particles
+ohne,,,without,prep,main,,grammar_connectors_particles
+für,,,for,prep,main,,grammar_connectors_particles
+gegen,,,against,prep,main,,grammar_connectors_particles
+von,,,from; of,prep,main,,grammar_connectors_particles
+zu,,,to; too,prep,main,,grammar_connectors_particles

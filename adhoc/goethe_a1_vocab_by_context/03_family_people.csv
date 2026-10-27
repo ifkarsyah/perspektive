@@ -1,0 +1,37 @@
+german,article,plural,english,part_of_speech,entry_type,notes,context
+die Familie,die,Familien,family,noun,main,,family_people
+die Eltern,die,(pl.),parents,noun,main,plural only,family_people
+die Mutter,die,Mütter,mother,noun,main,,family_people
+der Vater,der,Väter,father,noun,main,,family_people
+das Kind,das,Kinder,child,noun,main,,family_people
+der Sohn,der,Söhne,son,noun,main,,family_people
+die Tochter,die,Töchter,daughter,noun,main,,family_people
+der Bruder,der,Brüder,brother,noun,main,,family_people
+die Schwester,die,Schwestern,sister,noun,main,,family_people
+die Geschwister,die,(pl.),siblings,noun,main,plural only,family_people
+die Großeltern,die,(pl.),grandparents,noun,main,plural only,family_people
+die Großmutter,die,,grandmother,noun,derived,,family_people
+der Großvater,der,,grandfather,noun,derived,,family_people
+die Oma,die,Omas,grandma,noun,main,,family_people
+der Opa,der,Opas,grandpa,noun,main,,family_people
+das Baby,das,Babys,baby,noun,main,,family_people
+der Junge,der,Jungen,boy,noun,main,,family_people
+das Mädchen,das,Mädchen,girl,noun,main,,family_people
+die Ehefrau,die,Ehefrauen,wife,noun,main,,family_people
+der Ehemann,der,Ehemänner,husband,noun,main,,family_people
+der Partner,der,Partner,partner,noun,main,"f: die Partnerin, Partnerinnen",family_people
+der Verwandte,der,Verwandten,relative,noun,main,,family_people
+heiraten,,,to marry,verb,main,,family_people
+die Hochzeit,die,,wedding,noun,main,,family_people
+sich kümmern,,,to look after; to take care of,verb,main,um + Akk.,family_people
+tot,,,dead,adj,main,,family_people
+gestorben,,,died; dead,adj,main,,family_people
+die Frau,die,Frauen,woman; wife; Mrs,noun,main,,family_people
+der Mann,der,Männer,man; husband,noun,main,,family_people
+der Mensch,der,Menschen,human; person,noun,main,,family_people
+die Leute,die,(pl.),people,noun,main,plural only,family_people
+der Erwachsene,der,Erwachsenen,adult,noun,main,,family_people
+der Jugendliche,der,Jugendlichen,young person; teenager,noun,main,,family_people
+der Freund,der,Freunde,friend; boyfriend,noun,main,f: die Freundin,family_people
+der/die Bekannte,der/die,Bekannten,acquaintance,noun,main,,family_people
+lieben,,,to love,verb,derived,,family_people

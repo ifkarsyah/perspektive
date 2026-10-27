@@ -1,0 +1,114 @@
+german,article,plural,english,part_of_speech,entry_type,notes,context
+aktiv,,,active,adj,main,,adjectives_colors
+aktuell,,,current; up to date,adj,main,,adjectives_colors
+allein,,,alone,adj,main,,adjectives_colors
+alt,,,old,adj,main,,adjectives_colors
+anders,,,different(ly),adv,main,,adjectives_colors
+arm,,,poor,adj,main,,adjectives_colors
+aussehen,,,to look; to appear,verb,main,separable,adjectives_colors
+automatisch,,,automatic,adj,main,,adjectives_colors
+bekannt,,,well-known,adj,main,,adjectives_colors
+beliebt,,,popular,adj,main,,adjectives_colors
+bequem,,,comfortable,adj,main,,adjectives_colors
+berühmt,,,famous,adj,main,,adjectives_colors
+besetzt,,,busy; occupied,adj,main,,adjectives_colors
+blöd,,,stupid; silly,adj,main,,adjectives_colors
+blond,,,blond,adj,main,,adjectives_colors
+böse,,,angry; evil,adj,main,,adjectives_colors
+bunt,,,colourful,adj,main,,adjectives_colors
+deutlich,,,clear(ly),adj,main,,adjectives_colors
+dick,,,fat; thick,adj,main,,adjectives_colors
+direkt,,,direct(ly),adj,main,,adjectives_colors
+dringend,,,urgent,adj,main,,adjectives_colors
+dumm,,,stupid,adj,main,,adjectives_colors
+dunkel,,,dark,adj,main,,adjectives_colors
+dünn,,,thin,adj,main,,adjectives_colors
+eilig,,,urgent; in a hurry,adj,main,,adjectives_colors
+einfach,,,simple; single (ticket),adj,main,,adjectives_colors
+einzel-,,,single; individual,adj,main,,adjectives_colors
+eng,,,narrow; tight,adj,main,,adjectives_colors
+falsch,,,wrong,adj,main,,adjectives_colors
+fantastisch,,,fantastic,adj,main,,adjectives_colors
+die Farbe,die,Farben,colour,noun,main,,adjectives_colors
+faul,,,lazy,adj,main,,adjectives_colors
+fertig sein,,,to be ready; to be finished,verb,main,,adjectives_colors
+fleißig,,,hard-working,adj,main,,adjectives_colors
+frei,,,free; vacant,adj,main,,adjectives_colors
+freiwillig,,,voluntary,adj,main,,adjectives_colors
+fremd,,,foreign; unfamiliar,adj,main,,adjectives_colors
+freundlich,,,friendly,adj,main,,adjectives_colors
+furchtbar,,,terrible,adj,main,,adjectives_colors
+gefährlich,,,dangerous,adj,main,,adjectives_colors
+groß,,,big; tall,adj,main,,adjectives_colors
+gut,,,good,adj,main,"besser, am besten",adjectives_colors
+hart,,,hard,adj,main,,adjectives_colors
+hässlich,,,ugly,adj,main,,adjectives_colors
+hell,,,bright; light,adj,main,,adjectives_colors
+hoch,,,high,adj,main,,adjectives_colors
+intelligent,,,intelligent,adj,main,,adjectives_colors
+interessant,,,interesting,adj,main,,adjectives_colors
+international,,,international,adj,main,,adjectives_colors
+jung,,,young,adj,main,,adjectives_colors
+kaputt,,,broken,adj,main,,adjectives_colors
+klein,,,small,adj,main,,adjectives_colors
+klug,,,clever,adj,main,,adjectives_colors
+komisch,,,strange; funny,adj,main,,adjectives_colors
+kurz,,,short,adj,main,,adjectives_colors
+lang,,,long,adj,main,,adjectives_colors
+langsam,,,slow,adj,main,,adjectives_colors
+laut,,,loud,adj,main,,adjectives_colors
+leer,,,empty,adj,main,,adjectives_colors
+leicht,,,easy; light,adj,main,,adjectives_colors
+leise,,,quiet,adj,main,,adjectives_colors
+lustig,,,funny,adj,main,,adjectives_colors
+modern,,,modern,adj,main,,adjectives_colors
+möglich,,,possible,adj,main,,adjectives_colors
+nett,,,nice; kind,adj,main,,adjectives_colors
+neu,,,new,adj,main,,adjectives_colors
+normal,,,normal,adj,main,,adjectives_colors
+notwendig,,,necessary,adj,main,,adjectives_colors
+nützlich,,,useful,adj,main,,adjectives_colors
+praktisch,,,practical,adj,main,,adjectives_colors
+privat,,,private,adj,main,,adjectives_colors
+reich,,,rich,adj,main,,adjectives_colors
+richtig,,,correct,adj,main,,adjectives_colors
+romantisch,,,romantic,adj,main,,adjectives_colors
+die Ruhe,die,,quiet; calm,noun,main,,adjectives_colors
+ruhig,,,calm; quiet,adj,main,,adjectives_colors
+rund,,,round,adj,main,,adjectives_colors
+schlecht,,,bad,adj,main,,adjectives_colors
+schlimm,,,bad; serious,adj,main,,adjectives_colors
+schnell,,,fast,adj,main,,adjectives_colors
+schön,,,beautiful; nice,adj,main,,adjectives_colors
+schrecklich,,,terrible,adj,main,,adjectives_colors
+schwach,,,weak,adj,main,,adjectives_colors
+schwer,,,heavy; difficult,adj,main,,adjectives_colors
+schwierig,,,difficult,adj,main,,adjectives_colors
+sicher,,,safe; sure,adj,main,,adjectives_colors
+sportlich,,,sporty,adj,main,,adjectives_colors
+stark,,,strong,adj,main,,adjectives_colors
+streng,,,strict,adj,main,,adjectives_colors
+super,,,great,adj,main,,adjectives_colors
+sympathisch,,,likeable,adj,main,,adjectives_colors
+tief,,,deep,adj,main,,adjectives_colors
+toll,,,great,adj,main,,adjectives_colors
+typisch,,,typical,adj,main,,adjectives_colors
+verschieden,,,different,adj,main,,adjectives_colors
+voll,,,full,adj,main,,adjectives_colors
+vorsichtig,,,careful,adj,main,,adjectives_colors
+wahr,,,true,adj,main,,adjectives_colors
+weich,,,soft,adj,main,,adjectives_colors
+wichtig,,,important,adj,main,,adjectives_colors
+witzig,,,funny,adj,main,,adjectives_colors
+wunderbar,,,wonderful,adj,main,,adjectives_colors
+blau,,,blue,adj,group,,adjectives_colors
+braun,,,brown,adj,group,,adjectives_colors
+gelb,,,yellow,adj,group,,adjectives_colors
+grau,,,grey,adj,group,,adjectives_colors
+grün,,,green,adj,group,,adjectives_colors
+lila,,,purple,adj,group,,adjectives_colors
+orange,,,orange,adj,group,,adjectives_colors
+rosa,,,pink,adj,group,,adjectives_colors
+rot,,,red,adj,group,,adjectives_colors
+schwarz,,,black,adj,group,,adjectives_colors
+weiß,,,white,adj,group,,adjectives_colors

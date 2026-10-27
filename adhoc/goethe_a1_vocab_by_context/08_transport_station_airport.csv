@@ -1,0 +1,36 @@
+german,article,plural,english,part_of_speech,entry_type,notes,context
+fahren,,,to drive; to go (by vehicle),verb,main,,transport_station_airport
+der Fahrer,der,,driver,noun,derived,,transport_station_airport
+abfahren,,,to depart,verb,main,separable,transport_station_airport
+die Abfahrt,die,,departure,noun,derived,,transport_station_airport
+ankommen,,,to arrive,verb,main,separable,transport_station_airport
+die Ankunft,die,,arrival,noun,main,,transport_station_airport
+einsteigen,,,to get on (a vehicle),verb,main,separable,transport_station_airport
+aussteigen,,,to get off (a vehicle),verb,main,separable,transport_station_airport
+halten,,,to stop; to hold,verb,main,,transport_station_airport
+die Haltestelle,die,,"stop (bus, tram)",noun,main,,transport_station_airport
+der Bahnhof,der,,train station,noun,main,,transport_station_airport
+der Bahnsteig,der,,platform,noun,main,,transport_station_airport
+das Gleis,das,Gleise,track; platform,noun,main,,transport_station_airport
+der Anschluss,der,,connection,noun,main,,transport_station_airport
+die Bahn,die,,train; railway,noun,main,,transport_station_airport
+der Zug,der,Züge,train,noun,main,,transport_station_airport
+die S-Bahn,die,,suburban train,noun,main,,transport_station_airport
+die Straßenbahn,die,,tram,noun,main,,transport_station_airport
+der Bus,der,Busse,bus,noun,main,,transport_station_airport
+das Taxi,das,Taxis,taxi,noun,main,,transport_station_airport
+das Auto,das,Autos,car,noun,main,,transport_station_airport
+die Autobahn,die,Autobahnen,motorway,noun,main,,transport_station_airport
+der Lkw,der,Lkws,truck,noun,main,Lastkraftwagen,transport_station_airport
+das Fahrrad,das,Fahrräder,bicycle,noun,main,,transport_station_airport
+die Fahrkarte,die,Fahrkarten,ticket,noun,main,,transport_station_airport
+das Ticket,das,Tickets,ticket,noun,main,,transport_station_airport
+der Automat,der,,vending machine,noun,main,,transport_station_airport
+die Ansage,die,Ansagen,announcement,noun,main,,transport_station_airport
+die Durchsage,die,Durchsagen,announcement (loudspeaker),noun,main,,transport_station_airport
+die Auskunft,die,Auskünfte,information,noun,main,,transport_station_airport
+fliegen,,,to fly,verb,main,,transport_station_airport
+abfliegen,,,to take off,verb,derived,separable,transport_station_airport
+der Abflug,der,,departure (flight),noun,derived,,transport_station_airport
+der Flughafen,der,,airport,noun,main,,transport_station_airport
+das Flugzeug,das,,airplane,noun,main,,transport_station_airport

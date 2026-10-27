@@ -1,0 +1,795 @@
+german,article,plural,english,part_of_speech,entry_type,notes,context
+hallo,,,hello,interj,main,,greetings_courtesy
+tschüss,,,bye (informal),interj,main,,greetings_courtesy
+das Wiedersehen,das,,seeing again,noun,main,Auf Wiedersehen! = goodbye,greetings_courtesy
+das Wiederhören,das,,hearing again,noun,main,Auf Wiederhören! = goodbye (phone),greetings_courtesy
+bitte,,,please; you're welcome,adv,main,,greetings_courtesy
+die Bitte,die,Bitten,request,noun,derived,,greetings_courtesy
+bitten,,,to ask (for),verb,derived,um etwas bitten,greetings_courtesy
+danken,,,to thank,verb,main,,greetings_courtesy
+der Dank,der,,thanks,noun,derived,Vielen Dank! / Herzlichen Dank!,greetings_courtesy
+danke,,,thank you,interj,derived,,greetings_courtesy
+entschuldigen,,,to excuse,verb,main,Entschuldigen Sie bitte!,greetings_courtesy
+die Entschuldigung,die,,excuse me; apology,noun,derived,,greetings_courtesy
+der Herr,der,Herren,Mr; gentleman,noun,main,,greetings_courtesy
+die Dame,die,Damen,lady,noun,main,Sehr geehrte Damen und Herren,greetings_courtesy
+herzlich,,,warm; heartfelt,adj,main,Herzlich willkommen! / Herzlichen Glückwunsch!,greetings_courtesy
+willkommen,,,welcome,adj,main,,greetings_courtesy
+der Gruß,der,Grüße,greeting,noun,main,Mit freundlichen Grüßen,greetings_courtesy
+lieb-,,,dear (letter opening),adj,main,"Liebe Susanne, lieber Hans",greetings_courtesy
+die Anrede,die,,form of address; salutation,noun,main,,greetings_courtesy
+das Glück,das,,luck; happiness,noun,main,Viel Glück!,greetings_courtesy
+der Glückwunsch,der,,congratulations,noun,main,Herzlichen Glückwunsch zum Geburtstag!,greetings_courtesy
+gratulieren,,,to congratulate,verb,main,,greetings_courtesy
+(sich) vorstellen,,,to introduce (oneself),verb,main,separable,greetings_courtesy
+kennenlernen,,,to get to know; to meet,verb,derived,,greetings_courtesy
+die Ordnung,die,,order,noun,main,Das ist in Ordnung. = That's OK.,greetings_courtesy
+der Appetit,der,,appetite,noun,main,Guten Appetit!,greetings_courtesy
+das Formular,das,Formulare,form,noun,main,,personal_info_forms_authorities
+ausfüllen,,,to fill out,verb,main,separable,personal_info_forms_authorities
+ankreuzen,,,to tick; to mark with a cross,verb,main,separable,personal_info_forms_authorities
+unterschreiben,,,to sign,verb,main,,personal_info_forms_authorities
+die Unterschrift,die,,signature,noun,main,,personal_info_forms_authorities
+der Name,der,Namen,name,noun,main,,personal_info_forms_authorities
+der Vorname,der,Vornamen,first name,noun,main,,personal_info_forms_authorities
+der Familienname,der,,surname,noun,derived,,personal_info_forms_authorities
+der Familienstand,der,,marital status,noun,derived,,personal_info_forms_authorities
+ledig,,,single (unmarried),adj,main,,personal_info_forms_authorities
+verheiratet,,,married,adj,main,,personal_info_forms_authorities
+geboren,,,born,adj,main,Wo sind Sie geboren?,personal_info_forms_authorities
+das Geburtsjahr,das,,year of birth,noun,main,,personal_info_forms_authorities
+der Geburtsort,der,,place of birth,noun,main,,personal_info_forms_authorities
+das Alter,das,,age,noun,main,,personal_info_forms_authorities
+weiblich,,,female,adj,main,,personal_info_forms_authorities
+männlich,,,male,adj,derived,,personal_info_forms_authorities
+die Adresse,die,Adressen,address,noun,main,,personal_info_forms_authorities
+die Postleitzahl,die,,postcode,noun,main,,personal_info_forms_authorities
+der Ausweis,der,,ID card,noun,main,,personal_info_forms_authorities
+der Pass,der,Pässe,passport,noun,main,,personal_info_forms_authorities
+die Papiere,die,(pl.),documents; papers,noun,main,plural only,personal_info_forms_authorities
+gültig,,,valid,adj,main,,personal_info_forms_authorities
+(sich) anmelden,,,to register,verb,main,separable,personal_info_forms_authorities
+die Anmeldung,die,,registration; reception desk,noun,derived,,personal_info_forms_authorities
+der Beamte,der,Beamten,civil servant; official,noun,main,f: die Beamtin,personal_info_forms_authorities
+der Schalter,der,,"counter (office, station)",noun,main,,personal_info_forms_authorities
+die Polizei,die,,police,noun,main,,personal_info_forms_authorities
+heißen,,,to be called,verb,main,Ich heiße ...,personal_info_forms_authorities
+die Heimat,die,,home country; homeland,noun,main,,personal_info_forms_authorities
+Deutschland,,,Germany,noun,group,,personal_info_forms_authorities
+der/die Deutsche,der/die,Deutschen,German (person),noun,group,ein Deutscher / eine Deutsche,personal_info_forms_authorities
+deutsch,,,German (adj.),adj,group,auf Deutsch,personal_info_forms_authorities
+Europa,,,Europe,noun,group,,personal_info_forms_authorities
+der Europäer,der,Europäer,European (person),noun,group,,personal_info_forms_authorities
+europäisch,,,European (adj.),adj,group,,personal_info_forms_authorities
+das Land,das,Länder,country,noun,main,,personal_info_forms_authorities
+das Ausland,das,,abroad; foreign countries,noun,main,,personal_info_forms_authorities
+der Ausländer,der,Ausländer,foreigner,noun,derived,f: die Ausländerin,personal_info_forms_authorities
+ausländisch,,,foreign,adj,derived,,personal_info_forms_authorities
+die Familie,die,Familien,family,noun,main,,family_people
+die Eltern,die,(pl.),parents,noun,main,plural only,family_people
+die Mutter,die,Mütter,mother,noun,main,,family_people
+der Vater,der,Väter,father,noun,main,,family_people
+das Kind,das,Kinder,child,noun,main,,family_people
+der Sohn,der,Söhne,son,noun,main,,family_people
+die Tochter,die,Töchter,daughter,noun,main,,family_people
+der Bruder,der,Brüder,brother,noun,main,,family_people
+die Schwester,die,Schwestern,sister,noun,main,,family_people
+die Geschwister,die,(pl.),siblings,noun,main,plural only,family_people
+die Großeltern,die,(pl.),grandparents,noun,main,plural only,family_people
+die Großmutter,die,,grandmother,noun,derived,,family_people
+der Großvater,der,,grandfather,noun,derived,,family_people
+die Oma,die,Omas,grandma,noun,main,,family_people
+der Opa,der,Opas,grandpa,noun,main,,family_people
+das Baby,das,Babys,baby,noun,main,,family_people
+der Junge,der,Jungen,boy,noun,main,,family_people
+das Mädchen,das,Mädchen,girl,noun,main,,family_people
+die Ehefrau,die,Ehefrauen,wife,noun,main,,family_people
+der Ehemann,der,Ehemänner,husband,noun,main,,family_people
+der Partner,der,Partner,partner,noun,main,"f: die Partnerin, Partnerinnen",family_people
+der Verwandte,der,Verwandten,relative,noun,main,,family_people
+heiraten,,,to marry,verb,main,,family_people
+die Hochzeit,die,,wedding,noun,main,,family_people
+sich kümmern,,,to look after; to take care of,verb,main,um + Akk.,family_people
+tot,,,dead,adj,main,,family_people
+gestorben,,,died; dead,adj,main,,family_people
+die Frau,die,Frauen,woman; wife; Mrs,noun,main,,family_people
+der Mann,der,Männer,man; husband,noun,main,,family_people
+der Mensch,der,Menschen,human; person,noun,main,,family_people
+die Leute,die,(pl.),people,noun,main,plural only,family_people
+der Erwachsene,der,Erwachsenen,adult,noun,main,,family_people
+der Jugendliche,der,Jugendlichen,young person; teenager,noun,main,,family_people
+der Freund,der,Freunde,friend; boyfriend,noun,main,f: die Freundin,family_people
+der/die Bekannte,der/die,Bekannten,acquaintance,noun,main,,family_people
+lieben,,,to love,verb,derived,,family_people
+die Wohnung,die,Wohnungen,apartment; flat,noun,derived,,home_housing
+wohnen,,,to live (reside),verb,main,,home_housing
+das Haus,das,Häuser,house,noun,main,nach Hause / zu Hause,home_housing
+das Apartment,das,Apartments,apartment,noun,main,,home_housing
+das Zimmer,das,Zimmer,room,noun,main,,home_housing
+die Küche,die,,kitchen,noun,main,,home_housing
+das Bad,das,,bathroom; bath,noun,main,,home_housing
+die Dusche,die,,shower,noun,main,,home_housing
+der Balkon,der,,balcony,noun,main,,home_housing
+der Garten,der,,garden,noun,main,,home_housing
+der Stock,der,,floor; storey,noun,main,im ersten Stock,home_housing
+die Treppe,die,Treppen,stairs,noun,main,,home_housing
+der Aufzug,der,Aufzüge,elevator; lift,noun,main,,home_housing
+die Möbel,die,(pl.),furniture,noun,main,plural only,home_housing
+das Bett,das,Betten,bed,noun,main,,home_housing
+das Sofa,das,,sofa,noun,main,,home_housing
+der Tisch,der,Tische,table,noun,main,,home_housing
+der Schrank,der,Schränke,cupboard; wardrobe,noun,main,,home_housing
+der Herd,der,,stove,noun,main,,home_housing
+der Kühlschrank,der,,fridge,noun,main,,home_housing
+die Maschine,die,Maschinen,machine,noun,main,e.g. Waschmaschine,home_housing
+das Licht,das,,light,noun,main,,home_housing
+anmachen,,,to switch on,verb,main,separable,home_housing
+ausmachen,,,to switch off,verb,main,separable,home_housing
+an sein,,,to be on,verb,main,,home_housing
+aus sein,,,to be off; to be over,verb,main,,home_housing
+auf sein,,,to be open,verb,main,,home_housing
+zu sein,,,to be closed,verb,derived,,home_housing
+der Schlüssel,der,Schlüssel,key,noun,main,,home_housing
+mieten,,,to rent,verb,main,,home_housing
+die Miete,die,,rent,noun,derived,,home_housing
+vermieten,,,to rent out,verb,main,,home_housing
+der Vermieter,der,,landlord,noun,derived,f: die Vermieterin,home_housing
+umziehen,,,to move (house),verb,main,separable,home_housing
+reparieren,,,to repair,verb,main,,home_housing
+die Reparatur,die,,repair,noun,derived,,home_housing
+aufstehen,,,to get up,verb,main,separable,daily_routine
+(sich) anziehen,,,to get dressed; to put on,verb,main,separable,daily_routine
+(sich) ausziehen,,,to undress; to take off,verb,main,separable,daily_routine
+(sich) waschen,,,to wash (oneself),verb,main,,daily_routine
+(sich) duschen,,,to shower,verb,main,,daily_routine
+baden,,,to take a bath,verb,main,,daily_routine
+schlafen,,,to sleep,verb,main,,daily_routine
+müde,,,tired,adj,main,,daily_routine
+essen,,,to eat,verb,main,,food_drink_restaurant
+das Essen,das,,food; meal,noun,derived,,food_drink_restaurant
+trinken,,,to drink,verb,main,,food_drink_restaurant
+das Getränk,das,Getränke,drink,noun,main,,food_drink_restaurant
+der Hunger,der,,hunger,noun,main,Ich habe Hunger.,food_drink_restaurant
+der Durst,der,,thirst,noun,main,Ich habe Durst.,food_drink_restaurant
+frühstücken,,,to have breakfast,verb,main,,food_drink_restaurant
+das Frühstück,das,,breakfast,noun,derived,,food_drink_restaurant
+kochen,,,to cook,verb,main,,food_drink_restaurant
+grillen,,,to barbecue,verb,main,,food_drink_restaurant
+schmecken,,,to taste,verb,main,,food_drink_restaurant
+riechen,,,to smell,verb,main,,food_drink_restaurant
+bitter,,,bitter,adj,main,,food_drink_restaurant
+das Restaurant,das,Restaurants,restaurant,noun,main,,food_drink_restaurant
+das Café,das,Cafés,café,noun,main,,food_drink_restaurant
+das Lokal,das,,pub; restaurant,noun,main,,food_drink_restaurant
+die Speisekarte,die,,menu,noun,main,,food_drink_restaurant
+bestellen,,,to order,verb,main,,food_drink_restaurant
+empfehlen,,,to recommend,verb,main,,food_drink_restaurant
+die Bäckerei,die,,bakery,noun,main,,food_drink_restaurant
+die Lebensmittel,die,(pl.),groceries,noun,derived,plural only,food_drink_restaurant
+das Brot,das,Brote,bread,noun,main,,food_drink_restaurant
+das Brötchen,das,Brötchen,bread roll,noun,main,,food_drink_restaurant
+die Butter,die,,butter,noun,main,,food_drink_restaurant
+das Ei,das,Eier,egg,noun,main,,food_drink_restaurant
+der Schinken,der,Schinken,ham,noun,main,,food_drink_restaurant
+das Fleisch,das,,meat,noun,main,,food_drink_restaurant
+der Fisch,der,Fische,fish,noun,main,,food_drink_restaurant
+das Hähnchen,das,Hähnchen,chicken,noun,main,,food_drink_restaurant
+die Pommes frites,die,(pl.),French fries,noun,main,plural only,food_drink_restaurant
+die Kartoffel,die,Kartoffeln,potato,noun,main,,food_drink_restaurant
+der Reis,der,,rice,noun,main,,food_drink_restaurant
+der Salat,der,,salad; lettuce,noun,main,,food_drink_restaurant
+das Gemüse,das,,vegetables,noun,main,,food_drink_restaurant
+die Tomate,die,Tomaten,tomato,noun,main,,food_drink_restaurant
+das Obst,das,,fruit,noun,main,,food_drink_restaurant
+der Apfel,der,Äpfel,apple,noun,main,,food_drink_restaurant
+die Banane,die,Bananen,banana,noun,main,,food_drink_restaurant
+die Birne,die,Birnen,pear,noun,main,,food_drink_restaurant
+der Kuchen,der,,cake,noun,main,,food_drink_restaurant
+das Salz,das,,salt,noun,main,,food_drink_restaurant
+das Öl,das,,oil,noun,main,,food_drink_restaurant
+die Milch,die,,milk,noun,main,,food_drink_restaurant
+der Kaffee,der,,coffee,noun,main,,food_drink_restaurant
+der Tee,der,,tea,noun,main,,food_drink_restaurant
+der Saft,der,,juice,noun,main,,food_drink_restaurant
+das Wasser,das,,water,noun,main,,food_drink_restaurant
+das Bier,das,,beer,noun,main,,food_drink_restaurant
+der Wein,der,,wine,noun,main,,food_drink_restaurant
+die Flasche,die,Flaschen,bottle,noun,main,,food_drink_restaurant
+das Glas,das,Gläser,glass,noun,main,,food_drink_restaurant
+einkaufen,,,to shop,verb,main,separable,shopping_money_bank
+kaufen,,,to buy,verb,main,,shopping_money_bank
+verkaufen,,,to sell,verb,main,,shopping_money_bank
+der Verkäufer,der,Verkäufer,sales assistant,noun,derived,f: die Verkäuferin,shopping_money_bank
+der Kunde,der,Kunden,customer,noun,main,f: die Kundin,shopping_money_bank
+das Geschäft,das,Geschäfte,shop; store,noun,main,,shopping_money_bank
+der Laden,der,Läden,shop,noun,main,,shopping_money_bank
+der Kiosk,der,,kiosk,noun,main,,shopping_money_bank
+die Kasse,die,,checkout; cash desk,noun,main,,shopping_money_bank
+kosten,,,to cost,verb,main,,shopping_money_bank
+der Preis,der,Preise,price,noun,main,,shopping_money_bank
+billig,,,cheap,adj,main,,shopping_money_bank
+teuer,,,expensive,adj,main,,shopping_money_bank
+günstig,,,good value; reasonably priced,adj,main,,shopping_money_bank
+anbieten,,,to offer,verb,main,separable,shopping_money_bank
+das Angebot,das,Angebote,offer; special offer,noun,derived,im Angebot = on sale,shopping_money_bank
+die Kleidung,die,,clothing,noun,main,,shopping_money_bank
+die Jacke,die,Jacken,jacket,noun,main,,shopping_money_bank
+der Schuh,der,Schuhe,shoe,noun,main,,shopping_money_bank
+die Größe,die,,size,noun,derived,,shopping_money_bank
+die Tasche,die,Taschen,bag; pocket,noun,main,,shopping_money_bank
+das Geld,das,,money,noun,main,,shopping_money_bank
+bezahlen,,,to pay,verb,main,,shopping_money_bank
+zahlen,,,to pay,verb,main,"Zahlen, bitte!",shopping_money_bank
+bar,,,in cash,adv,main,,shopping_money_bank
+die (Kredit)Karte,die,Karten,(credit) card,noun,main,,shopping_money_bank
+die Rechnung,die,Rechnungen,bill; invoice,noun,main,,shopping_money_bank
+die Bank,die,,bank; bench,noun,main,two meanings,shopping_money_bank
+das Konto,das,,bank account,noun,main,,shopping_money_bank
+überweisen,,,to transfer (money),verb,main,,shopping_money_bank
+fahren,,,to drive; to go (by vehicle),verb,main,,transport_station_airport
+der Fahrer,der,,driver,noun,derived,,transport_station_airport
+abfahren,,,to depart,verb,main,separable,transport_station_airport
+die Abfahrt,die,,departure,noun,derived,,transport_station_airport
+ankommen,,,to arrive,verb,main,separable,transport_station_airport
+die Ankunft,die,,arrival,noun,main,,transport_station_airport
+einsteigen,,,to get on (a vehicle),verb,main,separable,transport_station_airport
+aussteigen,,,to get off (a vehicle),verb,main,separable,transport_station_airport
+halten,,,to stop; to hold,verb,main,,transport_station_airport
+die Haltestelle,die,,"stop (bus, tram)",noun,main,,transport_station_airport
+der Bahnhof,der,,train station,noun,main,,transport_station_airport
+der Bahnsteig,der,,platform,noun,main,,transport_station_airport
+das Gleis,das,Gleise,track; platform,noun,main,,transport_station_airport
+der Anschluss,der,,connection,noun,main,,transport_station_airport
+die Bahn,die,,train; railway,noun,main,,transport_station_airport
+der Zug,der,Züge,train,noun,main,,transport_station_airport
+die S-Bahn,die,,suburban train,noun,main,,transport_station_airport
+die Straßenbahn,die,,tram,noun,main,,transport_station_airport
+der Bus,der,Busse,bus,noun,main,,transport_station_airport
+das Taxi,das,Taxis,taxi,noun,main,,transport_station_airport
+das Auto,das,Autos,car,noun,main,,transport_station_airport
+die Autobahn,die,Autobahnen,motorway,noun,main,,transport_station_airport
+der Lkw,der,Lkws,truck,noun,main,Lastkraftwagen,transport_station_airport
+das Fahrrad,das,Fahrräder,bicycle,noun,main,,transport_station_airport
+die Fahrkarte,die,Fahrkarten,ticket,noun,main,,transport_station_airport
+das Ticket,das,Tickets,ticket,noun,main,,transport_station_airport
+der Automat,der,,vending machine,noun,main,,transport_station_airport
+die Ansage,die,Ansagen,announcement,noun,main,,transport_station_airport
+die Durchsage,die,Durchsagen,announcement (loudspeaker),noun,main,,transport_station_airport
+die Auskunft,die,Auskünfte,information,noun,main,,transport_station_airport
+fliegen,,,to fly,verb,main,,transport_station_airport
+abfliegen,,,to take off,verb,derived,separable,transport_station_airport
+der Abflug,der,,departure (flight),noun,derived,,transport_station_airport
+der Flughafen,der,,airport,noun,main,,transport_station_airport
+das Flugzeug,das,,airplane,noun,main,,transport_station_airport
+reisen,,,to travel,verb,main,,travel_hotel_sightseeing
+die Reise,die,,trip; journey,noun,main,,travel_hotel_sightseeing
+das Reisebüro,das,Reisebüros,travel agency,noun,derived,,travel_hotel_sightseeing
+der Reiseführer,der,,guidebook; tour guide,noun,derived,,travel_hotel_sightseeing
+der Urlaub,der,,holiday; vacation,noun,main,,travel_hotel_sightseeing
+der Ausflug,der,,excursion; day trip,noun,main,,travel_hotel_sightseeing
+besichtigen,,,to visit (a sight),verb,main,,travel_hotel_sightseeing
+die Sehenswürdigkeit,die,Sehenswürdigkeiten,sight; attraction,noun,main,,travel_hotel_sightseeing
+die Führung,die,,guided tour,noun,main,,travel_hotel_sightseeing
+der Blick,der,,view,noun,main,,travel_hotel_sightseeing
+der Prospekt,der,Prospekte,brochure,noun,main,,travel_hotel_sightseeing
+der Plan,der,Pläne,plan; map,noun,main,e.g. Stadtplan,travel_hotel_sightseeing
+das Gepäck,das,,luggage,noun,main,,travel_hotel_sightseeing
+der Koffer,der,Koffer,suitcase,noun,main,,travel_hotel_sightseeing
+der Zoll,der,,customs,noun,main,,travel_hotel_sightseeing
+das Hotel,das,Hotels,hotel,noun,main,,travel_hotel_sightseeing
+die Rezeption,die,,reception,noun,main,,travel_hotel_sightseeing
+das Einzelzimmer,das,,single room,noun,main,,travel_hotel_sightseeing
+das Doppelzimmer,das,,double room,noun,main,,travel_hotel_sightseeing
+die Halbpension,die,,half board,noun,main,,travel_hotel_sightseeing
+übernachten,,,to stay overnight,verb,main,,travel_hotel_sightseeing
+arbeiten,,,to work,verb,main,,work_job
+die Arbeit,die,Arbeiten,work; job,noun,derived,,work_job
+arbeitslos,,,unemployed,adj,main,,work_job
+der Arbeitsplatz,der,Arbeitsplätze,workplace; job,noun,main,,work_job
+der Beruf,der,Berufe,profession; job,noun,main,Was sind Sie von Beruf?,work_job
+der Job,der,Jobs,job,noun,main,,work_job
+die Stelle,die,Stellen,position; job,noun,main,,work_job
+die Firma,die,,company,noun,main,,work_job
+der Chef,der,,boss,noun,main,f: die Chefin,work_job
+der Kollege,der,Kollegen,colleague,noun,main,f: die Kollegin,work_job
+die Hausfrau,die,Hausfrauen,housewife,noun,main,,work_job
+der Hausmann,der,,househusband,noun,main,,work_job
+selbstständig,,,self-employed,adj,main,,work_job
+verdienen,,,to earn,verb,main,,work_job
+das Praktikum,das,,internship,noun,main,,work_job
+der Termin,der,Termine,appointment,noun,main,,work_job
+drucken,,,to print,verb,main,,work_job
+der Drucker,der,Drucker,printer,noun,derived,,work_job
+lernen,,,to learn; to study,verb,main,,school_learning_exam
+die Schule,die,,school,noun,main,,school_learning_exam
+der Schüler,der,Schüler,pupil; student,noun,derived,f: die Schülerin,school_learning_exam
+der Kindergarten,der,,kindergarten,noun,main,,school_learning_exam
+der Kurs,der,Kurse,course,noun,main,,school_learning_exam
+der Unterricht,der,,lessons; class,noun,main,,school_learning_exam
+die Klasse,die,,class; grade,noun,main,,school_learning_exam
+der Lehrer,der,Lehrer,teacher,noun,main,f: die Lehrerin,school_learning_exam
+studieren,,,to study (at university),verb,main,,school_learning_exam
+das Studium,das,,university studies,noun,main,,school_learning_exam
+der Student,der,Studenten,student,noun,derived,f: die Studentin,school_learning_exam
+die Hausaufgabe,die,Hausaufgaben,homework,noun,main,,school_learning_exam
+die Aufgabe,die,Aufgaben,task; exercise,noun,main,,school_learning_exam
+die Prüfung,die,,exam,noun,main,,school_learning_exam
+der Test,der,,test,noun,main,,school_learning_exam
+das Ergebnis,das,Ergebnisse,result,noun,main,,school_learning_exam
+die Lösung,die,Lösungen,solution; answer,noun,main,,school_learning_exam
+der Bogen,der,,sheet (of paper),noun,main,Antwortbogen = answer sheet,school_learning_exam
+die Aussage,die,Aussagen,statement,noun,main,,school_learning_exam
+der Fehler,der,Fehler,mistake,noun,main,,school_learning_exam
+der Text,der,Texte,text,noun,main,,school_learning_exam
+der Teil,der,Teile,part,noun,main,,school_learning_exam
+das Thema,das,,topic,noun,main,,school_learning_exam
+das Beispiel,das,Beispiele,example,noun,main,,school_learning_exam
+zum Beispiel (z. B.),,,for example,phrase,main,,school_learning_exam
+der Satz,der,Sätze,sentence,noun,main,,school_learning_exam
+das Wort,das,Wörter / Worte,word,noun,main,,school_learning_exam
+der Buchstabe,der,Buchstaben,letter (of alphabet),noun,main,,school_learning_exam
+buchstabieren,,,to spell,verb,main,,school_learning_exam
+die Sprache,die,Sprachen,language,noun,main,,school_learning_exam
+bedeuten,,,to mean,verb,main,,school_learning_exam
+erklären,,,to explain,verb,main,,school_learning_exam
+wiederholen,,,to repeat,verb,main,,school_learning_exam
+das Problem,das,Probleme,problem,noun,main,,school_learning_exam
+die Gruppe,die,Gruppen,group,noun,main,,school_learning_exam
+die Pause,die,Pausen,break,noun,main,,school_learning_exam
+der Raum,der,Räume,room,noun,main,,school_learning_exam
+lesen,,,to read,verb,main,,school_learning_exam
+das Buch,das,Bücher,book,noun,main,,school_learning_exam
+das Papier,das,,paper,noun,main,,school_learning_exam
+der Bleistift,der,Bleistifte,pencil,noun,main,,school_learning_exam
+der Kugelschreiber,der,,ballpoint pen,noun,main,,school_learning_exam
+krank,,,sick; ill,adj,main,,body_health_doctor
+das Fieber,das,,fever,noun,main,,body_health_doctor
+weh tun,,,to hurt,verb,main,,body_health_doctor
+der Arzt,der,Ärzte,doctor,noun,main,f: die Ärztin,body_health_doctor
+der Doktor,der,,doctor,noun,main,,body_health_doctor
+die Praxis,die,,doctor's practice,noun,main,,body_health_doctor
+der Kopf,der,,head,noun,main,,body_health_doctor
+das Auge,das,Augen,eye,noun,main,,body_health_doctor
+der Mund,der,,mouth,noun,main,,body_health_doctor
+das Haar,das,Haare,hair,noun,main,,body_health_doctor
+der Arm,der,Arme,arm,noun,main,,body_health_doctor
+die Hand,die,Hände,hand,noun,main,,body_health_doctor
+der Bauch,der,,belly; stomach,noun,main,,body_health_doctor
+das Bein,das,Beine,leg,noun,main,,body_health_doctor
+der Fuß,der,Füße,foot,noun,main,zu Fuß = on foot,body_health_doctor
+telefonieren,,,to phone,verb,main,,communication_phone_post_media
+das Telefon,das,,telephone,noun,derived,,communication_phone_post_media
+anrufen,,,to call (phone),verb,main,separable,communication_phone_post_media
+der Anruf,der,Anrufe,phone call,noun,derived,,communication_phone_post_media
+der Anrufbeantworter,der,,answering machine,noun,derived,,communication_phone_post_media
+das Handy,das,Handys,mobile phone,noun,main,,communication_phone_post_media
+die Vorwahl,die,,area code,noun,main,,communication_phone_post_media
+besetzt,,,busy; occupied,adj,main,,communication_phone_post_media
+die Post,die,,post office; mail,noun,main,,communication_phone_post_media
+der Brief,der,Briefe,letter,noun,main,,communication_phone_post_media
+die Briefmarke,die,Briefmarken,stamp,noun,main,,communication_phone_post_media
+die Karte,die,Karten,card; postcard; menu; ticket,noun,main,several meanings,communication_phone_post_media
+der Absender,der,,sender,noun,main,,communication_phone_post_media
+der Empfänger,der,Empfänger,recipient,noun,main,,communication_phone_post_media
+schicken,,,to send,verb,main,,communication_phone_post_media
+schreiben,,,to write,verb,main,,communication_phone_post_media
+die E-Mail,die,E-Mails,email,noun,main,,communication_phone_post_media
+das Fax,das,Faxe,fax,noun,main,,communication_phone_post_media
+der Computer,der,Computer,computer,noun,main,,communication_phone_post_media
+das Internet,das,,internet,noun,main,,communication_phone_post_media
+anklicken,,,to click (on),verb,main,separable,communication_phone_post_media
+die Zeitung,die,Zeitungen,newspaper,noun,main,,communication_phone_post_media
+die Anzeige,die,Anzeigen,advertisement,noun,main,,communication_phone_post_media
+sprechen,,,to speak,verb,main,,communication_phone_post_media
+sagen,,,to say,verb,main,,communication_phone_post_media
+erzählen,,,to tell,verb,main,,communication_phone_post_media
+fragen,,,to ask,verb,main,,communication_phone_post_media
+die Frage,die,Fragen,question,noun,derived,,communication_phone_post_media
+antworten,,,to answer,verb,main,,communication_phone_post_media
+die Antwort,die,Antworten,answer,noun,derived,,communication_phone_post_media
+das Gespräch,das,Gespräche,conversation; talk,noun,main,,communication_phone_post_media
+verstehen,,,to understand,verb,main,,communication_phone_post_media
+die Freizeit,die,,free time,noun,main,,leisure_social
+das Hobby,das,Hobbys,hobby,noun,main,,leisure_social
+Lieblings-,,,favourite ...,prefix,main,e.g. Lieblingsfilm,leisure_social
+der Sport,der,,sport,noun,main,,leisure_social
+der Fußball,der,,football,noun,main,,leisure_social
+spielen,,,to play,verb,main,,leisure_social
+gewinnen,,,to win,verb,main,,leisure_social
+schwimmen,,,to swim,verb,main,,leisure_social
+das Schwimmbad,das,,swimming pool,noun,derived,,leisure_social
+wandern,,,to hike,verb,main,,leisure_social
+Rad fahren,,,to cycle,verb,main,,leisure_social
+tanzen,,,to dance,verb,main,,leisure_social
+die Disco,die,,disco; club,noun,main,,leisure_social
+die Party,die,,party,noun,main,,leisure_social
+feiern,,,to celebrate,verb,main,,leisure_social
+der Geburtstag,der,,birthday,noun,main,,leisure_social
+das Geschenk,das,Geschenke,present; gift,noun,main,,leisure_social
+einladen,,,to invite,verb,main,separable,leisure_social
+die Einladung,die,,invitation,noun,derived,,leisure_social
+der Gast,der,Gäste,guest,noun,main,,leisure_social
+besuchen,,,to visit,verb,main,,leisure_social
+(sich) treffen,,,to meet,verb,main,,leisure_social
+der Verein,der,,club; association,noun,main,,leisure_social
+das Kino,das,Kinos,cinema,noun,main,,leisure_social
+der Film,der,Filme,film,noun,main,,leisure_social
+fernsehen,,,to watch TV,verb,main,separable,leisure_social
+die CD,die,CDs,CD,noun,main,,leisure_social
+das Lied,das,Lieder,song,noun,main,,leisure_social
+hören,,,to hear; to listen,verb,main,,leisure_social
+das Foto,das,Fotos,photo,noun,main,,leisure_social
+das Bild,das,Bilder,picture,noun,main,,leisure_social
+der Eintritt,der,,admission; entry fee,noun,main,,leisure_social
+kulturell,,,cultural,adj,main,,leisure_social
+rauchen,,,to smoke,verb,main,,leisure_social
+die Zigarette,die,Zigaretten,cigarette,noun,main,,leisure_social
+das Feuer,das,,fire; a light,noun,main,Haben Sie Feuer?,leisure_social
+das Wetter,das,,weather,noun,main,,weather_nature_seasons
+regnen,,,to rain,verb,main,,weather_nature_seasons
+der Regen,der,,rain,noun,derived,,weather_nature_seasons
+die Sonne,die,,sun,noun,main,,weather_nature_seasons
+scheinen,,,to shine,verb,main,,weather_nature_seasons
+der Wind,der,,wind,noun,main,,weather_nature_seasons
+der Grad,der,,degree (temperature),noun,main,dreißig Grad,weather_nature_seasons
+der Baum,der,Bäume,tree,noun,main,,weather_nature_seasons
+die Blume,die,Blumen,flower,noun,main,,weather_nature_seasons
+der Hund,der,Hunde,dog,noun,main,,weather_nature_seasons
+das Meer,das,,sea,noun,main,,weather_nature_seasons
+der See,der,,lake,noun,main,,weather_nature_seasons
+der Frühling,der,,spring,noun,group,also das Frühjahr,weather_nature_seasons
+der Sommer,der,,summer,noun,group,,weather_nature_seasons
+der Herbst,der,,autumn,noun,group,,weather_nature_seasons
+der Winter,der,,winter,noun,group,,weather_nature_seasons
+die Stadt,die,Städte,city; town,noun,main,,places_directions
+das Dorf,das,Dörfer,village,noun,main,,places_directions
+der Ort,der,Orte,place; town,noun,main,,places_directions
+die Straße,die,Straßen,street,noun,main,,places_directions
+der Platz,der,Plätze,square; seat; space,noun,main,,places_directions
+die Halle,die,,hall,noun,main,,places_directions
+die Welt,die,,world,noun,main,,places_directions
+die Ecke,die,Ecken,corner,noun,main,,places_directions
+die Mitte,die,,middle,noun,main,,places_directions
+hier,,,here,adv,main,,places_directions
+da,,,there,adv,main,,places_directions
+dort,,,there,adv,main,also dorther / dorthin,places_directions
+draußen,,,outside,adv,main,,places_directions
+oben,,,above; upstairs,adv,main,,places_directions
+unten,,,below; downstairs,adv,main,,places_directions
+hinten,,,at the back,adv,main,,places_directions
+daneben,,,next to it,adv,main,,places_directions
+links,,,left,adv,main,,places_directions
+rechts,,,right,adv,main,,places_directions
+geradeaus,,,straight ahead,adv,main,,places_directions
+weit,,,far,adj,main,,places_directions
+weiter,,,further,adv,main,,places_directions
+zurück,,,back,adv,main,,places_directions
+an,,,at; on (vertical),prep,main,,places_directions
+auf,,,on; onto,prep,main,,places_directions
+in,,,in; into,prep,main,,places_directions
+aus,,,out of; from,prep,main,,places_directions
+bei,,,at; near; with,prep,main,,places_directions
+nach,,,"to (cities, countries); after",prep,main,,places_directions
+über,,,over; above; across,prep,main,,places_directions
+unter,,,under; below,prep,main,,places_directions
+vor,,,in front of; before; ago,prep,main,,places_directions
+zwischen,,,between,prep,main,,places_directions
+durch,,,through,prep,main,,places_directions
+der Norden,der,,north,noun,group,,places_directions
+der Süden,der,,south,noun,group,,places_directions
+der Westen,der,,west,noun,group,,places_directions
+der Osten,der,,east,noun,group,,places_directions
+Achtung,,,attention! caution!,interj,main,,public_signs_safety
+die Vorsicht,die,,caution,noun,main,Vorsicht!,public_signs_safety
+die Hilfe,die,,help,noun,main,Hilfe!,public_signs_safety
+verboten,,,forbidden,adj,main,,public_signs_safety
+erlauben,,,to allow,verb,main,,public_signs_safety
+das Schild,das,Schilder,sign,noun,main,,public_signs_safety
+der Eingang,der,,entrance,noun,main,,public_signs_safety
+der Ausgang,der,,exit,noun,main,,public_signs_safety
+die Toilette,die,Toiletten,toilet,noun,main,,public_signs_safety
+geöffnet,,,open,adj,derived,,public_signs_safety
+geschlossen,,,closed,adj,derived,,public_signs_safety
+öffnen,,,to open,verb,main,,public_signs_safety
+schließen,,,to close,verb,main,,public_signs_safety
+die Information,die,Informationen,information (desk),noun,main,,public_signs_safety
+die Zeit,die,,time,noun,main,,time_dates_calendar
+zurzeit,,,at the moment,adv,derived,,time_dates_calendar
+die Uhr,die,,clock; o'clock,noun,main,,time_dates_calendar
+um,,,at (time); around,prep,main,um sieben Uhr,time_dates_calendar
+halb,,,half,adj,group,halb drei = 2:30,time_dates_calendar
+das Viertel,das,,quarter,noun,group,Viertel vor/nach zwei,time_dates_calendar
+die Sekunde,die,Sekunden,second,noun,group,,time_dates_calendar
+die Minute,die,Minuten,minute,noun,group,,time_dates_calendar
+die Stunde,die,Stunden,hour,noun,main,,time_dates_calendar
+der Tag,der,Tage,day,noun,group,,time_dates_calendar
+die Woche,die,Wochen,week,noun,group,"source prints -e, correct plural is Wochen",time_dates_calendar
+das Jahr,das,Jahre,year,noun,group,,time_dates_calendar
+der Monat,der,Monate,month,noun,group,,time_dates_calendar
+der Wochentag,der,Wochentage,weekday,noun,group,,time_dates_calendar
+der Montag,der,,Monday,noun,group,,time_dates_calendar
+der Dienstag,der,,Tuesday,noun,group,,time_dates_calendar
+der Mittwoch,der,,Wednesday,noun,group,,time_dates_calendar
+der Donnerstag,der,,Thursday,noun,group,,time_dates_calendar
+der Freitag,der,,Friday,noun,group,,time_dates_calendar
+der Samstag,der,,Saturday,noun,group,also der Sonnabend (north),time_dates_calendar
+der Sonntag,der,,Sunday,noun,group,,time_dates_calendar
+das Wochenende,das,,weekend,noun,group,am Wochenende,time_dates_calendar
+der Morgen,der,,morning,noun,group,,time_dates_calendar
+der Vormittag,der,Vormittage,late morning,noun,group,,time_dates_calendar
+der Mittag,der,,noon,noun,group,,time_dates_calendar
+der Nachmittag,der,Nachmittage,afternoon,noun,group,,time_dates_calendar
+der Abend,der,Abende,evening,noun,group,,time_dates_calendar
+die Nacht,die,Nächte,night,noun,group,,time_dates_calendar
+der Januar,der,,January,noun,group,,time_dates_calendar
+der Februar,der,,February,noun,group,,time_dates_calendar
+der März,der,,March,noun,group,,time_dates_calendar
+der April,der,,April,noun,group,,time_dates_calendar
+der Mai,der,,May,noun,group,,time_dates_calendar
+der Juni,der,,June,noun,group,,time_dates_calendar
+der Juli,der,,July,noun,group,,time_dates_calendar
+der August,der,,August,noun,group,,time_dates_calendar
+der September,der,,September,noun,group,,time_dates_calendar
+der Oktober,der,,October,noun,group,,time_dates_calendar
+der November,der,,November,noun,group,,time_dates_calendar
+der Dezember,der,,December,noun,group,,time_dates_calendar
+das Datum,das,,date,noun,main,,time_dates_calendar
+heute,,,today,adv,main,,time_dates_calendar
+gestern,,,yesterday,adv,main,,time_dates_calendar
+morgen,,,tomorrow,adv,main,,time_dates_calendar
+jetzt,,,now,adv,main,,time_dates_calendar
+gerade,,,just now,adv,main,,time_dates_calendar
+bald,,,soon,adv,main,,time_dates_calendar
+sofort,,,immediately,adv,main,,time_dates_calendar
+spät,,,late,adj,main,,time_dates_calendar
+später,,,later,adv,main,,time_dates_calendar
+früher,,,earlier; in the past,adv,main,,time_dates_calendar
+pünktlich,,,punctual; on time,adj,main,,time_dates_calendar
+immer,,,always,adv,main,,time_dates_calendar
+oft,,,often,adv,main,,time_dates_calendar
+einmal,,,once,adv,main,,time_dates_calendar
+schon,,,already,adv,main,,time_dates_calendar
+lange,,,(for) a long time,adv,main,,time_dates_calendar
+seit,,,since; for,prep,main,,time_dates_calendar
+ab,,,from (time),prep,main,,time_dates_calendar
+bis,,,until; up to,prep,main,,time_dates_calendar
+nächst-,,,next,adj,main,,time_dates_calendar
+letzt-,,,last,adj,main,,time_dates_calendar
+der Moment,der,,moment,noun,main,Einen Moment bitte.,time_dates_calendar
+dauern,,,to last; to take (time),verb,main,,time_dates_calendar
+anfangen,,,to begin,verb,main,separable,time_dates_calendar
+der Anfang,der,,beginning,noun,derived,,time_dates_calendar
+beginnen,,,to begin,verb,main,,time_dates_calendar
+aufhören,,,to stop; to end,verb,main,separable,time_dates_calendar
+enden,,,to end,verb,main,,time_dates_calendar
+das Ende,das,,end,noun,derived,,time_dates_calendar
+der Schluss,der,,end,noun,main,Schluss machen,time_dates_calendar
+Feier-,,,holiday- / after-work-,prefix,main,"Feierabend, Feiertag",time_dates_calendar
+null,,,zero,num,group,,numbers_measures_money
+eins,,,one,num,group,,numbers_measures_money
+zwei,,,two,num,group,,numbers_measures_money
+drei,,,three,num,group,,numbers_measures_money
+vier,,,four,num,group,,numbers_measures_money
+fünf,,,five,num,group,,numbers_measures_money
+sechs,,,six,num,group,,numbers_measures_money
+sieben,,,seven,num,group,,numbers_measures_money
+acht,,,eight,num,group,,numbers_measures_money
+neun,,,nine,num,group,,numbers_measures_money
+zehn,,,ten,num,group,,numbers_measures_money
+elf,,,eleven,num,group,,numbers_measures_money
+zwölf,,,twelve,num,group,,numbers_measures_money
+dreizehn,,,thirteen,num,group,,numbers_measures_money
+vierzehn,,,fourteen,num,group,,numbers_measures_money
+fünfzehn,,,fifteen,num,group,,numbers_measures_money
+sechzehn,,,sixteen,num,group,,numbers_measures_money
+siebzehn,,,seventeen,num,group,,numbers_measures_money
+achtzehn,,,eighteen,num,group,,numbers_measures_money
+neunzehn,,,nineteen,num,group,,numbers_measures_money
+zwanzig,,,twenty,num,group,,numbers_measures_money
+einundzwanzig,,,twenty-one,num,group,,numbers_measures_money
+dreißig,,,thirty,num,group,,numbers_measures_money
+vierzig,,,forty,num,group,,numbers_measures_money
+fünfzig,,,fifty,num,group,,numbers_measures_money
+sechzig,,,sixty,num,group,,numbers_measures_money
+siebzig,,,seventy,num,group,,numbers_measures_money
+achtzig,,,eighty,num,group,,numbers_measures_money
+neunzig,,,ninety,num,group,,numbers_measures_money
+(ein)hundert,,,one hundred,num,group,,numbers_measures_money
+hunderteins,,,one hundred and one,num,group,,numbers_measures_money
+zweihundert,,,two hundred,num,group,,numbers_measures_money
+(ein)tausend,,,one thousand,num,group,,numbers_measures_money
+die Million,die,Millionen,million,noun,group,,numbers_measures_money
+die Milliarde,die,Milliarden,billion,noun,group,,numbers_measures_money
+erste,,,first,num,group,der/die/das erste,numbers_measures_money
+zweite,,,second,num,group,,numbers_measures_money
+dritte,,,third,num,group,,numbers_measures_money
+vierte,,,fourth,num,group,,numbers_measures_money
+ein halb,,,one half,num,group,,numbers_measures_money
+ein Viertel,,,one quarter,num,group,,numbers_measures_money
+der Euro,der,,euro,noun,group,1 Euro = 100 Cent,numbers_measures_money
+der Cent,der,,cent,noun,group,,numbers_measures_money
+der Meter,der,,metre,noun,group,,numbers_measures_money
+der Zentimeter,der,,centimetre,noun,group,,numbers_measures_money
+der Kilometer,der,,kilometre,noun,group,,numbers_measures_money
+der Quadratmeter,der,,square metre,noun,group,,numbers_measures_money
+das Prozent,das,,percent,noun,group,,numbers_measures_money
+der Liter,der,,litre,noun,group,,numbers_measures_money
+das Gramm,das,,gram,noun,group,,numbers_measures_money
+das Pfund,das,,pound (500 g),noun,group,,numbers_measures_money
+das Kilo(gramm),das,,kilo(gram),noun,group,,numbers_measures_money
+das Gewicht,das,,weight,noun,main,,numbers_measures_money
+die Nummer,die,Nummern,number,noun,main,,numbers_measures_money
+circa (ca.),,,approximately,adv,main,,numbers_measures_money
+gut,,,good,adj,main,,adjectives_colors
+besser,,,better,adj,main,,adjectives_colors
+best-,,,best,adj,main,am besten,adjectives_colors
+schlecht,,,bad,adj,main,,adjectives_colors
+schön,,,beautiful; nice,adj,main,,adjectives_colors
+wunderbar,,,wonderful,adj,main,,adjectives_colors
+groß,,,big; tall,adj,main,,adjectives_colors
+klein,,,small,adj,main,,adjectives_colors
+hoch,,,high; tall,adj,main,,adjectives_colors
+breit,,,wide,adj,main,,adjectives_colors
+lang,,,long,adj,main,,adjectives_colors
+kurz,,,short,adj,main,,adjectives_colors
+alt,,,old,adj,main,,adjectives_colors
+neu,,,new,adj,main,,adjectives_colors
+jung,,,young,adj,main,,adjectives_colors
+schnell,,,fast,adj,main,,adjectives_colors
+langsam,,,slow,adj,main,,adjectives_colors
+laut,,,loud,adj,main,,adjectives_colors
+leise,,,quiet,adj,main,,adjectives_colors
+ruhig,,,calm; quiet,adj,main,,adjectives_colors
+leicht,,,easy; light,adj,main,,adjectives_colors
+schwer,,,difficult; heavy,adj,main,,adjectives_colors
+einfach,,,simple; single (ticket),adj,main,,adjectives_colors
+richtig,,,correct,adj,main,,adjectives_colors
+falsch,,,wrong,adj,main,,adjectives_colors
+wichtig,,,important,adj,main,,adjectives_colors
+möglich,,,possible,adj,main,,adjectives_colors
+normal,,,normal,adj,main,,adjectives_colors
+hell,,,bright; light,adj,main,,adjectives_colors
+kaputt,,,broken,adj,main,,adjectives_colors
+fertig,,,ready; finished,adj,main,,adjectives_colors
+frei,,,free; vacant,adj,main,,adjectives_colors
+eilig,,,urgent; in a hurry,adj,main,Hast du es eilig?,adjectives_colors
+fremd,,,foreign; unfamiliar,adj,main,,adjectives_colors
+bekannt,,,well-known,adj,main,,adjectives_colors
+international,,,international,adj,main,,adjectives_colors
+automatisch,,,automatic,adj,main,,adjectives_colors
+allein,,,alone,adj,main,,adjectives_colors
+böse,,,angry; evil,adj,main,,adjectives_colors
+lustig,,,funny,adj,main,,adjectives_colors
+glücklich,,,happy,adj,main,,adjectives_colors
+zufrieden,,,satisfied,adj,main,,adjectives_colors
+aussehen,,,to look; to appear,verb,main,separable,adjectives_colors
+die Farbe,die,Farben,colour,noun,main,,adjectives_colors
+schwarz,,,black,adj,group,,adjectives_colors
+weiß,,,white,adj,group,,adjectives_colors
+grau,,,grey,adj,group,,adjectives_colors
+rot,,,red,adj,group,,adjectives_colors
+blau,,,blue,adj,group,,adjectives_colors
+gelb,,,yellow,adj,group,,adjectives_colors
+grün,,,green,adj,group,,adjectives_colors
+braun,,,brown,adj,group,,adjectives_colors
+sein,,,to be,verb,main,,common_verbs
+haben,,,to have,verb,main,,common_verbs
+werden,,,to become,verb,main,,common_verbs
+machen,,,to do; to make,verb,main,Das macht nichts.,common_verbs
+tun,,,to do,verb,main,,common_verbs
+gehen,,,to go,verb,main,Wie geht's?,common_verbs
+kommen,,,to come,verb,main,,common_verbs
+laufen,,,to run; to walk,verb,main,,common_verbs
+bleiben,,,to stay,verb,main,,common_verbs
+weg sein,,,to be gone,verb,derived,,common_verbs
+geben,,,to give,verb,main,es gibt = there is,common_verbs
+nehmen,,,to take,verb,main,,common_verbs
+bringen,,,to bring,verb,main,,common_verbs
+holen,,,to fetch,verb,main,,common_verbs
+abholen,,,to pick up,verb,main,separable,common_verbs
+abgeben,,,to hand in,verb,main,separable,common_verbs
+mitbringen,,,to bring along,verb,main,separable,common_verbs
+mitkommen,,,to come along,verb,main,separable,common_verbs
+mitmachen,,,to take part,verb,main,separable,common_verbs
+mitnehmen,,,to take along,verb,main,separable,common_verbs
+bekommen,,,to get; to receive,verb,main,,common_verbs
+kriegen,,,to get (colloquial),verb,main,,common_verbs
+brauchen,,,to need,verb,main,,common_verbs
+benutzen,,,to use,verb,main,,common_verbs
+suchen,,,to look for,verb,main,,common_verbs
+finden,,,to find; to think,verb,main,,common_verbs
+fehlen,,,to be missing,verb,main,Was fehlt Ihnen?,common_verbs
+helfen,,,to help,verb,main,,common_verbs
+warten,,,to wait,verb,main,,common_verbs
+sehen,,,to see,verb,main,,common_verbs
+kennen,,,to know (be familiar with),verb,main,,common_verbs
+wissen,,,to know (a fact),verb,main,,common_verbs
+glauben,,,to believe; to think,verb,main,,common_verbs
+gefallen,,,to please; to like,verb,main,Das gefällt mir.,common_verbs
+gehören,,,to belong,verb,main,,common_verbs
+(sich) freuen,,,to be happy; to look forward,verb,main,auf + Akk.,common_verbs
+lachen,,,to laugh,verb,main,,common_verbs
+leben,,,to live,verb,main,,common_verbs
+das Leben,das,,life,noun,derived,,common_verbs
+sitzen,,,to sit,verb,main,,common_verbs
+stehen,,,to stand,verb,main,,common_verbs
+liegen,,,to lie,verb,main,,common_verbs
+legen,,,to lay; to put (flat),verb,main,,common_verbs
+stellen,,,to put (upright),verb,main,,common_verbs
+drücken,,,to press; to push,verb,main,,common_verbs
+ich,,,I,pron,main,,grammar_pronouns_articles
+er,,,he,pron,main,,grammar_pronouns_articles
+es,,,it,pron,main,,grammar_pronouns_articles
+sie,,,she; they,pron,main,,grammar_pronouns_articles
+Sie,,,you (formal),pron,main,,grammar_pronouns_articles
+wir,,,we,pron,main,,grammar_pronouns_articles
+dich,,,you (acc.),pron,main,,grammar_pronouns_articles
+dir,,,you (dat.),pron,main,,grammar_pronouns_articles
+ihr / ihm / ihn,,,her / him (dat./acc.),pron,main,,grammar_pronouns_articles
+sich,,,oneself; himself; herself,pron,main,,grammar_pronouns_articles
+man,,,one; you (general),pron,main,,grammar_pronouns_articles
+mein,,,my,det,main,,grammar_pronouns_articles
+dein-,,,your (informal),det,main,,grammar_pronouns_articles
+sein,,,his,det,main,,grammar_pronouns_articles
+euer,,,your (pl.),det,main,,grammar_pronouns_articles
+unser-,,,our,det,main,,grammar_pronouns_articles
+"der, die, das",,,the; that; which,det,main,,grammar_pronouns_articles
+ein-,,,a; one,det,main,,grammar_pronouns_articles
+kein,,,no; not a,det,main,,grammar_pronouns_articles
+dies-,,,this,det,main,,grammar_pronouns_articles
+jed-,,,every; each,det,main,,grammar_pronouns_articles
+all-,,,all,det,main,Alles Gute!,grammar_pronouns_articles
+ander-,,,other,det,main,,grammar_pronouns_articles
+beide,,,both,det,main,,grammar_pronouns_articles
+meist-,,,most,det,main,,grammar_pronouns_articles
+wer,,,who,pron,main,,grammar_question_words
+was,,,what,pron,main,,grammar_question_words
+was für ein,,,what kind of,phrase,main,,grammar_question_words
+welch-,,,which,det,main,,grammar_question_words
+wann,,,when,adv,main,,grammar_question_words
+wo,,,where,adv,main,,grammar_question_words
+woher,,,where from,adv,main,,grammar_question_words
+wohin,,,where to,adv,main,,grammar_question_words
+wie,,,how; like; as,adv,main,Wie bitte?,grammar_question_words
+wie viel,,,how much,adv,main,,grammar_question_words
+warum,,,why,adv,main,,grammar_question_words
+können,,,can; to be able to,modal,main,,grammar_modal_verbs
+müssen,,,must; to have to,modal,main,,grammar_modal_verbs
+dürfen,,,may; to be allowed to,modal,main,,grammar_modal_verbs
+sollen,,,should; to be supposed to,modal,main,,grammar_modal_verbs
+wollen,,,to want,modal,main,,grammar_modal_verbs
+mögen,,,to like,modal,main,,grammar_modal_verbs
+möchten,,,would like,modal,main,,grammar_modal_verbs
+und,,,and,conj,main,,grammar_connectors_particles
+oder,,,or,conj,main,,grammar_connectors_particles
+aber,,,but,conj,main,,grammar_connectors_particles
+denn,,,because,conj,main,,grammar_connectors_particles
+also,,,so; therefore,adv,main,,grammar_connectors_particles
+dann,,,then,adv,main,,grammar_connectors_particles
+so,,,so; like this,adv,main,,grammar_connectors_particles
+auch,,,also; too,adv,main,,grammar_connectors_particles
+noch,,,still; yet; more,adv,main,,grammar_connectors_particles
+nur,,,only,adv,main,,grammar_connectors_particles
+sehr,,,very,adv,main,,grammar_connectors_particles
+ja,,,yes,particle,main,,grammar_connectors_particles
+nein,,,no,particle,main,,grammar_connectors_particles
+nicht,,,not,adv,main,,grammar_connectors_particles
+nichts,,,nothing,pron,main,,grammar_connectors_particles
+nie,,,never,adv,main,,grammar_connectors_particles
+vielleicht,,,maybe,adv,main,,grammar_connectors_particles
+leider,,,unfortunately,adv,main,,grammar_connectors_particles
+gern(e),,,gladly; like to,adv,main,,grammar_connectors_particles
+lieber,,,rather; prefer,adv,derived,,grammar_connectors_particles
+klar,,,clear; sure,adj,main,Klar!,grammar_connectors_particles
+gleich,,,same; right away,adj,main,,grammar_connectors_particles
+zusammen,,,together,adv,main,,grammar_connectors_particles
+viel,,,much; a lot,det,main,,grammar_connectors_particles
+wenig,,,little; few,det,main,,grammar_connectors_particles
+mehr,,,more,det,main,,grammar_connectors_particles
+bisschen,,,a little bit,det,main,ein bisschen,grammar_connectors_particles
+mit,,,with,prep,main,,grammar_connectors_particles
+ohne,,,without,prep,main,,grammar_connectors_particles
+für,,,for,prep,main,,grammar_connectors_particles
+gegen,,,against,prep,main,,grammar_connectors_particles
+von,,,from; of,prep,main,,grammar_connectors_particles
+zu,,,to; too,prep,main,,grammar_connectors_particles
