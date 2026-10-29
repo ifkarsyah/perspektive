@@ -1,0 +1,9 @@
+example_sentence_de,example_sentence_en,grammar_type
+"Kannst du mir sagen, wo die Toilette ist?",Can you tell me where the toilet is?,informal
+"Können Sie mir sagen, ob der Zug Verspätung hat?",Can you tell me whether the train is delayed?,ob-clause
+"Können Sie mir sagen, wann der Bus kommt?",Can you tell me when the bus comes?,wann-clause
+"Können Sie mir sagen, wer hier zuständig ist?",Can you tell me who is in charge here?,wer-clause
+"Können Sie mir sagen, wie spät es ist?",Can you tell me what time it is?,wie-clause
+"Können Sie mir sagen, wie viel das kostet?",Can you tell me how much that costs?,wie-viel-clause
+"Können Sie mir sagen, wo der Bahnhof ist?",Can you tell me where the train station is?,wo-clause
+"Können Sie mir sagen, wo ich aussteigen muss?",Can you tell me where I have to get off?,wo-clause-modal

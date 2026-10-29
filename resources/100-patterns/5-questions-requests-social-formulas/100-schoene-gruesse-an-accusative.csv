@@ -1,0 +1,9 @@
+example_sentence_de,example_sentence_en,grammar_type
+Schöne Grüße an alle!,Say hi to everyone!,akkusativ-alle
+Schöne Grüße an Anna!,Say hi to Anna!,akkusativ-name
+Schöne Grüße an deine Familie!,Say hi to your family!,akkusativ-possessive-nomen
+Schöne Grüße an deinen Bruder!,Say hi to your brother!,akkusativ-possessive-nomen-masculine
+Liebe Grüße an deine Eltern!,Love to your parents!,alternative-liebe-gruesse
+Viele Grüße aus Berlin!,Greetings from Berlin!,aus-dativ-place
+Richte deiner Mutter schöne Grüße aus!,Give your mother my regards!,ausrichten-dativ
+Grüß ihn von mir!,Say hi to him from me!,gruessen-akkusativ

@@ -1,0 +1,12 @@
+word,meaning,example_german,example_english,wordorder_rule
+trotzdem,nevertheless / still,Es regnet. Trotzdem gehe ich raus.,"It's raining. Nevertheless, I'm going out.",At sentence start: verb jumps forward (Trotzdem GEHE ich).
+deshalb,therefore / that's why,Ich bin müde. Deshalb gehe ich schlafen.,I'm tired. That's why I'm going to sleep.,
+deswegen,therefore / for that reason,Es ist kalt. Deswegen ziehe ich eine Jacke an.,It's cold. For that reason I'm putting on a jacket.,"Synonymous with deshalb, slightly more colloquial."
+dann,then / afterwards,"Wir essen, dann gehen wir spazieren.","We eat, then we go for a walk.",
+danach,afterwards / after that,"Wir gehen essen, danach ins Kino.","We're going to eat, after that to the cinema.",
+außerdem,furthermore / in addition,Das Wetter ist schlecht. Außerdem bin ich müde.,"The weather is bad. In addition, I'm tired.",
+dennoch,nevertheless / still (more formal),Es war schwer. Dennoch habe ich es geschafft.,"It was hard. Nevertheless, I managed it.","More formal register than ""trotzdem""."
+allerdings,however / though / admittedly,Das ist interessant. Allerdings ist es teuer.,"That's interesting. However, it's expensive.",
+jedoch,however / but (written),Er kommt. Jedoch ist er spät.,"He's coming. However, he's late.","More formal — common in written German. ""Aber"" is the spoken equivalent."
+daher,therefore / hence,Es war kalt. Daher blieb ich zu Hause.,It was cold. Hence I stayed home.,
+sonst,otherwise / else,"Beeil dich, sonst kommen wir zu spät.","Hurry up, otherwise we'll be late.",

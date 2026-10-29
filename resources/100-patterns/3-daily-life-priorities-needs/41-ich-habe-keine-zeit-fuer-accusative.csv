@@ -1,0 +1,9 @@
+example_sentence_de,example_sentence_en,grammar_type
+Ich habe heute keine Zeit für das Meeting.,I have no time for the meeting today.,akkusativ-nomen-definite
+Ich habe keine Zeit für Sport.,I have no time for sports.,akkusativ-nomen-no-article
+Hast du Zeit für einen Kaffee?,Do you have time for a coffee?,akkusativ-nomen-question
+Ich habe nie Zeit für meine Hobbys.,I never have time for my hobbies.,akkusativ-possessive-nomen
+Ich habe keine Zeit für dich.,I have no time for you.,akkusativ-pronoun
+Ich habe keine Zeit für so etwas.,I have no time for something like that.,akkusativ-so-etwas
+Ich habe gerade keine Zeit.,I don't have time right now.,no-fuer
+"Ich habe keine Zeit, Sport zu machen.",I have no time to do sports.,zu-infinitive

@@ -1,0 +1,10 @@
+example_sentence_de,example_sentence_en,grammar_type
+"Ich hoffe, dass du kommst.",I hope that you're coming.,dass-clause
+"Ich hoffe, dass das Wetter morgen schön ist.",I hope that the weather is nice tomorrow.,dass-clause-adjective
+"Ich hoffe, dass ich den Job bekomme.",I hope that I get the job.,dass-clause-akkusativ
+"Ich hoffe, dass es dir gut geht.",I hope that you're doing well.,dass-clause-dativ
+"Ich hoffe, dass du die Prüfung bestanden hast.",I hope that you passed the exam.,dass-clause-perfekt
+"Ich hoffe, dass wir uns bald treffen.",I hope that we meet soon.,dass-clause-reflexive
+"Ich hoffe, du hast Spaß.",I hope you have fun.,no-dass
+Ich hoffe es.,I hope so.,short
+Ich hoffe nicht.,I hope not.,short-negative

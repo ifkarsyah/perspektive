@@ -1,0 +1,10 @@
+example_sentence_de,example_sentence_en,grammar_type
+Ich warte seit einer Stunde auf das Paket.,I've been waiting for the package for an hour.,akkusativ-nomen-duration
+Ich warte auf eine Antwort.,I'm waiting for an answer.,akkusativ-nomen-feminine
+Ich warte auf den Bus.,I'm waiting for the bus.,akkusativ-nomen-masculine
+Ich warte auf meine Freundin.,I'm waiting for my girlfriend.,akkusativ-possessive-nomen
+Ich warte auf dich.,I'm waiting for you.,akkusativ-pronoun
+Ich warte nicht länger auf ihn.,I'm not waiting for him any longer.,akkusativ-pronoun-negative
+Worauf wartest du?,What are you waiting for?,akkusativ-question
+Auf wen wartest du?,Who are you waiting for?,akkusativ-question-person
+Ich warte darauf.,I'm waiting for it.,da-compound

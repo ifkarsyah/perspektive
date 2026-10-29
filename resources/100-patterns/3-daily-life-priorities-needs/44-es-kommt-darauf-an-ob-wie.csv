@@ -1,0 +1,9 @@
+example_sentence_de,example_sentence_en,grammar_type
+Es kommt auf den Preis an.,It depends on the price.,auf-akkusativ
+Es kommt auf dich an.,It depends on you.,auf-akkusativ-pronoun
+"Es kommt darauf an, ob ich Zeit habe.",It depends on whether I have time.,ob-clause
+Es kommt darauf an.,It depends.,plain
+"Es kommt darauf an, wann du kommst.",It depends on when you come.,wann-clause
+"Das kommt darauf an, was du willst.",That depends on what you want.,was-clause
+"Es kommt darauf an, wie das Wetter ist.",It depends on what the weather is like.,wie-clause
+"Es kommt darauf an, wie viel es kostet.",It depends on how much it costs.,wie-viel-clause

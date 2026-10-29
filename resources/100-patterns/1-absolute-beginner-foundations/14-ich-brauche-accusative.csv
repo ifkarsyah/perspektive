@@ -1,0 +1,11 @@
+example_sentence_de,example_sentence_en,grammar_type
+Ich brauche einen neuen Pass.,I need a new passport.,akkusativ-adjective-nomen
+Ich brauche eine Pause.,I need a break.,akkusativ-nomen-feminine
+Ich brauche einen Stift.,I need a pen.,akkusativ-nomen-masculine
+Ich brauche keine Tüte.,I don't need a bag.,akkusativ-nomen-negative
+Ich brauche ein Taxi.,I need a taxi.,akkusativ-nomen-neuter
+Ich brauche Hilfe.,I need help.,akkusativ-nomen-no-article
+Ich brauche mehr Zeit.,I need more time.,akkusativ-nomen-quantity
+Ich brauche dich.,I need you.,akkusativ-pronoun
+Brauchst du etwas?,Do you need anything?,akkusativ-pronoun-question
+Ich brauche das bis morgen.,I need that by tomorrow.,akkusativ-pronoun-time

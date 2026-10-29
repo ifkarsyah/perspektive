@@ -1,0 +1,9 @@
+example_sentence_de,example_sentence_en,grammar_type
+Was hast du am Wochenende vor?,What are your plans for the weekend?,question-short
+Ich habe heute nichts vor.,I have no plans today.,short-negative
+"Ich habe vor, Deutsch zu lernen.",I plan to learn German.,zu-infinitive-akkusativ-nomen
+"Ich habe nicht vor, aufzuhören.",I don't plan to quit.,zu-infinitive-negative
+"Ich habe vor, nach Japan zu fliegen.",I plan to fly to Japan.,zu-infinitive-place
+"Ich habe vor, mehr Sport zu machen.",I plan to do more sports.,zu-infinitive-quantity
+"Ich habe vor, mich zu bewerben.",I plan to apply.,zu-infinitive-reflexive
+"Ich habe vor, nächstes Jahr umzuziehen.",I plan to move next year.,zu-infinitive-separable

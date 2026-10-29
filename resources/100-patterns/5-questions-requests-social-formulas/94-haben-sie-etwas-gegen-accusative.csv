@@ -1,0 +1,9 @@
+example_sentence_de,example_sentence_en,grammar_type
+Haben Sie etwas gegen Kopfschmerzen?,Do you have something for headaches?,akkusativ-nomen-medicine
+Haben Sie etwas gegen Hunde?,Do you have anything against dogs?,akkusativ-nomen-plural
+Hast du etwas gegen meinen Plan?,Do you have anything against my plan?,akkusativ-possessive-nomen
+Hast du etwas gegen ihn?,Do you have something against him?,akkusativ-pronoun
+Ich habe nichts dagegen.,I don't mind.,answer-nichts-dagegen
+"Haben Sie etwas dagegen, wenn ich mich hier hinsetze?",Do you mind if I sit here?,dagegen-wenn-clause
+"Hast du etwas dagegen, wenn wir später essen?",Do you mind if we eat later?,dagegen-wenn-clause-informal
+Ich habe nichts gegen Katzen.,I have nothing against cats.,statement-nichts-gegen

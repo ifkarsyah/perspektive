@@ -1,0 +1,9 @@
+example_sentence_de,example_sentence_en,grammar_type
+Ich suche einen guten Zahnarzt.,I'm looking for a good dentist.,akkusativ-adjective-nomen
+Ich suche den Bahnhof.,I'm looking for the train station.,akkusativ-nomen-definite
+Ich suche eine Wohnung.,I'm looking for an apartment.,akkusativ-nomen-feminine
+Ich suche einen Job.,I'm looking for a job.,akkusativ-nomen-masculine
+Ich suche ein Hotel.,I'm looking for a hotel.,akkusativ-nomen-neuter
+Ich suche Mitbewohner.,I'm looking for flatmates.,akkusativ-nomen-plural
+Ich suche meine Brille.,I'm looking for my glasses.,akkusativ-possessive-nomen
+Ich suche dich schon lange.,I've been looking for you for a long time.,akkusativ-pronoun

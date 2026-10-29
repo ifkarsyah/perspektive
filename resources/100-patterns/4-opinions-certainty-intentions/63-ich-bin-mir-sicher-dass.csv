@@ -1,0 +1,9 @@
+example_sentence_de,example_sentence_en,grammar_type
+"Ich bin mir sicher, dass er kommt.",I'm sure that he's coming.,dass-clause
+"Ich bin mir ganz sicher, dass es klappt.",I'm completely sure that it will work.,dass-clause-adverb
+"Ich bin mir sicher, dass wir das schaffen können.",I'm sure that we can manage it.,dass-clause-modal
+"Ich bin mir sicher, dass ich die Tür abgeschlossen habe.",I'm sure that I locked the door.,dass-clause-perfekt
+"Ich bin mir sicher, dass sie morgen anruft.",I'm sure that she'll call tomorrow.,dass-clause-separable
+Bist du dir sicher?,Are you sure?,question-short
+Ich bin mir sicher.,I'm sure.,short
+Da bin ich mir sicher.,I'm sure about that.,short-da

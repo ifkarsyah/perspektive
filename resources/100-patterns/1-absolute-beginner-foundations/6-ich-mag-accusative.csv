@@ -1,0 +1,10 @@
+example_sentence_de,example_sentence_en,grammar_type
+Ich mag italienisches Essen.,I like Italian food.,akkusativ-adjective-nomen
+Ich mag dieses Lied sehr.,I like this song a lot.,akkusativ-demonstrative-nomen
+Ich mag den Sommer.,I like summer.,akkusativ-nomen-definite
+Ich mag keinen Fisch.,I don't like fish.,akkusativ-nomen-negative
+Ich mag Kaffee.,I like coffee.,akkusativ-nomen-no-article
+Ich mag Hunde.,I like dogs.,akkusativ-nomen-plural
+Ich mag meinen Job.,I like my job.,akkusativ-possessive-nomen
+Ich mag dich.,I like you.,akkusativ-pronoun
+Ich mag ihn nicht.,I don't like him.,akkusativ-pronoun-negative

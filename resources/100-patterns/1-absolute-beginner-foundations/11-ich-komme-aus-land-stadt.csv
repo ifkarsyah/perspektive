@@ -1,0 +1,8 @@
+example_sentence_de,example_sentence_en,grammar_type
+Ich komme aus einer kleinen Stadt.,I come from a small town.,dativ-adjective-nomen
+Ich komme aus Jakarta.,I come from Jakarta.,dativ-city
+Ich komme aus Indonesien.,I come from Indonesia.,dativ-country
+Ich komme aus der Türkei.,I come from Turkey.,dativ-country-article
+Ich komme aus den Niederlanden.,I come from the Netherlands.,dativ-country-plural
+Ich komme gerade aus dem Büro.,I'm just coming from the office.,dativ-nomen-place
+Ich komme aus dem Süden.,I come from the south.,dativ-region

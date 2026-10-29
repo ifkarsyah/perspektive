@@ -1,0 +1,9 @@
+example_sentence_de,example_sentence_en,grammar_type
+"Entschuldigung, wo finde ich die Kasse?","Excuse me, where can I find the checkout?",akkusativ-nomen-feminine
+"Entschuldigung, wo finde ich einen Arzt?","Excuse me, where can I find a doctor?",akkusativ-nomen-indefinite
+"Entschuldigung, wo finde ich den Ausgang?","Excuse me, where can I find the exit?",akkusativ-nomen-masculine
+"Entschuldigung, wo finde ich hier ein Taxi?","Excuse me, where can I find a taxi here?",akkusativ-nomen-neuter
+"Entschuldigung, wo finde ich Brot?","Excuse me, where can I find bread?",akkusativ-nomen-no-article
+"Entschuldigung, wo finde ich die Toiletten?","Excuse me, where are the toilets?",akkusativ-nomen-plural
+"Entschuldigung, wo ist der Bahnhof?","Excuse me, where is the train station?",alternative-wo-ist
+"Entschuldigung, wissen Sie, wo ich Batterien finde?","Excuse me, do you know where I can find batteries?",indirect-wo-clause

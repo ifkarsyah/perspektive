@@ -1,0 +1,9 @@
+example_sentence_de,example_sentence_en,grammar_type
+Ich gehe zu Fuß.,I'm going on foot.,dativ-fixed
+Ich gehe zu Anna.,I'm going to Anna's.,dativ-name
+Ich gehe zu meiner Oma.,I'm going to my grandma's.,dativ-possessive-nomen
+Ich gehe zu dir.,I'm going to your place.,dativ-pronoun
+Ich gehe zum Arzt.,I'm going to the doctor.,dativ-zum-nomen
+Ich gehe morgen zum Bäcker.,I'm going to the bakery tomorrow.,dativ-zum-nomen-adverb
+Ich gehe zur Arbeit.,I'm going to work.,dativ-zur-nomen
+Ich gehe heute nicht zur Schule.,I'm not going to school today.,dativ-zur-nomen-negative

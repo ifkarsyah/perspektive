@@ -1,0 +1,21 @@
+id,pattern_title,grammar_note,anchor_example_de,anchor_example_en
+21,Ich helfe + [Dativ],Verb helfen requires Dative (dem / der / den / mir / dir / ihm / ihr / uns).,Ich helfe meinem Freund bei den Hausaufgaben.,I am helping my friend with the homework.
+22,Es gefällt + [Dativ],"Expressing liking something (Subject is the thing, person in Dative).",Das neue Design gefällt mir wirklich gut.,I really like the new design.
+23,Es schmeckt + [Dativ],Expressing taste/enjoyment of food (Dative person).,Das Essen schmeckt den Gästen sehr gut.,The food tastes very good to the guests.
+24,Es geht um + [Akkusativ],"Fixed phrase: ""It is about..."" / ""The main topic is...""",In diesem Buch geht es um eine interessante Reise.,"In this book, it's about an interesting journey."
+25,Ich passe auf + [Akkusativ] auf,"Separable verb: aufpassen auf + Accusative (""look after"").",Ich passe heute Abend auf den Hund auf.,I am looking after the dog tonight.
+26,Ich danke + [Dativ] für + [Akkusativ],Danke + Dative person + für + Accusative cause.,Ich danke dir herzlich für deine Hilfe.,I thank you cordially for your help.
+27,Ich gratuliere + [Dativ] zu + [Dativ],Gratulieren + Dative person + zu + Dative occasion.,Ich gratuliere dir ganz herzlich zum Geburtstag!,I congratulate you warmly on your birthday!
+28,Ich antworte auf + [Akkusativ],"Antworten auf + Accusative (""reply to"").",Ich antworte später auf deine E-Mail.,I will reply to your email later.
+29,Ich warte auf + [Akkusativ],"Warten auf + Accusative (""wait for"").",Wir warten schon seit 20 Minuten auf den Bus.,We have been waiting for the bus for 20 minutes.
+30,Ich denke an + [Akkusativ],"Denken an + Accusative (""think of/about"").",Ich denke oft an unseren letzten Urlaub.,I often think about our last vacation.
+31,Ich freue mich auf + [Akkusativ],Freuen auf + Accusative (Future joy / looking forward to).,Ich freue mich schon sehr auf das Wochenende.,I am looking forward to the weekend.
+32,Ich freue mich über + [Akkusativ],Freuen über + Accusative (Present/Past joy over a gift/event).,Ich freue mich riesig über dein Geschenk.,I am really happy about your gift.
+33,Ich interessiere mich für + [Akkusativ],"Reflexive verb + für + Accusative (""interested in"").",Ich interessiere mich sehr für Fotografie.,I am very interested in photography.
+34,Ich nehme an + [Dativ] teil,"Separable verb: teilnehmen an + Dative (""participate in"").",Ich nehme nächsten Monat an einem Sprachkurs teil.,I am participating in a language course next month.
+35,Es gehört + [Dativ],Belonging to someone (Gehören + Dative person).,"Entschuldigung, gehört dieser Schlüssel dir?","Excuse me, does this key belong to you?"
+36,Es passt zu + [Dativ],Matching or fitting well with something (zu + Dative).,Diese Farbe passt wirklich gut zu deiner Jacke.,This color matches your jacket really well.
+37,Ich frage nach + [Dativ],Asking about or for something (nach + Dative).,Der Tourist fragt nach dem Weg zum Museum.,The tourist is asking for the way to the museum.
+38,Ich erzähle von + [Dativ],Telling/narrating about something (von + Dative).,Er erzählt begeistert von seinem neuen Projekt.,He talks enthusiastically about his new project.
+39,Ich lade dich zu + [Dativ] ein,Separable verb: einladen + Accusative person + zu + Dative event.,Ich lade dich herzlich zu meiner Geburtstagsfeier ein.,I warmly invite you to my birthday party.
+40,Es tut mir leid wegen + [Genitiv / Dativ],Expressing apology for something (wegen + Dative in speech).,Es tut mir leid wegen der späten Rückmeldung.,I am sorry for the late reply.

@@ -1,0 +1,9 @@
+example_sentence_de,example_sentence_en,grammar_type
+"Ich stimme dir zu, aber es ist zu teuer.","I agree with you, but it's too expensive.",aber-adjective
+"Ich stimme dir zu, aber wir müssen noch warten.","I agree with you, but we still have to wait.",aber-modal
+"Ich stimme dir zu, aber wir haben keine Zeit.","I agree with you, but we have no time.",aber-negative
+Ich stimme dem Vorschlag zu.,I agree with the proposal.,dativ-nomen
+Da stimme ich dir nicht zu.,I don't agree with you there.,negative-da
+Ich stimme dir zu.,I agree with you.,short
+Ich stimme dir völlig zu.,I completely agree with you.,short-adverb
+Ich stimme Ihnen zu.,I agree with you (formal).,short-formal

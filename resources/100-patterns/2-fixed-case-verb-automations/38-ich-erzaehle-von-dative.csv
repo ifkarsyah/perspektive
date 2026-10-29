@@ -1,0 +1,9 @@
+example_sentence_de,example_sentence_en,grammar_type
+Ich habe dir davon erzählt.,I told you about it.,da-compound
+Ich erzähle von dem Film.,I'm talking about the film.,dativ-nomen-definite
+Ich erzähle von meinem Urlaub.,I'm telling (you) about my vacation.,dativ-possessive-nomen
+Sie erzählt oft von ihren Kindern.,She often talks about her children.,dativ-possessive-nomen-plural
+Ich erzähle dir von meiner Reise.,I'll tell you about my trip.,dativ-pronoun-von-nomen
+Wovon erzählst du?,What are you talking about?,dativ-question
+Er erzählt nie von sich.,He never talks about himself.,dativ-reflexive-negative
+Erzähl mal von deiner Arbeit!,Tell me about your work!,imperative

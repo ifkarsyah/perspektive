@@ -1,0 +1,9 @@
+example_sentence_de,example_sentence_en,grammar_type
+"Ich bin dafür, dass wir eine Pause machen.",I'm in favor of taking a break.,dass-clause
+"Ich bin dafür, dass jeder mitmachen kann.",I'm in favor of everyone being able to join.,dass-clause-modal
+"Ich bin dafür, dass wir früher anfangen.",I'm in favor of us starting earlier.,dass-clause-separable
+Ich bin für den Vorschlag.,I'm for the proposal.,fuer-akkusativ
+Wer ist dafür?,Who is in favor?,question
+Ich bin dafür.,I'm for it.,short
+Ich bin voll dafür.,I'm totally for it.,short-adverb
+"Ich bin dafür, ins Kino zu gehen.",I'm in favor of going to the movies.,zu-infinitive

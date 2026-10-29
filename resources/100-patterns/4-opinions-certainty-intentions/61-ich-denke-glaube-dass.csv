@@ -1,0 +1,10 @@
+example_sentence_de,example_sentence_en,grammar_type
+"Ich denke, dass du recht hast.",I think that you're right.,dass-clause
+"Ich denke, dass wir früher anfangen sollten.",I think that we should start earlier.,dass-clause-modal
+"Ich glaube, dass er heute nicht kommt.",I believe that he's not coming today.,dass-clause-negative
+"Ich glaube, dass sie schon angekommen ist.",I believe that she has already arrived.,dass-clause-perfekt
+"Ich glaube, dass der Zug gleich ankommt.",I believe that the train is arriving soon.,dass-clause-separable
+"Ich denke, das ist eine gute Idee.",I think that's a good idea.,no-dass
+"Glaubst du, dass das funktioniert?",Do you think that will work?,question
+Ich glaube nicht.,I don't think so.,short-negative
+Ich glaube schon.,I think so.,short-positive

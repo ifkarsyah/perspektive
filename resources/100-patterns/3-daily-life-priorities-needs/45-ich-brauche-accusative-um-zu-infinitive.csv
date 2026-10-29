@@ -1,0 +1,9 @@
+example_sentence_de,example_sentence_en,grammar_type
+"Ich brauche Geld, um ein Auto zu kaufen.",I need money to buy a car.,akkusativ-nomen-um-zu
+"Ich brauche eine Brille, um gut zu sehen.",I need glasses to see well.,akkusativ-nomen-um-zu-adverb
+"Ich brauche mehr Zeit, um mich vorzubereiten.",I need more time to prepare myself.,akkusativ-nomen-um-zu-reflexive
+"Ich brauche ein Visum, um nach Deutschland einzureisen.",I need a visa to enter Germany.,akkusativ-nomen-um-zu-separable
+"Ich brauche einen Laptop, um zu arbeiten.",I need a laptop to work.,akkusativ-nomen-um-zu-verb-only
+"Ich brauche deine Hilfe, um das zu schaffen.",I need your help to manage that.,akkusativ-possessive-nomen-um-zu
+"Ich lerne Deutsch, um in Berlin zu arbeiten.",I'm learning German in order to work in Berlin.,other-verb-um-zu
+"Um Deutsch zu lernen, brauche ich Geduld.","To learn German, I need patience.",um-zu-first

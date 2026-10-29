@@ -1,0 +1,10 @@
+example_sentence_de,example_sentence_en,grammar_type
+Das ist ein schönes Haus.,That is a beautiful house.,adjective-nomen
+Das ist Anna.,This is Anna.,name
+Das ist Herr Müller.,This is Mr. Müller.,name-title
+Das ist der Bahnhof.,That is the train station.,nomen-definite
+Das ist ein Tisch.,That is a table.,nomen-indefinite
+Das ist kein Problem.,That is no problem.,nomen-negative
+Das sind meine Freunde.,These are my friends.,nomen-plural
+Das ist mein Schlüssel.,That is my key.,possessive-nomen
+Das ist meine Mutter.,This is my mother.,possessive-nomen-person

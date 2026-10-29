@@ -1,0 +1,9 @@
+example_sentence_de,example_sentence_en,grammar_type
+Passt es dir morgen?,Does tomorrow suit you?,adverb
+Am Dienstag passt es mir nicht.,Tuesday doesn't suit me.,answer-negative
+"Ja, das passt mir gut.","Yes, that suits me well.",answer-positive
+Passt es dir am Montag?,Does Monday suit you?,day
+Passt es Ihnen am Mittwochnachmittag?,Does Wednesday afternoon suit you?,day-part
+Passt es dir am Freitag um 10 Uhr?,Does Friday at 10 suit you?,day-time
+Passt dir 15 Uhr?,Does 3 PM work for you?,time-only
+Passt es dir am Wochenende?,Does the weekend suit you?,weekend

@@ -1,0 +1,9 @@
+example_sentence_de,example_sentence_en,grammar_type
+Ich mache mir Sorgen um die Zukunft.,I'm worried about the future.,akkusativ-nomen-definite
+Machst du dir Sorgen um die Prüfung?,Are you worried about the exam?,akkusativ-nomen-question
+Ich mache mir Sorgen um meine Mutter.,I'm worried about my mother.,akkusativ-possessive-nomen
+Ich mache mir große Sorgen um meinen Job.,I'm very worried about my job.,akkusativ-possessive-nomen-adjective
+Ich mache mir Sorgen um dich.,I'm worried about you.,akkusativ-pronoun
+Er macht sich Sorgen um seine Gesundheit.,He's worried about his health.,akkusativ-third-person
+"Ich mache mir Sorgen, dass es zu spät ist.",I'm worried that it's too late.,dass-clause
+Mach dir keine Sorgen!,Don't worry!,imperative-negative

@@ -1,0 +1,9 @@
+example_sentence_de,example_sentence_en,grammar_type
+Ich habe fünf Jahre Erfahrung als Lehrer.,I have five years of experience as a teacher.,als-profession
+Ich habe keine Erfahrung in diesem Bereich.,I have no experience in this field.,dativ-demonstrative-nomen-negative
+Ich habe Erfahrung in Python.,I have experience in Python.,dativ-no-article
+Ich habe Erfahrung im Marketing.,I have experience in marketing.,dativ-nomen-contraction
+Ich habe Erfahrung in der Gastronomie.,I have experience in the restaurant business.,dativ-nomen-feminine
+Hast du Erfahrung im Verkauf?,Do you have experience in sales?,dativ-nomen-question
+Ich habe erste Erfahrungen in der IT gesammelt.,I've gained some first experience in IT.,dativ-perfekt
+Ich habe viel Erfahrung mit Kindern.,I have a lot of experience with children.,mit-dativ-plural

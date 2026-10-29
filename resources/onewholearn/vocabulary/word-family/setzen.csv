@@ -1,0 +1,14 @@
+german,type,formation,english,example
+setzen,Root,,to set / put,Ich setze das Kind auf den Stuhl.
+absetzen,Prefixed verb,ab + setzen,discontinue / remove,Der Arzt setzt das Medikament ab.
+ansetzen,Prefixed verb,an + setzen,apply / schedule / start,Wir setzen einen Termin an.
+einsetzen,Prefixed verb,ein + setzen,"to insert; to deploy, to use",
+fortsetzen,Prefixed verb,fort + setzen,continue,Wir setzen die Arbeit fort.
+umsetzen,Prefixed verb,um + setzen,implement / convert,Wir setzen den Plan um.
+versetzen,Prefixed verb,ver + setzen,"to move, to transfer",
+voraussetzen,Prefixed verb,voraus + setzen,"to presuppose, to assume",
+zurücksetzen,Prefixed verb,zurück + setzen,reset,Ich setze das Handy zurück.
+Einsatz,Derived noun,einsetzen -> der Einsatz,"mission, operation, deployment",Die Polizei hatte einen schwierigen Einsatz.
+Umsetzung,Derived noun,umsetzen -> die Umsetzung,implementation,Die Umsetzung dauert lange.
+Voraussetzung,Derived noun,voraussetzen -> die Voraussetzung,prerequisite,Gute Sprachkenntnisse sind eine Voraussetzung.
+Fortsetzung,Derived noun,fortsetzen -> die Fortsetzung,continuation,Die Fortsetzung folgt nächste Woche.

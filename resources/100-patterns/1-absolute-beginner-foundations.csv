@@ -1,0 +1,21 @@
+id,pattern_title,grammar_note,anchor_example_de,anchor_example_en
+1,Ich bin + [Nomen / Adjektiv],Basic identity and states.,Ich bin müde und brauche eine Pause.,I am tired and need a break.
+2,Ich habe + [Akkusativ],Expressing possession (einen / eine / ein).,Ich habe einen Hund und zwei Katzen.,I have a dog and two cats.
+3,Das ist + [Nomen],Identifying objects or people.,Das ist mein Schlüssel.,That is my key.
+4,Hier gibt es + [Akkusativ],"Expressing ""There is / There are"" (Es gibt + Akkusativ).",Hier gibt es einen schönen Park.,There is a nice park here.
+5,Ich möchte + [Akkusativ / Infinitiv],"Polite expression of desire (""I would like..."").",Ich möchte bitte einen Kaffee bestellen.,"I would like to order a coffee, please."
+6,Ich mag + [Akkusativ],Expressing general preference or liking.,Ich mag moderne Musik sehr.,I like modern music a lot.
+7,Ich kann + [Infinitiv],Expressing ability or capability (Modal verb: können).,Ich kann sehr gut kochen.,I can cook very well.
+8,Ich muss + [Infinitiv],Expressing necessity or obligation (Modal verb: müssen).,Ich muss jetzt leider nach Hause gehen.,"Unfortunately, I have to go home now."
+9,Ich will + [Infinitiv],Expressing strong intention or desire (Modal verb: wollen).,Ich will dieses Jahr Deutsch lernen.,I want to learn German this year.
+10,Ich wohne in + [Ort],Stating location of residence.,Ich wohne seit zwei Jahren in Berlin.,I have been living in Berlin for two years.
+11,Ich komme aus + [Land / Stadt],Stating origin (Preposition aus + Dative).,Ich komme aus Spanien.,I come from Spain.
+12,Ich spreche + [Sprache],Stating language proficiency.,Ich spreche ein bisschen Deutsch und Englisch.,I speak a little German and English.
+13,Ich suche + [Akkusativ],Looking for something or someone.,"Entschuldigung, ich suche den Bahnhof.","Excuse me, I am looking for the train station."
+14,Ich brauche + [Akkusativ],Expressing immediate need.,Ich brauche unbedingt eine kleine Pause.,I urgently need a short break.
+15,Ich finde + [Akkusativ] + [Adjektiv],Expressing an evaluation or opinion about something.,Ich finde den neuen Film sehr interessant.,I find the new movie very interesting.
+16,Ich gehe nach + [Hause / Ort],Movement towards home or named cities/countries.,"Ich bin müde, ich gehe jetzt nach Hause.","I am tired, I am going home now."
+17,Ich gehe zu + [Dativ],Movement towards a person or destination (zu + Dative).,Ich gehe heute Nachmittag zum Supermarkt.,I am going to the supermarket this afternoon.
+18,Mir ist + [Adjektiv],Expressing physical sensations or feelings (Dative pronoun).,Kannst du das Fenster schließen? Mir ist kalt.,Can you close the window? I am cold.
+19,Es ist + [Uhrzeit / Wetter],Stating time or describing weather.,Es ist schon 8 Uhr und es ist sehr warm.,It is already 8 o'clock and it is very warm.
+20,Ich habe Hunger / Durst,Expressing hunger or thirst (Fixed nouns without article).,"Ich habe großen Hunger, lass uns essen.","I am very hungry, let's eat."

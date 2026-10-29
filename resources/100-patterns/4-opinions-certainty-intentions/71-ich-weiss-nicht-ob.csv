@@ -1,0 +1,9 @@
+example_sentence_de,example_sentence_en,grammar_type
+"Ich weiß nicht, ob er kommt.",I don't know whether he's coming.,ob-clause
+"Ich weiß nicht, ob ich das schaffen kann.",I don't know whether I can manage that.,ob-clause-modal
+"Ich weiß nicht, ob sie schon angerufen hat.",I don't know whether she has called already.,ob-clause-perfekt
+"Ich weiß nicht, ob der Laden heute aufmacht.",I don't know whether the shop opens today.,ob-clause-separable
+Ich weiß es nicht.,I don't know.,short
+"Ich weiß nicht, wann der Zug kommt.",I don't know when the train comes.,wann-clause
+"Ich weiß nicht, wie das funktioniert.",I don't know how that works.,wie-clause
+"Ich weiß nicht, wo mein Handy ist.",I don't know where my phone is.,wo-clause

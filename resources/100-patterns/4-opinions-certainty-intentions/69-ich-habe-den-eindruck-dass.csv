@@ -1,0 +1,9 @@
+example_sentence_de,example_sentence_en,grammar_type
+"Ich habe den Eindruck, dass das Projekt gut läuft.",I have the impression that the project is going well.,dass-clause
+"Ich habe den Eindruck, dass er müde ist.",I have the impression that he's tired.,dass-clause-adjective
+"Ich habe den Eindruck, dass wir mehr üben müssen.",I have the impression that we need to practice more.,dass-clause-modal
+"Ich habe den Eindruck, dass sie uns nicht versteht.",I have the impression that she doesn't understand us.,dass-clause-negative
+"Ich habe den Eindruck, dass er etwas vergessen hat.",I have the impression that he forgot something.,dass-clause-perfekt
+Das macht einen guten Eindruck.,That makes a good impression.,fixed-eindruck-machen
+"Ich habe den Eindruck, er mag mich nicht.",I get the impression he doesn't like me.,no-dass
+"Hast du auch den Eindruck, dass es teurer geworden ist?",Do you also feel that it has gotten more expensive?,question

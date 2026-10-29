@@ -1,0 +1,9 @@
+example_sentence_de,example_sentence_en,grammar_type
+Ich frage nach der Adresse.,I'm asking for the address.,dativ-nomen-feminine
+Ich frage im Hotel nach einem Zimmer.,I'm asking at the hotel for a room.,dativ-nomen-indefinite
+Ich frage nach dem Weg.,I'm asking for directions.,dativ-nomen-masculine
+Ich frage nach deiner Nummer.,I'm asking for your number.,dativ-possessive-nomen
+Darf ich nach Ihrem Namen fragen?,May I ask your name?,dativ-possessive-nomen-formal
+Er fragt nach dir.,He's asking about you.,dativ-pronoun
+Hat jemand nach mir gefragt?,Did anyone ask for me?,dativ-pronoun-perfekt
+Ich frage mal nach.,I'll ask about it.,separable-nachfragen

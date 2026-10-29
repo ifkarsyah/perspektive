@@ -1,0 +1,9 @@
+example_sentence_de,example_sentence_en,grammar_type
+Das dauert zu lange.,That takes too long.,adjective-too-long
+Es dauert zwei Stunden.,It takes two hours.,duration-hours
+Es dauert fünf Minuten.,It takes five minutes.,duration-minutes
+Es dauert noch ein bisschen.,It'll take a little longer.,duration-vague
+Es dauert nicht lange.,It won't take long.,negative
+Wie lange dauert es?,How long does it take?,question
+Die Reise dauert drei Tage.,The trip takes three days.,subject-nomen
+Der Film dauert ungefähr anderthalb Stunden.,The film is about an hour and a half long.,subject-nomen-approximate

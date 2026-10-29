@@ -1,0 +1,7 @@
+example_sentence_de,example_sentence_en,grammar_type
+Ich spreche Deutsch.,I speak German.,language
+Ich spreche fließend Englisch.,I speak English fluently.,language-adverb
+Ich spreche Englisch und Indonesisch.,I speak English and Indonesian.,language-multiple
+Ich spreche kein Japanisch.,I don't speak Japanese.,language-negative
+Ich spreche ein bisschen Deutsch.,I speak a little German.,language-quantity
+Sprechen Sie Englisch?,Do you speak English?,language-question

@@ -1,0 +1,10 @@
+example_sentence_de,example_sentence_en,grammar_type
+Ich helfe Anna.,I'm helping Anna.,dativ-name
+Ich helfe der Nachbarin.,I'm helping the neighbor (female).,dativ-nomen-feminine
+Ich helfe dem Kollegen.,I'm helping the colleague.,dativ-nomen-masculine
+Ich helfe den Kindern.,I'm helping the children.,dativ-nomen-plural
+Ich helfe meinem Bruder.,I'm helping my brother.,dativ-possessive-nomen
+Ich helfe meiner Mutter beim Kochen.,I'm helping my mother with the cooking.,dativ-possessive-nomen-bei
+Ich helfe dir.,I'm helping you.,dativ-pronoun
+Ich helfe ihm nicht.,I'm not helping him.,dativ-pronoun-negative
+Kannst du mir helfen?,Can you help me?,dativ-pronoun-question

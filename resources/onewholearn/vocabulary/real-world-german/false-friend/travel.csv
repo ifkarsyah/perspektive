@@ -1,0 +1,11 @@
+german,looks_like,actually_means,example_german,example_english,severity
+bald,bald (no hair),soon,Er kommt bald.,He's coming soon.,high
+fast,fast (quick),almost / nearly,Ich bin fast fertig.,I'm almost done.,high
+also,also (additionally),so / well / thus (transition),"Also, was machen wir jetzt?","So, what do we do now?",high
+eventuell,eventually (finally),possibly / perhaps,Das könnte eventuell ein Problem sein.,That could possibly be a problem.,high
+aktuell,actually (in fact),currently / present / up-to-date,Das ist die aktuelle Situation.,That is the current situation.,high
+Pension,pension (retirement payment),guesthouse / B&B (also retirement in context),Wir übernachten in einer kleinen Pension.,We're staying in a small guesthouse.,medium
+Termin,terminal / term (end period),appointment / deadline,Ich habe morgen einen Termin beim Arzt.,I have a doctor's appointment tomorrow.,medium
+Reklamation,reclamation (recovery),complaint / claim (customer service),Ich möchte eine Reklamation einreichen.,I'd like to file a complaint.,high
+Station,station (train),station (train/bus) OR hospital ward,Der Patient liegt auf der chirurgischen Station.,The patient is in the surgical ward.,medium
+demonstrieren,to demonstrate (show),to protest / demonstrate (politically),Die Studenten demonstrieren gegen die Reform.,The students are protesting against the reform.,low

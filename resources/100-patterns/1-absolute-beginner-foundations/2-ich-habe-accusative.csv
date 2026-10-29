@@ -1,0 +1,11 @@
+example_sentence_de,example_sentence_en,grammar_type
+Ich habe einen neuen Laptop.,I have a new laptop.,akkusativ-adjective-nomen
+Ich habe morgen einen Termin.,I have an appointment tomorrow.,akkusativ-nomen-adverb
+Ich habe eine Schwester.,I have a sister.,akkusativ-nomen-feminine
+Ich habe einen Bruder.,I have a brother.,akkusativ-nomen-masculine
+Ich habe keinen Termin.,I don't have an appointment.,akkusativ-nomen-negative
+Ich habe ein Fahrrad.,I have a bike.,akkusativ-nomen-neuter
+Ich habe Hunger.,I am hungry.,akkusativ-nomen-no-article
+Ich habe zwei Kinder.,I have two children.,akkusativ-nomen-plural
+Ich habe meinen Schlüssel.,I have my key.,akkusativ-possessive-nomen
+Ich habe ihn schon.,I already have it.,akkusativ-pronoun

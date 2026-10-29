@@ -1,0 +1,8 @@
+example_sentence_de,example_sentence_en,grammar_type
+Ich fahre morgen nach München.,I'm going to Munich tomorrow.,city
+Ich ziehe nächsten Monat nach Hamburg.,I'm moving to Hamburg next month.,city-moving
+Ich fliege im Sommer nach Japan.,I'm flying to Japan in the summer.,country
+Ich gehe nach links.,I'm going left.,direction
+Ich gehe nach Hause.,I'm going home.,home
+Ich gehe jetzt nach Hause.,I'm going home now.,home-adverb
+Wann gehst du nach Hause?,When are you going home?,home-question

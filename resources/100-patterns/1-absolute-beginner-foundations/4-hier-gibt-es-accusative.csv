@@ -1,0 +1,10 @@
+example_sentence_de,example_sentence_en,grammar_type
+Hier gibt es ein gutes Restaurant.,There is a good restaurant here.,akkusativ-adjective-nomen
+Hier gibt es eine Apotheke.,There is a pharmacy here.,akkusativ-nomen-feminine
+Hier gibt es einen Supermarkt.,There is a supermarket here.,akkusativ-nomen-masculine
+Hier gibt es keinen Parkplatz.,There is no parking space here.,akkusativ-nomen-negative
+Hier gibt es ein Café.,There is a café here.,akkusativ-nomen-neuter
+Hier gibt es oft Stau.,There is often traffic here.,akkusativ-nomen-no-article
+Hier gibt es viele Touristen.,There are many tourists here.,akkusativ-nomen-plural
+Gibt es hier eine Toilette?,Is there a toilet here?,akkusativ-nomen-question
+Am Wochenende gibt es hier einen Markt.,On the weekend there is a market here.,akkusativ-nomen-time

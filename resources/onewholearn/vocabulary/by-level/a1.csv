@@ -1,0 +1,714 @@
+german,english,type,gender,plural,ipa,example_de,example_en
+Radio,radio,noun,neuter,Radios,ˈʁaːdi̯o,Das Radio spielt meine Lieblingsmusik.,The radio is playing my favorite music.
+am,on (days/times),preposition,,,am,Wir treffen uns am Dienstag.,We meet on Tuesday.
+Auf Wiedersehen!,Goodbye!,phrase,,,aʊ̯f ˈviːdɐˌzeːən,Auf Wiedersehen! Bis nächste Woche!,Goodbye! See you next week!
+aus,"from, out of",preposition,,,aʊ̯s,Ich komme aus der Schweiz.,I come from Switzerland.
+deutsch,German,adjective,,,dɔɪ̯t͡ʃ,Er ist ein deutscher Lehrer.,He is a German teacher.
+Deutschland,Germany,noun,,,ˈdɔɪ̯t͡ʃˌlant,Ich komme aus Deutschland.,I come from Germany.
+Donnerstag,Thursday,noun,masculine,Donnerstage,ˈdɔnɐsˌtaːk,Donnerstag ist unser Sporttag.,Thursday is our sports day.
+feminin,feminine,adjective,,,ˌfemiˈniːn,Sie hat einen femininen Stil.,She has a feminine style.
+Frage,question,noun,feminine,Fragen,ˈfʁaːɡə,Ich habe eine Frage.,I have a question.
+Freitag,Friday,noun,masculine,Freitage,ˈfʁaɪ̯ˌtaːk,Freitag ist der letzte Arbeitstag.,Friday is the last working day.
+glauben,to believe,verb,,,ˈɡlaʊ̯bn̩,"Ich glaube, du schaffst das.",I believe you can do it.
+Guten Tag!,Good day!,phrase,,,ˌɡuːtn̩ ˈtaːk,Guten Tag! Wie geht es Ihnen?,Good day! How are you?
+Hallo!,Hello!,phrase,,,ˈhalo,Hallo! Wie geht's dir?,Hello! How are you?
+Heft,"notebook, exercise book",noun,neuter,Hefte,hɛft,Schreibe es in dein Heft.,Write it in your notebook.
+Artikel,article,noun,masculine,Artikel,ˌaʁˈtiːkl̩,Ich lese einen interessanten Artikel online.,I am reading an interesting article online.
+Automat,"machine, vending machine",noun,masculine,Automaten,aʊ̯toˈmaːt,Der Automat nimmt keine Zehn-Euro-Scheine an.,The machine does not accept ten-euro notes.
+Bankautomat,ATM,noun,masculine,Bankautomaten,ˈbaŋkʔaʊ̯toˌmaːt,Wo ist der nächste Bankautomat hier bitte?,"Where is the nearest ATM here, please?"
+Bild,"picture, image",noun,neuter,Bilder,bɪlt,Das ist ein schönes Bild.,That is a beautiful picture.
+Buch,book,noun,neuter,Bücher,buːx,Ich lese ein Buch.,I am reading a book.
+Buchstabe,letter (of the alphabet),noun,masculine,Buchstaben,ˈbuːxˌʃtaːbə,Wie viele Buchstaben hat das Wort?,How many letters does the word have?
+buchstabieren,to spell,verb,,,ˌbuːxʃtaˈbiːʁən,Können Sie bitte Ihren Namen buchstabieren?,Can you please spell your name?
+Computer,computer,noun,masculine,Computer,kɔmˈpjuːtɐ,Ich brauche einen neuen Computer.,I need a new computer.
+Dienstag,Tuesday,noun,masculine,Dienstage,ˈdiːnsˌtaːk,Am Dienstag habe ich frei.,On Tuesday I have off.
+Familie,family,noun,feminine,Familien,faˈmiːli̯ə,Meine Familie ist klein.,My family is small.
+fragen,to ask,verb,,,ˈfʁaːɡn̩,Ich frage den Lehrer.,I ask the teacher.
+heißen,to be called,verb,,,ˈhaɪ̯sn̩,Ich heiße Anna und komme aus Berlin.,My name is Anna and I come from Berlin.
+Konjugation,conjugation,noun,feminine,Konjugationen,ˌkɔnjuɡaˈt͡si̯oːn,Die Konjugation der Verben ist wichtig.,The conjugation of verbs is important.
+Kuli,ballpoint pen,noun,masculine,Kulis,ˈkuːli,Wo ist mein Kuli?,Where is my pen?
+leicht,"easy, light",adjective,,,laɪ̯çt,Diese Übung ist sehr leicht.,This exercise is very easy.
+lernen,to learn,verb,,,ˈlɛʁnən,Wir lernen jeden Tag Deutsch.,We learn German every day.
+maskulin,masculine,adjective,,,ˈmaskuˌliːn,Das Wort „Mann“ ist maskulin.,"The word ""man"" is masculine."
+Mensch,"person, human being",noun,masculine,Menschen,mɛnʃ,Jeder Mensch braucht Wasser.,Every person needs water.
+Mittwoch,Wednesday,noun,masculine,Mittwoche,ˈmɪtˌvɔx,Am Mittwoch habe ich frei.,"On Wednesday, I have the day off."
+Montag,Monday,noun,masculine,Montage,ˈmoːnˌtaːk,Der Montag ist der erste Wochentag.,Monday is the first day of the week.
+nein,no,adverb,,,naɪ̯n,"Nein, das ist leider nicht die richtige Antwort.","No, that is unfortunately not the correct answer."
+neutral,neuter,adjective,,,nɔɪ̯ˈtʁaːl,Das Wort „Kind“ ist neutral.,"The word ""child"" is neuter."
+noch,"still, yet",adverb,,,nɔx,Ich wohne noch bei meinen Eltern in München.,I still live with my parents in Munich.
+Nomen,noun,noun,neuter,Nomina,ˈnoːmən,Ein Nomen hat immer einen Artikel.,A noun always has an article.
+Papier,paper,noun,neuter,Papiere,paˈpiːɐ̯,Ich brauche ein Blatt Papier.,I need a sheet of paper.
+Person,person,noun,feminine,Personen,pɛʁˈzoːn,Er ist eine nette Person.,He is a nice person.
+Samstag,Saturday,noun,masculine,Samstage,ˈzamstaːk,Am Samstag habe ich frei.,"On Saturday, I am free."
+Satz,sentence,noun,masculine,Sätze,zat͡s,Bitte bilden Sie einen Satz.,Please form a sentence.
+schreiben,to write,verb,,,ˈʃʁaɪ̯bn̩,Ich schreibe einen Brief.,I write a letter.
+Sonntag,Sunday,noun,masculine,Sonntage,ˈzɔnˌtaːk,Am Sonntag schlafe ich lange.,"On Sunday, I sleep long."
+sprechen,to speak,verb,,,ˈʃpʁɛçn̩,Ich spreche Deutsch.,I speak German.
+Stift,"pen, pencil",noun,masculine,Stifte,ʃtɪft,Hast du einen Stift für mich?,Do you have a pen for me?
+super,"super, great",adjective,,,ˈzuːpɐ,Dein neues Hemd sieht super aus!,Your new shirt looks super!
+Tafel,blackboard,noun,feminine,Tafeln,ˈtaːfl̩,Der Lehrer schreibt an die Tafel.,The teacher writes on the blackboard.
+Tasche,bag,noun,feminine,Taschen,ˈtaʃə,Meine Tasche ist sehr schwer.,My bag is very heavy.
+Uhr,"clock, watch",noun,feminine,Uhren,uːɐ̯,Meine Uhr geht fünf Minuten vor.,My watch is five minutes fast.
+Verb,verb,noun,neuter,Verben,vɛʁp,Ich lerne ein neues deutsches Verb heute.,I am learning a new German verb today.
+Vormittag,late morning,noun,masculine,Vormittage,ˈfoːɐ̯mɪˌtaːk,Am Vormittag habe ich Zeit.,In the late morning I have time.
+wann,when,adverb,,,van,Wann fährt der nächste Zug nach Berlin ab?,When does the next train to Berlin depart?
+wer,who,adverb,,,veːɐ̯,Wer ist der nette Mann dort drüben an der Tür?,Who is the nice man over there at the door?
+wie,how,adverb,,,viː,Wie lange dauert die Fahrt zum Flughafen von hier?,How long does the ride to the airport take from here?
+willkommen,welcome,adjective,,,vɪlˈkɔmən,Herzlich willkommen in unserem neuen Haus!,A warm welcome to our new house!
+woher,where from,adverb,,,voˈheːɐ̯,Woher kommen Sie?,Where do you come from?
+Wortstellung,word order,noun,feminine,Wortstellungen,ˈvɔʁtˌʃtɛlʊŋ,Die deutsche Wortstellung ist manchmal schwierig.,German word order is sometimes difficult.
+allein,alone,adjective,,,aˈlaɪ̯n,Sie ist heute allein.,She is alone today.
+Antwort,answer,noun,feminine,Antworten,ˈantvɔʁt,Ich warte auf deine Antwort.,I am waiting for your answer.
+arbeiten,to work,verb,,,ˈaʁbaɪ̯tn̩,Ich arbeite in einem Büro.,I work in an office.
+Architekt,architect (male),noun,masculine,Architekten,aʁçiˈtɛkt,Der Architekt plant ein modernes Haus.,The architect is planning a modern house.
+Architektin,architect (female),noun,feminine,Architektinnen,aʁçiˈtɛktɪn,Sie ist eine gute Architektin.,She is a good architect.
+auch,"also, too",adverb,,,aʊ̯x,Ich komme auch aus Deutschland.,I also come from Germany.
+Ausland,"abroad, foreign country",noun,neuter,,ˈaʊ̯slant,Er arbeitet im Ausland.,He works abroad.
+Bruder,brother,noun,masculine,Brüder,ˈbʁuːdɐ,Mein Bruder spielt gern Fußball im Park.,My brother likes to play football in the park.
+Cousin,cousin (male),noun,masculine,Cousins,kuˈzɛ̃ː,Mein Cousin wohnt in Hamburg.,My cousin lives in Hamburg.
+Cousine,cousin (female),noun,feminine,Cousinen,kuˈziːnə,Meine Cousine ist sehr nett.,My cousin is very nice.
+dann,then,adverb,,,dan,"Zuerst essen wir, dann gehen wir nach Hause.","First we eat, then we go home."
+dein,your (informal),pronoun,,,daɪ̯n,Ist das dein neues Buch?,Is that your new book?
+Designer,designer (male),noun,masculine,Designer,diˈzaɪ̯nɐ,Der Designer entwirft schöne Kleidung.,The designer designs beautiful clothes.
+Designerin,designer (female),noun,feminine,Designerinnen,diˈzaɪ̯nəʁɪn,Sie ist eine gute Designerin.,She is a good designer.
+doch,"yes (contradicting), but",adverb,,,dɔx,"Du bist nicht müde? Doch, ich bin müde!","You are not tired? Yes, I am tired!"
+dreißig,thirty,phrase,,,ˈdʁaɪ̯sɪç,Ich bin dreißig Jahre alt.,I am thirty years old.
+eins / ein,one,phrase,,,aɪ̯ns / aɪ̯n,"Ich nehme ein Bier, bitte.","I'll take one beer, please."
+Einzelkind,only child,noun,neuter,Einzelkinder,ˈaɪ̯nt͡sl̩ˌkɪnt,Ich bin ein Einzelkind.,I am an only child.
+Eltern,parents,noun,,,ˈɛltɐn,Meine Eltern sind zu Hause.,My parents are at home.
+euer,your (plural informal),pronoun,,,ˈɔɪ̯ɐ,Ist das euer Auto?,Is that your car?
+Foto,photo,noun,neuter,Fotos,ˈfoːto,Ich mache ein Foto.,I am taking a photo.
+Fotograf,photographer,noun,masculine,Fotografen,fotoˈɡʁaːf,Der Fotograf macht schöne Fotos.,The photographer takes beautiful photos.
+Frau,woman,noun,feminine,Frauen,fʁaʊ̯,Die Frau liest ein Buch.,The woman is reading a book.
+Freund,friend,noun,masculine,Freunde,fʁɔɪ̯nt,Das ist mein bester Freund.,This is my best friend.
+Freundin,friend (female),noun,feminine,Freundinnen,ˈfʁɔɪ̯ndɪn,Meine Freundin heißt Anna.,My friend's name is Anna.
+Fußball (spielen),to play football,phrase,,,ˈfuːsbal ˈʃpiːlən,Wir spielen gern Fußball.,We like to play football.
+gern,"gladly, with pleasure",adverb,,,ɡɛʁn,Ich esse gern Pizza.,I like to eat pizza.
+geschieden,divorced,adjective,,,ɡəˈʃiːdn̩,Sie ist leider schon geschieden.,"Unfortunately, she is already divorced."
+Geschwister,siblings,noun,feminine,Geschwister,ɡəˈʃvɪstɐ,Ich habe zwei Geschwister.,I have two siblings.
+Großeltern,grandparents,noun,,,ˈɡʁoːsˌʔɛltɐn,Meine Großeltern wohnen hier.,My grandparents live here.
+Großmutter,grandmother,noun,feminine,Großmütter,ˈɡʁoːsˌmʊtɐ,Meine Großmutter backt Kuchen.,My grandmother bakes cake.
+Großvater,grandfather,noun,masculine,Großväter,ˈɡʁoːsˌfaːtɐ,Mein Großvater erzählt Geschichten.,My grandfather tells stories.
+gut,good,adjective,,,ɡuːt,Dieses Essen ist sehr gut.,This food is very good.
+hören,to hear,verb,,,ˈhøːʁən,Hörst du die laute Musik?,Do you hear the loud music?
+hundert,hundred,phrase,,,ˈhʊndɐt,Das Buch kostet hundert Euro.,The book costs one hundred euros.
+ihr (Pl.),their,pronoun,,,iːɐ,Das sind ihre Kinder.,Those are their children.
+Informatiker,IT specialist (male),noun,masculine,Informatiker,ɪnfɔʁˈmaːtɪkɐ,Mein Bruder ist Informatiker.,My brother is an IT specialist.
+Informatikerin,IT specialist (female),noun,feminine,Informatikerinnen,ɪnfɔʁˈmaːtɪkəʁɪn,Sie ist eine gute Informatikerin.,She is a good IT specialist.
+Ingenieur,engineer (male),noun,masculine,Ingenieure,ɪnʒeˈni̯øːɐ̯,Mein Vater ist Ingenieur.,My father is an engineer.
+Ingenieurin,engineer (female),noun,feminine,Ingenieurinnen,ɪnʒeˈni̯øːʁɪn,Meine Schwester ist Ingenieurin.,My sister is an engineer.
+international,international,adjective,,,ˌɪntɐnat͡si̯oˈnaːl,Die Firma ist international.,The company is international.
+ja,yes,adverb,,,jaː,"Ja, das stimmt.","Yes, that's right."
+jetzt,now,adverb,,,jɛt͡st,Ich gehe jetzt nach Hause.,I am going home now.
+Kind,child,noun,neuter,Kinder,kɪnt,Das Kind spielt im Garten.,The child plays in the garden.
+klein,small,adjective,,,klaɪ̯n,Meine Katze ist sehr klein.,My cat is very small.
+Koch,"cook, chef (male)",noun,masculine,Köche,kɔx,Der Koch macht gutes Essen.,The chef makes good food.
+kochen,to cook,verb,,,ˈkɔxn̩,Ich koche heute Abend Suppe.,I am cooking soup tonight.
+Köchin,"cook, chef (female)",noun,feminine,Köchinnen,ˈkœçɪn,Die Köchin macht gutes Essen.,The cook makes good food.
+Kollege,colleague (male),noun,masculine,Kollegen,kɔˈleːɡə,Mein Kollege kommt aus Berlin.,My colleague comes from Berlin.
+Kollegin,colleague (female),noun,feminine,Kolleginnen,ˌkɔˈleːɡɪn,Das ist meine neue Kollegin.,This is my new colleague.
+Land,"country, land",noun,neuter,Länder,lant,Deutschland ist ein schönes Land.,Germany is a beautiful country.
+Leben,life,noun,neuter,Leben,ˈleːbn̩,Mein Leben ist sehr schön.,My life is very beautiful.
+ledig,single (unmarried),adjective,,,ˈleːdɪç,Bist du verheiratet oder ledig?,Are you married or single?
+Lehrer,teacher,noun,masculine,Lehrer,ˈleːʁɐ,Der Lehrer erklärt die Aufgabe.,The teacher explains the task.
+Liebe,love,noun,feminine,,ˈliːbə,Die Liebe ist ein schönes Gefühl.,Love is a beautiful feeling.
+Lieblingsthema,favorite topic,noun,neuter,Lieblingsthemen,ˈliːplɪŋsˌteːma,Politik ist nicht mein Lieblingsthema.,Politics is not my favorite topic.
+Mam,mom,noun,neuter,Mams,mam,Meine Mam kocht heute Spaghetti.,My mom cooks spaghetti today.
+man,one (impersonal pronoun),pronoun,,,man,Hier spricht man Englisch.,Here one speaks English.
+Manager,manager (male),noun,masculine,Manager,ˈmɛnɪd͡ʒɐ,Der Manager leitet das Team.,The manager leads the team.
+Managerin,manager (female),noun,feminine,Managerinnen,ˈmɛnɪd͡ʒəʁɪn,Unsere Managerin ist sehr nett.,Our manager is very nice.
+Mann,man,noun,masculine,Männer,man,Der Mann liest ein Buch.,The man reads a book.
+mein,my,pronoun,,,maɪ̯n,Das ist mein Auto.,That is my car.
+meinen,to mean/think,verb,,,ˈmaɪ̯nən,Was meinst du zu diesem Thema?,What do you think about this topic?
+Musiker,musician (male),noun,masculine,Musiker,ˈmuːzɪkɐ,Mein Bruder ist Musiker.,My brother is a musician.
+Musikerin,musician (female),noun,feminine,Musikerinnen,ˈmuːzɪkəʁɪn,Sie ist eine bekannte Musikerin.,She is a well-known musician.
+Mutter,mother,noun,feminine,Mütter,ˈmʊtɐ,Meine Mutter wohnt in Berlin.,My mother lives in Berlin.
+nicht,not,adverb,,,nɪçt,Ich verstehe diese komplizierte Aufgabe leider nicht.,"Unfortunately, I don't understand this complicated task."
+Niederlande,the Netherlands,noun,,,ˈniːdɐˌlandə,Sie reisen in die Niederlande.,They travel to the Netherlands.
+null,zero,phrase,,,nʊl,Die Temperatur ist null Grad.,The temperature is zero degrees.
+Oper,opera,noun,feminine,Opern,ˈoːpɐ,Gehen wir heute Abend in die Oper?,Shall we go to the opera tonight?
+Österreich,Austria,noun,,,ˈøːstəʁaɪ̯ç,Ich fahre diesen Sommer nach Österreich.,I am going to Austria this summer.
+Partner,partner,noun,masculine,Partner,ˈpaʁtnɐ,"Das ist mein Partner, Julian.","This is my partner, Julian."
+Plural,plural,noun,masculine,Plurale,ˈpluːʁaːl,Was ist der Plural von „Buch“?,"What is the plural of ""book""?"
+Puzzle,puzzle,noun,neuter,Puzzles,ˈpʊzl̩,Wir machen ein großes Puzzle zusammen.,We are doing a big puzzle together.
+Schiff,ship,noun,neuter,Schiffe,ʃɪf,Das große Schiff fährt auf dem Meer.,The big ship sails on the sea.
+schön,beautiful,adjective,,,ʃøːn,Der Park ist im Frühling sehr schön.,The park is very beautiful in spring.
+Schwester,sister,noun,feminine,Schwestern,ˈʃvɛstɐ,Das ist meine ältere Schwester.,That is my older sister.
+schwimmen,to swim,verb,,,ˈʃvɪmən,Ich schwimme gern im See.,I like to swim in the lake.
+sehr,very,adverb,,,zeːɐ̯,Das Wetter ist heute sehr schön und warm in Berlin.,The weather is very nice and warm in Berlin today.
+sein,to be,verb,,,zaɪ̯n,Ich bin müde.,I am tired.
+selbständig,"independent, self-employed",adjective,,,ˈzɛlpʃtɛndɪç,Meine Schwester ist sehr selbständig im Leben.,My sister is very independent in life.
+Singular,singular,noun,masculine,Singulare,ˈzɪŋɡuˌlaːɐ̯,Was ist der Singular von „Häuser“?,"What is the singular of ""houses""?"
+Sohn,son,noun,masculine,Söhne,zoːn,Mein Sohn ist fünf Jahre alt.,My son is five years old.
+spielen,to play,verb,,,ˈʃpiːlən,Er spielt Fußball.,He plays soccer.
+Steward,flight attendant (male),noun,masculine,Stewards,ˈstjuːɐt,Der Steward bringt uns Getränke.,The flight attendant brings us drinks.
+Stewardess,flight attendant (female),noun,feminine,Stewardessen,ˈstjuːɐdɛs,Die Stewardess ist sehr freundlich.,The flight attendant is very friendly.
+Tag,day,noun,masculine,Tage,taːk,Guten Tag! Wie geht es Ihnen?,Good day! How are you?
+Tanz,dance,noun,masculine,Tänze,tant͡s,Wir lieben den Tanz sehr.,We love the dance very much.
+tanzen,to dance,verb,,,ˈtant͡sn̩,Wir tanzen gerne am Wochenende.,We like to dance on the weekend.
+Tennis (spielen),to play tennis,phrase,,,ˈtɛnɪs (ˈʃpiːlən),Ich spiele gern Tennis am Samstag.,I like to play tennis on Saturday.
+Thema,"topic, subject",noun,neuter,Themen,ˈteːma,Das ist ein sehr interessantes Thema.,That is a very interesting topic.
+Tochter,daughter,noun,feminine,Töchter,ˈtɔxtɐ,Meine Tochter ist noch klein.,My daughter is still small.
+toll,"great, awesome",adjective,,,tɔl,Das Konzert war gestern wirklich toll.,The concert yesterday was really great.
+Türkei,Turkey,noun,feminine,,tʏʁˈkaɪ̯,Wir fliegen in die Türkei.,We fly to Turkey.
+Ukraine,Ukraine,noun,feminine,,ˌukʁaˈiːnə,Die Ukraine ist ein Land in Osteuropa.,Ukraine is a country in Eastern Europe.
+unser,our,pronoun,,,ˈʊnzɐ,Das ist unser Haus hier.,That is our house here.
+Vater,father,noun,masculine,Väter,ˈfaːtɐ,Mein Vater arbeitet sehr viel.,My father works very much.
+verheiratet,married,adjective,,,fɛɐ̯ˈhaɪ̯ʁaːtət,Sind Sie verheiratet oder ledig?,Are you married or single?
+weil,because,conjunction,,,vaɪ̯l,"Ich bleibe zu Hause, weil ich müde bin.","I am staying at home, because I am tired."
+Woche,week,noun,feminine,Wochen,ˈvɔxə,Ich arbeite fünf Tage pro Woche.,I work five days a week.
+Zahl,number,noun,feminine,Zahlen,t͡saːl,Welche Zahl ist deine Lieblingszahl?,Which number is your favorite number?
+zeichnen,to draw,verb,,,ˈt͡saɪ̯çnən,Sie zeichnet sehr schöne Bilder.,She draws very beautiful pictures.
+zwanzig,twenty,phrase,,,ˈt͡svant͡sɪç,Meine Schwester ist zwanzig Jahre alt.,My sister is twenty years old.
+Abend,evening,noun,masculine,Abende,ˈaːbn̩t,"Guten Abend, wie geht es Ihnen heute?","Good evening, how are you today?"
+Apfel,apple,noun,masculine,Äpfel,ˈap͡fl̩,Ich esse jeden Tag einen Apfel.,I eat an apple every day.
+bestellen,to order,verb,,,bəˈʃtɛlən,Ich möchte einen Kaffee bestellen.,I would like to order a coffee.
+Bier,beer,noun,neuter,Biere,biːɐ̯,Möchten Sie ein Bier?,Would you like a beer?
+bio,organic,adjective,,,ˈbiːo,Ich kaufe gern Bio-Gemüse.,I like to buy organic vegetables.
+Brot,bread,noun,neuter,Brote,bʁoːt,Ich esse gern Brot.,I like to eat bread.
+Butter,butter,noun,feminine,,ˈbʊtɐ,Ich mag Butter auf dem Brot.,I like butter on the bread.
+Durst,thirst,noun,masculine,,dʊʁst,Ich habe großen Durst.,I am very thirsty.
+Durst haben,to be thirsty,phrase,,,dʊʁst ˈhaːbn̩,Ich habe Durst.,I am thirsty.
+Ei,egg,noun,neuter,Eier,aɪ̯,Ich esse ein Ei zum Frühstück.,I eat an egg for breakfast.
+ein / eine / einen,a/an (indefinite article),pronoun,,,aɪ̯n / ˈaɪ̯nə / ˈaɪ̯nən,Ich habe einen Hund.,I have a dog.
+essen,to eat,verb,,,ˈɛsn̩,Ich esse einen Apfel.,I eat an apple.
+Fisch,fish,noun,masculine,Fische,fɪʃ,Ich esse gerne Fisch zum Abendessen.,I like to eat fish for dinner.
+Fleisch,meat,noun,neuter,,flaɪ̯ʃ,Ich esse kein Fleisch.,I don't eat meat.
+Gemüse,vegetables,noun,neuter,Gemüse,ɡəˈmyːzə,Ich esse viel Gemüse.,I eat a lot of vegetables.
+geöffnet,open (of a shop/restaurant),adjective,,,ɡəˈʔœfnət,Der Laden ist jetzt geöffnet.,The shop is open now.
+geschlossen,closed,adjective,,,ɡəˈʃlɔsn̩,Die Bank ist heute geschlossen.,The bank is closed today.
+Getränk,"drink, beverage",noun,neuter,Getränke,ɡəˈtʁɛŋk,Möchtest du ein kaltes Getränk?,Would you like a cold drink?
+getrennt,separately (paying),adverb,,,ɡəˈtʁɛnt,Wir möchten bitte getrennt zahlen.,"We would like to pay separately, please."
+Hauptspeise,main course,noun,feminine,Hauptspeisen,ˈhaʊ̯ptˌʃpaɪ̯zə,Die Hauptspeise ist sehr lecker.,The main course is very delicious.
+Hunger,hunger,noun,masculine,,ˈhʊŋɐ,Ich habe großen Hunger.,I am very hungry.
+Hunger haben,to be hungry,phrase,,,ˈhʊŋɐ ˈhaːbn̩,Ich habe Hunger. Lass uns essen!,I am hungry. Let's eat!
+Kartoffel,potato,noun,feminine,Kartoffeln,kaʁˈtɔfl̩,Ich esse gerne Kartoffeln.,I like to eat potatoes.
+Käse,cheese,noun,masculine,Käse,ˈkɛːzə,Ich esse gern Käse.,I like to eat cheese.
+kaufen,to buy,verb,,,ˈkaʊ̯fn̩,Ich kaufe Brot im Supermarkt.,I buy bread at the supermarket.
+kein / keine,"no, not a",pronoun,,,kaɪ̯n,Ich habe kein Geld.,I have no money.
+lecker,"delicious, tasty",adjective,,,ˈlɛkɐ,Das Abendessen ist sehr lecker.,The dinner is very delicious.
+lesen,to read,verb,,,ˈleːzn̩,Ich lese gern interessante Bücher.,I like to read interesting books.
+Menü,set menu / menu,noun,neuter,Menüs,meˈnyː,Wir bestellen das Tagesmenü.,We order the daily set menu.
+Minute,minute,noun,feminine,Minuten,miˈnuːtə,Warte bitte eine Minute hier.,Please wait one minute here.
+Mittag,"noon, midday",noun,masculine,Mittage,ˈmɪtaːk,Wir essen zu Mittag.,We eat lunch.
+mittags,"at midday, at lunchtime",adverb,,,ˈmɪtaːks,Wir essen mittags immer zusammen in der Kantine.,We always eat together in the canteen at lunchtime.
+mögen,to like (general preference),verb,,,ˈmøːɡn̩,Ich mag Pizza mit viel Käse.,I like pizza with a lot of cheese.
+Morgen,morning,noun,masculine,Morgen,ˈmɔʁɡn̩,Ich stehe jeden Morgen früh auf.,I get up early every morning.
+Nachtisch,dessert,noun,masculine,Nachtische,ˈnaːxˌtɪʃ,Was gibt es zum Nachtisch?,What is there for dessert?
+nehmen,to take,verb,,,ˈneːmən,Ich nehme oft den Bus zur Arbeit.,I often take the bus to work.
+nicht so gern,not really (like),phrase,,,nɪçt zoː ˈɡɛʁn,Ich esse nicht so gern Fisch.,I don't really like eating fish.
+Obst,fruit,noun,neuter,,oːpst,Ich esse gern frisches Obst.,I like to eat fresh fruit.
+Pasta,pasta,noun,feminine,,ˈpasta,Ich koche heute Abend Pasta.,I cook pasta tonight.
+Pizza,pizza,noun,feminine,Pizzen,ˈpɪt͡sa,Wir bestellen eine große Pizza.,We order a large pizza.
+Saft,juice,noun,masculine,Säfte,zaft,Möchtest du Orangensaft oder Apfelsaft?,Do you want orange juice or apple juice?
+Salat,salad / lettuce,noun,masculine,Salate,zaˈlaːt,Ich esse gerne Salat zum Abendessen.,I like to eat salad for dinner.
+Schnitzel,schnitzel (breaded meat cutlet),noun,neuter,Schnitzel,ˈʃnɪt͡sl̩,Ich esse gern Wiener Schnitzel mit Pommes.,I like to eat Wiener Schnitzel with fries.
+Speise,"dish, food item",noun,feminine,Speisen,ˈʃpaɪ̯zə,Das ist eine gute Speise.,That is a good dish.
+Stunde,hour,noun,feminine,Stunden,ˈʃtʊndə,Der Kurs dauert eine Stunde.,The course lasts one hour.
+Suppe,soup,noun,feminine,Suppen,ˈzʊpə,Ich mag Gemüsesuppe sehr.,I like vegetable soup very much.
+Tee,tea,noun,masculine,Tees,teː,Ich trinke gern heißen Tee.,I like to drink hot tea.
+Tomate,tomato,noun,feminine,Tomaten,toˈmaːtə,Ich esse eine frische Tomate.,I eat a fresh tomato.
+treffen,to meet,verb,,,ˈtʁɛfn̩,Ich treffe meine Freunde im Café.,I meet my friends in the café.
+trinken,to drink,verb,,,ˈtʁɪŋkn̩,Ich trinke Wasser jeden Tag.,I drink water every day.
+Uhrzeit,time (clock time),noun,feminine,Uhrzeiten,ˈuːɐ̯ˌt͡saɪ̯t,Ich frage nach der Uhrzeit.,I'm asking for the time.
+um,at (clock time),preposition,,,ʊm,Der Unterricht beginnt um neun Uhr.,The class starts at nine o'clock.
+von ... bis,from ... to,preposition,,,fɔn ... bɪs,Der Laden ist von neun bis achtzehn Uhr geöffnet.,The shop is open from nine to eighteen o'clock.
+Wasser,water,noun,neuter,Wasser,ˈvasɐ,Ich trinke gern kaltes Wasser im Sommer.,I like to drink cold water in summer.
+Wein,wine,noun,masculine,Weine,vaɪ̯n,Ich trinke gern roten Wein.,I like to drink red wine.
+wichtig,important,adjective,,,ˈvɪçtɪç,Diese Information ist sehr wichtig für uns.,This information is very important for us.
+Wurst,sausage / cold cuts,noun,feminine,Würste,vʊʁst,Ich esse gerne eine Wurst mit Brot.,I like to eat a sausage with bread.
+zusammen,together,adverb,,,t͡suˈzamən,Wir essen zusammen zu Abend.,We eat dinner together.
+Akku,battery (device),noun,masculine,Akkus,ˈaku,Der Akku von meinem Handy ist leer.,My phone's battery is dead.
+anziehen,"to get dressed, to put on",verb,,,ˈanˌt͡siːən,Ich ziehe mir schnell die Jacke an.,I quickly put on my jacket.
+Arbeit,work,noun,feminine,Arbeiten,ˈaʁbaɪ̯t,Ich gehe jetzt zur Arbeit.,I am going to work now.
+aufmachen,to open,verb,,,ˈaʊ̯fˌmaxn̩,Kannst du das Fenster aufmachen?,Can you open the window?
+aufräumen,to tidy up,verb,,,ˈaʊ̯fˌʁɔɪ̯mən,Ich muss mein Zimmer aufräumen.,I have to tidy up my room.
+aufstehen,to get up,verb,,,ˈaʊ̯fˌʃteːən,Ich stehe jeden Morgen um sechs Uhr auf.,I get up at six o'clock every morning.
+Besprechung,meeting,noun,feminine,Besprechungen,bəˈʃpʁɛçʊŋ,Wir haben eine wichtige Besprechung.,We have an important meeting.
+Büro,office,noun,neuter,Büros,byˈʁoː,Ich arbeite im Büro.,I work in the office.
+Chef,"boss, manager (male)",noun,masculine,Chefs,ʃɛf,Mein Chef ist sehr freundlich.,My boss is very friendly.
+Chefin,"boss, manager (female)",noun,feminine,Chefinnen,ˈʃɛfɪn,Meine Chefin ist sehr nett.,My boss is very nice.
+downloaden,to download,verb,,,ˈdaʊ̯nˌlɔʊ̯dn̩,Ich downloade die App.,I download the app.
+einkaufen,"to go shopping, to buy groceries",verb,,,ˈaɪ̯nˌkaʊ̯fn̩,Ich kaufe heute ein.,I go shopping today.
+erlaubt,"allowed, permitted",adjective,,,ɛɐ̯ˈlaʊ̯pt,Rauchen ist hier nicht erlaubt.,Smoking is not allowed here.
+früh,early,adjective,,,fʁyː,Der Bus kommt immer sehr früh.,The bus always arrives very early.
+frustriert,frustrated,adjective,,,fʁʊsˈtʁiːɐ̯t,Er ist momentan sehr frustriert.,He is very frustrated at the moment.
+funktionieren,"to work, to function",verb,,,fʊŋkt͡si̯oˈniːʁən,Das Handy funktioniert.,The mobile phone works.
+Hausordnung,house rules,noun,feminine,Hausordnungen,ˈhaʊ̯sˌʔɔʁdnʊŋ,Bitte lesen Sie die Hausordnung.,Please read the house rules.
+Haustier,pet,noun,neuter,Haustiere,ˈhaʊ̯sˌtiːɐ̯,Hast du ein Haustier?,Do you have a pet?
+helfen,to help,verb,,,ˈhɛlfn̩,Kann ich Ihnen bitte helfen?,Can I please help you?
+heute,today,adverb,,,ˈhɔɪ̯tə,Heute ist Dienstag.,Today is Tuesday.
+immer,always,adverb,,,ˈɪmɐ,Ich trinke immer Wasser.,I always drink water.
+können,can/be able to,verb,,,ˈkœnən,Ich kann Deutsch sprechen.,I can speak German.
+laden,to charge / to load,verb,,,ˈlaːdn̩,Er lädt die Taschen in den Kofferraum.,He loads the bags into the trunk.
+Laptop,laptop,noun,neuter,Laptops,ˈlɛptɔp,Mein Laptop ist sehr schnell.,My laptop is very fast.
+laut,"loud, noisy",adjective,,,laʊ̯t,Die Musik ist zu laut.,The music is too loud.
+möchten,would like (polite request),verb,,,ˈmœçtn̩,"Ich möchte einen großen Kaffee, bitte.","I would like a large coffee, please."
+morgen,tomorrow,adverb,,,ˈmɔʁɡn̩,Ich habe morgen einen wichtigen Termin beim Arzt.,I have an important appointment with the doctor tomorrow.
+müde,tired,adjective,,,ˈmyːdə,Ich bin heute sehr müde.,I am very tired today.
+müssen,must/have to,verb,,,ˈmʏsn̩,Ich muss jetzt wirklich gehen.,I really must go now.
+nervös,nervous,adjective,,,nɛʁˈvøːs,Bist du vor der Prüfung nervös?,Are you nervous before the exam?
+normalerweise,"normally, usually",adverb,,,nɔʁˈmaːlɐvaɪ̯zə,Normalerweise stehe ich früh am Morgen um sechs Uhr auf.,"Normally, I get up early in the morning at six o'clock."
+parken,to park,verb,,,ˈpaʁkn̩,Ich parke hier mein Auto nicht.,I don't park my car here.
+Passwort,password,noun,neuter,Passwörter,ˈpasˌvɔʁt,Bitte gib dein Passwort ein.,Please enter your password.
+Problem,problem,noun,neuter,Probleme,pʁoˈbleːm,Ich habe ein Problem mit meinem Computer.,I have a problem with my computer.
+rauchen,to smoke,verb,,,ˈʁaʊ̯xn̩,Er raucht keine Zigaretten mehr.,He doesn't smoke cigarettes anymore.
+Regel,rule,noun,feminine,Regeln,ˈʁeːɡl̩,Du musst dich an die Regel halten.,You must follow the rule.
+Satzklammer,sentence bracket (grammar term),noun,feminine,Satzklammern,ˈzat͡sˌklamɐ,Im Deutschen bildet das konjugierte Verb oft die erste Satzklammer.,"In German, the conjugated verb often forms the first part of the sentence bracket."
+spät,late,adjective,,,ʃpɛːt,Es ist schon sehr spät für mich.,It is already very late for me.
+surfen,to surf (internet),verb,,,ˈsœːɐ̯fn̩,Ich surfe oft im Internet.,I often surf the internet.
+Tablet,tablet,noun,neuter,Tablets,ˈtɛblət,Ich habe ein neues Tablet zum Lesen.,I have a new tablet for reading.
+Tagesablauf,daily routine,noun,masculine,Tagesabläufe,ˈtaːɡəsˌʔaplaʊ̯f,Mein Tagesablauf ist immer gleich.,My daily routine is always the same.
+verboten,"forbidden, not allowed",adjective,,,fɛɐ̯ˈboːtn̩,Parken ist hier streng verboten.,Parking is strictly forbidden here.
+Wäsche,"laundry, washing",noun,feminine,,ˈvɛʃə,Ich hänge die nasse Wäsche auf.,I am hanging up the wet laundry.
+waschen,to wash,verb,,,ˈvaʃn̩,Ich wasche meine Hände oft.,I often wash my hands.
+WLAN-Verbindung,WiFi connection,noun,feminine,WLAN-Verbindungen,ˈveːlaːn fɛɐ̯ˈbɪndʊŋ,Die WLAN-Verbindung ist sehr langsam hier.,The WiFi connection is very slow here.
+wollen,to want,verb,,,ˈvɔlən,Ich will ein Eis essen.,I want to eat an ice cream.
+wütend,angry,adjective,,,ˈvyːtn̩t,Warum bist du so wütend heute?,Why are you so angry today?
+zufrieden,"content, satisfied",adjective,,,t͡suˈfʁiːdn̩,Bist du mit der Arbeit zufrieden?,Are you satisfied with the work?
+zumachen,to close,verb,,,ˈt͡suːˌmaxn̩,Machst du bitte das Fenster zu?,Will you please close the window?
+abbiegen,to turn (direction),verb,,,ˈapˌbiːɡŋ̩,Ich biege an der nächsten Ampel links ab.,I turn left at the next traffic light.
+Bank,bank,noun,feminine,Banken,baŋk,Ich gehe heute zur Bank.,I am going to the bank today.
+Bett,bed,noun,neuter,Betten,bɛt,Ich gehe jetzt ins Bett.,I am going to bed now.
+Bibliothek,library,noun,feminine,Bibliotheken,biblioˈteːk,Ich lerne am liebsten in der Bibliothek.,I prefer studying in the library.
+brauchen,to need,verb,,,ˈbʁaʊ̯xn̩,Ich brauche deine Hilfe jetzt.,I need your help now.
+Café,café,noun,neuter,Cafés,kaˈfeː,Wir gehen ins Café.,We are going to the café.
+denn,because (coord. conjunction),conjunction,,,dɛn,"Ich bleibe zu Hause, denn ich bin müde.","I am staying at home, because I am tired."
+dich,"you (accusative, informal)",pronoun,,,dɪç,Ich sehe dich im Park.,I see you in the park.
+dort,there,adverb,,,dɔʁt,Das Auto steht dort.,The car is standing there.
+Ecke,corner,noun,feminine,Ecken,ˈɛkə,Das Buch liegt in der Ecke.,The book is in the corner.
+entlang,along,preposition,,,ɛntˈlaŋ,Gehen Sie diese Straße entlang.,Go along this street.
+es,it,pronoun,,,ɛs,Es ist kalt heute.,It is cold today.
+Fenster,window,noun,neuter,Fenster,ˈfɛnstɐ,Das Fenster ist offen.,The window is open.
+finden,to find,verb,,,ˈfɪndn̩,Ich finde den Schlüssel.,I find the key.
+für,for,preposition,,,fyːɐ̯,Dieses Geschenk ist für dich.,This gift is for you.
+gegenüber,"opposite, across from",preposition,,,ɡeːɡn̩ˈʔyːbɐ,Die Post ist gegenüber dem Park.,The post office is opposite the park.
+geradeaus,straight ahead,adverb,,,ɡəʁaːdəˈʔaʊ̯s,Gehen Sie geradeaus bis zur Post.,Go straight ahead to the post office.
+Geschenk,"gift, present",noun,neuter,Geschenke,ɡəˈʃɛŋk,Ich habe ein Geschenk für dich.,I have a gift for you.
+hier,here,adverb,,,hiːɐ̯,Komm bitte hierher.,Please come here.
+ihn,him (accusative),pronoun,,,iːn,Ich sehe ihn jeden Tag.,I see him every day.
+in der Nähe,"nearby, in the vicinity",phrase,,,ɪn deːɐ̯ ˈnɛːə,Der Park ist in der Nähe.,The park is nearby.
+Krankenhaus,hospital,noun,neuter,Krankenhäuser,ˈkʁaŋkn̩ˌhaʊ̯s,Er arbeitet im Krankenhaus.,He works in the hospital.
+liegen,to lie (position),verb,,,ˈliːɡn̩,Das Buch liegt auf dem Tisch.,The book lies on the table.
+links,left,adverb,,,lɪŋks,Gehen Sie hier links.,Go left here.
+mich,me (accusative),pronoun,,,mɪç,Er sieht mich oft in der Stadt.,He often sees me in the city.
+nicht weit,not far,phrase,,,nɪçt vaɪt,Das Kino ist nicht weit von hier.,The cinema is not far from here.
+Park,park,noun,masculine,Parks,paʁk,Ich gehe gern in den Park.,I like to go to the park.
+Platz,"square, plaza",noun,masculine,Plätze,plat͡s,Wir treffen uns am Platz.,We meet at the square.
+Post,post office,noun,feminine,,pɔst,Ich gehe jetzt zur Post.,I am going to the post office now.
+Rathaus,city hall,noun,neuter,Rathäuser,ˈʁaːtˌhaʊ̯s,Das Rathaus ist im Zentrum der Stadt.,The city hall is in the city center.
+rechts,right,adverb,,,ʁɛçt͡s,Nach der Ampel müssen Sie rechts in die Hauptstraße fahren.,"After the traffic light, you have to turn right into the main street."
+sie,she,pronoun,,,ziː,Sie ist meine neue Kollegin.,She is my new colleague.
+Stadtplan,city map,noun,masculine,Stadtpläne,ˈʃtatˌplaːn,Haben Sie einen Stadtplan für Berlin?,Do you have a city map for Berlin?
+Straße,street,noun,feminine,Straßen,ˈʃtʁaːsə,Das Auto fährt auf der Straße.,The car drives on the street.
+Stuhl,chair,noun,masculine,Stühle,ʃtuːl,Nimm bitte auf diesem Stuhl Platz.,Please take a seat on this chair.
+suchen,to search,verb,,,ˈzuːxn̩,Ich suche meinen Schlüssel.,I search for my key.
+Supermarkt,supermarket,noun,masculine,Supermärkte,ˈzuːpɐˌmaʁkt,Ich gehe zum Supermarkt einkaufen.,I go to the supermarket to shop.
+Tisch,table,noun,masculine,Tische,tɪʃ,Der Tisch ist wirklich groß.,The table is really big.
+Tür,door,noun,feminine,Türen,tyːɐ̯,Mach bitte die Tür zu.,Please close the door.
+wissen,to know (fact),verb,,,ˈvɪsn̩,Ich weiß die Antwort nicht.,I don't know the answer.
+wo,where (location),adverb,,,voː,Wo ist die nächste Bushaltestelle hier bitte schön?,"Where is the next bus stop here, please?"
+Auge,eye,noun,neuter,Augen,ˈaʊ̯ɡə,Das Baby hat große Augen.,The baby has big eyes.
+besser,better,adjective,,,ˈbɛsɐ,Mir geht es heute besser.,I am better today.
+blau,blue,adjective,,,blaʊ̯,Der Himmel ist heute blau.,The sky is blue today.
+braun,brown,adjective,,,bʁaʊ̯n,Ihre Augen sind sehr braun.,Her eyes are very brown.
+Doktor,doctor (informal title),noun,masculine,Doktoren,ˈdɔktoːɐ̯,Ich gehe zum Doktor.,I am going to the doctor.
+erkältet,having a cold,adjective,,,ɛɐ̯ˈkɛltət,Meine Kollegin ist heute erkältet.,My colleague has a cold today.
+erste,the first (ordinal),phrase,,,ˈeːɐ̯stə,Heute ist der erste Mai.,Today is the first of May.
+gelb,yellow,adjective,,,ɡɛlp,Die Sonne ist heute sehr gelb.,The sun is very yellow today.
+gestern,yesterday,adverb,,,ˈɡɛstɐn,Ich war gestern im Kino.,I was yesterday at the cinema.
+grau,grey,adjective,,,ɡʁaʊ̯,Der Himmel ist heute grau.,The sky is grey today.
+grün,green,adjective,,,ɡʁyːn,Der Apfel ist grün.,The apple is green.
+Hand,hand,noun,feminine,Hände,hant,Sie hält ihre Hand in den warmen Regen.,She holds her hand in the warm rain.
+Husten,cough,noun,masculine,Husten,ˈhuːstn̩,Ich habe starken Husten.,I have a strong cough.
+Kopf,head,noun,masculine,Köpfe,kɔp͡f,Mein Kopf tut weh.,My head hurts.
+Kopfschmerzen (Pl.),headache,noun,,,ˈkɔp͡fˌʃmɛʁt͡sn̩,Ich habe starke Kopfschmerzen heute.,I have a bad headache today.
+letzte Woche,last week,phrase,,,ˈlɛt͡stə ˈvɔxə,Letzte Woche war ich krank.,Last week I was sick.
+letzten Monat,last month,phrase,,,ˈlɛt͡stn̩ ˈmoːnat,Letzten Monat war es sehr kalt.,Last month it was very cold.
+lila,purple / lilac,adjective,,,ˈliːla,Ihre neue Bluse ist lila.,Her new blouse is purple.
+orange,orange,adjective,,,oˈraŋʒə,Der Ball ist orange.,The ball is orange.
+Praxis,doctor's office / practice,noun,feminine,Praxen,ˈpʁaksɪs,Die Praxis öffnet um neun Uhr.,The doctor's office opens at nine o'clock.
+rot,red,adjective,,,ʁoːt,Die Rose ist rot.,The rose is red.
+Ruhe,"rest, quiet",noun,feminine,,ˈʁuːə,Ich brauche etwas Ruhe.,I need some quiet.
+schlimm,"bad, terrible",adjective,,,ʃlɪm,Die Situation ist wirklich schlimm.,The situation is really bad.
+Schmerzen (Pl.),pain,noun,,,ˈʃmɛʁt͡sn̩,Ich habe starke Schmerzen im Bein.,I have strong pain in my leg.
+schwarz,black,adjective,,,ʃvaʁt͡s,Ihr neues Fahrrad ist schwarz und modern.,Her new bicycle is black and modern.
+Verband,bandage,noun,masculine,Verbände,fɛɐ̯ˈbant,Er braucht einen neuen Verband.,He needs a new bandage.
+von + Dativ,"from, of (+ dative)",preposition,,,fɔn + ˈdaːtɪf,Das Auto ist von meinem Vater.,The car is my father's.
+vorgestern,the day before yesterday,adverb,,,ˈfoːɐ̯ɡɛstɐn,Vorgestern war ein sehr regnerischer Tag mit viel Wind.,The day before yesterday was a very rainy day with a lot of wind.
+weiß,white,adjective,,,vaɪ̯s,Der Schnee ist im Winter sehr weiß.,The snow is very white in winter.
+Zahn,tooth,noun,masculine,Zähne,t͡saːn,Mein Zahn tut heute weh.,My tooth hurts today.
+Altstadt,old town,noun,feminine,Altstädte,ˈaltˌʃtat,Wir wohnen in der Altstadt.,We live in the old town.
+an den,to the (lake/sea/river),phrase,,,an deːn,Wir fahren an den See.,We drive to the lake.
+auf den,to the (mountain),phrase,,,aʊ̯f deːn,Ich steige auf den Berg.,I climb up the mountain.
+Bahnhof,train station,noun,masculine,Bahnhöfe,ˈbaːnˌhoːf,"Ich gehe zum Bahnhof, um den Zug zu nehmen.",I'm going to the train station to catch the train.
+fantastisch,fantastic,adjective,,,fanˈtastɪʃ,Das Essen ist wirklich fantastisch!,The food is really fantastic!
+Grad,degree,noun,masculine,Grade,ɡʁaːt,Es sind zwanzig Grad Celsius.,It is twenty degrees Celsius.
+haben,to have,verb,,,ˈhaːbn̩,Ich habe heute keine Zeit.,I don't have time today.
+in die,to the (feminine countries),phrase,,,ɪn diː,Ich fliege in die Schweiz.,I am flying to Switzerland.
+ins,into the,phrase,,,ɪns,Wir gehen jetzt ins Kino.,We are going to the cinema now.
+Kaffee,coffee,noun,masculine,Kaffees,ˈkafe,Ich trinke gern Kaffee.,I like to drink coffee.
+kühl,cool,adjective,,,kyːl,Es ist heute kühl draußen.,It is cool outside today.
+liebe Grüße,"kind regards, love from",phrase,,,ˌliːbə ˈɡʁyːsə,Liebe Grüße aus Berlin!,Kind regards from Berlin!
+nach,to (cities/countries without article),preposition,,,naːx,Wir fahren heute nach Berlin.,We are driving to Berlin today.
+Nacht,night,noun,feminine,Nächte,naxt,Wir schlafen gut in der Nacht.,We sleep well at night.
+reservieren,to reserve,verb,,,ʁezɛʁˈviːʁən,Ich reserviere einen Tisch für zwei Personen.,I reserve a table for two people.
+Rezeption,"reception, front desk",noun,feminine,Rezeptionen,ˌʁet͡sɛpˈt͡si̯oːn,Wo ist die Rezeption?,Where is the reception?
+Schloss,"castle, palace",noun,neuter,Schlösser,ʃlɔs,Das alte Schloss ist ein Museum.,The old castle is a museum.
+Schlüssel,key,noun,masculine,Schlüssel,ˈʃlʏsl̩,Ich suche meinen Schlüssel.,I am looking for my key.
+Sonne,sun,noun,feminine,Sonnen,ˈzɔnə,Die Sonne scheint heute sehr hell.,The sun shines very brightly today.
+viele Grüße,many greetings from,phrase,,,ˈfiːlə ˈɡʁyːsə,Viele Grüße aus Deutschland!,Many greetings from Germany!
+wunderschön,"wonderful, gorgeous",adjective,,,ˌvʊndɐˈʃøːn,Der Garten sieht im Sommer wunderschön aus.,The garden looks gorgeous in summer.
+Zug,train,noun,masculine,Züge,t͡suːk,Der Zug fährt sehr schnell.,The train drives very fast.
+aufwachen,to wake up,verb,,,ˈaʊ̯fˌvaxn̩,Ich wache immer um sieben Uhr auf.,I always wake up at seven o'clock.
+bleiben,to stay/remain,verb,,,ˈblaɪ̯bn̩,Ich bleibe heute Abend zu Hause.,I stay home tonight.
+dieser,this (demonstrative article),pronoun,,,ˈdiːzɐ,Dieser Tisch ist wirklich groß.,This table is really big.
+dir,"you (dative, informal)",pronoun,,,diːɐ̯,Wie geht es dir?,How are you?
+einschlafen,to fall asleep,verb,,,ˈaɪ̯nˌʃlaːfn̩,Ich schlafe schnell ein.,I fall asleep quickly.
+euch,you all (accusative),pronoun,,,ɔɪ̯ç,Ich sehe euch alle.,I see you all.
+fahren,to drive/travel,verb,,,ˈfaːʁən,Ich fahre nach Berlin.,I drive/travel to Berlin.
+Film,"film, movie",noun,masculine,Filme,fɪlm,Wir sehen heute Abend einen Film.,We are watching a film tonight.
+fliegen,to fly,verb,,,ˈfliːɡn̩,Der Vogel fliegt hoch.,The bird flies high.
+gefallen,to please/like,verb,,,ɡəˈfalən,Das Haus gefällt mir.,I like the house.
+gehen,to go/walk,verb,,,ˈɡeːən,Ich gehe nach Hause.,I go home.
+Handschuhe,gloves (plural),noun,feminine,Handschuhe,ˈhantˌʃuːə,Ich trage warme Handschuhe.,I wear warm gloves.
+ihm,him (dative),pronoun,,,iːm,Ich gebe ihm einen Apfel.,I give him an apple.
+ihnen,them (dative),pronoun,,,ˈiːnən,Ich gebe ihnen das Geld.,I give them the money.
+ihr,you (plural),pronoun,,,iːɐ̯,Was macht ihr am Wochenende?,What are you doing on the weekend?
+Karneval,Carnival / Mardi Gras,noun,masculine,Karnevale,ˈkaʁnəval,Ich mag Karneval sehr.,I like Carnival very much.
+kommen,to come,verb,,,ˈkɔmən,Ich komme heute Abend nach Hause.,I am coming home tonight.
+laufen,to run,verb,,,ˈlaʊ̯fn̩,Ich laufe jeden Morgen im Park.,I run every morning in the park.
+mir,me (dative),pronoun,,,miːɐ̯,Meine Mutter gibt mir einen Apfel.,My mother gives me an apple.
+Mütze,"hat, woolly hat",noun,feminine,Mützen,ˈmʏt͡sə,Er trägt eine warme Mütze.,He wears a warm hat.
+Nachrichten,news (always plural),noun,feminine,Nachrichten,ˈnaːxˌʁɪçtn̩,Ich sehe die Nachrichten jeden Abend.,I watch the news every evening.
+Oktoberfest,Oktoberfest,noun,neuter,Oktoberfeste,ɔkˈtoːbɐˌfɛst,Das Oktoberfest findet in München statt.,The Oktoberfest takes place in Munich.
+online,online,adverb,,,ˈɔnlaɪ̯n,Ich kaufe meine Kleidung oft online bei diesem Shop ein.,I often buy my clothes online from this shop.
+passieren,to happen,verb,,,paˈsiːʁən,Das passiert manchmal im Leben.,That sometimes happens in life.
+Podcast,podcast,noun,masculine,Podcasts,ˈpɔtˌkaːst,Ich höre jeden Morgen einen Podcast.,I listen to a podcast every morning.
+Schal,scarf,noun,masculine,Schals,ʃaːl,Sie trägt einen warmen Schal.,She is wearing a warm scarf.
+schmecken,to taste (good/bad),verb,,,ˈʃmɛkn̩,Das Essen schmeckt mir sehr gut.,The food tastes very good to me.
+schon,already,adverb,,,ʃoːn,Es ist schon zehn Uhr am Abend und ich bin müde.,It is already ten o'clock in the evening and I am tired.
+Serie,TV series,noun,feminine,Serien,ˈzeːʁiə,Ich mag diese neue Serie sehr.,I like this new series very much.
+stehen,to stand,verb,,,ˈʃteːən,Ich stehe am Fenster.,I stand at the window.
+uns,us (accusative),pronoun,,,ʊns,Unsere Freunde besuchen uns nächstes Wochenende in Köln.,Our friends are visiting us next weekend in Cologne.
+warum,why,adverb,,,vaˈʁʊm,Warum lernst du Deutsch für deinen neuen Job?,Why are you learning German for your new job?
+Weihnachtsmarkt,Christmas market,noun,masculine,Weihnachtsmärkte,ˈvaɪ̯naxt͡sˌmaʁkt,Wir gehen zum Weihnachtsmarkt heute.,We go to the Christmas market today.
+welcher,which (question word for nouns),adjective,,,ˈvɛlçɐ,Welcher Zug fährt nach Berlin?,Which train goes to Berlin?
+Zeitschrift,magazine,noun,feminine,Zeitschriften,ˈt͡saɪ̯tˌʃʁɪft,Ich lese eine interessante Zeitschrift.,I am reading an interesting magazine.
+Zeitung,newspaper,noun,feminine,Zeitungen,ˈt͡saɪ̯tʊŋ,Mein Vater liest jeden Morgen die Zeitung.,My father reads the newspaper every morning.
+ab,from (+ time/place),preposition,,,ap,Ab dem Bahnhof ist es nicht weit.,"From the station, it isn't far."
+aber,but,conjunction,,,ˈaːbɐ,"Das Kleid ist schön, aber teuer.",The dress is beautiful but expensive.
+Abfahrt,departure,noun,feminine,Abfahrten,ˈapˌfaːɐ̯t,Die Abfahrt ist um acht Uhr.,The departure is at eight o’clock.
+abholen,to pick up,verb,,,ˈapˌhoːlən,Mein Vater holt mich vom Bahnhof ab.,My father picks me up from the train station.
+Absender,sender,noun,masculine,Absender,ˈapˌzɛndɐ,Der Absender steht oben links auf dem Brief.,The sender is at the top left of the letter.
+Adresse,address,noun,feminine,Adressen,aˈdʁɛsə,Wie lautet deine Adresse?,What is your address?
+aller,all,pronoun,,,ˈalɐ,Aller Anfang ist schwer.,Every beginning is hard.
+also,"so, therefore",adverb,,,ˈalzo,"Also, wir treffen uns um acht.","So, we're meeting at eight."
+alt,old,adjective,,,alt,Das Haus ist sehr alt.,The house is very old.
+Alter,age,noun,neuter,,ˈaltɐ,Er sagt sein Alter nicht.,He does not say his age.
+anbieten,to offer,verb,,,ˈanˌbiːtn̩,Der Kellner bietet uns die Speisekarte an.,The waiter offers us the menu.
+anderer,other,pronoun,,,ˈandəʁɐ,Wir nehmen heute einen anderen Bus.,We are taking a different bus today.
+Anfang,beginning,noun,masculine,Anfänge,ˈanˌfaŋ,Der Anfang des Films ist spannend.,The beginning of the movie is exciting.
+angeboten,offered,verb,,,ˈanɡəˌboːtn̩,Er hat mir seine Hilfe angeboten.,He offered me his help.
+anklicken,to click (on),verb,,,ˈanˌklɪkn̩,Du klickst den blauen Button an.,You click the blue button.
+Ankunft,arrival,noun,feminine,,ˈankʊnft,Die Ankunft ist um vierzehn Uhr.,Arrival is at two pm.
+Anmeldung,registration,noun,feminine,Anmeldungen,ˈanˌmɛldʊŋ,Die Anmeldung ist im ersten Stock.,The registration desk is on the first floor.
+Anrede,form of address,noun,feminine,Anreden,ˈanˌʁeːdə,Welche Anrede benutzt man in der E-Mail?,Which form of address do you use in the email?
+Anruf,phone call,noun,masculine,Anrufe,ˈanˌʁuːf,Der Anruf kam mitten in der Nacht.,The call came in the middle of the night.
+Anrufbeantworter,answering machine,noun,masculine,Anrufbeantworter,ˈanʁuːfbəˌʔantvɔʁtɐ,Sprich bitte auf den Anrufbeantworter.,Please leave a message on the answering machine.
+antworten,to answer,verb,,,ˈantˌvɔʁtn̩,Bitte antworten Sie auf die Frage.,Please answer the question.
+Anzeige,advertisement,noun,feminine,Anzeigen,ˈanˌt͡saɪ̯ɡə,Er liest die Anzeige in der Zeitung.,He reads the ad in the newspaper.
+Appetit,appetite,noun,masculine,,apeˈtiːt,Guten Appetit!,Enjoy your meal!
+arm,poor,adjective,,,aʁm,Die Familie ist arm.,The family is poor.
+Aufgabe,task,noun,feminine,Aufgaben,ˈaʊ̯fˌɡaːbə,Die Aufgabe ist nicht schwer.,The task is not difficult.
+Aufzug,elevator,noun,masculine,Aufzüge,ˈaʊ̯fˌt͡suːk,Der Aufzug ist leider kaputt.,The elevator is unfortunately broken.
+ausfüllen,to fill out,verb,,,ˈaʊ̯sˌfʏlən,Wir füllen das Formular zusammen aus.,We fill out the form together.
+Ausgang,exit,noun,masculine,Ausgänge,ˈaʊ̯sˌɡaŋ,Wo ist der Ausgang?,Where is the exit?
+ausgenommen,except,preposition,,,ˈaʊ̯sɡəˌnɔmən,"Alle waren eingeladen, ihn ausgenommen.","Everyone was invited, except him."
+Auskunft,information (desk),noun,feminine,Auskünfte,ˈaʊ̯sˌkʊnft,Die Dame am Schalter gibt uns Auskunft.,The lady at the counter gives us information.
+Ausländer,foreigner,noun,masculine,Ausländer,ˈaʊ̯sˌlɛndɐ,Der Ausländer spricht schon gut Deutsch.,The foreigner already speaks German well.
+Auto,car,noun,neuter,Autos,ˈaʊ̯to,Ich habe ein neues Auto.,I have a new car.
+automatisch,automatic,adjective,,,ˌaʊ̯toˈmaːtɪʃ,Die Tür ist automatisch.,The door is automatic.
+Bäckerei,bakery,noun,feminine,Bäckereien,ˌbɛkəˈʁaɪ̯,Die Bäckerei öffnet um sechs Uhr.,The bakery opens at six o’clock.
+Backofen,oven,noun,masculine,Backöfen,ˈbakˌʔoːfn̩,Der Kuchen ist noch im Backofen.,The cake is still in the oven.
+Bad,bathroom,noun,neuter,Bäder,baːt,Das Bad ist neben der Küche.,The bathroom is next to the kitchen.
+baden,to bathe,verb,,,ˈbaːdn̩,Die Kinder baden gern im See.,The children like to bathe in the lake.
+Bahn,"train, railway",noun,feminine,Bahnen,baːn,Wir fahren mit der Bahn nach München.,We travel by train to Munich.
+Bahnsteig,platform,noun,masculine,Bahnsteige,ˈbaːnˌʃtaɪ̯k,Der Zug fährt von Bahnsteig drei.,The train leaves from platform three.
+bald,soon,adverb,,,balt,Der Zug kommt bald.,The train is coming soon.
+Banane,banana,noun,feminine,Bananen,baˈnaːnə,Die Banane ist noch grün.,The banana is still green.
+bar,in cash,adjective,,,baːɐ̯,Er bezahlt die Rechnung bar.,He pays the bill in cash.
+Bar,bar (pub),noun,feminine,Bars,baːɐ̯,Die Bar hat bis zwei Uhr geöffnet.,The bar is open until two o’clock.
+Baum,tree,noun,masculine,Bäume,baʊ̯m,Der Baum vor dem Haus ist sehr alt.,The tree in front of the house is very old.
+Beamte,official (civil servant),noun,masculine,Beamten,bəˈʔamtə,Der Beamte prüft meinen Pass.,The official checks my passport.
+bedeuten,to mean,verb,,,bəˈdɔɪ̯tn̩,Was bedeutet dieses Wort auf Deutsch?,What does this word mean in German?
+beginnen,to begin,verb,,,bəˈɡɪnən,Der Unterricht beginnt um neun Uhr.,The lesson begins at nine o'clock.
+bei,"at, near",preposition,,,baɪ̯,Sie wohnt bei ihrer Tante.,She lives at her aunt's.
+Beispiel,example,noun,neuter,Beispiele,ˈbaɪ̯ˌʃpiːl,Er nennt ein einfaches Beispiel.,He gives a simple example.
+Bekannte,acquaintance,noun,masculine,Bekannten,bəˈkantə,Der Bekannte wartet vor der Tür.,The acquaintance is waiting in front of the door.
+besuchen,to visit,verb,,,bəˈzuːxn̩,Wir besuchen unsere Freunde am Wochenende.,We visit our friends on the weekend.
+bezahlen,to pay,verb,,,bəˈt͡saːlən,Ich bezahle die Rechnung an der Kasse.,I pay the bill at the cashier.
+billig,cheap,adjective,,,ˈbɪlɪç,Das Hotel ist billig.,The hotel is cheap.
+Birne,pear,noun,feminine,Birnen,ˈbɪʁnə,Die Birne schmeckt süß.,The pear tastes sweet.
+bitte,please,particle,,,ˈbɪtə,Komm bitte pünktlich.,Please come on time.
+bitten,"to ask, request",verb,,,ˈbɪtn̩,Ich bitte dich um Hilfe.,I'm asking you for help.
+bitter,bitter,adjective,,,ˈbɪtɐ,Der Kaffee ist bitter.,The coffee is bitter.
+Bleistift,pencil,noun,masculine,Bleistifte,ˈblaɪ̯ˌʃtɪft,Der Bleistift liegt auf dem Tisch.,The pencil is lying on the table.
+Blick,"view, glance",noun,masculine,Blicke,blɪk,Der Blick vom Balkon ist wunderschön.,The view from the balcony is beautiful.
+Blume,flower,noun,feminine,Blumen,ˈbluːmə,Ich kaufe eine schöne Blume.,I buy a beautiful flower.
+Bogen,sheet (of paper),noun,masculine,Bogen,ˈboːɡn̩,Nimm bitte einen Bogen Papier.,Please take a sheet of paper.
+böse,angry,adjective,,,ˈbøːzə,Der Hund ist böse.,The dog is fierce.
+breit,wide,adjective,,,bʁaɪ̯t,Die Straße ist breit.,The street is wide.
+brennen,to burn,verb,,,ˈbʁɛnən,Das Holz brennt gut.,The wood burns well.
+Briefmarke,stamp,noun,feminine,Briefmarken,ˈbʁiːfˌmaʁkə,Die Briefmarke kostet neunzig Cent.,The stamp costs ninety cents.
+bringen,to bring,verb,,,ˈbʁɪŋən,Kannst du mir bitte ein Glas Wasser bringen?,Can you please bring me a glass of water?
+Brötchen,bread roll,noun,neuter,Brötchen,ˈbʁøːtçən,Das Brötchen ist noch warm.,The bread roll is still warm.
+Bus,bus,noun,masculine,Busse,bʊs,Der Bus kommt in fünf Minuten.,The bus arrives in five minutes.
+Dame,lady,noun,feminine,Damen,ˈdaːmə,Die Dame trägt einen roten Mantel.,The lady is wearing a red coat.
+daneben,next to it,adverb,,,daˈneːbm̩,Das Café ist direkt daneben.,The café is right next to it.
+Dank,"thanks, gratitude",noun,masculine,,daŋk,Vielen Dank für die Hilfe!,Many thanks for the help!
+danke,thanks,interjection,,,ˈdaŋkə,Danke für deine Hilfe.,Thanks for your help.
+danken,to thank,verb,,,ˈdaŋkn̩,Ich danke dir für deine Hilfe.,I thank you for your help.
+Datum,date,noun,neuter,Daten,ˈdaːtʊm,Welches Datum haben wir heute?,What is today’s date?
+dauern,to last,verb,,,ˈdaʊ̯ɐn,Der Deutschkurs dauert drei Monate.,The German course lasts three months.
+denken,to think,verb,,,ˈdɛŋkn̩,"Ich denke, das ist eine gute Idee.",I think that is a good idea.
+der / die / das,the (definite article),pronoun,,,deːɐ̯ / diː / das,"Der Mann liest die Zeitung, und das Kind spielt.","The man reads the newspaper, and the child plays."
+Dorf,village,noun,neuter,Dörfer,dɔʁf,Das Dorf liegt in den Bergen.,The village lies in the mountains.
+draußen,outside,adverb,,,ˈdʁaʊ̯sn̩,Die Kinder spielen draußen.,The children are playing outside.
+drucken,to print,verb,,,ˈdʁʊkn̩,Der Drucker druckt die Rechnung.,The printer prints the invoice.
+drücken,to press,verb,,,ˈdʁʏkn̩,Du drückst den roten Knopf.,You press the red button.
+du,you (informal),pronoun,,,duː,"Wie geht es dir, du?","How are you doing, you?"
+durch,through,preposition,,,dʊʁç,Wir gehen durch den Park.,We walk through the park.
+Durchsage,announcement,noun,feminine,Durchsagen,ˈdʊʁçˌzaːɡə,Die Durchsage am Bahnhof war leise.,The announcement at the station was quiet.
+durstig,thirsty,adjective,,,ˈdʊʁstɪç,Ich bin jetzt sehr durstig.,I am very thirsty now.
+Dusche,shower,noun,feminine,Duschen,ˈduːʃə,Die Dusche ist im Bad.,The shower is in the bathroom.
+Ehefrau,wife,noun,feminine,Ehefrauen,ˈeːəˌfʁaʊ̯,Seine Ehefrau arbeitet als Ärztin.,His wife works as a doctor.
+eilig,urgent,adjective,,,ˈaɪ̯lɪç,Die Sache ist eilig.,The matter is urgent.
+einfach,simple,adjective,,,ˈaɪ̯nfax,Die Übung ist einfach.,The exercise is simple.
+Eingang,entrance,noun,masculine,Eingänge,ˈaɪ̯nˌɡaŋ,Der Eingang ist links.,The entrance is on the left.
+einmal,once,adverb,,,ˈaɪ̯nmaːl,Ich war einmal in Berlin.,I was in Berlin once.
+einsteigen,to get on (a vehicle),verb,,,ˈaɪ̯nˌʃtaɪ̯ɡn̩,Die Fahrgäste steigen schnell in den Bus ein.,The passengers get on the bus quickly.
+Empfänger,recipient,noun,masculine,Empfänger,ɛmˈp͡fɛŋɐ,Der Empfänger wohnt in Hamburg.,The recipient lives in Hamburg.
+Ende,end,noun,neuter,,ˈɛndə,Das Ende des Films war traurig.,The end of the movie was sad.
+enden,to end,verb,,,ˈɛndn̩,Der Film endet mit einem Happy End.,The film ends with a happy ending.
+entschuldigen,to excuse/apologize,verb,,,ɛntˈʃʊldɪɡn̩,Ich entschuldige mich.,I apologize.
+er,he,pronoun,,,eːɐ̯,Er ist mein bester Freund.,He is my best friend.
+Erwachsene,adult,noun,masculine,Erwachsenen,ɛɐ̯ˈvaksənə,Der Erwachsene zahlt vollen Preis.,The adult pays full price.
+erzählen,to tell/narrate,verb,,,ɛɐ̯ˈt͡sɛːlən,Ich erzähle eine Geschichte.,I tell a story.
+Essen,"food, meal",noun,neuter,Essen,ˈɛsn̩,Das Essen schmeckt heute besonders gut.,The food tastes especially good today.
+Fahrkarte,ticket,noun,feminine,Fahrkarten,ˈfaːɐ̯ˌkaʁtə,Ich kaufe eine Fahrkarte.,I buy a ticket.
+Fahrt,trip,noun,feminine,Fahrten,faːɐ̯t,Die Fahrt dauert zwei Stunden.,The trip takes two hours.
+fallen,to fall,verb,,,ˈfalən,Das Glas fällt herunter.,The glass falls down.
+falsch,wrong,adjective,,,falʃ,Die Antwort ist falsch.,The answer is wrong.
+Familienname,"family name, surname",noun,masculine,Familiennamen,faˈmiːli̯ənˌnaːmə,Der Familienname steht im Pass.,The surname is in the passport.
+Familienstand,marital status,noun,masculine,,faˈmiːliənʃtant,Im Formular steht der Familienstand.,The marital status is on the form.
+Fehler,mistake,noun,masculine,Fehler,ˈfeːlɐ,Das war ein kleiner Fehler.,That was a small mistake.
+fernsehen,watch TV,verb,,,ˈfɛʁnˌzeːən,Abends sehe ich gern fern.,In the evening I like to watch TV.
+Fernsehen,television,noun,neuter,,ˈfɛʁnˌzeːən,Im Fernsehen läuft ein Film.,A film is on television.
+Firma,"company, firm",noun,feminine,Firmen,ˈfɪʁma,Die Firma sucht neue Mitarbeiter.,The company is looking for new employees.
+Flasche,bottle,noun,feminine,Flaschen,ˈflaʃə,Die Flasche ist leer.,The bottle is empty.
+Flughafen,airport,noun,masculine,Flughäfen,ˈfluːkˌhaːfn̩,Der Flughafen liegt außerhalb der Stadt.,The airport is outside the city.
+Flugzeug,airplane,noun,neuter,Flugzeuge,ˈfluːkˌt͡sɔɪ̯k,Das Flugzeug landet pünktlich.,The airplane lands on time.
+fremd,foreign,adjective,,,fʁɛmt,Die Stadt ist mir fremd.,The city is unfamiliar to me.
+frühstücken,to have breakfast,verb,,,ˈfʁyːˌʃtʏkn̩,Wir frühstücken zusammen auf dem Balkon.,We have breakfast together on the balcony.
+fühlen,to feel,verb,,,ˈfyːlən,Ich fühle mich gut.,I feel good.
+Führung,guided tour,noun,feminine,Führungen,ˈfyːʁʊŋ,Die Führung durch das Museum dauert eine Stunde.,The guided tour through the museum takes an hour.
+Fußball,"soccer, football",noun,masculine,Fußbälle,ˈfuːsˌbal,Die Kinder spielen Fußball im Park.,The children play soccer in the park.
+Garten,garden,noun,masculine,Gärten,,Der Garten ist voller Blumen.,The garden is full of flowers.
+Gast,guest,noun,masculine,Gäste,ɡast,Der Gast bestellt einen Kaffee.,The guest orders a coffee.
+geben,to give,verb,,,ˈɡeːbn̩,Ich gebe dir das Buch.,I give you the book.
+Geburtstag,birthday,noun,masculine,Geburtstage,ɡəˈbuːɐ̯t͡sˌtaːk,Heute hat meine Schwester Geburtstag.,Today is my sister’s birthday.
+gegen,against,preposition,,,ˈɡeːɡn̩,Er ist gegen den Plan.,He is against the plan.
+Geld,money,noun,neuter,,ɡɛlt,Er hat nicht viel Geld dabei.,He does not have much money with him.
+Gepäck,luggage,noun,neuter,,ɡəˈpɛk,Das Gepäck ist noch nicht angekommen.,The luggage has not arrived yet.
+gerade,right now,adverb,,,ɡəˈʁaːdə,Sie isst gerade zu Mittag.,She is having lunch right now.
+Geschäft,"shop, business",noun,neuter,Geschäfte,ɡəˈʃɛft,Das Geschäft schließt um achtzehn Uhr.,The shop closes at six pm.
+geschehen,to happen,verb,,,ɡəˈʃeːən,Was ist geschehen?,What happened?
+Gewicht,weight,noun,neuter,Gewichte,ɡəˈvɪçt,Das Gewicht des Pakets ist zu hoch.,The weight of the package is too high.
+Glas,glass,noun,neuter,Gläser,ɡlaːs,Das Glas ist zerbrochen.,The glass is broken.
+gleich,same,adjective,,,ɡlaɪ̯ç,Die beiden Preise sind gleich.,Both prices are the same.
+Gleis,track,noun,neuter,Gleise,ɡlaɪ̯s,Der Zug steht auf Gleis fünf.,The train is on track five.
+Glück,"luck, happiness",noun,neuter,,ɡlʏk,Viel Glück für die Prüfung!,Good luck for the exam!
+glücklich,happy,adjective,,,ˈɡlʏklɪç,Sie ist heute sehr glücklich.,She is very happy today.
+Glückwunsch,congratulations,noun,masculine,Glückwünsche,ˈɡlʏkˌvʊnʃ,Herzlichen Glückwunsch zum Geburtstag!,Congratulations on your birthday!
+gratulieren,to congratulate,verb,,,ɡʁatuˈliːʁən,Alle gratulieren ihr zum neuen Job.,Everyone congratulates her on the new job.
+grillen,to grill,verb,,,ˈɡʁɪlən,Im Sommer grillen wir oft im Garten.,In summer we often grill in the garden.
+groß,big/tall,adjective,,,ɡʁoːs,Dein Haus ist sehr groß.,Your house is very big.
+Gruppe,group,noun,feminine,Gruppen,ˈɡʁʊpə,Die Gruppe trifft sich um neun Uhr.,The group meets at nine o’clock.
+Gruß,greeting,noun,masculine,Grüße,ɡʁuːs,Sende ihr einen herzlichen Gruß.,Send her a warm greeting.
+gültig,valid,adjective,,,ˈɡʏltɪç,Der Pass ist noch gültig.,The passport is still valid.
+Haar,hair,noun,neuter,Haare,haːɐ̯,Ihr Haar ist sehr lang.,Her hair is very long.
+Halbpension,half board (hotel),noun,feminine,,ˈhalppaŋˌzi̯oːn,Wir buchen das Hotel mit Halbpension.,We book the hotel with half board.
+Halle,hall,noun,feminine,Hallen,ˈhalə,Die Halle ist für tausend Personen.,The hall holds a thousand people.
+hallo,hello,interjection,,,ˈhalo,"Hallo, wie geht es dir?","Hello, how are you?"
+halten,to hold/stop,verb,,,ˈhaltn̩,Bitte halten Sie die Tür.,Please hold the door.
+Haltestelle,(bus/tram) stop,noun,feminine,Haltestellen,ˈhaltəˌʃtɛlə,Die Haltestelle ist gleich um die Ecke.,The stop is right around the corner.
+Haus,house,noun,neuter,Häuser,haʊ̯s,Unser Haus ist sehr groß.,Our house is very big.
+Hausaufgabe,homework,noun,feminine,Hausaufgaben,ˈhaʊ̯sʔaʊ̯fˌɡaːbə,Die Hausaufgabe ist für morgen.,The homework is for tomorrow.
+heiraten,to marry,verb,,,ˈhaɪ̯ʁaːtn̩,Meine Schwester heiratet im Juni.,My sister is getting married in June.
+Herd,stove,noun,masculine,Herde,heːɐ̯t,Der Topf steht auf dem Herd.,The pot is on the stove.
+Herr,"mister, gentleman",noun,masculine,Herren,hɛʁ,Der Herr sitzt am Fenster.,The gentleman is sitting by the window.
+Hilfe,help,noun,feminine,,ˈhɪlfə,Brauchst du Hilfe beim Umzug?,Do you need help with the move?
+hinten,at the back,adverb,,,ˈhɪntn̩,Die Toilette ist hinten.,The restroom is at the back.
+hoch,high,adjective,,,hoːx,Das Haus ist hoch.,The house is high.
+Hochzeit,wedding,noun,feminine,Hochzeiten,ˈhɔxˌt͡saɪ̯t,Die Hochzeit findet im Juni statt.,The wedding takes place in June.
+hoffen,to hope,verb,,,ˈhɔfn̩,"Ich hoffe, es geht dir gut.",I hope you are well.
+holen,to fetch,verb,,,ˈhoːlən,Er holt frisches Brot vom Bäcker.,He fetches fresh bread from the baker.
+Hund,dog,noun,masculine,Hunde,hʊnt,Wir haben einen kleinen Hund.,We have a small dog.
+ich,I,pronoun,,,ɪç,Ich lerne sehr gern Deutsch.,I like learning German very much.
+Information,information,noun,feminine,Informationen,ɪnfɔʁmaˈt͡si̯oːn,Die Information am Bahnhof hilft dir weiter.,The information desk at the station will help you further.
+Jahr,year,noun,neuter,Jahre,jaːɐ̯,Ein Jahr hat zwölf Monate.,A year has twelve months.
+Jugendliche,teenager,noun,masculine,Jugendlichen,ˈjuːɡn̩tlɪçə,Der Jugendliche hört laute Musik.,The teenager listens to loud music.
+Junge,boy,noun,masculine,Jungen,ˈjʊŋə,Der Junge spielt im Garten.,The boy plays in the garden.
+Karte,"ticket, card",noun,feminine,Karten,ˈkaʁtə,Die Karte kostet fünfzehn Euro.,The ticket costs fifteen euros.
+Kasse,"cash register, checkout",noun,feminine,Kassen,ˈkasə,Bitte zahlen Sie an der Kasse.,Please pay at the checkout.
+Katze,cat,noun,feminine,Katzen,ˈkat͡sə,Meine Katze schläft viel.,My cat sleeps a lot.
+kennen,to know (person),verb,,,ˈkɛnən,Ich kenne diesen Mann nicht.,I don't know this man.
+Kindergarten,kindergarten,noun,masculine,Kindergärten,ˈkɪndɐˌɡaʁtn̩,Mein Sohn geht seit August in den Kindergarten.,My son has been going to kindergarten since August.
+Kiosk,"kiosk, newsstand",noun,masculine,Kioske,ˈkiːɔsk,Am Kiosk kaufen wir eine Zeitung.,We buy a newspaper at the kiosk.
+klar,clear,adjective,,,klaːɐ̯,Der Himmel ist klar.,The sky is clear.
+klasse,great,adjective,,,ˈklasə,Die Party war echt klasse.,The party was really great.
+Klasse,class (school),noun,feminine,Klassen,ˈklasə,Die Klasse hat zwanzig Schüler.,The class has twenty students.
+Kleidung,clothing,noun,feminine,,ˈklaɪ̯dʊŋ,Die Kleidung liegt im Schrank.,The clothing is in the closet.
+kosten,to cost,verb,,,ˈkɔstn̩,Das Zimmer kostet siebzig Euro pro Nacht.,The room costs seventy euros per night.
+Kosten,costs,noun,,,ˈkɔstn̩,Die Kosten sind sehr hoch.,The costs are very high.
+kostenfrei,free of charge,adjective,,,ˈkɔstn̩ˌfʁaɪ̯,Der Eintritt ist für Kinder kostenfrei.,Admission is free of charge for children.
+kriegen,to get (informal),verb,,,ˈkʁiːɡn̩,Du kriegst zum Geburtstag ein neues Fahrrad.,You're getting a new bike for your birthday.
+Kuchen,cake,noun,masculine,Kuchen,ˈkuːxn̩,Der Kuchen duftet nach Schokolade.,The cake smells of chocolate.
+Kugelschreiber,ballpoint pen,noun,masculine,Kugelschreiber,ˈkuːɡl̩ˌʃʁaɪ̯bɐ,Der Kugelschreiber schreibt nicht mehr.,The ballpoint pen no longer writes.
+Kühlschrank,refrigerator,noun,masculine,Kühlschränke,ˈkyːlˌʃʁaŋk,Die Milch steht im Kühlschrank.,The milk is in the fridge.
+Kunde,customer (male),noun,masculine,Kunden,ˈkʊndə,Der Kunde wartet an der Kasse.,The customer is waiting at the checkout.
+Kurs,course,noun,masculine,Kurse,kʊʁs,Der Kurs beginnt um achtzehn Uhr.,The course starts at six pm.
+lachen,to laugh,verb,,,ˈlaxn̩,Wir lachen oft über Witze.,We often laugh about jokes.
+Laden,store,noun,masculine,Läden,ˈlaːdn̩,Der Laden hat sonntags geschlossen.,The store is closed on Sundays.
+lange,for a long time,adverb,,,ˈlaŋə,Wir warten schon lange.,We've been waiting for a long time.
+langsam,slow,adjective,,,ˈlaŋzaːm,Dieses Auto fährt sehr langsam.,This car drives very slowly.
+lassen,to let/leave,verb,,,ˈlasn̩,Ich lasse meinen Hund im Garten.,I leave my dog in the garden.
+leben,to live,verb,,,ˈleːbn̩,Ich lebe seit zwei Jahren in Berlin.,I have lived in Berlin for two years.
+leise,quiet,adjective,,,ˈlaɪ̯zə,Die Musik ist leise.,The music is quiet.
+letzter,last,pronoun,,,ˈlɛt͡stɐ,Das ist mein letzter Versuch.,This is my last attempt.
+Leute,people,noun,,,ˈlɔɪ̯tə,Die Leute warten vor der Tür.,The people are waiting in front of the door.
+Licht,light,noun,neuter,Lichter,lɪçt,Mach bitte das Licht an.,Please turn on the light.
+lieben,to love,verb,,,ˈliːbn̩,Er liebt seine Frau sehr.,He loves his wife very much.
+Lied,song,noun,neuter,Lieder,liːt,Das Lied läuft im Radio.,The song is playing on the radio.
+Lokal,"restaurant, pub",noun,neuter,Lokale,loˈkaːl,Das Lokal an der Ecke ist gemütlich.,The restaurant on the corner is cozy.
+machen,to do/make,verb,,,ˈmaxn̩,Was machst du am Wochenende?,What are you doing on the weekend?
+Mädchen,girl,noun,neuter,Mädchen,ˈmɛːtçən,Das kleine Mädchen spielt gern.,The little girl likes to play.
+männlich,male,adjective,,,ˈmɛnlɪç,Das Baby ist männlich.,The baby is male.
+Maschine,machine,noun,feminine,Maschinen,maˈʃiːnə,Die Maschine ist kaputt.,The machine is broken.
+mehr,more,adverb,,,meːɐ̯,Ich brauche mehr Zeit.,I need more time.
+meiste,most,pronoun,,,ˈmaɪ̯stə,Die meisten Leute kommen pünktlich.,Most people arrive on time.
+mieten,to rent,verb,,,ˈmiːtn̩,Wir mieten ein Auto für den Urlaub.,We rent a car for the vacation.
+Milch,milk,noun,feminine,,mɪlç,Ich trinke meinen Kaffee mit Milch.,I drink my coffee with milk.
+mit,with,preposition,,,mɪt,Sie fährt mit dem Bus.,She goes by bus.
+Mitte,middle,noun,feminine,,ˈmɪtə,Das Café liegt in der Mitte der Stadt.,The café is in the middle of the city.
+möglich,possible,adjective,,,ˈmøːklɪç,Das ist leider nicht möglich.,That's unfortunately not possible.
+Moment,moment,noun,masculine,Momente,moˈmɛnt,"Einen Moment, bitte!","One moment, please!"
+Name,name,noun,masculine,Namen,ˈnaːmə,Wie ist dein Name?,What is your name?
+nennen,"to name, call",verb,,,ˈnɛnən,Wie nennst du das?,What do you call that?
+neu,new,adjective,,,nɔɪ̯,Mein Auto ist neu.,My car is new.
+nichts,nothing,pronoun,,,nɪçt͡s,Ich habe nichts gesehen.,I saw nothing.
+niederlassen,settle,verb,,,ˈniːdɐˌlasn̩,Sie wollen sich in Berlin niederlassen.,They want to settle in Berlin.
+normal,normal,adjective,,,nɔʁˈmaːl,Das Wetter ist heute normal.,The weather is normal today.
+Nummer,number,noun,feminine,Nummern,ˈnʊmɐ,Wie ist deine Nummer?,What is your number?
+nur,only,particle,,,nuːɐ̯,Er trinkt nur Wasser.,He drinks only water.
+oben,up top,adverb,,,ˈoːbn̩,Das Bad ist oben.,The bathroom is upstairs.
+oder,or,conjunction,,,ˈoːdɐ,Möchtest du Tee oder Kaffee?,Would you like tea or coffee?
+öffnen,to open,verb,,,ˈœfnən,Kannst du das Fenster öffnen?,Can you open the window?
+ohne,without,preposition,,,ˈoːnə,Er kommt ohne seinen Bruder.,He is coming without his brother.
+Öl,oil,noun,neuter,Öle,øːl,Das Öl ist noch heiß.,The oil is still hot.
+Oma,grandma,noun,feminine,Omas,ˈoːma,Oma wohnt bei uns um die Ecke.,Grandma lives around the corner from us.
+Opa,grandpa,noun,masculine,Opas,ˈoːpa,Opa erzählt gern alte Geschichten.,Grandpa likes to tell old stories.
+Ordnung,order (tidiness),noun,feminine,,ˈɔʁdnʊŋ,Das Zimmer ist wieder in Ordnung.,The room is tidy again.
+Ort,place,noun,masculine,Orte,ɔʁt,Der Ort liegt am See.,The place is by the lake.
+Partnerin,partner (female),noun,feminine,Partnerinnen,ˈpaʁtnəʁɪn,Seine Partnerin arbeitet als Lehrerin.,His partner works as a teacher.
+Party,party,noun,feminine,Partys,ˈpaːɐ̯ti,Die Party beginnt um zwanzig Uhr.,The party starts at eight pm.
+Pause,break,noun,feminine,Pausen,ˈpaʊ̯zə,Die Pause dauert zehn Minuten.,The break lasts ten minutes.
+Plan,plan,noun,masculine,Pläne,plaːn,Der Plan hängt an der Wand.,The plan is hanging on the wall.
+Pommes frites,French fries,noun,,,pɔmˈfʁɪt,Die Pommes frites sind noch heiß.,The fries are still hot.
+Postleitzahl,postal code,noun,feminine,Postleitzahlen,ˈpɔstlaɪ̯tˌt͡saːl,Wie lautet die Postleitzahl?,What is the postal code?
+Praktikum,internship,noun,neuter,Praktika,ˈpʁaktikʊm,Das Praktikum dauert drei Monate.,The internship lasts three months.
+Präsens,present tense,noun,neuter,,ˈpʁɛːzɛns,Im Deutschen verwenden wir das Präsens für Handlungen in der Gegenwart.,"In German, we use the present tense for actions in the present."
+Prospekt,brochure,noun,masculine,Prospekte,pʁoˈspɛkt,Der Prospekt liegt am Empfang.,The brochure is at the reception.
+Prüfung,exam,noun,feminine,Prüfungen,ˈpʁyːfʊŋ,Die Prüfung ist am Freitag.,The exam is on Friday.
+pünktlich,punctual,adjective,,,ˈpʏŋktlɪç,Der Zug ist pünktlich.,The train is on time.
+Radiergummi,eraser,noun,masculine,Radiergummis,ʁaˈdiːɐ̯ˌɡʊmi,Kannst du mir bitte deinen Radiergummi leihen?,"Can you lend me your eraser, please?"
+Raum,"room, space",noun,masculine,Räume,ʁaʊ̯m,Der Raum ist sehr hell.,The room is very bright.
+regnen,to rain,verb,,,ˈʁeːɡnən,Es regnet heute den ganzen Tag.,It's raining all day today.
+Reis,rice,noun,masculine,,ʁaɪ̯s,Der Reis kocht schon zehn Minuten.,The rice has been cooking for ten minutes.
+Reisebüro,travel agency,noun,neuter,Reisebüros,ˈʁaɪ̯zəbyˌʁoː,Das Reisebüro bucht den Flug für uns.,The travel agency books the flight for us.
+richtig,correct,adjective,,,ˈʁɪçtɪç,Die Lösung ist richtig.,The solution is correct.
+rufen,to call,verb,,,ˈʁuːfn̩,Ich rufe meinen Hund.,I call my dog.
+S-Bahn,suburban train,noun,feminine,S-Bahnen,ˈɛsˌbaːn,Die S-Bahn fährt alle zehn Minuten.,The suburban train runs every ten minutes.
+sagen,to say,verb,,,ˈzaːɡn̩,Was sagen Sie dazu?,What do you say about that?
+Salz,salt,noun,neuter,Salze,zalt͡s,Das Essen braucht noch etwas Salz.,The food needs a bit more salt.
+Schalter,counter,noun,masculine,Schalter,ˈʃaltɐ,Der Schalter öffnet um neun Uhr.,The counter opens at nine o’clock.
+schenken,to give (as gift),verb,,,ˈʃɛŋkn̩,Ich schenke meiner Mutter Blumen.,I give my mother flowers.
+schicken,to send,verb,,,ˈʃɪkn̩,Ich schicke dir eine E-Mail.,I send you an email.
+Schild,sign,noun,neuter,Schilder,ʃɪlt,Das Schild zeigt den Weg zum Bahnhof.,The sign shows the way to the station.
+Schinken,ham,noun,masculine,Schinken,ˈʃɪŋkn̩,Das Brötchen mit Schinken schmeckt gut.,The roll with ham tastes good.
+schlafen,to sleep,verb,,,ˈʃlaːfn̩,Ich schlafe acht Stunden pro Nacht.,I sleep eight hours per night.
+Schlagrahm,whipped cream (Swiss),noun,masculine,,ˈʃlaːkʁaːm,Der Kaffee kommt mit Schlagrahm.,The coffee comes with whipped cream.
+schlecht,bad,adjective,,,ʃlɛçt,Das Wetter ist heute sehr schlecht.,The weather is very bad today.
+schließen,to close,verb,,,ˈʃliːsn̩,Bitte schließen Sie die Tür.,Please close the door.
+schnell,fast,adjective,,,ʃnɛl,Mein neues Auto ist sehr schnell.,My new car is very fast.
+Schuh,shoe,noun,masculine,Schuhe,ʃuː,Der Schuh drückt am Fuß.,The shoe pinches at the foot.
+Schule,school,noun,feminine,Schulen,ˈʃuːlə,Gehst du jeden Tag zur Schule?,Do you go to school every day?
+Schüler,pupil (male),noun,masculine,Schüler,ˈʃyːlɐ,Der Schüler meldet sich im Unterricht.,The pupil raises his hand in class.
+schwer,heavy,adjective,,,ʃveːɐ̯,Der Koffer ist schwer.,The suitcase is heavy.
+Schwimmbad,swimming pool,noun,neuter,Schwimmbäder,ˈʃvɪmˌbaːt,Das Schwimmbad öffnet im Mai.,The swimming pool opens in May.
+sehen,to see,verb,,,ˈzeːən,Ich sehe dich später.,I see you later.
+selbstständig,independent,adjective,,,ˈzɛlpstʃtɛndɪç,Meine Tochter ist schon sehr selbstständig.,My daughter is already very independent.
+sich anziehen,to get dressed,verb,,,ˈanˌt͡siːən,Der Junge zieht sich schnell an.,The boy gets dressed quickly.
+sich kümmern,to take care (of),verb,,,ˈkʏmɐn,Meine Eltern kümmern sich um den Garten.,My parents take care of the garden.
+sich umziehen,to change clothes,verb,,,ˈʊmˌt͡siːən,Nach dem Sport zieht sie sich schnell um.,"After sports, she changes clothes quickly."
+sich waschen,to wash (oneself),verb,,,ˈvaʃn̩,Er wäscht sich jeden Morgen kalt.,He washes with cold water every morning.
+sie/Sie,they/you (formal),pronoun,,,ziː,Sie kommen aus Deutschland.,They come from Germany.
+sitzen,to sit,verb,,,ˈzɪt͡sn̩,Ich sitze auf dem Stuhl.,I sit on the chair.
+so,like this,adverb,,,zoː,Mach es einfach so.,Just do it like this.
+Stadt,city,noun,feminine,Städte,ʃtat,Ich wohne in dieser Stadt.,I live in this city.
+stellen,to put/place,verb,,,ˈʃtɛlən,Ich stelle die Tasse auf den Tisch.,I put the cup on the table.
+Stock,"floor, storey",noun,masculine,,ʃtɔk,Die Wohnung liegt im dritten Stock.,The apartment is on the third floor.
+Student,"student (male, university)",noun,masculine,Studenten,ʃtuˈdɛnt,Der Student lernt in der Bibliothek.,The student studies in the library.
+studieren,to study (at university),verb,,,ʃtuˈdiːʁən,Meine Cousine studiert an der Universität Wien.,My cousin studies at the University of Vienna.
+Teil,part,noun,masculine,Teile,taɪ̯l,Der erste Teil des Buches ist spannend.,The first part of the book is exciting.
+telefonieren,to talk on the phone,verb,,,teləfoˈniːʁən,Sie telefoniert jeden Abend mit ihrer Mutter.,She talks on the phone with her mother every evening.
+Test,test,noun,masculine,Tests,tɛst,Der Test war leichter als erwartet.,The test was easier than expected.
+Text,text,noun,masculine,Texte,tɛkst,Der Text ist ziemlich lang.,The text is quite long.
+Toilette,toilet,noun,feminine,Toiletten,toˈlɛtə,Die Toilette ist gleich links.,The restroom is just on the left.
+tot,dead,adjective,,,toːt,Die Pflanze ist tot.,The plant is dead.
+tragen,to carry/wear,verb,,,ˈtʁaːɡn̩,Ich trage heute einen roten Pullover.,I am wearing a red sweater today.
+Treppe,stairs,noun,feminine,Treppen,ˈtʁɛpə,Die Treppe führt in den ersten Stock.,The staircase leads to the first floor.
+tun,to do,verb,,,tuːn,Was tust du heute?,What are you doing today?
+und,and,conjunction,,,ʊnt,Sie kauft Brot und Milch.,She buys bread and milk.
+Unterricht,"lesson, class instruction",noun,masculine,,ˈʊntɐˌʁɪçt,Der Unterricht beginnt um acht Uhr.,Class starts at eight o’clock.
+verdienen,to earn,verb,,,fɛɐ̯ˈdiːnən,Sie verdient monatlich dreitausend Euro.,She earns three thousand euros a month.
+Verein,"club, association",noun,masculine,Vereine,fɛɐ̯ˈʔaɪ̯n,Der Verein trifft sich einmal im Monat.,The club meets once a month.
+vergessen,to forget,verb,,,fɛɐ̯ˈɡɛsn̩,Ich vergesse meinen Schlüssel oft.,I often forget my key.
+vermieten,to rent out,verb,,,fɛɐ̯ˈmiːtn̩,Die Familie vermietet ihr Ferienhaus an Touristen.,The family rents out their vacation house to tourists.
+verstehen,to understand,verb,,,fɛɐ̯ˈʃteːən,Ich verstehe das nicht.,I don't understand that.
+versuchen,to try,verb,,,fɛɐ̯ˈzuːxn̩,"Ich versuche, Deutsch zu lernen.",I try to learn German.
+Verwandte,relative,noun,masculine,Verwandten,fɛɐ̯ˈvantə,Der Verwandte kommt aus Hamburg.,The relative comes from Hamburg.
+vielleicht,maybe,adverb,,,fiˈlaɪ̯çt,Vielleicht regnet es morgen.,Maybe it will rain tomorrow.
+von,"from, of",preposition,,,fɔn,Das Geschenk ist von meinem Vater.,The gift is from my father.
+Vorname,first name,noun,masculine,Vornamen,ˈfoːɐ̯ˌnaːmə,Mein Vorname ist Lukas.,My first name is Lukas.
+Vorsicht,caution,noun,feminine,,ˈfoːɐ̯ˌzɪçt,"Vorsicht, die Straße ist nass!","Careful, the street is wet!"
+Vorwahl,area code,noun,feminine,Vorwahlen,ˈfoːɐ̯ˌvaːl,Wie lautet die Vorwahl für Berlin?,What is the area code for Berlin?
+warten,to wait,verb,,,ˈvaʁtn̩,Ich warte auf den Bus.,I am waiting for the bus.
+was,what,pronoun,,,vas,Was möchtest du trinken?,What would you like to drink?
+weiblich,female,adjective,,,ˈvaɪ̯plɪç,Die Katze ist weiblich.,The cat is female.
+Welt,world,noun,feminine,,vɛlt,Die Welt ist groß.,The world is big.
+wie viel,how much,phrase,,,viː ˈfiːl,Wie viel kostet das Ticket?,How much does the ticket cost?
+wir,we,pronoun,,,viːɐ̯,Wir lernen Deutsch zusammen.,We learn German together.
+Wissen,knowledge,noun,neuter,,ˈvɪsn̩,Sein Wissen über Geschichte ist beeindruckend.,His knowledge of history is impressive.
+wohin,where to,adverb,,,voˈhɪn,Wohin fährst du?,Where are you going?
+wohnen,to live / reside,verb,,,ˈvoːnən,Ich wohne in Berlin.,I live in Berlin.
+Wort,word,noun,neuter,Wörter,vɔʁt,Das Wort steht nicht im Wörterbuch.,The word is not in the dictionary.
+wunderbar,wonderful,adjective,,,ˈvʊndɐbaːɐ̯,Der Urlaub war wunderbar.,The vacation was wonderful.
+zahlen,to pay,verb,,,ˈt͡saːlən,Ich zahle mit Karte.,I pay by card.
+zeigen,to show,verb,,,ˈt͡saɪ̯ɡn̩,Kannst du mir den Weg zeigen?,Can you show me the way?
+Zeit,time,noun,feminine,Zeiten,t͡saɪ̯t,Ich habe heute leider keine Zeit.,"Unfortunately, I don't have time today."
+Zigarette,cigarette,noun,feminine,Zigaretten,t͡siɡaˈʁɛtə,Er raucht keine Zigarette mehr.,He does not smoke anymore.
+Zoll,customs,noun,masculine,Zölle,t͡sɔl,Der Zoll kontrolliert die Koffer.,Customs is checking the suitcases.
+zu,to,preposition,,,t͡suː,Wir fahren zum Flughafen.,We're driving to the airport.
+zurzeit,currently,adverb,,,t͡sʊʁˈt͡saɪ̯t,Er arbeitet zurzeit in München.,He is currently working in Munich.

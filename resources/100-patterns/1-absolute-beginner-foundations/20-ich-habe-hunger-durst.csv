@@ -1,0 +1,9 @@
+example_sentence_de,example_sentence_en,grammar_type
+Ich habe Hunger.,I'm hungry.,hunger
+Ich habe großen Hunger.,I'm very hungry.,hunger-adjective
+Ich habe keinen Hunger.,I'm not hungry.,hunger-negative
+Hast du Hunger?,Are you hungry?,hunger-question
+Ich habe Angst.,I'm scared.,similar-angst
+Ich habe keine Lust.,I don't feel like it.,similar-lust
+Ich habe Durst.,I'm thirsty.,thirst
+Ich habe noch Durst.,I'm still thirsty.,thirst-adverb

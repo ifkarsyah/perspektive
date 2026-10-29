@@ -1,0 +1,9 @@
+example_sentence_de,example_sentence_en,grammar_type
+Die Bücher gehören der Bibliothek.,The books belong to the library.,dativ-nomen-feminine
+Der Hund gehört meinem Nachbarn.,The dog belongs to my neighbor.,dativ-possessive-nomen
+Das Haus gehört meinen Eltern.,The house belongs to my parents.,dativ-possessive-nomen-plural
+Das gehört mir.,That belongs to me.,dativ-pronoun
+Das Auto gehört nicht mir.,The car isn't mine.,dativ-pronoun-negative
+Gehört das dir?,Is that yours?,dativ-pronoun-question
+Wem gehört diese Tasche?,Whose bag is this?,dativ-question
+Das gehört zu meinen Aufgaben.,That's part of my tasks.,dativ-zu-nomen

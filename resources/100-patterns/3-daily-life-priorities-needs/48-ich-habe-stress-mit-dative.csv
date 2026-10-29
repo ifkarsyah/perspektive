@@ -1,0 +1,9 @@
+example_sentence_de,example_sentence_en,grammar_type
+Ich habe gerade viel Stress mit der Uni.,I have a lot of stress with university right now.,dativ-nomen-adverb
+Ich habe Stress mit der Arbeit.,I'm stressed with work.,dativ-nomen-feminine
+Ich habe keinen Stress mit dem Projekt.,I'm not stressed about the project.,dativ-nomen-negative
+Ich habe Stress mit den Nachbarn.,I'm having trouble with the neighbors.,dativ-nomen-plural
+Ich habe Stress mit meinem Chef.,I'm having trouble with my boss.,dativ-possessive-nomen
+Hast du Stress mit deinen Eltern?,Are you having trouble with your parents?,dativ-possessive-nomen-question
+Ich habe Stress mit ihm.,I'm having trouble with him.,dativ-pronoun
+Ich habe Stress.,I'm stressed.,no-mit

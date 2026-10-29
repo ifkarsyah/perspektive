@@ -1,0 +1,9 @@
+example_sentence_de,example_sentence_en,grammar_type
+"Ich habe das Gefühl, dass er lügt.",I have the feeling that he's lying.,dass-clause
+"Ich habe das Gefühl, dass alles gut wird.",I have the feeling that everything will be fine.,dass-clause-future
+"Ich habe das Gefühl, dass etwas nicht stimmt.",I have the feeling that something is wrong.,dass-clause-negative
+"Ich habe das Gefühl, dass ich etwas vergessen habe.",I have the feeling that I forgot something.,dass-clause-perfekt
+"Ich habe das Gefühl, dass wir uns schon kennen.",I have the feeling that we already know each other.,dass-clause-reflexive
+Ich habe ein gutes Gefühl.,I have a good feeling.,fixed-adjective-gefuehl
+"Ich habe das Gefühl, er ist sauer.",I have the feeling he's angry.,no-dass
+"Hast du auch das Gefühl, dass es kälter wird?",Do you also feel it's getting colder?,question

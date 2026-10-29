@@ -1,0 +1,13 @@
+german,type,formation,english,example
+zahlen,Root,,to pay,Ich zahle mit Karte.
+bezahlen,Prefixed verb,be + zahlen,to pay,Ich bezahle die Rechnung an der Kasse.
+einzahlen,Prefixed verb,ein + zahlen,to deposit (money),Ich muss diesen Betrag heute auf mein Konto einzahlen.
+auszahlen,Prefixed verb,aus + zahlen,pay out,Die Bank zahlt das Geld aus.
+zurückzahlen,Prefixed verb,zurück + zahlen,repay,Ich zahle den Kredit zurück.
+nachzahlen,Prefixed verb,nach + zahlen,"to pay the balance, to pay arrears",
+Zahlung,Derived noun,zahlen -> die Zahlung,payment,Die Zahlung ist bei uns eingegangen.
+Einzahlung,Derived noun,einzahlen -> die Einzahlung,deposit,Ich mache eine Einzahlung.
+Auszahlung,Derived noun,auszahlen -> die Auszahlung,payout,Die Auszahlung erfolgt morgen.
+Rückzahlung,Derived noun,zurückzahlen -> die Rückzahlung,repayment,Die Rückzahlung beginnt im Mai.
+Anzahlung,Derived noun,anzahlen -> die Anzahlung,down payment,Wir leisten eine Anzahlung.
+Ratenzahlung,Compound,Raten- + Zahlung,installment payment,Ich zahle per Ratenzahlung.

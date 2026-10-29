@@ -1,0 +1,9 @@
+example_sentence_de,example_sentence_en,grammar_type
+"Ich bin mir nicht sicher, ob das stimmt.",I'm not sure whether that's true.,ob-clause
+"Ich bin mir nicht sicher, ob ich mitkommen kann.",I'm not sure whether I can come along.,ob-clause-modal
+"Ich bin mir nicht sicher, ob ich die Tür zugemacht habe.",I'm not sure whether I closed the door.,ob-clause-perfekt
+"Ich bin mir nicht sicher, ob der Termin heute stattfindet.",I'm not sure whether the appointment is today.,ob-clause-separable
+Ich bin mir nicht ganz sicher.,I'm not quite sure.,short-adverb
+Da bin ich mir nicht sicher.,I'm not sure about that.,short-da
+"Ich bin mir nicht sicher, wie man das macht.",I'm not sure how to do that.,wie-clause
+"Ich bin mir nicht sicher, wo wir parken sollen.",I'm not sure where we should park.,wo-clause

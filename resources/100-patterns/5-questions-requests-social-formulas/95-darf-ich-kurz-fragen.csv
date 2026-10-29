@@ -1,0 +1,9 @@
+example_sentence_de,example_sentence_en,grammar_type
+Darf ich Sie etwas fragen?,May I ask you something?,akkusativ-etwas
+Darf ich kurz stören?,"Sorry to interrupt, may I?",alternative-stoeren
+"Darf ich kurz fragen, ob der Platz frei ist?",May I quickly ask whether this seat is free?,ob-clause
+"Darf ich kurz fragen, wann wir anfangen?",May I quickly ask when we're starting?,wann-clause
+"Darf ich fragen, was Sie beruflich machen?",May I ask what you do for a living?,was-clause
+"Darf ich kurz fragen, wer hier der Chef ist?",May I quickly ask who the boss is here?,wer-clause
+"Darf ich kurz fragen, wie spät es ist?",May I quickly ask what time it is?,wie-clause
+"Darf ich kurz fragen, wo die Toilette ist?",May I quickly ask where the toilet is?,wo-clause

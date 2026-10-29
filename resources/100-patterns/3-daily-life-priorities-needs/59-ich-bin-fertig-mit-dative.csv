@@ -1,0 +1,9 @@
+example_sentence_de,example_sentence_en,grammar_type
+Ich bin noch nicht fertig damit.,I'm not done with it yet.,da-compound-negative
+Ich bin gleich fertig mit dem Bericht.,I'll be done with the report soon.,dativ-nomen-adverb
+Ich bin fertig mit der Arbeit.,I'm finished with work.,dativ-nomen-feminine
+Ich bin fertig mit dem Essen.,I'm done eating.,dativ-nomen-neuter
+Bist du fertig mit dem Bad?,Are you done in the bathroom?,dativ-nomen-question
+Ich bin fertig mit meinen Hausaufgaben.,I'm done with my homework.,dativ-possessive-nomen
+Ich bin fertig mit ihm.,I'm done with him.,dativ-pronoun
+Ich bin fertig!,I'm done!,no-mit

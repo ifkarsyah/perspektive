@@ -1,0 +1,9 @@
+example_sentence_de,example_sentence_en,grammar_type
+Ich habe kein Problem damit.,I have no problem with that.,da-compound-negative
+Ich habe ein kleines Problem mit der Rechnung.,I have a small problem with the bill.,dativ-nomen-adjective-problem
+Ich habe ein Problem mit der Heizung.,I have a problem with the heating.,dativ-nomen-feminine
+Ich habe ein Problem mit dem Internet.,I have a problem with the internet.,dativ-nomen-neuter
+Wir haben Probleme mit den Nachbarn.,We have problems with the neighbors.,dativ-nomen-plural
+Ich habe ein Problem mit meinem Laptop.,I have a problem with my laptop.,dativ-possessive-nomen
+Ich habe ein Problem mit ihm.,I have a problem with him.,dativ-pronoun
+Hast du ein Problem mit mir?,Do you have a problem with me?,dativ-pronoun-question

@@ -1,0 +1,9 @@
+example_sentence_de,example_sentence_en,grammar_type
+"Es tut mir leid, dass ich zu spät bin.",I'm sorry that I'm late.,dass-clause
+Es tut mir leid.,I'm sorry.,plain
+Tut mir leid!,Sorry!,short
+Es tut mir leid wegen gestern.,I'm sorry about yesterday.,wegen-adverb
+Es tut mir leid wegen dem Lärm.,I'm sorry about the noise.,wegen-dativ-spoken
+Es tut mir leid wegen des Missverständnisses.,I'm sorry about the misunderstanding.,wegen-genitiv
+Es tut mir leid wegen der Verspätung.,I'm sorry about the delay.,wegen-nomen-feminine
+Es tut mir sehr leid wegen deiner Oma.,I'm very sorry about your grandma.,wegen-possessive-nomen

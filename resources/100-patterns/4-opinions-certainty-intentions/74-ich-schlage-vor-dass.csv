@@ -1,0 +1,9 @@
+example_sentence_de,example_sentence_en,grammar_type
+Ich schlage ein Restaurant vor.,I suggest a restaurant.,akkusativ-nomen
+"Ich schlage vor, dass wir eine Pause machen.",I suggest that we take a break.,dass-clause
+"Ich schlage vor, dass wir das später besprechen.",I suggest that we discuss that later.,dass-clause-adverb
+"Ich schlage vor, dass wir uns morgen treffen.",I suggest that we meet tomorrow.,dass-clause-reflexive
+"Ich schlage vor, dass du den Arzt anrufst.",I suggest that you call the doctor.,dass-clause-separable
+"Ich schlage vor, wir gehen essen.",I suggest we go out to eat.,no-dass
+Was schlägst du vor?,What do you suggest?,question
+"Ich schlage vor, morgen weiterzumachen.",I suggest continuing tomorrow.,zu-infinitive-separable

@@ -1,0 +1,9 @@
+example_sentence_de,example_sentence_en,grammar_type
+"Ich bin der Meinung, dass wir mehr reden sollten.",I'm of the opinion that we should talk more.,alternative-der-meinung-dass
+Meiner Meinung nach ist das zu teuer.,"In my opinion, that's too expensive.",inversion-adjective
+Meiner Meinung nach hast du recht.,"In my opinion, you're right.",inversion-fixed-recht
+Meiner Meinung nach sollten wir warten.,"In my opinion, we should wait.",inversion-modal
+Meiner Meinung nach ist das keine gute Idee.,"In my opinion, that's not a good idea.",inversion-negative
+Meiner Meinung nach hat er einen Fehler gemacht.,"In my opinion, he made a mistake.",inversion-perfekt
+Meiner Meinung nach ist Berlin die schönste Stadt.,"In my opinion, Berlin is the most beautiful city.",inversion-superlative
+Was ist deiner Meinung nach das Problem?,"In your opinion, what is the problem?",question-deiner

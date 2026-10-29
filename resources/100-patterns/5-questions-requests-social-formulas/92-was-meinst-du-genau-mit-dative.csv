@@ -1,0 +1,9 @@
+example_sentence_de,example_sentence_en,grammar_type
+Wie meinst du das?,How do you mean that?,alternative-wie
+Was meinst du damit?,What do you mean by that?,da-compound
+Was meinen Sie damit?,What do you mean by that? (formal),da-compound-formal
+Was meinst du genau mit dieser Frage?,What exactly do you mean by this question?,dativ-demonstrative-nomen
+Was meinst du mit dem letzten Satz?,What do you mean by the last sentence?,dativ-nomen-masculine
+Was meinst du mit deiner Nachricht?,What do you mean by your message?,dativ-possessive-nomen
+Was meinst du genau?,What exactly do you mean?,short
+Was meinst du genau mit „bald“?,"What exactly do you mean by ""soon""?",word

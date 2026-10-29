@@ -1,0 +1,10 @@
+example_sentence_de,example_sentence_en,grammar_type
+Ich wohne in einem kleinen Dorf.,I live in a small village.,dativ-adjective-nomen
+Ich wohne in Berlin.,I live in Berlin.,dativ-city
+Ich wohne seit drei Jahren in München.,I have been living in Munich for three years.,dativ-city-duration
+Ich wohne nicht mehr in Hamburg.,I don't live in Hamburg anymore.,dativ-city-negative
+Ich wohne in Indonesien.,I live in Indonesia.,dativ-country
+Ich wohne in der Schweiz.,I live in Switzerland.,dativ-country-article
+Ich wohne in den USA.,I live in the USA.,dativ-country-plural
+Ich wohne im Zentrum.,I live in the city center.,dativ-nomen-contraction
+Ich wohne in einer Wohnung.,I live in an apartment.,dativ-nomen-feminine

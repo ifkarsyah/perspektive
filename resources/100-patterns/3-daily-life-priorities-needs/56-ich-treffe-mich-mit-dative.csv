@@ -1,0 +1,9 @@
+example_sentence_de,example_sentence_en,grammar_type
+Ich treffe meinen Chef.,I'm meeting my boss.,akkusativ-non-reflexive
+Ich treffe mich heute mit Anna.,I'm meeting Anna today.,dativ-name
+Ich treffe mich morgen mit einem Kunden.,I'm meeting a client tomorrow.,dativ-nomen-indefinite
+Ich treffe mich mit Freunden.,I'm meeting up with friends.,dativ-nomen-plural-no-article
+Ich treffe mich mit meiner Schwester.,I'm meeting up with my sister.,dativ-possessive-nomen
+Ich treffe mich mit ihm im Café.,I'm meeting him at the café.,dativ-pronoun-place
+Wann treffen wir uns?,When are we meeting?,reflexive-wir-question
+Wir treffen uns um 8 Uhr am Bahnhof.,We're meeting at 8 at the station.,reflexive-wir-time-place

@@ -1,0 +1,8 @@
+example_sentence_de,example_sentence_en,grammar_type
+Ich danke meinen Eltern für alles.,I thank my parents for everything.,dativ-possessive-nomen-fuer-akkusativ
+Ich danke dir.,I thank you.,dativ-pronoun
+Ich danke Ihnen für Ihre Zeit.,Thank you for your time.,dativ-pronoun-formal-fuer-akkusativ
+Ich danke dir für die Hilfe.,Thank you for the help.,dativ-pronoun-fuer-akkusativ
+Ich danke euch für den schönen Abend.,Thank you (all) for the lovely evening.,dativ-pronoun-plural-fuer-akkusativ
+Danke für die Einladung!,Thanks for the invitation!,fixed-danke-fuer-akkusativ
+Vielen Dank für den Tipp!,Thanks a lot for the tip!,fixed-vielen-dank-fuer-akkusativ

@@ -1,0 +1,9 @@
+example_sentence_de,example_sentence_en,grammar_type
+Ich habe heute einfach keine Lust.,I just don't feel like it today.,no-infinitive
+Ich habe keine Lust zu kochen.,I don't feel like cooking.,zu-infinitive
+"Ich habe keine Lust, heute zu arbeiten.",I don't feel like working today.,zu-infinitive-adverb
+"Ich habe keine Lust, das Buch zu lesen.",I don't feel like reading the book.,zu-infinitive-akkusativ-nomen
+"Ich habe keine Lust, mit ihm zu reden.",I don't feel like talking to him.,zu-infinitive-dativ
+"Ich habe Lust, Deutsch zu lernen.",I feel like learning German.,zu-infinitive-positive
+"Hast du Lust, ins Kino zu gehen?",Do you feel like going to the movies?,zu-infinitive-question
+"Ich habe keine Lust, aufzuräumen.",I don't feel like tidying up.,zu-infinitive-separable

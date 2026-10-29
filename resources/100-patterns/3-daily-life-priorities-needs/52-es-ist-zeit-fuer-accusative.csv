@@ -1,0 +1,8 @@
+example_sentence_de,example_sentence_en,grammar_type
+Es ist höchste Zeit für Urlaub.,It's high time for a vacation.,adjective-hoechste-zeit
+Es ist Zeit für das Mittagessen.,It's time for lunch.,akkusativ-nomen-definite
+Es ist Zeit für eine Pause.,It's time for a break.,akkusativ-nomen-feminine
+Es ist Zeit für einen Kaffee.,It's time for a coffee.,akkusativ-nomen-masculine
+Es ist noch nicht Zeit für das Essen.,It's not time for dinner yet.,akkusativ-nomen-negative
+Es ist Zeit für Veränderungen.,It's time for changes.,akkusativ-nomen-plural
+"Es ist Zeit, nach Hause zu gehen.",It's time to go home.,zu-infinitive

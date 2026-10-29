@@ -1,0 +1,14 @@
+german,type,formation,english,example
+kaufen,Root,,to buy,Ich kaufe Brot im Supermarkt.
+einkaufen,Prefixed verb,ein + kaufen,"to go shopping, to buy groceries",Ich kaufe heute ein.
+verkaufen,Prefixed verb,ver + kaufen,sell,Ich verkaufe mein altes Fahrrad.
+ankaufen,Prefixed verb,an + kaufen,"to purchase, to acquire",
+aufkaufen,Prefixed verb,auf + kaufen,to buy up,
+nachkaufen,Prefixed verb,nach + kaufen,"to buy more of, to buy later",
+zurückkaufen,Prefixed verb,zurück + kaufen,to buy back,
+Kauf,Derived noun,kaufen -> der Kauf,purchase,Der Kauf war sehr günstig.
+Käufer,Derived noun,kaufen -> der Käufer,buyer,Der Käufer zahlt bar.
+Einkauf,Derived noun,einkaufen -> der Einkauf,shopping / purchase,Ich mache den Einkauf für die Woche.
+Verkauf,Derived noun,verkaufen -> der Verkauf,sale,Der Verkauf läuft sehr gut.
+Kaufpreis,Compound,Kauf- + Preis,purchase price,Der Kaufpreis ist zu hoch.
+Kaufhaus,Compound,Kauf- + Haus,department store,Das Kaufhaus hat bis acht offen.

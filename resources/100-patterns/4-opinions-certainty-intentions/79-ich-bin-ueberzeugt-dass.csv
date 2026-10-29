@@ -1,0 +1,9 @@
+example_sentence_de,example_sentence_en,grammar_type
+"Ich bin überzeugt, dass du das schaffst.",I'm convinced that you'll manage it.,dass-clause
+"Ich bin überzeugt, dass wir gewinnen können.",I'm convinced that we can win.,dass-clause-modal
+"Ich bin überzeugt, dass er die Wahrheit gesagt hat.",I'm convinced that he told the truth.,dass-clause-perfekt
+"Ich bin fest davon überzeugt, dass es klappt.",I'm firmly convinced that it will work.,davon-fest
+Bist du davon überzeugt?,Are you convinced of it?,question
+Ich bin davon überzeugt.,I'm convinced of it.,short-davon
+Ich bin nicht überzeugt.,I'm not convinced.,short-negative
+Ich bin von der Idee überzeugt.,I'm convinced by the idea.,von-dativ-nomen

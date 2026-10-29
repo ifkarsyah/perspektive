@@ -1,0 +1,9 @@
+example_sentence_de,example_sentence_en,grammar_type
+Ich interessiere mich für deutsche Filme.,I'm interested in German films.,akkusativ-adjective-nomen
+Ich interessiere mich für den Job.,I'm interested in the job.,akkusativ-nomen-definite
+Ich interessiere mich nicht für Fußball.,I'm not interested in football.,akkusativ-nomen-negative
+Ich interessiere mich für Musik.,I'm interested in music.,akkusativ-nomen-no-article
+Interessieren Sie sich für Kunst?,Are you interested in art?,akkusativ-nomen-question
+Er interessiert sich für dich.,He's interested in you.,akkusativ-pronoun
+Wofür interessierst du dich?,What are you interested in?,akkusativ-question
+Ich interessiere mich sehr dafür.,I'm very interested in it.,da-compound

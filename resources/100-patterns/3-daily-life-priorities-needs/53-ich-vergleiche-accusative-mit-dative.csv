@@ -1,0 +1,9 @@
+example_sentence_de,example_sentence_en,grammar_type
+Ich vergleiche den Preis mit dem Angebot.,I'm comparing the price with the offer.,akkusativ-nomen-mit-dativ-nomen
+Ich vergleiche zwei Handys miteinander.,I'm comparing two phones with each other.,akkusativ-nomen-miteinander
+Ich vergleiche die Preise.,I'm comparing the prices.,akkusativ-nomen-plural
+Ich vergleiche mein Leben mit deinem.,I'm comparing my life with yours.,akkusativ-possessive-mit-possessive
+Ich vergleiche Berlin mit München.,I'm comparing Berlin with Munich.,city-mit-city
+Im Vergleich zu Jakarta ist Berlin ruhig.,"Compared to Jakarta, Berlin is quiet.",fixed-im-vergleich-zu
+Vergleich dich nicht mit anderen!,Don't compare yourself with others!,imperative-reflexive
+Man kann das nicht vergleichen.,You can't compare that.,negative-modal

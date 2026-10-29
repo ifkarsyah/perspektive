@@ -1,0 +1,11 @@
+example_sentence_de,example_sentence_en,grammar_type
+Ich bin müde.,I am tired.,adjective
+Ich bin heute sehr glücklich.,I am very happy today.,adjective-adverb
+Ich bin nicht hungrig.,I am not hungry.,adjective-negative
+Ich bin neu hier.,I am new here.,adjective-place
+Ich bin verheiratet.,I am married.,adjective-status
+Ich bin 25 Jahre alt.,I am 25 years old.,age
+Ich bin Indonesier.,I am Indonesian.,nomen-nationality
+Ich bin kein Arzt.,I am not a doctor.,nomen-negative
+Ich bin Lehrer.,I am a teacher.,nomen-profession
+Ich bin Studentin.,I am a student (female).,nomen-profession-feminine

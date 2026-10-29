@@ -1,0 +1,14 @@
+german,type,formation,english,example
+sagen,Root,,to say,Was sagen Sie dazu?
+absagen,Prefixed verb,ab + sagen,"to cancel, decline",Ich muss unseren Termin absagen.
+ansagen,Prefixed verb,an + sagen,announce,Der Sprecher sagt den nächsten Halt an.
+aussagen,Prefixed verb,aus + sagen,state / testify,Der Zeuge sagt vor Gericht aus.
+besagen,Prefixed verb,be + sagen,"to state, to mean",
+vorhersagen,Prefixed verb,vorher + sagen,to predict,Der Wetterbericht konnte Regen vorhersagen.
+weitersagen,Prefixed verb,weiter + sagen,"to pass on, to tell others",
+zusagen,Prefixed verb,zu + sagen,to accept (invitation),Ich werde die Einladung zusagen.
+Absage,Derived noun,absagen -> die Absage,"cancellation, decline",Ich habe eine Absage für das Treffen bekommen.
+Ansage,Derived noun,ansagen -> die Ansage,"announcement, outgoing message",Ich habe die Ansage am Telefon nicht verstanden.
+Aussage,Derived noun,aussagen -> die Aussage,"statement, testimony",Seine Aussage war klar und präzise.
+Zusage,Derived noun,zusagen -> die Zusage,acceptance (of an invitation),Wir warten noch auf die Zusage.
+Vorhersage,Derived noun,vorhersagen -> die Vorhersage,prediction,Die Wettervorhersage für morgen ist eher schlecht.

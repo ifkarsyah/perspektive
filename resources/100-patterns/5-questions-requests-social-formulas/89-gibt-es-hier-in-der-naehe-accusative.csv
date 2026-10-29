@@ -1,0 +1,9 @@
+example_sentence_de,example_sentence_en,grammar_type
+Gibt es hier in der Nähe ein gutes Restaurant?,Is there a good restaurant nearby?,akkusativ-adjective-nomen
+Gibt es hier in der Nähe eine Apotheke?,Is there a pharmacy nearby?,akkusativ-nomen-feminine
+Gibt es hier in der Nähe einen Supermarkt?,Is there a supermarket nearby?,akkusativ-nomen-masculine
+Gibt es hier in der Nähe ein Café?,Is there a café nearby?,akkusativ-nomen-neuter
+Gibt es hier in der Nähe Parkplätze?,Are there parking spaces nearby?,akkusativ-nomen-plural
+Gibt es hier irgendwo eine Toilette?,Is there a toilet anywhere here?,alternative-irgendwo
+Hier in der Nähe gibt es keinen Bahnhof.,There's no train station nearby.,statement-negative
+Wo gibt es hier in der Nähe einen Bäcker?,Where is there a bakery nearby?,wo-question

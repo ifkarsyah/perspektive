@@ -1,0 +1,10 @@
+example_sentence_de,example_sentence_en,grammar_type
+Es ist Wochenende.,It's the weekend.,day
+Es ist schon spät.,It's already late.,time-adjective
+Es ist halb acht.,It's half past seven.,time-half
+Es ist drei Uhr.,It's three o'clock.,time-hour
+Es ist Viertel nach zwei.,It's quarter past two.,time-quarter
+Wie spät ist es?,What time is it?,time-question
+Es ist heute kalt.,It's cold today.,weather-adjective
+Es ist sehr windig.,It's very windy.,weather-adverb
+Es ist nicht so warm.,It's not that warm.,weather-negative

@@ -1,0 +1,9 @@
+example_sentence_de,example_sentence_en,grammar_type
+Kann ich bitte die Rechnung haben?,"Can I have the bill, please?",akkusativ-nomen-feminine
+Kann ich bitte einen Kaffee haben?,"Can I have a coffee, please?",akkusativ-nomen-masculine
+Kann ich bitte noch etwas Brot haben?,"Can I have some more bread, please?",akkusativ-nomen-more
+Kann ich bitte ein Glas Wasser haben?,"Can I have a glass of water, please?",akkusativ-nomen-neuter
+Kann ich bitte zwei Brötchen haben?,"Can I have two bread rolls, please?",akkusativ-nomen-plural
+Kann ich bitte Ihre Nummer haben?,"Can I have your number, please?",akkusativ-possessive-nomen
+Ich hätte gern einen Tee.,I'd like a tea.,alternative-haette-gern
+Könnte ich bitte die Speisekarte haben?,"Could I have the menu, please?",konjunktiv

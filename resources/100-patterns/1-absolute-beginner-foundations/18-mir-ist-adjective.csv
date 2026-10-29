@@ -1,0 +1,8 @@
+example_sentence_de,example_sentence_en,grammar_type
+Mir ist langweilig.,I'm bored.,adjective-feeling
+Mir ist nicht kalt.,I'm not cold.,adjective-negative
+Ist dir kalt?,Are you cold?,adjective-question
+Mir ist schlecht.,I feel sick.,adjective-sickness
+Mir ist kalt.,I'm cold.,adjective-temperature
+Mir ist sehr warm.,I'm very warm.,adjective-temperature-adverb
+Ihm ist schlecht.,He feels sick.,pronoun-ihm

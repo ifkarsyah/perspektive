@@ -1,0 +1,9 @@
+example_sentence_de,example_sentence_en,grammar_type
+Ich nehme daran teil.,I'm taking part in it.,da-compound
+Ich nehme am Meeting teil.,I'm joining the meeting.,dativ-nomen-contraction
+Ich nehme an einer Konferenz teil.,I'm attending a conference.,dativ-nomen-feminine
+Ich nehme an dem Kurs teil.,I'm taking part in the course.,dativ-nomen-masculine
+Ich möchte an dem Workshop teilnehmen.,I'd like to take part in the workshop.,dativ-nomen-modal
+Ich nehme nicht an der Party teil.,I'm not going to the party.,dativ-nomen-negative
+Ich habe am Marathon teilgenommen.,I took part in the marathon.,dativ-nomen-perfekt
+Nimmst du an dem Wettbewerb teil?,Are you taking part in the competition?,dativ-nomen-question
