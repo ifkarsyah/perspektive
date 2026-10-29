@@ -8,7 +8,8 @@
     "build": "tsc -b && vite build",
     "lint": "eslint .",
     "preview": "vite preview",
-    "generate-audio": "scripts/.venv/bin/python scripts/generate_audio.py"
+    "generate-audio": "scripts/.venv/bin/python scripts/generate_audio.py",
+    "coverage": "python3 scripts/coverage.py"
   },
   "dependencies": {
     "@tailwindcss/vite": "4.3.3",

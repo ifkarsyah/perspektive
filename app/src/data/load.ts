@@ -1,5 +1,16 @@
 import Papa from 'papaparse'
-import type { Article, Category, Phrase, PhraseKind, Situation, Similarity, Word, WordKind } from './types'
+import type {
+  Article,
+  Category,
+  DialogueLine,
+  Mark,
+  Phrase,
+  PhraseKind,
+  Situation,
+  Similarity,
+  Word,
+  WordKind,
+} from './types'
 
 // <category>/<situation>/<file>. Files directly in a category folder
 // (e.g. 1-general/phrase.csv) are a different format and are not matched.
@@ -24,7 +35,11 @@ const PHRASE_FILES: Record<string, PhraseKind> = {
   'phrase_to_hear.csv': 'hear',
   'phrase_to_say.csv': 'say',
 }
+const DIALOGUE_FILE = 'dialogue.csv'
 const ARTICLES: Article[] = ['der', 'die', 'das']
+
+// "{wohne|wohnen}" marks a vocab word in a dialogue line; "{neu}" when the text is the lemma.
+const MARK = /\{([^}|]+)(?:\|([^}]+))?\}/g
 
 type Row = Record<string, string>
 
@@ -54,6 +69,32 @@ const articleOf = (german: string): Article | undefined => {
   return ARTICLES.includes(first) ? first : undefined
 }
 
+// Splits a marked line into plain text and marks, linking each mark to its vocab row.
+const segmentsOf = (german: string, words: Word[]): (string | Mark)[] => {
+  const segments: (string | Mark)[] = []
+  let last = 0
+  for (const match of german.matchAll(MARK)) {
+    if (match.index > last) segments.push(german.slice(last, match.index))
+    const text = match[1]
+    const lemma = match[2] ?? text
+    segments.push({ text, lemma, word: words.find((w) => w.german === lemma) })
+    last = match.index + match[0].length
+  }
+  if (last < german.length) segments.push(german.slice(last))
+  return segments
+}
+
+const dialogueOf = (rows: Row[], situation: Situation): DialogueLine[] => {
+  const words = Object.values(situation.words).flat()
+  return rows.map((row) => ({
+    id: `${situation.key}:dialogue:${row.line}`,
+    who: row.who,
+    german: row.german.replace(MARK, '$1'),
+    english: row.english,
+    segments: segmentsOf(row.german, words),
+  }))
+}
+
 // "…/german-by-context/3-housing/5-trash/vocab_noun.csv" -> ["3-housing", "5-trash", "vocab_noun.csv"]
 const splitPath = (path: string) => path.split('/').slice(-3)
 
@@ -67,12 +108,15 @@ const emptySituation = (categoryDir: string, situationDir: string): Situation =>
     category,
     words: { noun: [], verb: [], adjective: [], adverb: [] },
     phrases: { hear: [], say: [] },
+    dialogue: [],
   }
 }
 
 function buildTree(): Category[] {
   const situations = new Map<string, { order: [number, number]; situation: Situation }>()
   const categoryDirs = new Map<string, string>()
+  // Dialogues link to vocab rows, so they are built once all vocab files are read.
+  const dialogueRows = new Map<Situation, Row[]>()
 
   const situationFor = (categoryDir: string, situationDir: string) => {
     const mapKey = `${categoryDir}/${situationDir}`
@@ -92,11 +136,14 @@ function buildTree(): Category[] {
     const [categoryDir, situationDir, file] = splitPath(path)
     const wordKind = WORD_FILES[file]
     const phraseKind = PHRASE_FILES[file]
-    if (!wordKind && !phraseKind) continue
+    const isDialogue = file === DIALOGUE_FILE
+    if (!wordKind && !phraseKind && !isDialogue) continue
 
     const situation = situationFor(categoryDir, situationDir)
 
-    if (wordKind) {
+    if (isDialogue) {
+      dialogueRows.set(situation, parse(raw))
+    } else if (wordKind) {
       situation.words[wordKind] = uniqueIds(parse(raw).map(
         (row): Word => ({
           id: `${situation.key}:${wordKind}:${row.german}`,
@@ -120,6 +167,10 @@ function buildTree(): Category[] {
         }),
       ))
     }
+  }
+
+  for (const [situation, rows] of dialogueRows) {
+    situation.dialogue = dialogueOf(rows, situation)
   }
 
   for (const [path, raw] of Object.entries(sceneFiles)) {
@@ -150,4 +201,5 @@ export const findSituation = (key: string) =>
 
 export const countItems = (s: Situation) =>
   Object.values(s.words).reduce((n, list) => n + list.length, 0) +
-  Object.values(s.phrases).reduce((n, list) => n + list.length, 0)
+  Object.values(s.phrases).reduce((n, list) => n + list.length, 0) +
+  s.dialogue.length

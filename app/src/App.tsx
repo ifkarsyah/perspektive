@@ -11,7 +11,9 @@ export default function App() {
   return (
     <main className="mx-auto max-w-5xl px-4 py-8">
       {route.page === 'quiz' && situation ? (
-        <QuizPage key={situation.key} situation={situation} />
+        <QuizPage key={situation.key} situation={situation} mode="words" />
+      ) : route.page === 'dialogue-quiz' && situation ? (
+        <QuizPage key={situation.key} situation={situation} mode="dialogue" />
       ) : route.page === 'situation' && situation ? (
         <SituationPage key={situation.key} situation={situation} />
       ) : (

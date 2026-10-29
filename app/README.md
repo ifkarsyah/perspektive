@@ -36,6 +36,7 @@ german-by-context/
       vocab_adverb.csv
       phrase_to_hear.csv
       phrase_to_say.csv
+      dialogue.csv         # optional, see Conversations
       scene.svg            # optional, see Scenes
 ```
 
@@ -50,6 +51,7 @@ german-by-context/
 |---|---|
 | `vocab_*.csv` | `category,german,english,similarity` |
 | `phrase_to_*.csv` | `category,who,german,english` |
+| `dialogue.csv` | `line,who,german,english` |
 
 - `category` — sub-group inside the situation (e.g. `bins`, `collection`).
 - `similarity` — `cognate`, `false-friend` or `different` (relative to English).
@@ -87,13 +89,32 @@ Objects in the scene are tagged with the noun they show:
 
 Scenes are flat-style inline SVG with a 16:9 `viewBox` so they stay sharp and small.
 
+## Conversations
+
+`dialogue.csv` is one short conversation (12–25 lines) that uses the situation's vocab in context.
+Vocab words in the `german` column are marked with braces:
+
+```csv
+line,who,german,english
+9,Ferdi,"{Ursprünglich|ursprünglich} aus Jakarta, aber {gerade} {wohne|wohnen} ich in Tokio.","Originally from Jakarta, but right now I live in Tokyo."
+```
+
+- `{text|lemma}` — `text` as it appears in the sentence, `lemma` the `german` value of the vocab
+  row (`{wohne|wohnen}`, `{Firma|die Firma}`). `{text}` alone when they are the same.
+- The braces are stripped for display and audio; marked words are what the conversation quiz blanks out.
+- Aim for most nouns and verbs, not all: forcing every word in makes the conversation unnatural.
+  `npm run coverage` lists the vocab each dialogue uses, misses, and lemmas that match no row (typos).
+
 ## Screens
 
 1. **Map** — categories as tiles, expanding into their situations with item counts.
 2. **Situation** — scene, word cards grouped by `category` (article colour for
    der/die/das, English, similarity badge), then phrases split into *you'll hear* and
-   *you'll say* with a `who` chip. Every row has a speaker button.
+   *you'll say* with a `who` chip, then the conversation as chat bubbles (tap for English).
+   Every row has a speaker button.
 3. **Quiz** — German → English multiple choice from the current situation only.
+4. **Conversation quiz** — a dialogue line with one marked word blanked out; pick the right form
+   from other marked words of the same kind.
 
 ## Audio
 

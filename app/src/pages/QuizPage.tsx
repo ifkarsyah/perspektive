@@ -2,15 +2,18 @@ import { ArrowLeft, Check, X } from 'lucide-react'
 import { useState } from 'react'
 import { SpeakButton } from '@/components/SpeakButton'
 import { Button } from '@/components/ui/button'
-import type { Situation } from '@/data/types'
+import type { Mark, Situation } from '@/data/types'
 import { hrefFor } from '@/lib/route'
 import { cn } from '@/lib/utils'
 
 const QUESTION_COUNT = 10
 const CHOICE_COUNT = 4
 
+type Mode = 'words' | 'dialogue'
 type Item = { id: string; kind: string; german: string; english: string }
-type Question = { item: Item; choices: string[] }
+// `prompt` is what's asked, `audio` the German read out (in dialogue mode only after
+// answering, since it would give the gap away), `hint` an extra line under the prompt.
+type Question = { prompt: string; audio: string; hint?: string; answer: string; choices: string[] }
 
 const shuffle = <T,>(list: T[]) => {
   const copy = [...list]
@@ -21,7 +24,7 @@ const shuffle = <T,>(list: T[]) => {
   return copy
 }
 
-function makeQuiz(situation: Situation): Question[] {
+function makeWordQuiz(situation: Situation): Question[] {
   const items: Item[] = [
     ...Object.values(situation.words).flat(),
     ...Object.values(situation.phrases).flat(),
@@ -35,18 +38,59 @@ function makeQuiz(situation: Situation): Question[] {
       const sameKind = others.filter((other) => other.kind === item.kind)
       const pool = sameKind.length >= CHOICE_COUNT - 1 ? sameKind : others
       const wrong = [...new Set(shuffle(pool).map((other) => other.english))].slice(0, CHOICE_COUNT - 1)
-      return { item, choices: shuffle([item.english, ...wrong]) }
+      return {
+        prompt: item.german,
+        audio: item.german,
+        answer: item.english,
+        choices: shuffle([item.english, ...wrong]),
+      }
     })
 }
 
-export function QuizPage({ situation }: { situation: Situation }) {
-  const [questions, setQuestions] = useState(() => makeQuiz(situation))
+const GAP = '___'
+const sameText = (a: string, b: string) => a.toLowerCase() === b.toLowerCase()
+// A gap at the start of a sentence would give the answer away by its capital letter.
+const caseLike = (text: string, model: string) =>
+  model[0] === model[0].toUpperCase()
+    ? text[0].toUpperCase() + text.slice(1)
+    : text[0].toLowerCase() + text.slice(1)
+
+// One gap per dialogue line: a marked word is blanked out, and the choices are other
+// marked words of the same kind (verb forms with verb forms), so they fit the sentence's shape.
+function makeDialogueQuiz(situation: Situation): Question[] {
+  const marked = situation.dialogue.filter((line) => line.segments.some((s) => typeof s !== 'string'))
+  const allMarks = marked.flatMap((line) => line.segments.filter((s): s is Mark => typeof s !== 'string'))
+
+  return shuffle(marked)
+    .slice(0, QUESTION_COUNT)
+    .map((line) => {
+      const marks = line.segments.filter((s): s is Mark => typeof s !== 'string')
+      const gap = shuffle(marks)[0]
+      const others = allMarks.filter((m) => !sameText(m.text, gap.text))
+      const sameKind = others.filter((m) => m.word?.kind === gap.word?.kind)
+      const pool = sameKind.length >= CHOICE_COUNT - 1 ? sameKind : others
+      const wrong = [...new Set(shuffle(pool).map((m) => caseLike(m.text, gap.text)))].slice(0, CHOICE_COUNT - 1)
+      return {
+        prompt: line.segments.map((s) => (typeof s === 'string' ? s : s === gap ? GAP : s.text)).join(''),
+        audio: line.german,
+        hint: `${line.who}: ${line.english}`,
+        answer: gap.text,
+        choices: shuffle([gap.text, ...wrong]),
+      }
+    })
+}
+
+const makeQuiz = (situation: Situation, mode: Mode) =>
+  mode === 'words' ? makeWordQuiz(situation) : makeDialogueQuiz(situation)
+
+export function QuizPage({ situation, mode }: { situation: Situation; mode: Mode }) {
+  const [questions, setQuestions] = useState(() => makeQuiz(situation, mode))
   const [index, setIndex] = useState(0)
   const [picked, setPicked] = useState<string>()
   const [score, setScore] = useState(0)
 
   const restart = () => {
-    setQuestions(makeQuiz(situation))
+    setQuestions(makeQuiz(situation, mode))
     setIndex(0)
     setPicked(undefined)
     setScore(0)
@@ -78,12 +122,12 @@ export function QuizPage({ situation }: { situation: Situation }) {
     )
   }
 
-  const { item, choices } = questions[index]
+  const { prompt, audio, hint, answer, choices } = questions[index]
 
   const pick = (choice: string) => {
     if (picked) return
     setPicked(choice)
-    if (choice === item.english) setScore((s) => s + 1)
+    if (choice === answer) setScore((s) => s + 1)
   }
 
   return (
@@ -94,13 +138,16 @@ export function QuizPage({ situation }: { situation: Situation }) {
       </div>
 
       <div className="flex items-center gap-2 rounded-xl border bg-card p-6">
-        <p className="flex-1 text-2xl font-semibold">{item.german}</p>
-        <SpeakButton text={item.german} />
+        <div className="flex-1">
+          <p className="text-2xl font-semibold">{mode === 'dialogue' && picked ? audio : prompt}</p>
+          {hint && <p className="mt-2 text-sm text-muted-foreground">{hint}</p>}
+        </div>
+        {(mode === 'words' || picked) && <SpeakButton text={audio} />}
       </div>
 
       <div className="grid gap-2">
         {choices.map((choice) => {
-          const isRight = choice === item.english
+          const isRight = choice === answer
           const isPicked = choice === picked
           return (
             <button

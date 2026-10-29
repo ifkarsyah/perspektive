@@ -1,5 +1,6 @@
-import { ArrowLeft, ListChecks } from 'lucide-react'
+import { ArrowLeft, ListChecks, MessagesSquare } from 'lucide-react'
 import { useState } from 'react'
+import { Dialogue } from '@/components/Dialogue'
 import { PhraseRow } from '@/components/PhraseRow'
 import { Scene } from '@/components/Scene'
 import { Button } from '@/components/ui/button'
@@ -35,11 +36,20 @@ export function SituationPage({ situation }: { situation: Situation }) {
         >
           <ArrowLeft className="size-4" /> All situations
         </a>
-        <Button asChild size="sm">
-          <a href={hrefFor({ page: 'quiz', key: situation.key })}>
-            <ListChecks /> Quiz
-          </a>
-        </Button>
+        <div className="flex gap-2">
+          {situation.dialogue.length > 0 && (
+            <Button asChild size="sm" variant="outline">
+              <a href={hrefFor({ page: 'dialogue-quiz', key: situation.key })}>
+                <MessagesSquare /> Conversation quiz
+              </a>
+            </Button>
+          )}
+          <Button asChild size="sm">
+            <a href={hrefFor({ page: 'quiz', key: situation.key })}>
+              <ListChecks /> Quiz
+            </a>
+          </Button>
+        </div>
       </div>
 
       <h1 className="text-3xl font-bold tracking-tight">{situation.title}</h1>
@@ -57,6 +67,9 @@ export function SituationPage({ situation }: { situation: Situation }) {
         <TabsList>
           <TabsTrigger value="words">Words</TabsTrigger>
           <TabsTrigger value="phrases">Phrases</TabsTrigger>
+          {situation.dialogue.length > 0 && (
+            <TabsTrigger value="conversation">Conversation</TabsTrigger>
+          )}
         </TabsList>
 
         <TabsContent value="words" className="mt-4 space-y-8">
@@ -106,6 +119,11 @@ export function SituationPage({ situation }: { situation: Situation }) {
               </section>
             ))}
           </div>
+        </TabsContent>
+
+        <TabsContent value="conversation" className="mt-4">
+          <p className="mb-3 text-sm text-muted-foreground">Tap a line to see the English.</p>
+          <Dialogue lines={situation.dialogue} />
         </TabsContent>
       </Tabs>
     </div>

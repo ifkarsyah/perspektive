@@ -26,6 +26,8 @@ APP = Path(__file__).resolve().parent.parent
 CONTENT = APP.parent / "german-by-context"
 OUT = APP / "public" / "audio"
 DEFAULT_MODEL = os.environ.get("THORSTEN_MODEL", str(Path.home() / "Downloads" / "de_DE-thorsten-medium.onnx"))
+# Dialogue lines mark vocab words as "{wohne|wohnen}"; only the text before "|" is spoken.
+MARK = re.compile(r"\{([^}|]+)(?:\|[^}]+)?\}")
 
 
 def texts():
@@ -35,7 +37,7 @@ def texts():
         with open(path, newline="") as f:
             for row in csv.DictReader(f):
                 if row.get("german"):
-                    found.add(row["german"].strip())
+                    found.add(MARK.sub(r"\1", row["german"]).strip())
     return sorted(found)
 
 
