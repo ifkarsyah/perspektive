@@ -1,0 +1,24 @@
+category,german,english,similarity
+person,der Name,name,cognate
+person,der Vorname,first name,different
+person,der Nachname,surname,different
+person,der neue Freund,new friend (male),different
+person,die neue Freundin,new friend (female),different
+person,der Muttersprachler,native speaker,different
+origin,das Land,country,different
+origin,die Heimat,home country,different
+origin,die Stadt,city,different
+origin,die Herkunft,origin,different
+work,der Beruf,job / profession,different
+work,die Firma,company,cognate
+work,das Studium,studies,cognate
+work,der Softwareentwickler,software developer,different
+language,die Sprache,language,different
+language,die Muttersprache,mother tongue,different
+language,der Deutschkurs,German course,different
+meetup,das Namensschild,name tag,different
+meetup,der Kaffee,coffee,cognate
+meetup,das Handy,mobile phone,false-friend
+meetup,das Sprachcafé,language café,cognate
+meetup,die Flagge,flag,cognate
+meetup,die Weltkarte,world map,different

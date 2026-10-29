@@ -1,0 +1,26 @@
+category,who,german,english
+greeting,new friend,"Hi, ich bin Lena. Und du?","Hi, I'm Lena. And you?"
+greeting,new friend,Freut mich auch!,Nice to meet you too!
+greeting,new friend,"Hallo, wir kennen uns noch nicht, oder?","Hi, we haven't met yet, have we?"
+name,new friend,Wie schreibt man das?,How do you spell that?
+name,new friend,Ist das ein indonesischer Name?,Is that an Indonesian name?
+origin,new friend,"Ach, cool! Aus welcher Stadt?","Oh, cool! Which city?"
+origin,new friend,Woher genau?,Where exactly?
+origin,new friend,Ich war noch nie in Indonesien.,I've never been to Indonesia.
+living,new friend,Seit wann wohnst du in Tokio?,Since when have you been living in Tokyo?
+living,new friend,Wie gefällt dir Japan?,How do you like Japan?
+living,new friend,"Und, gefällt es dir da?","So, do you like it there?"
+work,new friend,Und was machst du genau?,And what exactly do you do?
+work,new friend,Arbeitest du oder studierst du?,Do you work or study?
+work,new friend,Ich bin Lehrerin.,I'm a teacher.
+german,new friend,Dein Deutsch ist echt gut!,Your German is really good!
+german,new friend,Warum lernst du Deutsch?,Why are you learning German?
+german,new friend,Sollen wir lieber Englisch reden?,Shall we speak English instead?
+german,new friend,"Kein Problem, ich spreche langsamer.","No problem, I'll speak more slowly."
+languages,new friend,Wie viele Sprachen sprichst du?,How many languages do you speak?
+languages,new friend,Ich spreche nur Deutsch und ein bisschen Englisch.,I only speak German and a bit of English.
+hobbies,new friend,Was machst du so in deiner Freizeit?,What do you do in your free time?
+hobbies,new friend,"Ah, ich auch!","Ah, me too!"
+goodbye,new friend,Hat mich gefreut!,It was a pleasure!
+goodbye,new friend,Bis zum nächsten Mal!,Until next time!
+goodbye,new friend,Mach's gut!,Take care!

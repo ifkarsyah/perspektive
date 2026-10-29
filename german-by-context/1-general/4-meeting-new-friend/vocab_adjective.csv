@@ -1,0 +1,8 @@
+category,german,english,similarity
+me,neu,new,cognate
+me,verheiratet,married,different
+me,ledig,single,different
+me,zweisprachig,bilingual,different
+language,fließend,fluent,different
+language,gut,good,cognate
+language,langsam,slow,different

@@ -1,0 +1,8 @@
+category,german,english,similarity
+time,seit,since / for,different
+time,gerade,right now,different
+time,noch nicht,not yet,different
+detail,ursprünglich,originally,different
+detail,eigentlich,actually,false-friend
+detail,genau,exactly,different
+detail,ein bisschen,a little,different

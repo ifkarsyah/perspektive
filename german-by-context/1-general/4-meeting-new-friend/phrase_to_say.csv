@@ -1,0 +1,30 @@
+category,who,german,english
+greeting,new friend,"Hallo, ich bin Ferdi.","Hi, I'm Ferdi."
+greeting,new friend,Freut mich!,Nice to meet you!
+greeting,new friend,Darf ich mich kurz vorstellen?,May I briefly introduce myself?
+name,new friend,Ich heiße Ferdi.,My name is Ferdi.
+name,new friend,Wie heißt du?,What's your name?
+name,new friend,"Entschuldigung, wie war dein Name nochmal?","Sorry, what was your name again?"
+origin,new friend,Ich komme aus Indonesien.,I'm from Indonesia. (your country)
+origin,new friend,"Ich komme ursprünglich aus Jakarta.","I'm originally from Jakarta. (your city)"
+origin,new friend,Woher kommst du?,Where are you from?
+living,new friend,"Ich wohne in Tokio, in Japan.","I live in Tokyo, Japan. (your city)"
+living,new friend,Ich wohne seit zwei Jahren in Tokio.,I have been living in Tokyo for two years.
+living,new friend,Wo wohnst du?,Where do you live?
+work,new friend,Ich arbeite als Softwareentwickler.,I work as a software developer. (your job)
+work,new friend,Ich arbeite bei einer IT-Firma.,I work at an IT company.
+work,new friend,Was machst du beruflich?,What do you do for a living?
+work,new friend,Ich studiere Informatik.,I study computer science.
+german,new friend,Ich lerne seit einem Jahr Deutsch.,I have been learning German for a year. (your time)
+german,new friend,Mein Deutsch ist noch nicht so gut.,My German isn't that good yet.
+german,new friend,Kannst du bitte langsamer sprechen?,Can you speak more slowly please?
+german,new friend,Kannst du das bitte wiederholen?,Can you repeat that please?
+german,new friend,Ich möchte gern Deutsch üben.,I'd like to practise German.
+languages,new friend,Ich spreche Indonesisch und Englisch.,I speak Indonesian and English. (your languages)
+languages,new friend,Ich spreche ein bisschen Japanisch.,I speak a little Japanese.
+languages,new friend,Welche Sprachen sprichst du?,Which languages do you speak?
+hobbies,new friend,In meiner Freizeit lese ich gern.,In my free time I like to read. (your hobby)
+hobbies,new friend,Was machst du gern?,What do you like doing?
+goodbye,new friend,"Schön, dich kennenzulernen!",Nice to get to know you!
+goodbye,new friend,Bis bald!,See you soon!
+goodbye,new friend,Wir sehen uns!,See you!
