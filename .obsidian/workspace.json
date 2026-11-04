@@ -11,10 +11,14 @@
             "id": "87655748b9a00527",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "adhoc/grammar/a1/15-questions.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "15-questions"
             }
           }
         ]
@@ -186,6 +190,12 @@
   },
   "active": "87655748b9a00527",
   "lastOpenFiles": [
+    "adhoc/grammar/a1/14-verb-second-position.md",
+    "adhoc/grammar/a1/13-personal-pronouns.md",
+    "adhoc/grammar/a1/12-sein-and-haben.md",
+    "adhoc/grammar/a1/11-regular-verbs.md",
+    "adhoc/grammar/a1/10-present-tense-and-sentence-basic.md",
+    "adhoc/grammar/a1/00-overview.md",
     "A2-nicos-weg",
     "A1-deutschtrainer",
     "A1-nicos-weg"
