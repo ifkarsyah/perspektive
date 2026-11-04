@@ -1,0 +1,12 @@
+rank,word,pos,level,freq_per_million,dispersion,has_conjugation,definition,example_de,example_en
+172,"das Prozent, -e",das,A1,509.3949,0.8399,0,percent,Für Studenten kostet das Gericht 20 Prozent weniger.,"For students, the meal costs 20 percent less."
+767,"der Anteil, -e",der,A2,111.7751,0.893,0,"share, portion",Der Chef gibt die Anteile seiner Firma an seinen Sohn.,The boss gives the shares of his company to his son.
+929,"die Hälfte, -n",die,A2,93.8852,0.9472,0,half,Die Hälfte von zehn ist fünf.,Half of ten is five.
+1071,"der Rest, -e",der,A2,81.2193,0.9384,0,"rest, remainder, balance",Du kannst den Rest vom Essen haben.,You can have the rest of the food.
+1797,"das Drittel, -",das,B1,47.2629,0.9018,0,third,Ein Drittel ist einer von drei gleichen Teilen eines Ganzen.,A third is one of three equal parts of a whole.
+2238,"die Häufigkeit, -en",die,B1,36.2727,0.4999,0,frequency,Die Häufigkeit von Wörtern spielt eine wichtige Rolle beim Lernen von Fremdsprachen.,The frequency of words plays an important role in language learning.
+2421,"der Mittelwert, -e",der,B1,32.7243,0.6499,0,"average, mean",Wir müssen den Mittelwert der Messergebnisse berechnen.,We need to calculate the average of the measurement results.
+3145,"der Durchschnitt, -e",der,B1,23.0647,0.8705,0,average,Meine Noten entsprechen dem Durchschnitt.,My grades are average.
+3149,"der Großteil, -e",der,B2+,23.0154,0.9015,0,"large part, majority",Ein Großteil der Menschen isst Fleisch.,The majority of people eat meat.
+3524,"das Maximum, die Maxima",das,B2+,19.7134,0.7367,0,maximum,"Stefanie rennt extrem schnell, aber sie hat ihr Maximum noch nicht erreicht.","Stefanie runs extremely fast, but she hasn’t reached her maximum yet."
+3978,"die Quote, -n",die,B2+,16.7564,0.8531,0,"rate, quota, ratio",Die Quote war ungewöhnlich hoch.,The rate was abnormally high.

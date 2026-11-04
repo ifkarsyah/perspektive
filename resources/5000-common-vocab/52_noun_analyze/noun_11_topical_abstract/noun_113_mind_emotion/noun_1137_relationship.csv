@@ -1,0 +1,4 @@
+rank,word,pos,level,freq_per_million,dispersion,has_conjugation,definition,example_de,example_en
+2451,"das Geheimnis, -se",das,B1,32.1822,0.8975,0,secret,"Erzähle es niemandem, es ist ein Geheimnis!","Don’t tell anyone, it’s a secret!"
+2981,"die Freundschaft, -en",die,B1,24.9868,0.8897,0,friendship,Laura und Lisa verbindet schon seit 20 Jahren eine enge Freundschaft.,Laura and Lisa have shared a close friendship for 20 years.
+4905,"die Affäre, -n",die,B2+,12.2223,0.8343,0,affair,"Monika erfährt, dass Tim eine Affäre mit ihrer besten Freundin hat.",Monika finds out that Tim is having an affair with her best friend.

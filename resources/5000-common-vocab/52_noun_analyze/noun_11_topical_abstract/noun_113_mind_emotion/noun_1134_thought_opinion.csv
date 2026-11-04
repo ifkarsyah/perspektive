@@ -1,0 +1,20 @@
+rank,word,pos,level,freq_per_million,dispersion,has_conjugation,definition,example_de,example_en
+451,"die Idee, -n",die,A2,183.0391,0.9264,0,idea,"Marion hat eine Idee, wie man das Problem lösen kann.",Marion has an idea how to solve the problem.
+585,"der Gedanke, -n",der,B1,147.8507,0.9111,0,thought,Lukas macht sich Gedanken über seine Zukunft.,Lukas has been having thoughts about his future.
+787,"die Meinung, -en",die,A2,109.2124,0.9289,0,opinion,Ich würde gern deine Meinung dazu hören.,I’d like to hear your opinion on this.
+904,"die Vorstellung, -en",die,B1,96.4972,0.9335,0,"idea, introduction, performance",Die Vorstellung dauert zwei Stunden.,The performance lasts two hours.
+992,"der Traum, -̈e",der,A2,87.6262,0.8673,0,dream,Letzte Nacht hatte ich einen komischen Traum.,Last night I had a strange dream.
+1012,"der Eindruck, -̈e",der,B1,85.6548,0.936,0,impression,"Ich habe den Eindruck, dass es ihm nicht gut geht.",I have the impression that he is not well.
+1340,"die Ahnung, -en",die,A2,66.1878,0.8777,0,"suspicion, idea","Er hat die Ahnung, dass der Job anstrengend sein wird.",He has the idea that the job will be exhausting.
+1890,"die Ironie, -n",die,B1,44.2566,0.455,0,irony,"Ironie bedeutet, dass man etwas sagt, aber das Gegenteil meint.","Irony means you say something, but you mean the opposite."
+1891,"die Ansicht, -en",die,B1,44.2074,0.9067,0,"opinion, view","Ich bin der Ansicht, dass Tiere genauso wertvoll sind wie Menschen.",I have the opinion that animals are as valuable as humans.
+2187,"die Überlegung, -en",die,B1,37.3569,0.8646,0,"thought, thinking",Helen schreibt ihre Überlegungen an den Rand des Textes.,Helen writes her thoughts on the margins of the text.
+2396,"die Überzeugung, -en",die,B1,33.1186,0.8772,0,conviction,"John Stuart Mill war der Überzeugung, dass es Gott nicht gibt.",John Stuart Mill was of the conviction that God did not exist.
+2845,"die Einschätzung, -en",die,B2+,26.6624,0.8754,0,"opinion, assessment, evaluation",Seine Einschätzung der politischen Lage ist recht positiv.,His assessment of the political situation is quite positive.
+3032,"die Auffassung, -en",die,B2+,24.4446,0.8564,0,point of view,Ich habe eine andere Auffassung zu dem Thema als du.,I have a different point of view on the subject than you do.
+3134,"die Phantasie, -n",die,B1,23.2126,0.903,0,"imagination, fantasy","Um ein Buch zu schreiben, brauchst du viel Phantasie.","To write a book, you need a lot of imagination."
+3182,"die Vision, -en",die,B2+,22.6704,0.8951,0,vision,Er hat große Visionen für die Zukunft.,He has big visions for the future.
+4092,"die Vermutung, -en",die,B2+,16.165,0.9094,0,"assumption, presumption","Ich bin mir nicht sicher, aber ich habe die Vermutung, dass Karl nicht die Wahrheit sagt.","I’m not sure, but I have an assumption that Karl’s not telling the truth."
+4277,"der Gesichtspunkt, -e",der,B2+,15.0808,0.7984,0,point of view,Unter diesen Gesichtspunkten beurteile ich das Thema noch einmal neu.,"With this in mind, I reassess the subject once again."
+4454,"das Vorurteil, -e",das,B2+,14.2922,0.894,0,prejudice,"Ich versuche, fremden Menschen immer ohne Vorurteile zu begegnen.",I always try to meet strangers without prejudice.
+4633,"die Illusion, -en",die,B2+,13.4051,0.8898,0,illusion,"Er hat die Illusion, dass er nicht arbeiten gehen muss, um Geld zu verdienen.",He has the illusion that he doesn’t have to go to work to make money.

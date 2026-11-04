@@ -1,0 +1,24 @@
+rank,word,pos,level,freq_per_million,dispersion,has_conjugation,definition,example_de,example_en
+392,"die Angst, -Äe",die,A2,213.25,0.919,0,"fear, anxiety","Martin lernt in der Therapie, mit Angst und Stress umzugehen.",Martin learns in therapy how to deal with fear and stress.
+888,"die Sorge, -n",die,B1,98.2221,0.9227,0,worry,Die Familie hat finanzielle Sorgen.,The family has financial worries.
+1300,das Leid,das,B1,68.0113,0.8527,0,"sorrow, grief",Nach dem Tod ihres Mannes hat sie viel Leid erfahren.,She experienced much suffering after her husband’s death.
+1495,"der Zweifel, -",der,B1,58.4503,0.9281,0,doubt,Daran besteht kein Zweifel.,There’s no doubt about it.
+2682,der Ärger,der,B2+,28.8802,0.9113,0,"annoyance, trouble",Er hat viel Ärger mit den deutschen Behörden am Flughafen.,He has a lot of trouble with the German authorities at the airport.
+2706,die Wut,die,B2+,28.5845,0.8816,0,"rage, fury","Wut ist eine Emotion, die extremen Ärger ausdrückt.",Rage is an emotion that expresses extreme anger.
+2745,"der Stress, -e",der,A2,27.9931,0.8441,0,stress,Stress wirkt sich negativ auf die Gesundheit aus.,Stress has a negative impact on health.
+2970,"der Schreck, -e",der,B1,25.1346,0.9008,0,"fright, shock",Wegen des lauten Geräuschs bekommt Marion einen großen Schreck.,Because of the loud noise Marion gets a big shock.
+3052,"die Unsicherheit, -en",die,B2+,24.1489,0.8811,0,uncertainty,Bei der Auswahl der Universität herrscht bei vielen Studenten eine große Unsicherheit.,"When choosing a university, there is a great deal of uncertainty among many students."
+3154,der Hass,der,B2+,22.9661,0.8876,0,hatred,Kriege verursachen Hass und Gewalt.,Wars cause hatred and violence.
+3368,"die Unruhe, -n",die,B2+,20.9455,0.7509,0,"unrest, unease, disquiet, upheaval",Er läuft voller Unruhe auf und ab.,He walks up and down full of unease.
+3478,"das Unglück, -e",das,B1,20.1077,0.873,0,"misfortune, disaster",Der Unfall ist ein großes Unglück für die Familie.,The accident constitutes a great misfortune for the family.
+3500,der Wahnsinn,der,B2+,19.9106,0.8635,0,"madness, insanity, lunacy","Wenn sie die Arbeit allein schaffen will, dann ist das absoluter Wahnsinn.","If she wants to do the job on her own, it would be absolute madness."
+3568,die Trauer,die,B2+,19.3684,0.7688,0,grief,Die Trauer über den Tod meines Großvaters ist sehr groß.,The grief about my grandfather’s death is very great.
+3747,"der Schock, -e",der,B2+,18.1856,0.863,0,shock,Nach dem Unfall steht er unter Schock.,He’s in shock after the accident.
+3925,"das Bedenken, -",das,B2+,16.9535,0.8974,0,"concern, doubt","Ihre Eltern haben Bedenken dabei, ihre Kinder abends allein zu lassen.",The parents have concerns about leaving their children alone in the evening.
+4137,"die Enttäuschung, -en",die,B1,15.82,0.8907,0,disappointment,Die Enttäuschung über das blöde Geschenk ist groß.,The disappointment about the stupid gift is great.
+4209,"die Panik, -en",die,B2+,15.475,0.8985,0,panic,Der Terroranschlag löst eine Panik unter den Menschen aus.,The terrorist attack has caused a panic among the people.
+4251,die Hast,die,B2+,15.2286,0.7752,0,haste,"Wenn du mit so viel Hast isst, schmerzt dein Bauch gleich wieder.","If you eat with so much haste, your stomach will hurt again."
+4269,"die Verzweiflung, -en",die,B2+,15.1301,0.8954,0,desperation,"Menschen machen aus Verzweiflung schlimme Dinge, ohne über die Konsequenzen nachzudenken.",People do bad things out of desperation without thinking about the consequences.
+4339,die Furcht,die,B2+,14.7358,0.8691,0,fear,Ich habe große Furcht vor der kommenden Prüfung.,I have great fear of the coming test.
+4748,das Mitleid,das,B2+,12.9123,0.8764,0,pity,"Ich habe Mitleid mit Tom, weil er heute länger arbeiten muss.",I have pity on Tom because he has to work late today.
+4988,der Zorn,der,B2+,11.9266,0.8485,0,"anger, wrath","Ich empfinde keinen Ärger, sondern Zorn.",What I’m feeling isn’t annoyance but anger.

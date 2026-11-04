@@ -1,0 +1,11 @@
+rank,word,pos,level,freq_per_million,dispersion,has_conjugation,definition,example_de,example_en
+1870,"die Behandlung, -en",die,B1,44.7988,0.8224,0,treatment,Ich muss zur Behandlung meiner Krankheit in eine Klinik.,I need to go to a clinic for the treatment of my illness.
+1960,"die Medizin, -en",die,B1,42.6303,0.7736,0,medicine,Melanie studiert Medizin an der Humboldt- Universität in Berlin.,Melanie is studying medicine at the Humboldt University in Berlin.
+2177,"die Operation, -en",die,B1,37.5048,0.8335,0,"operation, surgery",Nach der Operation am Arm hat Jan keine Schmerzen mehr.,After his arm surgery Jan has not had any more pain.
+2484,"die Therapie, -n",die,B1,31.7879,0.763,0,therapy,Die Therapie hat eine positive Wirkung.,The therapy has a positive effect.
+3260,"der Eingriff, -e",der,B2+,21.7833,0.8553,0,"intervention, interference",Der operative Eingriff war ein Erfolg.,The surgical intervention was a success.
+3752,"die Diagnose, -n",die,B2+,18.0871,0.8032,0,diagnosis,Morgen fährt er ins Krankenhaus und bekommt seine Diagnose.,Tomorrow he goes to the hospital and gets his diagnosis.
+3797,"der Befund, -e",der,B2+,17.8406,0.8304,0,"result, finding(s)","Mein Arzt sagt, dass mein Befund für die Krankheit negativ ist.",My doctor says that my findings are negative for the disease.
+4257,"die Prävention, -en",die,B2+,15.2286,0.4005,0,prevention,Die Prävention von Gewalt ist wichtiger als die Strafe.,The prevention of violence is more important than punishment.
+4379,"die Betreuung, -en",die,B1,14.5879,0.8621,0,care,"Seit gestern übernehme ich die Betreuung meiner Oma, da sie sehr krank ist.","Since yesterday I have been taking care of my grandma, because she is very ill."
+4625,die Pflege,die,B2+,13.4544,0.8583,0,care,Diese Pflanze braucht viel Pflege.,This plant needs a lot of care.

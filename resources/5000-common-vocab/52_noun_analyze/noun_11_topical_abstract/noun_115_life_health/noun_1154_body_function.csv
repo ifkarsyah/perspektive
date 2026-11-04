@@ -1,0 +1,11 @@
+rank,word,pos,level,freq_per_million,dispersion,has_conjugation,definition,example_de,example_en
+1851,die Gesundheit,die,A2,45.2916,0.7838,0,health,Rauchen schadet der Gesundheit.,Smoking is harmful to health.
+2097,der Hunger,der,A1,39.0326,0.8597,0,hunger,"Die Bauern suchen nach Wegen, um den Hunger zu bekämpfen.",The farmers are looking for ways to fight hunger.
+2344,der Schlaf,der,B1,34.0549,0.8639,0,sleep,Erwachsene brauchen ca. acht Stunden Schlaf pro Tag.,Adults need about eight hours of sleep per day.
+2627,"die Ernährung, -en",die,B1,29.6687,0.7975,0,"food, diet",Viele Menschen bevorzugen eine Ernährung ohne Fleisch.,Many people prefer a meatless diet.
+3387,"der Blutdruck, -̈e",der,B2+,20.7977,0.4306,0,blood pressure,Regelmäßige Bewegung senkt den Blutdruck.,Regular exercise lowers blood pressure.
+3620,"der Kreislauf, -̈e",der,B2+,19.0235,0.6911,0,circulation,Sport am Morgen ist gut für den Kreislauf.,Morning exercise is good for your circulation.
+3995,"das Immunsystem, -e",das,B2+,16.6578,0.6923,0,immune system,Das Immunsystem ist für die Abwehr von Krankheiten zuständig.,The immune system is responsible for the defense against diseases.
+4579,"der Stoffwechsel, -",der,B2+,13.7008,0.6763,0,metabolism,"Ich habe einen guten Stoffwechsel, deswegen kann ich mehr essen als du.","I have a good metabolism, so I can eat more than you can."
+4689,"der Zyklus, -en",der,B2+,13.1587,0.6799,0,cycle,Der weibliche Zyklus wird durch Hormone gesteuert.,The female cycle is controlled by hormones.
+4886,das Trinken,das,A1,12.3209,0.6956,0,"drink, drinking","Ich möchte Wasser, aber das Trinken ist alle.","I want water, but I’m out of drink."
