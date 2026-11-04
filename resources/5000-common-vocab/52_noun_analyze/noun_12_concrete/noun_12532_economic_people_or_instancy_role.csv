@@ -1,0 +1,13 @@
+rank,word,pos,level,freq_per_million,dispersion,has_conjugation,definition,example_de,example_en
+2051,"der Käufer, -",der,B1,40.2154,0.7437,0,buyer,Der Käufer dieses Hauses bezahlt viel Geld.,The buyer of this house pays a lot of money.
+2284,"der Konsument, -en",der,B1,35.3363,0.6967,0,consumer,Viele Konsumenten kaufen lieber regionale Produkte.,Many consumers prefer to buy regional products.
+2307,"der Investor, -en",der,B1,34.7942,0.799,0,investor,Der Investor bringt neues Kapital in das Unternehmen.,The investor brings new capital into the company.
+2325,"der Verbraucher, -",der,B1,34.3014,0.8192,0,consumer,Die Verbraucher entscheiden durch ihren Kauf über den Erfolg des Produkts.,Consumers determine the success of the product through their purchase.
+2672,"der Händler, -",der,B1,29.028,0.853,0,"trader, dealer, retailer",Der Händler verkauft frische und regionale Produkte auf dem Markt.,The trader sells fresh and regional products on the market.
+2808,"der Konkurrent, -en",der,B2+,27.106,0.8594,0,competitor,Karla ist meine größte Konkurrentin in dem Wettbewerb.,Karla is my biggest competitor in the competition.
+3065,"der Gläubiger, -",der,B2+,23.9518,0.6764,0,"creditor, believer","Sein Gehalt reicht gerade einmal aus, um die Gläubiger zu bezahlen.",His income is just enough to pay the creditors.
+3679,"der Ökonom, -en",der,B2+,18.5799,0.7637,0,economist,Der Wirtschaftsminister lässt sich von verschiedenen Ökonomen beraten.,The Minister of Economic Affairs is consulted by various economists.
+3840,"der Aktionär, -e",der,B2+,17.5449,0.6705,0,shareholder,Die Entwicklung der Börse bereitet den Aktionären Sorge.,Shareholders are concerned about the development of the stock market.
+4214,"der Anleger, -",der,B2+,15.4258,0.733,0,investor,Als Anleger nehme ich finanzielle Investitionen vor.,"As an investor, I make financial investments."
+4267,"der Schuldner, -",der,B2+,15.1301,0.5065,0,debtor,"Wenn ich als Schuldner nicht bezahle, kann ich vor Gericht kommen.","If I don’t pay as a debtor, I may be taken to court."
+4739,"der Sponsor, -en",der,B2+,12.9616,0.8084,0,sponsor,"Da wir jetzt einen Sponsoren haben, können wir neue Kleidung für das Team kaufen.","Now that we have a sponsor, we can buy new clothes for the team."

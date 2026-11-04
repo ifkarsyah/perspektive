@@ -1,0 +1,6 @@
+rank,word,pos,level,freq_per_million,dispersion,has_conjugation,definition,example_de,example_en
+207,"der Euro, -s",der,A1,411.567,0.8466,0,euro (unit of currency),In fast allen Ländern der EU kann man mit Euro bezahlen.,In almost all EU countries you can pay in euros.
+941,"der Dollar, -",der,A2,92.6038,0.8251,0,dollar,In Amerika bezahlt man mit Dollar und nicht mit Euro.,"In America, you pay in dollars, not euros."
+1539,"die Mark, -",die,B1,56.9225,0.7112,0,Deutschmark,"Früher haben die Deutschen mit Mark bezahlt, jetzt bezahlen sie mit Euro.","In the past, Germans used to pay in Deutschmarks, but now they pay in euros."
+1563,"Franken, Fr.",der,B1,55.8876,0.6287,0,(Swiss) franc,In der Schweiz zahlt man mit Schweizer Franken.,In Switzerland you pay in Swiss francs.
+3926,"der Cent, -",der,B2+,16.9535,0.8326,0,cent,Ein Euro sind hundert Cent.,One euro is 100 cents.

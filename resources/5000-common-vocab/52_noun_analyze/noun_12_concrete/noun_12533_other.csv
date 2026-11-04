@@ -1,0 +1,5 @@
+rank,word,pos,level,freq_per_million,dispersion,has_conjugation,definition,example_de,example_en
+235,"das Geld, -er",das,A1,366.0783,0.9209,0,money,Du gibst viel Geld aus.,You spend a lot of money.
+3904,"die Münze, -n",die,B1,17.1014,0.8904,0,coin,Die Münze hat einen Wert von zwei Euro.,The coin has a value of two euros.
+4163,"das Pfund, -e",das,B2+,15.6722,0.8444,0,pound,Ein Pfund ist etwas weniger als ein halbes Kilo.,A pound is a little less than half a kilo.
+4272,das Bargeld,das,B2+,15.0808,0.7758,0,cash,Beim Einkaufen zahle ich kaum noch mit Bargeld.,When shopping I don’t pay with cash much anymore.

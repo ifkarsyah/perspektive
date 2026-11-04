@@ -1,0 +1,26 @@
+rank,word,pos,level,freq_per_million,dispersion,has_conjugation,definition,example_de,example_en
+651,"das Molekül, -e",das,A2,134.002,0.6764,0,molecule,Ein Molekül besteht aus Atomen.,A molecule consists of atoms.
+699,"das Element, -e",das,A2,126.8066,0.7475,0,element,Kohlenstoffdioxid ist ein chemisches Element.,Carbon dioxide is a chemical element.
+812,"das Elektron, -en",das,A2,106.3539,0.6544,0,electron,In Chemie sprechen wir viel über Elektronen.,In chemistry we talk a lot about electrons.
+900,"das Atom, -e",das,A2,96.6943,0.6408,0,atom,Atome bestehen aus kleinen Teilchen.,Atoms consist of small particles.
+1136,"die Substanz, -en",die,B1,76.1924,0.7993,0,substance,Die Polizei findet illegale Substanzen in seinem Auto.,The police find illegal substances in his car.
+1249,"das Teilchen, -",das,B1,70.6233,0.5984,0,particle,Die kleinen Teilchen kann man nicht mit den Augen erkennen.,The small particles cannot be seen with the naked eye.
+1674,"das Ion, -en",das,B1,51.2056,0.6259,0,ion,Das Ion ist ein elektrisch geladenes Molekül.,The ion is an electrically charged molecule.
+1778,"die Flüssigkeit, -en",die,B1,47.7065,0.7548,0,liquid,Die Flasche enthält eine klare Flüssigkeit.,The bottle contains a clear liquid.
+2247,das Kohlenstoffdioxid,das,B1,36.0756,0.5491,0,carbon dioxide,Wir atmen Sauerstoff ein und Kohlenstoffdioxid aus.,We inhale oxygen and emit carbon dioxide.
+2347,"die Säure, -n",die,B1,34.0057,0.6095,0,acid,"Bei dem Experiment musst du aufpassen, dass keine Säure ins Auge kommt.","In the experiment, you have to be careful not to get acid in your eye."
+2432,der Sauerstoff,der,B1,32.5271,0.7646,0,oxygen,"Das Gehirn benötigt Sauerstoff, um zu funktionieren.",The brain needs oxygen to function.
+2449,"die Base, -n",die,B1,32.1822,0.6688,0,"base, alkali",Basen haben einen pH-Wert von mehr als 7.,Alkalis have a pH value of more than 7.
+2536,"die Materie, -n",die,B2+,30.9501,0.5926,0,matter,"Materie ist eine Substanz, die flüssig oder aus Gas sein kann.",Matter is a substance that can be liquid or gas.
+2756,"das Proton, -en",das,B2+,27.7959,0.683,0,proton,Ein Proton ist ein Teilchen mit einer positiven elektrischen Ladung.,A proton is a particle with a positive electrical charge.
+3142,der Wasserstoff,der,B2+,23.114,0.6451,0,hydrogen,"Wasserstoff ist ein chemisches Element, das mit Sauerstoff zusammen Wasser ergibt.","Hydrogen is a chemical element which, together with oxygen, produces water."
+3621,"das Lösungsmittel, -",das,B2+,19.0235,0.6241,0,solvent,Die Farben sind frei von Lösungsmitteln.,These paints are free of solvents.
+3895,"das Substrat, -e",das,B2+,17.2492,0.416,0,substrate,"Pflanzen brauchen ein passendes Substrat, um zu wachsen.",Plants need a suitable substrate to grow.
+3977,der Kohlenstoff,das,B2+,16.7564,0.6935,0,carbon,Kohlenstoff ist ein natürliches Element.,Carbon is a natural element.
+4066,"der Siedepunkt, -e",der,B2+,16.3129,0.4648,0,boiling point,Der Siedepunkt von Wasser liegt bei einer Temperatur von 100°C.,The boiling point of water is at 100°C.
+4307,"das Gemisch, -e",das,B2+,14.9329,0.7234,0,mixture,Ein Gemisch besteht aus mehreren Stoffen.,A mixture consists of various substances.
+4372,"der Katalysator, -en",der,B2+,14.6372,0.6774,0,catalyst,Durch einen Katalysator wird eine chemische Reaktion beschleunigt.,A chemical reaction is accelerated by a catalyst.
+4478,"das Neutron, -en",das,B2+,14.1444,0.5617,0,neutron,Neutronen haben keine elektrische Ladung.,Neutrons have no electric charge.
+4619,"der Atomkern, -e",der,B2+,13.4544,0.5352,0,(atomic) nucleus,Der Atomkern ist der positiv geladene Teil eines Atoms.,The atomic nucleus is the positively charged part of an atom.
+4874,der Stickstoff,der,B2+,12.3702,0.6838,0,nitrogen,Stickstoff ist ein Bestandteil der Luft.,Nitrogen is a component of the air.
+4897,"das Isotop, -e",das,B2+,12.2716,0.6223,0,isotope,Als Isotope werden verschiedene Arten von Atomen bezeichnet.,Isotopes are defined as different types of atoms.

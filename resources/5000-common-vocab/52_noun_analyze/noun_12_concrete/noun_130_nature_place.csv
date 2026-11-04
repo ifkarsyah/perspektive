@@ -1,0 +1,22 @@
+rank,word,pos,level,freq_per_million,dispersion,has_conjugation,definition,example_de,example_en
+834,"das Feld, -er",das,B1,102.8548,0.8537,0,field,Das Pferd steht auf dem Feld.,The horse is standing in the field.
+852,"das Meer, -e",das,A1,101.672,0.8709,0,"sea, ocean",Der Ort liegt direkt am Meer und viele der Menschen verdienen sich ihr Geld mit Fisch.,The town is located directly on the sea and many of the people make their living from fish.
+934,"der Berg, -e",der,A2,93.3923,0.8635,0,"hill, mountain",Die Zugspitze ist der höchste Berg Deutschlands.,The Zugspitze is the highest mountain in Germany.
+1028,"der Wald, -̈er",der,A2,84.5706,0.8856,0,"forest, woods",In diesem Wald gibt es viele verschiedene Bäume.,There are many different trees in this forest.
+1029,"die Insel, -n",die,A2,84.472,0.8012,0,island,Rügen ist die größte deutsche Insel.,Rügen is the largest German island.
+1317,"der See, -n",der,A1,67.1242,0.8844,0,lake,Sie füttert die Fische im See.,She is feeding the fishes in the lake.
+1669,"die Landschaft, -en",die,A2,51.3535,0.8657,0,"landscape, countryside",Die Landschaft außerhalb von Leipzig ist sehr grün und schön.,The landscape outside Leipzig is very green and beautiful.
+1687,"der Fluss, -̈e",der,A2,50.7621,0.8875,0,river,"Die Pleiße ist ein Fluss, der durch Leipzig fließt.",The Pleiße is a river that flows through Leipzig.
+1966,"der Strand, -̈e",der,A2,42.4824,0.809,0,beach,Sabines Familie macht in diesem Jahr Urlaub in Italien am Strand.,Sabine’s family is on vacation in Italy this year at the beach.
+2293,"der Gipfel, -",der,B1,35.1392,0.7731,0,"peak, summit",Die Gipfel der Berge sind mit Schnee bedeckt.,The peaks of the mountains are covered with snow.
+2622,"das Tal, -̈er",das,B1,29.7673,0.8424,0,valley,Der Schnee liegt nur auf den Bergen und nicht im Tal.,The snow is only on the mountains and not in the valley.
+2628,"die Küste, -n",die,B1,29.6687,0.851,0,coast,New York liegt an der Ostküste der USA.,New York is located on the east coast of the USA.
+2716,"das Ufer, -",das,B1,28.3873,0.8434,0,"shore, bank",Wir laufen am Ufer des Flusses entlang.,We walk along the riverbank.
+2866,"die Höhle, -n",die,B2+,26.416,0.7867,0,cave,Im Berg gibt es mehrere Höhlen.,There are several caves in the mountain.
+2963,"die Wiese, -n",die,B1,25.2332,0.8755,0,meadow,Die Kühe stehen friedlich auf der Wiese.,The cows stand peacefully in the meadow.
+3090,"der Hügel, -",der,B1,23.7547,0.8329,0,hill,Unser Haus steht auf einem Hügel.,Our house is on a hill.
+3515,"die Wüste, -n",die,B2+,19.812,0.8447,0,desert,In der Wüste ist es sehr heiß und das Wasser ist knapp.,In the desert it is very hot and water is scarce.
+3641,"der Hang, -̈e",der,B2+,18.8756,0.8431,0,"slope, inclination","Der Wein wächst am Hang, damit er viel Sonne bekommt.","The wine grows on a slope, so that it gets a lot of sun."
+4042,"der Ozean, -e",der,B1,16.4114,0.839,0,ocean,Ein riesiger Ozean trennt Europa von Amerika.,A giant ocean separates Europe from America.
+4852,"der Abgrund, -̈e",der,B2+,12.4195,0.8468,0,abyss,Hinter dem Berg ist ein tiefer Abgrund.,Behind the mountain is a deep abyss.
+4994,"der Nationalpark, -s",der,B2+,11.8773,0.7465,0,national park,Ich wandere durch den Nationalpark Yosemite.,I hike through Yosemite National Park.
