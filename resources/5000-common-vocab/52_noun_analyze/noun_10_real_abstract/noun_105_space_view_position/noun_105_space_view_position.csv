@@ -1,0 +1,44 @@
+rank,word,pos,level,freq_per_million,dispersion,has_conjugation,definition,example_de,example_en
+306,"der Blick, -e",der,A1,276.6286,0.9162,0,"look, view, glance",Aus deinem Fenster hat man einen schönen Blick über die Stadt.,Your window has a nice view over the city.
+711,"die Mitte, -n",die,A1,124.6874,0.9499,0,middle,"Anita steht zwischen Sven und Torben, genau in der Mitte.","Anita stands between Sven and Torben, right in the middle."
+197,"die Seite, -n",die,A2,431.2804,0.9579,0,"side, page",Das Buch hat 300 Seiten.,The book has 300 pages.
+819,"die Ebene, -n",die,A2,105.0725,0.8927,0,"plane, level",Auf politischer Ebene haben wir unterschiedliche Meinungen.,We have different opinions at the political level.
+918,die Nähe,die,A2,95.1173,0.9446,0,"vicinity, proximity",Aufgrund ihrer Nähe zum Bahnhof ist die Wohnung teuer.,"Due to its proximity to the railway station, the apartment is expensive."
+940,"die Sicht, -en",die,A2,92.7024,0.9251,0,"view, visibility","Bei Regen ist die Sicht schlecht, deswegen fahren viele Menschen dann nicht mit dem Auto.","When it rains, the visibility is bad, which is why many people do not drive their cars then."
+248,"der Punkt, -e",der,B1,354.4474,0.8867,0,"dot, point, period",Am Ende eines Satzes ist ein Punkt.,At the end of a sentence is a period.
+339,"der Bereich, -e",der,B1,245.7278,0.91,0,"area, region",Diesen Bereich darf niemand betreten.,Nobody is allowed to enter this area.
+418,"die Richtung, -en",die,B1,198.7606,0.9417,0,direction,In welche Richtung müssen wir fahren?,In which direction do we have to drive?
+926,"die Linie, -n",die,B1,94.3287,0.9442,0,line,Ich zeichne eine sehr gerade Linie auf das Blatt.,I draw a very straight line on the sheet.
+1203,"der Rand, -̈er",der,B1,72.5947,0.9262,0,edge,Sie sitzt auf dem Rand ihres Stuhles.,She’s sitting on the edge of her chair.
+1205,"der Kern, -e",der,B1,72.3975,0.8379,0,"seed, core, nucleus",Wir sollten den Kern des Problems analysieren.,We should analyze the core of the problem.
+1207,"der Hintergrund, -̈e",der,B1,72.3483,0.9282,0,background,Theresa wird vor einem schwarzen Hintergrund fotografiert.,Theresa is photographed against a black background.
+1289,"der Kreis, -e",der,B1,68.6027,0.9359,0,"circle, district",Jeden Morgen sitzen die Schüler im Kreis.,Every morning the students sit in a circle.
+1506,"der Zugang, -̈e",der,B1,58.1053,0.8473,0,access,Hast du in diesem Raum Zugang zum Internet?,Do you have access to the internet in this room?
+1645,"die Spitze, -n",die,B1,52.2899,0.9231,0,"point, top, peak",Die Spitze des Messers ist sehr scharf.,The point of the knife is very sharp.
+1681,"die Schicht, -en",die,B1,50.9099,0.8313,0,"layer, class",Auf dem Berg liegt manchmal auch im Sommer eine Schicht Schnee.,Sometimes there is a layer of snow on the mountain even in summer.
+1801,"die Perspektive, -n",die,B1,47.1644,0.8684,0,"perspective, prospects","Das Projekt hat keine Perspektive mehr, da es nicht mehr finanziell unterstützt wird.","The project has no prospects anymore, as it is no longer financially supported."
+2196,"die Hinsicht, -en",die,B1,37.0612,0.8895,0,respect,Er ist in dieser Hinsicht kein guter Kandidat für das Amt.,"In this respect, he is not a good candidate for the office."
+2445,"die Aussicht, -en",die,B1,32.2314,0.8987,0,"prospect, view",Oben vom Berg hat man eine wunderschöne Aussicht.,At the top of the mountain you have a wonderful view.
+2602,"der Mittelpunkt, -e",der,B2+,29.9644,0.9263,0,"midpoint, center of attention",Heute ist sein Geburtstag und nur er steht im Mittelpunkt.,Today is his birthday and only he is the center of attention.
+2641,"der Überblick, -e",der,B2+,29.4716,0.8834,0,"view, overview",Ich gebe Ihnen einen kurzen Überblick über meinen Vortrag.,I am giving you a short overview of my presentation.
+2854,der Hinblick,der,B2+,26.5638,0.8734,0,view,Im Hinblick auf die jüngsten Ereignisse müssen wir unser Vorgehen ändern.,"In view of the recent events, we need to change our approach."
+2867,"die Lücke, -n",die,B2+,26.416,0.8624,0,gap,Füllen Sie die Lücken im Text mit den folgenden Wörtern.,Fill the gaps in the text with the following words.
+2908,"der Vordergrund, -̈e",der,B2+,25.9724,0.8867,0,foreground,Im Vordergrund sieht man eine dreiköpfige Familie.,In the foreground you see a family of three.
+2962,"der Höhepunkt, -e",der,B2+,25.2332,0.9012,0,"highlight, peak",Den Höhepunkt der Party bildet der Auftritt der Band.,The highlight of the party is the performance of the band.
+3143,"der Anblick, -e",der,B2+,23.0647,0.8563,0,sight,Die kranken Kinder bieten einen traurigen Anblick.,Sick children present a sad sight.
+3185,"die Orientierung, -en",die,B2+,22.6212,0.9074,0,orientation,Die Schilder erleichtern die Orientierung in der Stadt.,The signs facilitate orientation in the city.
+3326,"die Übersicht, -en",die,B2+,21.2412,0.8254,0,overview,Der Verlag erstellt eine Übersicht über die neuesten Publikationen.,The publisher provides an overview of the latest publications.
+3539,"der Rückstand, -̈e",der,B2+,19.6149,0.7541,0,"backlog, deficit",Die Mannschaft verliert das Spiel mit einem Rückstand von zwei Punkten.,The team loses the game with a deficit of two points.
+3581,"das Vorfeld, -er",das,B2+,19.2699,0.8221,0,advance,Wir sehen uns das im Vorfeld sehr genau an.,We have a very close look at this in advance.
+3590,"der Ausgangspunkt, -e",der,B2+,19.1713,0.8641,0,starting point,Ausgangspunkt für die Stadtführung ist der Marktplatz.,The starting point for the city tour is in the marketplace.
+3717,"der Vorsprung, -̈e",der,B2+,18.3828,0.7733,0,"lead, advance",Mark ist sehr schnell und hat bei dem Rennen einen großen Vorsprung.,Mark is very fast and has a big lead in the race.
+3981,"der Zugriff, -e",der,B2+,16.7564,0.8675,0,access,Bei jedem Zugriff auf die Daten muss ein Passwort eingegeben werden.,A password must be entered each time the data is accessed.
+3983,"der Grenzwert, -e",der,B2+,16.7071,0.7866,0,"threshold, limit","Der Arzt sagt, erst wenn der Grenzwert in meinem Blut überschritten ist, bin ich krank.",The doctor says I’m not sick unless my blood level is over the limit.
+4001,die Anwesenheit,die,B2+,16.6086,0.8963,0,presence,Die Wahl erfordert die Anwesenheit aller Mitglieder.,The election requires the presence of all members.
+4321,"die Ausrichtung, -en",die,B2+,14.8344,0.8537,0,"orientation, alignment",Der Architekt achtet vor allem auf die Ausrichtung der Fenster zur Sonne.,The architect pays particular attention to the orientation of the windows to the sun.
+4460,"der Einblick, -e",der,B2+,14.2429,0.8956,0,insight,Das Praktikum verschafft mir einen Einblick in den Job.,The internship gives me an insight into the job.
+4584,"die Reichweite, -n",die,B2+,13.6515,0.8283,0,"reach, range","Ich lege mein Handy in Reichweite, damit ich schnell abnehmen kann, wenn es klingelt.",I put my phone within reach so I can pick it up quickly when it rings.
+4842,"die Abwesenheit, -en",die,B2+,12.4687,0.9059,0,absence,Während meiner Abwesenheit passen meine Eltern auf meinen Hund auf.,During my absence my parents look after my dog.
+4850,die Leere,die,B2+,12.4687,0.8597,0,emptiness,Die Leere des verlassenen Hauses macht mich traurig.,The emptiness of the abandoned house makes me sad.
+4873,"der Spielraum, -̈e",der,B2+,12.3702,0.8791,0,"leeway, scope, wiggle room",Ich habe keinen Spielraum bei der Festlegung des Preises.,I have no wiggle room in setting the price.
+4959,"der Ausblick, -e",der,B2+,11.9759,0.8116,0,"outlook, forecast, view",Der Ausblick aus meinem Fenster ist sehr schön.,The view from my window is very nice.

@@ -1,0 +1,55 @@
+rank,word,pos,level,freq_per_million,dispersion,has_conjugation,definition,example_de,example_en
+256,"die Aufgabe, -n",die,A1,339.4652,0.8733,0,"task, assignment, job",Ich löse eine mathematische Aufgabe.,I’m solving a mathematical problem.
+954,"der Plan, -̈e",der,A1,91.2239,0.9216,0,plan,Ich habe einen Plan für mein Leben in den nächsten fünf Jahren.,I have a plan for my life for the next five years.
+320,"das Ziel, -e",das,A2,261.1536,0.925,0,"destination, goal",Berlin ist das Ziel unserer Reise.,Berlin is the destination of our journey.
+691,"das Mittel, -",das,A2,128.7287,0.9024,0,means,"Sie versuchen mit allen Mitteln, ihn zu finden.",They’re trying by any means necessary to find him.
+780,"der Einsatz, -̈e",der,A2,110.0009,0.9152,0,"insert, use, application, assignment",Die Polizei ist seit drei Stunden im Einsatz.,The police have been on assignment for three hours.
+870,"das Programm, -e",das,A2,99.7499,0.9149,0,program,Der Leiter stellt den Teilnehmern das Programm vor.,The instructor introduces the program to the participants.
+449,"die Entscheidung, -en",die,B1,183.532,0.8921,0,decision,Manchmal muss man schwierige Entscheidungen treffen.,Sometimes you have to make difficult decisions.
+646,"die Leistung, -en",die,B1,134.347,0.8626,0,performance,Die Lehrer sind mit seiner Leistung zufrieden.,The teachers are satisfied with his performance.
+791,"der Versuch, -e",der,B1,108.621,0.8802,0,"attempt, experiment",Louis besteht die Prüfung im letzten Versuch.,Louis passes the exam on his last attempt.
+1037,"der Ansatz, -̈e",der,B1,83.8313,0.8618,0,"approach, attempt",Dieser Ansatz ist in der Wissenschaft umstritten.,This approach is disputed in science.
+1092,"der Beitrag, -̈e",der,B1,79.6422,0.8904,0,contribution,Das Team bedankt sich bei den Teilnehmern für ihren Beitrag.,The team thanks the participants for their contribution.
+1097,"die Kontrolle, -n",die,B1,79.1494,0.9215,0,"inspection, control","Sie führen Kontrollen durch, um die Sicherheit zu verbessern.",They carry out inspections to improve safety.
+1186,"das Konzept, -e",das,B1,73.2847,0.9028,0,"concept, idea, plan",Die Schule arbeitet nach einem demokratischen Konzept.,The school works according to a democratic idea.
+1258,"die Anwendung, -en",die,B1,70.0812,0.8175,0,"application, use",Die Anwendung des Produkts ist sehr einfach.,The application of the product is very simple.
+1422,"die Aktivität, -en",die,B1,62.4916,0.8638,0,activity,Heute suche ich mir eine sportliche Aktivität für meinen Urlaub aus.,Today I’m looking for an athletic activity for my vacation.
+1477,"die Strategie, -n",die,B1,59.5838,0.847,0,strategy,Wir müssen eine neue Strategie für das Problem entwickeln.,We have to develop a new strategy for the problem.
+1508,"die Suche, -n",die,B1,58.0068,0.9293,0,search,Wir machen uns auf die Suche nach einem Schatz.,We are going in search of a treasure.
+1606,"die Verwendung, -en",die,B1,53.9162,0.8453,0,use,"Wirf das nicht weg, denn vielleicht hat jemand anderes Verwendung dafür.","Don’t throw that away, because maybe someone else has a use for it."
+1615,"der Umgang, -̈e",der,B1,53.5712,0.9159,0,"dealings, contact",Ludwig ist sehr freundlich im Umgang mit Kunden.,Ludwig is very pleasant while dealing with customers.
+1688,"die Alternative, -n",die,B1,50.6635,0.8522,0,alternative,Mittlerweile gibt es viele gute Alternativen zu Fleisch.,Meanwhile there are many good alternatives to meat.
+1775,"die Initiative, -n",die,B1,47.8051,0.8501,0,initiative,Die Initiative kämpft für soziale Gerechtigkeit.,The initiative fights for social justice.
+1838,"die Aktion, -en",die,B1,45.8337,0.9019,0,"action, campaign",Die Teams planen eine gemeinsame Aktion für Kinder.,The teams are planning a joint action for children.
+1900,"die Umsetzung, -en",die,B1,43.9609,0.8831,0,"transfer, implementation",Die Umsetzung einer Idee ist in der Theorie meist einfacher als in der Praxis.,The implementation of an idea is usually easier in theory than in practice.
+1901,"das Engagement, -s",das,B1,43.9117,0.8101,0,commitment,In seinem neuen Job zeigt Niko viel Engagement.,In his new job Niko shows a lot of commitment.
+2064,"die Auswahl, -en",die,B1,39.8211,0.8967,0,"choice, selection",Ich habe eine große Auswahl an Kleidern für die Party und muss mich für eins davon entscheiden.,I have a large choice of dresses for the party and I have to choose one of them.
+2106,"die Mühe, -n",die,B1,38.934,0.9077,0,"effort, trouble",Herr Schmidt gibt sich immer große Mühe.,Mr. Schmidt always makes great efforts.
+2129,"der Gebrauch, -̈e",der,B1,38.4412,0.7656,0,use,Der Gebrauch von Waffen ist in Deutschland nur unter bestimmten Bedingungen erlaubt.,The use of weapons is only permitted in Germany under certain conditions.
+2139,"die Koordination, -en",die,B1,38.244,0.4004,0,coordination,"Anna macht Sport, um die Koordination ihrer Bewegungen zu verbessern.",Anna does sport to improve the coordination of her movements.
+2140,"die Nutzung, -en",die,B1,38.244,0.8329,0,use,Früher war die Nutzung von Handys in Krankenhäusern verboten.,"In the past, the use of mobile phones in hospitals was prohibited."
+2149,"die Vorbereitung, -en",die,B1,38.1455,0.908,0,preparation,Die Lehrerin wird auch für die Vorbereitung des Unterrichts bezahlt.,The teacher is also paid for the preparation of the lessons.
+2225,"die Planung, -en",die,B1,36.5191,0.8451,0,"planning, plan","Es braucht Monate der Planung, um solche großen Projekte vorzubereiten.",It takes months of planning to prepare such large projects.
+2395,"der Schwerpunkt, -e",der,B1,33.1678,0.8955,0,"focus, main emphasis, center of gravity",Der Schwerpunkt meiner Arbeit liegt auf der Analyse der Personen in Goethes Gedichten.,The focus of my work is on the analysis of the characters in Goethe’s poems.
+3213,"das Vorhaben, -",das,B1,22.3747,0.894,0,"plan, project",Wir benötigen jede Hilfe bei der Umsetzung des Vorhabens.,We need all the help we can get in implementing the project.
+2886,"der Entwurf, -̈e",der,B2+,26.1696,0.88,0,"sketch, design, draft","Johannes arbeitet an einem Entwurf für das neue Theater, das bald gebaut werden soll.","Johannes is working on a design for the new theater, which is to be built soon."
+2931,"die Gestaltung, -en",die,B2+,25.6275,0.8166,0,"design, organization",Ich verdiene viel Geld mit der Gestaltung von Häusern.,I make a lot of money by designing houses.
+2937,das Vorgehen,das,B2+,25.5782,0.8883,0,"action, approach",Die Polizei ändert ihr Vorgehen in diesem Fall.,The police are changing their approach in this case.
+2945,"die Anstrengung, -en",die,B2+,25.4303,0.9006,0,effort,Nur mit enormen Anstrengungen konnten die Städte nach dem Krieg wieder aufgebaut werden.,Only with enormous effort could the cities be rebuilt after the war.
+3111,"die Ausführung, -en",die,B2+,23.5083,0.8587,0,"implementation, type",Die Ausführung des Projekts wird mehrere Jahre dauern.,The implementation of the project will take several years.
+3364,"die Option, -en",die,B2+,20.9455,0.8846,0,option,Bitte wählen Sie unten die entsprechende Option aus.,Please select the appropriate option below.
+3409,"die Durchführung, -en",die,B2+,20.6498,0.8415,0,carrying out,Die Durchführung der Wahlen verläuft problemlos.,The carrying out of the elections is going smoothly.
+3561,"der Fokus, -se",der,B2+,19.3684,0.8707,0,focus,Das Thema Bildung steht im Fokus der öffentlichen Debatte.,The topic of education is the focus of public debate.
+3660,"die Steuerung, -en",die,B2+,18.7278,0.8255,0,"control, steering",Die Steuerung der Maschine erfordert viel Übung.,The control of the machine requires a lot of practice.
+3879,"die Mission, -en",die,B2+,17.3478,0.8676,0,mission,Die Soldaten begeben sich auf eine gefährliche Mission.,The soldiers embark on a dangerous mission.
+3882,"die Regulation, -en",die,B2+,17.3478,0.4833,0,regulation,Der Ökonom kritisiert die Regulation der Wirtschaft.,The economist criticizes the regulation of the economy.
+4022,"die Sicherung, -en",die,B2+,16.51,0.8599,0,"protection, fuse",Zur Sicherung des Verkehrs stellt die Polizei Schilder auf.,For the protection of traffic the police put up signs.
+4268,"die Überprüfung, -en",die,B2+,15.1301,0.8586,0,"review, screening, check, inspection","Bevor wir sie vorstellen, ist eine Überprüfung unserer Ergebnisse notwendig.","Before we present them, a review of our results is necessary."
+4281,"die Priorität, -en",die,B2+,15.0808,0.8394,0,priority,"Wenn du zu viele Aufgaben hast, musst du Prioritäten setzen.","If you have too many tasks, you have to set priorities."
+4351,"die Bemühung, -en",die,B2+,14.6865,0.8816,0,effort,"Danke für deine Bemühungen, mich zu beruhigen, aber ich habe immer noch Angst.","Thank you for your efforts to reassure me, but I’m still scared."
+4699,"die Realisierung, -en",die,B2+,13.1094,0.8043,0,"implementation, realization",Zur Realisierung des Projekts fehlen noch 200 Euro.,Two hundred euros are still needed for the implementation of the project.
+4745,"die Festlegung, -en",die,B2+,12.9123,0.7572,0,"determination, specification, fixing",Sie fordern die Festlegung neuer Gehälter.,They demand the fixing of new salaries.
+4779,"die Korrektur, -en",die,B2+,12.8137,0.8637,0,"correction, adjustment",Der Professor nimmt die Korrektur der Arbeiten seiner Studenten vor.,The professor undertakes the correction of the work of his students.
+4865,"die Erstellung, -en",die,B2+,12.3702,0.7449,0,"preparation, creation",Mario hilft mir bei der Erstellung der Berechnungen.,Mario helps me with the preparation of the calculations.
+4904,"die Vorgehensweise, -n",die,B2+,12.2716,0.8319,0,"approach, procedure","Sie überlegen, welche Vorgehensweise beim Lernen besser ist.",They consider which approach to learning is better.
+5003,"die Rettung, -en",die,B2+,11.8281,0.8954,0,"rescue, salvation","Weil es einen Sturm gibt, können sie den Berg nicht verlassen und müssen auf ihre Rettung warten.",Because of the storm they cannot get down from the mountain and have to wait for rescue.

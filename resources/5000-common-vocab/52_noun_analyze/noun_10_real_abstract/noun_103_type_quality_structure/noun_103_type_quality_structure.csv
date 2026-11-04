@@ -1,0 +1,43 @@
+rank,word,pos,level,freq_per_million,dispersion,has_conjugation,definition,example_de,example_en
+198,"das Teil, -e","der, das",A1,428.9641,0.9465,0,part,Die Ausstellung besteht aus drei Teilen.,The exhibition consists of three parts.
+260,"die Art, -en",die,A1,336.5574,0.9519,0,"type, kind",Es gibt verschiedene Arten von Tieren.,There are different kinds of animals.
+489,"die Struktur, -en",die,A2,170.324,0.8232,0,structure,Der Text folgt einer klaren Struktur.,The text follows a clear structure.
+738,"die Reihe, -n",die,A2,117.7877,0.9397,0,"row, line",Lisa sitzt in der Vorlesung immer in der ersten Reihe.,Lisa always sits in the front row in the lecture.
+755,"die Einheit, -en",die,A2,115.1757,0.8241,0,"unity, unit, entity",Seit dem 3. Oktorber 1990 ist Deutschland wieder eine Einheit.,"Since October 3, 1990, Germany has become a single entity again."
+794,"die Eigenschaft, -en",die,A2,108.2267,0.834,0,quality,Matthias hat viele gute Eigenschaften.,Matthias has many good qualities.
+1202,"die Qualität, -en",die,A2,72.5947,0.9146,0,quality,Sie verkaufen nur Produkte mit hoher Qualität.,They only sell products of high quality.
+290,"der Wert, -e",der,B1,296.4899,0.9,0,value,Du musst den Wert des Geldes kennen.,You must know the value of money.
+307,"die Form, -en",die,B1,275.1008,0.9132,0,"form, shape",Das Gebäude hat eine schöne Form.,The building has a beautiful shape.
+384,"das System, -e",das,B1,217.7348,0.8723,0,system,"Béatrice benutzt ein System, um ihren Koffer zu packen.",Béatrice uses a system to pack her suitcase.
+907,"der Typ, -en",der,B1,96.3986,0.908,0,type,Sie ist eher ein sportlicher Typ.,She’s more of a sporty type.
+1091,"der Aufbau, -ten",der,B1,79.6422,0.804,0,"construction, structure",Das Buch hat einen klaren Aufbau.,The book has a clear structure.
+1128,"das Merkmal, -e",das,B1,77.1781,0.7322,0,feature,Dieses Symbol ist ein gemeinsames Merkmal aller regionalen Produkte.,This symbol is a common feature of all regional products.
+1296,"der Aspekt, -e",der,B1,68.2577,0.8356,0,aspect,Dieser Aspekt sollte berücksichtigt werden.,This aspect should be taken into consideration.
+1698,"das Potenzial, -e",das,B1,50.3185,0.841,0,potential,Das Potenzial vieler Kinder wird in der Schule nicht erkannt.,The potential of many children is not recognized at school.
+1717,"die Gestalt, -en",die,B1,49.5793,0.8999,0,"shape, form, figure",Der Mann hat zur Zeit der Tat eine dunkle Gestalt gesehen.,The man saw a dark figure at the time.
+1787,"das Detail, -s",das,B1,47.5094,0.9384,0,detail,"Wir haben eine Meldung von einem schweren Unfall auf der A7, bisher aber keine genauen Details.","We have a report of a serious accident on Route A7, but so far no exact details."
+1825,"das Niveau, -s",das,B1,46.3758,0.8803,0,"level, standard",Kunden möchten Qualität auf höchstem Niveau.,Customers want quality of the highest level.
+1895,"die Kombination, -en",die,B1,44.1581,0.8914,0,combination,Maria mag ihren Kaffee am liebsten in Kombination mit Milch.,Maria likes her coffee best in combination with milk.
+1956,"der Bestandteil, -e",der,B1,42.6796,0.8635,0,component,Zucker ist Bestandteil vieler Lebensmittel.,Sugar is a component of many foods.
+1982,"der Standard, -s",der,B1,41.9403,0.8778,0,standard,Die Herstellung von Bier folgt dem deutschen Standard.,The production of beer follows the German standard.
+1998,"die Dimension, -en",die,B1,41.4475,0.8709,0,dimension,"Der Krieg nimmt eine Dimension an, die nicht zu erwarten war.",The war is taking on a dimension that was not to be expected.
+2326,die Vielfalt,die,B1,34.3014,0.8039,0,"diversity, variety",Im Wald gibt es eine Vielfalt an regionalen Pflanzen.,In the forest there is a variety of regional plants.
+2331,"die Mischung, -en",die,B1,34.2521,0.888,0,"mixture, blend, combination",Durch die Mischung der beiden Farben entsteht ein schönes Blau.,The combination of the two colors creates a beautiful blue.
+2338,"die Serie, -n",die,B1,34.1535,0.8475,0,series,Eine Serie von Morden macht den Menschen Angst.,A series of murders scares people.
+3311,"die Reihenfolge, -n",die,B1,21.3398,0.8585,0,order,Meine Großmutter muss ihre Medikamente in einer bestimmten Reihenfolge nehmen.,My grandmother has to take her medications in a certain order.
+4279,"das Original, -e",das,B1,15.0808,0.7913,0,original,Das Bild ist im Original zu teuer.,The picture is too expensive in the original.
+4791,"die Einzelheit, -en",die,B1,12.7644,0.89,0,detail,Wir benötigen noch einige Einzelheiten zu dem Artikel.,We need some more details about the article.
+2674,"das Muster, -",das,B2+,29.028,0.8772,0,"pattern, model",Der Stoff hat ein buntes Muster.,The fabric has a colorful pattern.
+2941,die Stabilität,die,B2+,25.5289,0.845,0,stability,Die Stabilität einer Beziehung wächst mit den Jahren und gemeinsamen Erlebnissen.,The stability of a relationship grows with the years and shared experiences.
+3025,"die Intensität, -en",die,B2+,24.5432,0.7562,0,intensity,Die Intensität des Geschmacks ist beeindruckend.,The intensity of the flavor is impressive.
+3046,"die Besonderheit, -en",die,B2+,24.1982,0.8684,0,"idiosyncracy, (special) feature, unique characteristic","Die Besonderheit der Universität liegt darin, dass die Studenten selbst forschen.",The unique characteristic of the university is that students conduct research themselves.
+3110,"die Zusammensetzung, -en",die,B2+,23.5575,0.8233,0,composition,Wissenschaftler erforschen die Zusammensetzung der menschlichen DNA.,Scientists are investigating the composition of human DNA.
+3556,"die Kapazität, -en",die,B2+,19.4177,0.8176,0,capacity,Die Halle hat eine Kapazität von 500 Plätzen.,The hall has a capacity of 500 seats.
+3644,"die Ausprägung, -en",die,B2+,18.8263,0.6578,0,"shaping, markedness",Das Umfeld spielt in der Jugend eine große Rolle bei der Ausprägung des Charakters.,The environment plays an important role in the shaping of the character in youth.
+3848,"die Transparenz, -en",die,B2+,17.5449,0.8674,0,"transparency, clarity","Transparenz in der Forschung ist wichtig, um ethische Grenzen zu erarbeiten.",Transparency in research is important in order to develop ethical boundaries.
+4084,"die Sorte, -n",die,B2+,16.2143,0.8879,0,"kind, variety","Ich bringe nachher Eis mit, welche Sorte möchtest du?",I’ll bring ice cream afterwards; what kind would you like?
+4275,"das Format, -e",das,B2+,15.0808,0.827,0,format,"Du musst das Format der Bilder ändern, sonst kannst du sie mir nicht schicken.","You have to change the format of the pictures, otherwise you can’t send them to me."
+4283,"die Variation, -en",die,B2+,15.0808,0.8071,0,"kind, variation",Miriam verkauft in ihrem Laden Kuchen aller Variationen für Hochzeiten.,In her shop Miriam sells cakes of all kinds for weddings.
+4652,"die Effizienz, -en",die,B2+,13.3066,0.7238,0,efficiency,Ich arbeite immer mit großer Effizienz.,I always work with great efficiency.
+4687,"das Segment, -e",das,B2+,13.1587,0.7695,0,segment,"Wir sehen uns nicht den ganzen Film, sondern nur einzelne Segmente daraus an.","We don’t watch the whole film, but only individual segments of it."
+4947,"der Ausschnitt, -e",der,B2+,12.0252,0.8837,0,"section, extract, excerpt, neckline",Sie trägt ein Kleid mit großem Ausschnitt.,She’s wearing a dress with a big neckline.

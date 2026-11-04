@@ -1,0 +1,36 @@
+rank,word,pos,level,freq_per_million,dispersion,has_conjugation,definition,example_de,example_en
+82,Mal,das,A1,1288.1737,0.8641,0,"time, mark",Maria hat ein dunkles Mal auf ihrer Haut.,Maria has a dark mark on her skin.
+94,"das Beispiel, -e",das,A1,1027.4144,0.9024,0,example,Das Beispiel passt nicht gut zu diesem Argument.,The example does not fit this argument well.
+861,"der Fehler, -",der,A1,100.7356,0.9222,0,"mistake, error",Die Lehrerin markiert alle Fehler im Text.,The teacher marks all mistakes in the text.
+468,"die Weise, -n",die,A2,176.6323,0.9355,0,"way, manner",Sie erledigt die Arbeit in einer ruhigen Weise.,She does the work in a quiet manner.
+644,"die Grundlage, -n",die,A2,134.6427,0.836,0,basis,Diese These hat keine wissenschaftliche Grundlage.,This thesis has no scientific basis.
+865,"das Prinzip, -ien",das,A2,100.3413,0.8898,0,principle,Wir essen aus Prinzip kein Fleisch.,We don’t eat meat on principle.
+380,"der Sinn, -e",der,B1,219.4597,0.9247,0,"sense, meaning",Dein Argument macht keinen Sinn.,Your argument doesn’t make sense.
+1156,"die Wahrheit, -en",die,B1,75.2067,0.9142,0,truth,"Ich glaube, dass er nicht die Wahrheit sagt.",I don’t think he’s telling the truth.
+1255,"die Verteilung, -en",die,B1,70.4262,0.7012,0,distribution,Die Karte zeigt die Verteilung der Schulen in Deutschland.,The map shows the distribution of schools in Germany.
+1333,"die Basis, -en",die,B1,66.5821,0.9005,0,basis,Diese Artikel bilden die Basis für meine Theorie.,These articles form the basis of my theory.
+1396,"die Wirklichkeit, -en",die,B1,63.6251,0.9015,0,reality,Es ist kein Traum sondern die Wirklichkeit.,It is not a dream but reality.
+1465,"die Annahme, -n",die,B1,60.1259,0.8357,0,"acceptance, assumption",Die Ergebnisse bestätigen die Annahme.,The results confirm the assumption.
+1513,"die Tatsache, -n",die,B1,57.9082,0.9085,0,fact,"Es ist eine Tatsache, dass in manchen Ländern Krieg herrscht.",It is a fact that there is war in some countries.
+1684,"die Realität, -en",die,B1,50.8114,0.9082,0,reality,"In der Realität sind Probleme oft kleiner, als man denkt.","In reality, problems are often smaller than you think."
+1904,"das Wesen, -",das,B1,43.9117,0.8685,0,"being, creature, nature (of sth)",Über die Wesen tief unten im Meer ist noch wenig bekannt.,Little is known about the creatures deep down in the sea.
+2018,"das Argument, -e",das,B1,40.9054,0.9155,0,argument,"Judith liefert viele Argumente, die für ihre Annahme sprechen.",Judith makes many arguments in favor of her acceptance.
+3383,"der Schein, -e",der,B1,20.8469,0.8905,0,"light, appearance, certificate",Im Schein der Kerze kann man nur wenig sehen.,In the light of the candle you can only see a little.
+2567,"der Fakt, -en",der,B2+,30.4572,0.9133,0,fact,Das Buch basiert auf wissenschaftlichen Fakten.,The book is based on scientific facts.
+2583,"die Betrachtung, -en",die,B2+,30.1615,0.84,0,"contemplation, examination","Bei genauerer Betrachtung erkennt man, dass die Sterne ein Zeichen formen.","Upon closer examination, one recognizes that the stars form a sign."
+2824,"die Aufklärung, -en",die,B2+,26.9088,0.8859,0,"enlightenment, solution",Die Polizei bittet um Hilfe bei der Aufklärung eines Mordes.,Police are asking for help in the solution of a murder.
+2968,"die Berücksichtigung, -en",die,B2+,25.1346,0.8331,0,consideration,Unter Berücksichtigung der steilen Wege dürfen hier nur erfahrene Leute wandern.,"Taking into consideration the steep paths, only experienced people are allowed to hike here."
+3293,"der Sachverhalt, -e",der,B2+,21.5369,0.8203,0,facts,Der Sachverhalt ist sehr kompliziert.,The facts are very complicated.
+3459,"die Erscheinung, -en",die,B2+,20.2063,0.8733,0,"phenomenon, appearance",Er legt Wert auf seine äußere Erscheinung.,He attaches great importance to his appearance.
+3466,"der Bestand, -̈e",der,B2+,20.157,0.8579,0,"continuation, stock, supply","Gemeinsam versuchen sie, den Bestand der Firma zu sichern.",Together they try to secure the continuation of the company.
+3481,"die Fragestellung, -en",die,B2+,20.0584,0.8065,0,"problem, question",Der Schüler versteht die Fragestellung nicht.,The student doesn’t understand the question.
+3667,"die Beurteilung, -en",die,B2+,18.6292,0.8548,0,judgment,Meiner Beurteilung nach ist die Verletzung nicht sehr schlimm.,"In my judgment, the injury isn’t very bad."
+3884,"die Schätzung, -en",die,B2+,17.3478,0.8143,0,"estimate, estimation",Die Zahlen sind nicht sehr genau und basieren auf Schätzungen.,The figures are not very accurate and are based on estimates.
+3979,"die Vorlage, -n",die,B2+,16.7564,0.8461,0,"draft, model, submission",Ich darf nur unter Vorlage aller notwendigen Dokumente an der Universität studieren.,I am only allowed to study at the university upon submission of all necessary documents.
+3980,"das Vorzeichen, -",das,B2+,16.7564,0.7852,0,"sign, omen","Es ist kein gutes Vorzeichen für den Erfolg der Ehe, wenn Maria und Steffen immer streiten.",It is not a good sign for the success of their marriage if Maria and Steffen always argue.
+4315,"die Reflexion, -en",die,B2+,14.8836,0.7652,0,reflection,Im Wasser kann man die Reflexion des Lichtes sehen.,In the water you can see the reflection of the light.
+4467,"die Feststellung, -en",die,B2+,14.1937,0.869,0,"determination, assessment","Mein Arzt macht die Feststellung, dass ich krank bin.",My doctor makes the assessment that I am ill.
+4765,"die Spekulation, -en",die,B2+,12.863,0.8694,0,speculation,"Meine Verwandten stellen Spekulationen an, ob ich schwanger bin.",My relatives are making speculations as to whether I’m pregnant.
+4805,"der Fund, -e",der,B2+,12.7152,0.8095,0,discovery,Die Polizei berichtet über den Fund einer Leiche.,Police are reporting the discovery of a body.
+4896,"der Irrtum, -̈er",der,B2+,12.2716,0.8663,0,"error, misconception","Es ist ein Irrtum, dass Mädchen kein Fußball spielen können.",It’s a misconception that girls can’t play soccer.
+4971,die Beachtung,die,B2+,11.9266,0.8649,0,"attention, consideration, compliance",Mein Chef nimmt meine Arbeit als selbstverständlich hin und ich wünsche mir mehr Beachtung von ihm.,My boss takes my work for granted and I want more attention from him.

@@ -1,0 +1,37 @@
+rank,word,pos,level,freq_per_million,dispersion,has_conjugation,definition,example_de,example_en
+386,"das Ergebnis, -se",das,A1,216.0591,0.9104,0,result,Die Suche bleibt ohne Ergebnis.,The search remains without result.
+249,"der Grund, -̈e",der,B1,354.2502,0.9643,0,"reason, basis",Es gibt mehrere Gründe für einen Streit.,There are several reasons for a dispute.
+400,"die Reaktion, -en",die,B1,205.3153,0.7576,0,reaction,"Tom beobachtet die Reaktion von Tina, als sie ihr Geschenk sieht.",Tom watches Tina’s reaction when she sees her present.
+431,"die Folge, -n",die,B1,191.6638,0.9303,0,"result, consequences",Deine Entscheidung wird Folgen haben.,Your decision will have consequences.
+458,"die Kraft, -̈e",die,B1,180.575,0.8789,0,"strength, power","Um diese schwere Tasche zu tragen, brauchst du viel Kraft.",It takes a lot of strength for you to carry that heavy bag.
+541,"der Erfolg, -e",der,B1,157.9045,0.9154,0,success,Ich wünsche dir viel Erfolg bei deinen Prüfungen.,I wish you much success in your exams.
+558,"der Druck, -̈e",der,B1,154.5532,0.8298,0,"pressure, printing",Die Wirtschaft übt Druck auf Politiker aus.,The economy is putting pressure on politicians.
+849,"die Wirkung, -en",die,B1,101.7213,0.8999,0,effect,Welche Wirkung hat dieses Medikament?,What effect does this medication have?
+872,"der Einfluss, -̈e",der,B1,99.6021,0.9093,0,influence,Der Chef der Firma hat einen großen Einfluss in der Branche.,The head of the company has great influence in his line of business.
+911,"der Faktor, -en",der,B1,95.7087,0.8463,0,factor,Wir müssen alle Faktoren berücksichtigen.,We have to consider all factors.
+983,"der Vorteil, -e",der,B1,88.3654,0.9236,0,advantage,Praktische Erfahrungen sind bei der Suche nach Arbeit immer von Vorteil.,Practical experience is always an advantage when looking for work.
+1253,"der Effekt, -e",der,B1,70.4755,0.8097,0,effect,Diese Übungen haben einen positiven Effekt auf deine Gesundheit.,These exercises have a positive effect on your health.
+1331,"die Ursache, -n",die,B1,66.6807,0.9002,0,cause,Die Ursache für das Feuer ist noch unklar.,The cause of the fire is still unclear.
+1373,"der Verlust, -e",der,B1,64.66,0.9056,0,loss,Der Tod meiner Mutter war ein großer Verlust für mich.,The death of my mother was a great loss to me.
+1451,"der Schaden, -̈",der,B1,61.2595,0.8828,0,damage,Der Unfall hat einen großen Schaden an meinem Auto verursacht.,The accident caused a lot of damage to my car.
+1582,"die Konsequenz, -en",die,B1,54.8033,0.9197,0,consequence,"Dein Verhalten wird ernste Konsequenzen haben, mein Sohn!","Your behavior will have serious consequences, my son!"
+1604,"der Zweck, -e",der,B1,53.9655,0.8971,0,purpose,Sie sammeln Geld für einen besonderen Zweck.,They’re raising money for a special purpose.
+1820,"die Auswirkung, -en",die,B1,46.4744,0.9028,0,effect,Die Katastrophe wird noch jahrelange Auswirkungen auf die Umwelt haben.,The disaster will have an effect on the environment for years to come.
+1889,"die Stärke, -n",die,B1,44.3059,0.9142,0,strength,"Ich halte es für ein Zeichen von Stärke, dass er seine Gefühle zeigt.",I think it’s a sign of strength that he shows his feelings.
+1987,"die Abhängigkeit, -en",die,B1,41.7432,0.85,0,dependence,Die Industrie für Autos hat eine wirtschaftliche Abhängigkeit von der Industrie für Metall.,The automotive industry is economically dependent on the metal industry.
+2058,"der Anlass, -̈e",der,B1,40.0675,0.9162,0,"occasion, cause",Was ist der Anlass für deinen Besuch?,What’s the occasion for your visit?
+2063,"das Motiv, -e",das,B1,39.8704,0.8684,0,motive,Das Motiv des Täters ist Geld.,The perpetrator’s motive is money.
+2155,"der Nutzen, -",der,B1,38.0469,0.7972,0,"benefit, profit, use",Die Arbeit ist relativ gering im Vergleich zum Nutzen.,The work is relatively small in comparison to the benefit.
+2208,"der Zufall, -̈e",der,B1,36.8148,0.9333,0,"chance, coincidence",Die Wissenschaftler entdecken das Phänomen per Zufall.,The scientists detect the phenomenon by coincidence.
+2224,"der Impuls, -e",der,B1,36.5191,0.8253,0,"stimulus, impulse",Die Meetings schaffen neue Impulse für die Arbeit der Mitarbeiter.,The meetings create new impulses for the employees’ work.
+2294,"der Nachteil, -e",der,B1,35.0899,0.8813,0,disadvantage,Das heiße Wetter hat viele Nachteile für die Bauern.,The hot weather has many disadvantages for the farmers.
+2365,"die Wechselwirkung, -en",die,B1,33.6114,0.729,0,interaction,Dieses Medikament hat keine Wechselwirkungen mit anderen Medikamenten.,This medicine has no interactions with other medicines.
+2659,"die Begründung, -en",die,B1,29.2252,0.906,0,"explanation, justification",Mit welcher Begründung kommt Martin heute nicht zur Schule?,What justification does Martin give for not coming to school today?
+2697,"die Herkunft, -̈e",die,B1,28.6337,0.9011,0,origin,"Weil er anders aussieht, wird er oft nach seiner Herkunft gefragt.","Because he looks different, he is often asked about his origin."
+2604,"die Entstehung, -en",die,B2+,29.9151,0.8658,0,origin,Es gibt verschiedene Theorien zur Entstehung des Universums.,There are several theories about the origin of the universe.
+2848,"das Resultat, -e",das,B2+,26.6624,0.8778,0,result,Heute veröffentlichen sie die ersten Resultate des Experiments.,Today they publish the first results of the experiment.
+2909,"der Reiz, -e",der,B2+,25.9232,0.7625,0,"stimulus, appeal",Menschen nehmen Reize aus der Umwelt über ihre Sinne auf.,People absorb stimuli from the environment through their senses.
+3038,"der Ursprung, -̈e",der,B2+,24.4446,0.8366,0,origin,Adam und Eva sind in der Bibel der Ursprung der Menschheit.,Adam and Eve are the origin of humanity in the Bible.
+3809,"die Anregung, -en",die,B2+,17.7421,0.8278,0,"stimulus, idea",Die Bilder geben Anregung zur Diskussion.,The pictures provide a stimulus for discussion.
+3902,"der Zwang, -̈e",der,B2+,17.1507,0.8814,0,"force, pressure, compulsion","Kinder lernen nur, wenn sie wollen, und nicht aus Zwang.","Children only learn if they want to, not by force."
+4320,"der Anreiz, -e",der,B2+,14.8344,0.8308,0,incentive,Das hohe Gehalt ist der einzige Anreiz für den neuen Job.,The high salary is the only incentive for the new job.
