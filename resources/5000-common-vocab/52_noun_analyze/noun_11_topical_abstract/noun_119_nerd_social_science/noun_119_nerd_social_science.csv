@@ -1,22 +1,37 @@
 rank,word,pos,level,freq_per_million,dispersion,has_conjugation,definition,example_de,example_en
 581,"das Gut, -̈er",das,A1,148.0971,0.6546,0,"estate, good(s)",Verschiedene Güter kommen mit dem Schiff.,Various goods come by ship.
+686,"die Firma, -en",die,A1,128.9751,0.8602,0,"firm, company","Mein Vater ist der Chef einer großen Firma, die Autos baut.",My father is the boss of a big company that makes cars.
+236,"das Unternehmen, -",das,A2,365.5854,0.8122,0,"enterprise, company",Ich gründe mein eigenes Unternehmen.,I am starting my own company.
+476,"der Markt, -̈e",der,A2,174.4145,0.8316,0,market,Jede Woche gibt es hier einen Markt mit Produkten aus der Region.,Every week there is a market with products from the region.
 777,SPD (Sozialdemokratische Partei Deutschlands),die,A2,110.5923,0.6909,0,SPD,Die SPD will ein neues Gesetz einführen.,The SPD wants to introduce a new law.
 894,CDU (Christlich Demokratische Union Deutschlands),die,A2,97.2365,0.6599,0,CDU,Sie hat die CDU gewählt.,She voted for the CDU.
 946,BGB (Bürgerliches Gesetzbuch),das,A2,92.2095,0.3747,0,civil code,Der Anwalt bezieht sich in diesem Fall auf das BGB.,"In this case, the lawyer refers to the German civil code."
+1492,"der Wettbewerb, -e",der,A2,58.6474,0.831,0,competition,An dem Wettbewerb nehmen Menschen aus aller Welt teil.,People from all over the world take part in the competition.
+1551,"der Service, -s",der,A2,56.3804,0.4903,0,service,Wir garantieren einen guten Service im Restaurant.,We guarantee good service in the restaurant.
 1655,"das Reich, -e",das,A2,51.9449,0.7908,0,"empire, kingdom",Die Studenten hören einen Beitrag über das Römische Reich.,The students listen to a piece about the Roman Empire.
+3450,"die Messe, -n",die,A2,20.2555,0.8661,0,"(trade) fair, mass",Jedes Jahr gibt es in Leipzig eine große Messe für Bücher.,Every year there is a large book fair in Leipzig.
+687,"die Wirtschaft, -en",die,B1,128.9751,0.8591,0,"economy, commerce",In der Wirtschaft spielen Politik und Geld eine große Rolle.,Politics and money play an important role in the economy.
+923,"die Produktion, -en",die,B1,94.6737,0.7362,0,production,Die Produktion von elektronischen Fahrzeugen nimmt stark zu.,The production of electronic vehicles is increasing sharply.
 947,"die Nachfrage, -n",die,B1,92.2095,0.6694,0,demand,Die Nachfrage nach lokalen Lebensmitteln ist enorm.,The demand for local food is enormous.
+957,"der Betrieb, -e",der,B1,90.8789,0.8886,0,"business, operation",Ich arbeite in einem kleinen Betrieb mit wenigen Mitarbeitern.,I work in a small business with few employees.
 1020,das Grüne,die,B1,85.0634,0.6677,0,the Greens,Die Partei “Bündnis 90/die Grünen” wurde 1993 in Leipzig gegründet.,The party “Bündnis 90/die Grünen” was founded in Leipzig in 1993.
 1024,"die Maßnahme, -n",die,B1,84.8663,0.8942,0,measure,Diese Maßnahmen sollen die Sicherheit erhöhen.,These measures are intended to increase safety.
 1126,"der Bund, -̈e",der,B1,77.3259,0.8489,0,"association, alliance, bunch",Beide Parteien schließen einen Bund.,Both parties enter into an alliance.
 1397,"die Union, -en",die,B1,63.5758,0.8194,0,union,Manche Mitgliedsstaaten möchten aus der Union austreten.,Some member states want to leave the union.
 1406,"die Investition, -en",die,B1,63.2308,0.7744,0,investment,"Das ist eine gute Investition, du wirst viel Gewinn machen.",This is a good investment; you’ll make a lot of profit.
 1496,"der Konzern, -e",der,B1,58.401,0.7666,0,corporation,Die Firma wurde von einem großen Konzern übernommen.,The company was taken over by a large corporation.
+1535,"der Handel, -̈",der,B1,57.0704,0.8376,0,trade,Der internationale Handel ist deutlich gestiegen.,International trade has increased significantly.
+1558,"der Dienst, -e",der,B1,56.0847,0.9225,0,"service, duty",Die Organisation arbeitet im Dienst der Menschenrechte.,The organization works in the service of human rights.
 1579,AfD (Alternative für Deutschland),die,B1,54.9512,0.6379,0,"AfD, Alternative für Deutschland",Seit den Wahlen 2017 ist die Partei AfD im deutschen Parlament.,"Since the 2017 elections, the AFD party has been in the German parliament."
 1586,"die Bestimmung, -en",die,B1,54.5569,0.8319,0,"regulation, purpose, fate",Für diesen Fall gibt es keine gesetzlichen Bestimmungen.,There are no legal regulations in this case.
+1699,"der Verlag, -e",der,B1,50.2692,0.8749,0,publishing company,Viele Verlage veröffentlichen immer mehr Bücher.,Many publishing companies are publishing more and more books.
+1703,"die Branche, -n",die,B1,50.0721,0.8531,0,"sector, line of business",Das Arbeiten mit Aktien ist keine sichere Branche.,Working with stocks is not a safe sector.
 1710,"der Umsatz, -̈e",der,B1,49.875,0.8162,0,"turnover, sales","Durch Werbung versuchen wir, den Umsatz unseres Geschäfts zu steigern.",We try to increase the turnover of our business through advertising.
 1711,"der Verband, -̈e",der,B1,49.875,0.8674,0,"association, bandage",Das Kind bekommt im Krankenhaus einen neuen Verband um seinen Arm.,The child gets a new bandage around his arm in the hospital.
 1713,"die Regelung, -en",die,B1,49.7764,0.8229,0,"regulation, settlement","Eine neue Regelung besagt, dass Jugendliche mit ihren Eltern schon mit 17 Jahren Auto fahren dürfen.",A new regulation states that young people are allowed to drive a car with their parents at the age of 17.
 1742,"der Anbieter, -",der,B1,48.8893,0.7362,0,supplier,Für den neuen Vertrag seines Handys wechselt Kai zu einem anderen Anbieter.,Kai switches to another supplier for the new contract for his mobile phone.
+1743,"die Industrie, -n",die,B1,48.8893,0.8686,0,industry,Die Industrie ist ein Teil der Wirtschaft.,The industry is part of the economy.
+1768,"die Konkurrenz, -en",die,B1,48.0515,0.8585,0,competition,Die Firma ist ihrer Konkurrenz einen Schritt voraus.,The company is one step ahead of the competition.
 1862,"das Management, -s",das,B1,45.1437,0.6695,0,management,Herr Jarvis übernimmt das Management eines japanischen Unternehmens.,Mr. Jarvis is taking over the management of a Japanese company.
 1892,AG (Aktiengesellschaft),die,B1,44.1581,0.8566,0,"incorporated company, inc.",Mit einem Job bei einer Aktiengesellschaft kann man viel Geld verdienen.,You can make a lot of money with a job at a stock corporation.
 1896,"die Ermittlung, -en",die,B1,44.1088,0.8528,0,investigation,Die Polizei führt Ermittlungen zu diesem Fall durch.,The police is conducting an investigation into this case.
@@ -24,9 +39,11 @@ rank,word,pos,level,freq_per_million,dispersion,has_conjugation,definition,examp
 1988,"die Einrichtung, -en",die,B1,41.6939,0.8734,0,"institution, furnishings",Die Einrichtung von Katjas Wohnung ist sehr modern.,The furnishings of Katja’s apartment are very modern.
 1995,"die Institution, -en",die,B1,41.546,0.8659,0,institution,Die Universität ist eine Institution für Bildung und Wissenschaft.,The university is an institution for education and science.
 2040,CSU (Christlich-Soziale Union),die,B1,40.3632,0.5944,0,CSU,Die CSU tritt ausschließlich in Bayern an.,The CSU will compete exclusively in Bavaria.
+2061,"der Hersteller, -",der,B1,39.9197,0.8331,0,"manufacturer, producer",Der Hersteller des Produkts garantiert eine gute Qualität.,The manufacturer of the product guarantees good quality.
 2085,"die Stiftung, -en",die,B1,39.3776,0.8143,0,"foundation, institute, donation","Meine Mutter leitet eine Stiftung, die wilden Hunden hilft.",My mother runs a foundation that helps wild dogs.
 2087,"die GmbH, -s",die,B1,39.3283,0.6941,0,"limited liability company, Ltd",Fabian gründet eine GmbH und sucht weitere Mitarbeiter.,Fabian is founding a limited liability company and is looking for further employees.
 2130,"der Landtag, -e",der,B1,38.4412,0.3489,0,parliament,Der Landtag des Freistaats Sachsen hat seinen Sitz in Dresden.,The parliament of the Free State of Saxony has its headquarters in Dresden.
+2192,"die Marke, -n",die,B1,37.2091,0.847,0,"brand, stamp",Nur aufgrund der Marke ist das Produkt so teuer.,The product is so expensive only because of its brand.
 2217,der Konsum,der,B1,36.6177,0.5878,0,consumption,Der Konsum von Alkohol beeinflusst die Wahrnehmung.,The consumption of alcohol influences perception.
 2218,"die Vorschrift, -en",die,B1,36.6177,0.6598,0,"instruction, regulation",Er arbeitet stets nach den Vorschriften.,He always works according to the regulations.
 2239,"das Kapital, -e",das,B1,36.2727,0.753,0,capital,"Die Firma hat nicht genügend Kapital, um im Wettbewerb zu bleiben.",The company does not have the capital to stay competitive.
@@ -34,16 +51,21 @@ rank,word,pos,level,freq_per_million,dispersion,has_conjugation,definition,examp
 2260,HGB (Handelsgesetzbuch),das,B1,35.7799,0.5359,0,Commercial Code,Das HGB beinhaltet alle wichtigen Regeln und Gesetze zum Handel in Deutschland.,The Commercial Code contains all the important rules and laws on trade in Germany.
 2265,"die Kommune, -n",die,B1,35.7306,0.7755,0,"municipality, local authority","Es ist die Aufgabe der Kommunen, Schulen zu bauen.",It is the task of the municipalities to build schools.
 2283,FDP (Freie Demokratische Partei),die,B1,35.3363,0.7232,0,FDP,Die FDP ist eine deutsche Partei und wurde 1948 gegründet.,The FDP is a German party and was founded in 1948.
+2305,"die Dienstleistung, -en",die,B1,34.8435,0.6981,0,service,"Eine der Dienstleistungen ist es, die Produkte kostenlos zu liefern.",It is one of the services to deliver the products for free.
 2330,"die Koalition, -en",die,B1,34.2521,0.7554,0,coalition,Die große Koalition besteht aus zwei Parteien.,The grand coalition consists of two parties.
 2372,"das Bruttoinlandsprodukt, -e",das,B1,33.4635,0.4084,0,"gross domestic product, GDP",Das Bruttoinlandsprodukt erfasst Güter als Leistungen in der Wirtschaft innerhalb eines Landes und eines Jahres.,The gross domestic product includes goods as services in the economy within a country and for one year.
 2380,"die Ressource, -n",die,B1,33.365,0.8137,0,resource,"Die finanziellen Ressourcen der Firma reichen nicht aus, um neue Mitarbeiter einzustellen.",The company’s financial resources are not sufficient to recruit new employees.
 2424,"die Beschäftigung, -en",die,B1,32.6257,0.8423,0,"employment, work, job, pursuit","Ich suche eine Beschäftigung für die Zeit, wenn ich nicht mehr arbeiten gehe.",I’m looking for a pursuit for when I’m no longer working.
 2450,"die Bilanz, -en",die,B1,32.1822,0.8431,0,"balance (sheet), result",Am Ende des Jahres wird die Bilanz hoffentlich positiv sein.,"At the end of the year, the balance hopefully will be positive."
+2462,"die Werbung, -en",die,B1,32.0343,0.8531,0,advertising,Er macht Werbung für das neue Produkt.,He’s advertising the new product.
 2476,"die Fraktion, -en",die,B1,31.8372,0.6571,0,parliamentary party,Es gibt verschiedene Meinungen innerhalb der Fraktion.,There are different opinions within the parliamentary party.
 2482,"die Innovation, -en",die,B1,31.7879,0.5397,0,innovation,Innovation ist nur ein Bestandteil von anhaltendem Wachstum.,Innovation is only one component of sustained growth.
+2483,"die Landwirtschaft, -en",die,B1,31.7879,0.8564,0,agriculture,Landwirtschaft und Tourismus sind wichtig für die Wirtschaft der Region.,Agriculture and tourism are important to the region’s economy.
 2550,"der Bedarf, -e",der,B1,30.7037,0.9008,0,"need, demand",Der Bedarf an qualifiziertem Personal ist schwer zu decken.,The demand for qualified employees is difficult to meet.
 2874,"die Einnahme, -n",die,B1,26.3667,0.8508,0,"income, receipts, revenue","Das Unternehmen hat genug Einnahmen, um eine neue Maschine zu kaufen.",The company has enough income to buy a new machine.
+3132,"der Export, -e",der,B1,23.2126,0.7853,0,export,Die Hälfte unserer Ware ist für den Export bestimmt.,Half of our goods are destined for export.
 3399,"die Vermittlung, -en",die,B1,20.7484,0.8076,0,"negotiation, placement, mediation",Die Agentur für Arbeit ist für die Vermittlung von Arbeitsplätzen zuständig.,The employment agency is responsible for work placement.
+4795,"der Import, -e",der,B1,12.7644,0.6829,0,import,Die Regierung entscheidet über den Import von Lebensmitteln in das Land.,The government decides on the import of food into the country.
 2548,"der Arbeitsmarkt, -̈e",der,B2+,30.7529,0.7748,0,labor market,Frauen mit Kindern haben auf dem Arbeitsmarkt schlechtere Chancen.,Women with children have worse chances on the labor market.
 2568,"die Herstellung, -en",die,B2+,30.4572,0.8389,0,production,Die Herstellung des Produkts besteht aus mehreren Schritten.,The production of the product consists of various steps.
 2572,"die Versorgung, -en",die,B2+,30.3587,0.8529,0,"supply, care",In vielen Ländern ist die medizinische Versorgung schlecht.,Medical care is poor in many countries.
@@ -91,6 +113,7 @@ rank,word,pos,level,freq_per_million,dispersion,has_conjugation,definition,examp
 3761,die EU-Kommission,die,B2+,18.0378,0.7717,0,European Commission,Die EU-Kommission ist die Regierung der Europäischen Union.,The European Commission is the government of the European Union.
 3802,"die Wahlperiode, -n",die,B2+,17.8406,0.2008,0,term,Die Wahlperiode eines Bundeskanzlers dauert in Deutschland vier Jahre.,The term of office of a federal chancellor in Germany lasts four years.
 3804,"das Defizit, -e",das,B2+,17.7914,0.832,0,deficit,Der neue Finanzdirektor kann das Defizit deutlich reduzieren.,The new financial director can significantly reduce the deficit.
+3816,"die Airline, -s",die,B2+,17.6928,0.7101,0,airline,Die Airline bietet Flüge von Amsterdam direkt nach Toronto an.,The airline offers direct flights from Amsterdam to Toronto.
 3887,"der Marktanteil, -e",der,B2+,17.2985,0.7499,0,market share,Durch die Fusion der Unternehmen verdoppeln sie ihren Marktanteil.,The merger of the companies doubles their market share.
 3912,SPÖ (Sozialdemokratische Partei Österreichs),die,B2+,17.0521,0.5148,0,,Social Democratic Party of Austria Die SPÖ fordert freien Zugang zu Universitäten.,The Social Democratic Party of Austria demands free access to universities.
 3954,die Abwehr,die,B2+,16.855,0.7859,0,defense,Die Abwehr der Fußballmannschaft verhinderte viele Tore.,The defense of the soccer team prevented many goals.
@@ -99,7 +122,9 @@ rank,word,pos,level,freq_per_million,dispersion,has_conjugation,definition,examp
 4007,die Nacherfüllung,die,B2+,16.6086,0.7915,0,supplementary performance,"Bevor der Verkäufer die Ware ersetzen muss, hat er das Recht auf Nacherfüllung, um die Mängel zu beseitigen.","Before the seller must replace the goods, he has the right to supplementary performance to eliminate the defects."
 4009,"der Ausschuss, -̈e",der,B2+,16.5593,0.6011,0,committee,"Der Ausschuss trifft sich dann, wenn die Mitglieder etwas organisieren müssen.",The committee meets when the members need to organize something.
 4010,"der Mitgliedstaat, -en",der,B2+,16.5593,0.8146,0,member state,Deutschland ist ein Mitgliedstaat der Union.,Germany is a member state of the union.
+4028,das Business,das,B2+,16.4607,0.6086,0,business,"Hanna und Lina beenden ihr Studium, um ein eigenes Business zu gründen.",Hanna and Lina end their studies in order to found their own business.
 4036,"die Wende, -n",die,B2+,16.4607,0.9038,0,change (esp. the 1989–90 political change in the GDR),Der Wandel der Gesellschaft in der DDR führte zur Wende und zur Wiedervereinigung Deutschlands.,The change in society in the GDR led to the reunification of Germany.
+4037,"die Agentur, -en",die,B2+,16.4114,0.8419,0,agency,"Er geht zu der Agentur für Arbeit, um einen Arbeitsplatz zu finden.",He goes to the employment agency to find a job.
 4038,"das Bündnis, -se",das,B2+,16.4114,0.8047,0,alliance,Ein Bündnis zwischen diesen beiden Parteien ist ausgeschlossen.,An alliance between these two parties is impossible.
 4045,"der Sektor, -en",der,B2+,16.4114,0.7596,0,sector,Dieser Sektor der Einrichtung ist nicht zugänglich für Besucher.,This sector of the facilities is not accessible for visitors.
 4068,Taliban,die (pl),B2+,16.3129,0.6606,0,Taliban,Die Taliban kämpfen für ihre Überzeugungen mit Gewalt.,The Taliban fight for their convictions by force.
@@ -155,6 +180,7 @@ rank,word,pos,level,freq_per_million,dispersion,has_conjugation,definition,examp
 4830,die NATO,die,B2+,12.5673,0.7683,0,NATO,"Die NATO ist eine internationale, militärische und politische Organisation.",NATO is an international military and political organization.
 4847,"die Geldmenge, -n",die,B2+,12.4687,0.4644,0,money supply,Der gesamte Bestand des Geldes in einem Land wird Geldmenge genannt.,The total stock of money in a country is called the money supply.
 4849,"das Grundrecht, -e",das,B2+,12.4687,0.7753,0,fundamental right,In der Verfassung eines Landes werden die Grundrechte der Menschen festgelegt.,A country’s constitution sets out the fundamental rights of its people.
+4909,"die Fluggesellschaft, -en",die,B2+,12.2223,0.7667,0,airline,Wir buchen den Flug bei einer anderen Fluggesellschaft.,We book the flight with another airline.
 4934,"der Rückzug, -̈e",der,B2+,12.1238,0.8899,0,retreat,Die Soldaten treten den Rückzug an.,The soldiers are on the retreat.
 4951,"das Referendum, -en",das,B2+,12.0252,0.7614,0,referendum,"In einer Demokratie hat das Volk die Möglichkeit, über ein Referendum abzustimmen.","In a democracy, the people have the opportunity to vote in a referendum."
 4968,"der Stadtrat, -̈e",der,B2+,11.9759,0.7458,0,city council,Politiker aus verschiedenen Parteien stellen sich für das Amt zum Stadtrat zur Wahl auf.,Politicians from various parties are standing for election to the city council.
