@@ -1,0 +1,8 @@
+rank,word,pos,level,freq_per_million,dispersion,has_conjugation,definition,example_de,example_en
+325,"die Nacht, -̈e",die,A1,257.3588,0.8979,0,night,Die Nacht ist dunkel und grau.,The night is dark and gray.
+342,"der Abend, -e",der,A1,243.5101,0.9131,0,evening,Wir gehen morgen Abend ins Kino.,We’re going to the movies tomorrow evening.
+621,"der Morgen, -",der,A1,140.4632,0.8961,0,morning,Bei uns gibt es jeden Morgen Frühstück.,We have breakfast every morning.
+1464,"der Nachmittag, -e",der,B1,60.2738,0.901,0,afternoon,Lass uns heute Nachmittag in den Park gehen.,Let’s go to the park this afternoon.
+2768,"der Mittag, -e",der,B2+,27.6481,0.8937,0,"noon, midday",Der Mittag kommt nach dem Morgen.,Noon comes after the morning.
+3300,"der Vormittag, -e",der,B2+,21.4876,0.8896,0,morning,Wir treffen uns morgen Vormittag zum Frühstück.,We’re meeting for breakfast tomorrow morning.
+3987,"die Mitternacht, -̈e",die,B2+,16.7071,0.8803,0,midnight,"Meine Oma sagt, um Mitternacht wachen die Geister auf.",My granny says the spirits wake up at midnight.

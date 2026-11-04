@@ -1,0 +1,15 @@
+rank,word,pos,level,freq_per_million,dispersion,has_conjugation,definition,example_de,example_en
+53,"das Jahr, -e",das,A1,2079.5691,0.9376,0,year,Ein Jahr hat 52 Wochen.,A year has 52 weeks.
+111,"der Tag, -e",der,A1,822.9862,0.942,0,day,Eine Woche hat sieben Tage.,A week has seven days.
+219,"die Woche, -n",die,A1,394.8599,0.9318,0,week,Eine Woche hat sieben Tage.,A week has seven days.
+276,"die Stunde, -n",die,A1,317.3368,0.9304,0,hour,Eine Stunde hat 60 Minuten.,An hour has 60 minutes.
+316,"der Monat, -e",der,A1,266.9198,0.9322,0,month,Das Jahr hat zwölf Monate.,The year has twelve months.
+324,"die Minute, -n",die,A1,257.5559,0.9071,0,minute,Eine Stunde hat 60 Minuten.,An hour has 60 minutes.
+492,"das Jahrhundert, -e",das,A2,169.3876,0.888,0,century,Das ist der schlimmste Sturm des Jahrhunderts.,This is the worst storm of the century.
+837,"die Sekunde, -n",die,A2,102.6084,0.9058,0,second,Eine Minute hat 60 Sekunden.,One minute has 60 seconds.
+1123,"das Jahrzehnt, -e",das,B1,77.5723,0.9116,0,decade,Ich mag die Musik aus diesem Jahrzehnt.,I like the music of this decade.
+1245,"die Saison, -s",die,B1,70.8205,0.7019,0,season,Der Trainer motiviert seine Mannschaft für die neue Saison.,The coach motivates his team for the new season.
+2263,"das Vorjahr, -e",das,B1,35.7799,0.7781,0,previous year,Dieses Jahr wurden die Gewinne aus dem Vorjahr verdoppelt.,"This year, the profits from the previous year were doubled."
+3283,"das Quartal, -e",das,B2+,21.6355,0.7595,0,quarter,Im dritten Quartal sind die Verluste besonders gestiegen.,Losses increased in particular in the third quarter.
+4358,"das Lebensjahr, -e",das,B2+,14.6865,0.8825,0,year (of one’s life),Ich habe heute Geburtstag und feiere den Beginn eines neuen Lebensjahres.,Today is my birthday and I’m celebrating the beginning of a new year.
+4818,"die Jahreszeit, -en",die,B2+,12.6659,0.8827,0,season,Der Winter ist die kälteste Jahreszeit.,Winter is the coldest season.

@@ -1,0 +1,29 @@
+rank,word,pos,level,freq_per_million,dispersion,has_conjugation,definition,example_de,example_en
+96,"die Zeit, -en",die,A1,967.2884,0.9528,0,time,Jannik braucht viel Zeit für seine Aufgabe.,Jannik needs a lot of time for his task.
+183,"das Ende, -n",das,A1,477.0156,0.9533,0,end,Das Ende des Romans ist wirklich spannend.,The end of the novel is really exciting.
+358,"der Moment, -e",der,A1,234.6883,0.9194,0,moment,Man muss den Moment genießen können.,You have to be able to enjoy the moment.
+427,"der Anfang, -̈e",der,A1,193.8815,0.9458,0,beginning,Der Anfang des Films war sehr traurig.,The beginning of the film was very sad.
+469,"die Zukunft, -̈e",die,B1,176.238,0.9108,0,future,In der Zukunft wird die Arbeit vieler Menschen von Maschinen gemacht.,"In the future, many people’s work will be done by machines."
+732,"die Phase, -n",die,A2,119.3155,0.8241,0,phase,Während einer Entwicklung gibt es unterschiedliche Phasen.,During a development there are different phases.
+845,"der Beginn, -e",der,B1,102.0663,0.9317,0,beginning,Zu Beginn haben wir uns nicht gemocht.,We didn’t like each other at the beginning.
+1030,"der Schluss, -̈e",der,A1,84.4227,0.9385,0,"end, conclusion",Am Schluss der Vorlesung können die Studenten Fragen stellen.,At the end of the lecture students can ask questions.
+1137,"der Zeitpunkt, -e",der,B1,76.1924,0.9244,0,"moment, (point in) time","Jetzt ist der perfekte Zeitpunkt, um mit ihm zu reden.",Now is the perfect moment to talk to him.
+1196,"die Vergangenheit, -en",die,B1,72.9397,0.9284,0,past,Sie wollen ihre Vergangenheit vergessen.,They want to forget their past.
+1235,"der Augenblick, -e",der,B1,71.264,0.8754,0,moment,Das ist der beste Augenblick meines Lebens.,This is the best moment of my life.
+1441,"die Pause, -n",die,A1,61.5552,0.8871,0,"pause, break",Nach einer kurzen Pause mache ich weiter.,After a short break I continue.
+1631,die Weile,die,B1,52.8813,0.8446,0,while,"Es dauert noch eine Weile, bis der Bus kommt.",It will take a while until the bus arrives.
+1932,die Gegenwart,die,B1,43.2217,0.9067,0,present,Die Menschen der Gegenwart können über das Internet viel einfacher miteinander in Kontakt treten.,People of the present can contact each other much more easily via the internet.
+1946,"der Start, -s",der,B1,42.9753,0.8568,0,"start, takeoff, launch",Die Teilnehmer des Rennens gehen alle an den Start.,The participants of the race all go to the start.
+2021,"die Dauer, -n",die,B1,40.8561,0.9114,0,"duration, length",Die Dauer des Experiments beträgt nur 20 Minuten.,The duration of the experiment is only 20 minutes.
+2213,"der Termin, -e",der,A1,36.7655,0.9132,0,"appointment, date",Können Sie den Termin verschieben?,Can you postpone the appointment?
+2308,"die Periode, -n",die,B1,34.7942,0.7253,0,period,Nach einer langen Periode der Kälte wird es endlich wieder warm.,After a long period of cold it finally gets warm again.
+2427,"der Zeitraum, -̈e",der,B1,32.6257,0.8977,0,period of time,Eine Woche hat einen Zeitraum von sieben Tagen.,A week is a period of seven days.
+3171,das Mittelalter,das,B2+,22.769,0.752,0,Middle Ages,"Die Stadt wurde im neunten Jahrhundert, im Mittelalter, gegründet.","The city was founded in the ninth century, in the Middle Ages."
+3203,"das Datum, -en",das,A1,22.424,0.8423,0,date,Andreas und Tine legen ein Datum für ihre Hochzeit fest.,Andreas and Tine set a date for their wedding.
+3596,"die Frist, -en",die,B1,19.122,0.6831,0,"time period, deadline",Die Frist für die Anmeldung zum Wettbewerb läuft nächste Woche ab.,The deadline for registration for the competition is next week.
+3874,"das Zeitalter, -",das,B2+,17.3971,0.8016,0,"age, period",Im Zeitalter von Medien kommunizieren die Menschen oft nur per Handy.,"In the age of media, people often communicate only by mobile phone."
+4063,die Moderne,die,B2+,16.3129,0.8027,0,"modern age, modernism",Das Bauhaus ist ein Beispiel der klassischen Moderne in Kunst und Architektur.,The Bauhaus is an example of classical modernism in art and architecture.
+4296,"die Epoche, -n",die,B2+,14.9822,0.8331,0,epoch,In der Geschichte wird die Zeit in Epochen eingeteilt.,"In history, time is divided into epochs."
+4869,"die Laufzeit, -en",die,B2+,12.3702,0.8131,0,term,Die Laufzeit des Vertrags beträgt 24 Monate.,The term of the contract is 24 months.
+4879,"die Ewigkeit, -en",die,B2+,12.3209,0.8755,0,eternity,"Eigentlich warten wir nur fünf Minuten, aber es fühlt sich an wie eine Ewigkeit.","Actually, we’re only waiting five minutes, but it feels like an eternity."
+4978,Nachhinein,das,B2+,11.9266,0.9014,0,retrospect,"Im Nachhinein stelle ich fest, dass ich eine falsche Entscheidung getroffen habe.","In retrospect, I realize that I made the wrong decision."
