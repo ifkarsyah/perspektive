@@ -1,8 +1,8 @@
 rank,word,pos,level,freq_per_million,dispersion,has_conjugation,definition,example_de,example_en
-783,"die Erde, -n",die,B1,109.6066,0.903,0,"earth, ground, soil",Die Erde wird auch blauer Planet genannt.,Earth is also called the blue planet.
 864,"die Sonne, -n",die,A1,100.3906,0.8941,0,sun,Du solltest deine Haut vor der Sonne schützen.,You should protect your skin from the sun.
+783,"die Erde, -n",die,B1,109.6066,0.903,0,"earth, ground, soil",Die Erde wird auch blauer Planet genannt.,Earth is also called the blue planet.
 1677,"der Stern, -e",der,B1,51.1071,0.8769,0,star,Am Himmel über der Stadt sieht man weniger Sterne als auf dem Land.,You can see fewer stars in the sky above the city than in the country.
-2744,"der Planet, -en",der,B2+,27.9931,0.8469,0,planet,Die Ressourcen auf unserem Planeten sind knapp.,The resources on our planet are scarce.
 3005,"der Mond, -e",der,B1,24.7403,0.8255,0,moon,Der Mond bewegt sich um die Erde.,The moon moves around the earth.
+2744,"der Planet, -en",der,B2+,27.9931,0.8469,0,planet,Die Ressourcen auf unserem Planeten sind knapp.,The resources on our planet are scarce.
 3948,"das Universum, -en",das,B2+,16.9043,0.8046,0,universe,Das Universum ist unendlich.,The universe is infinite.
 4991,der Mars,der,B2+,11.8773,0.7249,0,Mars,Der Mars wird auch roter Planet genannt.,Mars is also called the red planet.

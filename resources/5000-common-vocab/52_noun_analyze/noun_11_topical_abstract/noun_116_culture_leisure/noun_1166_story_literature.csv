@@ -1,5 +1,6 @@
 rank,word,pos,level,freq_per_million,dispersion,has_conjugation,definition,example_de,example_en
 262,"die Geschichte, -n",die,A2,334.5368,0.9288,0,"history, story",Ich lese und schreibe gerne Geschichten.,I like to read and write stories.
+3372,"das Rätsel, -",das,A2,20.8962,0.85,0,"puzzle, mystery","Wenn wir weitere Hinweise finden, können wir das Rätsel lösen.","If we find more clues, we can solve the mystery."
 913,"die Literatur, -en",die,B1,95.5608,0.8251,0,literature,Er liebt Bücher und insbesondere russische Literatur.,"He loves books, especially Russian literature."
 1051,"der Roman, -e",der,B1,82.6485,0.8296,0,novel,Die Autorin schreibt einen neuen Roman.,The author is writing a new novel.
 1285,"die Figur, -en",die,B1,68.7013,0.8406,0,figure,"Nachdem er zugenommen hatte, möchte er nun seine alte Figur zurück.","After gaining weight, he now wants to get his former figure back."
@@ -7,7 +8,6 @@ rank,word,pos,level,freq_per_million,dispersion,has_conjugation,definition,examp
 1897,"das Gedicht, -e",das,B1,44.1088,0.7582,0,poem,Friedrich Schiller schrieb viele Gedichte über Liebe.,Friedrich Schiller wrote many poems about love.
 2078,"die Saga, -s",die,B1,39.5747,0.288,0,saga,Die isländischen Sagas gehören zum nationalen Kulturerbe des Landes.,The Icelandic sagas belong to the national cultural heritage of the country.
 2191,"die Handlung, -en",die,B1,37.2091,0.8348,0,"action, plot","Er muss das Buch mehrmals lesen, um die Handlung zu verstehen.",He has to read the book several times to understand the plot.
-3372,"das Rätsel, -",das,A2,20.8962,0.85,0,"puzzle, mystery","Wenn wir weitere Hinweise finden, können wir das Rätsel lösen.","If we find more clues, we can solve the mystery."
 3634,"das Abenteuer, -",das,B1,18.9249,0.8914,0,adventure,Kinder hören gern Geschichten von aufregenden Abenteuern.,Children love to hear stories of exciting adventures.
 3831,"der Protagonist, -en",der,B2+,17.6435,0.6445,0,protagonist,Der Autor nutzt Freunde und Familie als Vorbilder für seine außergewöhnlichen Protagonisten.,The author uses friends and family as role models for his extraordinary protagonists.
 4155,"das Märchen, -",das,B2+,15.7215,0.8659,0,fairy tale,Im Märchen heiraten der Prinz und die Prinzessin am Ende immer.,"In fairy tales, the prince and the princess always marry in the end."

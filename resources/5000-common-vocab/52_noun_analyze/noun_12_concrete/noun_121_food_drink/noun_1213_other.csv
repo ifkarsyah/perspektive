@@ -1,10 +1,10 @@
 rank,word,pos,level,freq_per_million,dispersion,has_conjugation,definition,example_de,example_en
-2135,"das Öl, -e",das,A2,38.3426,0.8282,0,oil,Es gibt nur noch wenig Öl auf der Welt.,There is only a little oil left in the world.
 2317,"das Lebensmittel, -",das,A1,34.5478,0.837,0,food,Viele abgelaufene Lebensmittel sind im Grunde noch gut.,Many expired foods are basically still good.
 2600,"das Frühstück, -e",das,A1,29.9644,0.8655,0,breakfast,Ein gutes Frühstück gibt Kraft für den Tag.,A good breakfast gives strength for the day.
-2685,"das Vitamin, -e",das,B1,28.8309,0.6082,0,vitamin,Im Winter haben viele Menschen einen Mangel an Vitamin D.,"In winter, many people have a vitamin D deficiency."
-2742,"die Nahrung, -en",die,B2+,27.9931,0.7987,0,"nourishment, food","Weil der Mensch den Wald zerstört, finden viele Tiere nicht genügend Nahrung.",Many animals do not find enough food because humans destroy the forest.
-3434,"die Mahlzeit, -en",die,B1,20.3541,0.6816,0,meal,Mein Mann kocht gerne gesunde Mahlzeiten.,My husband likes to cook healthy meals.
-3907,"das Abendessen, -",das,B2+,17.0521,0.8652,0,dinner,Morgen Abend sind wir bei Susanne und Robert zum Abendessen eingeladen.,Tomorrow evening we are invited to dinner with Susanne and Robert.
+2135,"das Öl, -e",das,A2,38.3426,0.8282,0,oil,Es gibt nur noch wenig Öl auf der Welt.,There is only a little oil left in the world.
 4190,"das Rezept, -e",das,A2,15.5736,0.8779,0,"recipe, prescription","Ich suche ein neues Rezept, das ich kochen kann.",I’m looking for a new recipe I can cook.
+2685,"das Vitamin, -e",das,B1,28.8309,0.6082,0,vitamin,Im Winter haben viele Menschen einen Mangel an Vitamin D.,"In winter, many people have a vitamin D deficiency."
+3434,"die Mahlzeit, -en",die,B1,20.3541,0.6816,0,meal,Mein Mann kocht gerne gesunde Mahlzeiten.,My husband likes to cook healthy meals.
 4870,"das Nahrungsmittel, -",das,B1,12.3702,0.8196,0,food,"Nicht nur Fleisch, sondern auch viele andere Nahrungsmittel enthalten Eisen.","Not only meat, but also many other foods contain iron."
+2742,"die Nahrung, -en",die,B2+,27.9931,0.7987,0,"nourishment, food","Weil der Mensch den Wald zerstört, finden viele Tiere nicht genügend Nahrung.",Many animals do not find enough food because humans destroy the forest.
+3907,"das Abendessen, -",das,B2+,17.0521,0.8652,0,dinner,Morgen Abend sind wir bei Susanne und Robert zum Abendessen eingeladen.,Tomorrow evening we are invited to dinner with Susanne and Robert.

@@ -1,20 +1,20 @@
 rank,word,pos,level,freq_per_million,dispersion,has_conjugation,definition,example_de,example_en
 218,"die Mutter, -̈",die,A1,396.9298,0.8717,0,mother,Meine Mutter ist eine starke Frau.,My mother is a strong woman.
 232,"der Vater, -̈",der,A1,374.4565,0.8729,0,father,"Weil seine Freundin ein Baby bekommt, wird Timo endlich Vater.","Because his girlfriend is having a baby, Timo is finally becoming a father."
-241,"das Paar, -e",das,A2,362.2834,0.9157,0,"pair, couple",Zwei Schuhe machen ein Paar.,Two shoes make a pair.
 329,"die Familie, -n",die,A1,254.6974,0.9363,0,family,Ich feiere meinen Geburtstag mit meiner Familie.,I’m celebrating my birthday with my family.
 404,Eltern,die (pl),A1,204.0832,0.9126,0,parents,Die Eltern lieben ihre Tochter.,Parents love their daughter.
 596,"der Sohn, -̈e",der,A1,145.3372,0.9127,0,son,Das ist unser Sohn Paul.,This is our son Paul.
 694,"die Tochter, -̈",die,A1,128.1373,0.8998,0,daughter,"Ute ist eine gute Mutter, sie liebt ihren Sohn und ihre Tochter sehr.","Ute is a good mother, she loves her son and daughter very much."
 730,"der Bruder, -̈",der,A1,120.3012,0.8597,0,brother,Friedrich hat einen großen Bruder namens Marco.,Friedrich has a big brother named Marco.
-802,"die Mama, -s",die,A2,107.2903,0.7619,0,mommy,Du musst erst deine Mama fragen.,You have to ask your mom first.
 974,"die Schwester, -n",die,A1,89.0554,0.8723,0,sister,"Lisa hat zwei Schwestern, Klara und Paula.","Lisa has two sisters, Klara and Paula."
-1131,"der Papa, -s",der,B1,76.7838,0.7538,0,daddy,Wo ist dein Papa?,Where’s your dad?
 1172,"der Partner, -",der,A1,74.1718,0.8991,0,partner,Üben Sie den Dialog mit einem Partner.,Practice the dialogue with a partner.
 2297,"das Baby, -s",das,A1,35.0406,0.8363,0,baby,Das Baby von Ulrike und Peter ist winzig.,The baby of Ulrike and Peter is tiny.
 3929,Geschwister,die (pl),A1,16.9535,0.8772,0,siblings,"Irina hat fünf Geschwister, drei Schwestern und zwei Brüder.","Irina has five siblings, three sisters and two brothers."
-4103,die Geliebte,"der, die",B2+,16.0664,0.7647,0,lover,Bernd hat eine Ehefrau und gleichzeitig eine Geliebte.,Bernd has a wife and a lover at the same time.
-4382,der Nachwuchs,der,B1,14.5879,0.8561,0,"offspring, new generation","Ich wünsche euch alles Gute zu eurem Nachwuchs und hoffe, dass das Kind gesund ist.",I wish you all the best for your offspring and hope that the child is healthy.
-4642,"das Ehepaar, -e",das,B1,13.3558,0.8678,0,(married) couple,Dominik und Laura sind seit gestern ein Ehepaar.,Dominik and Laura have been a married couple since yesterday.
 4734,"die Ehefrau, -en",die,A1,12.9616,0.8941,0,wife,Nach der Hochzeit ist Karla endlich meine Ehefrau.,"After the wedding, Karla is finally my wife."
 4762,"der Ehemann, -̈er",der,A1,12.863,0.9025,0,husband,Robert ist mir ein guter Ehemann.,Robert is a good husband to me.
+241,"das Paar, -e",das,A2,362.2834,0.9157,0,"pair, couple",Zwei Schuhe machen ein Paar.,Two shoes make a pair.
+802,"die Mama, -s",die,A2,107.2903,0.7619,0,mommy,Du musst erst deine Mama fragen.,You have to ask your mom first.
+1131,"der Papa, -s",der,B1,76.7838,0.7538,0,daddy,Wo ist dein Papa?,Where’s your dad?
+4382,der Nachwuchs,der,B1,14.5879,0.8561,0,"offspring, new generation","Ich wünsche euch alles Gute zu eurem Nachwuchs und hoffe, dass das Kind gesund ist.",I wish you all the best for your offspring and hope that the child is healthy.
+4642,"das Ehepaar, -e",das,B1,13.3558,0.8678,0,(married) couple,Dominik und Laura sind seit gestern ein Ehepaar.,Dominik and Laura have been a married couple since yesterday.
+4103,die Geliebte,"der, die",B2+,16.0664,0.7647,0,lover,Bernd hat eine Ehefrau und gleichzeitig eine Geliebte.,Bernd has a wife and a lover at the same time.

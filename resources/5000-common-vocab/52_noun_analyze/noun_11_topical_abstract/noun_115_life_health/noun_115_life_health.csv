@@ -1,17 +1,19 @@
 rank,word,pos,level,freq_per_million,dispersion,has_conjugation,definition,example_de,example_en
-540,"der Tod, -e",der,B1,158.0031,0.9139,0,death,Der Tod ihrer Mutter ist lange her.,Her mom’s death was a long time ago.
 775,der Alter,das,A1,110.5923,0.9348,0,age,"Obwohl sie schon 80 Jahre alt ist, sieht man ihr ihr Alter nicht an.","Although she’s already 80 years old, she doesn’t look her age."
+2097,der Hunger,der,A1,39.0326,0.8597,0,hunger,"Die Bauern suchen nach Wegen, um den Hunger zu bekämpfen.",The farmers are looking for ways to fight hunger.
+4774,"das Fieber, -",das,A1,12.8137,0.8458,0,fever,"Weil das Kind Fieber hat, muss es Medikamente nehmen.","Because the kid has a fever, he has to take medicine."
+4886,das Trinken,das,A1,12.3209,0.6956,0,"drink, drinking","Ich möchte Wasser, aber das Trinken ist alle.","I want water, but I’m out of drink."
 1132,"die Krankheit, -en",die,A2,76.6359,0.8133,0,"illness, disease",Er hat eine seltene Krankheit.,He has a rare disease.
 1483,"der Schmerz, -en",der,A2,59.3374,0.8871,0,"pain, grief",Der Patient hat starke Schmerzen und schreit.,The patient’s in a lot of pain and is screaming.
-1837,"die Störung, -en",die,B1,45.883,0.7995,0,"disturbance, interruption",Ich arbeite lieber in einem ruhigen Umfeld ohne Störungen.,I prefer to work in a quiet environment without disturbances.
 1851,die Gesundheit,die,A2,45.2916,0.7838,0,health,Rauchen schadet der Gesundheit.,Smoking is harmful to health.
+1955,"der Unfall, -̈e",der,A2,42.7288,0.8805,0,accident,Ich hatte einen Unfall mit dem Auto und liege jetzt im Krankenhaus.,I had an accident with my car and I’m in the hospital.
+540,"der Tod, -e",der,B1,158.0031,0.9139,0,death,Der Tod ihrer Mutter ist lange her.,Her mom’s death was a long time ago.
+1837,"die Störung, -en",die,B1,45.883,0.7995,0,"disturbance, interruption",Ich arbeite lieber in einem ruhigen Umfeld ohne Störungen.,I prefer to work in a quiet environment without disturbances.
 1870,"die Behandlung, -en",die,B1,44.7988,0.8224,0,treatment,Ich muss zur Behandlung meiner Krankheit in eine Klinik.,I need to go to a clinic for the treatment of my illness.
 1918,"die Erkrankung, -en",die,B1,43.5174,0.7216,0,"illness, disease",Das frühe Erkennen von Erkrankungen kann Leben retten.,The early detection of diseases can save lives.
-1955,"der Unfall, -̈e",der,A2,42.7288,0.8805,0,accident,Ich hatte einen Unfall mit dem Auto und liege jetzt im Krankenhaus.,I had an accident with my car and I’m in the hospital.
 1960,"die Medizin, -en",die,B1,42.6303,0.7736,0,medicine,Melanie studiert Medizin an der Humboldt- Universität in Berlin.,Melanie is studying medicine at the Humboldt University in Berlin.
 2039,"die Verletzung, -en",die,B1,40.4618,0.8762,0,injury,Wegen ihrer schweren Verletzungen muss Karolin ins Krankenhaus.,"Because of her serious injuries, Karolin has to go to the hospital."
 2096,"die Geburt, -en",die,B1,39.0326,0.8715,0,birth,Sie sind gut auf die Geburt ihres Kindes vorbereitet.,They are well prepared for the birth of their child.
-2097,der Hunger,der,A1,39.0326,0.8597,0,hunger,"Die Bauern suchen nach Wegen, um den Hunger zu bekämpfen.",The farmers are looking for ways to fight hunger.
 2117,die Jugend,die,B1,38.6383,0.9095,0,youth,In der Jugend ist man weder Kind noch Erwachsener.,"In youth, you’re neither a child nor an adult."
 2123,"die Belastung, -en",die,B1,38.4905,0.8516,0,"load, strain",Die Autos stellen eine große Belastung für die Umwelt dar.,Cars are a great strain on the environment.
 2177,"die Operation, -en",die,B1,37.5048,0.8335,0,"operation, surgery",Nach der Operation am Arm hat Jan keine Schmerzen mehr.,After his arm surgery Jan has not had any more pain.
@@ -23,6 +25,9 @@ rank,word,pos,level,freq_per_million,dispersion,has_conjugation,definition,examp
 2484,"die Therapie, -n",die,B1,31.7879,0.763,0,therapy,Die Therapie hat eine positive Wirkung.,The therapy has a positive effect.
 2495,"die Not, -̈e",die,B1,31.64,0.9068,0,"need, trouble",Superhelden helfen Menschen in Not.,Superheroes help people in need.
 2627,"die Ernährung, -en",die,B1,29.6687,0.7975,0,"food, diet",Viele Menschen bevorzugen eine Ernährung ohne Fleisch.,Many people prefer a meatless diet.
+4082,"die Infektion, -en",die,B1,16.2143,0.6827,0,infection,Sie untersuchen ihr Blut auf Anzeichen einer Infektion.,They’re checking her blood for signs of infection.
+4379,"die Betreuung, -en",die,B1,14.5879,0.8621,0,care,"Seit gestern übernehme ich die Betreuung meiner Oma, da sie sehr krank ist.","Since yesterday I have been taking care of my grandma, because she is very ill."
+4495,"die Schwangerschaft, -en",die,B1,14.0951,0.8029,0,pregnancy,"Während der Schwangerschaft trinke ich keinen Alkohol, weil es schlecht für mein Kind ist.",I don’t drink alcohol during pregnancy because it’s bad for my child.
 3030,"das Symptom, -e",das,B2+,24.5432,0.7599,0,symptom,Jede Krankheit hat spezifische Symptome.,Each disease has specific symptoms.
 3125,"der Suizid, -e",der,B2+,23.3111,0.2547,0,suicide,Menschen mit psychischen Problemen begehen öfter Suizid als gesunde Menschen.,People with mental health problems commit suicide more often than healthy people.
 3228,"die Behinderung, -en",die,B2+,22.1776,0.7862,0,"obstruction, handicap",Die großen Steine auf der Straße stellen eine Behinderung für die Fahrer dar.,The large stones on the road are a hindrance for the drivers.
@@ -35,14 +40,9 @@ rank,word,pos,level,freq_per_million,dispersion,has_conjugation,definition,examp
 3797,"der Befund, -e",der,B2+,17.8406,0.8304,0,"result, finding(s)","Mein Arzt sagt, dass mein Befund für die Krankheit negativ ist.",My doctor says that my findings are negative for the disease.
 3813,"der Krebs, -e",der,B2+,17.7421,0.8399,0,cancer,Jährlich erkranken viele Menschen an Krebs.,Many people contract cancer every year.
 3995,"das Immunsystem, -e",das,B2+,16.6578,0.6923,0,immune system,Das Immunsystem ist für die Abwehr von Krankheiten zuständig.,The immune system is responsible for the defense against diseases.
-4082,"die Infektion, -en",die,B1,16.2143,0.6827,0,infection,Sie untersuchen ihr Blut auf Anzeichen einer Infektion.,They’re checking her blood for signs of infection.
 4257,"die Prävention, -en",die,B2+,15.2286,0.4005,0,prevention,Die Prävention von Gewalt ist wichtiger als die Strafe.,The prevention of violence is more important than punishment.
 4326,der Diabetes,der,B2+,14.7851,0.63,0,diabetes,"Mein Vater hat Diabetes und muss immer darauf achten, was er isst.",My father has diabetes and always has to watch what he eats.
-4379,"die Betreuung, -en",die,B1,14.5879,0.8621,0,care,"Seit gestern übernehme ich die Betreuung meiner Oma, da sie sehr krank ist.","Since yesterday I have been taking care of my grandma, because she is very ill."
-4495,"die Schwangerschaft, -en",die,B1,14.0951,0.8029,0,pregnancy,"Während der Schwangerschaft trinke ich keinen Alkohol, weil es schlecht für mein Kind ist.",I don’t drink alcohol during pregnancy because it’s bad for my child.
 4579,"der Stoffwechsel, -",der,B2+,13.7008,0.6763,0,metabolism,"Ich habe einen guten Stoffwechsel, deswegen kann ich mehr essen als du.","I have a good metabolism, so I can eat more than you can."
 4625,die Pflege,die,B2+,13.4544,0.8583,0,care,Diese Pflanze braucht viel Pflege.,This plant needs a lot of care.
 4689,"der Zyklus, -en",der,B2+,13.1587,0.6799,0,cycle,Der weibliche Zyklus wird durch Hormone gesteuert.,The female cycle is controlled by hormones.
-4774,"das Fieber, -",das,A1,12.8137,0.8458,0,fever,"Weil das Kind Fieber hat, muss es Medikamente nehmen.","Because the kid has a fever, he has to take medicine."
-4886,das Trinken,das,A1,12.3209,0.6956,0,"drink, drinking","Ich möchte Wasser, aber das Trinken ist alle.","I want water, but I’m out of drink."
 4950,"die Population, -en",die,B2+,12.0252,0.6357,0,population,Ich untersuche die Population verschiedener Tiere.,I am studying the population of different animals.

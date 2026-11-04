@@ -1,30 +1,33 @@
 rank,word,pos,level,freq_per_million,dispersion,has_conjugation,definition,example_de,example_en
+597,der Dank,der,A1,145.2879,0.865,0,gratefulness,Ich möchte dir meinen tiefen Dank aussprechen.,I want to express to you my deep gratitude.
+641,das Glück,das,A1,135.6284,0.9089,0,"luck, fortune","Ich habe Glück, dass wir uns heute treffen.",I’m in luck that we’re meeting today.
+2954,die Achtung,die,A1,25.3317,0.7955,0,respect,Die Menschheit sollte mehr Achtung vor Tieren haben.,Humanity should have more respect for animals.
+3443,die Vorsicht,die,A1,20.3048,0.901,0,caution,Vorsicht beim Verzehr von selbst gesammelten Pilzen!,Be careful when eating privately collected mushrooms!
 392,"die Angst, -Äe",die,A2,213.25,0.919,0,"fear, anxiety","Martin lernt in der Therapie, mit Angst und Stress umzugehen.",Martin learns in therapy how to deal with fear and stress.
 451,"die Idee, -n",die,A2,183.0391,0.9264,0,idea,"Marion hat eine Idee, wie man das Problem lösen kann.",Marion has an idea how to solve the problem.
-462,"das Gefühl, -e",das,B1,178.7515,0.9175,0,feeling,Er verletzt Stefans Gefühle.,He hurts Stefan’s feelings.
-585,"der Gedanke, -n",der,B1,147.8507,0.9111,0,thought,Lukas macht sich Gedanken über seine Zukunft.,Lukas has been having thoughts about his future.
-597,der Dank,der,A1,145.2879,0.865,0,gratefulness,Ich möchte dir meinen tiefen Dank aussprechen.,I want to express to you my deep gratitude.
 606,"das Interesse, -n",das,A2,142.5281,0.9239,0,interest,Ich habe kein Interesse an moderner Kunst.,I have no interest in modern art.
 619,"die Erfahrung, -en",die,A2,141.0003,0.9179,0,experience,Wir tauschen unsere Erfahrungen aus.,We shared our experiences.
-641,das Glück,das,A1,135.6284,0.9089,0,"luck, fortune","Ich habe Glück, dass wir uns heute treffen.",I’m in luck that we’re meeting today.
 787,"die Meinung, -en",die,A2,109.2124,0.9289,0,opinion,Ich würde gern deine Meinung dazu hören.,I’d like to hear your opinion on this.
+989,die Ruhe,die,A2,87.9219,0.9053,0,"silence, peace",In der Bibliothek herrscht Ruhe.,In the library there is silence.
+992,"der Traum, -̈e",der,A2,87.6262,0.8673,0,dream,Letzte Nacht hatte ich einen komischen Traum.,Last night I had a strange dream.
+1045,"der Spaß, -̈e",der,A2,83.0921,0.877,0,fun,Sie haben viel Spaß auf der Party.,They’re having a lot of fun at the party.
+1072,"der Wunsch, -̈e",der,A2,81.2193,0.9404,0,wish,"Sein Wunsch ist es, Arzt zu werden.",His wish is to become a doctor.
+1340,"die Ahnung, -en",die,A2,66.1878,0.8777,0,"suspicion, idea","Er hat die Ahnung, dass der Job anstrengend sein wird.",He has the idea that the job will be exhausting.
+1407,"die Lust, -̈e",die,A2,63.2308,0.9083,0,desire,Im Sommer habe ich immer Lust auf Eis.,In summer I always desire ice cream.
+2745,"der Stress, -e",der,A2,27.9931,0.8441,0,stress,Stress wirkt sich negativ auf die Gesundheit aus.,Stress has a negative impact on health.
+462,"das Gefühl, -e",das,B1,178.7515,0.9175,0,feeling,Er verletzt Stefans Gefühle.,He hurts Stefan’s feelings.
+585,"der Gedanke, -n",der,B1,147.8507,0.9111,0,thought,Lukas macht sich Gedanken über seine Zukunft.,Lukas has been having thoughts about his future.
 844,"die Liebe, -n",die,B1,102.1155,0.8905,0,love,Sophia heiratet die Liebe ihres Lebens.,Sophia marries the love of her life.
 888,"die Sorge, -n",die,B1,98.2221,0.9227,0,worry,Die Familie hat finanzielle Sorgen.,The family has financial worries.
 904,"die Vorstellung, -en",die,B1,96.4972,0.9335,0,"idea, introduction, performance",Die Vorstellung dauert zwei Stunden.,The performance lasts two hours.
 938,"die Erinnerung, -en",die,B1,92.7517,0.908,0,memory,Meine Oma erzählt von ihren Erinnerungen aus ihrer Jugend.,My granny tells about her memories from her youth.
-989,die Ruhe,die,A2,87.9219,0.9053,0,"silence, peace",In der Bibliothek herrscht Ruhe.,In the library there is silence.
-992,"der Traum, -̈e",der,A2,87.6262,0.8673,0,dream,Letzte Nacht hatte ich einen komischen Traum.,Last night I had a strange dream.
 1012,"der Eindruck, -̈e",der,B1,85.6548,0.936,0,impression,"Ich habe den Eindruck, dass es ihm nicht gut geht.",I have the impression that he is not well.
-1045,"der Spaß, -̈e",der,A2,83.0921,0.877,0,fun,Sie haben viel Spaß auf der Party.,They’re having a lot of fun at the party.
-1072,"der Wunsch, -̈e",der,A2,81.2193,0.9404,0,wish,"Sein Wunsch ist es, Arzt zu werden.",His wish is to become a doctor.
 1102,"die Hoffnung, -en",die,B1,78.9523,0.9225,0,hope,"Es besteht die Hoffnung, dass der Patient gesund wird.",There is hope that the patient will get well.
 1286,"die Freude, -n",die,B1,68.7013,0.9098,0,joy,"Es ist mir eine große Freude, meine Kinder spielen und lachen zu sehen.",It gives me great joy to see my children play and laugh.
 1300,das Leid,das,B1,68.0113,0.8527,0,"sorrow, grief",Nach dem Tod ihres Mannes hat sie viel Leid erfahren.,She experienced much suffering after her husband’s death.
 1319,"die Konzentration, -en",die,B1,67.0749,0.7933,0,concentration,"Sie macht Sport, um ihre Konzentration zu verbessern.",She does sports to improve her concentration.
 1322,"die Fähigkeit, -en",die,B1,66.9271,0.8384,0,"ability, capability",Das Experiment untersucht die sprachlichen Fähigkeiten von Kindern.,The experiment investigates the linguistic abilities of children.
 1328,"die Erkenntnis, -se",die,B1,66.7299,0.9167,0,"realization, discovery","Sie kommen zu der Erkenntnis, dass ihre Ergebnisse falsch sind.",They are coming to the realization that their results are wrong.
-1340,"die Ahnung, -en",die,A2,66.1878,0.8777,0,"suspicion, idea","Er hat die Ahnung, dass der Job anstrengend sein wird.",He has the idea that the job will be exhausting.
-1407,"die Lust, -̈e",die,A2,63.2308,0.9083,0,desire,Im Sommer habe ich immer Lust auf Eis.,In summer I always desire ice cream.
 1426,"der Geist, -er",der,B1,62.1466,0.8988,0,"mind, spirit",Sport zu machen ist gesund für Körper und Geist.,Doing sport is healthy for body and mind.
 1495,"der Zweifel, -",der,B1,58.4503,0.9281,0,doubt,Daran besteht kein Zweifel.,There’s no doubt about it.
 1536,"die Kenntnis, -se",die,B1,56.9718,0.8859,0,knowledge,Ihre Computerkenntnisse sind ziemlich beeindruckend.,Her knowledge of computers is quite impressive.
@@ -50,32 +53,39 @@ rank,word,pos,level,freq_per_million,dispersion,has_conjugation,definition,examp
 2451,"das Geheimnis, -se",das,B1,32.1822,0.8975,0,secret,"Erzähle es niemandem, es ist ein Geheimnis!","Don’t tell anyone, it’s a secret!"
 2454,"die Ehre, -n",die,B1,32.1329,0.8944,0,honor,Es ist eine große Ehre mit diesem Preis ausgezeichnet zu werden.,It is a great honor to be awarded this prize.
 2498,der Respekt,der,B1,31.5908,0.8736,0,respect,"Ich habe großen Respekt vor jedem, der sich das traut.",I have great respect for anyone who dares to do that.
-2520,"das Gedächtnis, -se",das,B2+,31.1965,0.7971,0,memory,"Opa hat ein gutes Gedächtnis, er vergisst nie etwas.",Grandpa has a good memory; he never forgets anything.
 2524,"die Überraschung, -en",die,B1,31.1472,0.9093,0,surprise,"Sonja weiß nichts von der Party, es ist eine Überraschung.","Sonja doesn’t know about the party, it’s a surprise."
+2703,"das Erlebnis, -se",das,B1,28.5845,0.9032,0,experience,"Die Präsidentin zu treffen, ist ein besonderes Erlebnis.",Meeting the president is a special experience.
+2738,"die Absicht, -en",die,B1,28.0423,0.9152,0,intention,"Es tut mir leid. Es ist nicht meine Absicht, dich zu verletzen.",I’m sorry. It is not my intention to hurt you.
+2890,"die Intelligenz, -en",die,B1,26.1203,0.7779,0,intelligence,"Es gibt Tests, mit denen man die Intelligenz eines Menschen messen kann.",There are tests that can measure the intelligence of a human.
+2924,"das Talent, -e",das,B1,25.726,0.8814,0,talent,"Tim hat ein großes Talent, er möchte ein berühmter Künstler werden.",Tim has a great talent; he wants to become a famous artist.
+2970,"der Schreck, -e",der,B1,25.1346,0.9008,0,"fright, shock",Wegen des lauten Geräuschs bekommt Marion einen großen Schreck.,Because of the loud noise Marion gets a big shock.
+2981,"die Freundschaft, -en",die,B1,24.9868,0.8897,0,friendship,Laura und Lisa verbindet schon seit 20 Jahren eine enge Freundschaft.,Laura and Lisa have shared a close friendship for 20 years.
+3120,"das Gewissen, -",das,B1,23.3604,0.8952,0,conscience,"Jeremy hat ein reines Gewissen, er hat nichts falsch gemacht.",Jeremy has a clear conscience; he’s done nothing wrong.
+3134,"die Phantasie, -n",die,B1,23.2126,0.903,0,"imagination, fantasy","Um ein Buch zu schreiben, brauchst du viel Phantasie.","To write a book, you need a lot of imagination."
+3410,"der Humor, -e",der,B1,20.6498,0.782,0,humor,Ich verstehe seinen britischen Humor nicht.,I don’t understand his British humor.
+3475,"die Laune, -n",die,B1,20.1077,0.8832,0,mood,"Wenn sie gute Laune hat, singt und lacht sie die ganze Zeit.","When she’s in a good mood, she sings and laughs all the time."
+3478,"das Unglück, -e",das,B1,20.1077,0.873,0,"misfortune, disaster",Der Unfall ist ein großes Unglück für die Familie.,The accident constitutes a great misfortune for the family.
+3710,die Geduld,die,B1,18.3828,0.9073,0,patience,"Wenn du etwas nicht kannst, brauchst du Geduld, weil du viel üben musst.","When you can’t do something, you need patience because you have to practice a lot."
+3853,der Stolz,der,B1,17.4957,0.8923,0,pride,Sie empfindet Stolz für ihre Kinder.,She feels pride for her children.
+4137,"die Enttäuschung, -en",die,B1,15.82,0.8907,0,disappointment,Die Enttäuschung über das blöde Geschenk ist groß.,The disappointment about the stupid gift is great.
+4508,"das Vergnügen, -",das,B1,14.0458,0.868,0,pleasure,Die Eltern liegen am Strand und die Kinder spielen am Wasser — ein großes Vergnügen!,The parents lie on the beach and the children play by the water — a great pleasure!
+4614,"die Rücksicht, -en",die,B1,13.5037,0.9099,0,consideration,"Ich nehme Rücksicht auf meine Schwester, weil sie behindert ist.",I show consideration for my sister because she’s handicapped.
+4755,das Wohl,das,B1,12.9123,0.8212,0,well-being,Ich kümmere mich um das Wohl anderer Menschen.,I care about other people’s well-being.
+2520,"das Gedächtnis, -se",das,B2+,31.1965,0.7971,0,memory,"Opa hat ein gutes Gedächtnis, er vergisst nie etwas.",Grandpa has a good memory; he never forgets anything.
 2556,"die Kompetenz, -en",die,B2+,30.6051,0.8197,0,"competence, authority",Der neue Mitarbeiter stellt seine Kompetenz am ersten Tag unter Beweis.,The new employee demonstrates his competence on the first day.
 2682,der Ärger,der,B2+,28.8802,0.9113,0,"annoyance, trouble",Er hat viel Ärger mit den deutschen Behörden am Flughafen.,He has a lot of trouble with the German authorities at the airport.
-2703,"das Erlebnis, -se",das,B1,28.5845,0.9032,0,experience,"Die Präsidentin zu treffen, ist ein besonderes Erlebnis.",Meeting the president is a special experience.
 2706,die Wut,die,B2+,28.5845,0.8816,0,"rage, fury","Wut ist eine Emotion, die extremen Ärger ausdrückt.",Rage is an emotion that expresses extreme anger.
-2738,"die Absicht, -en",die,B1,28.0423,0.9152,0,intention,"Es tut mir leid. Es ist nicht meine Absicht, dich zu verletzen.",I’m sorry. It is not my intention to hurt you.
-2745,"der Stress, -e",der,A2,27.9931,0.8441,0,stress,Stress wirkt sich negativ auf die Gesundheit aus.,Stress has a negative impact on health.
 2753,die Stille,die,B2+,27.8945,0.8642,0,"peace, silence","Wir gehen in den Wald, um die Stille der Natur zu genießen.",We go into the forest to enjoy the silence of nature.
 2784,"die Emotion, -en",die,B2+,27.4017,0.7527,0,emotion,Die Liebe ist eine sehr starke Emotion.,Love is a very strong emotion.
 2830,"die Schönheit, -en",die,B2+,26.8595,0.8691,0,beauty,Meine Tochter ist eine wahre Schönheit.,My daughter is a true beauty.
 2842,"die Persönlichkeit, -en",die,B2+,26.7117,0.8695,0,"personality, celebrity",Mein kleiner Bruder hat schon eine eigene Persönlichkeit entwickelt.,My little brother has already developed his own personality.
 2845,"die Einschätzung, -en",die,B2+,26.6624,0.8754,0,"opinion, assessment, evaluation",Seine Einschätzung der politischen Lage ist recht positiv.,His assessment of the political situation is quite positive.
-2890,"die Intelligenz, -en",die,B1,26.1203,0.7779,0,intelligence,"Es gibt Tests, mit denen man die Intelligenz eines Menschen messen kann.",There are tests that can measure the intelligence of a human.
-2924,"das Talent, -e",das,B1,25.726,0.8814,0,talent,"Tim hat ein großes Talent, er möchte ein berühmter Künstler werden.",Tim has a great talent; he wants to become a famous artist.
-2954,die Achtung,die,A1,25.3317,0.7955,0,respect,Die Menschheit sollte mehr Achtung vor Tieren haben.,Humanity should have more respect for animals.
-2970,"der Schreck, -e",der,B1,25.1346,0.9008,0,"fright, shock",Wegen des lauten Geräuschs bekommt Marion einen großen Schreck.,Because of the loud noise Marion gets a big shock.
 2976,"der Komplex, -e",der,B2+,25.036,0.7275,0,complex,"Weil sie sehr dick ist, hat sie große Komplexe, in die Öffentlichkeit zu gehen.","Because she’s very big, she has big complexes about going out in public."
-2981,"die Freundschaft, -en",die,B1,24.9868,0.8897,0,friendship,Laura und Lisa verbindet schon seit 20 Jahren eine enge Freundschaft.,Laura and Lisa have shared a close friendship for 20 years.
 3002,"die Disziplin, -en",die,B2+,24.7896,0.8647,0,discipline,Schwimmen ist eine olympische Disziplin.,Swimming is an Olympic discipline.
 3032,"die Auffassung, -en",die,B2+,24.4446,0.8564,0,point of view,Ich habe eine andere Auffassung zu dem Thema als du.,I have a different point of view on the subject than you do.
 3042,"die Schwäche, -n",die,B2+,24.3461,0.9142,0,weakness,Anika hat eine Schwäche für Pizza.,Anika has a weakness for pizza.
 3052,"die Unsicherheit, -en",die,B2+,24.1489,0.8811,0,uncertainty,Bei der Auswahl der Universität herrscht bei vielen Studenten eine große Unsicherheit.,"When choosing a university, there is a great deal of uncertainty among many students."
 3105,"die Leidenschaft, -en",die,B2+,23.6068,0.8939,0,passion,Er entdeckt seine Leidenschaft zur Musik.,He discovers his passion for music.
-3120,"das Gewissen, -",das,B1,23.3604,0.8952,0,conscience,"Jeremy hat ein reines Gewissen, er hat nichts falsch gemacht.",Jeremy has a clear conscience; he’s done nothing wrong.
-3134,"die Phantasie, -n",die,B1,23.2126,0.903,0,"imagination, fantasy","Um ein Buch zu schreiben, brauchst du viel Phantasie.","To write a book, you need a lot of imagination."
 3150,"die Motivation, -en",die,B2+,23.0154,0.8546,0,motivation,Für ein erfolgreiches Studium braucht man viel Motivation.,Successful studies require a lot of motivation.
 3154,der Hass,der,B2+,22.9661,0.8876,0,hatred,Kriege verursachen Hass und Gewalt.,Wars cause hatred and violence.
 3172,"die Sehnsucht, -̈e",die,B2+,22.769,0.898,0,longing,Nach fünf Jahren im Ausland hat er Sehnsucht nach seiner Heimat.,"After five years abroad, he has a longing for his homeland."
@@ -85,22 +95,15 @@ rank,word,pos,level,freq_per_million,dispersion,has_conjugation,definition,examp
 3321,"die Begeisterung, -en",die,B2+,21.2412,0.9144,0,enthusiasm,Nach dem Unfall hat er seine Begeisterung für Sport verloren.,After the accident he lost his enthusiasm for sports.
 3368,"die Unruhe, -n",die,B2+,20.9455,0.7509,0,"unrest, unease, disquiet, upheaval",Er läuft voller Unruhe auf und ab.,He walks up and down full of unease.
 3386,"die Bereitschaft, -en",die,B2+,20.7977,0.8719,0,willingness,Ein Team sollte eine allgemeine Bereitschaft zur Zusammenarbeit zeigen.,A team needs to show general willingness to cooperate.
-3410,"der Humor, -e",der,B1,20.6498,0.782,0,humor,Ich verstehe seinen britischen Humor nicht.,I don’t understand his British humor.
-3443,die Vorsicht,die,A1,20.3048,0.901,0,caution,Vorsicht beim Verzehr von selbst gesammelten Pilzen!,Be careful when eating privately collected mushrooms!
-3475,"die Laune, -n",die,B1,20.1077,0.8832,0,mood,"Wenn sie gute Laune hat, singt und lacht sie die ganze Zeit.","When she’s in a good mood, she sings and laughs all the time."
-3478,"das Unglück, -e",das,B1,20.1077,0.873,0,"misfortune, disaster",Der Unfall ist ein großes Unglück für die Familie.,The accident constitutes a great misfortune for the family.
 3500,der Wahnsinn,der,B2+,19.9106,0.8635,0,"madness, insanity, lunacy","Wenn sie die Arbeit allein schaffen will, dann ist das absoluter Wahnsinn.","If she wants to do the job on her own, it would be absolute madness."
 3529,"die Aufregung, -en",die,B2+,19.6641,0.9059,0,excitement,"Vor dem Konzert spüren sie, wie die Aufregung steigt.",Before the concert they feel the excitement rising.
 3568,die Trauer,die,B2+,19.3684,0.7688,0,grief,Die Trauer über den Tod meines Großvaters ist sehr groß.,The grief about my grandfather’s death is very great.
-3710,die Geduld,die,B1,18.3828,0.9073,0,patience,"Wenn du etwas nicht kannst, brauchst du Geduld, weil du viel üben musst.","When you can’t do something, you need patience because you have to practice a lot."
 3737,"die Hemmung, -en",die,B2+,18.2349,0.5448,0,inhibition,"Viele Leute verlieren ihre Hemmungen, wenn sie Alkohol trinken.",Many people lose their inhibitions when they drink alcohol.
 3747,"der Schock, -e",der,B2+,18.1856,0.863,0,shock,Nach dem Unfall steht er unter Schock.,He’s in shock after the accident.
 3808,die Vernunft,die,B2+,17.7914,0.8307,0,reason,Ein gutes Argument basiert auf Vernunft und Logik.,A good argument is based on reason and logic.
-3853,der Stolz,der,B1,17.4957,0.8923,0,pride,Sie empfindet Stolz für ihre Kinder.,She feels pride for her children.
 3925,"das Bedenken, -",das,B2+,16.9535,0.8974,0,"concern, doubt","Ihre Eltern haben Bedenken dabei, ihre Kinder abends allein zu lassen.",The parents have concerns about leaving their children alone in the evening.
 3970,der Verstand,der,B2+,16.8057,0.8381,0,reason,"Glaube nicht alles, was die Menschen sagen, sondern benutze deinen eigenen Verstand.","Do not believe everything people say, but use your own reason."
 4092,"die Vermutung, -en",die,B2+,16.165,0.9094,0,"assumption, presumption","Ich bin mir nicht sicher, aber ich habe die Vermutung, dass Karl nicht die Wahrheit sagt.","I’m not sure, but I have an assumption that Karl’s not telling the truth."
-4137,"die Enttäuschung, -en",die,B1,15.82,0.8907,0,disappointment,Die Enttäuschung über das blöde Geschenk ist groß.,The disappointment about the stupid gift is great.
 4145,"die Moral, -en",die,B2+,15.7707,0.8034,0,moral,Jede Geschichte hat eine Moral.,Every story has a moral.
 4209,"die Panik, -en",die,B2+,15.475,0.8985,0,panic,Der Terroranschlag löst eine Panik unter den Menschen aus.,The terrorist attack has caused a panic among the people.
 4251,die Hast,die,B2+,15.2286,0.7752,0,haste,"Wenn du mit so viel Hast isst, schmerzt dein Bauch gleich wieder.","If you eat with so much haste, your stomach will hurt again."
@@ -109,14 +112,11 @@ rank,word,pos,level,freq_per_million,dispersion,has_conjugation,definition,examp
 4339,die Furcht,die,B2+,14.7358,0.8691,0,fear,Ich habe große Furcht vor der kommenden Prüfung.,I have great fear of the coming test.
 4448,"die Erleichterung, -en",die,B2+,14.2922,0.906,0,relief,"Es ist für mich eine große Erleichterung zu hören, dass du wieder gesund bist.",It’s a great relief to hear you’re well again.
 4454,"das Vorurteil, -e",das,B2+,14.2922,0.894,0,prejudice,"Ich versuche, fremden Menschen immer ohne Vorurteile zu begegnen.",I always try to meet strangers without prejudice.
-4508,"das Vergnügen, -",das,B1,14.0458,0.868,0,pleasure,Die Eltern liegen am Strand und die Kinder spielen am Wasser — ein großes Vergnügen!,The parents lie on the beach and the children play by the water — a great pleasure!
 4518,die Neugier,die,B2+,13.9472,0.8784,0,curiosity,Unsere kleine Katze besitzt viel Neugier und erforscht jeden Winkel unserer Wohnung.,Our little cat has a lot of curiosity and explores every corner of our home.
 4553,die Kreativität,die,B2+,13.7994,0.8583,0,creativity,"Wenn Eltern ihren Kindern oft vorlesen, fördert das deren Kreativität.","When parents often read aloud to their children, this encourages their creativity."
-4614,"die Rücksicht, -en",die,B1,13.5037,0.9099,0,consideration,"Ich nehme Rücksicht auf meine Schwester, weil sie behindert ist.",I show consideration for my sister because she’s handicapped.
 4633,"die Illusion, -en",die,B2+,13.4051,0.8898,0,illusion,"Er hat die Illusion, dass er nicht arbeiten gehen muss, um Geld zu verdienen.",He has the illusion that he doesn’t have to go to work to make money.
 4721,"die Erregung, -en",die,B2+,13.0109,0.7587,0,"excitement, thrill, agitation",Vor Freude spüre ich eine starke Erregung.,With joy I feel a strong excitement.
 4748,das Mitleid,das,B2+,12.9123,0.8764,0,pity,"Ich habe Mitleid mit Tom, weil er heute länger arbeiten muss.",I have pity on Tom because he has to work late today.
-4755,das Wohl,das,B1,12.9123,0.8212,0,well-being,Ich kümmere mich um das Wohl anderer Menschen.,I care about other people’s well-being.
 4798,"die Toleranz, -en",die,B2+,12.7644,0.8242,0,tolerance,Die Toleranz gegenüber Flüchtlingen nimmt in der Gesellschaft zu.,Tolerance toward refugees is increasing in society.
 4800,"die Verhaltensweise, -n",die,B2+,12.7644,0.7649,0,behavior,In seiner Forschung untersucht er die Verhaltensweisen von Katzen.,In his research he examines the behavior of cats.
 4875,der Trost,der,B2+,12.3702,0.8527,0,"solace, comfort",Nach dem Tod meiner Großmutter suche ich Trost bei Freunden.,"After my grandmother’s death, I seek solace from friends."

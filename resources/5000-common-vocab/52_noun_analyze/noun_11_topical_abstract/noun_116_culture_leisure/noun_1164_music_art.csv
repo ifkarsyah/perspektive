@@ -1,21 +1,21 @@
 rank,word,pos,level,freq_per_million,dispersion,has_conjugation,definition,example_de,example_en
+1733,"das Lied, -er",das,A1,49.0371,0.8871,0,song,Wir singen für sie ein Lied zu ihrem Geburtstag.,We’ll sing her a song for her birthday.
 509,"die Musik, -en",die,A2,165.8885,0.8741,0,music,Sie hören die gleiche Musik.,They listen to the same music.
 554,"die Kunst, -̈e",die,A2,155.4403,0.8332,0,art,Das Museum zeigt Kunst aus dem letzten Jahrhundert.,The museum shows art from the previous century.
 594,"die Kultur, -en",die,A2,145.6329,0.8269,0,culture,Anna interessiert sich für fremde Kulturen.,Anna is interested in foreign cultures.
+1597,"die Ausstellung, -en",die,A2,54.1626,0.7886,0,exhibition,Die neue Ausstellung zur DDR ist sehr interessant.,The new exhibition on the GDR is very interesting.
+2350,"das Konzert, -e",das,A2,33.9564,0.8515,0,concert,Die Band der Universität gibt heute Abend ein Konzert.,The university band’s giving a concert tonight.
+3867,"die Mode, -n",die,A2,17.4464,0.8931,0,fashion,"Nadja interessiert sich sehr für Mode, deswegen kauft sie gerne ein und liest viele Magazine.","Nadja is very interested in fashion, so she likes to shop and read many magazines."
 681,"das Werk, -e",das,B1,129.5665,0.8761,0,work,Ich mag die Werke dieses Künstlers.,I like this artist’s work.
 1403,"die Aufnahme, -n",die,B1,63.3787,0.8959,0,"reception, recording, snapshot",Auf der CD sind die ersten Aufnahmen der Band.,On the CD are the band’s first recordings.
-1597,"die Ausstellung, -en",die,A2,54.1626,0.7886,0,exhibition,Die neue Ausstellung zur DDR ist sehr interessant.,The new exhibition on the GDR is very interesting.
-1733,"das Lied, -er",das,A1,49.0371,0.8871,0,song,Wir singen für sie ein Lied zu ihrem Geburtstag.,We’ll sing her a song for her birthday.
-2350,"das Konzert, -e",das,A2,33.9564,0.8515,0,concert,Die Band der Universität gibt heute Abend ein Konzert.,The university band’s giving a concert tonight.
 2422,"der Stil, -e",der,B1,32.7243,0.9115,0,style,Das Buch ist in flüssigem und gutem Stil geschrieben.,The book is written in a smooth and fine style.
+3910,"die Oper, -n",die,B1,17.0521,0.869,0,opera,Die Oper wird auf Italienisch gesungen.,The opera is sung in Italian.
+3946,"der Tanz, -̈e",der,B1,16.9043,0.8462,0,dance,"Er bat mich, mit ihm auf einen Tanz zu gehen.",He asked me to go with him to a dance.
+4327,"die Fotografie, -n",die,B1,14.7851,0.7027,0,photography,Wir gehen am Wochenende in ein Museum für Fotografie.,We’re going to a museum of photography this weekend.
 2505,das Erbe,das,B2+,31.4429,0.7867,0,heritage,Das Land ist stolz auf sein kulturelles Erbe.,The country is proud of its cultural heritage.
 3373,"der Song, -s",der,B2+,20.8962,0.7969,0,song,Der Song kommt heute schon zum dritten Mal im Radio.,This is the third time the song has been on the radio.
 3630,"das Album, -en",das,B2+,18.9742,0.7629,0,album,Die Sängerin veröffentlicht ein neues Album.,The singer releases a new album.
 3823,"der Rhythmus, -en",der,B2+,17.6928,0.8857,0,rhythm,Der Rhythmus dieses Liedes ist einfach zu schnell zum Tanzen.,The rhythm of this song is just too fast for dancing.
-3867,"die Mode, -n",die,A2,17.4464,0.8931,0,fashion,"Nadja interessiert sich sehr für Mode, deswegen kauft sie gerne ein und liest viele Magazine.","Nadja is very interested in fashion, so she likes to shop and read many magazines."
-3910,"die Oper, -n",die,B1,17.0521,0.869,0,opera,Die Oper wird auf Italienisch gesungen.,The opera is sung in Italian.
-3946,"der Tanz, -̈e",der,B1,16.9043,0.8462,0,dance,"Er bat mich, mit ihm auf einen Tanz zu gehen.",He asked me to go with him to a dance.
-4327,"die Fotografie, -n",die,B1,14.7851,0.7027,0,photography,Wir gehen am Wochenende in ein Museum für Fotografie.,We’re going to a museum of photography this weekend.
 4330,"die Malerei, -en",die,B2+,14.7851,0.7727,0,painting,Der Begriff “Leipziger Schule” bezeichnet eine Strömung der modernen Malerei.,The term “Leipzig School” refers to a movement in modern painting.
 4816,"das Design, -s",das,B2+,12.6659,0.8433,0,design,Er studiert Design in Paris.,He’s studying design in Paris.
 4839,"der Gesang, -̈e",der,B2+,12.518,0.8754,0,"singing, vocals",Ich studiere Musik und Gesang.,I study music and singing.

@@ -11,11 +11,11 @@ rank,word,pos,level,freq_per_million,dispersion,has_conjugation,definition,examp
 1927,"die Seele, -n",die,B1,43.3695,0.901,0,"soul, mind",Die Vorstellung der Seele ist je nach Religion und Philosophie unterschiedlich.,The idea of the soul varies according to religion and philosophy.
 2084,"das Bewusstsein, -e",das,B1,39.3776,0.8915,0,consciousness,Der Patient verliert das Bewusstsein.,The patient loses consciousness.
 2342,"die Wahrnehmung, -en",die,B1,34.1042,0.865,0,perception,Menschen haben eine ganz unterschiedliche Wahrnehmung von Schmerz.,People have very different perceptions of pain.
-2520,"das Gedächtnis, -se",das,B2+,31.1965,0.7971,0,memory,"Opa hat ein gutes Gedächtnis, er vergisst nie etwas.",Grandpa has a good memory; he never forgets anything.
-2556,"die Kompetenz, -en",die,B2+,30.6051,0.8197,0,"competence, authority",Der neue Mitarbeiter stellt seine Kompetenz am ersten Tag unter Beweis.,The new employee demonstrates his competence on the first day.
 2703,"das Erlebnis, -se",das,B1,28.5845,0.9032,0,experience,"Die Präsidentin zu treffen, ist ein besonderes Erlebnis.",Meeting the president is a special experience.
 2890,"die Intelligenz, -en",die,B1,26.1203,0.7779,0,intelligence,"Es gibt Tests, mit denen man die Intelligenz eines Menschen messen kann.",There are tests that can measure the intelligence of a human.
 2924,"das Talent, -e",das,B1,25.726,0.8814,0,talent,"Tim hat ein großes Talent, er möchte ein berühmter Künstler werden.",Tim has a great talent; he wants to become a famous artist.
+2520,"das Gedächtnis, -se",das,B2+,31.1965,0.7971,0,memory,"Opa hat ein gutes Gedächtnis, er vergisst nie etwas.",Grandpa has a good memory; he never forgets anything.
+2556,"die Kompetenz, -en",die,B2+,30.6051,0.8197,0,"competence, authority",Der neue Mitarbeiter stellt seine Kompetenz am ersten Tag unter Beweis.,The new employee demonstrates his competence on the first day.
 3264,"die Einsicht, -en",die,B2+,21.734,0.8608,0,"view, insight",Das Gericht gewährt dem Anwalt Einsicht in alle Akten.,The court gives the lawyer access to all files.
 3808,die Vernunft,die,B2+,17.7914,0.8307,0,reason,Ein gutes Argument basiert auf Vernunft und Logik.,A good argument is based on reason and logic.
 3970,der Verstand,der,B2+,16.8057,0.8381,0,reason,"Glaube nicht alles, was die Menschen sagen, sondern benutze deinen eigenen Verstand.","Do not believe everything people say, but use your own reason."

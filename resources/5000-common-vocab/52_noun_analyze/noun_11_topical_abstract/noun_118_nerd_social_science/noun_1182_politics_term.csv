@@ -1,12 +1,12 @@
 rank,word,pos,level,freq_per_million,dispersion,has_conjugation,definition,example_de,example_en
 777,SPD (Sozialdemokratische Partei Deutschlands),die,A2,110.5923,0.6909,0,SPD,Die SPD will ein neues Gesetz einführen.,The SPD wants to introduce a new law.
 894,CDU (Christlich Demokratische Union Deutschlands),die,A2,97.2365,0.6599,0,CDU,Sie hat die CDU gewählt.,She voted for the CDU.
+1655,"das Reich, -e",das,A2,51.9449,0.7908,0,"empire, kingdom",Die Studenten hören einen Beitrag über das Römische Reich.,The students listen to a piece about the Roman Empire.
 1020,das Grüne,die,B1,85.0634,0.6677,0,the Greens,Die Partei “Bündnis 90/die Grünen” wurde 1993 in Leipzig gegründet.,The party “Bündnis 90/die Grünen” was founded in Leipzig in 1993.
 1024,"die Maßnahme, -n",die,B1,84.8663,0.8942,0,measure,Diese Maßnahmen sollen die Sicherheit erhöhen.,These measures are intended to increase safety.
 1126,"der Bund, -̈e",der,B1,77.3259,0.8489,0,"association, alliance, bunch",Beide Parteien schließen einen Bund.,Both parties enter into an alliance.
 1397,"die Union, -en",die,B1,63.5758,0.8194,0,union,Manche Mitgliedsstaaten möchten aus der Union austreten.,Some member states want to leave the union.
 1579,AfD (Alternative für Deutschland),die,B1,54.9512,0.6379,0,"AfD, Alternative für Deutschland",Seit den Wahlen 2017 ist die Partei AfD im deutschen Parlament.,"Since the 2017 elections, the AFD party has been in the German parliament."
-1655,"das Reich, -e",das,A2,51.9449,0.7908,0,"empire, kingdom",Die Studenten hören einen Beitrag über das Römische Reich.,The students listen to a piece about the Roman Empire.
 1711,"der Verband, -̈e",der,B1,49.875,0.8674,0,"association, bandage",Das Kind bekommt im Krankenhaus einen neuen Verband um seinen Arm.,The child gets a new bandage around his arm in the hospital.
 1988,"die Einrichtung, -en",die,B1,41.6939,0.8734,0,"institution, furnishings",Die Einrichtung von Katjas Wohnung ist sehr modern.,The furnishings of Katja’s apartment are very modern.
 1995,"die Institution, -en",die,B1,41.546,0.8659,0,institution,Die Universität ist eine Institution für Bildung und Wissenschaft.,The university is an institution for education and science.

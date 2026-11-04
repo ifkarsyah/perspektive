@@ -1,30 +1,30 @@
 rank,word,pos,level,freq_per_million,dispersion,has_conjugation,definition,example_de,example_en
-399,"die Stimme, -n",die,B1,205.5124,0.8805,0,"voice, vote",Sie singt mit lauter Stimme.,She sings in a loud voice.
+1079,"die Farbe, -n",die,A1,80.8743,0.921,0,color,Die Kinder malen gern mit bunten Farben.,The children like to paint with bright colors.
+4710,"der Laut, -e",der,A1,13.0601,0.8325,0,sound,Jede Sprache hat spezifische Laute.,Each language has specific sounds.
 511,"das Stück, -e",das,A2,165.6913,0.9115,0,piece,Er gibt ihr ein Stück von dem Brot.,He gives her a piece of the bread.
+4506,der Müll,der,A2,14.0458,0.8999,0,"waste, garbage, rubbish, trash","Die Menschen produzieren zu viel Müll, das schadet der Umwelt.","People produce too much waste, which is harmful to the environment."
+399,"die Stimme, -n",die,B1,205.5124,0.8805,0,"voice, vote",Sie singt mit lauter Stimme.,She sings in a loud voice.
 758,"der Stoff, -e",der,B1,114.3379,0.8323,0,"material, substance, fabric",Die Hose besteht aus einem weichen Stoff.,The trousers are made of soft fabric.
 956,"das Tor, -e",das,B1,90.9775,0.8076,0,"gate, goal",Der Spieler schießt den Fußball ins Tor.,The player shoots the soccer into the goal.
-1079,"die Farbe, -n",die,A1,80.8743,0.921,0,color,Die Kinder malen gern mit bunten Farben.,The children like to paint with bright colors.
 1662,"der Ton, -e",der,B1,51.5506,0.9186,0,"sound, tone, clay","In Musik lernen wir, Töne zu singen.",In music we learn to sing sounds.
 1673,"die Komponente, -n",die,B1,51.3042,0.817,0,component,"Das Gericht besteht aus verschiedenen Komponenten, die auch einzeln gut schmecken.",The dish consists of different components that also taste good individually.
 1861,"das Loch, -̈er",das,B1,45.193,0.8778,0,hole,Meine Hose hat ein Loch.,My trousers have a hole.
 1931,"das Geräusch, -e",das,B1,43.271,0.8528,0,"sound, noise","Sie hört, dass das Auto ein komisches Geräusch macht.",She hears the car making a funny noise.
 2178,"die Probe, -n",die,B1,37.5048,0.8198,0,"sample, test, rehearsal",Die Ärzte nehmen eine Probe seines Blutes.,The doctors are taking a sample of his blood.
 2206,"die Oberfläche, -n",die,B1,36.8148,0.8554,0,surface,Der Großteil der Oberfläche der Erde ist mit Wasser bedeckt.,The majority of the earth’s surface is covered with water.
+3363,der Lärm,der,B1,20.9455,0.89,0,noise,"Der Lärm der Maschine ist unerträglich, sie ist viel zu laut.",The noise of the machine is unbearable; it is much too loud.
+4231,"der Tropfen, -",der,B1,15.3765,0.8664,0,drop,Jeden Abend nimmt meine Oma drei Tropfen ihrer Medizin.,Every night my grandma takes three drops of her medicine.
+4309,der Dreck,der,B1,14.8836,0.8701,0,dirt,"Wenn Kinder draußen spielen, haben sie oft überall Dreck am Körper.","When children play outside, they often have dirt all over their bodies."
+4370,"der Abfall, -̈e",der,B1,14.6372,0.855,0,"waste, trash","Ich bringe immer den Abfall runter, wenn ich das Haus verlasse.",I always take the trash down when I leave the house.
 2614,"die Achse, -n",die,B2+,29.8166,0.7788,0,"axle, axis",Die Erde dreht sich in 24 Stunden einmal um ihre Achse.,The earth rotates once around its axis in 24 hours.
 2648,"die Faser, -n",die,B2+,29.3237,0.3828,0,fiber,Die Fasern an der Leiche stammen wahrscheinlich von der Kleidung des Täters.,The fibers on the body are probably from the offender’s clothes.
 3242,"die Öffnung, -en",die,B2+,22.079,0.8087,0,"opening, hole",Die Kinder klettern durch eine kleine Öffnung im Zaun.,The children climb through a small opening in the fence.
 3284,"die Spalte, -n",die,B2+,21.6355,0.7584,0,"fissure, cleft, column",Tragen Sie in die erste Spalte der Tabelle das Datum ein.,Enter the date in the first column of the table.
 3338,"der Klang, -̈e",der,B2+,21.1426,0.8798,0,"sound, tone",Dieses Instrument hat einen sehr charakteristischen Klang.,This instrument has a very characteristic sound.
-3363,der Lärm,der,B1,20.9455,0.89,0,noise,"Der Lärm der Maschine ist unerträglich, sie ist viel zu laut.",The noise of the machine is unbearable; it is much too loud.
 3559,"der Rohstoff, -e",der,B2+,19.4177,0.803,0,raw material,Das Land exportiert Rohstoffe wie Kupfer.,The country exports raw materials such as copper.
 4081,"der Haufen, -",der,B2+,16.2143,0.87,0,"heap, pile, load","In meinem Zimmer liegt ein großer Haufen mit Sachen, den ich aufräumen muss.",There’s a big pile of stuff in my room that I have to clean up.
-4231,"der Tropfen, -",der,B1,15.3765,0.8664,0,drop,Jeden Abend nimmt meine Oma drei Tropfen ihrer Medizin.,Every night my grandma takes three drops of her medicine.
-4309,der Dreck,der,B1,14.8836,0.8701,0,dirt,"Wenn Kinder draußen spielen, haben sie oft überall Dreck am Körper.","When children play outside, they often have dirt all over their bodies."
-4370,"der Abfall, -̈e",der,B1,14.6372,0.855,0,"waste, trash","Ich bringe immer den Abfall runter, wenn ich das Haus verlasse.",I always take the trash down when I leave the house.
 4488,Mist,der,B2+,14.0951,0.819,0,"crap, manure","Anton redet nur Mist, du kannst ihm nichts glauben.","Anton talks crap, you can’t believe anything he says."
 4494,"der Schrei, -e",der,B2+,14.0951,0.8523,0,scream,Das Baby gibt einen lauten Schrei von sich.,The baby gives a loud scream.
-4506,der Müll,der,A2,14.0458,0.8999,0,"waste, garbage, rubbish, trash","Die Menschen produzieren zu viel Müll, das schadet der Umwelt.","People produce too much waste, which is harmful to the environment."
 4658,"der Knall, -e",der,B2+,13.3066,0.8105,0,bang,"Als wir die Raketen anzünden, machen sie einen lauten Knall.","When we light up the fireworks, they make a loud bang."
 4709,"die Kante, -n",die,B2+,13.0601,0.8605,0,edge,Manuel stößt sich den Fuß an der Kante des Bettes.,Manuel hits his foot against the edge of the bed.
-4710,"der Laut, -e",der,A1,13.0601,0.8325,0,sound,Jede Sprache hat spezifische Laute.,Each language has specific sounds.
 4985,"der Spalt, -e",der,B2+,11.9266,0.8313,0,crack,Die Tür ist nur einen Spalt offen.,The door’s just open a crack.

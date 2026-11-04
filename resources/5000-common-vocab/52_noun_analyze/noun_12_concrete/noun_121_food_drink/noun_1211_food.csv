@@ -1,21 +1,21 @@
 rank,word,pos,level,freq_per_million,dispersion,has_conjugation,definition,example_de,example_en
 1790,das Fleisch,das,A1,47.4108,0.8971,0,"meat, flesh","Ich esse nur Fleisch von Kühen, aber nicht von anderen Tieren.","I only eat meat from cows, but not from other animals."
-1874,das Eis,das,A2,44.7002,0.8885,0,"ice, ice cream",Max isst im Sommer am liebsten Eis.,Max prefers ice cream in summer.
 1959,"der Fisch, -e",der,A1,42.6303,0.8904,0,fish,Er isst lieber Fisch als Fleisch.,He prefers fish to meat.
 1999,"das Ei, -er",das,A1,41.4475,0.8745,0,egg,Sonntags gibt es beim Frühstück immer ein Ei.,On Sundays there’s always an egg with breakfast.
 2095,"das Brot, -e",das,A1,39.0326,0.8459,0,bread,Morgens isst Thorben immer eine Scheibe Brot und trinkt einen Kaffee.,In the morning Thorben always eats a slice of bread and drinks a coffee.
-2559,"der Zucker, -",der,A2,30.6051,0.8128,0,sugar,Cola enthält viel Zucker.,Coke contains a lot of sugar.
 2608,"das Salz, -e",das,A1,29.9151,0.7484,0,salt,"Stefanie isst das Ei mit Salz, weil es dann besser schmeckt.",Stefanie eats the egg with salt because it tastes better.
-3047,"das Fett, -e",das,A2,24.1982,0.7274,0,fat,"Wenn ich koche, benutze ich nur Fett, das aus Pflanzen hergestellt wird.","When I cook, I only use fat made from plants."
-3323,"die Frucht, -̈e",die,B1,21.2412,0.8884,0,fruit,"Diese Frucht ist noch nicht reif, deswegen ist sie sauer und nicht süß.","This fruit is not yet ripe; therefore, it is sour and not sweet."
 3490,"der Apfel, -Ä",der,A1,19.9598,0.8697,0,apple,An dem Baum hängen viele rote Äpfel.,There are a lot of red apples on that tree.
 3650,"das Gemüse, -",das,A1,18.777,0.8542,0,vegetables,"Gemüse ist gesund, weil es viel Vitamine enthält.",Vegetables are healthy because they contain a lot of vitamins.
 3837,"die Kartoffel, -n",die,A1,17.5942,0.8461,0,potato,Aus Kartoffeln kann man viele verschiedene Gerichte machen.,Potatoes can be made into many different dishes.
-3923,"die Wurst, -̈e",die,A2,17.0028,0.8629,0,sausage,"Da Michael und Sabrina kein Fleisch essen, probieren sie die Wurst nicht.","Since Michael and Sabrina don’t eat meat, they don’t try the sausage."
-4083,"der Keks, -",der,B2+,16.2143,0.4883,0,cookie,Ich esse lieber Kekse statt Kuchen.,I prefer eating cookies to cake.
-4094,"der Käse, -",der,A2,16.1157,0.8694,0,cheese,"Ich mag französischen Weichkäse, wie Brie und Camembert.","I like French soft cheese, like Brie and Camembert."
 4381,"der Kuchen, -",der,A1,14.5879,0.8724,0,cake,Zum Geburtstag backt mir mein Bruder immer einen leckeren Kuchen.,"For my birthday, my brother always bakes me a delicious cake."
-4532,"die Schokolade, -n",die,A2,13.898,0.8689,0,chocolate,Katja und ich sehen uns einen Film über Liebe an und essen dabei viel Schokolade.,Katja and I watch a film about love and eat a lot of chocolate.
-4848,"das Getreide, -",das,B2+,12.4687,0.7405,0,"cereal, grain",Viele Lebensmittel aus Getreide sind Bestandteil einer gesunden Ernährung.,Many foods made from cereals are part of a healthy diet.
 4960,die Butter,die,A1,11.9759,0.7657,0,butter,Zum Frühstück esse ich nur ein Brot mit Butter.,"For breakfast, I’ll just have bread and butter."
 4980,das Obst,das,A1,11.9266,0.8771,0,fruit,Ich ernähre mich gesund und esse viel Obst.,I eat healthy food and lots of fruit.
+1874,das Eis,das,A2,44.7002,0.8885,0,"ice, ice cream",Max isst im Sommer am liebsten Eis.,Max prefers ice cream in summer.
+2559,"der Zucker, -",der,A2,30.6051,0.8128,0,sugar,Cola enthält viel Zucker.,Coke contains a lot of sugar.
+3047,"das Fett, -e",das,A2,24.1982,0.7274,0,fat,"Wenn ich koche, benutze ich nur Fett, das aus Pflanzen hergestellt wird.","When I cook, I only use fat made from plants."
+3923,"die Wurst, -̈e",die,A2,17.0028,0.8629,0,sausage,"Da Michael und Sabrina kein Fleisch essen, probieren sie die Wurst nicht.","Since Michael and Sabrina don’t eat meat, they don’t try the sausage."
+4094,"der Käse, -",der,A2,16.1157,0.8694,0,cheese,"Ich mag französischen Weichkäse, wie Brie und Camembert.","I like French soft cheese, like Brie and Camembert."
+4532,"die Schokolade, -n",die,A2,13.898,0.8689,0,chocolate,Katja und ich sehen uns einen Film über Liebe an und essen dabei viel Schokolade.,Katja and I watch a film about love and eat a lot of chocolate.
+3323,"die Frucht, -̈e",die,B1,21.2412,0.8884,0,fruit,"Diese Frucht ist noch nicht reif, deswegen ist sie sauer und nicht süß.","This fruit is not yet ripe; therefore, it is sour and not sweet."
+4083,"der Keks, -",der,B2+,16.2143,0.4883,0,cookie,Ich esse lieber Kekse statt Kuchen.,I prefer eating cookies to cake.
+4848,"das Getreide, -",das,B2+,12.4687,0.7405,0,"cereal, grain",Viele Lebensmittel aus Getreide sind Bestandteil einer gesunden Ernährung.,Many foods made from cereals are part of a healthy diet.

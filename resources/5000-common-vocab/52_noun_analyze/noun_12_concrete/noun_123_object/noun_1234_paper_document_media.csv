@@ -1,57 +1,57 @@
 rank,word,pos,level,freq_per_million,dispersion,has_conjugation,definition,example_de,example_en
 300,"das Buch, -̈er",das,A1,280.7684,0.9017,0,book,Natasha liest gerade ein gutes Buch.,Natasha is reading a good book.
 670,"die Zeitung, -en",die,A1,131.6364,0.918,0,newspaper,Jeden Morgen lese ich Zeitung.,I read the newspaper every morning.
-692,"die Folie, -n",die,A2,128.2358,0.5716,0,"slide, foil",Für die Prüfung lerne ich alle Folien aus der Vorlesung.,For the exam I study all the slides from the lecture.
 805,das Internet,das,A1,106.8468,0.885,0,internet,Sie verbringt viele Stunden am Computer und sucht nach Wohnungen im Internet.,She spends many hours at the computer and searches for apartments on the internet.
 838,"der Brief, -e",der,A1,102.5098,0.8827,0,letter,Mein Freund schreibt mir einen langen Brief.,My friend is writing me a long letter.
-951,Medien,die (pl),B1,91.6181,0.8847,0,media,Die Medien berichten über aktuelle Themen.,The media report on current topics.
-979,"die Tabelle, -n",die,B1,88.7104,0.8153,0,"table, chart",Die Tabelle gibt einen Überblick über die jährlichen Einnahmen und Ausgaben.,The table gives an overview of the annual income and expenses.
-1025,"das Band, -̈er",der,A2,84.7677,0.8931,0,"volume, tome",Die Geschichte von Harry Potter hat sieben Bände.,The story of Harry Potter has seven volumes.
 1163,"das Papier, -e",das,A1,74.8617,0.9203,0,paper,Sie schreibt ihre Nummer auf ein kleines Stück Papier.,She writes her number on a little piece of paper.
-1270,"das Blatt, -̈er",das,A2,69.5391,0.9064,0,"sheet, leaf",Die Pflanze hat lange grüne Blätter.,The plant has long green leaves.
-1378,"der Artikel, -",der,A2,64.315,0.837,0,article,In der Zeitung steht ein interessanter Artikel über Leipzig.,The newspaper has an interesting article about Leipzig.
 1444,das Fernsehen,das,A1,61.5059,0.906,0,television,Das Spiel wird live im Fernsehen übertragen.,The game will be broadcast live on television.
 1474,"die Karte, -n",die,A1,59.7317,0.9141,0,"card, ticket, menu",Die Karten für das Theater kosten 15 Euro.,The tickets for the theater cost 15 euros.
-1843,"die Ausgabe, -n",die,B1,45.538,0.8816,0,"distribution, edition, issue, expense",Ich kaufe die neueste Ausgabe der Zeitung.,I’m buying the latest issue of the paper.
 1926,"die Post, -en",die,A1,43.3695,0.8677,0,"mail, post office","Nach dem Urlaub liegt im Büro viel Post, die ich beantworten muss.",After the vacation there is a lot of mail in the office that I have to answer.
-1963,"das Video, -s",das,B1,42.5317,0.8801,0,video,"Marlies macht ein Video von ihren Kindern, damit sie sich später an den Moment erinnern kann.",Marlies makes a video of her children so she can remember the moment later.
-2168,"das Netzwerk, -e",das,B1,37.7512,0.8793,0,network,Sie teilt das Video auf verschiedenen sozialen Netzwerken.,She shares the video on several social networks.
 2172,"die E-Mail, -s","die, das",A1,37.6526,0.8857,0,e-mail,Eine E-Mail ist schneller und praktischer als ein Brief.,An e-mail is faster and more practical than a letter.
 2549,"der Pass, -̈e",der,A1,30.7529,0.877,0,"pass, passport",Menschen mit einem deutschen Pass können problemlos viele Länder bereisen.,People with a German passport can easily travel to many countries without any problems.
-2800,"die Presse, -n",die,B1,27.2538,0.8968,0,press,Die Polizei antwortet auf die Fragen der Presse.,The police are responding to questions from the press.
-2816,"die Plattform, -en",die,B2+,27.0567,0.8551,0,platform,"Im Internet gibt es eine Plattform, um Informationen auszutauschen.",There is a platform on the internet for exchanging information.
-2837,"die Webseite, -n",die,A2,26.8103,0.8584,0,website,Seit gestern hat unserer Universität eine neue Webseite.,Since yesterday our university has a new website.
-2923,"der Sender, -",der,B1,25.726,0.8765,0,broadcasting station,Wir suchen im Fernsehen einen Sender für Kinder.,We’re looking for a children’s channel on TV.
-3011,"das Skript, -e",das,B2+,24.6911,0.6988,0,"script, lecture notes",An dem Skript zum Film arbeiten zwei Autoren zusammen.,Two authors are working together on the script for the movie.
-3057,"die Zeitschrift, -en",die,A2,24.0997,0.8846,0,"magazine, journal",Ich lese eine interessante Zeitschrift aus dem Bereich Medizin.,I’m reading an interesting magazine in the field of medicine.
-3148,"die Grafik, -en",die,B1,23.0154,0.7489,0,graphic,In der Prüfung müssen sie eine Grafik beschreiben.,They must describe a graphic in the exam.
-3229,"das Dokument, -e",das,B1,22.1776,0.8751,0,document,Lena füllt beim Amt die Dokumente für ihre staatliche Unterstützung aus.,Lena fills out the documents to apply for state support at the agency.
-3285,"der Zettel, -",der,A2,21.6355,0.8508,0,"piece of paper, note","Ich brauche einen Zettel, um mir die Nummer aufzuschreiben.",I need a note to write down the number.
 3347,"die Anzeige, -n",die,A1,21.0441,0.876,0,"display, advertisement",Christoph meldet sich auf die Anzeige in der Zeitung.,Christoph answers the advertisement in the newspaper.
 3408,"die CD, -s",die,A1,20.6498,0.8238,0,CD,Der Popstar veröffentlicht eine Reihe erfolgreicher CDs.,The pop star releases a series of successful CDs.
+3825,"die Unterschrift, -en",die,A1,17.6928,0.8731,0,signature,Sie müssen den Vertrag nur noch mit Ihrer Unterschrift bestätigen.,You only have to confirm the contract with your signature.
+4769,"das Ticket, -s",das,A1,12.863,0.8467,0,ticket,"Bevor das Stück startet, kaufen wir Tickets an der Kasse im Theater.","Before the play starts, we buy tickets at the box office in the theater."
+692,"die Folie, -n",die,A2,128.2358,0.5716,0,"slide, foil",Für die Prüfung lerne ich alle Folien aus der Vorlesung.,For the exam I study all the slides from the lecture.
+1025,"das Band, -̈er",der,A2,84.7677,0.8931,0,"volume, tome",Die Geschichte von Harry Potter hat sieben Bände.,The story of Harry Potter has seven volumes.
+1270,"das Blatt, -̈er",das,A2,69.5391,0.9064,0,"sheet, leaf",Die Pflanze hat lange grüne Blätter.,The plant has long green leaves.
+1378,"der Artikel, -",der,A2,64.315,0.837,0,article,In der Zeitung steht ein interessanter Artikel über Leipzig.,The newspaper has an interesting article about Leipzig.
+2837,"die Webseite, -n",die,A2,26.8103,0.8584,0,website,Seit gestern hat unserer Universität eine neue Webseite.,Since yesterday our university has a new website.
+3057,"die Zeitschrift, -en",die,A2,24.0997,0.8846,0,"magazine, journal",Ich lese eine interessante Zeitschrift aus dem Bereich Medizin.,I’m reading an interesting magazine in the field of medicine.
+3285,"der Zettel, -",der,A2,21.6355,0.8508,0,"piece of paper, note","Ich brauche einen Zettel, um mir die Nummer aufzuschreiben.",I need a note to write down the number.
+3855,"die Tafel, -n",die,A2,17.4957,0.8818,0,"board, table",Der Lehrer schreibt die neuen Wörter an die Tafel.,The teacher writes the new words on the board.
+3862,"das Heft, -e",das,A2,17.4464,0.8153,0,notebook,"Herr Köhler hat ein Heft, in das er seine Ideen schreibt.",Mr. Köhler has a notebook in which he writes his ideas.
+4456,"das Zeugnis, -se",das,A2,14.2922,0.889,0,"report, certificate, testimony",Einen Tag vor den Ferien bekommen wir in der Schule unsere Zeugnisse.,One day before the summer break we get our report cards at school.
+4519,"die Notiz, -en",die,A2,13.9472,0.8714,0,note,"Ich schreibe mir eine Notiz, damit ich die Informationen nicht vergesse.",I’ll write a note so I don’t forget the information.
+951,Medien,die (pl),B1,91.6181,0.8847,0,media,Die Medien berichten über aktuelle Themen.,The media report on current topics.
+979,"die Tabelle, -n",die,B1,88.7104,0.8153,0,"table, chart",Die Tabelle gibt einen Überblick über die jährlichen Einnahmen und Ausgaben.,The table gives an overview of the annual income and expenses.
+1843,"die Ausgabe, -n",die,B1,45.538,0.8816,0,"distribution, edition, issue, expense",Ich kaufe die neueste Ausgabe der Zeitung.,I’m buying the latest issue of the paper.
+1963,"das Video, -s",das,B1,42.5317,0.8801,0,video,"Marlies macht ein Video von ihren Kindern, damit sie sich später an den Moment erinnern kann.",Marlies makes a video of her children so she can remember the moment later.
+2168,"das Netzwerk, -e",das,B1,37.7512,0.8793,0,network,Sie teilt das Video auf verschiedenen sozialen Netzwerken.,She shares the video on several social networks.
+2800,"die Presse, -n",die,B1,27.2538,0.8968,0,press,Die Polizei antwortet auf die Fragen der Presse.,The police are responding to questions from the press.
+2923,"der Sender, -",der,B1,25.726,0.8765,0,broadcasting station,Wir suchen im Fernsehen einen Sender für Kinder.,We’re looking for a children’s channel on TV.
+3148,"die Grafik, -en",die,B1,23.0154,0.7489,0,graphic,In der Prüfung müssen sie eine Grafik beschreiben.,They must describe a graphic in the exam.
+3229,"das Dokument, -e",das,B1,22.1776,0.8751,0,document,Lena füllt beim Amt die Dokumente für ihre staatliche Unterstützung aus.,Lena fills out the documents to apply for state support at the agency.
+4247,"das Magazin, -e",das,B1,15.2779,0.8678,0,"magazine, storehouse","Ich kaufe mir ein Magazin, damit ich auf der Fahrt mit dem Zug etwas lesen kann.",I’m buying a magazine so that I have something to read while riding on the train.
+4665,"der Beleg, -e",der,B1,13.2573,0.8648,0,"proof, evidence, receipt","An der Kasse bekomme ich einen Beleg für alles, was ich kaufe.",At the checkout I get a receipt for everything I buy.
+4746,"das Forum, -en",das,B1,12.9123,0.8626,0,"forum, audience, public discussion",Die Webseite bietet ein Forum für registrierte Nutzer.,The website offers a forum for registered users.
+4949,"die Kopie, -n",die,B1,12.0252,0.8922,0,copy,"Ich habe nur eine Kopie des Bildes, weil das Original zu teuer ist.","I only have a copy of the picture, because the original is too expensive."
+2816,"die Plattform, -en",die,B2+,27.0567,0.8551,0,platform,"Im Internet gibt es eine Plattform, um Informationen auszutauschen.",There is a platform on the internet for exchanging information.
+3011,"das Skript, -e",das,B2+,24.6911,0.6988,0,"script, lecture notes",An dem Skript zum Film arbeiten zwei Autoren zusammen.,Two authors are working together on the script for the movie.
 3675,"das Tagebuch, -̈er",das,B2+,18.6292,0.8189,0,diary,Jeden Abend schreibt Frau Höfler ihre Sorgen in ihr Tagebuch.,Every evening Mrs. Höfler writes her worries in her diary.
 3713,"das Lehrbuch, -̈er",das,B2+,18.3828,0.8134,0,textbook,Das Lehrbuch in der Schule erklärt nicht alle Themen.,The textbook at school doesn’t explain all the topics.
 3756,"die Unterlage, -n",die,B2+,18.0871,0.8875,0,"base, pad, document",Schicken Sie uns Ihre Unterlagen bitte per Post.,Please send your documents by mail.
-3825,"die Unterschrift, -en",die,A1,17.6928,0.8731,0,signature,Sie müssen den Vertrag nur noch mit Ihrer Unterschrift bestätigen.,You only have to confirm the contract with your signature.
-3855,"die Tafel, -n",die,A2,17.4957,0.8818,0,"board, table",Der Lehrer schreibt die neuen Wörter an die Tafel.,The teacher writes the new words on the board.
 3859,"die Akte, -n",die,B2+,17.4464,0.8429,0,file,"Patienten hat ihre eigenen Akten, in denen die Informationen zu ihrer Krankheit stehen.",Patients have their own files containing information about their illnesses.
-3862,"das Heft, -e",das,A2,17.4464,0.8153,0,notebook,"Herr Köhler hat ein Heft, in das er seine Ideen schreibt.",Mr. Köhler has a notebook in which he writes his ideas.
 3868,"die Schlagzeile, -n",die,B2+,17.4464,0.8196,0,"headline, caption",Die Zeitungen sind voll mit Schlagzeilen über den Skandal.,The newspapers are full of headlines about the scandal.
 3889,der Rundfunk,der,B2+,17.2985,0.6729,0,broadcast,Zum Rundfunk gehören Radio und Fernsehen.,Broadcasting includes radio and television.
 3905,"die Nachrichtenagentur, -en",die,B2+,17.1014,0.7708,0,news agency,Die Nachrichtenagentur sammelt Informationen und gibt diese an die Presse weiter.,The news agency collects information and passes it on to the press.
 4006,"das Manuskript, -e",das,B2+,16.6086,0.7631,0,manuscript,Vor der Rede lese ich mir nochmal das Manuskript durch.,"Before the speech, I’m going to read the manuscript again."
 4072,"die Redaktion, -en",die,B2+,16.2636,0.8813,0,"editorial work, editorial staff",Ich arbeite bei der Redaktion einer Zeitung.,I work at the editorial department of a newspaper.
-4247,"das Magazin, -e",das,B1,15.2779,0.8678,0,"magazine, storehouse","Ich kaufe mir ein Magazin, damit ich auf der Fahrt mit dem Zug etwas lesen kann.",I’m buying a magazine so that I have something to read while riding on the train.
 4305,"die Bibel, -n",die,B2+,14.9329,0.7968,0,Bible,"Die Bibel ist eine Sammlung von Schriften, die unter anderem als Grundlage des Christentums dienen.","The Bible is a collection of writings that serve, among other things, as the basis of Christianity."
 4360,"das Profil, -e",das,B2+,14.6865,0.8519,0,profile,"Wenn du deinen Kopf drehst, können alle dein schönes Profil sehen.","If you turn your head, everyone can see your beautiful profile."
 4447,"das Diagramm, -e",die,B2+,14.2922,0.7407,0,diagram,"Wir lernen gerade, wie man die Informationen aus einem Diagramm interpretiert.",We’re learning how to interpret the information from a diagram.
-4456,"das Zeugnis, -se",das,A2,14.2922,0.889,0,"report, certificate, testimony",Einen Tag vor den Ferien bekommen wir in der Schule unsere Zeugnisse.,One day before the summer break we get our report cards at school.
 4458,"die App, -s",die,B2+,14.2429,0.7907,0,app,Manche Apps auf dem Handy sind sehr nützlich im Alltag.,Some apps on your mobile phone are very useful in everyday life.
 4503,"das Exemplar, -e",das,B2+,14.0458,0.8874,0,"copy, piece",Ich habe mir ein neues Exemplar von dem Buch gekauft.,I bought a new copy of the book.
-4519,"die Notiz, -en",die,A2,13.9472,0.8714,0,note,"Ich schreibe mir eine Notiz, damit ich die Informationen nicht vergesse.",I’ll write a note so I don’t forget the information.
 4568,"das TV, -s",das,B2+,13.7501,0.8085,0,TV,Heute kommt wieder ein guter Film im TV.,There’s another good movie on TV today.
 4586,"die Tageszeitung, -en",die,B2+,13.6515,0.8658,0,daily newspaper,In der Tageszeitung informiere ich mich jeden Tag über aktuelle Themen.,Every day I inform myself about current topics in the daily newspaper.
-4665,"der Beleg, -e",der,B1,13.2573,0.8648,0,"proof, evidence, receipt","An der Kasse bekomme ich einen Beleg für alles, was ich kaufe.",At the checkout I get a receipt for everything I buy.
-4746,"das Forum, -en",das,B1,12.9123,0.8626,0,"forum, audience, public discussion",Die Webseite bietet ein Forum für registrierte Nutzer.,The website offers a forum for registered users.
-4769,"das Ticket, -s",das,A1,12.863,0.8467,0,ticket,"Bevor das Stück startet, kaufen wir Tickets an der Kasse im Theater.","Before the play starts, we buy tickets at the box office in the theater."
-4949,"die Kopie, -n",die,B1,12.0252,0.8922,0,copy,"Ich habe nur eine Kopie des Bildes, weil das Original zu teuer ist.","I only have a copy of the picture, because the original is too expensive."

@@ -1,12 +1,12 @@
 rank,word,pos,level,freq_per_million,dispersion,has_conjugation,definition,example_de,example_en
-540,"der Tod, -e",der,B1,158.0031,0.9139,0,death,Der Tod ihrer Mutter ist lange her.,Her mom’s death was a long time ago.
 775,der Alter,das,A1,110.5923,0.9348,0,age,"Obwohl sie schon 80 Jahre alt ist, sieht man ihr ihr Alter nicht an.","Although she’s already 80 years old, she doesn’t look her age."
+540,"der Tod, -e",der,B1,158.0031,0.9139,0,death,Der Tod ihrer Mutter ist lange her.,Her mom’s death was a long time ago.
 2096,"die Geburt, -en",die,B1,39.0326,0.8715,0,birth,Sie sind gut auf die Geburt ihres Kindes vorbereitet.,They are well prepared for the birth of their child.
 2117,die Jugend,die,B1,38.6383,0.9095,0,youth,In der Jugend ist man weder Kind noch Erwachsener.,"In youth, you’re neither a child nor an adult."
 2321,"die Ehe, -n",die,B1,34.4985,0.8749,0,marriage,In vielen Ländern sind gleichgeschlechtliche Ehen nicht erlaubt.,In many countries same-sex marriages are not allowed.
 2323,die Kindheit,die,B1,34.3506,0.8843,0,childhood,Günter hat seine Kindheit auf dem Land verbracht.,Günter spent his childhood in the countryside.
 2334,"die Existenz, -en",die,B1,34.2028,0.9219,0,existence,Die Existenz vieler wilder Tiere ist bedroht.,The existence of many wild animals is threatened.
 2443,"das Geschlecht, -er",das,B1,32.2807,0.8551,0,"sex, gender",Wisst ihr das Geschlecht des Babys schon?,Do you know the gender of the baby yet?
+4495,"die Schwangerschaft, -en",die,B1,14.0951,0.8029,0,pregnancy,"Während der Schwangerschaft trinke ich keinen Alkohol, weil es schlecht für mein Kind ist.",I don’t drink alcohol during pregnancy because it’s bad for my child.
 3125,"der Suizid, -e",der,B2+,23.3111,0.2547,0,suicide,Menschen mit psychischen Problemen begehen öfter Suizid als gesunde Menschen.,People with mental health problems commit suicide more often than healthy people.
 3485,der Sex,der,B2+,20.0584,0.8673,0,sex,Sie hat Sex und wird schwanger.,She has sex and gets pregnant.
-4495,"die Schwangerschaft, -en",die,B1,14.0951,0.8029,0,pregnancy,"Während der Schwangerschaft trinke ich keinen Alkohol, weil es schlecht für mein Kind ist.",I don’t drink alcohol during pregnancy because it’s bad for my child.

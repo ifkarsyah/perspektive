@@ -1,14 +1,14 @@
 rank,word,pos,level,freq_per_million,dispersion,has_conjugation,definition,example_de,example_en
 1293,"das Gericht, -e",das,A2,68.3563,0.8856,0,"court, dish",Sie ist Richterin und arbeitet am Gericht.,She’s a judge and works at the court.
+1663,"das Büro, -s",das,A2,51.5013,0.9063,0,office,Ludwig bekommt in der Firma ein neues Büro.,Ludwig gets a new office in the company.
+3472,"die Werkstatt, -̈en",die,A2,20.157,0.8584,0,"workshop, garage",Sie stellen Tische und Stühle aus Holz in ihrer Werkstatt her.,They produce wooden tables and chairs in their workshop.
+3960,"das Rathaus, -̈er",das,A2,16.855,0.8377,0,town hall,Das Rathaus befindet sich im Zentrum der Stadt.,The town hall is located in the center of the city.
+4016,"die Baustelle, -n",die,A2,16.51,0.8676,0,"building site, construction site","Wir bauen ein neues Haus, aber jetzt ist es noch eine Baustelle.","We’re building a new house, but it’s just a construction site now."
 1386,"das Gebäude, -",das,B1,64.1179,0.9102,0,building,In diesem Gebäude befindet sich die Universität.,The university is located in this building.
 1559,"das Lager, -",das,B1,56.0847,0.8791,0,"camp, storeroom",Vielleicht finde ich das Produkt noch in unserem Lager.,Maybe I can still find the product in our warehouse.
 1598,"der Bau, -ten",der,B1,54.1626,0.9152,0,"construction, building",Der Bau der neuen Oper kostet mehrere Millionen.,The construction of the new opera house will cost several million.
-1663,"das Büro, -s",das,A2,51.5013,0.9063,0,office,Ludwig bekommt in der Firma ein neues Büro.,Ludwig gets a new office in the company.
 1848,"die Anlage, -n",die,B1,45.4394,0.9122,0,"facility, complex, investment, attachment",Sie bauen eine neue Sportanlage neben der Universität.,They are building a new sports facility next to the university.
 2523,"das Gefängnis, -se",das,B1,31.1472,0.8727,0,prison,Das Gericht verurteilt ihn zu zehn Jahren Gefängnis.,The court sentences him to ten years in prison.
-3472,"die Werkstatt, -̈en",die,A2,20.157,0.8584,0,"workshop, garage",Sie stellen Tische und Stühle aus Holz in ihrer Werkstatt her.,They produce wooden tables and chairs in their workshop.
 3851,"die Fabrik, -en",die,B1,17.4957,0.8862,0,factory,In der Fabrik laufen die Maschinen 24 Stunden am Tag.,The machines run 24 hours a day in the factory.
-3960,"das Rathaus, -̈er",das,A2,16.855,0.8377,0,town hall,Das Rathaus befindet sich im Zentrum der Stadt.,The town hall is located in the center of the city.
-4016,"die Baustelle, -n",die,A2,16.51,0.8676,0,"building site, construction site","Wir bauen ein neues Haus, aber jetzt ist es noch eine Baustelle.","We’re building a new house, but it’s just a construction site now."
 4175,"das Kraftwerk, -e",das,B1,15.6229,0.7663,0,power plant,"Wenn die Kraftwerke ausfallen, haben wir keinen Strom.","If the power plants fail, we’ll have no power."
 4944,"der Tatort, -e",der,B2+,12.0745,0.7753,0,crime scene,Die Polizei untersucht den Tatort auf Spuren.,Police are investigating the crime scene for clues.

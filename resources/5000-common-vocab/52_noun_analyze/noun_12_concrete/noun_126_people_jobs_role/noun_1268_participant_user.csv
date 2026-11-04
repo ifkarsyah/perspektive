@@ -2,19 +2,19 @@ rank,word,pos,level,freq_per_million,dispersion,has_conjugation,definition,examp
 519,"der Kunde, -n",der,A1,163.9171,0.8335,0,"customer, client",Es kommen viele Kunden in seinen Laden.,Many customers come to his shop.
 556,"der Schüler, -",der,A1,155.2925,0.8043,0,"pupil, student (USA)",Die Schüler bereiten sich auf die Prüfungen vor.,The students prepare for their exams.
 1017,"der Student, -en",der,A1,85.3591,0.8931,0,student,Tim ist Student an der Universität Leipzig.,Tim is a student at the University of Leipzig.
+3280,"der Empfänger, -",der,A1,21.6355,0.5556,0,recipient,Der Empfänger des Pakets ist nicht zu Hause.,The recipient of the package is not at home.
 1318,"der Tourist, -en",der,A2,67.1242,0.7698,0,tourist,Jedes Jahr besuchen tausende Touristen Berlin.,Thousands of tourists visit Berlin every year.
 1369,"der Besucher, -",der,B1,65.005,0.84,0,visitor,Heute sind wir die einzigen Besucher im Museum.,Today we are the only visitors to the museum.
 1410,"der Zuschauer, -",der,B1,63.083,0.854,0,spectator,Bei meiner mündlichen Prüfung möchte ich keine Zuschauer.,I don’t want any spectators at my oral exam.
 1533,"der Leser, -",der,B1,57.1689,0.8463,0,reader,Die Leserinnen und Leser dieser Zeitung kommen aus einer gebildeten Schicht.,The readers of this newspaper are from an educated class.
 1920,"der Teilnehmer, -",der,B1,43.5174,0.8829,0,participant,Die Teilnehmer des Experiments dürfen nicht über den Vorgang sprechen.,The participants of the experiment are not allowed to talk about the process.
 2322,"der Passagier, -e",der,B1,34.3999,0.794,0,passenger,In das Flugzeug passen 300 Passagiere.,The plane can carry 300 passengers.
+3670,"der Hörer, -",der,B1,18.6292,0.8446,0,"listener, receiver",Die Hörer können beim Radio anrufen und sich ein Lied wünschen.,The listeners can call the radio and request a song.
+4248,"der Zuhörer, -",der,B1,15.2779,0.8847,0,"listener, audience (pl)",In dem Vortrag des berühmten Managers sitzen über 300 Zuhörer.,Over 300 listeners are sitting in the lecture of the famous CEO.
 2940,"der Nutzer, -",der,B2+,25.5289,0.8108,0,user,Jeder Nutzer muss monatlich 40 Euro bezahlen.,Each user must pay 40 euros per month.
-3280,"der Empfänger, -",der,A1,21.6355,0.5556,0,recipient,Der Empfänger des Pakets ist nicht zu Hause.,The recipient of the package is not at home.
 3573,"der Urlauber, -",der,B2+,19.3192,0.5405,0,vacationer,Für Urlauber mit Flugangst empfehlen sich Plätze in den vorderen Reihen der Maschine.,For vacationers with fear of flying we recommend seats in the front rows of the airplane.
 3599,"der Proband, -en",der,B2+,19.122,0.6169,0,"subject, test person",Sie suchen nach Probanden für die Studie.,They’re looking for subjects for the study.
-3670,"der Hörer, -",der,B1,18.6292,0.8446,0,"listener, receiver",Die Hörer können beim Radio anrufen und sich ein Lied wünschen.,The listeners can call the radio and request a song.
 3908,"der Beobachter, -",der,B2+,17.0521,0.8738,0,observer,Mehrere unabhängige Beobachter erklärten die Wahl für ungültig.,Various independent observers declared the election invalid.
-4248,"der Zuhörer, -",der,B1,15.2779,0.8847,0,"listener, audience (pl)",In dem Vortrag des berühmten Managers sitzen über 300 Zuhörer.,Over 300 listeners are sitting in the lecture of the famous CEO.
 4428,"die Versuchsperson, -en",die,B2+,14.3908,0.3904,0,test subject,Für einen Test brauchen wir noch fünf Versuchspersonen.,We need five more test subjects for one test.
 4432,"der Autofahrer, -",der,B2+,14.3415,0.8225,0,"driver, motorist",Trotz der großen Belastung für die Umwelt gibt es in Deutschland immer mehr Autofahrer.,"Despite the great burden on the environment, there are more and more motorists in Germany."
 4641,"der Benutzer, -",der,B2+,13.3558,0.713,0,user,Als Benutzer dieser Seite muss ich mich registrieren.,As a user of this page I have to register.

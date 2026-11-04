@@ -1,13 +1,13 @@
 rank,word,pos,level,freq_per_million,dispersion,has_conjugation,definition,example_de,example_en
+4774,"das Fieber, -",das,A1,12.8137,0.8458,0,fever,"Weil das Kind Fieber hat, muss es Medikamente nehmen.","Because the kid has a fever, he has to take medicine."
 1132,"die Krankheit, -en",die,A2,76.6359,0.8133,0,"illness, disease",Er hat eine seltene Krankheit.,He has a rare disease.
 1483,"der Schmerz, -en",der,A2,59.3374,0.8871,0,"pain, grief",Der Patient hat starke Schmerzen und schreit.,The patient’s in a lot of pain and is screaming.
-1918,"die Erkrankung, -en",die,B1,43.5174,0.7216,0,"illness, disease",Das frühe Erkennen von Erkrankungen kann Leben retten.,The early detection of diseases can save lives.
 1955,"der Unfall, -̈e",der,A2,42.7288,0.8805,0,accident,Ich hatte einen Unfall mit dem Auto und liege jetzt im Krankenhaus.,I had an accident with my car and I’m in the hospital.
+1918,"die Erkrankung, -en",die,B1,43.5174,0.7216,0,"illness, disease",Das frühe Erkennen von Erkrankungen kann Leben retten.,The early detection of diseases can save lives.
 2039,"die Verletzung, -en",die,B1,40.4618,0.8762,0,injury,Wegen ihrer schweren Verletzungen muss Karolin ins Krankenhaus.,"Because of her serious injuries, Karolin has to go to the hospital."
+4082,"die Infektion, -en",die,B1,16.2143,0.6827,0,infection,Sie untersuchen ihr Blut auf Anzeichen einer Infektion.,They’re checking her blood for signs of infection.
 3030,"das Symptom, -e",das,B2+,24.5432,0.7599,0,symptom,Jede Krankheit hat spezifische Symptome.,Each disease has specific symptoms.
 3228,"die Behinderung, -en",die,B2+,22.1776,0.7862,0,"obstruction, handicap",Die großen Steine auf der Straße stellen eine Behinderung für die Fahrer dar.,The large stones on the road are a hindrance for the drivers.
 3344,"die Depression, -en",die,B2+,21.0934,0.7506,0,depression,Menschen mit Depression können Hilfe in einer Therapie finden.,People suffering from depression can find help in therapy.
 3813,"der Krebs, -e",der,B2+,17.7421,0.8399,0,cancer,Jährlich erkranken viele Menschen an Krebs.,Many people contract cancer every year.
-4082,"die Infektion, -en",die,B1,16.2143,0.6827,0,infection,Sie untersuchen ihr Blut auf Anzeichen einer Infektion.,They’re checking her blood for signs of infection.
 4326,der Diabetes,der,B2+,14.7851,0.63,0,diabetes,"Mein Vater hat Diabetes und muss immer darauf achten, was er isst.",My father has diabetes and always has to watch what he eats.
-4774,"das Fieber, -",das,A1,12.8137,0.8458,0,fever,"Weil das Kind Fieber hat, muss es Medikamente nehmen.","Because the kid has a fever, he has to take medicine."

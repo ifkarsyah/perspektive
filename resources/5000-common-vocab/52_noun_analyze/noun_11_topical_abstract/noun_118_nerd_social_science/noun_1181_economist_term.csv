@@ -16,8 +16,10 @@ rank,word,pos,level,freq_per_million,dispersion,has_conjugation,definition,examp
 2424,"die Beschäftigung, -en",die,B1,32.6257,0.8423,0,"employment, work, job, pursuit","Ich suche eine Beschäftigung für die Zeit, wenn ich nicht mehr arbeiten gehe.",I’m looking for a pursuit for when I’m no longer working.
 2450,"die Bilanz, -en",die,B1,32.1822,0.8431,0,"balance (sheet), result",Am Ende des Jahres wird die Bilanz hoffentlich positiv sein.,"At the end of the year, the balance hopefully will be positive."
 2482,"die Innovation, -en",die,B1,31.7879,0.5397,0,innovation,Innovation ist nur ein Bestandteil von anhaltendem Wachstum.,Innovation is only one component of sustained growth.
-2548,"der Arbeitsmarkt, -̈e",der,B2+,30.7529,0.7748,0,labor market,Frauen mit Kindern haben auf dem Arbeitsmarkt schlechtere Chancen.,Women with children have worse chances on the labor market.
 2550,"der Bedarf, -e",der,B1,30.7037,0.9008,0,"need, demand",Der Bedarf an qualifiziertem Personal ist schwer zu decken.,The demand for qualified employees is difficult to meet.
+2874,"die Einnahme, -n",die,B1,26.3667,0.8508,0,"income, receipts, revenue","Das Unternehmen hat genug Einnahmen, um eine neue Maschine zu kaufen.",The company has enough income to buy a new machine.
+3399,"die Vermittlung, -en",die,B1,20.7484,0.8076,0,"negotiation, placement, mediation",Die Agentur für Arbeit ist für die Vermittlung von Arbeitsplätzen zuständig.,The employment agency is responsible for work placement.
+2548,"der Arbeitsmarkt, -̈e",der,B2+,30.7529,0.7748,0,labor market,Frauen mit Kindern haben auf dem Arbeitsmarkt schlechtere Chancen.,Women with children have worse chances on the labor market.
 2568,"die Herstellung, -en",die,B2+,30.4572,0.8389,0,production,Die Herstellung des Produkts besteht aus mehreren Schritten.,The production of the product consists of various steps.
 2572,"die Versorgung, -en",die,B2+,30.3587,0.8529,0,"supply, care",In vielen Ländern ist die medizinische Versorgung schlecht.,Medical care is poor in many countries.
 2592,"der Abbau, -e",der,B2+,30.063,0.6316,0,"reduction, decline, mining",Der Abbau von Metallen ist ein wichtiger wirtschaftlicher Faktor in westafrikanischen Ländern.,The mining of metals is an important economic factor in West African countries.
@@ -26,7 +28,6 @@ rank,word,pos,level,freq_per_million,dispersion,has_conjugation,definition,examp
 2806,EZB (Europäische Zentralbank),die,B2+,27.106,0.6585,0,European Central Bank,Die Europäische Zentralbank ist die Zentralbank der Mitgliedsstaaten der Europäischen Union.,The European Central Bank is the central bank of the member states of the European Union.
 2813,"die Finanzierung, -en",die,B2+,27.0567,0.8468,0,financing,Die langfristige Finanzierung unseres Hauses scheint gesichert zu sein.,The long-term financing of our house seems to be secured.
 2871,"das Wirtschaftsforum, -s",das,B2+,26.416,0.4778,0,economic forum,Das jährliche Wirtschaftsforum bietet Gelegenheit für einen Austausch zwischen Unternehmen.,The annual economic forum offers an opportunity for an exchange between companies.
-2874,"die Einnahme, -n",die,B1,26.3667,0.8508,0,"income, receipts, revenue","Das Unternehmen hat genug Einnahmen, um eine neue Maschine zu kaufen.",The company has enough income to buy a new machine.
 2897,"die Volkswirtschaft, -en",die,B2+,26.071,0.5223,0,national economy,Die Volkswirtschaft beschäftigt sich mit der Wirtschaft eines ganzen Landes.,The national economy deals with the economy of a whole country.
 3184,"die Börse, -n",die,B2+,22.6212,0.7687,0,stock market,Die politische Entscheidung hat positive Auswirkungen auf die Börse.,The political decision has positive effects on the stock market.
 3238,"der Posten, -",der,B2+,22.1283,0.8504,0,"post, position",Sie hat alle notwendigen Qualifikationen für den Posten.,She has all the necessary qualifications for the position.
@@ -35,7 +36,6 @@ rank,word,pos,level,freq_per_million,dispersion,has_conjugation,definition,examp
 3328,"der Zinssatz, -̈e",der,B2+,21.2412,0.5278,0,interest rate,Die Zentralbank hebt den Zinssatz.,The central bank raises the interest rate.
 3334,"die Abschreibung, -en",die,B2+,21.1426,0.6381,0,"deduction, depreciation",Der Berater für Steuern erklärt die lineare Abschreibung.,The tax consultant explains straight-line depreciation.
 3376,"die Zielgruppe, -n",die,B2+,20.8962,0.5108,0,target group,"Bevor wir Ideen für das neue Produkt sammeln, legen wir die Zielgruppe fest.","Before we collect ideas for the new product, we determine the target group."
-3399,"die Vermittlung, -en",die,B1,20.7484,0.8076,0,"negotiation, placement, mediation",Die Agentur für Arbeit ist für die Vermittlung von Arbeitsplätzen zuständig.,The employment agency is responsible for work placement.
 3400,der Wohlstand,der,B2+,20.7484,0.851,0,"prosperity, wealth",Schreckliche Armut und großer Wohlstand bestehen nebeneinander in der Stadt.,Terrible poverty and great wealth exist in the city side by side.
 3552,"die Übernahme, -n",die,B2+,19.467,0.8575,0,takeover,Die Chefs organisieren die Übernahme des Konzerns durch eine große Firma.,The heads organize the takeover of the group by a large company.
 3656,"die Abgabe, -n",die,B2+,18.7278,0.7958,0,"delivery, handing in",Die Abgabe des Textes ist noch bis nächste Woche möglich.,The handing in of the text is still possible until next week.

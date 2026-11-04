@@ -1,14 +1,14 @@
 rank,word,pos,level,freq_per_million,dispersion,has_conjugation,definition,example_de,example_en
-455,"die Energie, -n",die,B1,180.9692,0.7683,0,energy,Eine Familie nutzt jeden Tag eine Menge Energie.,A family uses a lot of energy every day.
-574,Daten,die (pl),B1,150.4134,0.8082,0,data,Er überprüft die Daten seines Experiments.,He’s checking the data from his experiment.
+864,"die Sonne, -n",die,A1,100.3906,0.8941,0,sun,Du solltest deine Haut vor der Sonne schützen.,You should protect your skin from the sun.
 592,"die Zelle, -n",die,A2,145.8793,0.6873,0,cell,Menschen und Tiere bestehen aus Zellen.,Humans and animals consist of cells.
 651,"das Molekül, -e",das,A2,134.002,0.6764,0,molecule,Ein Molekül besteht aus Atomen.,A molecule consists of atoms.
 699,"das Element, -e",das,A2,126.8066,0.7475,0,element,Kohlenstoffdioxid ist ein chemisches Element.,Carbon dioxide is a chemical element.
-783,"die Erde, -n",die,B1,109.6066,0.903,0,"earth, ground, soil",Die Erde wird auch blauer Planet genannt.,Earth is also called the blue planet.
 812,"das Elektron, -en",das,A2,106.3539,0.6544,0,electron,In Chemie sprechen wir viel über Elektronen.,In chemistry we talk a lot about electrons.
-864,"die Sonne, -n",die,A1,100.3906,0.8941,0,sun,Du solltest deine Haut vor der Sonne schützen.,You should protect your skin from the sun.
 900,"das Atom, -e",das,A2,96.6943,0.6408,0,atom,Atome bestehen aus kleinen Teilchen.,Atoms consist of small particles.
 984,"das Protein, -e",das,A2,88.119,0.4576,0,protein,Fleisch und Fisch sind eine wesentliche Quelle für Protein.,Meat and fish are an essential source of protein.
+455,"die Energie, -n",die,B1,180.9692,0.7683,0,energy,Eine Familie nutzt jeden Tag eine Menge Energie.,A family uses a lot of energy every day.
+574,Daten,die (pl),B1,150.4134,0.8082,0,data,Er überprüft die Daten seines Experiments.,He’s checking the data from his experiment.
+783,"die Erde, -n",die,B1,109.6066,0.903,0,"earth, ground, soil",Die Erde wird auch blauer Planet genannt.,Earth is also called the blue planet.
 1136,"die Substanz, -en",die,B1,76.1924,0.7993,0,substance,Die Polizei findet illegale Substanzen in seinem Auto.,The police find illegal substances in his car.
 1180,"die Gleichung, -en",die,B1,73.6789,0.7127,0,equation,Die Lehrerin erklärt die chemische Gleichung.,The teacher explains the chemical equation.
 1249,"das Teilchen, -",das,B1,70.6233,0.5984,0,particle,Die kleinen Teilchen kann man nicht mit den Augen erkennen.,The small particles cannot be seen with the naked eye.
@@ -43,20 +43,20 @@ rank,word,pos,level,freq_per_million,dispersion,has_conjugation,definition,examp
 2440,"der Winkel, -",der,B1,32.3793,0.82,0,"angle, corner",Ein Quadrat hat vier gleiche Winkel.,A square has four equal angles.
 2449,"die Base, -n",die,B1,32.1822,0.6688,0,"base, alkali",Basen haben einen pH-Wert von mehr als 7.,Alkalis have a pH value of more than 7.
 2500,"das Spektrum, -en",das,B1,31.5415,0.6983,0,spectrum,Das Spektrum an Möglichkeiten ist endlos.,The spectrum of possibilities is endless.
+2720,"das Virus, -en",das,B1,28.338,0.5537,0,virus,Das Virus wird über den Kontakt übertragen.,The virus is transmitted through contact.
+3005,"der Mond, -e",der,B1,24.7403,0.8255,0,moon,Der Mond bewegt sich um die Erde.,The moon moves around the earth.
+3146,"das Klima, -s",das,B1,23.0647,0.8958,0,climate,Das Klima bestimmt das Wetter eines Landes.,The climate determines the weather of a country.
 2536,"die Materie, -n",die,B2+,30.9501,0.5926,0,matter,"Materie ist eine Substanz, die flüssig oder aus Gas sein kann.",Matter is a substance that can be liquid or gas.
 2539,"die Frequenz, -en",die,B2+,30.8515,0.66,0,frequency,Auf welcher Frequenz liegt dieser Sender?,What’s the frequency of this station?
 2690,"der Rezeptor, -en",der,B2+,28.7323,0.5806,0,receptor,Der Rezeptor ist ein Teil von einem Nerv und reagiert auf Reize wie Hitze oder Kälte.,The receptor is part of the nerve and responds to stimuli such as heat or cold.
 2719,"die Strahlung, -en",die,B2+,28.338,0.6416,0,radiation,Die Strahlung der Sonne ist bereits im Frühjahr sehr intensiv.,The sun’s radiation is already very intense in spring.
-2720,"das Virus, -en",das,B1,28.338,0.5537,0,virus,Das Virus wird über den Kontakt übertragen.,The virus is transmitted through contact.
 2744,"der Planet, -en",der,B2+,27.9931,0.8469,0,planet,Die Ressourcen auf unserem Planeten sind knapp.,The resources on our planet are scarce.
 2748,"der Parameter, -",der,B2+,27.9438,0.7364,0,parameter,Die Ergebnisse liegen innerhalb akzeptabler Parameter.,The results are within acceptable parameters.
 2756,"das Proton, -en",das,B2+,27.7959,0.683,0,proton,Ein Proton ist ein Teilchen mit einer positiven elektrischen Ladung.,A proton is a particle with a positive electrical charge.
 2810,"die Wellenlänge, -n",die,B2+,27.106,0.6289,0,wavelength,"Tom und ich sind auf der gleichen Wellenlänge, deswegen verstehen wir uns so gut.","Tom and I are on the same wavelength, that’s why we get along so well."
 2847,"das Gewebe, -",das,B2+,26.6624,0.747,0,"fabric, tissue",Der Arzt untersucht das menschliche Gewebe nach Schäden.,The doctor examines the human tissue for damage.
-3005,"der Mond, -e",der,B1,24.7403,0.8255,0,moon,Der Mond bewegt sich um die Erde.,The moon moves around the earth.
 3087,"die Substitution, -en",die,B2+,23.804,0.472,0,"substitution, replacement","Eine Substitution kann erfolgen, wenn vorausbezahlt wird.",A replacement is possible if paid in advance.
 3142,der Wasserstoff,der,B2+,23.114,0.6451,0,hydrogen,"Wasserstoff ist ein chemisches Element, das mit Sauerstoff zusammen Wasser ergibt.","Hydrogen is a chemical element which, together with oxygen, produces water."
-3146,"das Klima, -s",das,B1,23.0647,0.8958,0,climate,Das Klima bestimmt das Wetter eines Landes.,The climate determines the weather of a country.
 3151,"die Software, -s",die,B2+,23.0154,0.8142,0,software,Dein Computer braucht eine neue Software.,Your computer needs new software.
 3191,"die Fettsäure, -n",die,B2+,22.5719,0.4357,0,fatty acid,Omega-3-Fettsäuren sind sehr gut für das Herz.,Omega-3 fatty acids are very good for the heart.
 3231,"die Varianz, -en",die,B2+,22.1776,0.3382,0,variance,Die Studenten sollen den Mittelwert und die Varianz berechnen.,The students are supposed to calculate the mean value and the variance.

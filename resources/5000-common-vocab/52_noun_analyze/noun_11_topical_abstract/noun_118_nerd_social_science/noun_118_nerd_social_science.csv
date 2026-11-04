@@ -3,6 +3,7 @@ rank,word,pos,level,freq_per_million,dispersion,has_conjugation,definition,examp
 777,SPD (Sozialdemokratische Partei Deutschlands),die,A2,110.5923,0.6909,0,SPD,Die SPD will ein neues Gesetz einführen.,The SPD wants to introduce a new law.
 894,CDU (Christlich Demokratische Union Deutschlands),die,A2,97.2365,0.6599,0,CDU,Sie hat die CDU gewählt.,She voted for the CDU.
 946,BGB (Bürgerliches Gesetzbuch),das,A2,92.2095,0.3747,0,civil code,Der Anwalt bezieht sich in diesem Fall auf das BGB.,"In this case, the lawyer refers to the German civil code."
+1655,"das Reich, -e",das,A2,51.9449,0.7908,0,"empire, kingdom",Die Studenten hören einen Beitrag über das Römische Reich.,The students listen to a piece about the Roman Empire.
 947,"die Nachfrage, -n",die,B1,92.2095,0.6694,0,demand,Die Nachfrage nach lokalen Lebensmitteln ist enorm.,The demand for local food is enormous.
 1020,das Grüne,die,B1,85.0634,0.6677,0,the Greens,Die Partei “Bündnis 90/die Grünen” wurde 1993 in Leipzig gegründet.,The party “Bündnis 90/die Grünen” was founded in Leipzig in 1993.
 1024,"die Maßnahme, -n",die,B1,84.8663,0.8942,0,measure,Diese Maßnahmen sollen die Sicherheit erhöhen.,These measures are intended to increase safety.
@@ -12,7 +13,6 @@ rank,word,pos,level,freq_per_million,dispersion,has_conjugation,definition,examp
 1496,"der Konzern, -e",der,B1,58.401,0.7666,0,corporation,Die Firma wurde von einem großen Konzern übernommen.,The company was taken over by a large corporation.
 1579,AfD (Alternative für Deutschland),die,B1,54.9512,0.6379,0,"AfD, Alternative für Deutschland",Seit den Wahlen 2017 ist die Partei AfD im deutschen Parlament.,"Since the 2017 elections, the AFD party has been in the German parliament."
 1586,"die Bestimmung, -en",die,B1,54.5569,0.8319,0,"regulation, purpose, fate",Für diesen Fall gibt es keine gesetzlichen Bestimmungen.,There are no legal regulations in this case.
-1655,"das Reich, -e",das,A2,51.9449,0.7908,0,"empire, kingdom",Die Studenten hören einen Beitrag über das Römische Reich.,The students listen to a piece about the Roman Empire.
 1710,"der Umsatz, -̈e",der,B1,49.875,0.8162,0,"turnover, sales","Durch Werbung versuchen wir, den Umsatz unseres Geschäfts zu steigern.",We try to increase the turnover of our business through advertising.
 1711,"der Verband, -̈e",der,B1,49.875,0.8674,0,"association, bandage",Das Kind bekommt im Krankenhaus einen neuen Verband um seinen Arm.,The child gets a new bandage around his arm in the hospital.
 1713,"die Regelung, -en",die,B1,49.7764,0.8229,0,"regulation, settlement","Eine neue Regelung besagt, dass Jugendliche mit ihren Eltern schon mit 17 Jahren Auto fahren dürfen.",A new regulation states that young people are allowed to drive a car with their parents at the age of 17.
@@ -41,8 +41,10 @@ rank,word,pos,level,freq_per_million,dispersion,has_conjugation,definition,examp
 2450,"die Bilanz, -en",die,B1,32.1822,0.8431,0,"balance (sheet), result",Am Ende des Jahres wird die Bilanz hoffentlich positiv sein.,"At the end of the year, the balance hopefully will be positive."
 2476,"die Fraktion, -en",die,B1,31.8372,0.6571,0,parliamentary party,Es gibt verschiedene Meinungen innerhalb der Fraktion.,There are different opinions within the parliamentary party.
 2482,"die Innovation, -en",die,B1,31.7879,0.5397,0,innovation,Innovation ist nur ein Bestandteil von anhaltendem Wachstum.,Innovation is only one component of sustained growth.
-2548,"der Arbeitsmarkt, -̈e",der,B2+,30.7529,0.7748,0,labor market,Frauen mit Kindern haben auf dem Arbeitsmarkt schlechtere Chancen.,Women with children have worse chances on the labor market.
 2550,"der Bedarf, -e",der,B1,30.7037,0.9008,0,"need, demand",Der Bedarf an qualifiziertem Personal ist schwer zu decken.,The demand for qualified employees is difficult to meet.
+2874,"die Einnahme, -n",die,B1,26.3667,0.8508,0,"income, receipts, revenue","Das Unternehmen hat genug Einnahmen, um eine neue Maschine zu kaufen.",The company has enough income to buy a new machine.
+3399,"die Vermittlung, -en",die,B1,20.7484,0.8076,0,"negotiation, placement, mediation",Die Agentur für Arbeit ist für die Vermittlung von Arbeitsplätzen zuständig.,The employment agency is responsible for work placement.
+2548,"der Arbeitsmarkt, -̈e",der,B2+,30.7529,0.7748,0,labor market,Frauen mit Kindern haben auf dem Arbeitsmarkt schlechtere Chancen.,Women with children have worse chances on the labor market.
 2568,"die Herstellung, -en",die,B2+,30.4572,0.8389,0,production,Die Herstellung des Produkts besteht aus mehreren Schritten.,The production of the product consists of various steps.
 2572,"die Versorgung, -en",die,B2+,30.3587,0.8529,0,"supply, care",In vielen Ländern ist die medizinische Versorgung schlecht.,Medical care is poor in many countries.
 2584,"die Kommission, -en",die,B2+,30.1615,0.8403,0,"commission, committee",Eine unabhängige Kommission beobachtet den Wahlprozess.,An independent commission observes the electoral process.
@@ -62,7 +64,6 @@ rank,word,pos,level,freq_per_million,dispersion,has_conjugation,definition,examp
 2822,"der Bundesrat, -̈e",der,B2+,26.9581,0.7542,0,Bundesrat,Im Bundesrat werden wichtige Entscheidungen für das Land getroffen.,The Bundesrat makes important decisions for the country.
 2850,"die Anordnung, -en",die,B2+,26.6131,0.8223,0,order,Der Prozess beginnt mit einer Anordnung des Richters.,The trial begins with an order from the judge.
 2871,"das Wirtschaftsforum, -s",das,B2+,26.416,0.4778,0,economic forum,Das jährliche Wirtschaftsforum bietet Gelegenheit für einen Austausch zwischen Unternehmen.,The annual economic forum offers an opportunity for an exchange between companies.
-2874,"die Einnahme, -n",die,B1,26.3667,0.8508,0,"income, receipts, revenue","Das Unternehmen hat genug Einnahmen, um eine neue Maschine zu kaufen.",The company has enough income to buy a new machine.
 2897,"die Volkswirtschaft, -en",die,B2+,26.071,0.5223,0,national economy,Die Volkswirtschaft beschäftigt sich mit der Wirtschaft eines ganzen Landes.,The national economy deals with the economy of a whole country.
 2928,"die Klage, -n",die,B2+,25.6767,0.8504,0,"complaint, lawsuit",Vor Gericht wird Klage gegen den Täter erhoben.,The offender is charged with a lawsuit in court.
 2946,"der Nationalsozialist, -en (Nazi)",der,B2+,25.4303,0.8791,0,"National Socialist, Nazi",1939 griffen die Nationalsozialisten Polen an.,In 1939 the National Socialists attacked Poland.
@@ -79,7 +80,6 @@ rank,word,pos,level,freq_per_million,dispersion,has_conjugation,definition,examp
 3376,"die Zielgruppe, -n",die,B2+,20.8962,0.5108,0,target group,"Bevor wir Ideen für das neue Produkt sammeln, legen wir die Zielgruppe fest.","Before we collect ideas for the new product, we determine the target group."
 3379,"die Herrschaft, -en",die,B2+,20.8469,0.8817,0,"power, reign",Die Mehrheit der Bevölkerung leidet unter der Herrschaft des neuen Präsidenten.,The majority of the population suffers under the reign of the new president.
 3388,"die Front, -en",die,B2+,20.7977,0.8895,0,front,Die Soldaten werden bald von der Front nach Hause geschickt.,The soldiers will soon be sent home from the front.
-3399,"die Vermittlung, -en",die,B1,20.7484,0.8076,0,"negotiation, placement, mediation",Die Agentur für Arbeit ist für die Vermittlung von Arbeitsplätzen zuständig.,The employment agency is responsible for work placement.
 3400,der Wohlstand,der,B2+,20.7484,0.851,0,"prosperity, wealth",Schreckliche Armut und großer Wohlstand bestehen nebeneinander in der Stadt.,Terrible poverty and great wealth exist in the city side by side.
 3429,"die Landesregierung, -en",die,B2+,20.4034,0.6531,0,state government,Die Landesregierung stellt für das Projekt eine Million Euro bereit.,The state government is providing one million euros for the project.
 3552,"die Übernahme, -n",die,B2+,19.467,0.8575,0,takeover,Die Chefs organisieren die Übernahme des Konzerns durch eine große Firma.,The heads organize the takeover of the group by a large company.

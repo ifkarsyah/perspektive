@@ -1,10 +1,10 @@
 rank,word,pos,level,freq_per_million,dispersion,has_conjugation,definition,example_de,example_en
 253,"das Bild, -er",das,A1,347.6955,0.9371,0,picture,Clarita malt gerne Bilder von Blumen.,Clarita likes to paint pictures of flowers.
-268,"die Abbildung, -en (Abb.)",die,B1,327.1936,0.7986,0,illustration,Die Abbildung Nummer eins zeigt ein gutes Beispiel.,Figure number one shows a good example.
 633,"das Foto, -s",das,A1,136.9097,0.8853,0,photograph,"Lina mag die Fotos, die im Museum hängen.",Lina likes the photos that hang in the museum.
-3034,"das Kunstwerk, -e",das,B2+,24.4446,0.8185,0,work of art,Im Louvre gibt es viele berühmte Kunstwerke.,There are many famous works of art in the Louvre.
-3419,"die Zeichnung, -en",die,B1,20.5512,0.8789,0,drawing,Auf der Zeichnung sieht man die Berge und das Meer.,The drawing shows the mountains and the sea.
-3780,"das Gemälde, -",das,B2+,17.9392,0.837,0,painting,Im Museum hängen viele berühmte Gemälde.,There are many famous paintings in the museum.
 4219,"das Plakat, -e",das,A2,15.4258,0.8528,0,poster,"Um für sich zu werben, hängen Politiker Plakate von sich auf.",Politicians hang posters to promote themselves.
+268,"die Abbildung, -en (Abb.)",die,B1,327.1936,0.7986,0,illustration,Die Abbildung Nummer eins zeigt ein gutes Beispiel.,Figure number one shows a good example.
+3419,"die Zeichnung, -en",die,B1,20.5512,0.8789,0,drawing,Auf der Zeichnung sieht man die Berge und das Meer.,The drawing shows the mountains and the sea.
+3034,"das Kunstwerk, -e",das,B2+,24.4446,0.8185,0,work of art,Im Louvre gibt es viele berühmte Kunstwerke.,There are many famous works of art in the Louvre.
+3780,"das Gemälde, -",das,B2+,17.9392,0.837,0,painting,Im Museum hängen viele berühmte Gemälde.,There are many famous paintings in the museum.
 4491,"das Porträt, -s",das,B2+,14.0951,0.8328,0,portrait,"Ich möchte, dass du ein Porträt von mir malst.",I want you to paint a portrait of me.
 4967,"die Skulptur, -en",die,B2+,11.9759,0.8411,0,sculpture,In dem Museum stehen viele Skulpturen von berühmten Künstlern.,In the museum there are many sculptures by famous artists.

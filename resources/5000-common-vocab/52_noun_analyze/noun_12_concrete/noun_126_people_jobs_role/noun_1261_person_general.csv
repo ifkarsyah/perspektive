@@ -5,12 +5,13 @@ rank,word,pos,level,freq_per_million,dispersion,has_conjugation,definition,examp
 133,"das Kind, -er",das,A1,679.4724,0.9187,0,child,Das Kind geht gern zur Schule.,The child likes going to school.
 154,"der Herr, -en",der,A1,558.6784,0.8182,0,Mr.,Unser neuer Lehrer heißt Herr Schmidt.,Our new teacher is called Mr. Schmidt.
 224,Leute,die (pl),A1,387.8616,0.8936,0,people,Ich treffe auf der Party viele nette Leute.,I meet a lot of nice people at the party.
-357,"die Person, -en",die,A2,237.2511,0.8561,0,person,In den Saal passen zehn Personen.,The hall can accommodate ten people.
 548,"der Junge, -n",der,A1,156.5739,0.8786,0,boy,"Als Thomas ein kleiner Junge war, weinte er viel.","When Thomas was a little boy, he cried a lot."
 602,"das Mädchen, -",das,A1,144.253,0.8899,0,girl,Das Mädchen heißt Lina und sie geht noch zur Schule.,"The girl’s called Lina, and she’s still in school."
 702,"die Dame, -n",die,A1,126.0181,0.7834,0,lady,Unten in der Wohnung wohnt eine alte Dame.,An old lady lives in the apartment downstairs.
 1324,die Jugendliche,"der, die",A1,66.8778,0.8969,0,adolescent,Das Projekt unterstützt Jugendliche nach ihrem Abschluss.,The project supports adolescents after their graduation.
 2369,die Erwachsene,"der, die",A1,33.5128,0.9185,0,"adult, grown-up",In der Schule kümmert sich je ein Erwachsener um 20 Kinder.,"At school, each adult takes care of 20 children each."
+357,"die Person, -en",die,A2,237.2511,0.8561,0,person,In den Saal passen zehn Personen.,The hall can accommodate ten people.
+4393,"der Rentner, -",der,A2,14.5387,0.8496,0,pensioner,Als Rentner ziehe ich in ein anderes Land und genieße mein Leben ohne Arbeit.,As a pensioner I move to another country and enjoy my life without work.
 2569,"das Individuum, -en",das,B2+,30.4572,0.8014,0,individual,Jeder Schüler ist ein Individuum mit eigenen Fähigkeiten.,Every student is an individual with their own abilities.
 2652,die Alte,"der, die, das",B2+,29.2744,0.8879,0,old person/thing,"Der Alte hat keine Familie mehr, er ist sehr einsam.",The old man has no family; he’s very lonely.
 2951,die Menschheit,die,B2+,25.381,0.8847,0,humanity,Der Zustand dieses Planeten betrifft die gesamte Menschheit und nicht nur einzelne Menschen.,The state of this planet affects all of humanity and not just individuals.
@@ -21,7 +22,6 @@ rank,word,pos,level,freq_per_million,dispersion,has_conjugation,definition,examp
 4285,die Fremde,der,B2+,15.0315,0.8654,0,stranger,Manchmal kann ein Fremder auch ein Freund werden.,Sometimes a stranger can become a friend.
 4298,"der Idiot, -en",der,B2+,14.9822,0.8256,0,idiot,"Wenn Manuel dich nicht liebt, ist er ein Idiot.","If Manuel doesn’t love you, he’s an idiot."
 4318,"der Zwerg, -e",der,B2+,14.8836,0.4723,0,dwarf,"Einen kleinen Menschen als Zwerg zu bezeichnen, ist nicht nett.",It’s not nice to call a little person a dwarf.
-4393,"der Rentner, -",der,A2,14.5387,0.8496,0,pensioner,Als Rentner ziehe ich in ein anderes Land und genieße mein Leben ohne Arbeit.,As a pensioner I move to another country and enjoy my life without work.
 4547,"das Arschloch, -̈er",das,B2+,13.7994,0.7209,0,asshole,"David ist ein Arschloch, weil er die ganze Zeit lügt.",David’s an asshole because he lies all the time.
 4585,"der Riese, -n",der,B2+,13.6515,0.8272,0,giant,Ich lese meinem Sohn Geschichten über gefährliche Riesen vor.,I read stories to my son about dangerous giants.
 4605,"der Senior, -en",der,B2+,13.553,0.8285,0,senior (citizen),Harry organisiert Reisen für Senioren.,Harry organizes trips for senior citizens.

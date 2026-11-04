@@ -1,22 +1,23 @@
 rank,word,pos,level,freq_per_million,dispersion,has_conjugation,definition,example_de,example_en
-242,"das Recht, -e",das,B1,361.6428,0.9369,0,"right, law",Menschen haben Rechte.,People have rights.
 337,"der Staat, -en",der,A1,247.847,0.8847,0,state,Der Staat entscheidet über Gesetze und Steuern.,The state decides on laws and taxes.
+797,"die Ordnung, -en",die,A1,108.0788,0.9213,0,"order, tidiness",Anneliese kümmert sich um Ordnung in ihrer Wohnung.,Anneliese takes care of the tidiness of her apartment.
+899,"der Verein, -e",der,A1,96.9408,0.8021,0,"association, club",Ich bin Mitglied in einem Verein.,I am a member of an association.
+1305,"die Heimat, -en",die,A1,67.7156,0.8901,0,"home, homeland","Obwohl er in Deutschland geboren ist, ist Frankreich seine Heimat.","Although he was born in Germany, France is his home."
+521,"die Regierung, -en",die,A2,163.9171,0.8441,0,"rule, government",Eine Regierung leitet das Land und trifft alle politischen Entscheidungen.,A government leads the country and makes all political decisions.
+588,"die Partei, -en",die,A2,146.9636,0.8216,0,(political) party,Die Partei hofft auf ein gutes Ergebnis bei den Wahlen.,The party hopes for a good result in the elections.
+726,EU (Europäische Union),die,A2,120.7447,0.8162,0,EU,Die EU ist ein Bund aus mehreren Staaten.,The EU is a federation of multiple states.
+969,"der Vertrag, -̈e",der,A2,89.7454,0.8121,0,contract,Kai bekommt heute einen neuen Vertrag von seinem Chef.,Kai gets a new contract from his boss today.
+242,"das Recht, -e",das,B1,361.6428,0.9369,0,"right, law",Menschen haben Rechte.,People have rights.
 363,"die Gesellschaft, -en",die,B1,230.5485,0.8864,0,"society, company",Jeder ist ein Teil der Gesellschaft.,Everybody is a part of society.
 438,"die Regel, -n",die,B1,187.2775,0.9257,0,rule,Diese Schule hat strenge Regeln.,This school has strict rules.
-521,"die Regierung, -en",die,A2,163.9171,0.8441,0,"rule, government",Eine Regierung leitet das Land und trifft alle politischen Entscheidungen.,A government leads the country and makes all political decisions.
 539,"die Politik, -en",die,B1,158.4466,0.8891,0,politics,Viele Menschen interessieren sich nicht für Politik.,Many people are not interested in politics.
 575,"der Krieg, -e",der,B1,150.3641,0.8998,0,war,Meine Oma erzählt oft vom Krieg.,My grandmother often talks about the war.
 578,"das Gesetz, -e",das,B1,149.8713,0.906,0,law,Sie fordern ein neues Gesetz.,They’re demanding a new law.
-588,"die Partei, -en",die,A2,146.9636,0.8216,0,(political) party,Die Partei hofft auf ein gutes Ergebnis bei den Wahlen.,The party hopes for a good result in the elections.
 595,"der Prozess, -e",der,B1,145.5836,0.8877,0,"trial, process","Ein Buch zu schreiben, ist, ein langer Prozess.",Writing a book is a long process.
-726,EU (Europäische Union),die,A2,120.7447,0.8162,0,EU,Die EU ist ein Bund aus mehreren Staaten.,The EU is a federation of multiple states.
 776,"die Sicherheit, -en",die,B1,110.5923,0.9318,0,"security, safety",Moderne Flugzeuge bieten einen hohen Standard an Sicherheit.,Modern airplanes provide a high standard of safety.
-797,"die Ordnung, -en",die,A1,108.0788,0.9213,0,"order, tidiness",Anneliese kümmert sich um Ordnung in ihrer Wohnung.,Anneliese takes care of the tidiness of her apartment.
 799,"die Wahl, -en",die,B1,107.4874,0.9052,0,"choice, election",Viele Frauen müssen eine Wahl zwischen Beruf und Familie treffen.,Many women have to make a choice between work and family.
 814,"die Freiheit, -en",die,B1,106.0582,0.843,0,freedom,Sie kämpfen für Freiheit.,They fight for freedom.
 867,"der Kampf, -̈e",der,B1,100.0949,0.8983,0,"fight, struggle",Der Kampf zwischen den beiden Parteien geht weiter.,The struggle between the two parties continues.
-899,"der Verein, -e",der,A1,96.9408,0.8021,0,"association, club",Ich bin Mitglied in einem Verein.,I am a member of an association.
-969,"der Vertrag, -̈e",der,A2,89.7454,0.8121,0,contract,Kai bekommt heute einen neuen Vertrag von seinem Chef.,Kai gets a new contract from his boss today.
 1098,"die Macht, -̈e",die,B1,79.1494,0.9113,0,"power, strength","Lisa nutzt ihre Macht, um anderen zu helfen.",Lisa uses her power to help others.
 1111,"die Behörde, -n",die,B1,78.4594,0.8652,0,"department, authorities",Wir müssen diesen Vorfall den Behörden melden.,We have to report this incident to the authorities.
 1113,"die Organisation, -en",die,B1,78.4101,0.8808,0,organization,Sie arbeiten für eine politische Organisation.,They work for a political organization.
@@ -24,7 +25,6 @@ rank,word,pos,level,freq_per_million,dispersion,has_conjugation,definition,examp
 1153,"die Generation, -en",die,B1,75.5024,0.8948,0,generation,Diese Musik ist bei der Generation meiner Mutter sehr beliebt.,This music is very popular with my mother’s generation.
 1178,"die Tat, -en",die,B1,73.9746,0.9041,0,"deed, action",Der Mann steht für seine Taten vor Gericht.,The man is facing trial for his actions.
 1282,"die Integration, -en",die,B1,68.8984,0.848,0,integration,Diese Maßnahmen fördern die Integration von neuen Schülern.,These measures promote the integration of new students.
-1305,"die Heimat, -en",die,A1,67.7156,0.8901,0,"home, homeland","Obwohl er in Deutschland geboren ist, ist Frankreich seine Heimat.","Although he was born in Germany, France is his home."
 1345,"die Bundesregierung, -en",die,B1,65.9414,0.7827,0,federal government,Die deutsche Bundesregierung veröffentlicht die Namen der neuen Minister.,The German Federal Government publishes the names of the new ministers.
 1361,"die Gewalt, -en",die,B1,65.2021,0.8939,0,"violence, force",Gewalt ist niemals die Lösung.,Violence is never the solution.
 1363,"der Anschlag, -̈e",der,B1,65.1529,0.8156,0,attack,Politische Anschläge verursachen Tod und Leid.,Political attacks cause death and suffering.
@@ -59,10 +59,16 @@ rank,word,pos,level,freq_per_million,dispersion,has_conjugation,definition,examp
 2302,"die Gemeinschaft, -en",die,B1,34.8928,0.902,0,community,"Viele Menschen nutzen soziale Medien, weil sie nach Gemeinschaft suchen.",Many people are using social media because they are looking for community.
 2348,"die Strafe, -n",die,B1,34.0057,0.881,0,"punishment, penalty",Als Strafe muss Carmen Geld bezahlen.,"As a penalty, Carmen has to pay money."
 2435,"die Gewerkschaft, -en",die,B1,32.4779,0.843,0,trade union,Gewerkschaften setzen sich für die Arbeitnehmer ein.,Trade unions stand up for the employees.
-2630,"die Republik, -en",die,B2+,29.6687,0.8877,0,republic,"Eine Republik ist eine Staatsform, bei der die Menschen die Regierung wählen.",A republic is a form of state in which the people elect the government.
 2639,"der Protest, -e",der,B1,29.4716,0.8636,0,protest,Viele Menschen beteiligen sich an dem friedlichen Protest.,Many people take part in the peaceful protest.
-2677,der Terror,der,B2+,28.9787,0.8331,0,terror,Verschiedene radikale Gruppen sind für den Terror verantwortlich.,Different radical groups are responsible for the terror.
 2737,"die Zustimmung, -en",die,B1,28.0916,0.8517,0,"approval, consent",Die Eltern müssen ihre Zustimmung geben und die Reise ihrer Tochter erlauben.,Parents must give their consent and allow their daughter to travel.
+3390,"das Verbot, -e",das,B1,20.7977,0.8808,0,"ban, prohibition","Er muss eine hohe Strafe zahlen, weil er das Verbot von Handys am Steuer ignoriert hat.",He has to pay a large fine because he ignored the ban on mobile phones at the wheel.
+3509,"der Kompromiss, -e",der,B1,19.812,0.8616,0,compromise,"Beide haben unterschiedliche Wünsche, aber einigen sich auf einen Kompromiss.","Both have different wishes, but agree on a compromise."
+3918,"die Konferenz, -en",die,B1,17.0028,0.8306,0,conference,Auf der Konferenz tauschen sich Wissenschaftler zum Thema Globalisierung aus.,"At the conference, scientists will exchange views on the topic of globalization."
+4123,"die Migration, -en",die,B1,15.9679,0.8044,0,migration,Die Ursachen für die Migration in ein anderes Land sind ganz unterschiedlich.,The causes of migration to another country vary widely.
+4256,"die Minderheit, -en",die,B1,15.2286,0.8525,0,minority,In Deutschland leben viele religiöse Minderheiten.,Many religious minorities live in Germany.
+4706,"der Einbruch, -̈e",der,B1,13.0601,0.8756,0,"break-in, burglary, slump, decline",Das Gericht verurteilt ihn wegen Einbruchs und er muss die gestohlenen Sachen zurückgeben.,The court convicts him for burglary and he has to return the stolen property.
+2630,"die Republik, -en",die,B2+,29.6687,0.8877,0,republic,"Eine Republik ist eine Staatsform, bei der die Menschen die Regierung wählen.",A republic is a form of state in which the people elect the government.
+2677,der Terror,der,B2+,28.9787,0.8331,0,terror,Verschiedene radikale Gruppen sind für den Terror verantwortlich.,Different radical groups are responsible for the terror.
 2785,die Armut,die,B2+,27.3524,0.7466,0,poverty,Die Armut der Menschen ist ein großes Problem für eine Gesellschaft.,Poverty is a big problem for a society.
 2911,"der Wahlkampf, -̈e",der,B2+,25.9232,0.7629,0,election campaign,Auch bei dieser Wahl kostet der Wahlkampf die Partei viel Geld.,Also in this election the election campaign costs the party a lot of money.
 2957,"die Vereinbarung, -en",die,B2+,25.3317,0.8473,0,agreement,Sie treffen beim Anwalt eine Vereinbarung für die Kinder.,They make an arrangement with the lawyer for the children.
@@ -74,23 +80,17 @@ rank,word,pos,level,freq_per_million,dispersion,has_conjugation,definition,examp
 3248,der Terrorismus,der,B2+,21.9805,0.7827,0,terrorism,Europäische Großstädte waren in den letzten Jahren häufig Ziel von Terrorismus.,European cities have often been the target of terrorism in recent years.
 3303,"die Gerechtigkeit, -en",die,B2+,21.4383,0.8637,0,justice,Der Superheld kämpft für Gerechtigkeit.,The superhero fights for justice.
 3385,"die Bedrohung, -en",die,B2+,20.7977,0.8842,0,threat,Die Krankheit ist in unserem Land keine akute Bedrohung mehr.,The disease is no longer an acute threat in our country.
-3390,"das Verbot, -e",das,B1,20.7977,0.8808,0,"ban, prohibition","Er muss eine hohe Strafe zahlen, weil er das Verbot von Handys am Steuer ignoriert hat.",He has to pay a large fine because he ignored the ban on mobile phones at the wheel.
 3464,"die Unabhängigkeit, -en",die,B2+,20.2063,0.7674,0,independence,In den sechziger Jahren erklärten viele afrikanische Staaten ihre Unabhängigkeit.,In the 1960s many African states declared independence.
 3497,"das Menschenrecht, -e",das,B2+,19.9106,0.8308,0,human right,"Menschenrechte sind die grundlegenden Rechte, die jede Person haben sollte.",Human rights are the fundamental rights that every person should have.
-3509,"der Kompromiss, -e",der,B1,19.812,0.8616,0,compromise,"Beide haben unterschiedliche Wünsche, aber einigen sich auf einen Kompromiss.","Both have different wishes, but agree on a compromise."
 3534,"der Terroranschlag, -̈e",der,B2+,19.6641,0.7526,0,terrorist attack,Zehn Menschen sterben bei einem Terroranschlag in Kabul.,Ten people die in a terrorist attack in Kabul.
 3654,"der Skandal, -e",der,B2+,18.777,0.8744,0,scandal,Die Presse freut sich über den Skandal und berichtet über jedes Detail.,The press is pleased with the scandal and reports on every detail.
 3883,"der Rücktritt, -e",der,B2+,17.3478,0.7749,0,"resignation, withdrawal",Ein Rücktritt von dem Vertrag ist nur 48 Stunden lang möglich.,Withdrawal from the contract is only possible for 48 hours.
-3918,"die Konferenz, -en",die,B1,17.0028,0.8306,0,conference,Auf der Konferenz tauschen sich Wissenschaftler zum Thema Globalisierung aus.,"At the conference, scientists will exchange views on the topic of globalization."
 3921,das Unrecht,das,B2+,17.0028,0.9086,0,"injustice, wrong","Er hat Unrecht, wenn er sagt, dass Tiere keinen Schmerz fühlen.",He’s wrong when he says animals don’t feel pain.
 3953,"die Ablehnung, -en",die,B2+,16.855,0.8695,0,"refusal, rejection",Unser Vorschlag trifft auf Ablehnung.,Our proposal meets with rejection.
 3958,"die Kampagne, -n",die,B2+,16.855,0.8336,0,campaign,Die Agentur entwickelt eine sehr erfolgreiche Kampagne für unser neues Produkt.,The agency is developing a very successful campaign for our new product.
-4123,"die Migration, -en",die,B1,15.9679,0.8044,0,migration,Die Ursachen für die Migration in ein anderes Land sind ganz unterschiedlich.,The causes of migration to another country vary widely.
-4256,"die Minderheit, -en",die,B1,15.2286,0.8525,0,minority,In Deutschland leben viele religiöse Minderheiten.,Many religious minorities live in Germany.
 4329,die Haft,die,B2+,14.7851,0.8013,0,"detention, confinement","Weil er illegale Substanzen verkauft, muss er jetzt für drei Jahre in Haft.","Because he sells illegal substances, he is now in confinement for three years."
 4541,"der Bürgerkrieg, -e",der,B2+,13.8487,0.8241,0,civil war,Durch den Bürgerkrieg kommen viele Flüchtlinge nach Deutschland.,Because of the civil war many refugees come to Germany.
 4705,"die Diktatur, -en",die,B2+,13.0601,0.7833,0,dictatorship,Nur noch wenige Länder haben eine Diktatur als Regierung.,Only a few countries still have a dictatorship as a government.
-4706,"der Einbruch, -̈e",der,B1,13.0601,0.8756,0,"break-in, burglary, slump, decline",Das Gericht verurteilt ihn wegen Einbruchs und er muss die gestohlenen Sachen zurückgeben.,The court convicts him for burglary and he has to return the stolen property.
 4731,"die Attacke, -n",die,B2+,12.9616,0.8284,0,attack,Sie wehren sich gegen die Attacke ihrer Gegner.,They defend themselves against their opponents’ attacks.
 4770,"die Verteidigung, -en",die,B2+,12.863,0.8903,0,defense,Die erfolgreiche Verteidigung des Täters bewirkt eine geringe Strafe.,The successful defense of the perpetrator leads to a minor punishment.
 4853,"das Asyl, -e",das,B2+,12.4195,0.7822,0,asylum,"Weil in meiner Heimat Krieg herrscht, muss ich in einem anderen Land Asyl beantragen.","Because of the war in my country, I have to apply for asylum in another country."

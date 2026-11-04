@@ -1,34 +1,34 @@
 rank,word,pos,level,freq_per_million,dispersion,has_conjugation,definition,example_de,example_en
 436,"das Licht, -er",das,A1,188.2632,0.8642,0,light,Ich brauche ein helleres Licht zum Lesen.,I need a brighter light to read.
-487,"die Luft, -̈e",die,B1,170.8661,0.9168,0,air,Die Qualität der Luft ist auf dem Land besser.,The air quality is better in the country.
-889,"der Himmel, -",der,A2,98.1236,0.8773,0,"sky, heaven",Heute ist der Himmel blau.,The sky is blue today.
-927,"das Gas, -e",das,B1,94.2302,0.6448,0,gas,Gas hat keine Farbe und man kann es nicht riechen.,Gas has no color and you can’t smell it.
 1124,"der Wind, -e",der,A1,77.523,0.8789,0,wind,Der Wind kommt aus nördlicher Richtung.,The wind is coming from a northerly direction.
+1576,"das Feuer, -",das,A1,55.0497,0.8949,0,fire,"Sie machen ein Feuer, weil es kalt ist.",They make a fire because it’s cold.
+1881,"das Wetter, -",das,A1,44.6016,0.9095,0,weather,"Heute ist schönes Wetter, die Sonne scheint.",Today is beautiful weather; the sun is shining.
+1957,"der Regen, -",der,A1,42.6796,0.8921,0,rain,"Schlechtes Wetter bedeutet oft, dass es Regen gibt.",Bad weather often means rain.
+889,"der Himmel, -",der,A2,98.1236,0.8773,0,"sky, heaven",Heute ist der Himmel blau.,The sky is blue today.
+1760,der Schnee,der,A2,48.3472,0.8504,0,snow,Zu Weihnachten lag leider kein Schnee.,"Unfortunately, there was no snow for Christmas."
+2114,"die Wolke, -n",die,A2,38.7369,0.8457,0,cloud,Die Sonne verschwindet hinter den Wolken.,The sun disappears behind the clouds.
+487,"die Luft, -̈e",die,B1,170.8661,0.9168,0,air,Die Qualität der Luft ist auf dem Land besser.,The air quality is better in the country.
+927,"das Gas, -e",das,B1,94.2302,0.6448,0,gas,Gas hat keine Farbe und man kann es nicht riechen.,Gas has no color and you can’t smell it.
 1181,"der Stein, -e",der,B1,73.6789,0.9015,0,"rock, stone",Sie werfen Steine auf die Polizei.,They throw stones at the police.
 1263,"die Welle, -n",die,B1,69.9827,0.7923,0,wave,Aufgrund der hohen Wellen ist das Schwimmen verboten.,Swimming is forbidden due to the high waves.
 1392,"der Strom, -̈e",der,B1,63.9208,0.8015,0,"stream, current, electricity",Elektrische Geräte funktionieren nur mit Strom.,Electrical devices only work with electricity.
 1502,"der Schatten, -",der,B1,58.2532,0.8178,0,"shadow, shade","Ich sitze gerne in der Sonne, aber meine Freundin sitzt lieber im Schatten.","I like sitting in the sun, but my girlfriend prefers sitting in the shade."
-1576,"das Feuer, -",das,A1,55.0497,0.8949,0,fire,"Sie machen ein Feuer, weil es kalt ist.",They make a fire because it’s cold.
-1760,der Schnee,der,A2,48.3472,0.8504,0,snow,Zu Weihnachten lag leider kein Schnee.,"Unfortunately, there was no snow for Christmas."
-1881,"das Wetter, -",das,A1,44.6016,0.9095,0,weather,"Heute ist schönes Wetter, die Sonne scheint.",Today is beautiful weather; the sun is shining.
-1957,"der Regen, -",der,A1,42.6796,0.8921,0,rain,"Schlechtes Wetter bedeutet oft, dass es Regen gibt.",Bad weather often means rain.
-2114,"die Wolke, -n",die,A2,38.7369,0.8457,0,cloud,Die Sonne verschwindet hinter den Wolken.,The sun disappears behind the clouds.
 2167,"das Metall, -e",das,B1,37.7512,0.7395,0,metal,Gold ist ein besonders wertvolles Metall.,Gold is a particularly valuable metal.
 2300,die Wärme,die,B1,34.942,0.8008,0,"warmth, heat",Sie spürt die Wärme der Sonne auf ihrer Haut.,She feels the warmth of the sun on her skin.
 2413,das Gold,das,B1,32.8721,0.8889,0,gold,Der Ring ist aus echtem Gold.,The ring is made of real gold.
 2423,"die Atmosphäre, -n",die,B1,32.6257,0.9003,0,atmosphere,Ich mag die lockere Atmosphäre im Büro.,I like the relaxed atmosphere in the office.
 2474,"der Sand, -e",der,B1,31.8865,0.8838,0,sand,Das ist ein schöner Strand mit weißem Sand.,This is a nice beach with white sand.
 2913,"der Sturm, -̈e",der,B1,25.8739,0.8837,0,storm,Das Boot gerät in einen starken Sturm.,The boat gets caught in a strong storm.
+3357,"die Hitze, -n",die,B1,20.9948,0.8738,0,heat,Wegen der Hitze sitzen alle im Schatten.,"Because of the heat, everyone’s in the shade."
+3473,die Kälte,die,B1,20.1077,0.8848,0,cold,Wasser gefriert bei dieser Kälte.,Water freezes in this cold.
+3533,"der Nebel, -",der,B1,19.6641,0.8569,0,fog,Durch den dichten Nebel kann man kaum etwas sehen.,Because of the dense fog you can hardly see anything.
+3932,"der Staub, -̈e",der,B1,16.9535,0.8783,0,dust,Die Bücher im Regal sind mit Staub bedeckt.,The books on the shelf are covered with dust.
 3044,"das Eisen, -",das,B2+,24.2475,0.7353,0,iron,Die Tür ist aus Eisen und sehr schwer.,The door is made of iron and very heavy.
 3138,"die Dunkelheit, -en",die,B2+,23.1633,0.8479,0,darkness,Ich laufe nicht gerne in der Dunkelheit nach Hause.,I don’t like walking home in the dark.
-3357,"die Hitze, -n",die,B1,20.9948,0.8738,0,heat,Wegen der Hitze sitzen alle im Schatten.,"Because of the heat, everyone’s in the shade."
 3401,"der Felsen, -",der,B2+,20.6991,0.7973,0,rock,"Wir sehen einige Vögel, die auf den Felsen im Meer sitzen.",We can see some birds sitting on the rocks in the sea.
 3468,"die Kohle, -n",die,B2+,20.157,0.8708,0,coal,"Kohle erzeugt Energie, wenn man sie verbrennt.",Coal produces energy when burned.
-3473,die Kälte,die,B1,20.1077,0.8848,0,cold,Wasser gefriert bei dieser Kälte.,Water freezes in this cold.
 3521,"die Flamme, -n",die,B2+,19.7134,0.8717,0,flame,Gas brennt mit blauer Flamme.,Gas burns with a blue flame.
-3533,"der Nebel, -",der,B1,19.6641,0.8569,0,fog,Durch den dichten Nebel kann man kaum etwas sehen.,Because of the dense fog you can hardly see anything.
 3764,"der Rauch, -e",der,B2+,18.0378,0.8216,0,"smoke, fume",Bei einem Feuer entsteht Rauch.,A fire causes smoke.
-3932,"der Staub, -̈e",der,B1,16.9535,0.8783,0,dust,Die Bücher im Regal sind mit Staub bedeckt.,The books on the shelf are covered with dust.
 3937,"der Brand, -̈e",der,B2+,16.9043,0.7791,0,fire,Die Feuerwehr löscht den Brand.,The fire brigade puts out the fire.
 3941,"der Kristall, -e",der,B2+,16.9043,0.7256,0,crystal,Alle Gefäße in der Wohnung von Tim sind aus Kristall.,All the vessels in Tim’s flat are made of crystal.
 4000,"der Strahl, -en",der,B2+,16.6578,0.7454,0,"ray, beam",Die Strahlen der Sonne schaden der Haut.,The sun’s rays damage the skin.

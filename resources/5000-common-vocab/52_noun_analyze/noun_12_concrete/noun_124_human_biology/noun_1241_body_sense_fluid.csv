@@ -1,7 +1,7 @@
 rank,word,pos,level,freq_per_million,dispersion,has_conjugation,definition,example_de,example_en
 2044,"die Träne, -n",die,B1,40.3632,0.8383,0,tear,"Sie hat Tränen in den Augen, weil sie weint.",She has tears in her eyes because she’s crying.
 2335,"der Geruch, -̈e",der,B1,34.2028,0.7752,0,smell,Ich liebe den Geruch von frischem Kaffee.,I love the smell of fresh coffee.
-2670,der Atem,der,B2+,29.028,0.8517,0,breath,Ihr Atem riecht nach Alkohol.,Her breath smells of alcohol.
 2995,"der Geschmack, -̈e",der,B1,24.8389,0.9148,0,taste,Der Geschmack von Eis erinnert Sabine immer an den Sommer.,The taste of ice cream always reminds Sabine of summer.
+2670,der Atem,der,B2+,29.028,0.8517,0,breath,Ihr Atem riecht nach Alkohol.,Her breath smells of alcohol.
 3100,"der Duft, -̈e",der,B2+,23.6561,0.5432,0,"(pleasant) smell, fragrance",Die Blume verbreitet einen süßen Duft.,The flower spreads a sweet scent.
 4073,"der Schweiß, -e",der,B2+,16.2636,0.8509,0,sweat,"Es ist so heiß, der Schweiß läuft mir den Nacken herunter.","It’s so hot, the sweat is running down my neck."

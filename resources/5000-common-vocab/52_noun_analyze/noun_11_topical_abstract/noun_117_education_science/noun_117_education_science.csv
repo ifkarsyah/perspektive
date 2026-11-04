@@ -1,34 +1,35 @@
 rank,word,pos,level,freq_per_million,dispersion,has_conjugation,definition,example_de,example_en
+1398,"das Studium, -en",das,A1,63.5265,0.8575,0,"study, studies",Dieses Jahr möchte ich mein Studium beenden.,This year I want to finish my studies.
+1549,"der Kurs, -e",der,A1,56.4297,0.9064,0,"course, exchange rate",Im Wintersemester mache ich einen Kurs in Volkswirtschaftslehre.,In the winter semester I’m taking a course in economics.
+1770,"der Test, -s",der,A1,48.0515,0.8707,0,test,Ich habe heute zwei Tests geschrieben und beide bestanden.,I took two tests today and passed them both.
+1823,"der Unterricht, -e",der,A1,46.4251,0.7786,0,"instruction, classes",Der Unterricht endet am späten Nachmittag.,Classes end in the late afternoon.
+1827,"die Prüfung, -en",die,A1,46.2773,0.8823,0,"examination, test, exam",Am Ende des Wintersemesters schreiben die Studenten ihre Prüfungen.,"At the end of the winter semester, students write their exams."
 486,"die Chemie, -n",die,A2,170.9647,0.6243,0,chemistry,"Er studiert Chemie, weil er gern Experimente durchführt.",He is studying chemistry because he likes to carry out experiments.
 565,"das Wintersemester, -",das,A2,151.9412,0.5126,0,winter semester,Die Universität startet im Wintersemester.,The university starts in the winter semester.
-698,"die Einführung, -en",die,B1,126.9052,0.6164,0,introduction,Heute beschäftigen wir uns mit der Einführung in ein neues Thema.,Today we are dealing with an introduction to a new topic.
 703,"die Vorlesung, -en",die,A2,125.9195,0.726,0,lecture,Viele Studenten besuchen die Vorlesung von Professor Tschirner.,Many students attend Professor Tschirner’s lecture.
+850,"die Bildung, -en",die,A2,101.672,0.8558,0,education,Den Eltern ist Bildung wichtig und daher finanzieren sie das Studium ihrer Kinder.,For the parents education is important and therefore they finance the college education of their children.
+881,"die Analyse, -n",die,A2,98.9121,0.808,0,analysis,"Die Analyse des Blutes zeigt, dass der Patient gesund ist.",The blood analysis shows that the patient is healthy.
+1174,"die Ausbildung, -en",die,A2,74.0732,0.8961,0,"training, development",Die Ausbildung bereitet Jugendliche auf ihren Beruf vor.,The training prepares adolescents for their profession.
+1731,"das Fach, -̈er",das,A2,49.1357,0.8487,0,"compartment, subject",Chemie ist Frederiks bestes Fach in der Schule.,Chemistry is Frederik’s best subject at school.
+2952,"die Note, -n",die,A2,25.381,0.8945,0,"note, grade",Der Lehrer gibt den Schülern Noten für ihre Leistungen im Unterricht.,The teacher gives the students marks for their performance in class.
+698,"die Einführung, -en",die,B1,126.9052,0.6164,0,introduction,Heute beschäftigen wir uns mit der Einführung in ein neues Thema.,Today we are dealing with an introduction to a new topic.
 708,"das Modell, -e",das,B1,125.3281,0.8808,0,model,"Ich kaufe mir ein neues Auto, weil mir das neue Modell besser gefällt.",I’m buying a new car because I like the new model better.
 784,"die Studie, -n",die,B1,109.4588,0.8531,0,study,Laut einer Studie ist der Virus sehr gefährlich.,"According to a study, this virus is very dangerous."
 796,"die Methode, -n",die,B1,108.1281,0.8405,0,method,Wir nutzen unterschiedliche Methoden zum Lernen von Sprachen.,We use different methods for language learning.
-850,"die Bildung, -en",die,A2,101.672,0.8558,0,education,Den Eltern ist Bildung wichtig und daher finanzieren sie das Studium ihrer Kinder.,For the parents education is important and therefore they finance the college education of their children.
 860,"die Untersuchung, -en",die,B1,100.982,0.8509,0,examination,Thomas muss für seine Untersuchung zu einem speziellen Arzt gehen.,Thomas has to see a special doctor for his examination.
-881,"die Analyse, -n",die,A2,98.9121,0.808,0,analysis,"Die Analyse des Blutes zeigt, dass der Patient gesund ist.",The blood analysis shows that the patient is healthy.
 953,"das Institut, -e",das,B1,91.2732,0.8519,0,institute,An der Universität gibt es verschiedene Institute.,There are various institutes at the university.
 1064,"die Theorie, -n",die,B1,81.6629,0.854,0,theory,Er kann die Theorie nicht beweisen.,He can’t prove the theory.
-1174,"die Ausbildung, -en",die,A2,74.0732,0.8961,0,"training, development",Die Ausbildung bereitet Jugendliche auf ihren Beruf vor.,The training prepares adolescents for their profession.
 1304,"die Statistik, -en",die,B1,67.7649,0.565,0,statistics,Die Statistiken zeigen einen deutlichen Anstieg der Temperatur.,Statistics show a significant increase in temperature.
 1335,"die Forschung, -en",die,B1,66.4342,0.8895,0,research,Der Staat investiert in die Forschung.,The state invests in research.
-1398,"das Studium, -en",das,A1,63.5265,0.8575,0,"study, studies",Dieses Jahr möchte ich mein Studium beenden.,This year I want to finish my studies.
 1434,"die Übung, -en",die,B1,61.6537,0.8145,0,"exercise, practice","Du brauchst viel Übung, um besser zu werden.",You need a lot of practice to get better.
 1447,"das Sommersemester, -",das,B1,61.4566,0.4045,0,summer semester,Das Sommersemester beginnt im April.,The summer semester starts in April.
 1462,"die Wissenschaft, -en",die,B1,60.5202,0.8623,0,science,Biologie ist die Wissenschaft vom Leben.,Biology is the science of life.
 1534,VWL (Volkswirtschaftslehre),die,B1,57.1689,0.4333,0,economics,Studentinnen der Volkswirtschaft benötigen gute Fähigkeiten in Mathematik.,Students of economics need good mathematical abilities.
-1549,"der Kurs, -e",der,A1,56.4297,0.9064,0,"course, exchange rate",Im Wintersemester mache ich einen Kurs in Volkswirtschaftslehre.,In the winter semester I’m taking a course in economics.
 1564,"die Kategorie, -n",die,B1,55.8383,0.6318,0,category,Sie gewinnt einen Preis in der Kategorie “bester Film”.,She wins an award in the category “best film”.
 1617,"der Lehrstuhl, -̈e",der,B1,53.4727,0.4728,0,"professorship, chair",Sie arbeitet am Lehrstuhl für Physik.,She works at the Chair of Physics.
 1626,"das Kriterium, -en",das,B1,53.1277,0.8689,0,criterion,Frau Schneider erfüllt alle erforderlichen Kriterien für den Job.,Mrs. Schneider fulfills all necessary criteria for the job.
 1636,die Mathematik,die,B1,52.7334,0.7363,0,mathematics,"In der Schule hat Laura Physik, Mathematik und andere Fächer.","At school Laura studies physics, mathematics, and other subjects."
 1695,"das Experiment, -e",das,B1,50.4664,0.8218,0,experiment,"Der Lehrer zeigt in einem Experiment, wie zwei chemische Substanzen miteinander reagieren.",The teacher shows in an experiment how two chemical substances react with each other.
-1731,"das Fach, -̈er",das,A2,49.1357,0.8487,0,"compartment, subject",Chemie ist Frederiks bestes Fach in der Schule.,Chemistry is Frederik’s best subject at school.
-1770,"der Test, -s",der,A1,48.0515,0.8707,0,test,Ich habe heute zwei Tests geschrieben und beide bestanden.,I took two tests today and passed them both.
-1823,"der Unterricht, -e",der,A1,46.4251,0.7786,0,"instruction, classes",Der Unterricht endet am späten Nachmittag.,Classes end in the late afternoon.
-1827,"die Prüfung, -en",die,A1,46.2773,0.8823,0,"examination, test, exam",Am Ende des Wintersemesters schreiben die Studenten ihre Prüfungen.,"At the end of the winter semester, students write their exams."
 1866,"der Beweis, -e",der,B1,45.0452,0.9197,0,"proof, evidence",Die zehn Kinder sind ein Beweis ihrer Liebe.,The ten children are a proof of her love.
 1917,die Physik,die,B1,43.5667,0.6181,0,physics,Die Physik ist eine Wissenschaft und untersucht grundlegende Phänomene in der Natur.,Physics is a science and investigates fundamental phenomena in nature.
 1936,"das Phänomen, -e",das,B1,43.1724,0.8707,0,phenomenon,"Phänomene sind Dinge, die der Mensch mit seinen Sinnen wahrnehmen kann.",Phenomena are things that people can perceive with their senses.
@@ -41,27 +42,27 @@ rank,word,pos,level,freq_per_million,dispersion,has_conjugation,definition,examp
 2256,"die Variante, -n",die,B1,35.8784,0.8901,0,"variant, variation",Das Handy gibt es in verschiedenen Varianten und Farben.,The phone is available in many different variants and colors.
 2446,die Betriebswirtschaftslehre,die,B1,32.2314,0.3176,0,business administration,Mein Onkel studiert Betriebswirtschaftslehre.,My uncle is studying business administration.
 2461,"das Seminar, -e",das,B1,32.0343,0.7145,0,seminar,In dem Seminar wird über die Idee von Gut und Böse diskutiert.,The seminar will discuss the idea of good and evil.
-2778,"die Auswertung, -en",die,B2+,27.4509,0.8033,0,"evaluation, analysis",Ich lese gerade die Auswertung meiner Prüfung.,I’m currently reading the evaluation of my exam.
 2879,"der Vortrag, -̈e",der,B1,26.3174,0.9271,0,lecture,Sie hält einen Vortrag über die Wahlen in Frankreich.,She’s giving a lecture on the elections in France.
-2922,"die Philosophie, -n",die,B2+,25.726,0.7831,0,philosophy,Max schreibt für sein Seminar über Philosophie eine Arbeit über Aristoteles.,Max writes a paper about Aristotle for his seminar on philosophy.
-2952,"die Note, -n",die,A2,25.381,0.8945,0,"note, grade",Der Lehrer gibt den Schülern Noten für ihre Leistungen im Unterricht.,The teacher gives the students marks for their performance in class.
-2984,"die Prognose, -n",die,B2+,24.9868,0.8622,0,"prognosis, forecast",Die Prognose für das Wetter für die nächste Woche ist sehr gut.,The forecast for the weather next week is very good.
 3007,"das Semester, -",das,B1,24.7403,0.7999,0,semester,Der Bachelor dauert in Deutschland sechs Semester.,The bachelor’s program lasts six semesters in Germany.
+3329,"das Abitur, -e",das,B1,21.1919,0.8147,0,"school leaving exam, A levels",Nach dem Abitur besucht sie die Universität.,"After her A levels, she went to the university."
+3600,"die Qualifikation, -en",die,B1,19.122,0.8487,0,qualification,Martha hat gute Qualifikationen und bekommt den Job.,Martha has good qualifications and gets the job.
+3617,die Biologie,die,B1,19.0235,0.6662,0,biology,Die Biologie beschäftigt sich mit lebenden Organismen.,Biology deals with living organisms.
+3993,"die Erfindung, -en",die,B1,16.6578,0.8924,0,invention,Der Computer ist eine sehr nützliche Erfindung.,The computer is a very useful invention.
+4627,"die Recherche, -n",die,B1,13.4544,0.8898,0,research,Für meine Recherche gehe ich in die Bibliothek.,I’ll go to the library to do my research.
+2778,"die Auswertung, -en",die,B2+,27.4509,0.8033,0,"evaluation, analysis",Ich lese gerade die Auswertung meiner Prüfung.,I’m currently reading the evaluation of my exam.
+2922,"die Philosophie, -n",die,B2+,25.726,0.7831,0,philosophy,Max schreibt für sein Seminar über Philosophie eine Arbeit über Aristoteles.,Max writes a paper about Aristotle for his seminar on philosophy.
+2984,"die Prognose, -n",die,B2+,24.9868,0.8622,0,"prognosis, forecast",Die Prognose für das Wetter für die nächste Woche ist sehr gut.,The forecast for the weather next week is very good.
 3061,"die These, -n",die,B2+,24.0011,0.8688,0,thesis,Ich brauche eine gute These für meine wissenschaftliche Arbeit.,I need a good thesis for my scientific work.
 3262,"die Psychologie, -n",die,B2+,21.7833,0.5536,0,psychology,Elsa studiert Psychologie in den Niederlanden.,Elsa studies psychology in the Netherlands.
-3329,"das Abitur, -e",das,B1,21.1919,0.8147,0,"school leaving exam, A levels",Nach dem Abitur besucht sie die Universität.,"After her A levels, she went to the university."
 3413,die Erziehung,die,B2+,20.6005,0.8454,0,"upbringing, education",Ihre strenge Erziehung zerstört die emotionale Beziehung zwischen Eltern und Kind.,Their strict upbringing destroys the emotional relationship between parents and child.
 3447,"die Entdeckung, -en",die,B2+,20.2555,0.8622,0,discovery,Marie Curies Erfolg war die Entdeckung des chemischen Elements Radium.,Marie Curie’s success was the discovery of the chemical element radium.
 3543,"die Hypothese, -n",die,B2+,19.5656,0.7605,0,hypothesis,Die Hypothese ist widerlegt.,The hypothesis is refuted.
-3600,"die Qualifikation, -en",die,B1,19.122,0.8487,0,qualification,Martha hat gute Qualifikationen und bekommt den Job.,Martha has good qualifications and gets the job.
 3616,"die Architektur, -en",die,B2+,19.0235,0.7698,0,architecture,Sie studiert Architektur und entwirft nun ihr erstes Gebäude.,She is studying architecture and is now designing her first building.
-3617,die Biologie,die,B1,19.0235,0.6662,0,biology,Die Biologie beschäftigt sich mit lebenden Organismen.,Biology deals with living organisms.
 3659,"der Nachweis, -e",der,B2+,18.7278,0.7715,0,"proof, evidence, certificate","Wir benötigen einen Nachweis darüber, dass sie im Moment studieren.",We need proof that you are currently studying.
 3697,"das Schema, -s",das,B2+,18.4813,0.8425,0,scheme,Er arbeitet nach einem festen Schema.,He works according to a fixed scheme.
 3715,"die Stichprobe, -n",die,B2+,18.3828,0.6044,0,sample,"Die Stichproben unterscheiden sich in ihrer Qualität, sind aber allgemein akzeptabel.",The samples differ in quality but are generally acceptable.
 3891,die Thermodynamik,die,B2+,17.2985,0.509,0,thermodynamics,Die Lehre von der Wärme wird auch Thermodynamik genannt.,The theory of heat is also called thermodynamics.
 3940,"das Examen, -ia",das,B2+,16.9043,0.6631,0,exam,Stefanie besteht ihr Examen mit einer guten Note.,Stefanie passes her exam with a good grade.
-3993,"die Erfindung, -en",die,B1,16.6578,0.8924,0,invention,Der Computer ist eine sehr nützliche Erfindung.,The computer is a very useful invention.
 4040,"die Geographie, -n",die,B2+,16.4114,0.235,0,geography,Ben studiert Geographie in Leipzig.,Ben studies geography in Leipzig.
 4076,"die Befragung, -en",die,B2+,16.2143,0.7373,0,"questioning, survey, interview",Die Polizei führt eine Befragung von verdächtigen Personen durch.,The police are questioning suspects.
 4132,die Informatik,die,B2+,15.8693,0.5346,0,computer science,"Weil Jan Informatik studiert, sitzt er viel am Computer.","Because Jan is studying computer science, he spends a lot of time at the computer."
@@ -73,7 +74,6 @@ rank,word,pos,level,freq_per_million,dispersion,has_conjugation,definition,examp
 4490,die Physiologie,die,B2+,14.0951,0.4977,0,physiology,Die Physiologie des Menschen ist ein Gebiet in der Medizin.,Human physiology is a field in medicine.
 4505,"die Logik, -en",die,B2+,14.0458,0.8746,0,logic,Ich verstehe die Logik deiner Gedanken nicht.,I don’t understand the logic of your thoughts.
 4512,"die Ökonomie, -n",die,B2+,13.9965,0.7063,0,economics,Unter Ökonomie versteht man die Wissenschaft der Wirtschaft.,Economics is the science of business.
-4627,"die Recherche, -n",die,B1,13.4544,0.8898,0,research,Für meine Recherche gehe ich in die Bibliothek.,I’ll go to the library to do my research.
 4654,"das Gutachten, -",das,B2+,13.3066,0.8664,0,"report, (expert) opinion","Der Experte gibt ein Gutachten zu unserem Haus ab, das wir verkaufen wollen.","The expert gives an expert opinion on our house, which we want to sell."
 4693,"der Fachbereich, -e",der,B2+,13.1094,0.632,0,"(academic) department, field",Ich leite den Fachbereich Fremdsprachen an der Universität.,I manage the Department of Foreign Languages at the university.
 4768,"der Studiengang, -̈e",der,B2+,12.863,0.7171,0,course of study,Diesen Studiengang kann man nur an wenigen Universitäten studieren.,This course of study can only be studied at a few universities.

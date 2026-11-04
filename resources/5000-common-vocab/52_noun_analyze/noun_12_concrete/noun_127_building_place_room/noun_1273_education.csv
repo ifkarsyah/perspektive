@@ -1,13 +1,13 @@
 rank,word,pos,level,freq_per_million,dispersion,has_conjugation,definition,example_de,example_en
 359,"die Schule, -n",die,A1,233.9983,0.8734,0,school,In Deutschland muss jedes Kind zur Schule gehen.,In Germany every child has to go to school.
-415,"die Universität, -en (Uni)",die,A2,199.5984,0.87,0,university,Die Universität Heidelberg ist die älteste Universität Deutschlands.,The University of Heidelberg is the oldest university in Germany.
 961,"die Klasse, -n",die,A1,90.2875,0.882,0,"class, classroom, grade",Antonia ist die beste Schülerin in ihrer Klasse.,Antonia is the best student in her class.
-1899,"die Hochschule, -n",die,B1,44.0102,0.8455,0,"college, university",Magdalena studiert Betriebswirtschaftslehre an der Hochschule in Leipzig.,Magdalena studies business administration at the University of Leipzig.
+3371,"der Kindergarten, -̈",der,A1,20.8962,0.8254,0,"nursery school, kindergarten",Mathilde geht schon in den Kindergarten.,Mathilde is already going to kindergarten.
+415,"die Universität, -en (Uni)",die,A2,199.5984,0.87,0,university,Die Universität Heidelberg ist die älteste Universität Deutschlands.,The University of Heidelberg is the oldest university in Germany.
 2366,"die Bibliothek, -en",die,A2,33.5621,0.7256,0,library,Mona findet das Buch weder online noch in der Bibliothek.,Mona can’t find the book either online or in the library.
+1899,"die Hochschule, -n",die,B1,44.0102,0.8455,0,"college, university",Magdalena studiert Betriebswirtschaftslehre an der Hochschule in Leipzig.,Magdalena studies business administration at the University of Leipzig.
 2959,"das Labor, -e",das,B2+,25.2825,0.8656,0,laboratory,Robert Koch führte in seinem Labor in Berlin Experimente zu Krankheiten durch.,Robert Koch conducted experiments on diseases in his laboratory in Berlin.
 3081,"das Gymnasium, -en",das,B2+,23.8532,0.7955,0,secondary school,Nach der Grundschule wechseln einige kluge Schüler auf das Gymnasium.,After primary school some smart students move on to secondary school.
 3109,"die Universitätsbibliothek, -en",die,B2+,23.5575,0.5581,0,university library,Sie holt sich ein Buch aus der Universitätsbibliothek.,She’s getting a book from the university library.
-3371,"der Kindergarten, -̈",der,A1,20.8962,0.8254,0,"nursery school, kindergarten",Mathilde geht schon in den Kindergarten.,Mathilde is already going to kindergarten.
 3589,"die Akademie, -n",die,B2+,19.1713,0.6949,0,academy,Die Jury der Akademie entscheidet sich für einen Kandidaten.,The academy’s jury decides on a candidate.
 4572,"die Fachhochschule, -n",die,B2+,13.7008,0.7705,0,"technical college, university of applied sciences",Ich studiere an einer Fachhochschule und nicht an einer Universität.,I study at a technical college and not at a university.
 4825,"das Archiv, -e",das,B2+,12.5673,0.8735,0,archive,Ich suche ein altes Dokument im Archiv.,I am looking for an old document in the archive.

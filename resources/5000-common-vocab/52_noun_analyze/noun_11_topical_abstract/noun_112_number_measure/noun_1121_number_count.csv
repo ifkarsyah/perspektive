@@ -1,12 +1,12 @@
 rank,word,pos,level,freq_per_million,dispersion,has_conjugation,definition,example_de,example_en
 209,"Million, Mio.",die,A1,410.3842,0.8836,0,million,Die Stadt Tokio hat ca. 35 Millionen Einwohner.,The city of Tokyo has about 35 million inhabitants.
+806,"die Nummer, -n",die,A1,106.7975,0.9252,0,number,"Ich kann ihn nicht anrufen, weil ich seine Nummer nicht habe.",I can’t call him because I don’t have his number.
+2624,die Erste,"der, die",A1,29.718,0.9062,0,first,Angela Merkel ist die Erste in diesem Amt.,Angela Merkel is the first in this position.
 297,"die Zahl, -en",die,A2,285.3518,0.9084,0,number,In der Mathematik braucht man Zahlen.,In mathematics you need numbers.
 453,"Milliarde, Mrd.",die,A2,181.5606,0.8253,0,billion,Er hat Milliarden mit seinem Produkt verdient.,He has made billions with his product.
-806,"die Nummer, -n",die,A1,106.7975,0.9252,0,number,"Ich kann ihn nicht anrufen, weil ich seine Nummer nicht habe.",I can’t call him because I don’t have his number.
 853,"die Anzahl, -en",die,B1,101.6227,0.8404,0,number,Eine große Anzahl von Menschen geht wählen.,A large number of people vote.
 1114,"die Summe, -n",die,B1,78.2623,0.8597,0,sum,Die Summe von zwei und vier ist sechs.,The sum of two and four is six.
 2110,"das Dutzend, -e",das,B1,38.7862,0.892,0,dozen,Sechs ist ein halbes Dutzend.,Six is half a dozen.
 2429,"das Plus, -",das,B1,32.5764,0.7805,0,plus,Das Plus an dem neuen Job ist das schöne neue Büro.,The plus of this new job is the beautiful new office.
-2624,die Erste,"der, die",A1,29.718,0.9062,0,first,Angela Merkel ist die Erste in diesem Amt.,Angela Merkel is the first in this position.
 3043,"das Minus, -se",das,B2+,24.2968,0.8497,0,"minus, deficit",Das Unternehmen hat im letzten Jahr ein Minus von zwei Millionen gemacht.,"Last year, the company had a deficit of two million."
 3273,Hunderte,(pl),B2+,21.6848,0.8903,0,hundreds,Es versammeln sich Hunderte von Menschen für die Demonstration.,Hundreds of people are gathering for the demonstration.

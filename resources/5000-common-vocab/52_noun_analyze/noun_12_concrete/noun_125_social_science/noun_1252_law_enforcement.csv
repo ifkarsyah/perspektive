@@ -1,7 +1,8 @@
 rank,word,pos,level,freq_per_million,dispersion,has_conjugation,definition,example_de,example_en
+550,"die Polizei, -en",die,A1,156.081,0.8314,0,police,"Gehen Sie, sonst rufen wir die Polizei.","Go away, or we’re calling the police."
+1806,die Beamte,"der, die",A1,46.9672,0.8743,0,"official, civil servant",Lehrer und Polizisten sind Beamte.,Teachers and police officers are civil servants.
 410,"der Flüchtling, -e",der,A2,201.5698,0.766,0,refugee,Viele Länder gewähren die Aufnahme von Flüchtlingen.,Many countries grant entry to refugees.
 546,"der Präsident, -en",der,A2,156.771,0.8327,0,president,Die Präsidentin regiert das Land.,The president rules the country.
-550,"die Polizei, -en",die,A1,156.081,0.8314,0,police,"Gehen Sie, sonst rufen wir die Polizei.","Go away, or we’re calling the police."
 683,"der Bürger, -",der,B1,129.2708,0.8188,0,citizen,Ferdinand ist ein Bürger von Berlin.,Ferdinand is a citizen of Berlin.
 839,"das Mitglied, -er",das,B1,102.5098,0.9105,0,member,Ich bin Mitglied einer Partei.,I’m a member of a party.
 1007,"das Opfer, -",das,B1,86.4434,0.8885,0,"sacrifice, victim",Der Krieg forderte viele Opfer.,The war claimed many victims.
@@ -15,7 +16,6 @@ rank,word,pos,level,freq_per_million,dispersion,has_conjugation,definition,examp
 1600,"der Bürgermeister, -",der,B1,54.1133,0.8367,0,mayor,Der Bürgermeister unserer Stadt ist Mitglied der SPD.,The mayor of our town is a member of the SPD.
 1700,"der Ministerpräsident, -en",der,B1,50.1707,0.7792,0,"governor, minister president",Der Ministerpräsident besetzt ein öffentliches Amt im Parlament.,The minister president holds a public office in parliament.
 1720,"der Minister, -",der,B1,49.4314,0.8156,0,minister,Wir wählen einen neuen Minister für das Amt für Bildung.,We elect a new minister for the Office of Education.
-1806,die Beamte,"der, die",A1,46.9672,0.8743,0,"official, civil servant",Lehrer und Polizisten sind Beamte.,Teachers and police officers are civil servants.
 1854,"der Kandidat, -en",der,B1,45.2423,0.8099,0,candidate,Sie ist die beste Kandidatin für den Job.,She’s the best candidate for the job.
 1887,"der Anwalt, -̈e",der,B1,44.4538,0.8556,0,"attorney, lawyer",Der Anwalt verteidigt den Mann vor Gericht.,The lawyer defends the man in court.
 1983,"der Kanzler, -",der,B1,41.891,0.781,0,chancellor,Angela Merkel wurde im November 2005 zur Kanzlerin der Bundesrepublik Deutschland gewählt.,Angela Merkel was elected chancellor of the Federal Republic of Germany in November 2005.
@@ -24,14 +24,15 @@ rank,word,pos,level,freq_per_million,dispersion,has_conjugation,definition,examp
 2209,"die Armee, -n",die,B1,36.7655,0.8646,0,army,In der Armee lernt er mit Waffen zu schießen.,In the army he learns to shoot with guns.
 2250,"der Bundeskanzler, -",der,B1,35.9277,0.8092,0,federal chancellor,Konrad Adenauer war der erste Bundeskanzler der BRD.,Konrad Adenauer was the first chancellor of West Germany.
 2286,"der Richter, -",der,B1,35.3363,0.8609,0,judge,"Ein Richter entscheidet, ob eine Person schuldig ist und wie sie bestraft wird.",A judge decide whether a person is guilty and how he or she will be punished.
+2618,"der Zeuge, -n",der,B1,29.8166,0.8688,0,witness,"Die Zeugin behauptet, den Täter nicht zu kennen.",The witness claims not to know who the perpetrator is.
+2893,"der Migrant, -en",der,B1,26.071,0.7274,0,migrant,Veronika unterrichtet eine Klasse syrischer Migranten.,Veronika teaches a class of Syrian migrants.
+3778,"die Feuerwehr, -en",die,B1,17.9392,0.7457,0,fire brigade,"In meinem Haus brennt es, ich muss sofort die Feuerwehr rufen.",My house is on fire; I have to call the fire brigade right now.
 2518,"der Wähler, -",der,B2+,31.2458,0.6921,0,voter,Die Wähler warten auf die Umsetzung der Versprechen der Politiker.,The voters are waiting for the politicians’ promises to be fulfilled.
 2563,"der Kaiser, -",der,B2+,30.5065,0.6249,0,emperor,Kaiser Augustus regierte das Römische Reich.,Emperor Augustus ruled the Roman Empire.
-2618,"der Zeuge, -n",der,B1,29.8166,0.8688,0,witness,"Die Zeugin behauptet, den Täter nicht zu kennen.",The witness claims not to know who the perpetrator is.
 2647,"der Außenminister, -",der,B2+,29.3237,0.7647,0,foreign minister,Die Außenministerin trifft sich mit dem türkischen Präsidenten.,The foreign minister is meeting with the Turkish president.
 2667,"der Feind, -e",der,B2+,29.0773,0.8848,0,enemy,Nach dem Krieg schließen die ehemaligen Feinde Frieden.,"After the war, the former enemies make peace."
 2774,"der Terrorist, -en",der,B2+,27.5495,0.8135,0,terrorist,Terroristen sind für viel Leid verantwortlich.,Terrorists are responsible for much suffering.
 2843,"die Truppe, -n",die,B2+,26.7117,0.8476,0,"troops, unit",Die Freunde von Klara sind eine lustige Truppe.,Klara’s friends are a funny group.
-2893,"der Migrant, -en",der,B1,26.071,0.7274,0,migrant,Veronika unterrichtet eine Klasse syrischer Migranten.,Veronika teaches a class of Syrian migrants.
 3083,"der Mörder, -",der,B2+,23.8532,0.8027,0,murderer,Der Mörder muss für acht Jahre ins Gefängnis.,The murderer must go to prison for eight years.
 3221,die Bundeswehr,die,B2+,22.2762,0.7846,0,Armed Forces,Der Einsatz der Bundeswehr im Irak ist umstritten.,The deployment of the Bundeswehr in Iraq is disputed.
 3257,"der Innenminister, -",der,B2+,21.8326,0.7673,0,Minister of the Interior,Der Innenminister ist der Minister für innere Angelegenheiten.,The Minister of the Interior is the Minister for Internal Affairs.
@@ -43,7 +44,6 @@ rank,word,pos,level,freq_per_million,dispersion,has_conjugation,definition,examp
 3541,"der Ermittler, -",der,B2+,19.5656,0.7466,0,investigator,Sie ist die zuständige Ermittlerin in diesem Fall.,She’s the investigator in charge of this case.
 3557,"der Regierungschef, -s",der,B2+,19.4177,0.7669,0,head of government,Sie strebt das Amt des Regierungschefs an.,She is striving for the office of head of government.
 3671,"der Prinz, -en",der,B2+,18.6292,0.7146,0,prince,Prinz Harry ist der Enkel von Königin Elizabeth.,Prince Harry ist the grandson of Queen Elizabeth.
-3778,"die Feuerwehr, -en",die,B1,17.9392,0.7457,0,fire brigade,"In meinem Haus brennt es, ich muss sofort die Feuerwehr rufen.",My house is on fire; I have to call the fire brigade right now.
 3790,"der Baron, -e",der,B2+,17.8899,0.4999,0,baron,Den Titel Baron bekamen früher nur reiche Menschen.,"In the past, only rich people got the title of baron."
 3822,"der Republikaner, -",der,B2+,17.6928,0.6431,0,Republican,Die Republikaner sind Anhänger der Republikanischen Partei der USA.,The Republicans are supporters of the Republican Party of the USA.
 3830,"der Offizier, -e",der,B2+,17.6435,0.7343,0,officer,Der Offizier gibt den Soldaten Anweisungen.,The officer gives instructions to the soldiers.

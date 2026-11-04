@@ -1,15 +1,15 @@
 rank,word,pos,level,freq_per_million,dispersion,has_conjugation,definition,example_de,example_en
+2020,"das Kino, -s",das,A1,40.9054,0.8845,0,"cinema, movie theater",Im Kino läuft seit Mittwoch ein Film über den Künstler Egon Schiele.,Since Wednesday a film about the artist Egon Schiele is showing in the cinema.
+2237,"die Halle, -n",die,A1,36.2727,0.8769,0,hall,Das Konzert findet in einer riesigen Halle statt.,The concert takes place in a huge hall.
 1078,"das Museum, -en",das,A2,80.9729,0.8029,0,museum,Das Museum plant eine Ausstellung zu moderner Kunst.,The museum is planning an exhibition on modern art.
 1086,"das Theater, -",das,A2,80.2336,0.8045,0,theater,Die Schauspielerin arbeitet am Theater.,The actress works at the theater.
-1449,"die Bühne, -n",die,B1,61.358,0.8762,0,stage,Die Schauspieler verlassen die Bühne unter Beifall.,The actors are leaving the stage to applause.
-2020,"das Kino, -s",das,A1,40.9054,0.8845,0,"cinema, movie theater",Im Kino läuft seit Mittwoch ein Film über den Künstler Egon Schiele.,Since Wednesday a film about the artist Egon Schiele is showing in the cinema.
 2141,"der Park, -s",der,A2,38.1948,0.888,0,park,"Die Studenten treffen sich im Park, um die Sonne zu genießen.",The students meet in the park to enjoy the sun.
-2237,"die Halle, -n",die,A1,36.2727,0.8769,0,hall,Das Konzert findet in einer riesigen Halle statt.,The concert takes place in a huge hall.
+1449,"die Bühne, -n",die,B1,61.358,0.8762,0,stage,Die Schauspieler verlassen die Bühne unter Beifall.,The actors are leaving the stage to applause.
 2733,"der Saal, -̈le",der,B1,28.1409,0.8609,0,hall,Das Konzert findet in einem festlichen Saal statt.,The concert takes place in a festive hall.
 3140,"das Stadion, -e",das,B1,23.1633,0.7214,0,stadium,Wir sehen uns das Spiel live im Stadion an.,We’ll watch the match live at the stadium.
+4328,"die Galerie, -n",die,B1,14.7851,0.8529,0,gallery,"Heute öffnet die Galerie, in der meine Bilder zu sehen sind.",Today the gallery where you can see my pictures opens.
+4606,"das Studio, -s",das,B1,13.553,0.8011,0,studio,"Wir gehen ins Studio, um unsere eigene Sendung für das Radio aufzunehmen.",We’re going to the studio to record our own show for the radio.
 3964,"das Camp, -s",das,B2+,16.8057,0.7779,0,camp,"Emil freut sich auf das Camp, weil er den ganzen Tag mit anderen Kindern spielen kann.",Emil is looking forward to the camp because he can play with other children all day long.
 4299,"die Kulisse, -n",die,B2+,14.9822,0.8763,0,"setting, scenery, backdrop",Dieser Platz bietet eine schöne Kulisse für mein Foto.,This place offers a nice setting for my photo.
-4328,"die Galerie, -n",die,B1,14.7851,0.8529,0,gallery,"Heute öffnet die Galerie, in der meine Bilder zu sehen sind.",Today the gallery where you can see my pictures opens.
 4373,"die Piste, -n",die,B2+,14.6372,0.7061,0,slope,Im Winter fahre ich regelmäßig die Piste runter.,In winter I ski down the slope regularly.
-4606,"das Studio, -s",das,B1,13.553,0.8011,0,studio,"Wir gehen ins Studio, um unsere eigene Sendung für das Radio aufzunehmen.",We’re going to the studio to record our own show for the radio.
 4844,"das Atelier, -s",das,B2+,12.4687,0.7381,0,studio,"Der Maler arbeitet in einem Atelier, weil er dort viel Licht hat.",The painter works in a studio because he has a lot of light there.
