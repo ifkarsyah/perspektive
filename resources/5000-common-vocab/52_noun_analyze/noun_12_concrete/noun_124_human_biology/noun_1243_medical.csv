@@ -1,5 +1,6 @@
 rank,word,pos,level,freq_per_million,dispersion,has_conjugation,definition,example_de,example_en
 620,"der Patient, -en",der,B1,140.8524,0.7609,0,patient,Die Ärztin untersucht jeden Tag viele Patienten.,The doctor examines many patients every day.
+1457,"die Praxis, -en",die,A1,60.9145,0.9056,0,"practice, doctor’s office","Nicht nur theoretische Erfahrungen, sondern auch Praxis ist wichtig.","Not only theoretical experience, but also practice is important."
 1529,"das Krankenhaus, -̈er",das,A2,57.3168,0.8809,0,hospital,Sie arbeitet als Ärztin im Krankenhaus.,She works as a doctor in the hospital.
 2202,"die Klinik, -en",die,B1,36.9627,0.8145,0,"clinic, hospital",Die Klinik ist auf Herzoperationen spezialisiert.,The clinic specializes in heart surgeries.
 2257,"das Medikament, -e",das,A2,35.8291,0.8434,0,"medicine, drug",Judith nimmt Medikamente gegen ihre Schmerzen.,Judith takes medication for her pain.

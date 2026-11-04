@@ -48,13 +48,9 @@ rank,word,pos,level,freq_per_million,dispersion,has_conjugation,definition,examp
 3100,"der Duft, -̈e",der,B2+,23.6561,0.5432,0,"(pleasant) smell, fragrance",Die Blume verbreitet einen süßen Duft.,The flower spreads a sweet scent.
 3167,"die Lunge, -n",die,B2+,22.8183,0.7269,0,lung,Rauchen ist schlecht für die Lunge.,Smoking is bad for the lungs.
 3209,"das Grab, -̈er",das,B2+,22.3747,0.8687,0,grave,Jeden Sonntag bringt sie frische Blumen ans Grab ihres Mannes.,Every Sunday she brings fresh flowers to her husband’s grave.
-3241,"die Arterie, -n",die,B2+,22.079,0.5045,0,artery,Das Blut fließt durch die Arterien.,Blood flows through the arteries.
 3250,"die Faust, -̈e",die,B2+,21.9312,0.8732,0,fist,Albert schlägt seinem Bruder mit der Faust ins Gesicht.,Albert punches his brother in the face with his fist.
 3274,"der Leib, -er",der,B2+,21.6848,0.8889,0,body,Sie zittert am ganzen Leib.,She’s shivering all over her body.
 3305,"die Droge, -n",die,B1,21.3891,0.8713,0,drug,Viele Drogen machen schnell abhängig.,A lot of drugs make you addicted fast.
-3465,"die Vene, -n",die,B2+,20.2063,0.4439,0,vein,Das Blut fließt durch die Venen zum Herzen.,Blood flows through the veins to the heart.
-3538,"die Muskulatur, -en",die,B2+,19.6149,0.6122,0,musculature,"Nach dem Unfall muss sie viel Sport machen, um ihre Muskulatur zu stärken.",After the accident she has to do a lot of sports to strengthen her musculature.
-3601,"die Schlange, -n",die,B2+,19.122,0.8898,0,"snake, line",An der Kasse ist eine lange Schlange.,There’s a long line at the cash register.
 3692,"der Bruch, -̈e",der,B2+,18.4813,0.9018,0,"fracture, break",Der Bruch in meinem Bein heilt sehr schnell.,The fracture in my leg heals very fast.
 3740,"die Wunde, -n",die,B1,18.2349,0.8765,0,wound,Aus der frischen Wunde fließt Blut.,Blood flows from the fresh wound.
 3821,"der Nacken, -",der,B2+,17.6928,0.8475,0,neck,Der Nacken ist der Übergang vom Rücken zum Kopf.,The neck is the transition from the back to the head.
@@ -66,7 +62,6 @@ rank,word,pos,level,freq_per_million,dispersion,has_conjugation,definition,examp
 4105,"die Hüfte, -n",die,B2+,16.0664,0.7574,0,hip,Das Wasser reichte ihr bis zur Hüfte.,The water reached her hip.
 4122,"das Glied, -er",das,B2+,15.9679,0.847,0,"limb, joint, link","Ihre goldene Kette ist kaputt, ein Glied ist gerissen.",Her gold chain is broken; one link tore.
 4157,"der Schädel, -",der,B2+,15.7215,0.8202,0,"skull, head",Der feste Knochen des Schädels schützt das Gehirn vor Verletzungen.,The strong bone of the skull protects the brain from injury.
-4176,"das Nervensystem, -e",das,B2+,15.6229,0.6501,0,nervous systems,Man unterscheidet zwischen zwei Nervensystemen im menschlichen Körper.,One distinguishes between two nervous systems in the human body.
 4199,"der Oberschenkel, -",der,B2+,15.5243,0.6218,0,thigh,Als Oberschenkel bezeichnet man den oberen Teil des Beines bei einem Menschen.,The upper part of a person’s leg is called the thigh.
 4215,"der Darm, -̈e",der,B2+,15.4258,0.7319,0,intestine,"Der Darm ist ein Organ, über den wichtige Stoffe aus der Nahrung in den Körper gelangen.",The intestine is an organ through which important substances from food enter the body.
 4265,"das Hirn, -e",das,B2+,15.1301,0.8587,0,brain,"Bis heute weiß man nicht, was das menschliche Hirn alles leisten kann.","To this day, we do not know what the human brain can do."
@@ -79,6 +74,5 @@ rank,word,pos,level,freq_per_million,dispersion,has_conjugation,definition,examp
 4707,das Insulin,das,B2+,13.0601,0.5007,0,insulin,"Weil mein Vater Diabetes hat, braucht er Insulin.","Because my father has diabetes, he needs insulin."
 4726,"der Schoß, -̈e",der,B2+,13.0109,0.8281,0,lap,Benno sitzt auf dem Schoß von seinem Opa.,Benno sits on his grandfather’s lap.
 4786,die Verletzte,der,B2+,12.8137,0.7926,0,injured,Im Krankenhaus kümmert man sich um die Verletzten.,The hospital takes care of the injured.
-4984,"die Sehne, -n",die,B2+,11.9266,0.4086,0,tendon,Eine Sehne in meinem Fuß ist gerissen und ich kann nicht mehr laufen.,A tendon in my foot is torn and I can’t walk anymore.
 5002,"das Präparat, -e",das,B2+,11.8281,0.7056,0,"preparation, compound",Ich stelle ein biologisches Präparat für das Experiment her.,I’m producing a biological preparation for the experiment.
 5005,"die Tablette, -n",die,A2,11.8281,0.7668,0,"tablet, pill",Mein Arzt gibt mir Tabletten gegen die Schmerzen.,My physician has given me pills for the pain.

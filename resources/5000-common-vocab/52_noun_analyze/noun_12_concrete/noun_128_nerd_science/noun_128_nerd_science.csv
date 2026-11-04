@@ -34,7 +34,10 @@ rank,word,pos,level,freq_per_million,dispersion,has_conjugation,definition,examp
 3005,"der Mond, -e",der,B1,24.7403,0.8255,0,moon,Der Mond bewegt sich um die Erde.,The moon moves around the earth.
 3142,der Wasserstoff,der,B2+,23.114,0.6451,0,hydrogen,"Wasserstoff ist ein chemisches Element, das mit Sauerstoff zusammen Wasser ergibt.","Hydrogen is a chemical element which, together with oxygen, produces water."
 3191,"die Fettsäure, -n",die,B2+,22.5719,0.4357,0,fatty acid,Omega-3-Fettsäuren sind sehr gut für das Herz.,Omega-3 fatty acids are very good for the heart.
+3241,"die Arterie, -n",die,B2+,22.079,0.5045,0,artery,Das Blut fließt durch die Arterien.,Blood flows through the arteries.
+3465,"die Vene, -n",die,B2+,20.2063,0.4439,0,vein,Das Blut fließt durch die Venen zum Herzen.,Blood flows through the veins to the heart.
 3537,"der Embryo, -ne",der,B2+,19.6149,0.6905,0,embryo,In der sechsten Woche beginnt das Herz eines menschlichen Embryos zu schlagen.,In the sixth week the heart of a human embryo begins to beat.
+3538,"die Muskulatur, -en",die,B2+,19.6149,0.6122,0,musculature,"Nach dem Unfall muss sie viel Sport machen, um ihre Muskulatur zu stärken.",After the accident she has to do a lot of sports to strengthen her musculature.
 3621,"das Lösungsmittel, -",das,B2+,19.0235,0.6241,0,solvent,Die Farben sind frei von Lösungsmitteln.,These paints are free of solvents.
 3880,"das Mitochondrium, -en",das,B2+,17.3478,0.4868,0,mitochondrion,Mitochondrien sind wichtige Bestandteile einer Zelle.,Mitochondria are important components of a cell.
 3881,"das Neuron, -en",das,B2+,17.3478,0.5549,0,neuron,Neuronen liegen im Gehirn und transportieren Informationen.,Neurons are located in the brain and transport information.
@@ -44,6 +47,7 @@ rank,word,pos,level,freq_per_million,dispersion,has_conjugation,definition,examp
 4041,"das Lebewesen, -",das,B2+,16.4114,0.7961,0,living being,Wasser ist eine lebenswichtige Ressource für alle Lebewesen.,Water is a vital resource for all living beings.
 4066,"der Siedepunkt, -e",der,B2+,16.3129,0.4648,0,boiling point,Der Siedepunkt von Wasser liegt bei einer Temperatur von 100°C.,The boiling point of water is at 100°C.
 4078,"die Eizelle, -n",die,B2+,16.2143,0.6115,0,"ovum, egg cell",Etwa am vierzehnten Tag der Periode ist die Eizelle reif.,"On about the 14th day of the period, the egg is ripe."
+4176,"das Nervensystem, -e",das,B2+,15.6229,0.6501,0,nervous systems,Man unterscheidet zwischen zwei Nervensystemen im menschlichen Körper.,One distinguishes between two nervous systems in the human body.
 4307,"das Gemisch, -e",das,B2+,14.9329,0.7234,0,mixture,Ein Gemisch besteht aus mehreren Stoffen.,A mixture consists of various substances.
 4372,"der Katalysator, -en",der,B2+,14.6372,0.6774,0,catalyst,Durch einen Katalysator wird eine chemische Reaktion beschleunigt.,A chemical reaction is accelerated by a catalyst.
 4464,"die Nervenzelle, -n",die,B2+,14.2429,0.706,0,"nerve cell, neuron",Sowohl Menschen als auch Tiere besitzen Nervenzellen und können so zum Beispiel Schmerz spüren.,"Both humans and animals have nerve cells and can feel pain, for example."
@@ -51,4 +55,5 @@ rank,word,pos,level,freq_per_million,dispersion,has_conjugation,definition,examp
 4619,"der Atomkern, -e",der,B2+,13.4544,0.5352,0,(atomic) nucleus,Der Atomkern ist der positiv geladene Teil eines Atoms.,The atomic nucleus is the positively charged part of an atom.
 4874,der Stickstoff,der,B2+,12.3702,0.6838,0,nitrogen,Stickstoff ist ein Bestandteil der Luft.,Nitrogen is a component of the air.
 4897,"das Isotop, -e",das,B2+,12.2716,0.6223,0,isotope,Als Isotope werden verschiedene Arten von Atomen bezeichnet.,Isotopes are defined as different types of atoms.
+4984,"die Sehne, -n",die,B2+,11.9266,0.4086,0,tendon,Eine Sehne in meinem Fuß ist gerissen und ich kann nicht mehr laufen.,A tendon in my foot is torn and I can’t walk anymore.
 4991,der Mars,der,B2+,11.8773,0.7249,0,Mars,Der Mars wird auch roter Planet genannt.,Mars is also called the red planet.
