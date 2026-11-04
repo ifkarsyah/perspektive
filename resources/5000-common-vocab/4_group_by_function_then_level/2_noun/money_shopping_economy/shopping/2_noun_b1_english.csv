@@ -1,0 +1,4 @@
+rank,word,pos,level,freq_per_million,dispersion,has_conjugation,definition,example_de,example_en
+1979,"die Ware, -n",die,B1,42.1867,0.8639,0,goods,"Der Besitzer des Ladens bekommt neue Ware, die er dann verkauft.","The owner of the shop gets new goods, which he then sells."
+2192,"die Marke, -n",die,B1,37.2091,0.847,0,"brand, stamp",Nur aufgrund der Marke ist das Produkt so teuer.,The product is so expensive only because of its brand.
+2284,"der Konsument, -en",der,B1,35.3363,0.6967,0,consumer,Viele Konsumenten kaufen lieber regionale Produkte.,Many consumers prefer to buy regional products.

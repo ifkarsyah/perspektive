@@ -1,0 +1,6 @@
+rank,word,pos,level,freq_per_million,dispersion,has_conjugation,definition,example_de,example_en
+783,"die Erde, -n",die,B1,109.6066,0.903,0,"earth, ground, soil",Die Erde wird auch blauer Planet genannt.,Earth is also called the blue planet.
+834,"das Feld, -er",das,B1,102.8548,0.8537,0,field,Das Pferd steht auf dem Feld.,The horse is standing in the field.
+2474,"der Sand, -e",der,B1,31.8865,0.8838,0,sand,Das ist ein schöner Strand mit weißem Sand.,This is a nice beach with white sand.
+2628,"die Küste, -n",die,B1,29.6687,0.851,0,coast,New York liegt an der Ostküste der USA.,New York is located on the east coast of the USA.
+4042,"der Ozean, -e",der,B1,16.4114,0.839,0,ocean,Ein riesiger Ozean trennt Europa von Amerika.,A giant ocean separates Europe from America.

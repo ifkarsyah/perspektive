@@ -1,0 +1,27 @@
+rank,word,pos,level,freq_per_million,dispersion,has_conjugation,is_separable,definition,example_de,example_en
+160,"folgen, folgt, folgte, ist gefolgt",verb,B1,546.6532,0.9077,1,0,to follow,Der Hund folgt meinem Vater.,The dog follows my father.
+193,"ziehen, zieht, zog, hat gezogen",verb,B1,446.3119,0.931,1,0,"to pull, move","Man muss an der Tür ziehen, um sie zu öffnen.",You have to pull on the door to open it.
+367,"treten, tritt, trat, hat getreten",verb,B1,227.9857,0.9545,1,0,to step,Natascha öffnet die Tür und tritt nach draußen.,Natascha opens the door and steps outside.
+450,"verlassen, verlässt, verließ, hat verlassen",verb,B1,183.2856,0.9267,1,0,to leave,In einem Monat werden sie das Land verlassen.,They’ll be leaving the country in a month.
+561,"bewegen, bewegt, bewegte, hat bewegt",verb,B1,153.6169,0.9465,1,0,to move,"Sie bewegt sich vorsichtig und langsam, um kein Geräusch zu machen.",She moves carefully and slowly to make no noise.
+1150,"verfolgen, verfolgt, verfolgte, hat verfolgt",verb,B1,75.6503,0.9477,1,0,"to pursue, chase",Sie werden von der Polizei verfolgt.,They’re being chased by the police.
+1217,"gelangen, gelangt, gelangte, ist gelangt",verb,B1,72.0033,0.9119,1,0,to reach,Endlich gelangen sie an das Ziel.,"Finally, they reach the goal."
+1316,"landen, landet, landete, ist gelandet",verb,B1,67.1242,0.9154,1,0,to land,Das Flugzeug landet auf dem Wasser.,The airplane lands on the water.
+1367,"begleiten, begleitet, begleitete, hat begleitet",verb,B1,65.0543,0.9321,1,0,to accompany,Ich begleite Tom auf seiner Reise.,I’m accompanying Tom on his journey.
+1431,"springen, springt, sprang, ist gesprungen",verb,B1,61.8509,0.8962,1,0,to jump,Bei dem Spiel springen alle Kinder in die Luft.,All children jump in the air during the game.
+1530,"wenden, wendet, wandte, hat gewandt",verb,B1,57.3168,0.9051,1,0,to turn around,Gabi wendet das Auto und fährt wieder zurück.,Gabi turns the car around and drives back.
+1581,"tauchen, taucht, tauchte, ist getaucht",verb,B1,54.8526,0.9127,1,0,"to dive, dip",Sie tauchen zusammen und sehen sich die Fische an.,They dive together and watch the fish.
+1624,"stürzen, stürzt, stürzte, ist gestürzt",verb,B1,53.2262,0.9131,1,0,"to fall, stumble",Ich habe die Stufe nicht gesehen und bin gestürzt.,I didn’t see the step and fell.
+1712,betreten,verb,B1,49.8257,0.8785,1,0,"to enter, walk into/onto","Wir dürfen das Haus nicht betreten, weil es hier nicht sicher ist.",We’re not allowed to enter the house because it’s not safe here.
+1722,"fließen, fließt, floss, ist geflossen",verb,B1,49.3328,0.9151,1,0,to flow,Durch Leipzig fließen zwei Flüsse.,Two rivers flow through Leipzig.
+2068,"rennen, rennt, rannte, ist gerannt",verb,B1,39.7718,0.8553,1,0,to run,"Die Kinder rennen sehr schnell, damit sie den Bus nicht verpassen.",The children run very fast so they don’t miss the bus.
+2261,"versetzen, versetzt, versetzte, hat versetzt",verb,B1,35.7799,0.9007,1,0,"to move, transfer",Die Hälfte meiner Kollegen wird von unserer Firma nach Berlin versetzt.,Half of my colleagues are being transferred to Berlin by our company.
+2438,"transportieren, transportiert, transportierte, hat transportiert",verb,B1,32.4286,0.856,1,0,to transport,Die Güter können mit dem Flugzeug oder dem Schiff transportiert werden.,The goods can be transported by air or sea.
+2467,"fliehen, flieht, floh, ist geflohen",verb,B1,31.9357,0.8974,1,0,"to flee, escape","Der Gefangene versuchte zu fliehen, scheiterte aber.","The prisoner tried to escape, but failed."
+2490,"rollen, rollt, rollte, hat gerollt",verb,B1,31.7386,0.8927,1,0,to roll,Der Ball rollt ins Tor.,The ball rolls into the goal.
+2601,"klettern, klettert, kletterte, ist geklettert",verb,B1,29.9644,0.8847,1,0,to climb,Tina und Tim klettern auf den Baum.,Tina and Tim climb the tree.
+2714,"nähern (sich), nähert, näherte, hat genähert",verb,B1,28.3873,0.918,1,0,to approach,Sie nähern sich dem Tier langsam und leise.,They approach the animal slowly and quietly.
+3683,"bremsen, bremst, bremste, hat gebremst",verb,B1,18.5306,0.9088,1,0,"to brake, slow down","Die Fahrerin muss bremsen, da Kühe auf der Straße sind.",The driver has to brake because there are cows on the road.
+4310,"eilen, eilt, eilte, hat geeilt",verb,B1,14.8836,0.8693,1,0,to hurry,"Ich eile immer zu meinem Bus, weil ich zu lange schlafe.",I always hurry to my bus because I sleep too long.
+4482,"überholen, überholt, überholte, hat überholt",verb,B1,14.1444,0.9112,1,0,"to pass, overhaul","Wenn das Auto vor mir zu langsam fährt, überhole ich es.","If the car in front of me drives too slowly, I’ll pass it."
+4546,"überqueren, überquert, überquerte, hat überquert",verb,B1,13.8487,0.8688,1,0,to cross,"Wir müssen schnell die Straße überqueren, bevor ein Auto kommt.",We must cross the road quickly before a car comes.

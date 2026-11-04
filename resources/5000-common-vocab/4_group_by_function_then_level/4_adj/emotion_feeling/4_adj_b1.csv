@@ -1,0 +1,10 @@
+rank,word,pos,level,freq_per_million,dispersion,has_conjugation,definition,example_de,example_en
+1372,stolz,adj,B1,64.7586,0.9177,0,proud,Ute ist stolz auf ihre drei Kinder.,Ute is proud of her three children.
+2388,emotional,adj,B1,33.2664,0.8318,0,emotional,Bei traurigen Filmen wird mein Vater immer emotional und weint.,"When watching sad movies, my father always gets emotional and cries."
+2481,einsam,adj,B1,31.7879,0.8927,0,"lonely, isolated","Sie fühlt sich einsam, jetzt wo all ihre Kinder aus dem Haus sind.",She’s lonely now that all her kids are out of the house.
+2586,wütend,adj,B1,30.1615,0.8732,0,furious,"Immer wenn Claudia ein Spiel verliert, wird sie wütend.","Whenever Claudia loses a game, she gets angry."
+2654,dankbar,adj,B1,29.2744,0.86,0,grateful,Wir sind dankbar für die Geschenke und das schöne Fest.,We are grateful for the gifts and the beautiful celebration.
+3040,neugierig,adj,B1,24.3954,0.8902,0,curious,"Ich bin sehr neugierig darauf, was am Ende des Buches passiert.",I’m very curious about what happens at the end of the book.
+3208,fröhlich,adj,B1,22.3747,0.8987,0,cheerful,Ich möchte auf meiner Hochzeit nur fröhliche Lieder hören.,I only want to hear cheerful songs at my wedding.
+3395,gespannt,adj,B1,20.7484,0.9036,0,"eager, anxious, tense","Ich bin gespannt, sie nach so langer Zeit wiederzusehen.",I’m eager to see her after such a long time.
+4686,optimistisch,adj,B1,13.1587,0.8743,0,optimistic,Sie blicken optimistisch in die Zukunft.,They are optimistic about the future.

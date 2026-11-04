@@ -1,0 +1,6 @@
+rank,word,pos,level,freq_per_million,dispersion,has_conjugation,definition,example_de,example_en
+1802,"das Restaurant, -s",das,A1,47.1644,0.8589,0,restaurant,Wir gehen zum Abendessen in ein Restaurant.,We’re going to a restaurant for dinner.
+2492,"das Café, -s",das,A1,31.6893,0.8667,0,"coffeehouse, coffee shop",Linda trinkt jeden Tag Kaffee im selben Café.,Linda drinks coffee every day at the same coffeehouse.
+2582,Bar,die,A1,30.1615,0.8314,0,bar,"Nach der Arbeit treffen sich die Kollegen in der Bar, um zu trinken und zu reden.","After work, the colleagues meet in the bar to drink and talk."
+2600,"das Frühstück, -e",das,A1,29.9644,0.8655,0,breakfast,Ein gutes Frühstück gibt Kraft für den Tag.,A good breakfast gives strength for the day.
+3986,"das Lokal, -e",das,A1,16.7071,0.8587,0,"pub, bar",Das Lokal ist bis 1 Uhr nachts geöffnet.,The restaurant is open until 1 am.

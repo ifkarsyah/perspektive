@@ -1,0 +1,4 @@
+rank,word,pos,level,freq_per_million,dispersion,has_conjugation,definition,example_de,example_en
+240,"der Doktor, -en (Dr.)",der,A1,362.5792,0.7734,0,doctor,"Wenn ich Schmerzen habe, gehe ich zu einem Doktor.","Whenever I’m in pain, I go to a doctor."
+440,"der Kollege, -n",der,A1,186.5383,0.797,0,colleague,Diana hat nur nette Kolleginnen bei der Arbeit.,Diana only has nice colleagues at work.
+1115,"der Job, -s",der,A1,78.213,0.8986,0,job,Der Job wird gut bezahlt.,The job is well paid.

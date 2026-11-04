@@ -1,0 +1,18 @@
+rank,word,pos,level,freq_per_million,dispersion,has_conjugation,definition,example_de,example_en
+545,persönlich,adj,B1,156.9681,0.9335,0,personal,Katja ist meine persönliche Trainerin.,Katja is my personal coach.
+1009,vorhanden,adj,B1,86.2955,0.8999,0,"available, existing",Die vorhandenen Daten müssen aktualisiert werden.,The existing data have to be updated.
+1042,verantwortlich,adj,B1,83.2892,0.935,0,responsible,Eltern sind für ihre Kinder verantwortlich.,Parents are responsible for their children.
+1268,bereit,adj,B1,69.7362,0.9311,0,ready,Bist du bereit für die Prüfung?,Are you ready for the exam?
+1343,individuell,adj,B1,66.04,0.8608,0,individual,Jeder Kunde hat individuelle Wünsche.,Every customer has individual wishes.
+1429,zuständig,adj,B1,62.048,0.915,0,"appropriate, responsible",Für dieses Problem ist eine andere Person zuständig.,Another person is responsible for this problem.
+1455,abhängig,adj,B1,61.013,0.8798,0,dependent,Viele Studenten sind finanziell von ihren Eltern abhängig.,Many students are financially dependent on their parents.
+1643,wild,adj,B1,52.4377,0.9019,0,wild,Im Garten spielen die Hunde wild miteinander.,In the garden the dogs play wildly with each other.
+1834,mächtig,adj,B1,46.0308,0.9153,0,powerful,Der Präsident ist in einer mächtigen Position.,The president is in a powerful position.
+2006,tätig,adj,B1,41.2996,0.9025,0,active,Nach seinem Studium ist Markus in einer wirtschaftlichen Branche tätig.,After his studies Markus is active in a business sector.
+2264,gezielt,adj,B1,35.7306,0.9143,0,"targeted, purposeful, pointed, well- aimed",Durch gezielten Einsatz der Substanz können alle Viren abgetötet werden.,All viruses can be killed by targeted use of the substance.
+2899,flexibel,adj,B1,26.0217,0.7917,0,flexible,"Ich habe flexible Arbeitszeiten, sodass ich morgen früher gehen kann.",I have flexible working hours so I can leave early tomorrow.
+2901,mobil,adj,B1,26.0217,0.8273,0,mobile,"Seit ich das Auto habe, bin ich endlich mobil.","Since I got the car, I’m finally mobile."
+3013,zugänglich,adj,B1,24.6911,0.9015,0,accessible,Diese Filme sind nur Leuten über 18 Jahren zugänglich.,These films are only accessible to people over 18 years of age.
+3763,passiv,adj,B1,18.0378,0.8183,0,passive,Passives Rauchen ist auch gefährlich.,"Passive smoking is dangerous, too."
+4153,einverstanden,adj,B1,15.7215,0.8969,0,(to be) in agreement,Ich bin mit deinem Vorschlag einverstanden und stimme dir zu.,I agree with your suggestion and agree with you.
+4377,überlegen,adj,B1,14.6372,0.928,0,superior,Tino ist mir in seiner Intelligenz überlegen.,Tino is superior to me in his intelligence.

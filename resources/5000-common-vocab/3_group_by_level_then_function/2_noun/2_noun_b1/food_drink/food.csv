@@ -1,0 +1,4 @@
+rank,word,pos,level,freq_per_million,dispersion,has_conjugation,definition,example_de,example_en
+2685,"das Vitamin, -e",das,B1,28.8309,0.6082,0,vitamin,Im Winter haben viele Menschen einen Mangel an Vitamin D.,"In winter, many people have a vitamin D deficiency."
+3323,"die Frucht, -̈e",die,B1,21.2412,0.8884,0,fruit,"Diese Frucht ist noch nicht reif, deswegen ist sie sauer und nicht süß.","This fruit is not yet ripe; therefore, it is sour and not sweet."
+4870,"das Nahrungsmittel, -",das,B1,12.3702,0.8196,0,food,"Nicht nur Fleisch, sondern auch viele andere Nahrungsmittel enthalten Eisen.","Not only meat, but also many other foods contain iron."

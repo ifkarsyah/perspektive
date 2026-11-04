@@ -1,0 +1,38 @@
+rank,word,pos,level,freq_per_million,dispersion,has_conjugation,definition,example_de,example_en
+2593,"die Staatsanwaltschaft, -en",die,B2+,30.063,0.7654,0,prosecution,Die Staatsanwaltschaft präsentiert neue Beweise vor Gericht.,The prosecution presents new evidence in court.
+2678,"die Verfassung, -en",die,B2+,28.9787,0.8579,0,constitution,Die Verfassung von Deutschland heißt Grundgesetz.,The constitution of Germany is called the Grundgesetz.
+2696,"das Grundgesetz, -e",das,B2+,28.6337,0.7684,0,basic law,Viele Normen und Werte unserer Gesellschaft sind im Grundgesetz beschrieben.,Many norms and values of our society are described in the Basic Law.
+2765,"die Verpflichtung, -en",die,B2+,27.6974,0.864,0,"commitment, obligation",Als Königin hat sie viele gesellschaftliche Verpflichtungen.,"As queen, she has many social commitments."
+2928,"die Klage, -n",die,B2+,25.6767,0.8504,0,"complaint, lawsuit",Vor Gericht wird Klage gegen den Täter erhoben.,The offender is charged with a lawsuit in court.
+2957,"die Vereinbarung, -en",die,B2+,25.3317,0.8473,0,agreement,Sie treffen beim Anwalt eine Vereinbarung für die Kinder.,They make an arrangement with the lawyer for the children.
+3083,"der Mörder, -",der,B2+,23.8532,0.8027,0,murderer,Der Mörder muss für acht Jahre ins Gefängnis.,The murderer must go to prison for eight years.
+3135,"das Verbrechen, -",das,B2+,23.2126,0.8875,0,crime,Ein Verbrechen hat oft eine Strafe zur Folge.,Crime often results in punishment.
+3303,"die Gerechtigkeit, -en",die,B2+,21.4383,0.8637,0,justice,Der Superheld kämpft für Gerechtigkeit.,The superhero fights for justice.
+3497,"das Menschenrecht, -e",das,B2+,19.9106,0.8308,0,human right,"Menschenrechte sind die grundlegenden Rechte, die jede Person haben sollte.",Human rights are the fundamental rights that every person should have.
+3541,"der Ermittler, -",der,B2+,19.5656,0.7466,0,investigator,Sie ist die zuständige Ermittlerin in diesem Fall.,She’s the investigator in charge of this case.
+3612,"die Sanktion, -en",die,B2+,19.0727,0.8003,0,sanction,Die EU verhängt erneut wirtschaftliche Sanktionen über das Land.,The EU again imposes economic sanctions on the country.
+3632,die Justiz,die,B2+,18.9742,0.7,0,judiciary,Die Unabhängigkeit der Justiz ist wichtig in einer Demokratie.,The independence of the judiciary is important in a democracy.
+3659,"der Nachweis, -e",der,B2+,18.7278,0.7715,0,"proof, evidence, certificate","Wir benötigen einen Nachweis darüber, dass sie im Moment studieren.",We need proof that you are currently studying.
+3723,"die Haftung, -en",die,B2+,18.3335,0.6573,0,liability,Das Hotel übernimmt keine Haftung für verlorene Gegenstände.,The hotel accepts no liability for lost items.
+3878,"der Jurist, -en",der,B2+,17.3478,0.8892,0,"jurist, lawyer",Als Jurist kennt er das Grundgesetz sehr gut.,"As a lawyer, he knows the Basic Law very well."
+3921,das Unrecht,das,B2+,17.0028,0.9086,0,"injustice, wrong","Er hat Unrecht, wenn er sagt, dass Tiere keinen Schmerz fühlen.",He’s wrong when he says animals don’t feel pain.
+4007,die Nacherfüllung,die,B2+,16.6086,0.7915,0,supplementary performance,"Bevor der Verkäufer die Ware ersetzen muss, hat er das Recht auf Nacherfüllung, um die Mängel zu beseitigen.","Before the seller must replace the goods, he has the right to supplementary performance to eliminate the defects."
+4100,"die Berufung, -en",die,B2+,16.0664,0.8556,0,"appeal, vocation, appointment",Das Unterrichten ist seine Berufung.,Teaching is his vocation.
+4143,"die Genehmigung, -en",die,B2+,15.7707,0.7278,0,"approval, permit, permission","Sie brauchen eine Genehmigung, um hier parken zu dürfen.",You need a permit to be allowed to park here.
+4148,"die Willenserklärung, -en",die,B2+,15.7707,0.2325,0,declaration of intent,"Ursula schreibt eine Willenserklärung, damit ihr Mann nach der Operation für sie entscheiden kann.",Ursula writes a declaration of intent so that her husband makes decisions for her after the operation.
+4229,"die Richtlinie, -n",die,B2+,15.3765,0.7865,0,guideline,"Es gibt eine neue Richtlinie darüber, wie wir uns bei der Arbeit zu verhalten haben.",There is a new guideline on how we should behave at work.
+4329,die Haft,die,B2+,14.7851,0.8013,0,"detention, confinement","Weil er illegale Substanzen verkauft, muss er jetzt für drei Jahre in Haft.","Because he sells illegal substances, he is now in confinement for three years."
+4349,"die Bande, -n",die,B2+,14.6865,0.8519,0,"gang, mob, clique",Durch den Zeugen kann die Polizei die gesamte kriminelle Bande fangen.,The witness enables the police to catch the entire criminal gang.
+4366,"der Verstoß, -̈e",der,B2+,14.6865,0.8541,0,violation,Ein Verstoß gegen die Regeln wird bestraft.,Any violation of the rules will be punished.
+4386,"der Verteidiger, -",der,B2+,14.5879,0.8011,0,"defender, defense counsel",Vor Gericht braucht man einen Verteidiger.,You need counsel in court.
+4397,"das Testament, -e",das,B2+,14.5387,0.6658,0,will,"Ich habe ein Testament, um zu regeln, was nach meinem Tod passiert.",I have a will to settle what happens after I die.
+4493,der Schadenersatz,der,B2+,14.0951,0.5516,0,compensation,Nach dem Unfall erhalte ich einen Schadenersatz.,After the accident I receive compensation.
+4496,"der Staatsanwalt, -̈e",der,B2+,14.0951,0.8283,0,"public prosecutor, district attorney","Der Staatsanwalt entscheidet, ob ein Mensch angeklagt wird.",The prosecutor decides whether a person should be charged.
+4594,"die Verbindlichkeit, -en",die,B2+,13.6023,0.6577,0,"obligation, liability, commitment",Die Ehe ist ein Ausdruck von Verbindlichkeit zwischen zwei Menschen.,Marriage is an expression of obligation between two people.
+4684,"die Instanz, -en",die,B2+,13.1587,0.8872,0,instance,"Der Antrag muss durch alle Instanzen gehen, bevor eine Entscheidung getroffen wird.",The application must go through all instances before a decision is made.
+4700,"der Rechtsanwalt, -̈e",der,B2+,13.1094,0.8191,0,lawyer,"Weil wir um das Erbe streiten, lassen wir uns von einem Rechtsanwalt beraten.","Because we are fighting over our inheritance, we seek advice from a lawyer."
+4814,"die Überwachung, -en",die,B2+,12.7152,0.8628,0,surveillance,Die Polizei ordnet die Überwachung des Täters an.,The police are ordering surveillance of the perpetrator.
+4849,"das Grundrecht, -e",das,B2+,12.4687,0.7753,0,fundamental right,In der Verfassung eines Landes werden die Grundrechte der Menschen festgelegt.,A country’s constitution sets out the fundamental rights of its people.
+4920,"die Jury, -s",die,B2+,12.173,0.7809,0,jury,In den USA trifft im Gericht eine Jury die Entscheidungen.,"In the USA, a jury makes the decisions in court."
+4944,"der Tatort, -e",der,B2+,12.0745,0.7753,0,crime scene,Die Polizei untersucht den Tatort auf Spuren.,Police are investigating the crime scene for clues.
+4993,"der Missbrauch, -̈e",der,B2+,11.8773,0.8736,0,abuse,Der Missbrauch von Kindern muss härter bestraft werden.,The abuse of children must be punished more harshly.

@@ -1,0 +1,58 @@
+rank,word,pos,level,freq_per_million,dispersion,has_conjugation,definition,example_de,example_en
+3,in,prep,A1,24319.0219,0.9771,0,in,Günter geht in den Keller.,Günter goes into the basement.
+9,von,prep,A1,10060.1052,0.979,0,"from, of",Benjamin ist der Bruder von Anna.,Benjamin is the brother of Anna.
+13,mit,prep,A1,8467.507,0.9811,0,with,Mein Bruder spielt mit Janosch Fußball im Garten.,My brother plays soccer in the garden with Janosch.
+16,auf,prep,A1,6800.7863,0.9714,0,"on, at, to",Auf dem Tisch steht ein Glas Wasser.,There’s a glass of water on the table.
+17,für,prep,A1,6621.197,0.9677,0,for,Sie macht einen Kaffee für Max.,She’s making coffee for Max.
+19,an,prep,A1,6163.4513,0.9732,0,"at, on",Das Bild hängt an der Wand.,The picture hangs on the wall.
+29,bei,prep,A1,4312.2622,0.9641,0,"by, with, at",Jan ist bei einem neuen Arzt.,Jan’s with a new doctor.
+34,nach,prep,A1,3307.7154,0.9682,0,"after, toward",Nach dem Mittagessen gehen wir spazieren.,After lunch we go for a walk.
+37,aus,prep,A1,3218.1672,0.9764,0,"out, out of, from",Thomas schaut aus dem Fenster.,Thomas looks out the window.
+44,um,prep,A1,2684.7219,0.9679,0,"around, at",Die Kinder laufen um den Baum.,The children run around the tree.
+47,über,prep,A1,2382.2687,0.9726,0,"above, over, about",Über mir fliegt ein Flugzeug.,There’s a plane flying above me.
+50,vor,prep,A1,2163.7947,0.9539,0,"in front of, before, ago",Laura wartet vor der Tür auf ihre Freunde.,Laura is waiting in front of the door for her friends.
+55,durch,prep,A1,2037.9245,0.9404,0,through,Ralf läuft durch die Stadt.,Ralf walks through the city.
+77,bis,prep,A1,1411.3333,0.9636,0,"until, till",Meine Mutter arbeitet bis sieben Uhr.,My mother works until seven o’clock.
+89,unter,prep,A1,1133.6204,0.9712,0,under,Unter der Brücke fließt ein Fluss.,Under the bridge a river flows.
+104,gegen,prep,A1,880.5986,0.9106,0,against,Ich verliere immer gegen dich.,I always lose against you.
+105,zwischen,prep,A1,878.233,0.9543,0,between,Mein Fahrrad steht zwischen den Bäumen.,My bicycle is standing between the trees.
+120,ohne,prep,A1,761.1846,0.9673,0,without,Ich verlasse meine Wohnung nie ohne Schlüssel.,I never leave my apartment without a key.
+130,seit,prep,A1,690.4627,0.9329,0,"since, for",Ihre Schwester ist seit drei Monaten im Ausland.,Her sister has been abroad for three months.
+173,während,prep,B1,507.9657,0.9545,0,"during, while","Während man isst, soll man nicht reden.",You shouldn’t talk while you’re eating.
+243,wegen,prep,A2,358.1929,0.9319,0,because of,Ich mag dich wegen deiner Augen.,I like you because of your eyes.
+266,neben,prep,A2,327.9328,0.9485,0,"next to, beside",Max steht neben Anja.,Max is standing next to Anja.
+269,hinter,prep,A2,325.3701,0.9152,0,"behind, in back of",Der Garten ist hinter dem Haus.,The garden is behind the house.
+412,pro,prep,A2,200.7319,0.9237,0,per,Sie verdienen zwölf Euro pro Stunde.,They earn twelve euros per hour.
+439,gegenüber,prep,A2,187.2282,0.9255,0,opposite,Seine Frau sitzt ihm gegenüber.,His wife is sitting opposite him.
+544,ab,prep,A1,157.2146,0.9067,0,"from, as of",Ab morgen höre ich auf zu rauchen.,I’ll stop smoking as of tomorrow.
+553,innerhalb,prep,B1,155.4403,0.9253,0,within,Innerhalb Deutschlands gibt es verschiedene Regionen.,Within Germany there are different regions.
+572,laut,prep,A1,150.9063,0.8551,0,according to,Laut der Zeitung scheint heute die Sonne.,"According to the newspaper, the sun is shining today."
+598,trotz,prep,B1,144.7458,0.9366,0,in spite of,Sie liebt ihn trotz seiner Fehler.,She loves him in spite of his mistakes.
+680,statt,prep,B1,130.0593,0.9523,0,instead of,"Ich koche lieber zu Hause, statt in ein Restaurant zu gehen.",I prefer cooking at home instead of going to a restaurant.
+713,aufgrund,prep,A2,124.2931,0.8909,0,"on the basis of, because of",Aufgrund der vielen Fehler besteht Kelly die Prüfung nicht.,Because of the many mistakes Kelly does not pass the test.
+770,außer,prep,A2,111.0851,0.9493,0,"except, apart from",Außer an den Wochenenden ist Helen immer im Büro.,Helen’s always in the office except on weekends.
+1081,per,prep,B1,80.7758,0.9207,0,"by, per",Ich reise per Schiff.,I’m traveling by ship.
+1165,angesichts,prep,B1,74.7632,0.9,0,in view of,Angesichts der politischen Lage muss die Regierung schnell handeln.,"In view of the political situation, the government has to act quickly."
+1366,außerhalb,prep,A2,65.0543,0.9397,0,outside,Sie lebt außerhalb der Stadt.,She lives outside the city.
+1413,zufolge,prep,B1,62.9844,0.8186,0,according to,Dem Arzt zufolge bin ich gesund.,"According to the doctor, I’m healthy."
+1561,anhand,prep,B1,55.8876,0.8537,0,"on the basis of, with the aid of",Die These kann anhand der Statistik belegt werden.,The thesis can be proven on the basis of statistics.
+1601,entlang,prep,B1,54.1133,0.9112,0,along,Sie läuft den Strand entlang und sammelt Steine.,She walks along the beach and collects stones.
+1723,gemäß,prep,B1,49.3328,0.8063,0,according to,Gemäß der Regeln dürfen Schüler die Schule nicht vor Ende des Unterrichts verlassen.,"According to the rules, students are not allowed to leave the school before the end of the lesson."
+1954,mittels,prep,B1,42.7288,0.8609,0,by means of,Die Feuerwehr rettet die Leute mittels Leiter aus dem Haus.,The fire brigade rescues the people from the house by means of a ladder.
+1969,bezüglich,prep,B1,42.4331,0.8443,0,regarding,Ich schreibe Toms Eltern einen Brief bezüglich dessen schlechten Verhaltens in der Schule.,I’m writing Tom’s parents a letter regarding his bad behavior at school.
+2234,hinsichtlich,prep,B1,36.322,0.7994,0,with regard to,Viele Jugendliche fühlen sich unsicher hinsichtlich ihrer Berufswahl.,Many adolescents feel insecure with regard to their career choices.
+2516,jenseits,prep,B2+,31.2458,0.9071,0,beyond,Das Dorf befindet sich jenseits der Berge.,The village is beyond the mountains.
+3033,herum,prep,B2+,24.4446,0.8141,0,around,Wir fahren um den Unfall herum.,We’re driving around the accident.
+3168,mithilfe,prep,B2+,22.8183,0.8774,0,with the aid of,Mithilfe des Übersetzers erklärt der ausländische Patient dem Arzt seine Probleme.,"With the help of the translator, the foreign patient explains his problems to the doctor."
+3296,unterhalb,prep,B2+,21.5369,0.8752,0,"below, underneath",Unterhalb von Köln liegt Bonn und oberhalb die Stadt Essen.,Below Cologne is Bonn and above the city of Essen.
+3380,infolge,prep,B2+,20.8469,0.8706,0,as a result of,Der Fluss ist infolge des starken Regens extrem hoch.,The river is extremely high as a result of the heavy rain.
+3382,oberhalb,prep,B2+,20.8469,0.8392,0,above,Das Hotel liegt auf einem Hügel oberhalb der Stadt.,The hotel is located on a hill above the town.
+3402,inklusive,prep,B1,20.6991,0.8875,0,including,"Das Haus kostet 200.000 Euro, inklusive der Möbel.","The house costs 200,000 euros, including the furniture."
+3435,samt,prep,B2+,20.3541,0.8946,0,"together with, along with",Er wirft den Schrank samt Inhalt auf den Müll.,He throws the cupboard along with its contents into the trash.
+3795,via,prep,B2+,17.8899,0.8541,0,via,Bitte schick mir die Dokumente via E-Mail.,Please send me the documents via e-mail.
+3971,zugunsten,prep,B2+,16.8057,0.8736,0,in favor of,Das Gericht entscheidet zugunsten des Angeklagten.,The court rules in favor of the defendant.
+4121,einschließlich,prep,B1,15.9679,0.8618,0,including,Dies ist der Preis einschließlich der Steuern.,This is the price including taxes.
+4426,seitens,prep,B2+,14.3908,0.8776,0,"by, on the part of","Die Reaktionen seitens des Publikums zeigen, dass es ihnen gefällt.",The reactions on the part of the audience show that they like it.
+4474,anstelle,prep,B2+,14.1444,0.8803,0,instead of,Anstelle des Autos nehme ich jetzt immer den Bus.,"Instead of the car, I always take the bus."
+4618,willen,prep,B2+,13.5037,0.8793,0,for the sake of,"Um ihrer Kinder willen hören die Eltern auf, sich zu streiten.","For the sake of their children, the parents stop arguing."
+4976,entgegen,prep,B2+,11.9266,0.8904,0,contrary to,Entgegen meiner Erwartungen ist Tom sehr nett.,"Contrary to my expectations, Tom is very nice."

@@ -1,0 +1,4 @@
+rank,word,pos,level,freq_per_million,dispersion,has_conjugation,definition,example_de,example_en
+13,mit,prep,A1,8467.507,0.9811,0,with,Mein Bruder spielt mit Janosch Fußball im Garten.,My brother plays soccer in the garden with Janosch.
+29,bei,prep,A1,4312.2622,0.9641,0,"by, with, at",Jan ist bei einem neuen Arzt.,Jan’s with a new doctor.
+120,ohne,prep,A1,761.1846,0.9673,0,without,Ich verlasse meine Wohnung nie ohne Schlüssel.,I never leave my apartment without a key.

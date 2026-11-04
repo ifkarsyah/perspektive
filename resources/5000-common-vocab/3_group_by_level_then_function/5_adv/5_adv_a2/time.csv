@@ -1,0 +1,10 @@
+rank,word,pos,level,freq_per_million,dispersion,has_conjugation,definition,example_de,example_en
+454,endlich,adv,A2,181.3635,0.9141,0,"finally, at last",Endlich scheint die Sonne wieder.,Finally the sun is shining again.
+456,plötzlich,adv,A2,180.8707,0.8981,0,suddenly,Plötzlich hört Jakob ein Geräusch.,Suddenly Jakob hears a noise.
+663,zuletzt,adv,A2,132.3264,0.8935,0,"last, finally, most recently",Und zuletzt reiste Sarah nach Japan.,"And finally, Sarah traveled to Japan."
+676,derzeit,adv,A2,130.2564,0.8681,0,at the moment,"Nein, derzeit haben wir keinen frischen Fisch.","No, we don’t have any fresh fish at the moment."
+715,zuvor,adv,A2,124.1453,0.9118,0,"previously, before","Elena und Stephan ziehen in ein neues Haus, nachdem sie es zuvor gekauft haben.",Elena and Stephan move into a new house after having bought it previously.
+866,vorher,adv,A2,100.1442,0.9231,0,"earlier, beforehand","Heute bekommen wir Besuch, vorher mache ich sauber.","We’re having guests today, beforehand I’ll be cleaning up."
+880,zuerst,adv,A2,98.9614,0.9332,0,first,Zuerst studiere und dann reise ich.,First I study and then I travel.
+895,bislang,adv,A2,97.1379,0.8829,0,up to now,Bislang gibt es keine Informationen zu dem Unfall.,Up to now there is no information about this accident.
+1472,vorbei,adv,A2,59.9288,0.9084,0,"past, over","Sie war froh, als ihre Prüfungen vorbei waren.",She was glad when her exams were over.

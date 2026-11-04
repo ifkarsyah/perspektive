@@ -1,0 +1,4 @@
+rank,word,pos,level,freq_per_million,dispersion,has_conjugation,definition,example_de,example_en
+2237,"die Halle, -n",die,A1,36.2727,0.8769,0,hall,Das Konzert findet in einer riesigen Halle statt.,The concert takes place in a huge hall.
+2504,"der Eingang, -̈e",der,A1,31.4429,0.8951,0,entrance,Der Eingang befindet sich neben dem Ausgang.,The entrance is next to the exit.
+3219,"der Ausgang, -̈e",der,A1,22.2762,0.9083,0,"exit, outcome, starting point",Das Schild zeigt den Besuchern den Weg zum Ausgang.,The sign shows visitors the way to the exit.

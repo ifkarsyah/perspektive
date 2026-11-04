@@ -1,0 +1,37 @@
+rank,word,pos,level,freq_per_million,dispersion,has_conjugation,is_separable,definition,example_de,example_en
+570,"erleben, erlebt, erlebte, hat erlebt",verb,B1,151.2512,0.9211,1,0,to experience,So einen schönen Tag erlebt man nur einmal im Leben.,You only have such a beautiful day once in a lifetime.
+603,verhalten,verb,B1,143.8587,0.8801,1,0,"to behave, act",Du verhältst dich wie ein Kind.,You’re behaving like a child.
+618,"sorgen, sorgt, sorgte, hat gesorgt",verb,B1,141.0495,0.9199,1,0,"to worry, take care",Ich sorge für meine Kinder.,I take care of my children.
+722,"reagieren, reagiert, reagierte, hat reagiert",verb,B1,122.1739,0.9264,1,0,to react,"Mario reagiert wütend, als er von dem Ergebnis des Spiels erfährt.",Mario reacts angrily when he hears about the result of the game.
+760,"unterstützen, unterstützt, unterstützte, hat unterstützt",verb,B1,114.0422,0.8985,1,0,to support,Viele Eltern unterstützen ihre Kinder während des Studiums finanziell.,Many parents support their children financially during their studies.
+807,"lächeln, lächelt, lächelte, hat gelächelt",verb,B1,106.7482,0.839,1,0,to smile,"Alle Kinder lächeln auf dem Foto, weil sie sich freuen.",All the children smile in the photo because they are happy.
+914,"überraschen, überrascht, überraschte, hat überrascht",verb,B1,95.5608,0.9269,1,0,to surprise,Ich wollte dich mit der Party überraschen.,I wanted to surprise you with the party.
+942,"leiden, leidet, litt, hat gelitten",verb,B1,92.6038,0.9345,1,0,to suffer,Meine Schwester leidet an einer schweren Krankheit.,My sister is suffering from a serious illness.
+1122,"vertrauen, vertraut, vertraute, hat vertraut",verb,B1,77.6216,0.9174,1,0,to trust,Vertraust du mir?,Do you trust me?
+1420,"fürchten, fürchtet, fürchtete, hat gefürchtet",verb,B1,62.5901,0.9166,1,0,to fear,"Du musst dich nicht fürchten, wenn es dunkel ist.",You do not have to fear when it’s dark.
+1450,"empfinden, empfindet, empfand, hat empfunden",verb,B1,61.358,0.924,1,0,to feel,Meine Eltern empfinden immer noch viel für einander.,My parents still feel a lot for each other.
+1505,"begegnen, begegnet, begegnete, ist begegnet",verb,B1,58.1546,0.9152,1,0,"to meet, encounter, come across",Auf meinen Reisen begegnete ich vielen verschiedenen Kulturen.,"On my travels, I encountered many different cultures."
+1557,"genießen, genießt, genoss, hat genossen",verb,B1,56.134,0.9212,1,0,"to enjoy, relish","Genieß die Sonne, solange sie scheint!",Enjoy the sun as long as it shines!
+1605,"ehren, ehrt, ehrte, hat geehrt",verb,B1,53.9162,0.6458,1,0,to honor,Heute ehren wir die Soldatinnen und Soldaten unseres Landes.,Today we honor the soldiers of our country.
+1740,"achten, achtet, achtete, hat geachtet",verb,B1,48.8893,0.9229,1,0,"to respect, pay attention","Kinder achten häufig nicht auf Autos, bevor sie über die Straße laufen.",Children often don’t pay attention to cars before they cross the road.
+1798,"akzeptieren, akzeptiert, akzeptierte, hat akzeptiert",verb,B1,47.2137,0.9363,1,0,to accept,Du musst meine Entscheidung akzeptieren.,You have to accept my decision.
+1842,"pflegen, pflegt, pflegte, hat gepflegt",verb,B1,45.5873,0.9218,1,0,"to care, cultivate",Sie pflegt die kranken Patienten im Krankenhaus.,She cares for the sick patients in the hospital.
+1859,"beeindrucken, beeindruckt, beeindruckte, hat beeindruckt",verb,B1,45.193,0.908,1,0,to impress,Der Chef ist von ihrer Leistung beeindruckt.,The boss is impressed with her performance.
+1902,"erschrecken, erschreckt, erschreckte, hat erschreckt",verb,B1,43.9117,0.8834,1,0,"to frighten, be startled",Die Kinder erschrecken sich vor dem lauten Geräusch.,The children are frightened by the loud noise.
+1941,"beruhigen, beruhigt, beruhigte, hat beruhigt",verb,B1,43.0738,0.9016,1,0,to calm,"Die Ärztin beruhigt den Patienten, der Angst hat.",The doctor calms the patient who is afraid.
+1970,"begeistern, begeistert, begeisterte, hat begeistert",verb,B1,42.3839,0.9223,1,0,"to inspire, be enthusiastic",Die Schauspieler begeistern das Publikum mit ihrem neuen Stück.,The actors inspire the audience with their new play.
+2042,"enttäuschen, enttäuscht, enttäuschte, hat enttäuscht",verb,B1,40.3632,0.9094,1,0,to disappoint,Stephanie ist sehr enttäuscht über ihr schlechtes Ergebnis in der Prüfung.,Stephanie is very disappointed about her bad result in the test.
+2118,"wundern (sich), wundert, wunderte, hat gewundert",verb,B1,38.6383,0.9046,1,0,"to be surprised, wonder",Christian wundert sich über die niedrigen Preise im Restaurant.,Christian is surprised about the low prices in the restaurant.
+2183,"bevorzugen, bevorzugt, bevorzugte, hat bevorzugt",verb,B1,37.4062,0.8769,1,0,to prefer,Ich würde ein Haus mit Garten bevorzugen.,I would prefer a house with a garden.
+2233,"befürchten, befürchtet, befürchtete, hat befürchtet",verb,B1,36.322,0.916,1,0,to fear,"Ich befürchte, dass ich den Zug verpassen werde.",I’m afraid I’m gonna miss the train.
+2381,"trauen, traut, traute, hat getraut",verb,B1,33.365,0.9012,1,0,"to trust, dare to","Ich traue mich nicht zu fliegen, weil ich Angst habe.",I don’t dare to fly because I’m afraid.
+2386,"grinsen, grinst, grinste, hat gegrinst",verb,B1,33.3157,0.8172,1,0,to grin,Die Kinder grinsen fröhlich in die Kamera.,The children grin happily into the camera.
+2442,"vermissen, vermisst, vermisste, hat vermisst",verb,B1,32.33,0.8865,1,0,to miss,"Sie vermisst ihren Mann immer, wenn er weg ist.",She always misses her husband when he’s gone.
+2456,"gewöhnen, gewöhnt, gewöhnte, hat gewöhnt",verb,B1,32.1329,0.9054,1,0,to get used to,Er kann sich einfach nicht an das frühe Aufstehen gewöhnen.,He just can’t get used to getting up early.
+2458,"zittern, zittert, zitterte, hat gezittert",verb,B1,32.0836,0.8413,1,0,"to tremble, shiver",Er zittert vor Kälte.,He’s shivering with cold.
+2644,"küssen, küsst, küsste, hat geküsst",verb,B1,29.373,0.8383,1,0,to kiss,Sie küsst ihn auf den Mund.,She kisses him on the mouth.
+2673,"hassen, hasst, hasste, hat gehasst",verb,B1,29.028,0.864,1,0,to hate,"Ich hasse es, vor vielen Menschen zu sprechen.",I hate speaking in front of so many people.
+3123,"betreuen, betreut, betreute, hat betreut",verb,B1,23.3111,0.882,1,0,"to look after, take care",Sonja betreut ihre kranke Mutter.,Sonja looks after her sick mother.
+3807,"umarmen, umarmt, umarmte, hat umarmt",verb,B1,17.7914,0.829,1,0,to embrace,"Ich umarme meine Freundin, als sie in den Zug steigt.",I embrace my girlfriend as she gets on the train.
+4861,"verzeihen, verzeiht, verzieh, hat verziehen",verb,B1,12.4195,0.842,1,0,"to forgive, excuse","Ich kann ihm nicht verzeihen, obwohl er sich entschuldigt hat.",I can’t forgive him even though he apologized.
+4930,"langweilen, langweilt, langweilte, hat gelangweilt",verb,B1,12.1238,0.876,1,0,to bore,Der Film langweilt mich und ich schlafe gleich ein.,The movie bores me and I’m about to fall asleep.

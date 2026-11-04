@@ -1,0 +1,10 @@
+rank,word,pos,level,freq_per_million,dispersion,has_conjugation,is_separable,definition,example_de,example_en
+714,"beschäftigen, beschäftigt, beschäftigte, hat beschäftigt",verb,B1,124.2931,0.9435,1,0,"to employ, be busy, deal with",Die Firma meines Onkels beschäftigt über 2.000 Menschen.,"My uncle’s company employs two 2,000 people."
+1656,"investieren, investiert, investierte, hat investiert",verb,B1,51.8956,0.8811,1,0,to invest,Clara investiert viel Zeit in ihr Studium.,Clara invests a lot of time in her studies.
+1831,"engagieren, engagiert, engagierte, hat engagiert",verb,B1,46.0801,0.8667,1,0,"to hire, employ, commit, engage","Er engagiert jemanden, der auf der Party Fotos macht.",He’s hiring someone to take pictures at the party.
+1855,"profitieren, profitiert, profitierte, hat profitiert",verb,B1,45.2423,0.8742,1,0,to profit,Von den Firmengewinnen profitiert das ganze Team.,The whole team will profit from the company profits.
+1903,"erwerben, erwirbt, erwarb, hat erworben",verb,B1,43.9117,0.8844,1,0,"to acquire, purchase",Ich erwerbe Aktien für zehn Euro pro Stück.,I acquire shares for ten euros each.
+2194,"finanzieren, finanziert, finanzierte, hat finanziert",verb,B1,37.1105,0.8934,1,0,to finance,"Die Eltern sparen ihr Geld, um die Bildung ihrer Kinder zu finanzieren.",The parents save their money to finance their children’s education.
+2610,"versichern, versichert, versicherte, hat versichert",verb,B1,29.9151,0.879,1,0,"to insure, assert","Er versichert sein Fahrrad, falls er einen Unfall hat.",He insures his bike in case of an accident.
+2799,"entlassen, entlässt, entließ, hat entlassen",verb,B1,27.2538,0.9045,1,0,"to dismiss, fire",Sie wird aus ihrer Firma entlassen.,She’s being dismissed from her company.
+4510,"konsumieren, konsumiert, konsumierte, hat konsumiert",verb,B1,13.9965,0.6233,1,0,to consume,Manche Menschen konsumieren gefährliche Substanzen.,Some people consume dangerous substances.

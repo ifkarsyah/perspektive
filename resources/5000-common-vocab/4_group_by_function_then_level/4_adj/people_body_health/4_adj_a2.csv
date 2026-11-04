@@ -1,0 +1,5 @@
+rank,word,pos,level,freq_per_million,dispersion,has_conjugation,definition,example_de,example_en
+1275,gesund,adj,A2,69.2927,0.8702,0,healthy,Ihr Baby ist gesund.,Her baby is healthy.
+3093,schwanger,adj,A2,23.7547,0.8784,0,pregnant,Lena ist schwanger mit ihrem dritten Kind.,Lena is pregnant with her third child.
+3153,wach,adj,A2,23.0154,0.8755,0,awake,"Es ist schon nach Mitternacht, aber ich bin immer noch wach.","It’s already past midnight, but I’m still awake."
+3542,hässlich,adj,A2,19.5656,0.8927,0,ugly,"Ihre Schwester mag das Kleid, aber Anna findet es hässlich.","Her sister likes the dress, but Anna thinks it’s ugly."

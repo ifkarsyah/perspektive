@@ -1,0 +1,23 @@
+rank,word,pos,level,freq_per_million,dispersion,has_conjugation,definition,example_de,example_en
+1303,"der Vertreter, -",der,B1,67.9127,0.9001,0,representative,Wir treffen uns mit Vertretern aus Wirtschaft und Politik.,We are meeting with representatives from business and politics.
+1437,"der Experte, -n",der,B1,61.6044,0.8746,0,expert,Herr Michels ist Experte auf dem Gebiet der deutschen Literatur.,Mr. Michels is an expert in the field of German literature.
+1548,"der Bauer, -n",der,B1,56.4297,0.8914,0,farmer,Der Bauer bringt seine Tiere auf die Wiese.,The farmer takes his animals to the meadow.
+1622,"der Leiter, -",der,B1,53.2755,0.9009,0,leader,Als Leiter des Projekts solltest du gut organisieren können.,"As the project leader, you should be able to organize well."
+1749,"der Meister, -",der,B1,48.7414,0.8666,0,master,Unser Professor ist ein Meister in seinem Fach.,Our professor is a master in his field.
+1813,"die Karriere, -n",die,B1,46.7701,0.8647,0,career,Martha möchte sich auf ihre Karriere konzentrieren.,Martha wants to focus on her career.
+1913,die Vorsitzende,"der, die",B1,43.6652,0.8489,0,chairperson,Thomas ist der neue Vorsitzende der Organisation für Umwelt.,Thomas is the new chairperson of the Organization for the Environment.
+2041,"der Direktor, -en",der,B1,40.3632,0.8498,0,director,Der Direktor der Klinik kündigt Veränderungen für die Zukunft an.,The director of the clinic announces changes for the future.
+2174,"der Manager, -",der,B1,37.6034,0.849,0,manager,Die Gäste beschweren sich beim Manager des Hotels.,The guests complain to the hotel manager.
+2185,"der Fischer, -",der,B1,37.3569,0.8634,0,fisherman,Die Fischer legen ihre Netze zum Trocknen an den Strand.,The fishermen lay their nets on the beach to dry.
+2304,"der Unternehmer, -",der,B1,34.8928,0.8717,0,"entrepreneur, employer",Frau Günters leitet als Unternehmerin ihr eigenes Unternehmen.,Mrs. Günters runs her own company as an entrepreneur.
+2404,"der Arbeiter, -",der,B1,32.9707,0.91,0,worker,Die Arbeiter fordern mehr Lohn.,The workers are demanding more pay.
+2477,"der Gesellschafter, -",der,B1,31.8372,0.5633,0,"associate, shareholder",Sie haben gegen alle Gesellschafter des Unternehmens geklagt.,They have brought an action against all shareholders of the company.
+2902,"der Übersetzer, -",der,B1,26.0217,0.5921,0,translator,Fernando ist ein Übersetzer für das Deutsche und Spanische.,Fernando is a translator for German and Spanish.
+3204,"der Kellner, -",der,B1,22.424,0.8478,0,"waiter, waitress","Der Kellner bringt einen Wein, obwohl ich ein Bier bestellt habe.","The waiter brings a glass of wine, although I ordered a beer."
+3528,"der Profi, -s",der,B1,19.7134,0.7818,0,"pro, professional",Thomas Müller ist ein Profi im Fußball.,Thomas Müller is a professional soccer player.
+3707,"der Wirt, -e",der,B1,18.4321,0.8153,0,"host, innkeeper",Zu meinem Geburtstag essen und schlafen wir bei einem bayrischen Wirt.,For my birthday we eat and sleep at a Bavarian innkeeper’s place.
+3784,"der Koch, -̈e",der,B1,17.9392,0.8521,0,cook,Mein Vater arbeitet als Koch in einem Restaurant.,My father works as a cook in a restaurant.
+4005,"der Ingenieur, -e",der,B1,16.6086,0.8637,0,engineer,Er arbeitet als Ingenieur bei einem großen Unternehmen.,He works as an engineer for a large company.
+4533,"der Sekretär, -e",der,B1,13.898,0.8442,0,secretary,Mein Vater arbeitet als Sekretär für einen Anwalt.,My father works as a secretary for a lawyer.
+4573,"der Fotograf, -en",der,B1,13.7008,0.8557,0,photographer,"Ich gehe mit meiner Familie zu einem Fotografen, um schöne Bilder zu machen.",I’m going with my family to a photographer to take nice pictures.
+4750,"der Spezialist, -en",der,B1,12.9123,0.8859,0,specialist,Sie ist Spezialistin für genetische Krankheiten.,She’s a specialist in genetic diseases.

@@ -1,0 +1,13 @@
+rank,word,pos,level,freq_per_million,dispersion,has_conjugation,definition,example_de,example_en
+1790,das Fleisch,das,A1,47.4108,0.8971,0,"meat, flesh","Ich esse nur Fleisch von Kühen, aber nicht von anderen Tieren.","I only eat meat from cows, but not from other animals."
+1959,"der Fisch, -e",der,A1,42.6303,0.8904,0,fish,Er isst lieber Fisch als Fleisch.,He prefers fish to meat.
+1999,"das Ei, -er",das,A1,41.4475,0.8745,0,egg,Sonntags gibt es beim Frühstück immer ein Ei.,On Sundays there’s always an egg with breakfast.
+2095,"das Brot, -e",das,A1,39.0326,0.8459,0,bread,Morgens isst Thorben immer eine Scheibe Brot und trinkt einen Kaffee.,In the morning Thorben always eats a slice of bread and drinks a coffee.
+2317,"das Lebensmittel, -",das,A1,34.5478,0.837,0,food,Viele abgelaufene Lebensmittel sind im Grunde noch gut.,Many expired foods are basically still good.
+2608,"das Salz, -e",das,A1,29.9151,0.7484,0,salt,"Stefanie isst das Ei mit Salz, weil es dann besser schmeckt.",Stefanie eats the egg with salt because it tastes better.
+3490,"der Apfel, -Ä",der,A1,19.9598,0.8697,0,apple,An dem Baum hängen viele rote Äpfel.,There are a lot of red apples on that tree.
+3650,"das Gemüse, -",das,A1,18.777,0.8542,0,vegetables,"Gemüse ist gesund, weil es viel Vitamine enthält.",Vegetables are healthy because they contain a lot of vitamins.
+3837,"die Kartoffel, -n",die,A1,17.5942,0.8461,0,potato,Aus Kartoffeln kann man viele verschiedene Gerichte machen.,Potatoes can be made into many different dishes.
+4381,"der Kuchen, -",der,A1,14.5879,0.8724,0,cake,Zum Geburtstag backt mir mein Bruder immer einen leckeren Kuchen.,"For my birthday, my brother always bakes me a delicious cake."
+4960,die Butter,die,A1,11.9759,0.7657,0,butter,Zum Frühstück esse ich nur ein Brot mit Butter.,"For breakfast, I’ll just have bread and butter."
+4980,das Obst,das,A1,11.9266,0.8771,0,fruit,Ich ernähre mich gesund und esse viel Obst.,I eat healthy food and lots of fruit.

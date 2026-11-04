@@ -1,0 +1,6 @@
+rank,word,pos,level,freq_per_million,dispersion,has_conjugation,is_separable,definition,example_de,example_en
+271,"tragen, trägt, trug, hat getragen",verb,A2,323.6451,0.9507,1,0,"to carry, wear",Ich trage eine Hose.,I’m wearing pants.
+313,"verlieren, verliert, verlor, hat verloren",verb,A2,269.3347,0.9439,1,0,to lose,Johann verliert immer beim Fußball.,Johann always loses at soccer.
+906,"teilen, teilt, teilte, hat geteilt",verb,A2,96.4479,0.9244,1,0,"to divide, share",Ich teile mir ein Zimmer mit meinem Bruder.,I share a room with my brother.
+1219,"sammeln, sammelt, sammelte, hat gesammelt",verb,A2,71.954,0.945,1,0,"to collect, gather",Sie sammelt Steine aus verschiedenen Ländern.,She collects stones from various countries.
+1618,"schenken, schenkt, schenkte, hat geschenkt",verb,A2,53.4727,0.9091,1,0,to give (as a present),Sie schenkt ihrer Mutter ein Buch zum Geburtstag.,She’s giving her mother a book for her birthday.

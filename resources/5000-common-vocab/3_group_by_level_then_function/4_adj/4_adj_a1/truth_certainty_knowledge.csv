@@ -1,0 +1,5 @@
+rank,word,pos,level,freq_per_million,dispersion,has_conjugation,definition,example_de,example_en
+171,möglich,adj,A1,510.2327,0.9597,0,possible,Ich besuche meine Eltern so oft wie möglich.,I visit my parents as often as possible.
+177,richtig,adj,A1,495.6448,0.9158,0,"correct, right",Alle wissen die richtige Antwort.,Everybody knows the correct answer.
+239,klar,adj,A1,364.0577,0.9386,0,clear,Das Wasser ist sehr klar.,The water is very clear.
+524,falsch,adj,A1,163.5229,0.9403,0,"false, wrong",Die Antwort ist leider falsch.,"Unfortunately, the answer is wrong."

@@ -1,0 +1,5 @@
+rank,word,pos,level,freq_per_million,dispersion,has_conjugation,definition,example_de,example_en
+409,USA (Vereinigte Staaten von Amerika),die,A2,201.8655,0.8698,0,"USA, United States of America",USA ist die Abkürzung von United States of America.,USA is the abbreviation for the United States of America.
+798,Russland,das,A2,107.7831,0.8428,0,Russia,Moskau ist die Hauptstadt von Russland.,Moscow is the capital of Russia.
+846,China,das,A2,101.9184,0.8161,0,China,Bo kommt aus China.,Bo comes from China.
+922,die Türkei,die,A2,94.7723,0.7755,0,Turkey,Die Sachen auf dem Markt kommen aus der Türkei.,The things in the market come from Turkey.

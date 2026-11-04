@@ -1,0 +1,19 @@
+rank,word,pos,level,freq_per_million,dispersion,has_conjugation,definition,example_de,example_en
+2748,"der Parameter, -",der,B2+,27.9438,0.7364,0,parameter,Die Ergebnisse liegen innerhalb akzeptabler Parameter.,The results are within acceptable parameters.
+2959,"das Labor, -e",das,B2+,25.2825,0.8656,0,laboratory,Robert Koch führte in seinem Labor in Berlin Experimente zu Krankheiten durch.,Robert Koch conducted experiments on diseases in his laboratory in Berlin.
+3061,"die These, -n",die,B2+,24.0011,0.8688,0,thesis,Ich brauche eine gute These für meine wissenschaftliche Arbeit.,I need a good thesis for my scientific work.
+3087,"die Substitution, -en",die,B2+,23.804,0.472,0,"substitution, replacement","Eine Substitution kann erfolgen, wenn vorausbezahlt wird.",A replacement is possible if paid in advance.
+3231,"die Varianz, -en",die,B2+,22.1776,0.3382,0,variance,Die Studenten sollen den Mittelwert und die Varianz berechnen.,The students are supposed to calculate the mean value and the variance.
+3447,"die Entdeckung, -en",die,B2+,20.2555,0.8622,0,discovery,Marie Curies Erfolg war die Entdeckung des chemischen Elements Radium.,Marie Curie’s success was the discovery of the chemical element radium.
+3458,"der Chemiker, -",der,B2+,20.2063,0.6173,0,chemist,Die Chemikerin arbeitet mit gefährlichen Substanzen.,The chemist works with dangerous substances.
+3543,"die Hypothese, -n",die,B2+,19.5656,0.7605,0,hypothesis,Die Hypothese ist widerlegt.,The hypothesis is refuted.
+3599,"der Proband, -en",der,B2+,19.122,0.6169,0,"subject, test person",Sie suchen nach Probanden für die Studie.,They’re looking for subjects for the study.
+3708,"die Addition, -en",die,B2+,18.3828,0.5963,0,"addition, summation","Wer gut in Mathe sein will, muss die Addition beherrschen.","If you want to be good at math, you have to master addition."
+3715,"die Stichprobe, -n",die,B2+,18.3828,0.6044,0,sample,"Die Stichproben unterscheiden sich in ihrer Qualität, sind aber allgemein akzeptabel.",The samples differ in quality but are generally acceptable.
+3797,"der Befund, -e",der,B2+,17.8406,0.8304,0,"result, finding(s)","Mein Arzt sagt, dass mein Befund für die Krankheit negativ ist.",My doctor says that my findings are negative for the disease.
+4161,"der Operator, -en",der,B2+,15.6722,0.4516,0,operator,Beispiele für mathematische Operatoren sind Plus und Minus.,Examples of mathematical operators are plus and minus.
+4203,"der Algorithmus, -en",der,B2+,15.475,0.6594,0,algorithm,Durch Algorithmen können Lösungen berechnet werden.,Algorithms can be used to calculate solutions.
+4243,"die Erhebung, -en",die,B2+,15.2779,0.766,0,"survey, elicitation, levying",Die Regierung entscheidet über die Erhebung von Steuern.,The government decides on the levying of taxes.
+4428,"die Versuchsperson, -en",die,B2+,14.3908,0.3904,0,test subject,Für einen Test brauchen wir noch fünf Versuchspersonen.,We need five more test subjects for one test.
+4524,"der Datensatz, -̈e",der,B2+,13.898,0.3481,0,data set,Für meine Arbeit nutze ich Informationen aus einem großen Datensatz.,For my work I use information from a large data set.
+4796,"die Konstante, -n",die,B2+,12.7644,0.7032,0,constant,In der Mathematik und in der Physik gibt es festgelegte Konstanten.,In mathematics and physics there are fixed constants.

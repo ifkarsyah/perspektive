@@ -1,0 +1,6 @@
+rank,word,pos,level,freq_per_million,dispersion,has_conjugation,definition,example_de,example_en
+166,eigen,adj,A2,528.2212,0.9526,0,own,Jeder Mensch hat ihren eigenen Charakter.,Everyone has their own character.
+355,offen,adj,A2,237.596,0.9027,0,open,Die Tür ist offen.,The door ist open.
+751,unabhängig,adj,A2,115.6685,0.8804,0,independent,Serbien ist seit 2008 ein unabhängiger Staat.,Serbia has been an independent state since 2008.
+790,aktiv,adj,A2,108.7195,0.8824,0,active,Alte Menschen sollten aktiv bleiben.,Old people should stay active.
+3031,einig,adj,A2,24.4939,0.8965,0,agreed,"Mein Mann und ich sind uns einig, das Haus zu verkaufen.",My husband and I have agreed to sell the house.

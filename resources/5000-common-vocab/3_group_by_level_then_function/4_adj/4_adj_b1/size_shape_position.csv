@@ -1,0 +1,28 @@
+rank,word,pos,level,freq_per_million,dispersion,has_conjugation,definition,example_de,example_en
+778,niedrig,adj,B1,110.4937,0.8954,0,"low, base","Du kannst dir leicht den Kopf stoßen, weil die Decke hier sehr niedrig ist.",You can bump your head easily because the ceiling here is very low.
+818,zentral,adj,B1,105.7132,0.905,0,central,Wir treffen uns an einem zentralen Ort wie dem Bahnhof.,We meet in a central place like the station.
+1075,riesig,adj,B1,81.17,0.9049,0,"huge, great, tremendous, giant, massive, humongous, enormous",Ich habe ein riesiges Geschenk bekommen.,I received a huge gift.
+1125,unmittelbar,adj,B1,77.4245,0.9246,0,"immediate, direct",Hattest du unmittelbaren Kontakt mit dem Virus?,Did you have direct contact with the virus?
+1179,"obere (r, s)",adj,B1,73.8761,0.8782,0,upper,Die obere Hälfte des Brotes ist verbrannt.,The upper half of the bread is burned.
+1183,"mittlere (r, s)",adj,B1,73.4818,0.8371,0,"middle, average",Sie öffnet das rechte und das mittlere Fenster.,She opens the right and the middle window.
+1238,linear,adj,B1,71.1655,0.714,0,linear,Wir lösen lineare Gleichungen.,We solve linear equations.
+1288,außen,adj,B1,68.6027,0.9213,0,outside,Die Treppe ist außen und führt hinunter in den Garten.,The stairs are outside and lead down into the garden.
+1452,umgekehrt,adj,B1,61.2595,0.9143,0,"reversed, contrary, around",Er wendet sein Auto und fährt in umgekehrter Richtung zurück.,He turns his car around and drives back in the opposite direction.
+1573,fern,adj,B1,55.1976,0.9291,0,"far, distant",Die Pläne liegen noch in ferner Zukunft.,The plans are still for the distant future.
+1621,entfernt,adj,B1,53.2755,0.934,0,"distant, away",Berlin ist über 100 Kilometer von Leipzig entfernt.,Berlin is more than 100 kilometers away from Leipzig.
+1692,"untere (r, s)",adj,B1,50.6142,0.8026,0,lower,"Ich wohne in der unteren Wohnung, damit ich nicht so viele Treppen steigen muss.",I live in the lower apartment so I don’t have to climb so many stairs.
+1730,enorm,adj,B1,49.1357,0.9157,0,enormous,Die Firma hat in diesem Jahr enorme Umsätze.,The company has enormous sales this year.
+1808,schmal,adj,B1,46.9179,0.8818,0,"narrow, slender",Wir folgen einem schmalen Weg durch den Wald.,We are following a narrow track through the forest.
+1905,parallel,adj,B1,43.8624,0.8708,0,parallel,Die Straßen in diesem Teil der Stadt laufen parallel.,The streets in this part of the city run parallel.
+2030,gewaltig,adj,B1,40.6589,0.9149,0,"enormous, tremendous, powerful","Die Welle ist so gewaltig, dass sie auf unser Haus am Strand trifft.",The wave is so powerful that it hits our house on the beach.
+2219,winzig,adj,B1,36.6177,0.8755,0,tiny,Bakterien sind winzige Organismen.,Bacteria are tiny organisms.
+2236,"äußere (r, s)",adj,B1,36.2727,0.8246,0,"outer, external","Das Ohr besteht aus einem äußeren, sichtbaren und einem inneren Teil.","The ear consists of an external, visible and an internal part."
+2267,extern,adj,B1,35.6813,0.6913,0,external,Eine externe Mitarbeiterin arbeitet an diesem Teil des Projekts.,An external collaborator is working on this part of the project.
+2306,intern,adj,B1,34.7942,0.8545,0,internal,Die internen Angelegenheiten der Firma sind streng geheim.,The internal matters of the company are strictly confidential.
+2426,indirekt,adj,B1,32.6257,0.8757,0,indirect,Das indirekte Licht macht den Raum heller.,The indirect light makes the room brighter.
+2437,flach,adj,B1,32.4286,0.903,0,"flat, low, shallow",Das Wasser im See ist sehr flach.,The water in the lake is very shallow.
+2496,räumlich,adj,B1,31.64,0.8155,0,"three-dimensional, spatial",Die Fragen testen die räumliche Wahrnehmung.,The questions test spatial perception.
+2749,steil,adj,B1,27.9438,0.8585,0,steep,Der Weg zum Gipfel ist steil.,The path to the peak is steep.
+2891,senkrecht,adj,B1,26.1203,0.7507,0,vertical,Bitte tragen Sie die Buchstaben senkrecht in die Felder ein.,Please enter the letters vertically in the fields.
+3021,schief,adj,B1,24.5925,0.8775,0,"crooked, not straight",Das Bild an der Wand hängt schief.,The picture on the wall is crooked.
+4766,spitz,adj,B1,12.863,0.8937,0,sharp,Die Schere ist vorne sehr spitz und deswegen nicht für Kinder geeignet.,The scissors are very sharp at the tip and therefore not suitable for children.

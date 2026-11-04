@@ -1,0 +1,10 @@
+rank,word,pos,level,freq_per_million,dispersion,has_conjugation,definition,example_de,example_en
+1369,"der Besucher, -",der,B1,65.005,0.84,0,visitor,Heute sind wir die einzigen Besucher im Museum.,Today we are the only visitors to the museum.
+1741,"der Amerikaner, -",der,B1,48.8893,0.8938,0,American,"Ich bin stolz, ein Amerikaner zu sein und in New York zu wohnen.",I’m proud to be an American and live in New York.
+1920,"der Teilnehmer, -",der,B1,43.5174,0.8829,0,participant,Die Teilnehmer des Experiments dürfen nicht über den Vorgang sprechen.,The participants of the experiment are not allowed to talk about the process.
+1937,"der Russe, -n",der,B1,43.1724,0.8241,0,Russian,"Ivanas Vater ist Russe, weshalb sie auch Russisch spricht.","Ivana’s father is Russian, which is why she speaks Russian."
+2252,"der Bewohner, -",der,B1,35.8784,0.8947,0,"inhabitant, resident, occupant",Während des Brands müssen alle Bewohner das Haus verlassen.,All residents must leave the house during the fire.
+2311,"der Einwohner, -",der,B1,34.6956,0.8727,0,inhabitant,Leipzig hat ca. 590.000 Einwohner.,"Leipzig has approximately 590,000 inhabitants."
+2349,"der Franzose, -n",der,B1,33.9564,0.8754,0,"Frenchman, French",In Frankreich leben über 66 Millionen Franzosen.,Over 66 million French people live in France.
+2382,"das Vorbild, -er",das,B1,33.365,0.8908,0,"role model, example","Sophie ist ein Vorbild für die anderen Schüler, sie beteiligt sich immer aktiv am Unterricht.","Sophie is a role model for the other students, she always participates actively in the lessons."
+2447,"der Held, -en",der,B1,32.2314,0.8933,0,hero,In meiner Jugend war James Bond mein größter Held.,James Bond was my greatest hero in my youth.

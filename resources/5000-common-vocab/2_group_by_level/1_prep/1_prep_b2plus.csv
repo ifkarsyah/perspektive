@@ -1,0 +1,14 @@
+rank,word,pos,level,freq_per_million,dispersion,has_conjugation,definition,example_de,example_en
+2516,jenseits,prep,B2+,31.2458,0.9071,0,beyond,Das Dorf befindet sich jenseits der Berge.,The village is beyond the mountains.
+3033,herum,prep,B2+,24.4446,0.8141,0,around,Wir fahren um den Unfall herum.,We’re driving around the accident.
+3168,mithilfe,prep,B2+,22.8183,0.8774,0,with the aid of,Mithilfe des Übersetzers erklärt der ausländische Patient dem Arzt seine Probleme.,"With the help of the translator, the foreign patient explains his problems to the doctor."
+3296,unterhalb,prep,B2+,21.5369,0.8752,0,"below, underneath",Unterhalb von Köln liegt Bonn und oberhalb die Stadt Essen.,Below Cologne is Bonn and above the city of Essen.
+3380,infolge,prep,B2+,20.8469,0.8706,0,as a result of,Der Fluss ist infolge des starken Regens extrem hoch.,The river is extremely high as a result of the heavy rain.
+3382,oberhalb,prep,B2+,20.8469,0.8392,0,above,Das Hotel liegt auf einem Hügel oberhalb der Stadt.,The hotel is located on a hill above the town.
+3435,samt,prep,B2+,20.3541,0.8946,0,"together with, along with",Er wirft den Schrank samt Inhalt auf den Müll.,He throws the cupboard along with its contents into the trash.
+3795,via,prep,B2+,17.8899,0.8541,0,via,Bitte schick mir die Dokumente via E-Mail.,Please send me the documents via e-mail.
+3971,zugunsten,prep,B2+,16.8057,0.8736,0,in favor of,Das Gericht entscheidet zugunsten des Angeklagten.,The court rules in favor of the defendant.
+4426,seitens,prep,B2+,14.3908,0.8776,0,"by, on the part of","Die Reaktionen seitens des Publikums zeigen, dass es ihnen gefällt.",The reactions on the part of the audience show that they like it.
+4474,anstelle,prep,B2+,14.1444,0.8803,0,instead of,Anstelle des Autos nehme ich jetzt immer den Bus.,"Instead of the car, I always take the bus."
+4618,willen,prep,B2+,13.5037,0.8793,0,for the sake of,"Um ihrer Kinder willen hören die Eltern auf, sich zu streiten.","For the sake of their children, the parents stop arguing."
+4976,entgegen,prep,B2+,11.9266,0.8904,0,contrary to,Entgegen meiner Erwartungen ist Tom sehr nett.,"Contrary to my expectations, Tom is very nice."

@@ -1,0 +1,15 @@
+rank,word,pos,level,freq_per_million,dispersion,has_conjugation,definition,example_de,example_en
+33,noch,adv,A1,3375.3325,0.9514,0,"still, yet",Habt ihr sonst noch Fragen?,Do you still have any questions?
+41,dann,adv,A1,2898.7111,0.9128,0,then,Erst gehen wir einkaufen und dann in ein Restaurant.,"First we go shopping, then we go to a restaurant."
+61,schon,adv,A1,1839.706,0.9332,0,already,Günter arbeitet schon seit 30 Jahren hier.,Günter has been working here for 30 years now.
+72,jetzt,adv,A1,1541.4912,0.9036,0,now,Wir müssen jetzt ins Bett.,We have to go to bed now.
+114,"nun, nu",adv,A1,786.0728,0.952,0,now,Nun habt ihr euch euren Urlaub verdient.,Now you’ve earned your vacation.
+116,heute,adv,A1,778.8774,0.9301,0,today,Heute ist mein Geburtstag.,Today is my birthday.
+132,erst,adv,A1,680.261,0.9588,0,"first, only, not until",Erst solltest du deine Eltern fragen.,First you should ask your parents.
+351,schließlich,adv,A1,238.8774,0.9426,0,"finally, eventually","Wir haben uns total verlaufen, aber schließlich sind wir doch noch ans Ziel gekommen.","We got completely lost, but eventually we reached our destination."
+411,früher,adv,A1,201.1755,0.9323,0,in former times,Früher war Deutschland in Osten und Westen geteilt.,In former times Germany was divided into East and West.
+446,sofort,adv,A1,184.2712,0.9246,0,immediately,Daniel braucht sofort einen Arzt.,Daniel needs a doctor immediately.
+503,bald,adv,A1,166.6277,0.9238,0,soon,Bis bald!,See you soon!
+752,morgen,adv,A1,115.4645,0.8516,0,tomorrow,Heute bleibe ich im Bett und morgen gehe ich arbeiten.,Today I’ll stay in bed and tomorrow I’ll go to work.
+821,gestern,adv,A1,104.8754,0.8527,0,yesterday,Gestern habe ich einen Freund getroffen.,Yesterday I met a friend.
+3014,zurzeit,adv,A1,24.6911,0.891,0,at the moment,Ich habe zurzeit keine Pläne für die Zukunft.,I have no plans for the future at the moment.

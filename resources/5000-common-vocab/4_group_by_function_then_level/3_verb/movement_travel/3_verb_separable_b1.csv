@@ -1,0 +1,15 @@
+rank,word,pos,level,freq_per_million,dispersion,has_conjugation,is_separable,definition,example_de,example_en
+1240,"eintreten, tritt ein, trat ein, hat eingetreten",verb,B1,71.0669,0.9062,1,1,"to enter, join, occur",Der Besucher tritt ein und macht das Licht an.,The visitor enters and turns on the light.
+1307,"zurückkehren, kehrt zurück, kehrte zurück, ist zurückgekehrt",verb,B1,67.6663,0.9166,1,1,to return,Robert kehrt nach Jahren im Ausland nach Hause zurück.,Robert returns home after years abroad.
+1469,"zurückkommen, kommt zurück, kam zurück, ist zurückgekommen",verb,B1,60.0274,0.886,1,1,to return,Ich bin jetzt im Urlaub und komme erst in zwei Wochen zurück.,"I’m on vacation now, and I will return in two weeks."
+1718,"zukommen, kommt zu, kam zu, ist zugekommen",verb,B1,49.53,0.9245,1,1,"to come toward, be in store",Ali kommt auf Emi zu und umarmt sie.,Ali comes toward Emi and embraces her.
+1750,"umdrehen, dreht um, drehte um, hat umgedreht",verb,B1,48.7414,0.8604,1,1,"to turn over, turn around","Dreh dich mal um, ich stehe hinter dir.","Turn around, I’m behind you."
+1964,"zugehen, geht zu, ging zu, ist zugegangen",verb,B1,42.5317,0.8521,1,1,"to approach, close",Ich gehe langsam auf den großen Hund zu.,I’m slowly approaching the big dog.
+2111,"zurückziehen, zieht zurück, zog zurück, hat zurückgezogen",verb,B1,38.7862,0.919,1,1,to withdraw,Seine Tochter übernimmt seinen Platz und er zieht sich aus der Firma zurück.,His daughter takes his place and he withdraws from the company.
+2137,"herauskommen, kommt heraus, kam heraus, ist herausgekommen (rauskommen)",verb,B1,38.2933,0.9017,1,1,to come out,"Max kommt heraus, um mit dem Kind der Nachbarin zu spielen.",Max comes out to play with the neighbor’s child.
+2336,"herkommen, kommt her, kam her, ist hergekommen",verb,B1,34.2028,0.8793,1,1,to come here,"Simon, komm her, ich möchte mit dir reden!","Simon, come here, I want to talk to you!"
+2415,"aufsteigen, steigt auf, stieg auf, ist aufgestiegen",verb,B1,32.8229,0.9179,1,1,"to rise (up), move up",Nächste Saison wird mein Team aufsteigen.,My team is moving up next season.
+2434,"ausziehen, zieht aus, zog aus, ist ausgezogen",verb,B1,32.4779,0.8763,1,1,"to move out, take off (clothes)",Ich ziehe nach fünf Jahren aus der Wohnung aus.,I’m moving out of the apartment after five years.
+2457,"hingehen, geht hin, ging hin, ist hingegangen",verb,B1,32.0836,0.8131,1,1,to go (there),"Johanna ist sehr traurig, bitte geh zu ihr hin und sprich mit ihr.",Johanna is very sad; please go to her and talk to her.
+4250,"entgegenkommen, kommt entgegen, kam entgegen, ist entgegengekommen",verb,B1,15.2286,0.8838,1,1,"to meet, accommodate","Ich habe zu wenig Geld dabei, können Sie mir mit dem Preis entgegenkommen?",I don’t have enough money; can you meet me with the price?
+4468,"losfahren, fährt los, fuhr los, ist losgefahren",verb,B1,14.1937,0.898,1,1,"to leave, depart","Wir sollten morgen früher losfahren, damit wir eher wieder zu Hause sind.",We should depart early tomorrow so we can get home sooner.

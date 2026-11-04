@@ -1,0 +1,30 @@
+rank,word,pos,level,freq_per_million,dispersion,has_conjugation,is_separable,definition,example_de,example_en
+264,"entstehen, entsteht, entstand, ist entstanden",verb,B1,329.7563,0.9001,1,0,"to originate, develop",Neben unserem Haus entsteht ein neues Gebäude.,Next to our house a new building is being built.
+321,"steigen, steigt, stieg, ist gestiegen",verb,B1,260.8086,0.9124,1,0,"to climb, increase",Ich steige auf den Berg.,I’m climbing the mountain.
+377,"entwickeln, entwickelt, entwickelte, hat entwickelt",verb,B1,219.6075,0.9271,1,0,to develop,Die Forscher entwickeln ein neues Medikament.,The researchers are developing a new drug.
+470,"wachsen, wächst, wuchs, ist gewachsen",verb,B1,175.893,0.9401,1,0,to grow,Kinder wachsen schneller als Erwachsene.,Children grow faster than adults.
+502,"gelingen, gelingt, gelang, ist gelungen",verb,B1,166.677,0.9338,1,0,to succeed,"Endlich gelingt es Mona, sie anzusprechen.",Finally Mona succeeds in approaching her.
+559,"verschwinden, verschwindet, verschwand, ist verschwunden",verb,B1,154.504,0.9066,1,0,to disappear,Die Sonne verschwindet hinter den Bergen.,The sun disappears behind the mountains.
+617,"erhöhen, erhöht, erhöhte, hat erhöht",verb,B1,141.1481,0.8752,1,0,"to raise, increase",Die Regierung möchte die Steuern erhöhen.,The government wants to raise taxes.
+623,"geschehen, geschieht, geschah, ist geschehen",verb,B1,139.7682,0.945,1,0,"to happen, occur","Niemand weiß, was wirklich geschehen ist.",Nobody knows what really happened.
+902,"sinken, sinkt, sank, ist gesunken",verb,B1,96.5958,0.8823,1,0,to sink,Das Schiff sinkt bis auf den Boden des Meeres.,The ship sinks to the bottom of the sea.
+1066,"scheitern, scheitert, scheiterte, ist gescheitert",verb,B1,81.515,0.8945,1,0,"to fail, break down",Er ist mit seinen Plänen gescheitert.,He failed in his plans.
+1192,"starten, startet, startete, hat gestartet",verb,B1,73.0875,0.8924,1,0,to start,Im Sommer startet ein neuer Kurs.,A new course starts in summer.
+1194,"verbessern, verbessert, verbesserte, hat verbessert",verb,B1,73.0382,0.9222,1,0,"to improve, correct",Das Rauchverbot wird die Qualität der Luft verbessern.,The smoking ban will improve the quality of the air.
+1226,"verlaufen, verläuft, verlief, ist verlaufen",verb,B1,71.6583,0.8111,1,0,"to proceed, get lost",Zum Glück verläuft das Konzert ohne technische Probleme.,Fortunately the concert proceeds without technical problems.
+1236,"reduzieren, reduziert, reduzierte, hat reduziert",verb,B1,71.264,0.9205,1,0,"to reduce, decrease","Er versucht, seinen Stress zu reduzieren.",He’s trying to reduce his stress.
+1334,"erzielen, erzielt, erzielte, hat erzielt",verb,B1,66.5821,0.8735,1,0,"to achieve, reach",Die Mannschaft hat im Wettbewerb gute Ergebnisse erzielt.,The team has achieved good results in the competition.
+1352,"verstärken, verstärkt, verstärkte, hat verstärkt",verb,B1,65.5964,0.9258,1,0,"to strengthen, reinforce",Die Kontrollen an den Grenzen werden verstärkt.,Border checks are being strengthened.
+1498,"überleben, überlebt, überlebte, hat überlebt",verb,B1,58.401,0.9227,1,0,to survive,Zum Glück überlebte der Mann den Angriff.,"Fortunately, the man survived the attack."
+1611,"senken, senkt, senkte, hat gesenkt",verb,B1,53.6698,0.9149,1,0,"to sink, lower, decrease",Die neue Regierung senkt die hohen Steuern.,The new government lowers the high taxes.
+1651,"brennen, brennt, brannte, hat gebrannt",verb,B1,52.0434,0.9005,1,0,to burn,"Weil das Feuer brennt, ist uns warm.","Because the fire is burning, we are warm."
+1819,"verbreiten, verbreitet, verbreitete, hat verbreitet",verb,B1,46.5237,0.9291,1,0,to spread,Die Polizei verbreitet die Meldung über die Medien.,The police spread the news through the media.
+1849,"erweitern, erweitert, erweiterte, hat erweitert",verb,B1,45.4394,0.9078,1,0,"to widen, expand","Das Unternehmen plant, sein Angebot international zu erweitern.",The company plans to expand its offering internationally.
+1994,"erleichtern, erleichtert, erleichterte, hat erleichtert",verb,B1,41.546,0.9369,1,0,"to relieve, make easier","Ich bin erleichtert, dass du wieder gesund bist.",I’m relieved that you’re well again.
+2015,"steigern, steigert, steigerte, hat gesteigert",verb,B1,40.9546,0.9005,1,0,"to increase, raise",Die neuen Produkte im Laden steigern den Umsatz.,The new products in the shop increase sales.
+2249,"stoppen, stoppt, stoppte, hat gestoppt",verb,B1,36.0756,0.8969,1,0,to stop,Die Polizei stoppt die Demonstration nach wenigen Metern.,The police stop the demonstration after a few meters.
+2281,"stärken, stärkt, stärkte, hat gestärkt",verb,B1,35.4349,0.8795,1,0,to strengthen,Gutes Essen und Sport stärken die Gesundheit.,Good food and exercise strengthen your health.
+2287,"verwandeln, verwandelt, verwandelte, hat verwandelt",verb,B1,35.3363,0.9072,1,0,"to transform, turn into",Da verwandelt sich das Mädchen in eine wunderschöne Prinzessin.,Then the girl turns into a beautiful princess.
+2741,"verlängern, verlängert, verlängerte, hat verlängert",verb,B1,28.0423,0.8972,1,0,"to lengthen, extend",Der Vertrag verlängert sich automatisch am Ende des Monats.,The contract renews automatically at the end of the month.
+3147,"vergrößern, vergrößert, vergrößerte, hat vergrößert",verb,B1,23.0647,0.8549,1,0,"to increase, extend, enlarge","Ich versuche durch viel Arbeit, mein Vermögen ständig zu vergrößern.",I try by a lot of work to constantly increase my fortune.
+3657,"blühen, blüht, blühte, hat geblüht",verb,B1,18.7278,0.8852,1,0,to bloom,Der Apfelbaum blüht mit weißen Blüten.,The apple tree blooms with white flowers.

@@ -1,0 +1,5 @@
+rank,word,pos,level,freq_per_million,dispersion,has_conjugation,definition,example_de,example_en
+266,neben,prep,A2,327.9328,0.9485,0,"next to, beside",Max steht neben Anja.,Max is standing next to Anja.
+269,hinter,prep,A2,325.3701,0.9152,0,"behind, in back of",Der Garten ist hinter dem Haus.,The garden is behind the house.
+439,gegenüber,prep,A2,187.2282,0.9255,0,opposite,Seine Frau sitzt ihm gegenüber.,His wife is sitting opposite him.
+1366,außerhalb,prep,A2,65.0543,0.9397,0,outside,Sie lebt außerhalb der Stadt.,She lives outside the city.

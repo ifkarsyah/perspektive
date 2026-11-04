@@ -1,0 +1,7 @@
+rank,word,pos,level,freq_per_million,dispersion,has_conjugation,definition,example_de,example_en
+425,nämlich,part,B1,195.3107,0.9413,0,"you see, namely",Ich habe nämlich doch Recht!,"You see, I’m right after all!"
+1142,hey,part,B1,76.0,0.6283,0,hey,"Hey du, komm mal her!","Hey you, come here!"
+1242,äh,part,B1,70.8698,0.7397,0,um,"Äh, ich bin mir nicht sicher.","Um, I’m not sure."
+1487,naja,part,B1,58.9431,0.6187,0,(oh) well,"Naja, es könnte schlimmer sein.","Well, it could be worse."
+1796,ah,part,B1,47.2629,0.7634,0,ah,"Ah, Alissa, wie schön dich zu sehen!","Ah, Alissa, how nice to see you!"
+1924,aha,part,B1,43.3695,0.6993,0,"aha, I see","Aha, deswegen kommst du also zu spät.","Aha, that’s why you’re too late."

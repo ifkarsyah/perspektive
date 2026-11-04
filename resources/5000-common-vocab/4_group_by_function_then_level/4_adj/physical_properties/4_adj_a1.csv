@@ -1,0 +1,6 @@
+rank,word,pos,level,freq_per_million,dispersion,has_conjugation,definition,example_de,example_en
+773,laut,adj,A1,110.6909,0.8965,0,loud,Meiner Meinung nach ist die Musik zu laut.,"In my opinion, the music is too loud."
+991,ruhig,adj,A1,87.7247,0.8997,0,"quiet, calm",In einer Großstadt gibt es nur wenige ruhige Orte.,In a big city there are only a few quiet places.
+1166,leise,adj,A1,74.7139,0.866,0,"quiet, soft",Er spricht mit leiser Stimme.,He speaks in a quiet voice.
+2950,kaputt,adj,A1,25.381,0.8756,0,"broken, ruined","Dieses Auto hat keinen großen Nutzen mehr, weil der Motor kaputt ist.",This car is no longer very useful because the engine is broken.
+2991,bitter,adj,A1,24.8882,0.9124,0,bitter,Wein hat einen etwas bitteren Geschmack.,Wine has a slightly bitter taste.

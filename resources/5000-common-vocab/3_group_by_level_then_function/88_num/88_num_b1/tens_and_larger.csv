@@ -1,0 +1,4 @@
+rank,word,pos,level,freq_per_million,dispersion,has_conjugation,definition,example_de,example_en
+2046,dreißig,num,B1,40.314,0.8746,0,thirty,Nick wird in diesem Jahr dreißig Jahre alt.,Nick turns thirty this year.
+2390,fünfzig,num,B1,33.2664,0.8925,0,fifty,Fünfzig plus fünfzig sind hundert.,Fifty plus fifty equals a hundred.
+2448,sechzig,num,B1,32.2314,0.9116,0,sixty,Eine Stunde hat sechzig Minuten.,An hour has sixty minutes.

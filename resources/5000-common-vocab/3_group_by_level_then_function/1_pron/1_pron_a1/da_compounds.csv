@@ -1,0 +1,8 @@
+rank,word,pos,level,freq_per_million,dispersion,has_conjugation,definition,example_de,example_en
+150,dazu,pron,A1,578.8354,0.9609,0,"in addition, furthermore, to that, for that",Ich koche heute und brauche dazu Eier.,I’m cooking tonight and I need eggs for that.
+195,"darauf, drauf",pron,A1,434.4839,0.9572,0,"on it, to it","Das Geschenk ist offensichtlich für Marlene, ihr Name steht darauf.",This gift’s clearly for Marlene; it has her name on it.
+214,davon,pron,A1,401.1682,0.9636,0,"from it, about it, thereof",Davon wissen wir nichts.,We don’t know anything about that.
+283,"darüber, drüber",pron,A1,309.1065,0.9501,0,"above it, about it",Darüber müssen wir morgen sprechen.,We’ll have to talk about that tomorrow.
+292,"daran, dran",pron,A1,293.1879,0.9413,0,on it,Daran denke ich jeden Tag.,I think about it every day.
+360,"darin, drin, drinnen",pron,A1,232.9141,0.9556,0,"in it, in there, inside","Ich suche meinen Koffer, darin sind meine Sachen.","I’m looking for my suitcase, in there are my things."
+1939,daneben,pron,A1,43.1231,0.9378,0,"beside it, next to it",Auf dem Foto sieht man Günter und Hartmut und daneben steht ihre Schwester Gisela.,On the photo you can see Günter and Hartmut and next to them is their sister Gisela.

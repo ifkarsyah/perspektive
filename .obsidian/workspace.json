@@ -190,14 +190,23 @@
   },
   "active": "87655748b9a00527",
   "lastOpenFiles": [
+    "resources/5000-common-vocab/52_noun_analyze/noun_12512_country.csv",
+    "resources/5000-common-vocab/52_noun_analyze/noun_12514_other.csv",
+    "resources/5000-common-vocab/52_noun_analyze/noun_12513_city_or_state.csv",
+    "resources/5000-common-vocab/52_noun_analyze/noun_12511_continent.csv",
+    "resources/5000-common-vocab/52_noun_analyze/noun_1253_money.csv",
+    "resources/5000-common-vocab/52_noun_analyze/noun_1252_law_enforcement.csv",
+    "resources/5000-common-vocab/52_noun_analyze/noun.csv",
+    "resources/5000-common-vocab/52_noun_analyze/taxonomy.md",
+    "resources/5000-common-vocab/52_noun_analyze/noun_1255_money.csv",
+    "resources/5000-common-vocab/52_noun_analyze/noun_1254_military.csv",
+    "resources/5000-common-vocab/52_noun_analyze/noun_1253_law.csv",
+    "resources/5000-common-vocab/52_noun_analyze/noun_1252_politics.csv",
     "adhoc/grammar/a1/14-verb-second-position.md",
     "adhoc/grammar/a1/13-personal-pronouns.md",
     "adhoc/grammar/a1/12-sein-and-haben.md",
     "adhoc/grammar/a1/11-regular-verbs.md",
     "adhoc/grammar/a1/10-present-tense-and-sentence-basic.md",
-    "adhoc/grammar/a1/00-overview.md",
-    "A2-nicos-weg",
-    "A1-deutschtrainer",
-    "A1-nicos-weg"
+    "adhoc/grammar/a1/00-overview.md"
   ]
 }

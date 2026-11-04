@@ -1,0 +1,4 @@
+rank,word,pos,level,freq_per_million,dispersion,has_conjugation,is_separable,definition,example_de,example_en
+1279,"einladen, lädt ein, lud ein, hat eingeladen",verb,A1,68.9477,0.9185,1,1,"to invite, load",Ich möchte dich gern zu meiner Party einladen.,I’d like to invite you to my party.
+2303,"kennenlernen, lernt kennen, lernte kennen, hat kennengelernt",verb,A1,34.8928,0.8941,1,1,"to meet, get to know",Ich lerne in der Schule viele neue Menschen kennen.,I get to know a lot of new people at school.
+3202,"wiedersehen, sieht wieder, sah wieder, hat wiedergesehen",verb,A1,22.4733,0.8206,1,1,to see again,Nächste Woche sehen wir uns wieder.,We will see each other again next week.

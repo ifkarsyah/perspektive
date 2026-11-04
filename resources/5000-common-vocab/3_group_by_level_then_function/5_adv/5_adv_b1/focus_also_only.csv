@@ -1,0 +1,5 @@
+rank,word,pos,level,freq_per_million,dispersion,has_conjugation,definition,example_de,example_en
+445,ebenfalls,adv,B1,185.4048,0.9332,0,"likewise, also, as well",Dieses Hotel bietet ebenfalls einen Blick aufs Meer.,This hotel also offers a view of the sea.
+535,ebenso,adv,B1,159.5309,0.9238,0,"just as, as much as, as well",Meinen Bruder mag ich ebenso gerne wie meine Schwester.,I like my brother as much as my sister.
+808,genauso,adv,B1,106.6989,0.93,0,just as,Mit dem Zug dauert es genauso lange wie mit dem Bus.,It takes just as long by train as by bus.
+1835,ausgerechnet,adv,B1,45.9323,0.9115,0,"of all people, of all times",Warum muss ich ausgerechnet heute krank werden?,Why do I have to get ill today of all days?

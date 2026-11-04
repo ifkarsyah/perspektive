@@ -1,0 +1,6 @@
+rank,word,pos,level,freq_per_million,dispersion,has_conjugation,is_separable,definition,example_de,example_en
+79,"sehen, sieht, sah, hat gesehen",verb,A1,1358.3042,0.9326,1,0,to see,"Seit er die neue Brille hat, kann er besser sehen.","Since he got the new glasses, he can see better."
+146,"hören, hört, hörte, hat gehört",verb,A1,599.1895,0.9254,1,0,to hear,Kannst du mich hören?,Can you hear me?
+275,"scheinen, scheint, schien, hat geschienen",verb,A1,317.7311,0.9191,1,0,"to shine, seem, appear",Die Sonne scheint auf die Erde.,The sun shines on the earth.
+1365,"riechen, riecht, roch, hat gerochen",verb,A1,65.1036,0.7973,1,0,to smell,Die Blumen riechen gut.,The flowers smell good.
+2143,"schmecken, schmeckt, schmeckte, hat geschmeckt",verb,A1,38.1948,0.8961,1,0,to taste,Wie schmeckt das Essen?,What does the food taste like?

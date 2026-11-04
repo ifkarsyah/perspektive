@@ -1,0 +1,16 @@
+rank,word,pos,level,freq_per_million,dispersion,has_conjugation,definition,example_de,example_en
+181,etwa,adv,B1,481.8946,0.9393,0,"about, approximately",Die Führung dauert etwa eine Stunde.,The tour lasts about one hour.
+272,kaum,adv,B1,321.5752,0.9425,0,hardly,"Das Licht ist so hell, ich kann kaum etwas sehen.",The light is so bright I can hardly see anything.
+279,überhaupt,adv,B1,313.6406,0.923,0,"at all, generally",Anja mag Hunde überhaupt nicht.,Anja doesn’t like dogs at all.
+496,insgesamt,adv,B1,168.1062,0.9257,0,"in all, altogether, in total",Das Hotel hat insgesamt zehn Zimmer.,The hotel has ten rooms altogether.
+605,ziemlich,adv,B1,142.7745,0.8966,0,"quite, fairly, pretty","Sie ist sich ziemlich sicher, dass sie die Prüfung bestanden hat.",She’s pretty sure she passed the exam.
+612,zumindest,adv,B1,141.8381,0.9465,0,at least,"Ich habe die Prüfung nicht bestanden, aber zumindest habe ich es versucht.","I failed the exam, but at least I tried."
+1068,lediglich,adv,B1,81.4164,0.9155,0,merely,Ich erfülle lediglich meine Pflicht.,I’m merely fulfilling my duty.
+1121,teilweise,adv,B1,77.7695,0.9232,0,partly,Ich stimme dem teilweise zu.,I partly agree.
+1706,beinahe,adv,B1,49.9735,0.8967,0,"almost, nearly",Wir haben beinahe den Zug verpasst.,We almost missed the train.
+1972,äußerst,adv,B1,42.3346,0.935,0,extremely,Lisa ist eine äußerst kluge Studentin.,Lisa is an extremely clever student.
+2002,quasi,adv,B1,41.3489,0.8999,0,"almost, virtually","Der Bus hält quasi vor Adrians Haus, deswegen verpasst er ihn nie.","The bus stops virtually in front of Adrian’s house, so he never misses it."
+2070,nahezu,adv,B1,39.7225,0.9316,0,"nearly, almost",Nina gibt im Urlaub nahezu ihr gesamtes Geld aus.,Nina spends almost all her money on vacation.
+2100,allzu,adv,B1,38.9833,0.9265,0,overly,Jannik ist ein allzu neugieriges Kind.,Jannik is an overly curious child.
+2329,geradezu,adv,B1,34.2521,0.918,0,downright,Deine Forderungen sind geradezu zum Lachen.,Your demands are downright ridiculous.
+2362,höchstens,adv,B1,33.6607,0.9066,0,at most,"Karl trinkt höchstens zwei Gläser Wein, damit er sich morgen nicht schlecht fühlt.","Karl drinks at most two glasses of wine, so that he doesn’t feel bad tomorrow."

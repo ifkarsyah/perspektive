@@ -1,0 +1,12 @@
+rank,word,pos,level,freq_per_million,dispersion,has_conjugation,definition,example_de,example_en
+76,gut,adj,A1,1441.7905,0.9386,0,good,Die Blumen riechen gut.,The flowers smell good.
+131,einfach,adj,A1,680.4088,0.9389,0,"simple, easy",Die Prüfung war sehr einfach.,The exam was very simple.
+144,wichtig,adj,A1,601.8016,0.9434,0,important,Er hat eine wichtige Frage.,He has an important question.
+188,schön,adj,A1,455.0351,0.9033,0,"beautiful, pleasant, good",Von hier aus hat man einen schönen Blick auf die Stadt.,From here you have a beautiful view of the city.
+201,besser,adj,A1,421.0295,0.9567,0,better,Kevin kann besser schwimmen als sein Bruder.,Kevin swims better than his brother.
+257,schwer,adj,A1,338.9723,0.9507,0,"difficult, heavy",Das ist eine schwere Frage.,That’s a tough question.
+311,leicht,adj,A1,270.3696,0.955,0,"light, easy",Das ist eine leichte Aufgabe.,It’s an easy task.
+314,"beste (r, s)",adj,A1,268.1026,0.9329,0,best,Lisett ist meine beste Freundin.,Lisett is my best friend.
+319,bekannt,adj,A1,261.4,0.9553,0,"well-known, famous",Leipzig ist eine bekannte Stadt in Deutschland.,Leipzig is a well-known city in Germany.
+327,schlecht,adj,A1,257.3095,0.9503,0,bad,Dein Atem riecht schlecht.,Your breath smells bad.
+1603,wunderbar,adj,A1,53.9655,0.9039,0,wonderful,Diese Sängerin hat eine wunderbare Stimme.,This singer has a wonderful voice.

@@ -1,0 +1,33 @@
+rank,word,pos,level,freq_per_million,dispersion,has_conjugation,definition,example_de,example_en
+407,häufig,adj,B1,203.2454,0.9021,0,frequent,"Weil die Krankheit sehr häufig auftritt, wird ein neues Medikament dagegen entwickelt.","Because the disease occurs very frequently, a new drug is being developed."
+637,gleichzeitig,adj,B1,136.3183,0.9571,0,"simultaneous, at the same time",Sie verlassen gleichzeitig das Gebäude.,They leave the building at the same time.
+669,selten,adj,B1,131.6364,0.9487,0,rare,Jana sammelt seltene Steine.,Jana collects rare stones.
+779,ständig,adj,B1,110.3952,0.9409,0,constant,"Der Fernseher ist ständig an, weil ich mich sonst alleine fühle.","The television is on constantly, because otherwise I feel alone."
+901,historisch,adj,B1,96.6451,0.8906,0,historical,Er interessiert sich für historische Gebäude.,He is interested in historical buildings.
+1002,erneut,adj,B1,86.7883,0.912,0,"again, renewed",Die erneuten Unruhen im Land bereiten der Regierung Sorgen.,The government is concerned about the renewed unrest in the country.
+1043,täglich,adj,B1,83.2399,0.9356,0,daily,Nehmen Sie die Medizin zweimal täglich.,Take your medicine twice daily.
+1076,heutig,adj,B1,81.0222,0.9012,0,"present-day, today’s",Die heutigen Studenten schreiben fast nicht mehr mit der Hand.,Today’s students almost never write by hand anymore.
+1082,regelmäßig,adj,B1,80.7758,0.935,0,regular,Ich brauche regelmäßige Updates über den Fortschritt des Projekts.,I need regular updates on the project’s progress.
+1222,konstant,adj,B1,71.7076,0.7624,0,constant,Er fährt mit konstanter Geschwindigkeit.,He drives at a constant speed.
+1332,ursprünglich,adj,B1,66.6314,0.932,0,original,Wir kehren zu unserem ursprünglichen Plan zurück.,We return to our original plan.
+1349,rasch,adj,B1,65.7443,0.9163,0,quick,Wir müssen eine rasche Entscheidung treffen.,We have to make a quick decision.
+1387,langfristig,adj,B1,64.1179,0.7985,0,long-term,Für den Schutz der Umwelt sollten wir eine langfristige Lösung finden.,For the protection of the environment we should find a long-term solution.
+1553,bisherig,adj,B1,56.3311,0.9052,0,so far,Frau Schneiders bisherige Erfahrungen werden ihr im neuen Job helfen.,The experiences Mrs. Schneider has gained so far will help her in her new job.
+1555,traditionell,adj,B1,56.3311,0.9005,0,traditional,Das ist ein traditionelles Gericht meiner Familie.,This is a traditional dish of my family.
+1707,jährlich,adj,B1,49.9735,0.8979,0,annual,Die Universität vergibt jährlich den Preis für den besten Professor.,The university awards the prize for the best professor annually.
+1756,kurzfristig,adj,B1,48.5936,0.7644,0,at short notice,Leider muss meine Familie den Urlaub kurzfristig verschieben.,"Unfortunately, my family has to postpone their vacation at short notice."
+1781,zeitlich,adj,B1,47.7065,0.8706,0,in time,"Glaubst du, dass du es zeitlich schaffen wirst?",Do you think you’ll make it in time?
+1799,endgültig,adj,B1,47.2137,0.9296,0,final,Wir warten noch auf die endgültigen Ergebnisse.,We are still waiting for the final results.
+1800,ewig,adj,B1,47.2137,0.915,0,eternal,Jeremy schwört seiner Frau ewige Liebe.,Jeremy swears eternal love to his wife.
+1839,-jährig,adj,B1,45.7351,0.8377,0,years (old),Das fünfjährige Kind sucht seine Mutter.,The five-year-old child is looking for his mother.
+2045,damalig,adj,B1,40.314,0.9088,0,at that time,Unser damaliges Haus stand direkt an einem Wald.,Our house at that time stood directly next to a forest.
+2181,nachhaltig,adj,B1,37.4555,0.8724,0,"lasting, sustainable",Wir haben nur eine Erde und sollten nachhaltige Ideen fördern.,We only have one earth and should promote sustainable ideas.
+2269,stetig,adj,B1,35.632,0.6999,0,constant,Der stetige Anstieg des Meeresspiegels ist ein globales Problem.,The constant rise in sea level is a global problem.
+2332,zukünftig,adj,B1,34.2521,0.8826,0,future,Zukünftige Generationen werden hoffentlich alles besser machen.,Future generations will hopefully do everything better.
+2378,gegenwärtig,adj,B1,33.365,0.8913,0,"present, current",Die gegenwärtige politische Lage spricht gegen eine erneute Wahl dieser Partei.,The current political situation argues against reelecting this party.
+2493,dauerhaft,adj,B1,31.6893,0.8993,0,lasting,"Die Medikamente helfen nur für einige Zeit, denn die Wirkung ist nicht dauerhaft.","The drugs only help for some time, because the effect is not lasting."
+2497,jahrelang,adj,B1,31.5908,0.9141,0,"many years, for years",Laura und mich verbindet eine jahrelange Freundschaft.,A friendship of many years unites Laura and me.
+3113,rechtzeitig,adj,B1,23.459,0.9166,0,"punctual, in time","Wir müssen uns rechtzeitig auf den Weg machen, damit wir nicht zu spät kommen.",We have to get going in time so we won’t be late.
+3627,vorläufig,adj,B1,19.0235,0.8847,0,temporary,"Wir brauchen einen vorläufigen Plan, bis wir eine dauerhafte Lösung finden.",We need a temporary plan until we find a lasting solution.
+3720,dauernd,adj,B1,18.3335,0.8803,0,"constant, lasting",Er hat dauernd Probleme mit der Polizei.,He’s in constant trouble with the police.
+4050,alltäglich,adj,B1,16.3621,0.8775,0,"daily, usual, ordinary",Das Fernsehen zeigt alltägliche Probleme der Menschen.,Television shows people’s ordinary problems.

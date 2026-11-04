@@ -1,0 +1,5 @@
+rank,word,pos,level,freq_per_million,dispersion,has_conjugation,definition,example_de,example_en
+349,mehrere,pron,B1,240.3066,0.9401,0,"several, multiple, various",Oft leben mehrere Familien in einem Haus.,Often several families live in one house.
+1118,irgendein,pron,B1,78.1144,0.9078,0,"some, any",Hast du irgendeinen Rat für mich?,Do you have any advice for me?
+1120,"irgendetwas, irgendwas",pron,B1,77.9173,0.8676,0,"something, anything",Hast du irgendetwas gesagt?,Did you say something?
+1911,"irgendwelche (r, s)",pron,B1,43.6652,0.8394,0,"some, any",Können Sie mir irgendwelche Informationen zu dieser Veranstaltung geben?,Can you give me any information about this event?

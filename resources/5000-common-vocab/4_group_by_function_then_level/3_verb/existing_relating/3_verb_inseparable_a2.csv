@@ -1,0 +1,7 @@
+rank,word,pos,level,freq_per_million,dispersion,has_conjugation,is_separable,definition,example_de,example_en
+246,"bestehen, besteht, bestand, hat bestanden",verb,A2,355.9259,0.9363,1,0,"to exist, insist, pass (an exam)",Hoffentlich besteht Anja die Prüfung.,Hopefully Anja passes the exam.
+413,"ergeben, ergibt, ergab, hat ergeben",verb,A2,199.9927,0.8744,1,0,"to result in, produce",Die Untersuchung ergibt keinen Beweis für seine Schuld.,The investigation results in no evidence of his guilt.
+416,"betreffen, betrifft, betraf, hat betroffen",verb,A2,199.5491,0.931,1,0,"to affect, concern",Die Frage nach der Zukunft dieser Welt betrifft uns alle.,The question of the future of this world concerns all of us.
+696,"passen, passt, passte, hat gepasst",verb,A2,127.9401,0.9419,1,0,to fit,Diese Hose passt nicht.,These pants don’t fit.
+858,"betragen, beträgt, betrug, hat betragen",verb,A2,101.2777,0.8543,1,0,to amount,Die Kosten für die gesamte Veranstaltung betragen mehrere tausend Euro.,The costs for the entire event amount to several thousand euros.
+878,"beziehen, bezieht, bezog, hat bezogen",verb,A2,99.0107,0.9021,1,0,"to refer, put, get",In ihrem Artikel bezieht sie sich auf die politische Situation.,In her article she refers to the political situation.

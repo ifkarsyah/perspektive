@@ -1,0 +1,4 @@
+rank,word,pos,level,freq_per_million,dispersion,has_conjugation,definition,example_de,example_en
+825,"der Hund, -e",der,A1,104.5797,0.8754,0,dog,Mein Hund ist mein bester Freund.,My dog is my best friend.
+1013,"der Baum, -̈e",der,A1,85.5563,0.8874,0,tree,Im Wald stehen viele Bäume.,There are many trees in a forest.
+2463,"die Blume, -n",die,A1,31.985,0.8795,0,flower,Er schenkt ihr Blumen zum Geburtstag.,He’s giving her flowers for her birthday.

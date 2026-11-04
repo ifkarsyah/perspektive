@@ -1,0 +1,31 @@
+rank,word,pos,level,freq_per_million,dispersion,has_conjugation,definition,example_de,example_en
+2506,islamisch,adj,B2+,31.4429,0.8166,0,Islamic,Mevlid ist ein islamischer Feiertag.,Mevlid is an Islamic holiday.
+2508,radikal,adj,B2+,31.3443,0.8473,0,radical,Der Politiker hat radikale Ansichten.,The politician has radical views.
+2587,christlich,adj,B2+,30.1123,0.8356,0,Christian,Weihnachten ist ein christliches Fest.,Christmas is a Christian celebration.
+2605,konservativ,adj,B2+,29.9151,0.8309,0,conservative,Der konservative Flügel der Partei steht für traditionelle Werte.,The conservative wing of the party stands for traditional values.
+2702,bürgerlich,adj,B2+,28.5845,0.7879,0,"civil, civic","Er ruft die Polizei, weil es seine bürgerliche Pflicht ist.",He’s calling the police because it’s his civic duty.
+2812,betrieblich,adj,B2+,27.0567,0.584,0,operational,Aus betrieblichen Gründen ist das Geschäft heute geschlossen.,"For operational reasons, the store is closed today."
+2932,katholisch,adj,B2+,25.6275,0.8872,0,Catholic,In der Stadt steht eine katholische Kirche.,There’s a Catholic church in town.
+2943,juristisch,adj,B2+,25.4796,0.8587,0,"legal, juridical","Der Täter fordert juristische Unterstützung, wenn er vor Gericht muss.",The perpetrator demands legal assistance if he has to go to court.
+3006,professionell,adj,B2+,24.7403,0.9224,0,professional,Die Universität sucht professionelle Mitarbeiter für ein neues Projekt.,The university is looking for professional staff for a new project.
+3483,industriell,adj,B2+,20.0584,0.8725,0,industrial,Die industrielle Revolution hat das Leben der Menschen radikal verändert.,The industrial revolution radically changed people’s lives.
+3564,liberal,adj,B2+,19.3684,0.8506,0,liberal,Er ist liberal eingestellt.,He has liberal views.
+3846,materiell,adj,B2+,17.5449,0.863,0,"financial, material",Materieller Reichtum allein macht nicht glücklich.,Material wealth alone does not make you happy.
+3865,königlich,adj,B2+,17.4464,0.5941,0,royal,Das Land bereitet sich auf die königliche Hochzeit des Prinzen vor.,The country is preparing for the prince’s royal wedding.
+4070,ehrenamtlich,adj,B2+,16.2636,0.7864,0,"honorary, voluntary","Ich arbeite ehrenamtlich im Krankenhaus, weil es mir wichtiger ist, zu helfen, als Geld zu bekommen.",I work as a volunteer in the hospital because it’s more important to help than to get money.
+4090,sozialistisch,adj,B2+,16.165,0.8466,0,socialist,In der DDR regierte eine sozialistische Partei.,"In the GDR, a socialist party ruled."
+4289,kriminell,adj,B2+,15.0315,0.8752,0,criminal,Das ist ein Heim für kriminelle Jugendliche.,This is a home for criminal youth.
+4341,kommunal,adj,B2+,14.7358,0.7753,0,municipal,Morgen sind kommunale Wahlen in meiner Stadt.,There are municipal elections in my town tomorrow.
+4390,humanitär,adj,B2+,14.5387,0.7705,0,humanitarian,"Ich arbeite in einer humanitären Organisation, weil ich Menschen helfen möchte.",I work in a humanitarian organization because I want to help people.
+4451,kollektiv,adj,B2+,14.2922,0.8679,0,collective,Kollektive Arbeit stärkt das Gefühl der Gruppe.,Collective work strengthens the feeling of the group.
+4473,verbindlich,adj,B2+,14.1937,0.87,0,"binding, authoritative","Ich brauche eine verbindliche Antwort von dir, ob du zur Party kommst oder nicht.",I need a binding answer from you whether you’re coming to the party or not.
+4632,evangelisch,adj,B2+,13.4051,0.857,0,Protestant,Ich bin evangelisch und nicht katholisch.,I’m Protestant and not Catholic.
+4651,diplomatisch,adj,B2+,13.3066,0.8422,0,diplomatic,Sein Vorgehen während des Konflikts ist sehr diplomatisch.,His approach during the conflict is very diplomatic.
+4661,parlamentarisch,adj,B2+,13.3066,0.7935,0,parliamentary,"In Deutschland herrscht eine parlamentarische Demokratie, weil der Bundeskanzler vom Parlament gewählt wird.",In Germany there is a parliamentary democracy because the federal chancellor is elected by parliament.
+4681,ethisch,adj,B2+,13.1587,0.8295,0,ethical,Aus ethischen Gründen esse ich kein Fleisch.,"For ethical reasons, I don’t eat meat."
+4713,souverän,adj,B2+,13.0601,0.8346,0,sovereign,Souveräne Staaten können unabhängig über die Art der Regierung bestimmen.,Sovereign states can independently determine the type of government.
+4749,muslimisch,adj,B2+,12.9123,0.8276,0,Muslim,In meiner Nachbarschaft wohnt eine sehr nette muslimische Familie.,A very nice Muslim family lives in my neighborhood.
+4809,legal,adj,B2+,12.7152,0.8556,0,legal,Alkohol und Zigaretten sind legale Drogen in Deutschland.,Alcohol and cigarettes are legal drugs in Germany.
+4889,zulässig,adj,B2+,12.3209,0.818,0,"permitted, permissible, acceptable",Von dem Medikament darf ich nur eine zulässige Menge nehmen.,I may only take an acceptable amount of this medicine.
+4902,unschuldig,adj,B2+,12.2716,0.8554,0,innocent,"Ich bin nicht der Täter, ich bin unschuldig.","I’m not the culprit, I’m innocent."
+4910,gläubig,adj,B2+,12.2223,0.8866,0,"religious, devout",Ich bin ein gläubiger Mensch und gehe jeden Sonntag in die Kirche.,I am a devout person and go to church every Sunday.

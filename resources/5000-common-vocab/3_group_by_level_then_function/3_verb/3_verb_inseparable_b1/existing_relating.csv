@@ -1,0 +1,21 @@
+rank,word,pos,level,freq_per_million,dispersion,has_conjugation,is_separable,definition,example_de,example_en
+158,"gelten, gilt, galt, hat gegolten",verb,B1,549.7581,0.9226,1,0,to be valid,Die Karte für den Zug gilt nur heute.,The ticket for the train is only valid today.
+401,"wirken, wirkt, wirkte, hat gewirkt",verb,B1,204.4282,0.9448,1,0,"to have an effect, take effect, work","Als das Medikament wirkt, hat Markus keine Schmerzen mehr.","When the medication takes effect, Markus is no longer in pain."
+490,"stimmen, stimmt, stimmte, hat gestimmt",verb,B1,170.1761,0.9319,1,0,"to be correct, vote, tune",Alle stimmen gegen Ninas Idee.,Everyone votes against Nina’s idea.
+562,"enthalten, enthält, enthielt, hat enthalten",verb,B1,153.2719,0.8701,1,0,to contain,Fleisch enthält verschiedene Proteine.,Meat contains various proteins.
+610,"reichen, reicht, reichte, hat gereicht",verb,B1,141.9859,0.9551,1,0,"to reach, be enough",Das Frühstück reicht für die ganze Familie.,The breakfast is enough for the whole family.
+677,"funktionieren, funktioniert, funktionierte, hat funktioniert",verb,B1,130.2072,0.9262,1,0,"to function, work",Mein Handy funktioniert nicht.,My phone isn’t working.
+908,"stammen, stammt, stammte, hat gestammt",verb,B1,96.3494,0.9421,1,0,"to come (from), descend",Ihre Familie stammt aus Indien.,Her family comes from India.
+960,"eignen (sich), eignet, eignete, hat geeignet",verb,B1,90.4846,0.8928,1,0,to be suitable,"Diese Tabelle eignet sich gut, um das Thema besser zu verstehen.",This table is very suitable for understanding the topic better.
+1049,"umfassen, umfasst, umfasste, hat umfasst",verb,B1,82.7471,0.9032,1,0,"to include, consist of, surround",Eine Mauer umfasst unseren Garten.,Our garden is surrounded by a wall.
+1061,"existieren, existiert, existierte, hat existiert",verb,B1,81.8107,0.9035,1,0,to exist,Auf dem Mond können weder Menschen noch Tiere existieren.,Neither humans nor animals can exist on the moon.
+1250,"genügen, genügt, genügte, hat genügt",verb,B1,70.5248,0.944,1,0,to be sufficient,"Ihr Einkommen genügt, um die Rechnungen zu bezahlen.",Her income is sufficient to pay the bills.
+1715,"überwiegen, überwiegt, überwog, hat überwogen",verb,B1,49.7764,0.8788,1,0,to outweigh,"Weil die negativen Argumente überwiegen, entscheide ich mich dagegen.","Since the negative arguments outweigh the positive ones, I am against it."
+1716,"bedingen, bedingt, bedingte, hat bedingt",verb,B1,49.7271,0.7893,1,0,to cause,Die Ergebnisse des Experiments bedingen eine Änderung der ursprünglichen Annahme.,The results of the experiment cause a change in the original assumption.
+1767,"verursachen, verursacht, verursachte, hat verursacht",verb,B1,48.1008,0.9003,1,0,to cause,Zu viele süße Lebensmittel verursachen Probleme mit der Haut.,Too many sweet foods cause problems with the skin.
+1850,"erweisen, erweist, erwies, hat erwiesen",verb,B1,45.3902,0.9198,1,0,to prove,Die Theorie erweist sich als falsch.,The theory proves to be wrong.
+1992,"bewirken, bewirkt, bewirkte, hat bewirkt",verb,B1,41.546,0.8609,1,0,to cause,"Der Kaffee bewirkt, dass Jana nicht schlafen kann.",The coffee causes Jana not to be able to sleep.
+2103,"lohnen (sich), lohnt, lohnte, hat gelohnt",verb,B1,38.9833,0.9253,1,0,to be worth it,Nachts die Sterne zu betrachten lohnt sich immer.,Looking at the stars at night is always worth it.
+2128,"erfordern, erfordert, erforderte, hat erfordert",verb,B1,38.4412,0.891,1,0,"to require, demand",Gute Noten in der Schule erfordern gute Leistungen der Schüler.,Good grades at school require good performance by the students.
+2142,"resultieren, resultiert, resultierte, hat resultiert",verb,B1,38.1948,0.8421,1,0,to result,Ihre guten Noten resultieren aus intensivem Lernen.,Her good grades result from intense learning.
+2161,"beruhen, beruht, beruhte, hat beruht",verb,B1,37.8498,0.8904,1,0,to be based,Die Rede der Politikerin beruht auf Fakten.,The politician’s speech is based on facts.

@@ -1,0 +1,10 @@
+rank,word,pos,level,freq_per_million,dispersion,has_conjugation,definition,example_de,example_en
+202,fast,adv,A2,419.9452,0.9469,0,almost,Ich hätte fast den Bus verpasst.,I almost missed the bus.
+270,besonders,adv,A2,323.6451,0.9513,0,particularly,Das Spiel ist heute besonders spannend.,The game is particularly exciting today.
+498,genug,adv,A2,167.9091,0.9357,0,enough,Haben wir genug Wasser für alle Personen?,Do we have enough water for everyone?
+604,mindestens,adv,A2,143.4644,0.9302,0,at least,Sie muss mindestens acht Stunden pro Tag arbeiten.,She has to work at least eight hours a day.
+655,insbesondere,adv,A2,133.0163,0.8776,0,especially,Ich mag Literatur und insbesondere Gedichte.,I like literature and especially poetry.
+725,"zirka, ca.",adv,A2,121.3854,0.8136,0,approximately,Die Brücke ist zirka 102 Meter lang.,The bridge is approximately 102 meters long.
+855,durchaus,adv,A2,101.4748,0.9314,0,"absolutely, quite","Diese Annahme könnte durchaus richtig sein, sie ist es aber leider nicht.","This assumption could absolutely be correct; unfortunately, it is not."
+898,unbedingt,adv,A2,96.99,0.9403,0,absolutely,Du musst dir unbedingt diesen Film anschauen.,You absolutely must watch this film.
+1138,wenigstens,adv,A2,76.1431,0.9033,0,at least,"Wenn du deine Oma schon nicht besuchst, kannst du sie wenigstens anrufen.","If you’re not going to see your grandma, at least you can call her."

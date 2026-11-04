@@ -1,0 +1,8 @@
+rank,word,pos,level,freq_per_million,dispersion,has_conjugation,definition,example_de,example_en
+11,nicht,part,A1,9291.4296,0.9562,0,not,Im Restaurant darf man nicht rauchen.,You can’t smoke in the restaurant.
+21,zu,part,A1,5513.0,0.9802,0,to,"Ich versuche, dich zu verstehen.",I’m trying to understand you.
+45,ja,part,A1,2526.5217,0.8165,0,"yes, of course","Ja, ich verstehe das.","Yes, I understand that."
+148,"nein, nee, nö",part,A1,586.0308,0.8179,0,no,"Nein, ich habe das nicht verstanden.","No, I didn’t understand that."
+371,na,part,A1,224.0431,0.815,0,well,"Na, was soll ich dazu sagen?","Well, what shall I say to this?"
+397,oh,part,A1,206.8431,0.7115,0,"oh, aw","Oh, du machst einen Fehler.","Oh, you’re making a mistake."
+1077,hallo,part,A1,80.9729,0.7256,0,hello,"Hallo, ich bin Jana.","Hello, I’m Jana."

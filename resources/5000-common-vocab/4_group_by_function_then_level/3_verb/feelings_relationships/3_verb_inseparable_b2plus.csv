@@ -1,0 +1,38 @@
+rank,word,pos,level,freq_per_million,dispersion,has_conjugation,is_separable,definition,example_de,example_en
+2655,"faszinieren, fasziniert, faszinierte, hat fasziniert",verb,B2+,29.2744,0.912,1,0,to fascinate,Die Größe des Universums fasziniert die Menschen weltweit.,The size of the universe fascinates people worldwide.
+2662,"zögern, zögert, zögerte, hat gezögert",verb,B2+,29.2252,0.8483,1,0,to hesitate,"Sven zögert kurz, aber dann stellt er die Frage.","Sven hesitates, but then he asks the question."
+2782,"verzweifeln, verzweifelt, verzweifelte, ist verzweifelt",verb,B2+,27.4509,0.8892,1,0,to despair,"Die Aufgaben sind so schwer, dass ich manchmal daran verzweifle.",The tasks are so difficult that sometimes I despair.
+2906,"verdanken, verdankt, verdankte, hat verdankt",verb,B2+,25.9724,0.8888,1,0,"to owe, have sb to thank for sth",Der Patient verdankt dem Arzt sein Leben.,The patient owes his life to the doctor.
+2953,"seufzen, seufzt, seufzte, hat geseufzt",verb,B2+,25.381,0.8127,1,0,to sigh,"Barbara seufzt laut, als sie die große Menge an Arbeit sieht.",Barbara sighs loudly when she sees the large amount of work.
+3080,"erstaunen, erstaunt, erstaunte, ist erstaunt",verb,B2+,23.8532,0.8731,1,0,to astonish,"Der Sieg der Mannschaft erstaunt mich nicht, sie gewinnt immer.","The victory of the team doesn’t surprise me, they always win."
+3131,"erleiden, erleidet, erlitt, hat erlitten",verb,B2+,23.2126,0.8822,1,0,to suffer,Viele Menschen auf der Welt erleiden noch immer große Armut.,Many people in the world still suffer great poverty.
+3157,"ertragen, erträgt, ertrug, hat ertragen",verb,B2+,22.9169,0.8913,1,0,to bear,Sie kann den Schmerz nicht länger ertragen.,She can’t bear the pain any longer.
+3197,"ignorieren, ignoriert, ignorierte, hat ignoriert",verb,B2+,22.5226,0.9215,1,0,to ignore,Sie ignoriert ihre Verletzung und rennt weiter.,She ignores her injury and runs on.
+3210,"motivieren, motiviert, motivierte, hat motiviert",verb,B2+,22.3747,0.9029,1,0,to motivate,"Die Lehrerin versucht, ihre Schüler für die Aufgabe zu motivieren.",The teacher tries to motivate her students for the exercise.
+3230,"staunen, staunt, staunte, hat gestaunt",verb,B2+,22.1776,0.8872,1,0,to be astonished,Sie staunt über den Mut ihrer Tochter.,She is astonished at her daughter’s courage.
+3268,"verwirren, verwirrt, verwirrte, hat verwirrt",verb,B2+,21.734,0.8861,1,0,to confuse,Paul versteht die Frage nicht und guckt deswegen verwirrt.,Paul doesn’t understand the question and looks confused.
+3432,"locken, lockt, lockte, hat gelockt",verb,B2+,20.3541,0.8733,1,0,"to lure, tempt",Das tolle Wetter lockt die Menschen in den Park.,The great weather lures people into the park.
+3547,"heulen, heult, heulte, hat geheult",verb,B2+,19.5163,0.8208,1,0,"to howl, wail, cry",Der Wind heult laut um das Haus.,The wind is howling loudly around the house.
+3560,"beten, betet, betete, hat gebetet",verb,B2+,19.3684,0.8869,1,0,to pray,Lasst uns für die Opfer dieser schweren Katastrophe beten!,Let us pray for the victims of this great disaster!
+3592,"erregen, erregt, erregte, hat erregt",verb,B2+,19.1713,0.8734,1,0,"to arouse, attract, excite","Es ist ein Thema, das viel Aufmerksamkeit erregt.",It is a subject that attracts a lot of attention.
+3610,"nerven, nervt, nervte, hat genervt",verb,B2+,19.0727,0.8674,1,0,to annoy,Paul und Johann nerven oft ihre große Schwester.,Paul and Johann often annoy their older sister.
+3727,"bedauern, bedauert, bedauerte, hat bedauert",verb,B2+,18.2842,0.9105,1,0,"to regret, feel sorry","Mark bedauert, dass er Johannas Geburtstag vergessen hat.",Mark regrets that he forgot Johanna’s birthday.
+3749,"reizen, reizt, reizte, hat gereizt",verb,B2+,18.1364,0.8936,1,0,"to annoy, provoke, tempt","Mein Bruder reizt mich so lange, bis ich ihn haue.",My brother keeps tempting me until I hit him.
+3776,"erhoffen, erhofft, erhoffte, hat erhofft",verb,B2+,17.9392,0.8948,1,0,"to expect, hope for","Ich erhoffe mir von meinem Studium, dass ich viele praktische Erfahrungen sammeln kann.",I hope that my studies will give me a lot of practical experience.
+3834,"überfordern, überfordert, überforderte, hat überfordert",verb,B2+,17.6435,0.9136,1,0,"to overtax, be too much",Die vielen neuen Aufgaben überfordern mich im Moment.,The many new tasks are too much for me at the moment.
+3877,"irritieren, irritiert, irritierte, hat irritiert",verb,B2+,17.3478,0.8821,1,0,"to irritate, confuse",Der Stoff dieser Hose irritiert meine Haut.,The fabric of these pants irritates my skin.
+4030,"erfreuen, erfreut, erfreute, hat erfreut",verb,B2+,16.4607,0.9123,1,0,"to please, delight","Ich bin erfreut, Sie kennenzulernen.",I’m pleased to meet you.
+4098,"schämen (sich), schämt, schämte, hat geschämt",verb,B2+,16.1157,0.8708,1,0,to be ashamed,"Das Kind schämt sich, seinen Fehler zuzugeben.",The child is ashamed to admit his mistake.
+4110,"befriedigen, befriedigt, befriedigte, hat befriedigt",verb,B2+,16.0172,0.8759,1,0,to satisfy,"Wir tun alles, um die Bedürfnisse unserer Kunden zu befriedigen.",We do everything to satisfy our customers’ needs.
+4234,"bewundern, bewundert, bewunderte, hat bewundert",verb,B2+,15.3272,0.8988,1,0,to admire,"Ich bewundere meinen Vater dafür, dass er arbeiten geht und gleichzeitig drei Kinder versorgt.",I admire my father for going to work and taking care of three children at the same time.
+4368,"würdigen, würdigt, würdigte, hat gewürdigt",verb,B2+,14.6865,0.8608,1,0,"to appreciate, pay tribute",Mit diesem Gedicht würdigt der Dichter seine Geliebte.,"With this poem, the poet pays tribute to his lover."
+4376,"streicheln, streichelt, streichelte, hat gestreichelt",verb,B2+,14.6372,0.8175,1,0,to pet,"Heute kannst du meinen Hund nicht streicheln, er ist krank.",Today you can’t pet my dog; he’s sick.
+4384,"trösten, tröstet, tröstete, hat getröstet",verb,B2+,14.5879,0.8549,1,0,to comfort,"Wenn du traurig bist, komm zu mir und ich tröste dich.","If you’re sad, come to me and I’ll comfort you."
+4433,"benehmen, benimmt, benahm, hat benommen",verb,B2+,14.3415,0.8686,1,0,to behave,"Ich möchte, dass sich meine Kinder in der Öffentlichkeit benehmen.",I want my children to behave in public.
+4525,"dulden, duldet, duldete, hat geduldet",verb,B2+,13.898,0.9012,1,0,to tolerate,"Ich möchte nicht, dass Marko dein Freund ist und dulde ihn nicht in meinem Haus.",I don’t want Marko to be your friend and I won’t tolerate him in my house.
+4527,"erschüttern, erschüttert, erschütterte, hat erschüttert",verb,B2+,13.898,0.9037,1,0,"to shake, shock",Die Nachricht von dem Unfall erschüttert mich.,The news of the accident shakes me.
+4628,"stimulieren, stimuliert, stimulierte, hat stimuliert",verb,B2+,13.4544,0.6363,1,0,to stimulate,Der Erfolg stimuliert ihn zu besseren Leistungen.,Success stimulates him to better performance.
+4663,"überwältigen, überwältigt, überwältigte, hat überwältigt",verb,B2+,13.3066,0.8894,1,0,to overwhelm,Der Polizist überwältigt den Mann und nimmt ihm seine Pistole ab.,The policeman overwhelms the man and takes his gun from him.
+4827,"erwecken, erweckt, erweckte, hat erweckt",verb,B2+,12.5673,0.8799,1,0,"to wake, awaken",Tiere können beim Menschen große Freude erwecken.,Animals can awaken great joy in humans.
+4887,"verkehren, verkehrt, verkehrte, hat verkehrt",verb,B2+,12.3209,0.8591,1,0,"to socialize, consort",Mein Sohn verkehrt mit schlechten Menschen.,My son socializes with bad people.
+4888,"verwundern, verwundert, verwunderte, hat verwundert",verb,B2+,12.3209,0.8868,1,0,"to surprise, amaze, astonish","Ich bin verwundert darüber, dass du das Buch nicht kennst.",I’m astonished you don’t know the book.

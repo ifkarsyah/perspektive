@@ -1,0 +1,24 @@
+rank,word,pos,level,freq_per_million,dispersion,has_conjugation,definition,example_de,example_en
+282,"der Professor, -en",der,B1,310.6836,0.7516,0,professor,Ein Professor lehrt an der Universität.,A professor teaches at the university.
+482,"das Kapitel, -",das,B1,172.9853,0.8194,0,chapter,Louisa möchte noch das Kapitel im Buch zu Ende lesen.,Louisa wants to finish the chapter in the book.
+698,"die Einführung, -en",die,B1,126.9052,0.6164,0,introduction,Heute beschäftigen wir uns mit der Einführung in ein neues Thema.,Today we are dealing with an introduction to a new topic.
+917,"der Abschnitt, -e",der,B1,95.1666,0.8325,0,"section, paragraph, chapter, passage",Mir gefällt besonders der erste Abschnitt des Textes.,I particularly like the first chapter of the text.
+953,"das Institut, -e",das,B1,91.2732,0.8519,0,institute,An der Universität gibt es verschiedene Institute.,There are various institutes at the university.
+1434,"die Übung, -en",die,B1,61.6537,0.8145,0,"exercise, practice","Du brauchst viel Übung, um besser zu werden.",You need a lot of practice to get better.
+1447,"das Sommersemester, -",das,B1,61.4566,0.4045,0,summer semester,Das Sommersemester beginnt im April.,The summer semester starts in April.
+1534,VWL (Volkswirtschaftslehre),die,B1,57.1689,0.4333,0,economics,Studentinnen der Volkswirtschaft benötigen gute Fähigkeiten in Mathematik.,Students of economics need good mathematical abilities.
+1617,"der Lehrstuhl, -̈e",der,B1,53.4727,0.4728,0,"professorship, chair",Sie arbeitet am Lehrstuhl für Physik.,She works at the Chair of Physics.
+1636,die Mathematik,die,B1,52.7334,0.7363,0,mathematics,"In der Schule hat Laura Physik, Mathematik und andere Fächer.","At school Laura studies physics, mathematics, and other subjects."
+1899,"die Hochschule, -n",die,B1,44.0102,0.8455,0,"college, university",Magdalena studiert Betriebswirtschaftslehre an der Hochschule in Leipzig.,Magdalena studies business administration at the University of Leipzig.
+1917,die Physik,die,B1,43.5667,0.6181,0,physics,Die Physik ist eine Wissenschaft und untersucht grundlegende Phänomene in der Natur.,Physics is a science and investigates fundamental phenomena in nature.
+2005,die Soziologie,die,B1,41.2996,0.1601,0,sociology,Die Soziologie befasst sich mit den Strukturen der Gesellschaft.,Sociology deals with the structures of society.
+2037,"die Lehre, -n",die,B1,40.5111,0.8966,0,"apprenticeship, lesson, doctrine",Niklas macht eine Lehre in der Firma seines Vaters.,Niklas is doing an apprenticeship in his father’s company.
+2164,"die Klausur, -en",die,B1,37.8005,0.7471,0,exam,Am Ende des Semesters schreiben die Studenten in jedem Seminar eine Klausur.,"At the end of the semester, students write a written exam in each seminar."
+2446,die Betriebswirtschaftslehre,die,B1,32.2314,0.3176,0,business administration,Mein Onkel studiert Betriebswirtschaftslehre.,My uncle is studying business administration.
+2461,"das Seminar, -e",das,B1,32.0343,0.7145,0,seminar,In dem Seminar wird über die Idee von Gut und Böse diskutiert.,The seminar will discuss the idea of good and evil.
+2879,"der Vortrag, -̈e",der,B1,26.3174,0.9271,0,lecture,Sie hält einen Vortrag über die Wahlen in Frankreich.,She’s giving a lecture on the elections in France.
+3007,"das Semester, -",das,B1,24.7403,0.7999,0,semester,Der Bachelor dauert in Deutschland sechs Semester.,The bachelor’s program lasts six semesters in Germany.
+3329,"das Abitur, -e",das,B1,21.1919,0.8147,0,"school leaving exam, A levels",Nach dem Abitur besucht sie die Universität.,"After her A levels, she went to the university."
+3437,"die Wiederholung, -en",die,B1,20.3541,0.8325,0,repetition,Die Wiederholung des Experiments bringt ein anderes Ergebnis.,The repetition of the experiment brings a different result.
+3600,"die Qualifikation, -en",die,B1,19.122,0.8487,0,qualification,Martha hat gute Qualifikationen und bekommt den Job.,Martha has good qualifications and gets the job.
+3617,die Biologie,die,B1,19.0235,0.6662,0,biology,Die Biologie beschäftigt sich mit lebenden Organismen.,Biology deals with living organisms.

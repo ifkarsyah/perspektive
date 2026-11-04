@@ -1,0 +1,7 @@
+rank,word,pos,level,freq_per_million,dispersion,has_conjugation,definition,example_de,example_en
+69,ganz,adj,A2,1575.4476,0.931,0,"whole, all the",Das ganze Zimmer ist leer.,The whole room is empty.
+254,verschieden,adj,A2,344.7385,0.9176,0,"different, diverse",Alle Menschen sind verschieden.,All people are different.
+512,"besondere (r, s)",adj,A2,165.3956,0.9305,0,special,"Sie haben ein besonderes Haus, das Energie spart.",They have a special house that saves energy.
+986,grundsätzlich,adj,A2,88.0204,0.9164,0,fundamental,Lisa isst grundsätzlich kein Fleisch.,Lisa fundamentally does not eat meat.
+1021,total,adj,A2,85.0634,0.8707,0,"total, complete",Das Projekt war eine totale Katastrophe.,The project was a total disaster.
+1109,typisch,adj,A2,78.558,0.9334,0,typical,Mit ihrer Tasche und ihrem Laptop sieht sie aus wie eine typische Studentin.,"With her bag and laptop, she looks like a typical student."

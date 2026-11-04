@@ -1,0 +1,5 @@
+rank,word,pos,level,freq_per_million,dispersion,has_conjugation,definition,example_de,example_en
+34,nach,prep,A1,3307.7154,0.9682,0,"after, toward",Nach dem Mittagessen gehen wir spazieren.,After lunch we go for a walk.
+77,bis,prep,A1,1411.3333,0.9636,0,"until, till",Meine Mutter arbeitet bis sieben Uhr.,My mother works until seven o’clock.
+130,seit,prep,A1,690.4627,0.9329,0,"since, for",Ihre Schwester ist seit drei Monaten im Ausland.,Her sister has been abroad for three months.
+544,ab,prep,A1,157.2146,0.9067,0,"from, as of",Ab morgen höre ich auf zu rauchen.,I’ll stop smoking as of tomorrow.

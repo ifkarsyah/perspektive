@@ -1,0 +1,11 @@
+rank,word,pos,level,freq_per_million,dispersion,has_conjugation,definition,example_de,example_en
+296,rund,adj,A2,286.7318,0.8814,0,round,Ein Fußball ist rund.,A soccer ball is round.
+353,direkt,adj,A2,238.5817,0.9625,0,"direct, straight","Weil es keine direkte Verbindung gibt, muss ich nachher in einen anderen Zug steigen.","Because there’s no direct connection, I’ll have to get on another train later."
+442,tief,adj,A2,186.2919,0.9289,0,deep,"Der See ist sehr tief, ich kann den Boden nicht sehen.",The lake is very deep; I can’t see the bottom.
+480,"nahe, nah",adj,A2,173.5274,0.9592,0,"near(by), close",Der Weg führt zu dem nahen Wald.,The path leads to the nearby forest.
+593,eng,adj,A2,145.6329,0.9476,0,"narrow, close",Stefan fährt durch eine enge Straße.,Stefan is driving through a narrow street.
+671,"innere (r, s)",adj,A2,131.5378,0.9062,0,internal,Seine inneren Organe sind nicht verletzt.,His internal organs aren’t injured.
+786,"rechte (r, s)",adj,A2,109.2617,0.9205,0,right,In Deutschland muss man auf der rechten Seite der Straße fahren.,In Germany you have to drive on the right side of the road.
+871,"linke (r, s)",adj,A2,99.6514,0.8941,0,left,Auf der rechten Seite steht die Kirche und auf der linken ist die Universität.,On the right is the church and on the left is the university.
+1074,dick,adj,A2,81.17,0.9098,0,"thick, fat",Mein dicker Hund muss abnehmen.,My fat dog needs to lose weight.
+1739,dünn,adj,A2,48.9386,0.8902,0,thin,Auf dem See ist eine dünne Schicht Eis.,There’s a thin layer of ice on the lake.

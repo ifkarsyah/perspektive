@@ -1,0 +1,4 @@
+rank,word,pos,level,freq_per_million,dispersion,has_conjugation,definition,example_de,example_en
+325,"die Nacht, -̈e",die,A1,257.3588,0.8979,0,night,Die Nacht ist dunkel und grau.,The night is dark and gray.
+621,"der Morgen, -",der,A1,140.4632,0.8961,0,morning,Bei uns gibt es jeden Morgen Frühstück.,We have breakfast every morning.
+1441,"die Pause, -n",die,A1,61.5552,0.8871,0,"pause, break",Nach einer kurzen Pause mache ich weiter.,After a short break I continue.

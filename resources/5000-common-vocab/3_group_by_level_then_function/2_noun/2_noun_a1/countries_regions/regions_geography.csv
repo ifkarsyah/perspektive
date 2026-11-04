@@ -1,0 +1,5 @@
+rank,word,pos,level,freq_per_million,dispersion,has_conjugation,definition,example_de,example_en
+164,"die Welt, -en",die,A1,533.0017,0.9279,0,world,Ich möchte gerne um die Welt reisen.,I would like to travel around the world.
+294,Europa,das,A1,291.6601,0.8719,0,Europe,"Deutschland, England und Frankreich sind Länder in Europa.","Germany, England, and France are countries in Europe."
+1305,"die Heimat, -en",die,A1,67.7156,0.8901,0,"home, homeland","Obwohl er in Deutschland geboren ist, ist Frankreich seine Heimat.","Although he was born in Germany, France is his home."
+1382,das Ausland,das,A1,64.2165,0.8937,0,foreign countries,Nach unserem Abschluss wollen wir im Ausland arbeiten.,"After graduation, we want to work abroad."

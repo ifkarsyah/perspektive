@@ -1,0 +1,8 @@
+rank,word,pos,level,freq_per_million,dispersion,has_conjugation,definition,example_de,example_en
+513,tot,adj,A1,165.2971,0.889,0,dead,"Die Fische sind tot, weil Florian sich nicht um sie gekümmert hat.",The fish are dead because Florian did not look after them.
+1210,geboren,adj,A1,72.299,0.9124,0,born,Er ist ein geborener Sänger.,He’s a born singer.
+1321,krank,adj,A1,66.9764,0.9104,0,"sick, ill",Michael ist krank und deswegen nicht in der Schule.,Michael is ill and therefore not at school.
+1948,weiblich,adj,A1,42.8274,0.8838,0,"feminine, female",Sina und Anja sind meine einzigen weiblichen Freundinnen.,Sina and Anja are my only female friends.
+2000,müde,adj,A1,41.4475,0.8747,0,tired,Nach der Arbeit ist Annette zu müde für die Party.,After work Annette is too tired for the party.
+2091,männlich,adj,A1,39.1804,0.8634,0,male,"In dem Team gibt es nur männliche Spieler, deswegen kann Anna nicht mitmachen.","There are only male players on the team, so Anna can’t participate."
+3076,verheiratet,adj,A1,23.9025,0.8768,0,married,Mein Bruder und seine Frau sind glücklich verheiratet.,My brother and his wife are happily married.

@@ -1,0 +1,12 @@
+rank,word,pos,level,freq_per_million,dispersion,has_conjugation,is_separable,definition,example_de,example_en
+259,"treffen, trifft, traf, hat getroffen",verb,A2,336.656,0.9575,1,0,to meet,Morgen treffe ich mich mit einigen Freunden.,Tomorrow I’m meeting some friends.
+394,"fühlen, fühlt, fühlte, hat gefühlt",verb,A2,212.2643,0.9227,1,0,to feel,Ich fühle mich manchmal einsam.,I feel lonely sometimes.
+589,"freuen, freut, freute, hat gefreut",verb,A2,146.865,0.8989,1,0,to be happy,Die gute Nachricht freut ihn sehr.,The good news makes him very happy.
+630,"wünschen, wünscht, wünschte, hat gewünscht",verb,A2,137.2547,0.9293,1,0,"to want, wish",Was wünschst du dir zum Geburtstag?,What do you want for your birthday?
+631,"interessieren, interessiert, interessierte, hat interessiert",verb,A2,137.0083,0.9245,1,0,to interest,Besonders dieses Buch interessiert mich.,This book interests me in particular.
+689,"hoffen, hofft, hoffte, hat gehofft",verb,A2,128.8272,0.9308,1,0,to hope,Die Kinder hoffen auf Schnee im Winter.,The children hope for snow in winter.
+1188,"stören, stört, störte, hat gestört",verb,A2,73.2847,0.9359,1,0,"to disturb, bother",Sonja möchte bei ihrer Arbeit nicht gestört werden.,Sonja doesn’t want to be disturbed in her work.
+1556,"weinen, weint, weinte, hat geweint",verb,A2,56.2325,0.8544,1,0,"to cry, weep","Wenn jemand weint, produziert sein oder ihr Körper Tränen.","When someone cries, his or her body produces tears."
+1793,"träumen, träumt, träumte, hat geträumt",verb,A2,47.4108,0.8855,1,0,to dream,"Viele Leute träumen davon, reich und mächtig zu werden.",Many people dream of becoming rich and powerful.
+2465,"verlieben (sich), verliebt, verliebte, hat verliebt",verb,A2,31.985,0.8278,1,0,to fall in love,Robin und Charly verliebten sich auf den ersten Blick.,Robin and Charly fell in love at first sight.
+2841,"ärgern, ärgert, ärgerte, hat geärgert",verb,A2,26.7117,0.9078,1,0,to annoy,"Ich möchte nicht, dass du deinen kleinen Bruder ärgerst.",I don’t want you to annoy your little brother.

@@ -1,0 +1,23 @@
+rank,word,pos,level,freq_per_million,dispersion,has_conjugation,definition,example_de,example_en
+170,bereits,adv,B1,513.1897,0.933,0,already,"Du musst nicht noch einkaufen gehen, ich habe es bereits erledigt.",You don’t have to go shopping; I have already done it.
+196,"eben, ebend",adv,B1,434.2374,0.8589,0,"just, now","Ich versuche, ihn eben auf dem Handy zu erreichen.",I am just trying to reach him on his mobile phone.
+373,zunächst,adv,B1,222.6631,0.9347,0,"first, at first, for now","Ich sah den Mann zunächst nicht, bis er winkte.","At first I didn’t see the man, until he waved."
+441,bisher,adv,B1,186.2919,0.9225,0,"until now, up to now, yet","Bisher gab es noch keinen Regen, aber bestimmt bald.","It hasn’t rained yet, but it will soon."
+534,inzwischen,adv,B1,159.728,0.9334,0,in the meantime,Inzwischen haben sie sich an die neue Schule gewöhnt.,In the meantime they got used to the new school.
+764,irgendwann,adv,B1,112.6129,0.9085,0,"sometime, some day","Max träumt davon, irgendwann ein Restaurant zu eröffnen.",Max dreams of opening a restaurant some day.
+795,längst,adv,B1,108.1774,0.9261,0,"long since, a long time ago",Thomas hat sein Studium schon längst beendet und arbeitet seit mehreren Jahren.,Thomas has long since finished his studies and has been working for a number of years.
+862,mittlerweile,adv,B1,100.5877,0.9204,0,"in the meantime, since then",Mittlerweile haben alle Dörfer Zugang zum Internet.,"In the meantime, all villages have access to the internet."
+1031,anschließend,adv,B1,84.3242,0.9182,0,"subsequent, afterwards",Wir gehen einkaufen und anschließend essen.,We’re going shopping and afterwards out to eat
+1171,erstmals,adv,B1,74.221,0.8773,0,for the first time,Auf der Party hat sie erstmals mit mir gesprochen.,She talked to me for the first time at the party.
+1384,diesmal,adv,B1,64.2165,0.9142,0,this time,Diesmal mache ich alles richtig.,I’m doing everything right this time.
+1550,einst,adv,B1,56.3804,0.8989,0,"once, at one time, one day","In Amerika lebten einst Völker, die heute nicht mehr existieren.",In America there once lived peoples that no longer exist.
+1607,letztlich,adv,B1,53.8176,0.9182,0,in the end,"Letztlich blieben wir zu Hause, weil wir uns nicht auf einen Film einigen konnten.",In the end we stayed home because we couldn’t agree on a movie.
+1949,seitdem,adv,B1,42.7781,0.9157,0,since then,"Seitdem Jonas den neuen Job hat, ist er seltener zu Hause.","Since Jonas got the new job, he’s at home less."
+2407,kürzlich,adv,B1,32.9707,0.8909,0,recently,Ich habe kürzlich mein Studium abgeschlossen.,I have recently finished my studies.
+2452,spätestens,adv,B1,32.1822,0.9256,0,at the latest,"Wir müssen spätestens um acht Uhr am Bahnhof sein, um den Zug zu bekommen.",We have to be at the station by eight o’clock at the latest to get the train.
+2704,nachher,adv,B1,28.5845,0.8039,0,afterwards,"Wenn du mir in der Küche hilfst, kannst du nachher ein Eis bekommen.","If you help me in the kitchen, you can have an ice cream afterwards."
+2929,anfangs,adv,B1,25.6275,0.9269,0,"initially, at first","Anfangs hatte Susanne Angst vor dem Wasser, aber mittlerweile schwimmt sie besser als die anderen Kinder.","At first Susanne was afraid of the water, but now she swims better than the other children."
+3000,vorhin,adv,B1,24.8389,0.8513,0,a short time ago,"Ich habe Paul schon vorhin gesagt, wann wir fahren.",I told Paul a short time ago when we were leaving.
+3162,jederzeit,adv,B1,22.8676,0.9204,0,anytime,"Du kannst mich jederzeit anrufen, wenn du traurig bist.",You can call me anytime you’re sad.
+3461,hinterher,adv,B1,20.2063,0.8874,0,"after, afterwards",Sie gehen in ein Restaurant und hinterher zum Konzert.,They go to a restaurant and afterwards to the concert.
+4106,neulich,adv,B1,16.0664,0.8667,0,"recently, the other day",Ich habe ihn erst neulich durch Zufall getroffen.,I met him by chance the other day.

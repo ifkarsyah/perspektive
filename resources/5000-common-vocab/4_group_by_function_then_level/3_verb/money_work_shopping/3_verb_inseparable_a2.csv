@@ -1,0 +1,6 @@
+rank,word,pos,level,freq_per_million,dispersion,has_conjugation,is_separable,definition,example_de,example_en
+781,"liefern, liefert, lieferte, hat geliefert",verb,A2,110.0009,0.9084,1,0,"to deliver, supply",Die Post liefert mir einen Brief.,The post office is delivering a letter to me.
+2001,"sparen, spart, sparte, hat gespart",verb,A2,41.3982,0.8924,1,0,to save,Helen spart ihr Geld für eine große Reise.,Helen’s saving her money for a big trip.
+3343,buchen,verb,A2,21.0934,0.7907,1,0,to book,Wir buchen heute unseren Urlaub nach Schweden.,We are booking our vacation in Sweden today.
+3345,"kündigen, kündigt, kündigte, hat gekündigt",verb,A2,21.0934,0.8708,1,0,to terminate,Sie können den Vertrag vor seinem Ablauf kündigen.,You can terminate the contract before its expiration.
+3775,"bewerben (sich), bewirbt, bewarb, hat beworben",verb,A2,17.9392,0.8718,1,0,to apply,Sie können sich noch bis morgen für den Job bewerben.,You can apply for the job until tomorrow.

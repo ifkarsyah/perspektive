@@ -1,0 +1,8 @@
+rank,word,pos,level,freq_per_million,dispersion,has_conjugation,definition,example_de,example_en
+1386,"das Gebäude, -",das,B1,64.1179,0.9102,0,building,In diesem Gebäude befindet sich die Universität.,The university is located in this building.
+1559,"das Lager, -",das,B1,56.0847,0.8791,0,"camp, storeroom",Vielleicht finde ich das Produkt noch in unserem Lager.,Maybe I can still find the product in our warehouse.
+1598,"der Bau, -ten",der,B1,54.1626,0.9152,0,"construction, building",Der Bau der neuen Oper kostet mehrere Millionen.,The construction of the new opera house will cost several million.
+1848,"die Anlage, -n",die,B1,45.4394,0.9122,0,"facility, complex, investment, attachment",Sie bauen eine neue Sportanlage neben der Universität.,They are building a new sports facility next to the university.
+3118,"der Turm, -̈e",der,B1,23.4097,0.8364,0,tower,Vom Turm aus hat man eine großartige Aussicht auf die Stadt.,From the tower you have a great view of the city.
+4235,"die Burg, -en",die,B1,15.3272,0.7425,0,castle,Diese Burg stammt aus dem frühen Mittelalter und ist heute ein Museum.,This castle dates from the early Middle Ages and is now a museum.
+4789,"das Denkmal, -e",das,B1,12.7644,0.7797,0,"monument, memorial","Um einen Menschen zu ehren, wird ihm ein Denkmal gesetzt.","To honor a human being, a monument is erected."

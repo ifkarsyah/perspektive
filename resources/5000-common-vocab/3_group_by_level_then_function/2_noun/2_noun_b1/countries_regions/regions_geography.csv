@@ -1,0 +1,14 @@
+rank,word,pos,level,freq_per_million,dispersion,has_conjugation,definition,example_de,example_en
+447,"die Grenze, -n",die,B1,184.2219,0.9181,0,"border, frontier",An der Grenze kontrolliert die Polizei die Autos.,"At the border, the police check the cars."
+803,"die Region, -en",die,B1,107.1917,0.9055,0,region,Die Region ist berühmt für ihren Wein.,The region is famous for its wine.
+1010,"Westen, West-",der,B1,86.0984,0.9105,0,west,Die Sonne geht im Westen unter.,The sun sets in the west.
+1110,"das Gebiet, -e",das,B1,78.5087,0.9157,0,"region, area, territory",Beide Länder kämpfen um dieses Gebiet.,Both countries are fighting for this territory.
+1208,"Osten, Ost-",der,B1,72.3483,0.9072,0,east,Die Sonne geht im Osten auf.,The sun rises in the east.
+1209,Amerika,das,B1,72.299,0.8888,0,America,Amerika importiert Autos und Öl.,America imports cars and oil.
+1516,"Norden, Nord-",der,B1,57.8589,0.8904,0,north,Der Wind weht von Norden.,The wind is blowing from the north.
+1574,"die Gegend, -en",die,B1,55.1483,0.8817,0,"area, region",Diese Tiere überleben sogar in trockenen Gegenden.,These animals survive even in dry areas.
+1771,"Süden, Süd-",der,B1,47.9529,0.9071,0,south,"Robert wohnt im Norden von England, kommt aber ursprünglich aus dem Süden.","Robert lives in the north of England, but originally comes from the south."
+1993,"das Bundesland, -̈er",das,B1,41.546,0.8584,0,"state, province",Deutschland besteht aus 16 Bundesländern.,Germany consists of 16 federal states.
+2010,Afrika,das,B1,41.0532,0.8593,0,Africa,Afrika ist einer der Kontinente der Erde.,Africa is one of the continents of the earth.
+2697,"die Herkunft, -̈e",die,B1,28.6337,0.9011,0,origin,"Weil er anders aussieht, wird er oft nach seiner Herkunft gefragt.","Because he looks different, he is often asked about his origin."
+3614,"die Zone, -n",die,B1,19.0727,0.8815,0,zone,Diese Zone ist für Autos gesperrt.,This zone is closed to cars.

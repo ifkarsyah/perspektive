@@ -1,0 +1,5 @@
+rank,word,pos,level,freq_per_million,dispersion,has_conjugation,definition,example_de,example_en
+2,und,conj,A1,26562.1139,0.9766,0,and,Die Eltern und Kinder essen und sprechen über ihren Tag.,The parents and children eat and talk about their day.
+35,oder,conj,A1,3301.7521,0.9562,0,or,Kommst du mit dem Fahrrad oder fährst du mit dem Bus?,Are you coming by bike or are you going by bus?
+281,sowie,conj,A1,313.0492,0.9094,0,"as well as, as soon as, plus",Christina mag Männer sowie Frauen.,Christina likes men as well as women.
+291,"beziehungsweise, bzw.",conj,A1,294.3214,0.8681,0,"or, respectively","Es ist ihr Traum, beziehungsweise Wunsch, Polizistin zu werden.",It is her dream or desire to become a policewoman.

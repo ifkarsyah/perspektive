@@ -1,0 +1,31 @@
+rank,word,pos,level,freq_per_million,dispersion,has_conjugation,definition,example_de,example_en
+2948,"das Zitat, -e",das,B2+,25.4303,0.86,0,"quotation, quote",Am Anfang des Romans steht ein Zitat von Franz Kafka.,The novel begins with a quotation from Franz Kafka.
+2967,"die Formulierung, -en",die,B2+,25.1839,0.8778,0,formulation,Der Student ändert die Formulierung seiner These.,The student changes the formulation of his thesis.
+2987,"das Anliegen, -",das,B2+,24.9375,0.8292,0,request,Die Patienten kommen mit ihren Anliegen erst sehr spät in die Praxis des Arztes.,The patients come to the doctor’s practice only very late with their concerns.
+3001,"die Zusammenfassung, -en",die,B2+,24.8389,0.8256,0,summary,Ich lese mir immer nur die Zusammenfassung von einem Buch durch.,I always only read the summary of a book.
+3070,"die Anfrage, -n",die,B2+,23.9025,0.853,0,"inquiry, request",Auf Anfrage müssen weitere Dokumente eingereicht werden.,Further documents have to be handed in on request.
+3095,"das Stichwort, -̈er",das,B2+,23.7547,0.8055,0,"cue, key word",Mirjam fasst den Text in wenigen Stichworten zusammen.,Mirjam summarizes the text in a few key words.
+3119,"die Beschwerde, -n",die,B2+,23.3604,0.8103,0,complaint,Bislang gibt es keine Beschwerden über unseren Service.,So far there have been no complaints about our service.
+3332,"die Geste, -n",die,B2+,21.1919,0.8897,0,gesture,"Es ist eine nette Geste, Blumen mitzubringen.",It’s a nice gesture to bring flowers.
+3338,"der Klang, -̈e",der,B2+,21.1426,0.8798,0,"sound, tone",Dieses Instrument hat einen sehr charakteristischen Klang.,This instrument has a very characteristic sound.
+3394,"die Empfehlung, -en",die,B2+,20.7484,0.8904,0,recommendation,Ich kaufe den Computer auf Empfehlung von Robin.,I’m buying the computer on Robin’s recommendation.
+3440,"die Mitteilung, -en",die,B2+,20.3048,0.8435,0,"communication, announcement",Wir erhalten eine wichtige Mitteilung von unserem Chef.,We’re receiving an important announcement from our boss.
+3570,"das Gerücht, -e",das,B2+,19.3192,0.8909,0,rumor,"Es geht das Gerücht um, dass sie schwanger ist.",There’s a rumor she’s pregnant.
+3623,"das Protokoll, -e",das,B2+,19.0235,0.8248,0,"minutes, record",Die Polizei hält jede Aussage im Protokoll fest.,The police are keeping a record of every statement.
+3756,"die Unterlage, -n",die,B2+,18.0871,0.8875,0,"base, pad, document",Schicken Sie uns Ihre Unterlagen bitte per Post.,Please send your documents by mail.
+3859,"die Akte, -n",die,B2+,17.4464,0.8429,0,file,"Patienten hat ihre eigenen Akten, in denen die Informationen zu ihrer Krankheit stehen.",Patients have their own files containing information about their illnesses.
+4074,"der Spruch, -̈e",der,B2+,16.2636,0.8934,0,"saying, slogan",Auf der Karte zu meinem Geburtstag steht ein schöner Spruch.,There’s a nice saying on my birthday card.
+4237,"das Fazit, -s",das,B2+,15.3272,0.848,0,"summary, conclusion",Ich fasse meine Gedanken am Ende in einem Fazit zusammen.,At the end I summarize my thoughts in a summary.
+4271,"die Anweisung, -en",die,B2+,15.0808,0.9092,0,"order, instruction","Die Polizei gibt mir die Anweisung, hier zu warten.",The police are me instructions to wait here.
+4319,"die Anmerkung, -en",die,B2+,14.8344,0.8002,0,"note, comment","Danke für deine Anmerkungen zu meiner Arbeit, ich werde einiges ändern.",Thank you for your comments on my work; I’ll make some changes.
+4363,"die Stellungnahme, -n",die,B2+,14.6865,0.8306,0,"opinion, statement","Um das Verbrechen aufzuklären, muss ich bei meinem Anwalt eine Stellungnahme abgeben.","To clarify the crime, I have to submit a statement to my lawyer."
+4455,"die Warnung, -en",die,B2+,14.2922,0.893,0,warning,Ich nehme die Warnungen meines Arztes ernst und werde weniger Alkohol trinken.,I take my doctor’s warnings seriously and will drink less alcohol.
+4494,"der Schrei, -e",der,B2+,14.0951,0.8523,0,scream,Das Baby gibt einen lauten Schrei von sich.,The baby gives a loud scream.
+4548,"die Behauptung, -en",die,B2+,13.7994,0.9092,0,"claim, statement","Die Behauptung, dass ich lüge, ist falsch.",The claim that I’m lying is wrong.
+4550,"der Diskurs, -e",der,B2+,13.7994,0.7939,0,discourse,Wir haben einen sehr interessanten Diskurs zum Thema Politik.,We have a very interesting discourse on politics.
+4654,"das Gutachten, -",das,B2+,13.3066,0.8664,0,"report, (expert) opinion","Der Experte gibt ein Gutachten zu unserem Haus ab, das wir verkaufen wollen.","The expert gives an expert opinion on our house, which we want to sell."
+4658,"der Knall, -e",der,B2+,13.3066,0.8105,0,bang,"Als wir die Raketen anzünden, machen sie einen lauten Knall.","When we light up the fireworks, they make a loud bang."
+4819,"das Lob, -e",das,B2+,12.6659,0.8482,0,praise,Bei dieser Leistung verdienst du ein Lob.,You deserve praise for this achievement.
+4843,"der Anhang, -̈e",der,B2+,12.4687,0.7938,0,appendix,Im Anhang meiner Arbeit gibt es weitere Beispiele.,In the appendix of my work there are further examples.
+4969,"der Verweis, -e",der,B2+,11.9759,0.8085,0,"reference, reprimand","Weil Lars oft andere Schüler schlägt, bekommt er einen Verweis von der Schule.","Because Lars often beats other students, he gets a reprimand from school."
+4998,"die Fassung, -en",die,B2+,11.8281,0.8681,0,"version, composure, socket","Als er dies sagte, verlor sie die Fassung.","When he said this, she lost her composure."

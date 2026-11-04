@@ -1,0 +1,34 @@
+rank,word,pos,level,freq_per_million,dispersion,has_conjugation,definition,example_de,example_en
+187,"der Fall, -̈e",der,B1,463.0683,0.9528,0,"fall, case",Der Richter erklärt den Fall für geschlossen.,The judge will close the case.
+248,"der Punkt, -e",der,B1,354.4474,0.8867,0,"dot, point, period",Am Ende eines Satzes ist ein Punkt.,At the end of a sentence is a period.
+249,"der Grund, -̈e",der,B1,354.2502,0.9643,0,"reason, basis",Es gibt mehrere Gründe für einen Streit.,There are several reasons for a dispute.
+339,"der Bereich, -e",der,B1,245.7278,0.91,0,"area, region",Diesen Bereich darf niemand betreten.,Nobody is allowed to enter this area.
+434,"die Verbindung, -en",die,B1,189.9388,0.8045,0,"connection, link","Entschuldige, die Verbindung ist schlecht.","Sorry, this connection is bad."
+484,"die Bedeutung, -en",die,B1,171.4082,0.895,0,"meaning, significance",Welche Bedeutung hat dieses Zeichen?,What does this sign mean?
+525,"der Zusammenhang, -̈e",der,B1,163.5229,0.8859,0,"connection, context",Es gibt keinen Zusammenhang zwischen Geld und Glück.,There is no connection between money and happiness.
+1065,"der Inhalt, -e",der,B1,81.5643,0.9118,0,"content, plot",Die Schüler fassen den Inhalt des Buches zusammen.,The students summarize the contents of the book.
+1091,"der Aufbau, -ten",der,B1,79.6422,0.804,0,"construction, structure",Das Buch hat einen klaren Aufbau.,The book has a clear structure.
+1108,"die Quelle, -n",die,B1,78.6073,0.8331,0,"source, spring",Ich habe diese Information von einer verlässlichen Quelle bekommen.,I got this information from a reliable source.
+1161,"der Gegensatz, -̈e",der,B1,74.911,0.9199,0,"opposite, contrast",Der Gegensatz von warm ist kalt.,The opposite of warm is cold.
+1203,"der Rand, -̈er",der,B1,72.5947,0.9262,0,edge,Sie sitzt auf dem Rand ihres Stuhles.,She’s sitting on the edge of her chair.
+1205,"der Kern, -e",der,B1,72.3975,0.8379,0,"seed, core, nucleus",Wir sollten den Kern des Problems analysieren.,We should analyze the core of the problem.
+1207,"der Hintergrund, -̈e",der,B1,72.3483,0.9282,0,background,Theresa wird vor einem schwarzen Hintergrund fotografiert.,Theresa is photographed against a black background.
+1289,"der Kreis, -e",der,B1,68.6027,0.9359,0,"circle, district",Jeden Morgen sitzen die Schüler im Kreis.,Every morning the students sit in a circle.
+1355,"der Bezug, -̈e",der,B1,65.4486,0.8693,0,"reference, cover",Das Modell nimmt Bezug auf die Theorie.,The model refers to the theory.
+1404,"die Ausnahme, -n",die,B1,63.3787,0.9299,0,exception,"Alle Kinder setzen sich mit Ausnahme von Tom, der stehenbleibt.","All the children sit down with the exception of Tom, who remains standing."
+1488,"die Runde, -n",die,B1,58.9431,0.8745,0,round,Ich lade euch auf eine Runde Bier ein.,I’ll buy you a round of beer.
+1645,"die Spitze, -n",die,B1,52.2899,0.9231,0,"point, top, peak",Die Spitze des Messers ist sehr scharf.,The point of the knife is very sharp.
+1681,"die Schicht, -en",die,B1,50.9099,0.8313,0,"layer, class",Auf dem Berg liegt manchmal auch im Sommer eine Schicht Schnee.,Sometimes there is a layer of snow on the mountain even in summer.
+1717,"die Gestalt, -en",die,B1,49.5793,0.8999,0,"shape, form, figure",Der Mann hat zur Zeit der Tat eine dunkle Gestalt gesehen.,The man saw a dark figure at the time.
+1861,"das Loch, -̈er",das,B1,45.193,0.8778,0,hole,Meine Hose hat ein Loch.,My trousers have a hole.
+1956,"der Bestandteil, -e",der,B1,42.6796,0.8635,0,component,Zucker ist Bestandteil vieler Lebensmittel.,Sugar is a component of many foods.
+2099,"das Umfeld, -er",das,B1,39.0326,0.9006,0,"milieu, environment",Ein Kind sollte in einem Umfeld voller Liebe aufwachsen.,A child should grow up in an environment full of love.
+2196,"die Hinsicht, -en",die,B1,37.0612,0.8895,0,respect,Er ist in dieser Hinsicht kein guter Kandidat für das Amt.,"In this respect, he is not a good candidate for the office."
+2206,"die Oberfläche, -n",die,B1,36.8148,0.8554,0,surface,Der Großteil der Oberfläche der Erde ist mit Wasser bedeckt.,The majority of the earth’s surface is covered with water.
+2331,"die Mischung, -en",die,B1,34.2521,0.888,0,"mixture, blend, combination",Durch die Mischung der beiden Farben entsteht ein schönes Blau.,The combination of the two colors creates a beautiful blue.
+2337,"der Sitz, -e",der,B1,34.2028,0.9125,0,"seat, headquarters","Der Sitz ist frei, also nehme ich Platz.","The seat is vacant, so I’ll take my seat."
+2358,"das Kreuz, -e",das,B1,33.71,0.9097,0,cross,In der Kirche hängt ein großes Kreuz aus Holz.,A large wooden cross hangs in the church.
+2410,"der Schnitt, -e",der,B1,32.9214,0.8876,0,cut,Der Schnitt des Kleides ist modern.,The cut of the dress is modern.
+2440,"der Winkel, -",der,B1,32.3793,0.82,0,"angle, corner",Ein Quadrat hat vier gleiche Winkel.,A square has four equal angles.
+3311,"die Reihenfolge, -n",die,B1,21.3398,0.8585,0,order,Meine Großmutter muss ihre Medikamente in einer bestimmten Reihenfolge nehmen.,My grandmother has to take her medications in a certain order.
+4791,"die Einzelheit, -en",die,B1,12.7644,0.89,0,detail,Wir benötigen noch einige Einzelheiten zu dem Artikel.,We need some more details about the article.

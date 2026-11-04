@@ -1,0 +1,7 @@
+rank,word,pos,level,freq_per_million,dispersion,has_conjugation,definition,example_de,example_en
+325,"die Nacht, -̈e",die,A1,257.3588,0.8979,0,night,Die Nacht ist dunkel und grau.,The night is dark and gray.
+342,"der Abend, -e",der,A1,243.5101,0.9131,0,evening,Wir gehen morgen Abend ins Kino.,We’re going to the movies tomorrow evening.
+621,"der Morgen, -",der,A1,140.4632,0.8961,0,morning,Bei uns gibt es jeden Morgen Frühstück.,We have breakfast every morning.
+1441,"die Pause, -n",die,A1,61.5552,0.8871,0,"pause, break",Nach einer kurzen Pause mache ich weiter.,After a short break I continue.
+2213,"der Termin, -e",der,A1,36.7655,0.9132,0,"appointment, date",Können Sie den Termin verschieben?,Can you postpone the appointment?
+3203,"das Datum, -en",das,A1,22.424,0.8423,0,date,Andreas und Tine legen ein Datum für ihre Hochzeit fest.,Andreas and Tine set a date for their wedding.

@@ -1,0 +1,33 @@
+rank,word,pos,level,freq_per_million,dispersion,has_conjugation,is_separable,definition,example_de,example_en
+356,"erkennen, erkennt, erkannte, hat erkannt",verb,B1,237.3989,0.9492,1,0,"to recognize, admit",Babys erkennen ihre Mütter an ihren Stimmen.,Babies recognize their mothers by their voices.
+607,"unterscheiden, unterscheidet, unterschied, hat unterschieden",verb,B1,142.5281,0.8976,1,0,to distinguish,Er kann links und rechts nicht unterscheiden.,He can’t distinguish left from right.
+690,"erfahren, erfährt, erfuhr, hat erfahren",verb,B1,128.7287,0.9456,1,0,"to experience, find out","Ellen erfährt heute, dass sie einen kleinen Bruder bekommt.",Ellen finds out today that she is getting a little brother.
+704,"zählen, zählt, zählte, hat gezählt",verb,B1,125.8702,0.9575,1,0,to count,Laura kann auf Spanisch bis 100 zählen.,Laura can count to 100 in Spanish.
+743,"entdecken, entdeckt, entdeckte, hat entdeckt",verb,B1,117.0977,0.9186,1,0,to discover,Dominik beobachtet Tiere und entdeckt dabei eine neue Art.,Dominik observes animals and discovers a new species.
+857,"berechnen, berechnet, berechnete, hat berechnet",verb,B1,101.327,0.7768,1,0,"to calculate, charge",Sie berechnen die Kosten für das Projekt.,They calculate the costs of the project.
+896,"messen, misst, maß, hat gemessen",verb,B1,97.1379,0.8862,1,0,to measure,Wir messen die Temperatur.,We measure the temperature.
+1047,überlegen,verb,B1,82.8949,0.9148,1,0,"to consider, think about, think of","Wir überlegen, nach Norwegen zu ziehen.",We’re thinking of moving to Norway.
+1130,"ermitteln, ermittelt, ermittelte, hat ermittelt",verb,B1,76.9316,0.8786,1,0,"to find out, investigate",Die Polizei ermittelt den Täter.,The police are investigating the perpetrator.
+1294,"schätzen, schätzt, schätzte, hat geschätzt",verb,B1,68.3563,0.941,1,0,"to estimate, value","Sie schätzen, dass die Arbeit in zwei Wochen erledigt sein wird.",They estimate that the work will be done in two weeks.
+1315,"konzentrieren, konzentriert, konzentrierte, hat konzentriert",verb,B1,67.1242,0.9478,1,0,to concentrate,Ich kann mich nicht auf meine Arbeit konzentrieren.,I can’t concentrate on my work.
+1346,"begreifen, begreift, begriff, hat begriffen",verb,B1,65.8428,0.9055,1,0,"to understand, grasp","Man kann kaum begreifen, dass das Universum unendlich ist.",You can hardly grasp that the universe is infinite.
+1503,"berücksichtigen, berücksichtigt, berücksichtigte, hat berücksichtigt",verb,B1,58.2039,0.8576,1,0,to consider,"Ich werde mein Bestes tun, Ihre Wünsche zu berücksichtigen.",I’ll do my best to consider your wishes.
+1517,"vermuten, vermutet, vermutete, hat vermutet",verb,B1,57.7603,0.9333,1,0,"to assume, suspect","Ich vermute, sie sind jetzt schon zu Hause.",I assume they’re home already.
+1614,"beweisen, beweist, bewies, hat bewiesen",verb,B1,53.5712,0.9457,1,0,to prove,Das Experiment beweist die positiven Auswirkungen des Produkts auf die Gesundheit.,The experiment proves the product’s positive effects on health.
+1616,"überprüfen, überprüft, überprüfte, hat überprüft",verb,B1,53.5219,0.9171,1,0,to check,Wir müssen ihre Papiere überprüfen.,We have to check your papers.
+1672,"erfassen, erfasst, erfasste, hat erfasst",verb,B1,51.3042,0.8928,1,0,"to determine, grasp, acquire","Mit einer Umfrage erfasst die Universität, wie zufrieden die Studierenden sind.",With a survey the university determines how satisfied the students are.
+1686,"belegen, belegt, belegte, hat belegt",verb,B1,50.7621,0.9111,1,0,"to occupy, prove, verify, take",In diesem Wintersemester belegt Charlotte nur drei Kurse an der Uni.,This winter semester Charlotte is only taking three courses at the university.
+1807,"orientieren, orientiert, orientierte, hat orientiert",verb,B1,46.9672,0.8865,1,0,to orient,Beim Wandern orientieren sie sich mithilfe einer Karte.,"When hiking, they orient themselves with the help of a map."
+1968,"bewerten, bewertet, bewertete, hat bewertet",verb,B1,42.4331,0.8447,1,0,"to assess, judge",Der Lehrer bewertet die Tests.,The teacher assesses the tests.
+2025,"klären, klärt, klärte, hat geklärt",verb,B1,40.7575,0.9319,1,0,"to clear up, clarify, resolve","Der Polizist versucht, den Streit zwischen den beiden wütenden Männern zu klären.",The police officer tries to resolve the dispute between the two angry men.
+2292,"analysieren, analysiert, analysierte, hat analysiert",verb,B1,35.1885,0.8746,1,0,to analyze,Die Daten werden mit Hilfe eines Computerprogramms analysiert.,The data is analyzed by a computer program.
+2312,"testen, testet, testete, hat getestet",verb,B1,34.6956,0.8884,1,0,to test,Herr Gottfried testet ein neues Medikament gegen Schmerzen.,Mr. Gottfried is testing a new drug for pain.
+2339,"ahnen, ahnt, ahnte, hat geahnt",verb,B1,34.1042,0.8905,1,0,"to sense, suspect","Tanja ahnt, dass Tim sie überraschen will.",Tanja senses that Tim wants to surprise her.
+2408,"beurteilen, beurteilt, beurteilte, hat beurteilt",verb,B1,32.9214,0.8995,1,0,"to assess, judge","Der Arzt beurteilt die Verletzungen des Patienten, bevor er mit der Behandlung beginnt.",The doctor assesses the patient’s injuries before he starts treatment.
+2420,"identifizieren, identifiziert, identifizierte, hat identifiziert",verb,B1,32.7243,0.9142,1,0,to identify,Babys können ihre Mutter schon früh an ihrer Stimme identifizieren.,Babies can identify their mother early on by her voice.
+2468,"interpretieren, interpretiert, interpretierte, hat interpretiert",verb,B1,31.9357,0.833,1,0,to interpret,Jeder Kritiker interpretierte das Stück anders.,Each critic interpreted the play differently.
+3188,"unterrichten, unterrichtet, unterrichtete, hat unterrichtet",verb,B1,22.6212,0.8462,1,0,to teach,Der Lehrer unterrichtet Deutsch und Französisch an der Schule.,The teacher teaches German and French at the school.
+3259,"wiegen, wiegt, wog, hat gewogen",verb,B1,21.8326,0.9208,1,0,to weigh,Miriams Baby wiegt bei der Geburt 3000 Gramm.,"Miriam’s baby weighs 3,000 grams at birth."
+4149,"zweifeln, zweifelt, zweifelte, hat gezweifelt",verb,B1,15.7707,0.8932,1,0,to doubt,Ich zweifle an der Wahrheit der Geschichte.,I doubt the truth of history.
+4288,"irren (sich), irrt, irrte, hat geirrt",verb,B1,15.0315,0.8807,1,0,"to err, be wrong","Jeder Mensch irrt sich manchmal, auch wenn er denkt, er weiß es.","Everybody is sometimes wrong, even when they think they know it."
+4559,"verwechseln, verwechselt, verwechselte, hat verwechselt",verb,B1,13.7994,0.9031,1,0,"to confuse, mix up","Hannah und Maria sehen sich so ähnlich, dass ich sie oft verwechsle.",Hannah and Maria look so alike that I often confuse them.

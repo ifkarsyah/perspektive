@@ -1,0 +1,12 @@
+rank,word,pos,level,freq_per_million,dispersion,has_conjugation,definition,example_de,example_en
+147,"das Haus, -̈er",das,A1,594.4583,0.9153,0,house,Meine Eltern wohnen in einem kleinen Haus.,My parents live in a small house.
+403,"der Raum, -̈e",der,A1,204.2804,0.9438,0,"room, space",Das Seminar findet morgen im Raum 1216 statt.,The seminar will take place tomorrow in room 1216.
+501,"die Wohnung, -en",die,A1,166.9234,0.8961,0,"apartment, flat",Wir suchen eine neue Wohnung.,We’re looking for a new apartment.
+665,"das Zimmer, -",das,A1,132.1292,0.8758,0,room,Ich suche ein kleines Zimmer in Berlin.,I’m looking for a small room in Berlin.
+1041,"die Küche, -n",die,A1,83.3385,0.8708,0,"kitchen, cuisine","Die Wohnung hat zwei Zimmer, ein Bad und eine Küche.","The apartment has two rooms, a bathroom and a kitchen."
+1158,"der Garten, -̈",der,A1,74.9603,0.876,0,garden,Sie sitzt auf einer Bank im Garten.,She’s sitting on a bench in the garden.
+1637,"das Bad, -̈er",das,A1,52.6348,0.8727,0,"bath, bathroom, spa",Die neue Wohnung hat zwei Bäder.,The new apartment has two bathrooms.
+1950,"die Treppe, -n",die,A1,42.7781,0.8475,0,stairs,In unserem Haus gibt es zwei Treppen.,In our house there are two stairs.
+2273,"der Stock, -̈e",der,A1,35.5827,0.8672,0,"stick, floor",Sein Büro ist im dritten Stock des Gebäudes.,His office on the third floor of the building.
+3477,"die Toilette, -n",die,A1,20.1077,0.8462,0,toilet,In der Stadt gibt es mehrere öffentliche Toiletten.,There are a number of public toilets in the city.
+4026,"der Balkon, -s",der,A1,16.4607,0.8602,0,balcony,"Die Wohnung hat zwei Zimmer und einen Balkon, auf dem wir im Sommer sitzen können.",The apartment has two rooms and a balcony where we can sit in summer.

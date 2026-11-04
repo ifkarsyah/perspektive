@@ -1,0 +1,5 @@
+rank,word,pos,level,freq_per_million,dispersion,has_conjugation,definition,example_de,example_en
+1131,"der Papa, -s",der,B1,76.7838,0.7538,0,daddy,Wo ist dein Papa?,Where’s your dad?
+1153,"die Generation, -en",die,B1,75.5024,0.8948,0,generation,Diese Musik ist bei der Generation meiner Mutter sehr beliebt.,This music is very popular with my mother’s generation.
+1832,"der Onkel, -",der,B1,46.0801,0.7721,0,uncle,Wir besuchen meine Tante und meinen Onkel am Sonntag.,We’re visiting my aunt and uncle on Sunday.
+4837,"der Cousin, -s",der,B1,12.518,0.7934,0,cousin,Der Sohn meiner Tante ist mein Cousin.,My aunt’s son is my cousin.

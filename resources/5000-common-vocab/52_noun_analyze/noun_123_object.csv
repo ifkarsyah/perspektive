@@ -1,0 +1,191 @@
+rank,word,pos,level,freq_per_million,dispersion,has_conjugation,definition,example_de,example_en
+253,"das Bild, -er",das,A1,347.6955,0.9371,0,picture,Clarita malt gerne Bilder von Blumen.,Clarita likes to paint pictures of flowers.
+268,"die Abbildung, -en (Abb.)",die,B1,327.1936,0.7986,0,illustration,Die Abbildung Nummer eins zeigt ein gutes Beispiel.,Figure number one shows a good example.
+300,"das Buch, -̈er",das,A1,280.7684,0.9017,0,book,Natasha liest gerade ein gutes Buch.,Natasha is reading a good book.
+318,"die Sache, -n",die,A2,263.4206,0.9132,0,thing,Über solche Sachen wie Armut spricht hier niemand.,Nobody here talks about things like poverty.
+348,"die Uhr, -en",die,A1,240.3559,0.9161,0,"clock, watch, o’clock",Die Uhr zeigt die Zeit.,The clock shows the time.
+361,"das Auto, -s",das,A1,232.2241,0.9044,0,"automobile, car",Auf der Straße fahren viele Autos.,There are a lot of cars on the road.
+370,"das Ding, -e",das,A2,224.5852,0.9185,0,thing,Was ist das für ein Ding dort?,What’s that thing over there?
+422,"das Produkt, -e",das,A2,197.0357,0.8192,0,product,Unsere Firma verkauft viele Produkte ins Ausland.,Our company sells many products abroad.
+529,"der Tisch, -e",der,A1,160.6151,0.8815,0,table,Wir sitzen an einem Tisch aus Holz.,We are sitting at a wooden table.
+633,"das Foto, -s",das,A1,136.9097,0.8853,0,photograph,"Lina mag die Fotos, die im Museum hängen.",Lina likes the photos that hang in the museum.
+659,"das Bett, -en",das,A1,132.6221,0.865,0,bed,Ich schlafe in einem Bett aus Holz.,I sleep in a wooden bed.
+670,"die Zeitung, -en",die,A1,131.6364,0.918,0,newspaper,Jeden Morgen lese ich Zeitung.,I read the newspaper every morning.
+675,"der Zug, -̈e",der,A1,130.4536,0.9233,0,train,Der Zug kommt um zwölf Uhr an.,The train arrives at twelve o’clock.
+692,"die Folie, -n",die,A2,128.2358,0.5716,0,"slide, foil",Für die Prüfung lerne ich alle Folien aus der Vorlesung.,For the exam I study all the slides from the lecture.
+838,"der Brief, -e",der,A1,102.5098,0.8827,0,letter,Mein Freund schreibt mir einen langen Brief.,My friend is writing me a long letter.
+885,"das Glas, -̈er",das,A1,98.37,0.8326,0,glass,Timo greift nach einem Glas Wasser auf dem Tisch.,Timo reaches for a glass of water on the table.
+979,"die Tabelle, -n",die,B1,88.7104,0.8153,0,"table, chart",Die Tabelle gibt einen Überblick über die jährlichen Einnahmen und Ausgaben.,The table gives an overview of the annual income and expenses.
+1025,"das Band, -̈er",der,A2,84.7677,0.8931,0,"volume, tome",Die Geschichte von Harry Potter hat sieben Bände.,The story of Harry Potter has seven volumes.
+1163,"das Papier, -e",das,A1,74.8617,0.9203,0,paper,Sie schreibt ihre Nummer auf ein kleines Stück Papier.,She writes her number on a little piece of paper.
+1175,"der Wagen, -",der,A2,74.0732,0.8723,0,"car, carriage",Wo hast du deinen Wagen geparkt?,Where did you park your car?
+1176,"das Schiff, -e",das,A2,74.0239,0.8724,0,ship,Das Schiff transportiert Öl.,The ship is transporting oil.
+1237,"die Maschine, -n",die,A1,71.2147,0.906,0,machine,Die Maschine arbeitet schneller als ein durchschnittlicher Arbeiter.,The machine works faster than an average worker.
+1252,"der Computer, -",der,A1,70.4755,0.8927,0,computer,Ich speichere das Bild auf meinem Computer.,I’m saving the image to my computer.
+1270,"das Blatt, -̈er",das,A2,69.5391,0.9064,0,"sheet, leaf",Die Pflanze hat lange grüne Blätter.,The plant has long green leaves.
+1308,"der Gegenstand, -̈e",der,B1,67.4199,0.8617,0,object,Kinder sollten nicht mit kleinen Gegenständen spielen.,Children should not play with small objects.
+1390,"das Material, -ien",das,B1,63.9701,0.9159,0,material,Für den Unterricht hat sie viele Materialien vorbereitet.,She has prepared many materials for the lessons.
+1415,"die Bahn, -en",die,A1,62.8858,0.8609,0,"train, railway, way","Wir fahren mit dem Zug in den Urlaub, weil das Auto kaputt ist.",We’re going on vacation by train because the car broke down.
+1427,"das Objekt, -e",das,B1,62.0973,0.8638,0,object,"Schau, da ist ein seltsames Objekt am Himmel zu sehen!","Look, there’s a strange object in the sky!"
+1468,"der Spiegel, -",der,B1,60.0274,0.8902,0,mirror,Ich betrachte mein Gesicht im Spiegel.,I look at my face in the mirror.
+1474,"die Karte, -n",die,A1,59.7317,0.9141,0,"card, ticket, menu",Die Karten für das Theater kosten 15 Euro.,The tickets for the theater cost 15 euros.
+1501,"die Kamera, -s",die,A2,58.2532,0.8044,0,camera,Jonathan dreht Filme und kauft sich heute eine neue Kamera.,Jonathan is making movies and buying a new camera today.
+1562,"der Bus, -se",der,A1,55.8876,0.8895,0,bus,Der Bus fährt nur am Wochenende.,The bus only runs on weekends.
+1572,"das Instrument, -e",das,A2,55.3454,0.8835,0,instrument,Welches Instrument spielen Sie?,What instrument do you play?
+1595,"das Telefon, -e",das,A1,54.2612,0.8834,0,telephone,Am Telefon klingt sie wie ihre Mutter.,"On the phone, she sounds like her mother."
+1602,"die Flasche, -n",die,A1,54.0641,0.8799,0,bottle,Wir teilen uns eine Flasche Wein zum Abendessen.,We share a bottle of wine with dinner.
+1625,"die Waffe, -n",die,B1,53.2262,0.8876,0,weapon,Die Polizei findet Waffen in seiner Wohnung.,The police find weapons in his apartment.
+1646,"das Gerät, -e",das,A2,52.2406,0.8297,0,"tool, piece of equipment, appliance",Wir haben sehr viele elektrische Geräte zu Hause.,We have a lot of electrical equipment at home.
+1661,"der Stuhl, -̈e",der,A2,51.5506,0.8596,0,chair,"Sabine kauft vier neue Stühle, die zu dem Tisch passen.",Sabine buys four new chairs to match the table.
+1678,"der Schuh, -e",der,A1,50.9592,0.8777,0,shoe,"Zieh die Schuhe aus, wenn du ins Haus gehst!",Take off your shoes when you go in the house!
+1693,"das Handy, -s",das,A1,50.5649,0.8556,0,mobile phone,"Mit den neuen Handys kann man nicht nur telefonieren, sondern auch ins Internet gehen.","With the new mobile phones you can not only make phone calls, but also go online."
+1721,"das Fahrzeug, -e",das,B1,49.3328,0.8431,0,vehicle,Irgendwann fahren nur noch elektronische Fahrzeuge.,"At some point, only electronic vehicles will be driving."
+1776,"das Flugzeug, -e",das,A1,47.7558,0.9003,0,airplane,Mit dem Flugzeug kann man leicht von Kontinent zu Kontinent reisen.,You can easily travel from continent to continent by airplane.
+1780,"das Kleid, -er",das,A2,47.7065,0.8432,0,dress,Linda sieht sehr gut aus in ihrem neuen Kleid.,Linda looks very good in her new dress.
+1782,"der Ball, -̈e",der,A2,47.6572,0.8192,0,ball,Der Ball ist rund.,The ball is round.
+1804,"die Tasche, -n",die,A1,47.0165,0.8893,0,"pocket, bag",Ich verreise am liebsten mit nur einer Tasche.,I prefer to travel with only one bag.
+1816,"die Zigarette, -n",die,A1,46.6715,0.8525,0,cigarette,Sie zündet sich eine Zigarette an.,She lights a cigarette for herself.
+1818,"die Falle, -n",die,B1,46.5237,0.91,0,trap,"Die Männer legen im Wald Fallen, um Tiere zu fangen.",The men set traps in the forest to catch animals.
+1926,"die Post, -en",die,A1,43.3695,0.8677,0,"mail, post office","Nach dem Urlaub liegt im Büro viel Post, die ich beantworten muss.",After the vacation there is a lot of mail in the office that I have to answer.
+1979,"die Ware, -n",die,B1,42.1867,0.8639,0,goods,"Der Besitzer des Ladens bekommt neue Ware, die er dann verkauft.","The owner of the shop gets new goods, which he then sells."
+2109,"das Boot, -e",das,B1,38.7862,0.8751,0,boat,Im Sommer fährt Felix mit seinem Boot auf der Donau von Deutschland nach Österreich.,In summer Felix travels with his boat on the Danube from Germany to Austria.
+2138,"das Fahrrad, -̈er",das,A1,38.244,0.8756,0,bicycle,Ich fahre mit dem Fahrrad zur Universität.,I ride my bicycle to the university.
+2156,"die Hose, -n",die,A2,37.9976,0.8813,0,"trousers, pants","Sie kann sich nicht entscheiden, ob sie ein Kleid oder eine Hose tragen möchte.",She can’t decide if she wants to wear a dress or pants.
+2197,"der Schlüssel, -",der,A1,37.0612,0.891,0,key,Der dritte Schlüssel für unsere Wohnung ist bei Frau Wagner.,The third key to our apartment is at Mrs. Wagner’s.
+2258,"der Ring, -e",der,A2,35.8291,0.8261,0,ring,Die Ringe sind ein Symbol ihrer Liebe.,The rings are a symbol of their love.
+2274,"das Gefäß, -e",das,B1,35.5334,0.6828,0,vessel,"Das Medikament vergrößert die Gefäße, durch die das Blut fließt.",The medication enlarges the vessels through which the blood flows.
+2337,"der Sitz, -e",der,B1,34.2028,0.9125,0,"seat, headquarters","Der Sitz ist frei, also nehme ich Platz.","The seat is vacant, so I’ll take my seat."
+2346,"die Kette, -n",die,A2,34.0057,0.8456,0,chain,Luises Großmutter schenkt ihr eine goldene Kette zum Abschluss.,Luise’s grandmother gives her a golden chain for her graduation.
+2358,"das Kreuz, -e",das,B1,33.71,0.9097,0,cross,In der Kirche hängt ein großes Kreuz aus Holz.,A large wooden cross hangs in the church.
+2359,"der Motor, -en",der,A2,33.71,0.8977,0,"motor, engine",Der Motor von Christinas Auto macht komische Geräusche.,The engine of Christina’s car makes strange noises.
+2387,"der Koffer, -",der,A1,33.3157,0.8484,0,suitcase,"Ich packe meinen Koffer, den ich mit in den Urlaub nehmen will.","I’m packing my suitcase, which I want to take with me on vacation."
+2391,"die Kugel, -n",die,B1,33.2664,0.8032,0,"ball, sphere, bullet",Die Kugel der Waffe trifft den Mann direkt ins Herz.,The bullet in the gun hits the man right in the heart.
+2392,"das Rad, -̈er",das,B1,33.2664,0.8852,0,wheel,Ein Fahrrad hat zwei Räder.,A bicycle has two wheels.
+2464,"der Schreibtisch, -e",der,B1,31.985,0.8608,0,desk,"Hanna sitzt an ihrem Schreibtisch, umgeben von Büchern und Unterlagen.","Hanna sits at her desk, surrounded by books and documents."
+2549,"der Pass, -̈e",der,A1,30.7529,0.877,0,"pass, passport",Menschen mit einem deutschen Pass können problemlos viele Länder bereisen.,People with a German passport can easily travel to many countries without any problems.
+2575,"das Radio, -s",das,A2,30.3094,0.8785,0,radio,"Wir schalten das Radio an, um die Nachrichten zu hören.",We switch on the radio to listen to the news.
+2595,"das Geschenk, -e",das,A1,30.0137,0.9096,0,"gift, present",Liesbeth hat Geburtstag und bekommt viele Geschenke.,It’s Liesbeth’s birthday and she gets many gifts.
+2643,"der Griff, -e",der,B2+,29.373,0.9137,0,"handle, grip, grasp",Tobias packt das Messer am Griff.,Tobias grabs the knife by the handle.
+2649,"der Schatz, -̈e",der,B2+,29.3237,0.8515,0,"treasure, sweetheart",Auf dem Boden des Meeres liegen viele Schätze.,On the bottom of the sea lie many treasures.
+2657,"das Hemd, -en",das,A2,29.2744,0.8591,0,shirt,Sein Hemd hat die gleiche Farbe wie ihr Kleid.,His shirt is the same color as her dress.
+2692,"das Messer, -",das,A2,28.683,0.8619,0,knife,Julius schneidet das Brot mit einem großen Messer.,Julius cuts the bread with a big knife.
+2754,"der Bildschirm, -e",der,B1,27.8452,0.8186,0,"screen, monitor","Der Bildschirm des Computers verbreitet kaltes, blaues Licht.","The computer screen emits cold, blue light."
+2763,"der Hut, -̈e",der,B1,27.6974,0.8865,0,hat,"Er trägt einen Hut, um sich vor der Sonne zu schützen.",He wears a hat to protect himself from the sun.
+2789,"die Scheibe, -n",die,B1,27.3524,0.8743,0,"disk, slice, (glass) pane","Wir haben noch zwei Scheiben Brot zu Hause, die wir essen können.",We still have two slices of bread at home that we can eat.
+2820,"die Kleidung, -en",die,A1,27.0074,0.9161,0,clothes,"Mein Baby braucht neue Kleidung, wenn es Sommer wird.",My baby needs new clothes when summer arrives.
+2827,"der Fernseher, -",der,A2,26.9088,0.8237,0,television,Ich kaufe morgen einen Fernseher für unsere Wohnung.,I’m buying a television for our apartment tomorrow.
+2852,"die Kasse, -n",die,A1,26.6131,0.8749,0,"cash register, checkout","Wenn ich fertig mit dem Einkauf bin, gehe ich zur Kasse.","When I’m done shopping, I go to the checkout."
+2880,"das Zelt, -e",das,A2,26.3174,0.7938,0,tent,Die Kinder schlafen in einem Zelt unter freiem Himmel.,The children sleep in a tent under the open sky.
+2883,"die Brille, -n",die,A2,26.2681,0.8312,0,glasses,Paula kann ohne ihre Brille nichts sehen.,Paula can’t see anything without her glasses.
+2884,"die Sammlung, -en",die,B2+,26.2681,0.8471,0,collection,"Pauline hat so viele Bücher, sie zeigt mir morgen ihre Sammlung.","Pauline has so many books, she’s showing me her collection tomorrow."
+2926,"der Fleck, -e",der,B1,25.6767,0.885,0,stain,"Ich muss mein Hemd waschen, es hat einen Fleck.",I need to wash my shirt; it has a stain.
+2983,"der Mantel, -̈",der,A2,24.9868,0.8312,0,coat,Für den Winter kauft sich Thomas einen neuen warmen Mantel.,For the winter Thomas buys himself a new warm coat.
+2999,"das Taxi, -s",das,A1,24.8389,0.8613,0,taxi,Wir nehmen ein Taxi zum Flughafen.,We’re taking a taxi to the airport.
+3011,"das Skript, -e",das,B2+,24.6911,0.6988,0,"script, lecture notes",An dem Skript zum Film arbeiten zwei Autoren zusammen.,Two authors are working together on the script for the movie.
+3034,"das Kunstwerk, -e",das,B2+,24.4446,0.8185,0,work of art,Im Louvre gibt es viele berühmte Kunstwerke.,There are many famous works of art in the Louvre.
+3057,"die Zeitschrift, -en",die,A2,24.0997,0.8846,0,"magazine, journal",Ich lese eine interessante Zeitschrift aus dem Bereich Medizin.,I’m reading an interesting magazine in the field of medicine.
+3069,"das Zeug, -e",das,B1,23.9518,0.8757,0,stuff,Ich hole die Bücher und das andere Zeug morgen ab.,I’ll pick up the books and other stuff tomorrow.
+3074,"die Platte, -n",die,B2+,23.9025,0.8539,0,"disk, record, plate",Der Kuchen steht auf einer Platte aus Glas.,The cake stands on a glass plate.
+3148,"die Grafik, -en",die,B1,23.0154,0.7489,0,graphic,In der Prüfung müssen sie eine Grafik beschreiben.,They must describe a graphic in the exam.
+3179,"das Regal, -e",das,B1,22.6704,0.8435,0,shelf,Im Zimmer steht ein Regal mit Büchern.,There is a shelf with books in the room.
+3180,"der Rucksack, -̈e",der,A2,22.6704,0.8108,0,"rucksack, backpack","In ihrem Rucksack trägt sie alles, was sie braucht, mit sich.",She carries everything she needs with her in her backpack.
+3187,"der Teller, -",der,A2,22.6212,0.8484,0,plate,Das Messer macht ein furchtbares Geräusch auf dem Teller.,The knife makes a terrible sound on the plate.
+3205,"die Kiste, -n",die,B1,22.424,0.8713,0,"box, crate",Die warme Kleidung für den Winter ist in einer Kiste unter dem Bett.,Warm clothes for the winter are in a box under the bed.
+3229,"das Dokument, -e",das,B1,22.1776,0.8751,0,document,Lena füllt beim Amt die Dokumente für ihre staatliche Unterstützung aus.,Lena fills out the documents to apply for state support at the agency.
+3236,"die Linse, -n",die,B2+,22.1283,0.4365,0,"lens, lentil",Manchmal trägt Herr Abdoullah seine Brille und manchmal Linsen.,Sometimes Mr. Abdoullah wears his glasses and sometimes contact lenses.
+3247,"der Schrank, -̈e",der,A1,22.0298,0.8529,0,"cabinet, wardrobe",Sie hängt das Kleid zurück in den Schrank.,She hangs the dress back in the wardrobe.
+3285,"der Zettel, -",der,A2,21.6355,0.8508,0,"piece of paper, note","Ich brauche einen Zettel, um mir die Nummer aufzuschreiben.",I need a note to write down the number.
+3287,"die Jacke, -n",die,A1,21.5862,0.8592,0,jacket,Er hängt seine Jacke über den Stuhl.,He’s hanging his jacket over the chair.
+3355,"die Bombe, -n",die,B2+,20.9948,0.8473,0,bomb,In diesem Gebiet liegen unter der Erde noch Bomben aus der Zeit des Krieges.,There are still bombs from the time of the war underground in this area.
+3365,"der Rechner, -",der,B1,20.9455,0.7265,0,"computer, calculator",Wer hat Zugang zu diesem Rechner?,Who has access to this computer?
+3366,"der Schild, -e",das,A1,20.9455,0.8771,0,"sign, shield, tag",Auf der Autobahn zeigen die Schilder die legale Geschwindigkeit an.,"On the highway, the signs show the legal speed."
+3377,"der Anzug, -̈e",der,A2,20.8469,0.8669,0,suit,Er kauft einen neuen Anzug für seine Hochzeit.,He’s buying a new suit for his wedding.
+3408,"die CD, -s",die,A1,20.6498,0.8238,0,CD,Der Popstar veröffentlicht eine Reihe erfolgreicher CDs.,The pop star releases a series of successful CDs.
+3419,"die Zeichnung, -en",die,B1,20.5512,0.8789,0,drawing,Auf der Zeichnung sieht man die Berge und das Meer.,The drawing shows the mountains and the sea.
+3446,"der Bogen, -",der,A1,20.2555,0.8927,0,"bow, arc, sheet",Der Ball fliegt im hohen Bogen und landet im See.,The ball flies in a high arc and lands in the lake.
+3471,"das Smartphone, -s",das,B2+,20.157,0.8031,0,smartphone,"Smartphones sind wie kleine Computer, die man in die Tasche stecken kann.",Smartphones are like small computers you can put in your pocket.
+3513,"der Vorhang, -̈e",der,B2+,19.812,0.8726,0,curtain,Sie zieht die Vorhänge vor das Fenster.,She pulls the curtains in front of the window.
+3518,"die Tasse, -n",die,A2,19.7627,0.8558,0,cup,Ich nehme eine Tasse Tee.,I’ll have a cup of tea.
+3551,"der Rock, -̈e",der,A2,19.467,0.8605,0,"skirt, rock music",In England tragen die Schülerinnen Röcke und die Schüler Hosen.,In England the female students wear skirts and the male students wear trousers.
+3572,"das Sofa, -s",das,A1,19.3192,0.8512,0,"sofa, couch",Meine Eltern kaufen ein neues Sofa für das Wohnzimmer.,My parents are buying a new couch for the living room.
+3585,"das Paket, -e",das,A2,19.2206,0.8831,0,"parcel, package",Ich hole das Paket bei der Post ab.,I’ll pick up the package at the post office.
+3609,"das Möbel, -",das,A1,19.0727,0.8791,0,(piece of) furniture,Nach dem Umzug müssen sie sich neue Möbel kaufen.,After the move they have to buy new furniture.
+3622,"der PC, -s",der,B2+,19.0235,0.7465,0,computer,Durch das häufige Arbeiten am PC bekommt er Schmerzen im Rücken.,Because of the frequent work on the computer he gets pain in his back.
+3637,"der Teppich, -e",der,B1,18.9249,0.8795,0,carpet,Die Stars präsentieren sich auf dem roten Teppich.,The stars present themselves on the red carpet.
+3645,"der Block, -̈e",der,B2+,18.8263,0.892,0,block,Jeden Abend rennt er eine Runde um den Block.,Every evening he runs a round around the block.
+3675,"das Tagebuch, -̈er",das,B2+,18.6292,0.8189,0,diary,Jeden Abend schreibt Frau Höfler ihre Sorgen in ihr Tagebuch.,Every evening Mrs. Höfler writes her worries in her diary.
+3681,"das Werkzeug, -e",das,B1,18.5799,0.9106,0,tool,"Affen nutzen Steine als Werkzeug, um an Nahrung zu gelangen.",Monkeys use stones as a tool to get food.
+3713,"das Lehrbuch, -̈er",das,B2+,18.3828,0.8134,0,textbook,Das Lehrbuch in der Schule erklärt nicht alle Themen.,The textbook at school doesn’t explain all the topics.
+3743,"die Krone, -n",die,B2+,18.1856,0.793,0,crown,Die Königin trägt eine Krone auf dem Kopf.,The queen wears a crown on her head.
+3756,"die Unterlage, -n",die,B2+,18.0871,0.8875,0,"base, pad, document",Schicken Sie uns Ihre Unterlagen bitte per Post.,Please send your documents by mail.
+3771,"das Gepäck, -e",das,A1,17.9885,0.841,0,luggage,Für meine Reise brauche ich nur wenig Gepäck.,I don’t need much luggage for my trip.
+3780,"das Gemälde, -",das,B2+,17.9392,0.837,0,painting,Im Museum hängen viele berühmte Gemälde.,There are many famous paintings in the museum.
+3786,"der Träger, -",der,B2+,17.9392,0.8733,0,"strap, holder, responsible body","Als ich den Arm hebe, reißt der Träger von meinem T-Shirt.","As I lift my arm, the strap rips off my T-shirt."
+3814,"der Kühlschrank, -̈e",der,A1,17.7421,0.8668,0,fridge,"Wenn man Gemüse in den Kühlschrank legt, bleibt es länger frisch.","If you put vegetables in the fridge, they stay fresh longer."
+3825,"die Unterschrift, -en",die,A1,17.6928,0.8731,0,signature,Sie müssen den Vertrag nur noch mit Ihrer Unterschrift bestätigen.,You only have to confirm the contract with your signature.
+3855,"die Tafel, -n",die,A2,17.4957,0.8818,0,"board, table",Der Lehrer schreibt die neuen Wörter an die Tafel.,The teacher writes the new words on the board.
+3857,"die Uniform, -en",die,B1,17.4957,0.8398,0,uniform,An vielen britischen Schulen tragen die Schüler eine Uniform.,"In many British schools, students wear uniforms."
+3859,"die Akte, -n",die,B2+,17.4464,0.8429,0,file,"Patienten hat ihre eigenen Akten, in denen die Informationen zu ihrer Krankheit stehen.",Patients have their own files containing information about their illnesses.
+3862,"das Heft, -e",das,A2,17.4464,0.8153,0,notebook,"Herr Köhler hat ein Heft, in das er seine Ideen schreibt.",Mr. Köhler has a notebook in which he writes his ideas.
+3892,LKW (Lastkraftwagen),der,A1,17.2492,0.7871,0,truck,Der LKW transportiert die Milch von den Bauern zu den Läden.,The truck transports the milk from the farmers to the shops.
+3899,"das Becken, -",das,B2+,17.1507,0.6924,0,"pool, pelvis",Das Becken zum Schwimmen ist drei Meter tief.,The pool for swimming is three meters deep.
+3914,"das T-Shirt, -s",das,A2,17.0521,0.8696,0,T-shirt,Unter seiner Jacke trägt Jan ein weißes T-Shirt.,Jan wears a white T-shirt under his jacket.
+3917,"die Kerze, -n",die,B1,17.0028,0.8539,0,candle,Sie zünden Kerzen für die Opfer des Terroranschlags an.,They’re lighting candles for the victims of the terrorist attack.
+3943,"die Schale, -n",die,B2+,16.9043,0.7753,0,bowl,Kannst du die Äpfel in die Schale dort legen?,Can you put the apples in the bowl over there?
+3999,"der Sessel, -",der,B1,16.6578,0.8347,0,armchair,Ich sitze lieber in einem Sessel als auf einem Stuhl.,I prefer sitting in an armchair rather than on a chair.
+4006,"das Manuskript, -e",das,B2+,16.6086,0.7631,0,manuscript,Vor der Rede lese ich mir nochmal das Manuskript durch.,"Before the speech, I’m going to read the manuscript again."
+4018,"der Kasten, -̈",der,B1,16.51,0.8109,0,"box, crate",Für die Party brauchen wir noch einen Kasten Bier.,We need another crate of beer for the party.
+4032,"das Gewehr, -e",das,B2+,16.4607,0.7314,0,"rifle, shotgun",Der Jäger nimmt sein Gewehr und geht auf die Jagd.,The hunter takes his rifle and goes hunting.
+4034,"das Tuch, -̈er",das,B1,16.4607,0.8509,0,"cloth, scarf",Die Kinder binden Marius ein Tuch um die Augen und er muss sie fangen.,The children tie a scarf around Marius’ eyes and he has to catch them.
+4086,"der Container, -",der,B2+,16.165,0.4894,0,container,"Vor unserem Haus steht ein Container, in den wir alles schmeißen, was wir nicht mehr brauchen.",In front of our house is a container into which we throw everything we no longer need.
+4109,"der Zähler, -",der,B2+,16.0664,0.7332,0,"counter, meter, numerator","Der Zähler in unserer Wohnung misst den Strom, den wir verbrauchen.",The meter in our apartment measures the electricity we use.
+4124,"der Roboter, -",der,B2+,15.9679,0.8001,0,robot,"Roboter werden gebaut, um den Menschen Arbeit abzunehmen.",Robots are built to do the work of humans.
+4131,"die Glocke, -n",die,B2+,15.8693,0.6765,0,bell,Die Glocken der Kirche läuten zu traditionellen Anlässen.,The bells of the church ring on traditional occasions.
+4136,"der Topf, -̈e",der,A2,15.8693,0.8616,0,pot,Das Wasser im Topf kocht bereits.,The water in the pot is already boiling.
+4144,"die Lampe, -n",die,A2,15.7707,0.8281,0,lamp,Stefanie schaltet die Lampe neben dem Sofa an.,Stefanie switches on the lamp next to the couch.
+4191,"der Sack, -̈e",der,B1,15.5736,0.8553,0,"sack, bag",Ich kaufe einen Sack Kartoffeln.,I’m buying a sack of potatoes.
+4197,"der Faden, -̈",der,B2+,15.5243,0.8915,0,thread,"Aus dem Loch in meiner Jacke hängt ein langer, dünner Faden.","There’s a long, thin thread hanging out of the hole in my jacket."
+4208,"die Fahne, -n",die,B2+,15.475,0.8918,0,flag,Die Fahne eines Landes dient als Symbol.,The flag of a country serves as a symbol.
+4219,"das Plakat, -e",das,A2,15.4258,0.8528,0,poster,"Um für sich zu werben, hängen Politiker Plakate von sich auf.",Politicians hang posters to promote themselves.
+4247,"das Magazin, -e",das,B1,15.2779,0.8678,0,"magazine, storehouse","Ich kaufe mir ein Magazin, damit ich auf der Fahrt mit dem Zug etwas lesen kann.",I’m buying a magazine so that I have something to read while riding on the train.
+4266,"der Pfeil, -e",der,B2+,15.1301,0.83,0,arrow,Die roten Pfeile im Supermarkt deuten auf die speziellen Preise hin.,The red arrows in the supermarket indicate the special prices.
+4305,"die Bibel, -n",die,B2+,14.9329,0.7968,0,Bible,"Die Bibel ist eine Sammlung von Schriften, die unter anderem als Grundlage des Christentums dienen.","The Bible is a collection of writings that serve, among other things, as the basis of Christianity."
+4332,"die Maske, -n",die,B2+,14.7851,0.7658,0,mask,"Die Ärzte tragen während der Operation Masken, um sich und den Patienten vor Bakterien zu schützen.",The doctors wear masks during the operation to protect themselves and the patient from bacteria.
+4340,"das Klavier, -e",das,A2,14.7358,0.8341,0,piano,"Ich spiele viele Instrumente, darunter auch Klavier.","I play many instruments, including piano."
+4353,"das Bündel, -",das,B2+,14.6865,0.752,0,"bundle, bunch",Das Bündel Sachen bringe ich morgen noch weg.,I’ll take that bundle of things away tomorrow.
+4357,"der Knopf, -̈e",der,B1,14.6865,0.8586,0,button,An meiner Jacke sind fünf Knöpfe.,There are five buttons on my jacket.
+4400,"die Box, -en",die,B2+,14.4894,0.8437,0,"speaker, pit, stall",Mein Pferd steht in einer sehr großen Box.,My horse stands in a very large stall.
+4447,"das Diagramm, -e",die,B2+,14.2922,0.7407,0,diagram,"Wir lernen gerade, wie man die Informationen aus einem Diagramm interpretiert.",We’re learning how to interpret the information from a diagram.
+4456,"das Zeugnis, -se",das,A2,14.2922,0.889,0,"report, certificate, testimony",Einen Tag vor den Ferien bekommen wir in der Schule unsere Zeugnisse.,One day before the summer break we get our report cards at school.
+4469,"die Pistole, -n",die,B2+,14.1937,0.8132,0,pistol,Der Täter hat eine Pistole dabei und benutzt sie auch.,The perpetrator has a pistol with him and uses it.
+4481,"der Stab, -̈e",der,B2+,14.1444,0.7458,0,staff,Ich gehöre zu einem kleinen Stab von Mitarbeitern in der Firma.,I belong to a small staff of employees in the company.
+4491,"das Porträt, -s",das,B2+,14.0951,0.8328,0,portrait,"Ich möchte, dass du ein Porträt von mir malst.",I want you to paint a portrait of me.
+4503,"das Exemplar, -e",das,B2+,14.0458,0.8874,0,"copy, piece",Ich habe mir ein neues Exemplar von dem Buch gekauft.,I bought a new copy of the book.
+4516,"der Laptop, -s","der, das",A2,13.9472,0.7639,0,laptop,"Ich arbeite mit dem Laptop, wenn ich unterwegs bin.",I work with my laptop when I’m on the road.
+4519,"die Notiz, -en",die,A2,13.9472,0.8714,0,note,"Ich schreibe mir eine Notiz, damit ich die Informationen nicht vergesse.",I’ll write a note so I don’t forget the information.
+4520,"die Rakete, -n",die,B2+,13.9472,0.8138,0,rocket,Am letzten Abend im Jahr schießen wir Raketen in die Luft.,The last night of the year we shoot rockets into the air.
+4530,"die Kabine, -n",die,B1,13.898,0.8304,0,"cabin, booth",Der Kapitän zieht sich in seine Kabine zurück.,The captain retires to his cabin.
+4543,"der Lastwagen, -",der,B2+,13.8487,0.8507,0,truck,Vasile fährt mit seinem Lastwagen durch ganz Europa.,Vasile drives his truck across all of Europe.
+4570,"die Dusche, -n",die,A1,13.7008,0.8428,0,shower,Nach dem Sport gehe ich unter die Dusche.,"After doing sport, I‘m taking a shower."
+4586,"die Tageszeitung, -en",die,B2+,13.6515,0.8658,0,daily newspaper,In der Tageszeitung informiere ich mich jeden Tag über aktuelle Themen.,Every day I inform myself about current topics in the daily newspaper.
+4590,"die Ausstattung, -en",die,B2+,13.6023,0.8793,0,"equipment, facilities, furnishings",Die Klinik braucht eine bessere technische Ausstattung.,The clinic needs better technical equipment.
+4646,"das Motorrad, -̈er",das,B1,13.3558,0.8402,0,motorbike,Wir fahren mit dem Motorrad nach Italien.,We’re going to Italy by motorbike.
+4665,"der Beleg, -e",der,B1,13.2573,0.8648,0,"proof, evidence, receipt","An der Kasse bekomme ich einen Beleg für alles, was ich kaufe.",At the checkout I get a receipt for everything I buy.
+4674,"die Puppe, -n",die,B1,13.208,0.6859,0,"doll, puppet",Meine Tochter spielt am liebsten mit Puppen.,My daughter likes to play with dolls the most.
+4697,"die Mütze, -n",die,A2,13.1094,0.8369,0,"hat, cap","Im Winter trage ich immer eine Mütze, damit mir am Kopf nicht kalt wird.",In winter I always wear a hat so my head doesn’t get cold.
+4724,"der Korb, -̈e",der,B2+,13.0109,0.8508,0,basket,"Ich lege die Lebensmittel in einen Korb, damit ich sie besser tragen kann.",I put the food in a basket so I can carry it better.
+4759,"der Apparat, -e",der,A2,12.863,0.7902,0,"device, gadget",Der Fernseher ist ein nützlicher Apparat.,The television is a useful device.
+4769,"das Ticket, -s",das,A1,12.863,0.8467,0,ticket,"Bevor das Stück startet, kaufen wir Tickets an der Kasse im Theater.","Before the play starts, we buy tickets at the box office in the theater."
+4797,"die Schublade, -n",die,B2+,12.7644,0.8713,0,drawer,Ich lege die Unterlagen in die Schublade.,I’ll put the documents in the drawer.
+4826,"die Dose, -n",die,B1,12.5673,0.8665,0,"can, tin",Gemüse aus der Dose ist auch gesund.,Vegetables in a can are also healthy.
+4840,"das Hilfsmittel, -",das,B2+,12.518,0.8659,0,"means, aid, tool",In der Prüfung sind keine Hilfsmittel erlaubt.,No aids are allowed in the test.
+4845,"das Brett, -er",das,B2+,12.4687,0.8885,0,"board, plank",Aus den Brettern baue ich ein Bett.,I’ll make a bed out of the boards.
+4866,"das Fass, -̈er",das,B2+,12.3702,0.771,0,"keg, barrel",Für das Fest kaufe ich ein Fass Bier.,I’ll buy a keg of beer for the party.
+4898,"das Kissen, -",das,B1,12.2716,0.8353,0,"pillow, cushion",Auf meinem Bett liegen viele Kissen.,There are lots of pillows on my bed.
+4925,"das Seil, -e",das,B2+,12.173,0.8266,0,rope,Ich befestige das Boot mit einem Seil am Ufer.,I’m securing the boat to the shore with a rope.
+4926,"der Tresen, -",der,B2+,12.173,0.6977,0,counter,Sie setzt sich in der Bar an den Tresen und bestellt ein Bier.,She sits down at the counter in the bar and orders a beer.
+4940,"das Elektroauto, -s",das,B2+,12.0745,0.6557,0,electric car,Elektroautos sind eine sinnvolle Alternative zum Schutz der Umwelt.,Electric cars are a sensible alternative for protecting the environment.
+4942,"die Jeans, -",die,A2,12.0745,0.843,0,jeans,Ich trage heute ein Hemd und eine Jeans.,I’m wearing a shirt and jeans today.
+4949,"die Kopie, -n",die,B1,12.0252,0.8922,0,copy,"Ich habe nur eine Kopie des Bildes, weil das Original zu teuer ist.","I only have a copy of the picture, because the original is too expensive."
+4967,"die Skulptur, -en",die,B2+,11.9759,0.8411,0,sculpture,In dem Museum stehen viele Skulpturen von berühmten Künstlern.,In the museum there are many sculptures by famous artists.
+4981,"der Ofen, -Ö",der,B2+,11.9266,0.8281,0,"oven, furnace",Ich nehme den Kuchen aus dem Ofen.,I’ll take the cake out of the oven.

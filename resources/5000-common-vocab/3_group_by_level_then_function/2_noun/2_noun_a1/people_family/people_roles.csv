@@ -1,0 +1,17 @@
+rank,word,pos,level,freq_per_million,dispersion,has_conjugation,definition,example_de,example_en
+90,"der Mensch, -en",der,A1,1093.5529,0.9286,0,human being,Es gibt über sieben Milliarden Menschen auf der Welt.,There are over seven billion human beings in the world.
+99,"die Frau, -en",die,A1,926.0874,0.9173,0,"woman, wife, Mrs.",Frauen sollten den gleichen Lohn bekommen wie Männer.,Women should be paid the same as men.
+121,"der Mann, -̈er",der,A1,758.129,0.9208,0,man,Sie wohnt mit einem Mann zusammen.,She lives with a man.
+133,"das Kind, -er",das,A1,679.4724,0.9187,0,child,Das Kind geht gern zur Schule.,The child likes going to school.
+154,"der Herr, -en",der,A1,558.6784,0.8182,0,Mr.,Unser neuer Lehrer heißt Herr Schmidt.,Our new teacher is called Mr. Schmidt.
+224,Leute,die (pl),A1,387.8616,0.8936,0,people,Ich treffe auf der Party viele nette Leute.,I meet a lot of nice people at the party.
+255,"der Name, -n",der,A1,341.1901,0.9343,0,name,Mein Name ist Lisa und sie heißt Anika.,My name is Lisa and her name is Anika.
+369,"die Gruppe, -n",die,A1,226.5072,0.9102,0,group,Sie müssen in einer Gruppe zusammenarbeiten.,You have to work together in a group.
+548,"der Junge, -n",der,A1,156.5739,0.8786,0,boy,"Als Thomas ein kleiner Junge war, weinte er viel.","When Thomas was a little boy, he cried a lot."
+576,"der Gast, -̈e",der,A1,150.3149,0.8891,0,guest,Heute sind Herr und Frau Müller unsere Gäste bei dem Fest.,Today Mr. and Mrs. Müller are our guests at the party.
+602,"das Mädchen, -",das,A1,144.253,0.8899,0,girl,Das Mädchen heißt Lina und sie geht noch zur Schule.,"The girl’s called Lina, and she’s still in school."
+702,"die Dame, -n",die,A1,126.0181,0.7834,0,lady,Unten in der Wohnung wohnt eine alte Dame.,An old lady lives in the apartment downstairs.
+1324,die Jugendliche,"der, die",A1,66.8778,0.8969,0,adolescent,Das Projekt unterstützt Jugendliche nach ihrem Abschluss.,The project supports adolescents after their graduation.
+2369,die Erwachsene,"der, die",A1,33.5128,0.9185,0,"adult, grown-up",In der Schule kümmert sich je ein Erwachsener um 20 Kinder.,"At school, each adult takes care of 20 children each."
+2711,"der Ausländer, -",der,A1,28.4366,0.8766,0,foreigner,Die Integration von Ausländern ist in allen modernen Gesellschaften sehr wichtig.,The integration of foreigners is very important in all modern societies.
+3056,"der Vorname, -n",der,A1,24.0997,0.7581,0,first name,Mein Vorname ist Thomas und mein Nachname ist Müller.,My first name is Thomas and my surname is Müller.

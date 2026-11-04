@@ -1,0 +1,12 @@
+rank,word,pos,level,freq_per_million,dispersion,has_conjugation,definition,example_de,example_en
+36,all,pron,A1,3269.3235,0.9674,0,all,Wir freuen uns alle auf den Urlaub.,We are all looking forward to our vacation.
+46,kein,pron,A1,2476.9917,0.9626,0,no,"Sie haben keine Chance, das Spiel zu gewinnen.",They have no chance of winning the game.
+56,viel,pron,A1,2032.9961,0.9429,0,"much, a lot, many",Ich gebe im Urlaub viel Geld aus.,I spend a lot of money on vacation.
+59,"andere (r, s)",pron,A1,1940.9344,0.9706,0,other,Es gibt noch einen anderen Weg zum Bahnhof.,There’s another way to the station.
+80,einer,pron,A1,1328.4876,0.9559,0,(some)one,Dieses Problem ist nur eines von vielen.,This problem is only one of many.
+87,"jede (r, s)",pron,A1,1162.5006,0.9691,0,every,Wir fahren jeden Sommer in den Urlaub.,We go on vacation every summer.
+109,"nichts, nix",pron,A1,837.9684,0.9151,0,nothing,"Wenn es dunkel ist, kann man nichts sehen.","When it’s dark, you can see nothing."
+117,beide,pron,A1,766.0144,0.9669,0,both,Er hat zwei Kinder und liebt sie beide.,He has two children and loves them both.
+174,einige,pron,A1,501.4109,0.9644,0,"a few, some","Für einige Probleme haben wir bereits Lösungen, für andere noch nicht.","For some problems we already have solutions, for others not yet."
+301,"bisschen, bissel",pron,A1,280.4235,0.8584,0,a little,Mein Bein schmerzt morgens ein bisschen.,My leg hurts a little in the morning.
+433,"manche (r, s)",pron,A1,191.5159,0.9383,0,"some, many a",Manche Menschen mögen keinen Kaffee.,Some people don’t like coffee.

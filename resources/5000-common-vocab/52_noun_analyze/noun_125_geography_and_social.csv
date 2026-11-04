@@ -1,0 +1,71 @@
+rank,word,pos,level,freq_per_million,dispersion,has_conjugation,definition,example_de,example_en
+134,"das Land, -̈er",das,A1,674.9384,0.91,0,"land, country, state",Welches Land würdest du gern besuchen?,Which country would you like to visit?
+164,"die Welt, -en",die,A1,533.0017,0.9279,0,world,Ich möchte gerne um die Welt reisen.,I would like to travel around the world.
+204,"die Stadt, -̈e",die,A1,415.0661,0.9112,0,"city, town","London, Paris und Berlin sind große Städte.","London, Paris, and Berlin are big cities."
+326,"der Platz, -̈e",der,A1,257.3095,0.917,0,"place, room, square",Mein Haus hat genug Platz für acht Personen.,My house has enough room for eight people.
+341,"der Ort, -e",der,A1,245.0379,0.9287,0,"place, town, location",Die Kirche ist ein friedlicher Ort.,The church is a peaceful place.
+344,"die Stelle, -n",die,A1,242.4258,0.9511,0,place,Sein Name steht an erster Stelle.,His name is in the first place.
+447,"die Grenze, -n",die,B1,184.2219,0.9181,0,"border, frontier",An der Grenze kontrolliert die Polizei die Autos.,"At the border, the police check the cars."
+803,"die Region, -en",die,B1,107.1917,0.9055,0,region,Die Region ist berühmt für ihren Wein.,The region is famous for its wine.
+959,"das Dorf, -̈er",das,A1,90.4846,0.8838,0,village,Günther wohnt in einem kleinen Dorf an der Grenze zu Polen.,Günther lives in a small village on the border with Poland.
+1010,"Westen, West-",der,B1,86.0984,0.9105,0,west,Die Sonne geht im Westen unter.,The sun sets in the west.
+1110,"das Gebiet, -e",das,B1,78.5087,0.9157,0,"region, area, territory",Beide Länder kämpfen um dieses Gebiet.,Both countries are fighting for this territory.
+1145,"das Zentrum, -en",das,A2,75.946,0.9174,0,center,Dirk arbeitet im Zentrum der Stadt.,Dirk works in the center of town.
+1208,"Osten, Ost-",der,B1,72.3483,0.9072,0,east,Die Sonne geht im Osten auf.,The sun rises in the east.
+1382,das Ausland,das,A1,64.2165,0.8937,0,foreign countries,Nach unserem Abschluss wollen wir im Ausland arbeiten.,"After graduation, we want to work abroad."
+1466,"die Umgebung, -en",die,B1,60.0767,0.9196,0,surroundings,"Er ist froh, wieder zu Hause in seiner normalen Umgebung zu sein.",He’s happy to be back home in his normal surroundings.
+1516,"Norden, Nord-",der,B1,57.8589,0.8904,0,north,Der Wind weht von Norden.,The wind is blowing from the north.
+1574,"die Gegend, -en",die,B1,55.1483,0.8817,0,"area, region",Diese Tiere überleben sogar in trockenen Gegenden.,These animals survive even in dry areas.
+1694,"die Hauptstadt, -̈e",die,A2,50.5156,0.8624,0,capital city,Berlin ist die Hauptstadt von Deutschland.,Berlin is the capital city of Germany.
+1741,"der Amerikaner, -",der,B1,48.8893,0.8938,0,American,"Ich bin stolz, ein Amerikaner zu sein und in New York zu wohnen.",I’m proud to be an American and live in New York.
+1746,"der Jude, -n",der,B1,48.84,0.8622,0,Jew,Yom Kippur ist bei den Juden ein religiöser Tag.,Yom Kippur is a religious day for the Jews.
+1771,"Süden, Süd-",der,B1,47.9529,0.9071,0,south,"Robert wohnt im Norden von England, kommt aber ursprünglich aus dem Süden.","Robert lives in the north of England, but originally comes from the south."
+1937,"der Russe, -n",der,B1,43.1724,0.8241,0,Russian,"Ivanas Vater ist Russe, weshalb sie auch Russisch spricht.","Ivana’s father is Russian, which is why she speaks Russian."
+1993,"das Bundesland, -̈er",das,B1,41.546,0.8584,0,"state, province",Deutschland besteht aus 16 Bundesländern.,Germany consists of 16 federal states.
+1997,"das Viertel, -",das,B1,41.546,0.9057,0,"quarter, district",Jonas wohnt in einem der teuersten Viertel der Stadt.,Jonas lives in one of the most expensive districts of the city.
+2163,"die City, -s",die,B1,37.8005,0.781,0,city center,In der City gibt es viele Geschäfte.,There are many shops in the city center.
+2207,"der Standort, -e",der,B1,36.8148,0.8655,0,"site, location","Kannst du mir deinen Standort schicken, damit ich dich finde?",Can you send me your location so that I can find you?
+2252,"der Bewohner, -",der,B1,35.8784,0.8947,0,"inhabitant, resident, occupant",Während des Brands müssen alle Bewohner das Haus verlassen.,All residents must leave the house during the fire.
+2311,"der Einwohner, -",der,B1,34.6956,0.8727,0,inhabitant,Leipzig hat ca. 590.000 Einwohner.,"Leipzig has approximately 590,000 inhabitants."
+2349,"der Franzose, -n",der,B1,33.9564,0.8754,0,"Frenchman, French",In Frankreich leben über 66 Millionen Franzosen.,Over 66 million French people live in France.
+2597,"der Moslem, -s",der,B2+,30.0137,0.7929,0,Muslim,"Ich esse kein Schweinefleisch, weil ich Moslem bin.",I don’t eat pork because I’m Muslim.
+2611,"der Brite, -n",der,B2+,29.8658,0.8436,0,Brit,Die Briten entscheiden über die Zukunft Großbritanniens.,The Brits decide on Great Britain’s future.
+2711,"der Ausländer, -",der,A1,28.4366,0.8766,0,foreigner,Die Integration von Ausländern ist in allen modernen Gesellschaften sehr wichtig.,The integration of foreigners is very important in all modern societies.
+2721,"der Kontinent, -e",der,B2+,28.2888,0.8705,0,continent,Asien und Afrika sind Kontinente.,Asia and Africa are continents.
+2750,"der Europäer, -",der,B2+,27.8945,0.8728,0,European,"Viele junge Menschen fühlen sich nicht als Deutsche, sondern als Europäer.","Many young people feel like Europeans, not Germans."
+2757,Schweizer,der,B2+,27.7959,0.8135,0,Swiss person,Das Unternehmen wird von einem Schweizer geleitet.,The company is managed by a Swiss person.
+2807,"die Infrastruktur, -en",die,B2+,27.106,0.8675,0,infrastructure,Große Städte brauchen eine gute Infrastruktur.,Big cities need a good infrastructure.
+2828,"der Italiener, -",der,B2+,26.8595,0.8665,0,Italian,Jeden Freitag essen wir Pizza beim Italiener.,Every Friday we have pizza at the Italian restaurant.
+3036,"der Österreicher, -",der,B2+,24.4446,0.733,0,Austrian,Der Österreicher wohnt heute in den USA.,The Austrian now lives in the USA.
+3091,"der Kanton, -e",der,B2+,23.7547,0.5816,0,"canton (Switzerland), province",Die Schweiz ist in viele Kantone unterteilt.,Switzerland is divided into many cantons.
+3159,"das Gelände, -",das,B2+,22.9169,0.8904,0,"ground, site",Auf diesem Gelände baut die Firma weitere Gebäude.,The company is building further buildings on this site.
+3348,"der Chinese, -n",der,B2+,21.0441,0.7785,0,Chinese,Viele Chinesen leben außerhalb von China.,Many Chinese live outside China.
+3422,"der Christ, -en",der,B2+,20.502,0.866,0,Christian,Felix ist ein gläubiger Christ.,Felix is a believing Christian.
+3445,"der Bezirk, -e",der,B2+,20.2555,0.8189,0,district,Sein Büro ist im westlichen Bezirk der Stadt.,His office is in the western district of the city.
+3482,"der Grieche, -n",der,B2+,20.0584,0.8109,0,Greek,Er ist ein Grieche aus Athen.,He’s a Greek from Athens.
+3527,"der Papst, -̈e",der,B2+,19.7134,0.7745,0,pope,Papst ist der höchste Titel der katholischen Kirche.,Pope is the highest title in the Catholic Church.
+3566,"der Pfarrer, -",der,B2+,19.3684,0.8405,0,pastor,Er ist Pfarrer der örtlichen Kirche.,He’s a pastor of the local church.
+3567,"die Provinz, -en",die,B2+,19.3684,0.8621,0,province,Sie stammt aus der Provinz Quebec.,She comes from the province of Quebec.
+3614,"die Zone, -n",die,B1,19.0727,0.8815,0,zone,Diese Zone ist für Autos gesperrt.,This zone is closed to cars.
+3711,"die Innenstadt, -̈e",die,B2+,18.3828,0.8434,0,"town center, downtown","Die Bahn fährt nicht Richtung Innenstadt, du nimmst dir besser ein Taxi.",The train doesn’t go downtown; you’d better take a cab.
+3785,"der Stadtteil, -e",der,B2+,17.9392,0.8449,0,district,Ich wohne in einem sehr schönen Stadtteil von Leipzig.,I live in a very beautiful district of Leipzig.
+3873,"der Spanier, -",der,B2+,17.3971,0.8138,0,Spaniard,Miguel ist Spanier und lebt in Madrid.,Miguel is a Spaniard and lives in Madrid.
+3903,"der Engländer, -",der,B2+,17.1014,0.8341,0,"Englishman, English",Sie ist mit einem Engländer aus London verheiratet.,She is married to an Englishman from London.
+3984,"die Großstadt, -̈e",die,B2+,16.7071,0.8823,0,"large city, metropolis",Die meisten Großstädte der Welt haben mehr als fünf Millionen Einwohner.,Most large cities in the world have more than five million inhabitants.
+4020,"der Pariser, -",der,B2+,16.51,0.8574,0,"Parisian, condom","Man sagt, Pariser sind sehr romantische Menschen.",They say Parisians are very romantic people.
+4065,"die Nachbarschaft, -en",die,B2+,16.3129,0.8857,0,neighborhood,"Wir wohnen in einer guten Nachbarschaft, in der man sich gegenseitig hilft.",We live in a good neighborhood where people help each other.
+4115,"der Türke, -n",der,B2+,16.0172,0.8244,0,Turk,Mein Nachbar ist ein Türke und kocht sehr gutes Essen.,My neighbor is a Turk and cooks very good food.
+4342,"der Landkreis, -e",der,B2+,14.7358,0.7593,0,district,Jedes Bundesland in Deutschland ist in mehrere Landkreise unterteilt.,Each federal state in Germany is divided into several districts.
+4361,"die Siedlung, -en",die,B2+,14.6865,0.8528,0,"settlement, estate",In meiner Stadt wird eine neue Siedlung gebaut.,A new settlement is being built in my town.
+4387,"das Center, -",das,B2+,14.5387,0.8426,0,center,Am Stadtrand eröffnet ein neues Center zum Einkaufen.,A new center opens on the outskirts of the city.
+4582,"der Berliner, -",der,B2+,13.6515,0.8365,0,Berliner,"Ein echter Berliner sagt, was er denkt, ohne darüber nachzudenken.",A real Berliner says what he thinks without thinking about it.
+4672,"das Entwicklungsland, -̈er",das,B2+,13.208,0.7217,0,developing nation,Die Entwicklungsländer dieser Welt brauchen noch mehr Unterstützung.,The developing nations of the world need even more support.
+4725,"der Pole, -n",der,B2+,13.0109,0.8809,0,Polish,Lena ist Polin und wohnt in Danzig.,Lena is Polish and lives in Gdansk.
+4788,"die Altstadt, -̈e",die,B2+,12.7644,0.7901,0,"old town, historical center",Wir sehen uns heute die Altstadt von Dresden an.,Today we visit the historical center of Dresden.
+4860,"der Syrer, -",der,B2+,12.4195,0.7261,0,Syrian,Viele Syrer kommen als Flüchtlinge nach Europa.,Many Syrians come to Europe as refugees.
+4868,"der Landsmann, -̈er",der,B2+,12.3702,0.882,0,"compatriot, fellow countryman",In meinem Urlaub treffe ich viele Landsmänner.,I meet a lot of compatriots on my vacation.
+4882,"die Metropole, -n",die,B1,12.3209,0.8241,0,metropolis,New York ist eine Metropole in den USA.,New York is a metropolis in the USA.
+4899,"der Römer, -",der,B2+,12.2716,0.7796,0,Roman,Die Römer bauten die ersten Straßen.,The Romans built the first roads.
+4933,"der Priester, -",der,B2+,12.1238,0.8257,0,priest,Ein Priester führt die Hochzeit in der Kirche durch.,A priest conducts the wedding in the church.
+4936,Tiroler,der,B2+,12.1238,0.6644,0,Tyrolean,Die Tiroler sind sehr stolz auf ihr Bundesland.,Tyroleans are very proud of their province.
+4958,"der Anwohner, -",der,B2+,11.9759,0.7641,0,resident,Die Anwohner beklagen sich über die laute Musik.,The residents complain about the loud music.

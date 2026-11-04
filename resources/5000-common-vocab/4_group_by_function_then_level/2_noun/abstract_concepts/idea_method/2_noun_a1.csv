@@ -1,0 +1,4 @@
+rank,word,pos,level,freq_per_million,dispersion,has_conjugation,definition,example_de,example_en
+94,"das Beispiel, -e",das,A1,1027.4144,0.9024,0,example,Das Beispiel passt nicht gut zu diesem Argument.,The example does not fit this argument well.
+157,"die Frage, -n",die,A1,553.3558,0.9488,0,question,Die Studierenden stellen zu dem neu eingeführten Thema viele Fragen.,The students ask many questions about the newly introduced topic.
+317,"die Lösung, -en",die,A1,266.3776,0.8151,0,solution,Für jedes Problem gibt es eine Lösung.,There is a solution to every problem.

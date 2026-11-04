@@ -1,0 +1,17 @@
+rank,word,pos,level,freq_per_million,dispersion,has_conjugation,definition,example_de,example_en
+2607,psychisch,adj,B2+,29.9151,0.775,0,psychological,Stress verursacht psychische Probleme.,Stress causes psychological problems.
+2724,sexuell,adj,B2+,28.2395,0.8653,0,sexual,Sexueller Kontakt führt nicht immer zu einer Schwangerschaft.,Sexual contact does not always lead to pregnancy.
+2798,weh,adj,B2+,27.3031,0.8721,0,"sore, hurt","Er fällt vom Fahrrad und bricht sich den Fuß, das tut sehr weh!","He falls off his bike and breaks his foot, it hurts a lot!"
+3084,erwachsen,adj,B2+,23.804,0.924,0,"adult, grown-up",Mit 18 Jahren gilt man als erwachsen.,"At the age of 18, one is considered an adult."
+3389,physisch,adj,B2+,20.7977,0.8601,0,physical,"Er hasst jeglichen physischen Kontakt. Er mag es nicht einmal, jemandem die Hand zu schütteln.",He hates all physical contact. He doesn’t even like shaking hands.
+3629,akut,adj,B2+,18.9742,0.8445,0,"acute, urgent",Mit einer akuten Verletzung musst du unbedingt zum Arzt gehen.,"If you have an acute injury, you must see a doctor."
+3631,chronisch,adj,B2+,18.9742,0.7843,0,chronic,Chronische Schmerzen gehen meist nicht mehr weg.,Chronic pain usually does not go away.
+3961,schwul,adj,B2+,16.855,0.8219,0,gay,Einer meiner besten Freunde ist schwul.,One of my best friends is gay.
+4079,fit,adj,B2+,16.2143,0.8676,0,fit,"Ich hoffe, du bist fit, wir werden heute lange laufen.","I hope you’re fit, we’re going to be running for a long time today."
+4308,schlank,adj,B2+,14.9329,0.8895,0,slim,"Ich halte mich schlank, indem ich Sport mache.",I keep myself slim by doing sports.
+4350,behindert,adj,B2+,14.6865,0.8503,0,handicapped,Seit dem Unfall bin ich behindert und auf Hilfe angewiesen.,"Since the accident, I’ve been handicapped and dependent on help."
+4410,blutig,adj,B2+,14.4401,0.8874,0,bloody,Paul schlägt Michael die Nase blutig.,Paul punches Michael’s nose bloody.
+4452,nüchtern,adj,B2+,14.2922,0.9003,0,"sober, with empty stomach",Für den Termin beim Arzt muss ich nüchtern sein und esse deswegen nicht.,"I have to have an empty stomach for the doctor’s appointment, so I don’t eat."
+4574,gehörlos,adj,B2+,13.7008,0.3352,0,deaf,"Obwohl mein Opa gehörlos ist, hat er keine Probleme mit der Kommunikation.","Although my grandfather is deaf, he has no problems with communication."
+4592,gesundheitlich,adj,B2+,13.6023,0.8862,0,sanitary,Aus gesundheitlichen Gründen bleibt unser Geschäft heute geschlossen.,For sanitary reasons our shop will be closed today.
+5001,jugendlich,adj,B2+,11.8281,0.887,0,youthful,"Obwohl Paul schon fast 40 Jahre alt ist, wirkt er noch sehr jugendlich.","Although Paul is going on 40, he still appears youthful."

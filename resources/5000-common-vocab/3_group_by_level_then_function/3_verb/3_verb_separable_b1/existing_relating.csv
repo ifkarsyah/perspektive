@@ -1,0 +1,7 @@
+rank,word,pos,level,freq_per_million,dispersion,has_conjugation,is_separable,definition,example_de,example_en
+1116,"ausreichen, reicht aus, reichte aus, hat ausgereicht",verb,B1,78.1637,0.9232,1,1,to be sufficient,"Mein Geld reicht nicht aus, um das zu kaufen.",My money is not sufficient to buy it.
+1225,"angehen, geht an, ging an, ist angegangen",verb,B1,71.6583,0.9147,1,1,"to concern, go on",Dieses Thema geht uns alle an.,This issue concerns all of us.
+1232,"abhängen, hängt ab, hing ab, hat abgehangen",verb,B1,71.3626,0.8861,1,1,to depend,Die Gesundheit der Menschen hängt auch von ihren Genen ab.,People’s health also depends on their genes.
+1430,"aufweisen, weist auf, wies auf, hat aufgewiesen",verb,B1,61.9002,0.8294,1,1,"to show, exhibit, contain",Nach dem Unfall weist das Auto einen starken Schaden auf.,"After the accident, the car shows a lot of damage."
+1852,"zutreffen, trifft zu, traf zu, hat zugetroffen",verb,B1,45.2916,0.8659,1,1,"to be correct, apply to",Deine Antwort trifft nicht auf die Frage zu.,Your answer does not apply to the question.
+3502,"feststehen, steht fest, stand fest, hat festgestanden",verb,B1,19.8613,0.873,1,1,"to be certain, fixed, firm","Es steht heute schon fest, dass wir nächstes Jahr nach Frankreich ziehen.",It is already certain that we will move to France next year.

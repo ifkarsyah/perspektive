@@ -1,0 +1,4 @@
+rank,word,pos,level,freq_per_million,dispersion,has_conjugation,definition,example_de,example_en
+1081,per,prep,B1,80.7758,0.9207,0,"by, per",Ich reise per Schiff.,I’m traveling by ship.
+1561,anhand,prep,B1,55.8876,0.8537,0,"on the basis of, with the aid of",Die These kann anhand der Statistik belegt werden.,The thesis can be proven on the basis of statistics.
+1954,mittels,prep,B1,42.7288,0.8609,0,by means of,Die Feuerwehr rettet die Leute mittels Leiter aus dem Haus.,The fire brigade rescues the people from the house by means of a ladder.

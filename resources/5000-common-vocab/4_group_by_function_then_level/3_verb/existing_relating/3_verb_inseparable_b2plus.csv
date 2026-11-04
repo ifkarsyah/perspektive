@@ -1,0 +1,15 @@
+rank,word,pos,level,freq_per_million,dispersion,has_conjugation,is_separable,definition,example_de,example_en
+2517,"unterliegen, unterliegt, unterlag, hat unterlegen",verb,B2+,31.2458,0.8959,1,0,"to be defeated, be subject",Der Besuch in der Bibliothek unterliegt bestimmten Regeln.,The visit to the library is subject to certain rules.
+2522,"bedürfen, bedarf, bedurfte, hat bedurft",verb,B2+,31.1472,0.85,1,0,to require,Besondere Situationen bedürfen spezieller Lösungen.,Special situations require special solutions.
+2561,"gleichen, gleicht, glich, hat geglichen",verb,B2+,30.5558,0.9286,1,0,"to be alike, be just like",Agnes gleicht ihrer Mutter sehr.,Agnes is just like her mother.
+2829,"mangeln, mangelt, mangelte, hat gemangelt",verb,B2+,26.8595,0.9144,1,0,"to lack, be missing",An neuen Angeboten mangelt es in diesem Supermarkt nicht.,There is no shortage of new offers in this supermarket.
+2859,"überschreiten, überschreitet, überschritt, hat überschritten",verb,B2+,26.5146,0.9275,1,0,to exceed,Die finalen Kosten sollten 10.000 Euro nicht überschreiten.,"The final cost should not exceed 10,000 euros."
+2876,"basieren, basiert, basierte, hat basiert",verb,B2+,26.3174,0.8987,1,0,to be based on,Der Film basiert auf einer wahren Geschichte.,The movie is based on a true story.
+3053,"beinhalten, beinhaltet, beinhaltete, hat beinhaltet",verb,B2+,24.0997,0.854,1,0,"to contain, include",Das Angebot beinhaltet Flug und Unterkunft.,The offer includes flight and accommodation.
+3973,"bewähren (sich), bewährt, bewährte, hat bewährt",verb,B2+,16.7564,0.8603,1,0,to prove (oneself),"Kleine Jungen träumen davon, irgendwann ihren Mut zu bewähren.",Little boys dream of proving their courage at some point.
+4260,"erstrecken (sich), erstreckt, erstreckte, hat erstreckt",verb,B2+,15.1793,0.8812,1,0,"to extend, include",Das Geschäft erstreckt sich über drei Etagen.,The shop extends over three floors.
+4286,"haften, haftet, haftete, hat gehaftet",verb,B2+,15.0315,0.7831,1,0,"to adhere, be liable","Wenn etwas kaputt geht, haften die Eltern für ihre Kinder.","If something breaks, the parents are liable for their children."
+4591,"begünstigen, begünstigt, begünstigte, hat begünstigt",verb,B2+,13.6023,0.8571,1,0,"to favor, benefit",Bei dem Job werden Kandidaten aufgrund ihres Alters begünstigt.,Candidates are favored in the job because of their age.
+4664,"ähneln, ähnelt, ähnelte, hat geähnelt",verb,B2+,13.2573,0.9038,1,0,"to be similar, resemble","Tina und Barbara ähneln sich so sehr, dass viele sie für Schwestern halten.",Tina and Barbara resemble each other so much that many think they are sisters.
+4838,"ergehen, ergeht, erging, hat ergangen",verb,B2+,12.518,0.8968,1,0,"to fare, be enacted","Ich hoffe, es ergeht dir gut in deinem neuen Zuhause.",I hope you’re faring well in your new home.
+4908,"beeinträchtigen, beeinträchtigt, beeinträchtigte, hat beeinträchtigt",verb,B2+,12.2223,0.8823,1,0,"to affect, impair",Der Lärm beeinträchtigt meine Konzentration.,The noise is impairing my concentration.

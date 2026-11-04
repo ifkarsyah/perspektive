@@ -1,0 +1,25 @@
+rank,word,pos,level,freq_per_million,dispersion,has_conjugation,definition,example_de,example_en
+574,Daten,die (pl),B1,150.4134,0.8082,0,data,Er überprüft die Daten seines Experiments.,He’s checking the data from his experiment.
+784,"die Studie, -n",die,B1,109.4588,0.8531,0,study,Laut einer Studie ist der Virus sehr gefährlich.,"According to a study, this virus is very dangerous."
+791,"der Versuch, -e",der,B1,108.621,0.8802,0,"attempt, experiment",Louis besteht die Prüfung im letzten Versuch.,Louis passes the exam on his last attempt.
+860,"die Untersuchung, -en",die,B1,100.982,0.8509,0,examination,Thomas muss für seine Untersuchung zu einem speziellen Arzt gehen.,Thomas has to see a special doctor for his examination.
+1064,"die Theorie, -n",die,B1,81.6629,0.854,0,theory,Er kann die Theorie nicht beweisen.,He can’t prove the theory.
+1180,"die Gleichung, -en",die,B1,73.6789,0.7127,0,equation,Die Lehrerin erklärt die chemische Gleichung.,The teacher explains the chemical equation.
+1246,"der Forscher, -",der,B1,70.7712,0.6868,0,researcher,Die Forscherin beobachtet das Verhalten von Kindern.,The researcher observes the behavior of children.
+1304,"die Statistik, -en",die,B1,67.7649,0.565,0,statistics,Die Statistiken zeigen einen deutlichen Anstieg der Temperatur.,Statistics show a significant increase in temperature.
+1335,"die Forschung, -en",die,B1,66.4342,0.8895,0,research,Der Staat investiert in die Forschung.,The state invests in research.
+1381,"die Wahrscheinlichkeit, -en",die,B1,64.315,0.6205,0,probability,"Rauchen erhöht die Wahrscheinlichkeit, krank zu werden.",Smoking increases the probability of becoming ill.
+1445,"die Formel, -n",die,B1,61.5059,0.8517,0,formula,Die Formel zur Berechnung der Geschwindigkeit ist v = s/t.,The formula for calculating the velocity is v = s/t.
+1462,"die Wissenschaft, -en",die,B1,60.5202,0.8623,0,science,Biologie ist die Wissenschaft vom Leben.,Biology is the science of life.
+1522,"der Wissenschaftler, -",der,B1,57.5139,0.8166,0,"scholar, scientist",Johanna arbeitet als Wissenschaftlerin an der Universität.,Johanna works as a scientist at the university.
+1695,"das Experiment, -e",das,B1,50.4664,0.8218,0,experiment,"Der Lehrer zeigt in einem Experiment, wie zwei chemische Substanzen miteinander reagieren.",The teacher shows in an experiment how two chemical substances react with each other.
+1754,"die Berechnung, -en",die,B1,48.5936,0.8184,0,calculation,Nach den neuen Berechnungen der Manager kann sich die Firma einen zweiten Standort leisten.,"According to the new calculations of the managers, the company can afford a second location."
+1789,"die Variable, -n",die,B1,47.4601,0.5837,0,variable,"Die Variablen in der Gleichung sind X, Y und Z.","The variables in the equation are X, Y, and Z."
+2029,"die Messung, -en",die,B1,40.7082,0.7899,0,"measuring, measurement","Die Messung zeigt an, dass das Wasser 20 Grad warm ist.",The measurement shows that the water is 20 degrees.
+2126,"die Beobachtung, -en",die,B1,38.4412,0.8624,0,observation,Laut seiner Beobachtungen können auch einige Tiere lachen.,"According to his observations, some animals can also laugh."
+2178,"die Probe, -n",die,B1,37.5048,0.8198,0,"sample, test, rehearsal",Die Ärzte nehmen eine Probe seines Blutes.,The doctors are taking a sample of his blood.
+2376,"die Matrix, -zen",die,B1,33.4143,0.5759,0,matrix,Matrix ist ein Begriff aus der Biologie oder der Mathematik.,Matrix is a term from biology or mathematics.
+2397,"die Ableitung, -en",die,B1,33.0693,0.7431,0,derivation,Unser Mathematiklehrer bringt uns die Ableitung von Funktionen bei.,Our mathematics teacher teaches us the derivation of functions.
+2431,"der Vektor, -en",der,B1,32.5764,0.6213,0,vector,Ein Beispiel für einen Vektor ist die Geschwindigkeit.,An example of a vector is speed.
+3993,"die Erfindung, -en",die,B1,16.6578,0.8924,0,invention,Der Computer ist eine sehr nützliche Erfindung.,The computer is a very useful invention.
+4627,"die Recherche, -n",die,B1,13.4544,0.8898,0,research,Für meine Recherche gehe ich in die Bibliothek.,I’ll go to the library to do my research.

@@ -1,0 +1,4 @@
+rank,word,pos,level,freq_per_million,dispersion,has_conjugation,definition,example_de,example_en
+190,denen,pron,A1,453.1131,0.964,0,"whom, that","Das sind Klara und Lisa, mit denen ich zusammen in einer Wohnung lebe.","This is Klara and Lisa, with whom I live in an apartment."
+284,deren,pron,A1,308.1208,0.9483,0,whose,"Die Frau, deren Vater krank ist, ist traurig.",The woman whose father is ill is sad.
+331,dessen,pron,A1,252.3811,0.935,0,whose,"Der Mann, dessen Frau Geburtstag hat, hat ein Geschenk.",The man whose wife’s birthday it is has a present.

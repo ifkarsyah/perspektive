@@ -1,0 +1,4 @@
+rank,word,pos,level,freq_per_million,dispersion,has_conjugation,definition,example_de,example_en
+361,"das Auto, -s",das,A1,232.2241,0.9044,0,"automobile, car",Auf der Straße fahren viele Autos.,There are a lot of cars on the road.
+1562,"der Bus, -se",der,A1,55.8876,0.8895,0,bus,Der Bus fährt nur am Wochenende.,The bus only runs on weekends.
+2999,"das Taxi, -s",das,A1,24.8389,0.8613,0,taxi,Wir nehmen ein Taxi zum Flughafen.,We’re taking a taxi to the airport.

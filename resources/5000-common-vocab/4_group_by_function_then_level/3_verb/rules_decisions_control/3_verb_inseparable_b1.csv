@@ -1,0 +1,25 @@
+rank,word,pos,level,freq_per_million,dispersion,has_conjugation,is_separable,definition,example_de,example_en
+162,"führen, führt, führte, hat geführt",verb,B1,543.7455,0.9643,1,0,to lead,Jakob führt uns durch das Museum.,Jakob leads us through the museum.
+414,"entscheiden, entscheidet, entschied, hat entschieden",verb,B1,199.8941,0.9381,1,0,to decide,"Er kann sich nicht entscheiden, was er essen möchte.",He can’t decide what he wants to eat.
+939,"verhindern, verhindert, verhinderte, hat verhindert",verb,B1,92.7517,0.9338,1,0,to prevent,"Der Polizist regelt den Verkehr, um so einen Unfall zu verhindern.",The policeman regulates the traffic so as to prevent an accident.
+996,"schützen, schützt, schützte, hat geschützt",verb,B1,87.2812,0.9297,1,0,to protect,Wir schützen uns unter dem Dach vor dem Regen.,We protect ourselves from the rain under the roof.
+1039,"herrschen, herrscht, herrschte, hat geherrscht",verb,B1,83.6835,0.9457,1,0,to rule,Der König herrschte über ein großes Königreich.,The king ruled a great kingdom.
+1073,"beschließen, beschließt, beschloss, hat beschlossen",verb,B1,81.17,0.9105,1,0,to decide,"Sie beschließen, ein Haus zu kaufen.",They decide to buy a house.
+1089,"fördern, fördert, förderte, hat gefördert",verb,B1,79.9379,0.8853,1,0,"to promote, support",Die Organisation fördert das Bewusstsein für den Schutz der Umwelt.,The organization promotes awareness of environmental protection.
+1212,"zwingen, zwingt, zwang, hat gezwungen",verb,B1,72.299,0.9429,1,0,to force,"Markus möchte nicht zur Schule gehen, aber seine Mutter zwingt ihn.","Markus doesn’t want to go to school, but his mother forces him."
+1265,"vertreten, vertritt, vertrat, hat vertreten",verb,B1,69.9334,0.9121,1,0,"to represent, advocate, substitute","Frau Arnolds vertritt heute unseren Lehrer, weil er krank ist.",Mrs. Arnolds is substituting for our teacher today because he’s sick.
+1302,"leiten, leitet, leitete, hat geleitet",verb,B1,67.962,0.9448,1,0,to lead,Sie leitet den Kurs mit viel Energie.,She leads the course with a lot of energy.
+1364,"beeinflussen, beeinflusst, beeinflusste, hat beeinflusst",verb,B1,65.1529,0.8874,1,0,to influence,Werbung beeinflusst das Verhalten von Kunden.,Advertising influences the behavior of customers.
+1389,"sichern, sichert, sicherte, hat gesichert",verb,B1,64.0686,0.9147,1,0,"to secure, safeguard","Wir kaufen Kameras, um unser Haus zu sichern.",We buy cameras to secure our house.
+1689,"verpflichten, verpflichtet, verpflichtete, hat verpflichtet",verb,B1,50.6635,0.8555,1,0,"to obligate, oblige, commit","Der Vertrag verpflichtet Frau Meier dazu, 30 Stunden pro Woche zu arbeiten.",The contract obliges Ms. Meier to work 30 hours a week.
+1702,"beschränken, beschränkt, beschränkte, hat beschränkt",verb,B1,50.0721,0.8903,1,0,to restrict,Der Text beschränkt sich auf die wichtigsten Fakten.,The text restricts itself to the most important facts.
+1732,"begrenzen, begrenzt, begrenzte, hat begrenzt",verb,B1,49.0864,0.9071,1,0,"to limit, restrict",Sie möchten die wöchentliche Arbeitszeit auf 35 Stunden begrenzen.,They want to limit the weekly working hours to 35.
+1814,"regeln, regelt, regelte, hat geregelt",verb,B1,46.7208,0.884,1,0,"to control, regulate, direct",Ein Polizist regelt den Verkehr an der Kreuzung.,A police officer directs the traffic at the intersection.
+1908,"steuern, steuert, steuerte, hat gesteuert",verb,B1,43.7145,0.9283,1,0,"to steer, control","Über das Lenkrad kann man steuern, wohin das Auto fährt.",Via the steering wheel you can control where the car goes.
+2262,"verurteilen, verurteilt, verurteilte, hat verurteilt",verb,B1,35.7799,0.8585,1,0,to condemn,Der Mann wird vom Gericht zu 200 Stunden sozialer Arbeit verurteilt.,The man is sentenced by the court to 200 hours of community service.
+2356,"beherrschen, beherrscht, beherrschte, hat beherrscht",verb,B1,33.71,0.932,1,0,"to control, rule, master",Der König beherrscht die Menschen in seinem Land.,The king rules the people of his country.
+2455,"entschließen (sich), entschließt, entschloss, hat entschlossen",verb,B1,32.1329,0.9209,1,0,to decide,Sie entschließen sich das Haus zu verkaufen.,They decide to sell the house.
+2472,"bewahren, bewahrt, bewahrte, hat bewahrt",verb,B1,31.8865,0.9006,1,0,"to keep, protect","In der jetzigen Situation ist es wichtig, die Ruhe zu bewahren.","In the current situation, it is important to keep calm."
+3828,"beantragen, beantragt, beantragte, hat beantragt",verb,B1,17.6435,0.8503,1,0,to apply for,Familie Winter beantragt einen Kredit bei der Bank.,The Winter family applies for a loan from the bank.
+3842,"bestrafen, bestraft, bestrafte, hat bestraft",verb,B1,17.5449,0.886,1,0,to punish,Mein Ehemann bestraft mich nach jedem Streit mit Schweigen.,My husband punishes me with silence after every argument.
+4877,"behindern, behindert, behinderte, hat behindert",verb,B1,12.3209,0.9038,1,0,"to obstruct, impede",Du fährst zu langsam und behinderst dadurch den Verkehr.,You’re driving too slowly and you’re obstructing traffic.

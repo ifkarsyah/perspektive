@@ -1,0 +1,12 @@
+rank,word,pos,level,freq_per_million,dispersion,has_conjugation,is_separable,definition,example_de,example_en
+4,"sein, ist, war, ist gewesen",verb,A1,23948.8531,0.9668,1,0,to be,Ich bin Lehrer und du bist Polizist und damit sind wir glücklich.,"I’m a teacher, and you’re a police officer, and we’re happy with that."
+6,"haben, hat, hatte, hat gehabt",verb,A1,12452.0335,0.9416,1,0,to have,Ich habe ein Buch in der Hand.,I have a book in my hand.
+8,"werden, wird, wurde, ist geworden",verb,A1,10166.3113,0.9753,1,0,"to become, get",Der Junge wird zum Mann.,The boy becomes a man.
+23,"können, kann, konnte, hat können",verb,A1,5304.3403,0.9733,1,0,"to be able to, can",Die Kinder können schon Fahrrad fahren.,The children can already ride bicycles.
+43,"müssen, muss, musste, hat gemusst",verb,A1,2787.7246,0.9554,1,0,"to have to, must","Ich muss um neun zu Hause sein, sonst ist meine Mutter böse.",I have to be home by nine o’clock or my mother will be angry.
+57,"wollen, will, wollte, hat gewollt",verb,A1,2017.6689,0.9339,1,0,to want to,Die Kinder wollen spielen.,The children want to play.
+58,"machen, macht, machte, hat gemacht",verb,A1,1971.096,0.9287,1,0,"to do, make",Die Schüler machen ihre Aufgaben.,The students do their tasks.
+60,"sollen, soll, sollte, hat gesollt",verb,A1,1839.8539,0.9577,1,0,"should, ought to",Ihr sollt in der Bibliothek leise sein.,You should be quiet in the library.
+123,"tun, tut, tat, hat getan",verb,A1,753.2006,0.9301,1,0,to do,Heute habe ich nichts zu tun.,Today I have nothing to do.
+143,"dürfen, darf, durfte, hat gedurft",verb,A1,610.229,0.9515,1,0,to be allowed to may,Darf ich heute Abend mit Lisa ins Kino?,May I go to the movies with Lisa tonight?
+168,"mögen, mag, mochte, hat gemocht",verb,A1,515.0625,0.9271,1,0,to like,Mein Bruder mag meinen Freund nicht.,My brother doesn’t like my boyfriend.

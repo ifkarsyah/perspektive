@@ -1,0 +1,30 @@
+rank,word,pos,level,freq_per_million,dispersion,has_conjugation,definition,example_de,example_en
+70,zwei,num,A1,1571.2585,0.9697,0,two,"Anna hat zwei Schwestern, Tina und Sarah.","Anna has two sisters, Tina and Sarah."
+106,drei,num,A1,870.8898,0.9655,0,three,"Im Deutschen gibt es drei Artikel, der, die und das.","In German there are three articles, “der”, “die”, and “das”."
+200,vier,num,A1,423.74,0.9435,0,four,Oma hat vier Hunde.,Grandma has four dogs.
+274,fünf,num,A1,319.5546,0.9327,0,five,Ich bin in fünf Minuten bei dir.,I’ll be with you in five minutes.
+333,zehn,num,A1,252.2333,0.9292,0,ten,Ein Mensch hat zwei Hände und zehn Finger.,A human has two hands and ten fingers.
+428,sechs,num,A1,192.8466,0.9213,0,six,Drei plus drei ergibt sechs.,Three plus three equals six.
+611,sieben,num,A1,141.9367,0.9243,0,seven,Eine Woche hat sieben Tage.,A week has seven days.
+645,acht,num,A1,134.4456,0.9271,0,eight,Acht ist eine gerade Zahl.,Eight is an even number.
+774,eins,num,A2,110.6416,0.9349,0,one,Die Schule endet um eins.,School ends at one.
+1053,neun,num,A1,82.4514,0.9126,0,nine,Sie trägt das Kind neun Monate in ihrem Bauch.,She carries the baby for nine months in her belly.
+1080,zwölf,num,A1,80.825,0.92,0,twelve,Das Jahr hat zwölf Monate.,The year has twelve months.
+1107,hundert,num,A1,78.6566,0.9293,0,hundred,Sie zählt leise bis hundert.,She counts quietly to a hundred.
+1177,tausend,num,A1,74.0239,0.9262,0,thousand,Tausend Menschen nehmen an den Demonstrationen teil.,A thousand people take part in the demonstrations.
+1359,zwanzig,num,A1,65.3007,0.8856,0,twenty,Morgen wird Julia zwanzig.,Tomorrow Julia will be twenty.
+1507,elf,num,A1,58.0068,0.8928,0,eleven,Mein jüngerer Bruder ist elf Jahre alt.,My younger brother is eleven years old.
+1680,null,num,A1,50.9099,0.8758,0,zero,"Timur hat null Ahnung, was die Lösung ist.",Timur has zero idea what the solution is.
+2046,dreißig,num,B1,40.314,0.8746,0,thirty,Nick wird in diesem Jahr dreißig Jahre alt.,Nick turns thirty this year.
+2390,fünfzig,num,B1,33.2664,0.8925,0,fifty,Fünfzig plus fünfzig sind hundert.,Fifty plus fifty equals a hundred.
+2448,sechzig,num,B1,32.2314,0.9116,0,sixty,Eine Stunde hat sechzig Minuten.,An hour has sixty minutes.
+2609,siebzig,num,B2+,29.9151,0.9038,0,seventy,Tobias verkauft sein Fahrrad für siebzig Euro.,Tobias sells his bike for seventy euros.
+2858,fünfzehn,num,B2+,26.5146,0.8531,0,fifteen,Der Test dauert fünfzehn Minuten.,The test takes fifteen minutes.
+2907,vierzig,num,B2+,25.9724,0.8756,0,forty,Martin bezahlt für seine neuen Schuhe vierzig Euro.,Martin pays forty euros for his new shoes.
+3028,neunzig,num,B2+,24.5432,0.8946,0,ninety,Heute feiern wir den neunzigsten Geburtstag meiner Oma.,Today we celebrate my grandma’s ninetieth birthday.
+3301,achtzig,num,B2+,21.4383,0.9051,0,eighty,Meine Großmutter wird dieses Jahr achtzig.,My grandmother’s turning eighty this year.
+3741,achtzehn,num,B2+,18.1856,0.8803,0,eighteen,Mit achtzehn Jahren gilt man als erwachsen.,With eighteen years one is considered an adult.
+3950,vierzehn,num,B2+,16.9043,0.8184,0,fourteen,Ihr Baby ist vierzehn Monate alt.,Her baby is fourteen months old.
+4198,hunderttausend,num,B2+,15.5243,0.8641,0,hundred thousand,Ich bezahle für das neue Auto hunderttausend Euro.,I’m paying a hundred thousand euros for the new car.
+4772,dreizehn,num,B2+,12.8137,0.8606,0,thirteen,Mit ihren dreizehn Jahren gilt Maja nun offiziell als Jugendliche.,"At the age of thirteen, Maja is now officially considered a teenager."
+4924,sechzehn,num,B2+,12.173,0.8223,0,sixteen,Sie feiert heute ihren sechzehnten Geburtstag.,She’s celebrating her sixteenth birthday today.

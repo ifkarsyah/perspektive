@@ -1,0 +1,12 @@
+rank,word,pos,level,freq_per_million,dispersion,has_conjugation,definition,example_de,example_en
+574,Daten,die (pl),B1,150.4134,0.8082,0,data,Er überprüft die Daten seines Experiments.,He’s checking the data from his experiment.
+784,"die Studie, -n",die,B1,109.4588,0.8531,0,study,Laut einer Studie ist der Virus sehr gefährlich.,"According to a study, this virus is very dangerous."
+1064,"die Theorie, -n",die,B1,81.6629,0.854,0,theory,Er kann die Theorie nicht beweisen.,He can’t prove the theory.
+1304,"die Statistik, -en",die,B1,67.7649,0.565,0,statistics,Die Statistiken zeigen einen deutlichen Anstieg der Temperatur.,Statistics show a significant increase in temperature.
+1445,"die Formel, -n",die,B1,61.5059,0.8517,0,formula,Die Formel zur Berechnung der Geschwindigkeit ist v = s/t.,The formula for calculating the velocity is v = s/t.
+1695,"das Experiment, -e",das,B1,50.4664,0.8218,0,experiment,"Der Lehrer zeigt in einem Experiment, wie zwei chemische Substanzen miteinander reagieren.",The teacher shows in an experiment how two chemical substances react with each other.
+1789,"die Variable, -n",die,B1,47.4601,0.5837,0,variable,"Die Variablen in der Gleichung sind X, Y und Z.","The variables in the equation are X, Y, and Z."
+2178,"die Probe, -n",die,B1,37.5048,0.8198,0,"sample, test, rehearsal",Die Ärzte nehmen eine Probe seines Blutes.,The doctors are taking a sample of his blood.
+2376,"die Matrix, -zen",die,B1,33.4143,0.5759,0,matrix,Matrix ist ein Begriff aus der Biologie oder der Mathematik.,Matrix is a term from biology or mathematics.
+2431,"der Vektor, -en",der,B1,32.5764,0.6213,0,vector,Ein Beispiel für einen Vektor ist die Geschwindigkeit.,An example of a vector is speed.
+4627,"die Recherche, -n",die,B1,13.4544,0.8898,0,research,Für meine Recherche gehe ich in die Bibliothek.,I’ll go to the library to do my research.

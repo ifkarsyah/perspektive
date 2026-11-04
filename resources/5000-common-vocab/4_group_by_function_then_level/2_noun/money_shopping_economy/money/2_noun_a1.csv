@@ -1,0 +1,6 @@
+rank,word,pos,level,freq_per_million,dispersion,has_conjugation,definition,example_de,example_en
+235,"das Geld, -er",das,A1,366.0783,0.9209,0,money,Du gibst viel Geld aus.,You spend a lot of money.
+1856,"die Rechnung, -en",die,A1,45.2423,0.9173,0,"bill, calculation, invoice",Die Arztpraxis hat mir gestern eine Rechnung für die Untersuchung geschickt.,The doctor’s office sent me an invoice for the examination yesterday.
+2852,"die Kasse, -n",die,A1,26.6131,0.8749,0,"cash register, checkout","Wenn ich fertig mit dem Einkauf bin, gehe ich zur Kasse.","When I’m done shopping, I go to the checkout."
+3362,"das Konto, -en",das,A1,20.9455,0.8519,0,account,Ich muss Geld von meinem Konto abheben.,I need to withdraw money from my account.
+3488,"die Miete, -n",die,A1,20.0091,0.8771,0,rent,Jeden Monat müssen sie die Miete für ihre Wohnung bezahlen.,Every month they have to pay the rent for their apartment.

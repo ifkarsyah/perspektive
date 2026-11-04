@@ -1,0 +1,22 @@
+rank,word,pos,level,freq_per_million,dispersion,has_conjugation,definition,example_de,example_en
+178,stark,adj,A2,487.858,0.9498,0,strong,Herr Müller nimmt starke Schmerztabletten.,Mr. Müller takes strong pain killers.
+388,voll,adj,A2,215.2213,0.9425,0,full,Sprich nicht mit vollem Mund!,Don’t talk with your mouth full!
+567,fest,adj,A2,151.8426,0.9311,0,"firm, solid",Das Haus steht auf festem Boden.,The house is on solid ground.
+664,rein,adj,A2,132.1292,0.9487,0,"pure, clear, clean",Sie haben Ringe aus reinem Gold.,They have rings of pure gold.
+728,hart,adj,A2,120.5969,0.9416,0,hard,Er wirft mir einen harten Stein an den Kopf.,He’s throwing a hard rock at my head.
+874,leer,adj,A2,99.3064,0.9007,0,empty,Die Flasche ist leer.,The bottle is empty.
+887,kalt,adj,A2,98.2221,0.9127,0,cold,Meine Hände sind kalt.,My hands are cold.
+978,schwach,adj,A2,88.809,0.9109,0,weak,Andreas ist krank und fühlt sich sehr schwach.,Andreas is ill and feels very weak.
+1195,heiß,adj,A2,72.989,0.9207,0,hot,"Sei vorsichtig, der Tee ist heiß.","Be careful, the tea is hot."
+1260,frisch,adj,A2,70.0319,0.9162,0,fresh,Wir benutzten nur frische Lebensmittel.,We only use fresh food.
+1281,warm,adj,A2,68.9477,0.9057,0,warm,Draußen ist es warm.,It’s warm outside.
+1442,scharf,adj,A2,61.5552,0.9281,0,sharp,"Sei vorsichtig, das Messer ist sehr scharf.","Be careful, the knife is very sharp."
+2026,sauber,adj,A2,40.7575,0.9216,0,clean,"Das Haus ist bei mir immer sauber, wenn Besuch kommt.",My house is always clean when I’m getting company.
+2201,weich,adj,A2,37.012,0.8983,0,soft,Ein zu weiches Bett ist nicht gut für den Rücken.,A bed that is too soft is not good for the back.
+2363,trocken,adj,A2,33.6114,0.9077,0,dry,Im Winter ist meine Haut sehr trocken von der kalten Luft.,In winter my skin is very dry from the cold air.
+2441,sauer,adj,A2,32.33,0.8254,0,"sour, angry","Er ist sauer, weil sie nicht anruft.",He’s angry because she’s not calling.
+2730,kühl,adj,A2,28.1409,0.888,0,cool,Der Wein muss an einem kühlen und trockenen Platz liegen.,The wine must lie in a cool and dry place.
+2796,süß,adj,A2,27.3031,0.8843,0,sweet,"Ich gebe viel Zucker in den Tee, damit er süß ist.",I put a lot of sugar in the tea so it’s sweet.
+3116,nass,adj,A2,23.4097,0.8584,0,wet,Meine Haare sind nass vom Regen.,My hair is wet from the rain.
+3306,fett,adj,A2,21.3891,0.8631,0,"fat, greasy, rich",Dein Hund ist ganz schön fett. Bewegt er sich nicht genug?,Your dog is quite fat. Doesn’t it move enough?
+3869,schmutzig,adj,A2,17.4464,0.8826,0,dirty,Bitte wasche deine schmutzigen Hände.,"Please, wash your dirty hands."

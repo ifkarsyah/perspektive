@@ -1,0 +1,6 @@
+rank,word,pos,level,freq_per_million,dispersion,has_conjugation,definition,example_de,example_en
+999,"der Sprecher, -",der,A2,87.0348,0.8306,0,"speaker, spokesperson",Der Sprecher der Firma hat ein Interview.,The company spokesperson has an interview.
+1218,"die Nachricht, -en",die,A2,72.0033,0.9192,0,"news, message",Hast du meine Nachricht gelesen?,Did you read my message?
+2360,"die Sendung, -en",die,A2,33.71,0.7994,0,broadcast,Heute Abend kommt eine spannende politische Sendung im Fernsehen.,There’s an exciting political broadcast on TV tonight.
+2827,"der Fernseher, -",der,A2,26.9088,0.8237,0,television,Ich kaufe morgen einen Fernseher für unsere Wohnung.,I’m buying a television for our apartment tomorrow.
+3057,"die Zeitschrift, -en",die,A2,24.0997,0.8846,0,"magazine, journal",Ich lese eine interessante Zeitschrift aus dem Bereich Medizin.,I’m reading an interesting magazine in the field of medicine.

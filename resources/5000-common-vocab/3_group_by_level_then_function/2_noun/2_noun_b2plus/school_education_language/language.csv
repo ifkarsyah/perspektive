@@ -1,0 +1,9 @@
+rank,word,pos,level,freq_per_million,dispersion,has_conjugation,definition,example_de,example_en
+2740,"der Akzent, -e",der,B2+,28.0423,0.4207,0,accent,"Alienor spricht Spanisch, aber mit einem starken französischen Akzent.","Alienor speaks Spanish, but with a strong French accent."
+3682,"das Adjektiv, -e",das,B2+,18.5306,0.4711,0,adjective,"Adjektive wie “klein”, “rot” oder “schön” beschreiben Substantive genauer.","Adjectives like “small”, “red”, or “beautiful” describe nouns more precisely."
+3750,"das Attribut, -e",das,B2+,18.0871,0.5535,0,"adjunct, attribute",Tanja hat viele schöne Attribute.,Tanja has many beautiful attributes.
+4396,"das Substantiv, -e",das,B2+,14.5387,0.3523,0,noun,"Ein Substantiv bezeichnet eine Person, eine Sache oder ein Tier.","A noun refers to a person, thing, or animal."
+4557,"das Verb, -en",das,B2+,13.7994,0.635,0,verb,Das Verb steht in einem einfachen Satz an zweiter Position.,The verb is in second position in a simple sentence.
+4644,"die Handschrift, -en",die,B2+,13.3558,0.6158,0,handwriting,"Du musst deine Handschrift verbessern, ich kann nichts lesen.",You need to improve your handwriting; I can’t read anything.
+4714,"das Vokabular, -e",das,B2+,13.0601,0.2604,0,vocabulary,Mein Schüler hat ein großes Vokabular der deutschen Sprache.,My student has a great vocabulary in the German language.
+4846,"die Fachsprache, -n",die,B2+,12.4687,0.4078,0,technical language,"Ich verstehe den Artikel nicht, weil ich die Fachsprache nicht beherrsche.",I don’t understand the article because I haven’t mastered the technical language.

@@ -1,0 +1,21 @@
+rank,word,pos,level,freq_per_million,dispersion,has_conjugation,definition,example_de,example_en
+2589,"die Leiche, -n",die,B2+,30.1123,0.8305,0,corpse,Die Polizei findet die Leiche eines Mannes im Wald.,The police find the body of a man in the forest.
+3030,"das Symptom, -e",das,B2+,24.5432,0.7599,0,symptom,Jede Krankheit hat spezifische Symptome.,Each disease has specific symptoms.
+3125,"der Suizid, -e",der,B2+,23.3111,0.2547,0,suicide,Menschen mit psychischen Problemen begehen öfter Suizid als gesunde Menschen.,People with mental health problems commit suicide more often than healthy people.
+3209,"das Grab, -̈er",das,B2+,22.3747,0.8687,0,grave,Jeden Sonntag bringt sie frische Blumen ans Grab ihres Mannes.,Every Sunday she brings fresh flowers to her husband’s grave.
+3228,"die Behinderung, -en",die,B2+,22.1776,0.7862,0,"obstruction, handicap",Die großen Steine auf der Straße stellen eine Behinderung für die Fahrer dar.,The large stones on the road are a hindrance for the drivers.
+3344,"die Depression, -en",die,B2+,21.0934,0.7506,0,depression,Menschen mit Depression können Hilfe in einer Therapie finden.,People suffering from depression can find help in therapy.
+3387,"der Blutdruck, -̈e",der,B2+,20.7977,0.4306,0,blood pressure,Regelmäßige Bewegung senkt den Blutdruck.,Regular exercise lowers blood pressure.
+3692,"der Bruch, -̈e",der,B2+,18.4813,0.9018,0,"fracture, break",Der Bruch in meinem Bein heilt sehr schnell.,The fracture in my leg heals very fast.
+3752,"die Diagnose, -n",die,B2+,18.0871,0.8032,0,diagnosis,Morgen fährt er ins Krankenhaus und bekommt seine Diagnose.,Tomorrow he goes to the hospital and gets his diagnosis.
+3813,"der Krebs, -e",der,B2+,17.7421,0.8399,0,cancer,Jährlich erkranken viele Menschen an Krebs.,Many people contract cancer every year.
+4012,"das Antibiotikum, die Antibiotika",das,B2+,16.51,0.6218,0,antibiotic,Der Arzt verschreibt ihr ein Antibiotikum.,The doctor’s prescribing her an antibiotic.
+4055,"der Mediziner, -",der,B2+,16.3621,0.8324,0,"doctor, physician",Als Mediziner kannst du Menschen helfen.,"As a physician, you can help people."
+4241,"der Psychologe, -n",der,B2+,15.3272,0.8321,0,psychologist,Seit dem Tod meiner Eltern bekomme ich Hilfe von einem Psychologen.,"Since my parents died, I’ve had help from a psychologist."
+4257,"die Prävention, -en",die,B2+,15.2286,0.4005,0,prevention,Die Prävention von Gewalt ist wichtiger als die Strafe.,The prevention of violence is more important than punishment.
+4282,"der Stich, -e",der,B2+,15.0808,0.8493,0,"bite, sting",Mancher Stich von Insekten tut sehr weh.,Some insect bites hurt a lot.
+4326,der Diabetes,der,B2+,14.7851,0.63,0,diabetes,"Mein Vater hat Diabetes und muss immer darauf achten, was er isst.",My father has diabetes and always has to watch what he eats.
+4625,die Pflege,die,B2+,13.4544,0.8583,0,care,Diese Pflanze braucht viel Pflege.,This plant needs a lot of care.
+4707,das Insulin,das,B2+,13.0601,0.5007,0,insulin,"Weil mein Vater Diabetes hat, braucht er Insulin.","Because my father has diabetes, he needs insulin."
+4786,die Verletzte,der,B2+,12.8137,0.7926,0,injured,Im Krankenhaus kümmert man sich um die Verletzten.,The hospital takes care of the injured.
+5002,"das Präparat, -e",das,B2+,11.8281,0.7056,0,"preparation, compound",Ich stelle ein biologisches Präparat für das Experiment her.,I’m producing a biological preparation for the experiment.

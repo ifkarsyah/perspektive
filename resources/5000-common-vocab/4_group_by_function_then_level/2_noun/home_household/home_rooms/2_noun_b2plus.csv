@@ -1,0 +1,4 @@
+rank,word,pos,level,freq_per_million,dispersion,has_conjugation,definition,example_de,example_en
+3279,"der Zaun, -̈e",der,B2+,21.6848,0.8628,0,fence,Ein Zaun trennt unseren Garten vom Garten nebenan.,A fence separates our garden from the garden next door.
+3428,"die Haustür, -en",die,B2+,20.4034,0.847,0,front door,Mein Nachbar klingelt an der Haustür.,My neighbor rings at the front door.
+4656,"das Klo, -s",das,B2+,13.3066,0.8278,0,"toilet, john","Wenn ich nervös bin, muss ich immer aufs Klo.","When I’m nervous, I always have to go to the john."

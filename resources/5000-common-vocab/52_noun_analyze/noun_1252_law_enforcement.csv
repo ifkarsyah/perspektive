@@ -1,0 +1,67 @@
+rank,word,pos,level,freq_per_million,dispersion,has_conjugation,definition,example_de,example_en
+410,"der Flüchtling, -e",der,A2,201.5698,0.766,0,refugee,Viele Länder gewähren die Aufnahme von Flüchtlingen.,Many countries grant entry to refugees.
+546,"der Präsident, -en",der,A2,156.771,0.8327,0,president,Die Präsidentin regiert das Land.,The president rules the country.
+550,"die Polizei, -en",die,A1,156.081,0.8314,0,police,"Gehen Sie, sonst rufen wir die Polizei.","Go away, or we’re calling the police."
+683,"der Bürger, -",der,B1,129.2708,0.8188,0,citizen,Ferdinand ist ein Bürger von Berlin.,Ferdinand is a citizen of Berlin.
+839,"das Mitglied, -er",das,B1,102.5098,0.9105,0,member,Ich bin Mitglied einer Partei.,I’m a member of a party.
+1007,"das Opfer, -",das,B1,86.4434,0.8885,0,"sacrifice, victim",Der Krieg forderte viele Opfer.,The war claimed many victims.
+1018,"die Bevölkerung, -en",die,B1,85.2606,0.9159,0,"population, people",Frauen machen mehr als die Hälfte der Bevölkerung aus.,Women make up more than half of the population.
+1032,"das Volk, -̈er",das,B1,84.2749,0.875,0,people,Das Volk wählt das Parlament.,The people elect the parliament.
+1087,"der König, -e",der,B1,80.1844,0.7975,0,king,Der König lebt in einem Schloss.,The king lives in a castle.
+1140,"der Politiker, -",der,B1,76.0938,0.8825,0,politician,Die Zeitungen berichten über die Rede der Politikerin.,The newspapers are reporting on the politician’s speech.
+1267,"der Soldat, -en",der,B1,69.7855,0.8912,0,soldier,Soldaten tragen eine Uniform.,Soldiers wear uniforms.
+1351,die Abgeordnete,"der, die",B1,65.695,0.4644,0,"member of parliament, congress",Peter ist ein Abgeordneter der CDU.,Peter is a member of parliament for the CDU.
+1433,"der Polizist, -en",der,B1,61.6537,0.8664,0,"police officer, policeman",Der Polizist befragt den Verdächtigen.,The police officer is questioning the suspect.
+1600,"der Bürgermeister, -",der,B1,54.1133,0.8367,0,mayor,Der Bürgermeister unserer Stadt ist Mitglied der SPD.,The mayor of our town is a member of the SPD.
+1700,"der Ministerpräsident, -en",der,B1,50.1707,0.7792,0,"governor, minister president",Der Ministerpräsident besetzt ein öffentliches Amt im Parlament.,The minister president holds a public office in parliament.
+1720,"der Minister, -",der,B1,49.4314,0.8156,0,minister,Wir wählen einen neuen Minister für das Amt für Bildung.,We elect a new minister for the Office of Education.
+1806,die Beamte,"der, die",A1,46.9672,0.8743,0,"official, civil servant",Lehrer und Polizisten sind Beamte.,Teachers and police officers are civil servants.
+1854,"der Kandidat, -en",der,B1,45.2423,0.8099,0,candidate,Sie ist die beste Kandidatin für den Job.,She’s the best candidate for the job.
+1887,"der Anwalt, -̈e",der,B1,44.4538,0.8556,0,"attorney, lawyer",Der Anwalt verteidigt den Mann vor Gericht.,The lawyer defends the man in court.
+1983,"der Kanzler, -",der,B1,41.891,0.781,0,chancellor,Angela Merkel wurde im November 2005 zur Kanzlerin der Bundesrepublik Deutschland gewählt.,Angela Merkel was elected chancellor of the Federal Republic of Germany in November 2005.
+2053,"der Täter, -",der,B1,40.2154,0.8188,0,"culprit, perpetrator","Der Zeuge gibt an, den Täter zu kennen.",The witness claims to know the perpetrator.
+2101,"der Graf, -en",der,B1,38.9833,0.4963,0,"count, earl",Der Graf und die Gräfin wohnen in einem Schloss.,The count and the countess live in a castle.
+2209,"die Armee, -n",die,B1,36.7655,0.8646,0,army,In der Armee lernt er mit Waffen zu schießen.,In the army he learns to shoot with guns.
+2250,"der Bundeskanzler, -",der,B1,35.9277,0.8092,0,federal chancellor,Konrad Adenauer war der erste Bundeskanzler der BRD.,Konrad Adenauer was the first chancellor of West Germany.
+2286,"der Richter, -",der,B1,35.3363,0.8609,0,judge,"Ein Richter entscheidet, ob eine Person schuldig ist und wie sie bestraft wird.",A judge decide whether a person is guilty and how he or she will be punished.
+2518,"der Wähler, -",der,B2+,31.2458,0.6921,0,voter,Die Wähler warten auf die Umsetzung der Versprechen der Politiker.,The voters are waiting for the politicians’ promises to be fulfilled.
+2563,"der Kaiser, -",der,B2+,30.5065,0.6249,0,emperor,Kaiser Augustus regierte das Römische Reich.,Emperor Augustus ruled the Roman Empire.
+2618,"der Zeuge, -n",der,B1,29.8166,0.8688,0,witness,"Die Zeugin behauptet, den Täter nicht zu kennen.",The witness claims not to know who the perpetrator is.
+2647,"der Außenminister, -",der,B2+,29.3237,0.7647,0,foreign minister,Die Außenministerin trifft sich mit dem türkischen Präsidenten.,The foreign minister is meeting with the Turkish president.
+2667,"der Feind, -e",der,B2+,29.0773,0.8848,0,enemy,Nach dem Krieg schließen die ehemaligen Feinde Frieden.,"After the war, the former enemies make peace."
+2774,"der Terrorist, -en",der,B2+,27.5495,0.8135,0,terrorist,Terroristen sind für viel Leid verantwortlich.,Terrorists are responsible for much suffering.
+2843,"die Truppe, -n",die,B2+,26.7117,0.8476,0,"troops, unit",Die Freunde von Klara sind eine lustige Truppe.,Klara’s friends are a funny group.
+2893,"der Migrant, -en",der,B1,26.071,0.7274,0,migrant,Veronika unterrichtet eine Klasse syrischer Migranten.,Veronika teaches a class of Syrian migrants.
+3083,"der Mörder, -",der,B2+,23.8532,0.8027,0,murderer,Der Mörder muss für acht Jahre ins Gefängnis.,The murderer must go to prison for eight years.
+3221,die Bundeswehr,die,B2+,22.2762,0.7846,0,Armed Forces,Der Einsatz der Bundeswehr im Irak ist umstritten.,The deployment of the Bundeswehr in Iraq is disputed.
+3257,"der Innenminister, -",der,B2+,21.8326,0.7673,0,Minister of the Interior,Der Innenminister ist der Minister für innere Angelegenheiten.,The Minister of the Interior is the Minister for Internal Affairs.
+3299,"der Finanzminister, -",der,B2+,21.4876,0.8043,0,finance minister,Wolfgang Schäuble ist ein ehemaliger deutscher Finanzminister.,Wolfgang Schäuble is a former German finance minister.
+3418,"der Premier, -s",der,B2+,20.5512,0.7335,0,prime minister,Ein Premier ist in vielen Ländern der Regierungschef.,A prime minister is the head of government in many countries.
+3427,"der Vizepräsident, -en",der,B2+,20.4527,0.4487,0,vice president,"Wenn der Präsident zurücktritt, übernimmt der Vizepräsident seine Stelle.","If the president resigns, the vice president takes his place."
+3449,"der General, -e",der,B2+,20.2555,0.8263,0,general,"Er ist kein normaler Soldat, sondern ein General.","He’s not a regular soldier, he’s a general."
+3525,das Militär,das,B2+,19.7134,0.8394,0,military,Das Militär benötigt neue Waffen und Flugzeuge.,The military needs new weapons and planes.
+3541,"der Ermittler, -",der,B2+,19.5656,0.7466,0,investigator,Sie ist die zuständige Ermittlerin in diesem Fall.,She’s the investigator in charge of this case.
+3557,"der Regierungschef, -s",der,B2+,19.4177,0.7669,0,head of government,Sie strebt das Amt des Regierungschefs an.,She is striving for the office of head of government.
+3671,"der Prinz, -en",der,B2+,18.6292,0.7146,0,prince,Prinz Harry ist der Enkel von Königin Elizabeth.,Prince Harry ist the grandson of Queen Elizabeth.
+3778,"die Feuerwehr, -en",die,B1,17.9392,0.7457,0,fire brigade,"In meinem Haus brennt es, ich muss sofort die Feuerwehr rufen.",My house is on fire; I have to call the fire brigade right now.
+3790,"der Baron, -e",der,B2+,17.8899,0.4999,0,baron,Den Titel Baron bekamen früher nur reiche Menschen.,"In the past, only rich people got the title of baron."
+3822,"der Republikaner, -",der,B2+,17.6928,0.6431,0,Republican,Die Republikaner sind Anhänger der Republikanischen Partei der USA.,The Republicans are supporters of the Republican Party of the USA.
+3830,"der Offizier, -e",der,B2+,17.6435,0.7343,0,officer,Der Offizier gibt den Soldaten Anweisungen.,The officer gives instructions to the soldiers.
+3849,"der Asylbewerber, -",der,B2+,17.4957,0.7189,0,asylum seeker,"Ein Asylbewerber ist eine Person, die geflohen ist und in einem anderen Land einen Antrag auf Asyl stellt.",An asylum seeker is a person who fled and applies for asylum in another country.
+3878,"der Jurist, -en",der,B2+,17.3478,0.8892,0,"jurist, lawyer",Als Jurist kennt er das Grundgesetz sehr gut.,"As a lawyer, he knows the Basic Law very well."
+3992,"der Bundespräsident, -en",der,B2+,16.6578,0.7968,0,Federal President,"Der Bundespräsident besetzt in Deutschland das höchste Amt, das es in Deutschland gibt.",The Federal President holds the highest office in Germany.
+4186,"der Fürst, -en",der,B2+,15.5736,0.7056,0,prince,Der Titel eines Fürsten wird heute nicht mehr vergeben.,The title of prince is no longer awarded today.
+4349,"die Bande, -n",die,B2+,14.6865,0.8519,0,"gang, mob, clique",Durch den Zeugen kann die Polizei die gesamte kriminelle Bande fangen.,The witness enables the police to catch the entire criminal gang.
+4371,"der Demokrat, -en",der,B2+,14.6372,0.6826,0,democrat,In den USA gibt es zwei große Parteien: die Republikaner und die Demokraten.,There are two major parties in the USA: the Republicans and the Democrats.
+4386,"der Verteidiger, -",der,B2+,14.5879,0.8011,0,"defender, defense counsel",Vor Gericht braucht man einen Verteidiger.,You need counsel in court.
+4496,"der Staatsanwalt, -̈e",der,B2+,14.0951,0.8283,0,"public prosecutor, district attorney","Der Staatsanwalt entscheidet, ob ein Mensch angeklagt wird.",The prosecutor decides whether a person should be charged.
+4636,"der Sozialdemokrat, -en",der,B2+,13.4051,0.7617,0,Social Democrat,Die Sozialdemokraten stellen die Regierung.,The Social Democrats form the government.
+4655,"der Kämpfer, -",der,B2+,13.3066,0.781,0,"fighter, combatant","Mein Opa besiegt die Krankheit bestimmt, er ist ein wahrer Kämpfer.",My grandfather defeats the disease; he’s a true fighter.
+4669,"der Oberbürgermeister, -",der,B2+,13.2573,0.7301,0,"mayor, city mayor, lord mayor",In Deutschland haben größere Städte einen Oberbürgermeister.,"In Germany, larger cities have a lord mayor."
+4700,"der Rechtsanwalt, -̈e",der,B2+,13.1094,0.8191,0,lawyer,"Weil wir um das Erbe streiten, lassen wir uns von einem Rechtsanwalt beraten.","Because we are fighting over our inheritance, we seek advice from a lawyer."
+4733,"der Demonstrant, -en",der,B2+,12.9616,0.7702,0,demonstrator,"Heute gibt es viele Demonstranten in der Stadt, die mehr Geld von der Regierung fordern.",Today there are many demonstrators in the city demanding more money from the government.
+4867,"der Kulturstaatsminister, -",der,B2+,12.3702,0.2622,0,minister of culture,Sie arbeitet im Amt der Kulturstaatsministerin.,She works in the office of the minister of culture.
+4920,"die Jury, -s",die,B2+,12.173,0.7809,0,jury,In den USA trifft im Gericht eine Jury die Entscheidungen.,"In the USA, a jury makes the decisions in court."
+4974,"der Botschafter, -",der,B2+,11.9266,0.8314,0,ambassador,Als Botschafter muss er viel reisen.,"As an ambassador, he has to travel a lot."
+4975,die Delegierte,"der, die",B2+,11.9266,0.7632,0,delegate,Die Mitglieder des deutschen Bundestages sind Delegierte des Volkes.,The members of the German Bundestag are delegates of the people.
+4996,"der Premierminister, -",der,B2+,11.8773,0.8057,0,prime minister,Das Land wählt einen neuen Premierminister.,The country elects a new prime minister.

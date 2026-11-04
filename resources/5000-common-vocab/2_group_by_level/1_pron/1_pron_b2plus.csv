@@ -1,0 +1,15 @@
+rank,word,pos,level,freq_per_million,dispersion,has_conjugation,definition,example_de,example_en
+2545,wozu,pron,B2+,30.8515,0.9189,0,"what for, to what",Wozu brauchst du denn ein zweites Auto?,What do you need a second car for?
+2801,womit,pron,B2+,27.2538,0.8926,0,with what,Womit machst du das?,With what are you doing that?
+2834,dazwischen,pron,B2+,26.8103,0.9131,0,"in between, between (them), among (them)",Es passt nichts dazwischen.,Nothing fits in between.
+2900,hierfür,pron,B2+,26.0217,0.8594,0,"for this, for it",Was gibst du mir hierfür?,What are you giving me for it?
+2903,wodurch,pron,B2+,26.0217,0.835,0,"how, which",Wodurch entstehen Krankheiten?,How do diseases emerge?
+3004,keinerlei,pron,B2+,24.7403,0.9357,0,no . . . at all,Die Maschine weist keinerlei Mängel auf.,The machine has no defects at all.
+3064,etliche,pron,B2+,23.9518,0.9021,0,quite a few,Während ihrer Reise lernen sie etliche neue Orte kennen.,During their journey they get to know quite a few new places.
+3161,wofür,pron,B2+,22.9169,0.9189,0,for what,Wofür brauchst du zwei Handys?,What do you need two mobile phones for?
+3415,wonach,pron,B2+,20.6005,0.9022,0,"what . . . for, what . . . of",Wonach suchst du?,What are you looking for?
+3486,wovon,pron,B2+,20.0584,0.9148,0,"from what, about what",Wovon reden sie?,What are they talking about?
+3545,woran,pron,B2+,19.5656,0.9028,0,"on what, of what",Woran arbeitest du?,What are you working on?
+3604,wieviel,pron,B2+,19.122,0.8538,0,how much,Wieviel bezahlst du für die Reise?,How much are you paying for the trip?
+3652,"jegliche (r, s)",pron,B2+,18.777,0.9133,0,any,Jeglicher Kontakt mit den Bakterien macht dich krank.,Any contact with the bacteria will make you sick.
+4941,irgendjemand,pron,B2+,12.0745,0.8641,0,"someone, anyone","Ich hoffe, dass mir irgendjemand aus meiner Familie helfen kann.",I’m hoping someone in my family can help me.

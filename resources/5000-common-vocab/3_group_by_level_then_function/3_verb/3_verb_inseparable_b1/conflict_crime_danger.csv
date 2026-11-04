@@ -1,0 +1,15 @@
+rank,word,pos,level,freq_per_million,dispersion,has_conjugation,is_separable,definition,example_de,example_en
+613,"schlagen, schlägt, schlug, hat geschlagen",verb,B1,141.5917,0.9272,1,0,"to hit, beat","Wenn Tim wütend ist, schlägt er manchmal seine kleine Schwester.","When Tim’s angry, sometimes he hits his little sister."
+1054,"kämpfen, kämpft, kämpfte, hat gekämpft",verb,B1,82.205,0.9204,1,0,to fight,Die Hunde kämpfen miteinander.,The dogs are fighting with each other.
+1134,"töten, tötet, tötete, hat getötet",verb,B1,76.4388,0.8735,1,0,to kill,Seine Mutter wurde bei einem Unfall getötet.,His mother was killed in an accident.
+1336,"schießen, schießt, schoss, hat geschossen",verb,B1,66.3357,0.9048,1,0,to shoot,Der Polizist schießt mit seiner Waffe in die Luft.,The policeman shoots with his weapon into the air.
+1358,"retten, rettet, rettete, hat gerettet",verb,B1,65.35,0.9226,1,0,"to save, rescue",Die Ärztin hat ihm das Leben gerettet.,The doctor saved his life.
+1628,"zerstören, zerstört, zerstörte, hat zerstört",verb,B1,53.0291,0.9331,1,0,to destroy,Der Bau der neuen Straße zerstört den Wald.,The construction of the new street is destroying the forest.
+2054,"befreien, befreit, befreite, hat befreit",verb,B1,40.1661,0.9212,1,0,to free,Ann-Katrin befreit das Tier aus der Falle.,Ann-Katrin frees the animal from the trap.
+2057,"verteidigen, verteidigt, verteidigte, hat verteidigt",verb,B1,40.1168,0.8952,1,0,to defend,Der Anwalt verteidigt den Täter vor Gericht.,The lawyer defends the perpetrator in court.
+2499,"gefährden, gefährdet, gefährdete, hat gefährdet",verb,B1,31.5415,0.9109,1,0,to endanger,Rauchen gefährdet die Gesundheit.,Smoking endangers health.
+3122,"stehlen, stiehlt, stahl, hat gestohlen",verb,B1,23.3604,0.8947,1,0,to steal,Die Kinder stehlen Früchte aus dem Garten des Nachbarn.,The children are stealing fruit from the neighbor’s garden.
+3276,"schaden, schadet, schadete, hat geschadet",verb,B1,21.6848,0.9114,1,0,"to damage, harm",Rauchen schadet der Gesundheit.,Smoking damages your health.
+3354,"verhaften, verhaftet, verhaftete, hat verhaftet",verb,B1,21.0441,0.8637,1,0,to arrest,Die Polizei verhaftet den Täter.,The police arrest the perpetrator.
+3714,"siegen, siegt, siegte, hat gesiegt",verb,B1,18.3828,0.8021,1,0,"to win, triumph",Bei dem Spiel wird der Klügste siegen.,The smartest man will win the game.
+4560,"beschädigen, beschädigt, beschädigte, hat beschädigt",verb,B1,13.7501,0.8561,1,0,to damage,"Die Polizei kommt, weil Paul wütend ist und fremdes Eigentum beschädigt.",The police come because Paul is angry and damages other people’s property.

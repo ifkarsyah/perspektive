@@ -1,0 +1,11 @@
+rank,word,pos,level,freq_per_million,dispersion,has_conjugation,definition,example_de,example_en
+931,"das Interview, -s",das,A2,93.688,0.7656,0,interview,Der Künstler hat ein Interview zu seinem neuen Projekt.,The artist has an interview about his new project.
+999,"der Sprecher, -",der,A2,87.0348,0.8306,0,"speaker, spokesperson",Der Sprecher der Firma hat ein Interview.,The company spokesperson has an interview.
+1011,"der Titel, -",der,A2,85.8027,0.8951,0,title,Der Titel von Jane Austens erstem Roman ist Stolz und Vorurteil.,The title of Jane Austen’s first novel is Sense and Sensibility.
+1218,"die Nachricht, -en",die,A2,72.0033,0.9192,0,"news, message",Hast du meine Nachricht gelesen?,Did you read my message?
+1378,"der Artikel, -",der,A2,64.315,0.837,0,article,In der Zeitung steht ein interessanter Artikel über Leipzig.,The newspaper has an interesting article about Leipzig.
+2360,"die Sendung, -en",die,A2,33.71,0.7994,0,broadcast,Heute Abend kommt eine spannende politische Sendung im Fernsehen.,There’s an exciting political broadcast on TV tonight.
+2575,"das Radio, -s",das,A2,30.3094,0.8785,0,radio,"Wir schalten das Radio an, um die Nachrichten zu hören.",We switch on the radio to listen to the news.
+2827,"der Fernseher, -",der,A2,26.9088,0.8237,0,television,Ich kaufe morgen einen Fernseher für unsere Wohnung.,I’m buying a television for our apartment tomorrow.
+3057,"die Zeitschrift, -en",die,A2,24.0997,0.8846,0,"magazine, journal",Ich lese eine interessante Zeitschrift aus dem Bereich Medizin.,I’m reading an interesting magazine in the field of medicine.
+4219,"das Plakat, -e",das,A2,15.4258,0.8528,0,poster,"Um für sich zu werben, hängen Politiker Plakate von sich auf.",Politicians hang posters to promote themselves.

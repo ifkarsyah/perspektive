@@ -1,0 +1,15 @@
+rank,word,pos,level,freq_per_million,dispersion,has_conjugation,definition,example_de,example_en
+1417,"das Einkommen, -",das,B1,62.8365,0.689,0,income,"Je mehr Geld du verdienst, desto höher ist dein Einkommen.","The more money you earn, the higher your income."
+1524,"das Steuer, -",die,B1,57.4646,0.8415,0,tax,"Wer Geld verdient, muss Steuern auf sein Einkommen zahlen.",Anyone who earns money has to pay taxes on their income.
+1539,"die Mark, -",die,B1,56.9225,0.7112,0,Deutschmark,"Früher haben die Deutschen mit Mark bezahlt, jetzt bezahlen sie mit Euro.","In the past, Germans used to pay in Deutschmarks, but now they pay in euros."
+1563,"Franken, Fr.",der,B1,55.8876,0.6287,0,(Swiss) franc,In der Schweiz zahlt man mit Schweizer Franken.,In Switzerland you pay in Swiss francs.
+1967,"der Zins, -en",der,B1,42.4824,0.7321,0,interest,Der Kredit bei meiner Bank hat nur sehr geringe Zinsen.,The interest on the loan from my bank is very low.
+2136,"der Betrag, -̈e",der,B1,38.2933,0.8301,0,amount,Alexander bezahlt den Betrag von zehn Euro an der Kasse.,Alexander pays the amount of ten euros at the cash desk.
+2243,"der Lohn, -̈e",der,B1,36.1741,0.7822,0,"wage, pay, reward",Ich bekomme meinen Lohn am Ende des Monats.,I get my wages at the end of the month.
+2244,"das Vermögen, -",das,B1,36.1741,0.8429,0,"assets, fortune, ability","Das Gericht entscheidet darüber, wer der Erbe des Vermögens sein wird.",The court decides who will inherit the assets.
+2853,Schulden,die (pl),B1,26.6131,0.8734,0,debt,Die Schulden des Unternehmens betragen mehr als eine Millionen Euro.,The company’s debt amounts to more than one million euros.
+2874,"die Einnahme, -n",die,B1,26.3667,0.8508,0,"income, receipts, revenue","Das Unternehmen hat genug Einnahmen, um eine neue Maschine zu kaufen.",The company has enough income to buy a new machine.
+2998,"die Rente, -n",die,B1,24.8389,0.8077,0,"pension, retirement",Ute is 67 und freut sich auf die Rente.,Ute is 67 and is looking forward to retirement.
+3314,"die Zahlung, -en",die,B1,21.3398,0.7969,0,payment,Die Bank zieht die Zahlung an die Versicherung immer Ende des Monats ein.,The bank collects the insurance payment always at the end of the month.
+3904,"die Münze, -n",die,B1,17.1014,0.8904,0,coin,Die Münze hat einen Wert von zwei Euro.,The coin has a value of two euros.
+3922,"die Versicherung, -en",die,B1,17.0028,0.8094,0,"insurance, assurance",Die Versicherung trägt die Kosten für den Unfall.,The insurance covers the costs of the accident.

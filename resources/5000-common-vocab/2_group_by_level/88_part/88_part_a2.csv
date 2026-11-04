@@ -1,0 +1,4 @@
+rank,word,pos,level,freq_per_million,dispersion,has_conjugation,definition,example_de,example_en
+478,halt,part,A2,173.8724,0.715,0,"just, simply",Damit musst du halt umgehen können.,You just have to be able to handle it.
+587,ach,part,A2,147.0129,0.813,0,oh,"Ach, das ist ja lieb von dir!","Oh, that is so sweet of you!"
+616,am,part,A2,141.2467,0.9569,0,the (+superlative),Von allen Schülern läuft Niklas am schnellsten.,"Of all the students, Niklas runs fastest."

@@ -1,0 +1,6 @@
+rank,word,pos,level,freq_per_million,dispersion,has_conjugation,definition,example_de,example_en
+918,die Nähe,die,A2,95.1173,0.9446,0,"vicinity, proximity",Aufgrund ihrer Nähe zum Bahnhof ist die Wohnung teuer.,"Due to its proximity to the railway station, the apartment is expensive."
+1145,"das Zentrum, -en",das,A2,75.946,0.9174,0,center,Dirk arbeitet im Zentrum der Stadt.,Dirk works in the center of town.
+1694,"die Hauptstadt, -̈e",die,A2,50.5156,0.8624,0,capital city,Berlin ist die Hauptstadt von Deutschland.,Berlin is the capital city of Germany.
+2141,"der Park, -s",der,A2,38.1948,0.888,0,park,"Die Studenten treffen sich im Park, um die Sonne zu genießen.",The students meet in the park to enjoy the sun.
+4990,"die Kreuzung, -en",die,A2,11.8773,0.8394,0,intersection,"Ich überquere die Kreuzung, wenn kein Auto kommt.",I’ll cross the intersection if no car comes.

@@ -1,0 +1,6 @@
+rank,word,pos,level,freq_per_million,dispersion,has_conjugation,definition,example_de,example_en
+30,sein,pron,A1,4061.6553,0.9341,0,"his, its",Der Junge ärgert seine Schwester.,The boy annoys his sister.
+51,mein,pron,A1,2105.1965,0.8951,0,"my, mine",Anna ist meine kleine Schwester.,Anna is my little sister.
+86,unser,pron,A1,1171.0267,0.8989,0,our,Unser Verein hat das Spiel verloren.,Our club lost the game.
+233,dein,pron,A1,367.7046,0.8388,0,your,Dein Handy klingelt.,Your cell’s ringing.
+1309,euer,pron,A1,67.3706,0.8484,0,your,"Mama, Papa, kann ich mir euer Auto ausleihen?","Mom, Dad, can I borrow your car?"

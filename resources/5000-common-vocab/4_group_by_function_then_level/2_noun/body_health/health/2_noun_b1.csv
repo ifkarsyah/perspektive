@@ -1,0 +1,9 @@
+rank,word,pos,level,freq_per_million,dispersion,has_conjugation,definition,example_de,example_en
+540,"der Tod, -e",der,B1,158.0031,0.9139,0,death,Der Tod ihrer Mutter ist lange her.,Her mom’s death was a long time ago.
+1870,"die Behandlung, -en",die,B1,44.7988,0.8224,0,treatment,Ich muss zur Behandlung meiner Krankheit in eine Klinik.,I need to go to a clinic for the treatment of my illness.
+1918,"die Erkrankung, -en",die,B1,43.5174,0.7216,0,"illness, disease",Das frühe Erkennen von Erkrankungen kann Leben retten.,The early detection of diseases can save lives.
+2039,"die Verletzung, -en",die,B1,40.4618,0.8762,0,injury,Wegen ihrer schweren Verletzungen muss Karolin ins Krankenhaus.,"Because of her serious injuries, Karolin has to go to the hospital."
+2096,"die Geburt, -en",die,B1,39.0326,0.8715,0,birth,Sie sind gut auf die Geburt ihres Kindes vorbereitet.,They are well prepared for the birth of their child.
+4356,"das Gift, -e",das,B1,14.6865,0.8458,0,poison,"Die Tiere im Wald sterben an dem Gift, das aus der Fabrik in den Fluss gelangt.",The animals in the forest die of the poison that enters the river from the factory.
+4379,"die Betreuung, -en",die,B1,14.5879,0.8621,0,care,"Seit gestern übernehme ich die Betreuung meiner Oma, da sie sehr krank ist.","Since yesterday I have been taking care of my grandma, because she is very ill."
+4495,"die Schwangerschaft, -en",die,B1,14.0951,0.8029,0,pregnancy,"Während der Schwangerschaft trinke ich keinen Alkohol, weil es schlecht für mein Kind ist.",I don’t drink alcohol during pregnancy because it’s bad for my child.

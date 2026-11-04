@@ -1,0 +1,17 @@
+rank,word,pos,level,freq_per_million,dispersion,has_conjugation,definition,example_de,example_en
+1050,ernst,adj,B1,82.6978,0.9241,0,serious,"Wir müssen jetzt handeln, die Situation ist ernst.","We have to act now, the situation is serious."
+1588,ehrlich,adj,B1,54.4583,0.9025,0,honest,"Ich denke, dass sie nicht immer ehrlich zu mir ist.",I don’t think she’s always honest with me.
+1943,verrückt,adj,B1,43.0245,0.8931,0,"crazy, insane",Diese Idee ist vollkommen verrückt.,This idea is completely insane.
+2080,gerecht,adj,B1,39.5254,0.9015,0,"just, fair","Der Richter versucht, ein gerechtes Urteil zu sprechen.",The judge is trying to reach a fair verdict.
+2229,aufmerksam,adj,B1,36.4206,0.923,0,attentive,Paul ist ein sehr aufmerksamer Schüler.,Paul is a very attentive student.
+2248,ordentlich,adj,B1,36.0756,0.9357,0,"neat, proper, orderly","Jedes Kind braucht ein ordentliches Frühstück, um in der Schule aufmerksam zu sein.",Every child needs a proper breakfast to be attentive in school.
+2373,friedlich,adj,B1,33.4635,0.8979,0,peaceful,Die Kinder schlafen friedlich in ihren Betten.,The children sleep peacefully in their beds.
+2375,vernünftig,adj,B1,33.4635,0.8981,0,"sensible, reasonable","Daniel ist vernünftig und trinkt keinen Alkohol, wenn er Auto fährt.",Daniel is reasonable and doesn’t drink alcohol when he drives.
+2664,kreativ,adj,B1,29.1759,0.7893,0,creative,Wir suchen noch kreative Menschen mit neuen Ideen.,We are still looking for creative people with new ideas.
+2803,fair,adj,B1,27.1552,0.8284,0,fair,Die Entscheidung war nicht fair.,The decision was not fair.
+3412,treu,adj,B1,20.6498,0.9064,0,faithful,Die Band hat eine große und treue Gemeinde aus Fans in England.,The band has a large and faithful community of fans in England.
+3722,elegant,adj,B1,18.3335,0.8904,0,elegant,Die Königin bewegt sich sehr elegant.,The queen moves very elegantly.
+3792,gründlich,adj,B1,17.8899,0.9091,0,thorough,"Du musst deine Sätze in Zukunft gründlicher lesen, du hast zu viele Fehler gemacht.",You have to read your sentences more thoroughly in the future; you have made too many mistakes.
+3852,mutig,adj,B1,17.4957,0.888,0,courageous,Janosch ist ein mutiges Kind und traut sich deswegen mehr als andere Kinder.,Janosch is a courageous child and therefore dares more than other children.
+4048,zuverlässig,adj,B1,16.4114,0.9179,0,reliable,"Alexander ist sehr zuverlässig. Wenn er sagt, dass er etwas macht, dann tut er es auch.","Alexander is very reliable. If he says he’s doing something, he’s doing it."
+4735,höflich,adj,B1,12.9616,0.8753,0,polite,"Tom fragt sehr höflich, ob er sich setzen darf.",Tom asks very politely if he may sit down.

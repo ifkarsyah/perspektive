@@ -1,0 +1,8 @@
+rank,word,pos,level,freq_per_million,dispersion,has_conjugation,definition,example_de,example_en
+375,"die Tür, -en",die,A2,220.6425,0.866,0,door,"Ich schließe die Tür ab, wenn ich das Haus verlasse.",I’ll lock the door when I leave the house.
+674,"das Fenster, -",das,A2,130.8971,0.8544,0,window,Kannst du bitte das Fenster öffnen?,"Could you open the window, please?"
+1599,"der Keller, -",der,A2,54.1626,0.7398,0,cellar,Wir lagern unseren Wein im Keller.,We store our wine in the cellar.
+2555,"das Wohnzimmer, -",das,A2,30.6544,0.8554,0,living room,Im Wohnzimmer steht der Fernseher.,The TV is in the living room.
+3738,"das Schlafzimmer, -",das,A2,18.2349,0.7983,0,bedroom,Unser Haus hat drei Schlafzimmer.,Our house has three bedrooms.
+4935,"das Stockwerk, -e",das,A2,12.1238,0.8646,0,floor,Das Haus hat zwei Stockwerke.,The house has two floors.
+4954,"der Umzug, -̈e",der,A2,12.0252,0.8837,0,move,Meine Freunde helfen mir bei meinem Umzug in eine andere Wohnung.,My friends are helping with my move to another apartment.

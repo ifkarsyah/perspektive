@@ -1,0 +1,8 @@
+rank,word,pos,level,freq_per_million,dispersion,has_conjugation,definition,example_de,example_en
+303,anders,adv,A2,279.8813,0.9502,0,"different, differently",Meine Meinung ist anders als deine.,My opinion is different from yours.
+615,jedenfalls,adv,A2,141.3452,0.9154,0,in any case,"Es ist jedenfalls klar, dass Sandra eine gute Studentin ist.",It is in any case clear that Sandra is a good student.
+626,irgendwie,adv,A2,138.8811,0.8452,0,somehow,Irgendwie werden wir den Weg finden.,"Somehow, we’ll find the way."
+932,egal,adv,A2,93.5402,0.913,0,"(it’s all) the same, indifferent","Es ist mir egal, was andere Menschen über mich denken.",I’m indifferent to what other people think of me.
+955,immerhin,adv,A2,91.1746,0.932,0,after all,"Immerhin kann die Polizei verhindern, dass nicht mehr Menschen verletzt werden.","After all, the police can prevent more people from being injured."
+2368,hoffentlich,adv,A2,33.5621,0.8825,0,hopefully,Hoffentlich gibt es heute nicht wieder Regen.,Hopefully it won’t rain again today.
+2788,schade,adv,A2,27.3524,0.8825,0,(it’s a) pity,"Es ist so schade, dass Peter nicht zu meinem Geburtstag kommen kann.",It is such a pity Peter can’t come to my birthday.

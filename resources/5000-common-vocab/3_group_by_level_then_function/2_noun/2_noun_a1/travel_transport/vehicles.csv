@@ -1,0 +1,10 @@
+rank,word,pos,level,freq_per_million,dispersion,has_conjugation,definition,example_de,example_en
+361,"das Auto, -s",das,A1,232.2241,0.9044,0,"automobile, car",Auf der Straße fahren viele Autos.,There are a lot of cars on the road.
+675,"der Zug, -̈e",der,A1,130.4536,0.9233,0,train,Der Zug kommt um zwölf Uhr an.,The train arrives at twelve o’clock.
+1415,"die Bahn, -en",die,A1,62.8858,0.8609,0,"train, railway, way","Wir fahren mit dem Zug in den Urlaub, weil das Auto kaputt ist.",We’re going on vacation by train because the car broke down.
+1554,"der Fahrer, -",der,A1,56.3311,0.8627,0,driver,"Der Unfall wurde von einem Fahrer verursacht, der unter dem Einfluss von Alkohol stand.",The accident was caused by a driver under the influence of alcohol.
+1562,"der Bus, -se",der,A1,55.8876,0.8895,0,bus,Der Bus fährt nur am Wochenende.,The bus only runs on weekends.
+1776,"das Flugzeug, -e",das,A1,47.7558,0.9003,0,airplane,Mit dem Flugzeug kann man leicht von Kontinent zu Kontinent reisen.,You can easily travel from continent to continent by airplane.
+2138,"das Fahrrad, -̈er",das,A1,38.244,0.8756,0,bicycle,Ich fahre mit dem Fahrrad zur Universität.,I ride my bicycle to the university.
+2999,"das Taxi, -s",das,A1,24.8389,0.8613,0,taxi,Wir nehmen ein Taxi zum Flughafen.,We’re taking a taxi to the airport.
+3892,LKW (Lastkraftwagen),der,A1,17.2492,0.7871,0,truck,Der LKW transportiert die Milch von den Bauern zu den Läden.,The truck transports the milk from the farmers to the shops.

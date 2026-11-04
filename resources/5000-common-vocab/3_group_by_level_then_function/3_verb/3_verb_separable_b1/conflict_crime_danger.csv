@@ -1,0 +1,4 @@
+rank,word,pos,level,freq_per_million,dispersion,has_conjugation,is_separable,definition,example_de,example_en
+2193,"angreifen, greift an, griff an, hat angegriffen",verb,B1,37.1598,0.9066,1,1,to attack,Die Soldaten greifen die Stadt aus der Luft an.,The soldiers attack the city from the air.
+2475,"umbringen, bringt um, brachte um, hat umgebracht",verb,B1,31.8865,0.8169,1,1,to kill,Zu viel Arbeit wird dich irgendwann umbringen.,Too much work will kill you someday.
+3349,"festnehmen, nimmt fest, nahm fest, hat festgenommen",verb,B1,21.0441,0.7757,1,1,"to arrest, detain",Die Polizei verfolgt den Verbrecher und kann ihn festnehmen.,The police are following the criminal and can arrest him.

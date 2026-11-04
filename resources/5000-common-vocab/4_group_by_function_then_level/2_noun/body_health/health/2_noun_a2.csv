@@ -1,0 +1,5 @@
+rank,word,pos,level,freq_per_million,dispersion,has_conjugation,definition,example_de,example_en
+1132,"die Krankheit, -en",die,A2,76.6359,0.8133,0,"illness, disease",Er hat eine seltene Krankheit.,He has a rare disease.
+1483,"der Schmerz, -en",der,A2,59.3374,0.8871,0,"pain, grief",Der Patient hat starke Schmerzen und schreit.,The patient’s in a lot of pain and is screaming.
+1529,"das Krankenhaus, -̈er",das,A2,57.3168,0.8809,0,hospital,Sie arbeitet als Ärztin im Krankenhaus.,She works as a doctor in the hospital.
+1851,die Gesundheit,die,A2,45.2916,0.7838,0,health,Rauchen schadet der Gesundheit.,Smoking is harmful to health.

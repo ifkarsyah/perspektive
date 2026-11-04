@@ -1,0 +1,5 @@
+rank,word,pos,level,freq_per_million,dispersion,has_conjugation,is_separable,definition,example_de,example_en
+1200,"abgeben, gibt ab, gab ab, hat abgegeben",verb,A1,72.644,0.9215,1,1,"to give, hand in, submit",Morgen müssen wir einen Text bei Herrn Schneider abgeben.,Tomorrow we have to hand in a text to Mr. Schneider.
+1459,"mitnehmen, nimmt mit, nahm mit, hat mitgenommen",verb,A1,60.8159,0.908,1,1,to take (along),Sandra nimmt ihr Essen für die Arbeit von zu Hause mit.,Sandra takes food from home along to work.
+1828,"mitbringen, bringt mit, brachte mit, hat mitgebracht",verb,A1,46.228,0.9076,1,1,to bring,"Christine bringt ihre Kamera mit, um Fotos zu machen.",Christine brings her camera to take pictures.
+2377,"abholen, holt ab, holte ab, hat abgeholt",verb,A1,33.365,0.8909,1,1,"to get, fetch, pick up",Mein Papa holt mich immer von der Schule ab.,My dad always picks me up from school.

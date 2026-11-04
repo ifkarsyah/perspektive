@@ -1,0 +1,24 @@
+rank,word,pos,level,freq_per_million,dispersion,has_conjugation,definition,example_de,example_en
+2551,ernsthaft,adj,B2+,30.7037,0.9231,0,serious,Warum lachst du? Das ist eine ernsthafte Frage.,Why are you laughing? This is a serious question.
+2598,spontan,adj,B2+,30.0137,0.9105,0,spontaneous,"Es ist nur eine spontane Idee, kein konkreter Plan.","It’s just a spontaneous idea, not a concrete plan."
+2726,ironisch,adj,B2+,28.1902,0.5287,0,ironic,"Maria macht eine ironische Bemerkung, die sie eigentlich nicht so meint.",Maria makes an ironic remark that she doesn’t really mean.
+2917,konsequent,adj,B2+,25.7753,0.9045,0,consistent,Sie isst konsequent weniger süße Lebensmittel und verliert dadurch viel Gewicht.,She eats consistently less sweet food and thus loses a lot of weight.
+3079,diskret,adj,B2+,23.8532,0.6237,0,"discreet, confidential",Er gibt diskrete Informationen an die Presse weiter.,He passes on discreet information to the press.
+3181,sensibel,adj,B2+,22.6704,0.5958,0,sensitive,"Er reagiert immer so sensibel, wenn man ihn kritisiert.",He’s always so sensitive when you criticize him.
+3294,sorgfältig,adj,B2+,21.5369,0.9137,0,careful,Dieses umfangreiche Projekt erfordert sorgfältige Planung.,This extensive project requires careful planning.
+3430,aggressiv,adj,B2+,20.3541,0.9089,0,aggressive,"Der Polizei gelingt es, den aggressiven Mann zu beruhigen.",The police manage to calm the aggressive man down.
+3734,bescheiden,adj,B2+,18.2349,0.9129,0,modest,"Obwohl Edward reich ist, lebt er sehr bescheiden in einem kleinen Haus.","Although Edward is rich, he lives very modestly in a small house."
+4008,sachlich,adj,B2+,16.6086,0.8858,0,"objective, matter-of-fact",Ich finde seine sachliche Beurteilung und konstruktive Kritik sehr hilfreich.,I find his objective evaluation and constructive criticism very helpful.
+4069,brutal,adj,B2+,16.2636,0.8992,0,brutal,"Weil Maik schnell andere Menschen schlägt, gilt er als brutal.","Because Maik quickly beats other people, he is considered brutal."
+4071,großzügig,adj,B2+,16.2636,0.8888,0,generous,Danke für das großzügige Geschenk.,Thank you for the generous present.
+4075,strikt,adj,B2+,16.2636,0.8949,0,strict,Das Unternehmen hat strikte Regeln zur Verteilung der Aufgaben.,The company has strict rules for the distribution of tasks.
+4187,geschickt,adj,B2+,15.5736,0.9139,0,skilled,Paula ist sehr geschickt im Umgang mit Computern.,Paula is very skilled with computers.
+4392,naiv,adj,B2+,14.5387,0.8272,0,naive,"Du bist naiv, wenn du anderen Menschen glaubst, ohne selbst nachzudenken.",You’re naive when you believe other people without thinking for yourself.
+4437,kommunikativ,adj,B2+,14.3415,0.6157,0,communicative,"Till ist ein sehr kommunikatives Kind, er redet den ganzen Tag.","Till is a very communicative child, he talks all day."
+4485,empfindlich,adj,B2+,14.0951,0.8965,0,sensitive,Ich habe sehr empfindliche Haut und bekomme deswegen schnell blaue Flecken.,My skin is very sensitive and I get bruises quickly.
+4551,dominant,adj,B2+,13.7994,0.701,0,dominant,"Ich versuche, nicht mehr dominant zu sein und auch das zu machen, was andere wollen.",I try to stop being dominant and do what others want.
+4630,vornehm,adj,B2+,13.4544,0.9084,0,"noble, fine","Ich komme aus einer vornehmen Familie, mein Großvater ist ein Graf.",I come from a noble family; my grandfather is a count.
+4660,oberflächlich,adj,B2+,13.3066,0.7272,0,superficial,Ich habe nur wenig Zeit und kann den Text deshalb nur oberflächlich lesen.,I have little time and can therefore only read the text superficially.
+4712,selbstbewusst,adj,B2+,13.0601,0.8819,0,self-confident,Maria ist eine selbstbewusste Frau und setzt ihre Meinung durch.,Maria is a self- confident woman and asserts her opinion.
+4833,verlässlich,adj,B2+,12.5673,0.8735,0,reliable,"Pia ist meine beste Freundin, weil sie so verlässlich ist.",Pia is my best friend because she’s so reliable.
+4836,brav,adj,B2+,12.518,0.8824,0,"well-behaved, good","Weil Timo so brav ist, bekommt er ein Geschenk.","Because Timo is so well behaved, he gets a present."

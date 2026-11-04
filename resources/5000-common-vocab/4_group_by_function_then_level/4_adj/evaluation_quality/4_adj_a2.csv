@@ -1,0 +1,22 @@
+rank,word,pos,level,freq_per_million,dispersion,has_conjugation,definition,example_de,example_en
+580,schwierig,adj,A2,148.5406,0.9264,0,"difficult, hard, tough","Es ist schwierig, ein guter Vater zu sein.",It is difficult to be a good father.
+629,okay,adj,A2,137.3533,0.7821,0,okay,"Ist es okay, wenn wir “du” sagen?",Is it okay if we say “you”?
+661,wesentlich,adj,A2,132.5728,0.9162,0,"essential, fundamental",Das Medikament wird wesentlichen Einfluss auf die Gesundheit des Patienten haben.,The medication will have a significant impact on the patient’s health.
+742,notwendig,adj,A2,117.1963,0.9184,0,necessary,Geld ist notwendig für ein angenehmes Leben.,Money is necessary for a comfortable life.
+762,schlimm,adj,A2,113.2536,0.9175,0,"bad, serious","Es ist schlimm für die Familie, dass der Vater tot ist.",It’s bad for the family that the father is dead.
+810,interessant,adj,A2,106.4525,0.9041,0,interesting,Sie arbeiten an einem interessanten Projekt.,They’re working on an interesting project.
+840,praktisch,adj,A2,102.3127,0.92,0,practical,Mein neues Handy ist kleiner und praktischer.,My new phone is smaller and more practical.
+905,entscheidend,adj,A2,96.4479,0.9324,0,decisive,Die Diskussion wird einen entscheidenden Einfluss auf die Wahlen haben.,The discussion will have a decisive influence on the elections.
+958,komplex,adj,A2,90.6325,0.798,0,complex,"Das ist eine komplexe Aufgabe, für die ich viel Zeit brauche.",It’s a complex task I’m going to need a lot of time for.
+972,toll,adj,A2,89.2525,0.8712,0,"great, terrific",Wir hatten eine tolle Reise nach Prag.,We had a great trip to Prague.
+1211,gefährlich,adj,A2,72.299,0.935,0,dangerous,Das Schiff transportiert gefährliche Substanzen.,The ship transports dangerous substances.
+1379,berühmt,adj,A2,64.315,0.9161,0,famous,Bald ist Christoph ein berühmter Schauspieler.,Soon Christoph will be a famous actor.
+1766,dringend,adj,A2,48.1008,0.9304,0,urgent,Der Patient benötigt dringend Ruhe.,The patient urgently needs rest.
+1772,super,adj,A2,47.9529,0.8557,0,"super, great",Die Party war super und ich habe mich gut unterhalten.,"The party was great, and I had a good time."
+1810,spannend,adj,A2,46.8194,0.905,0,"exciting, thrilling",Die Handlung des Romans ist voller spannender Situationen.,The plot of the novel is full of exciting situations.
+1873,beliebt,adj,A2,44.7495,0.8756,0,popular,Der Professor ist bei seinen Studenten sehr beliebt.,The professor is very popular among his students.
+2200,schrecklich,adj,A2,37.012,0.8974,0,terrible,"Emilia kann nicht mehr schlafen, weil sie einen schrecklichen Traum hatte.",Emilia can’t sleep anymore because she had a terrible dream.
+3019,langweilig,adj,A2,24.5925,0.8976,0,boring,Mathe ist für viele Schüler ein langweiliges Fach.,Math is a boring subject for many students.
+3174,furchtbar,adj,A2,22.7197,0.894,0,terrible,Für Menschen und Tiere ist der Sturm eine furchtbare Katastrophe.,"For humans and animals, the storm is a terrible catastrophe."
+3369,bequem,adj,A2,20.8962,0.9016,0,comfortable,Unser neues Bett ist sehr bequem.,Our new bed is very comfortable.
+3381,nützlich,adj,A2,20.8469,0.9189,0,useful,"Ein Laptop ist sehr nützlich, wenn ich unterwegs im Zug arbeite.",A laptop is very useful when I’m working on the train.

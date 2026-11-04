@@ -1,0 +1,27 @@
+rank,word,pos,level,freq_per_million,dispersion,has_conjugation,is_separable,definition,example_de,example_en
+136,"zeigen, zeigt, zeigte, hat gezeigt",verb,A2,651.8244,0.9593,1,0,to show,Können Sie mir den Weg zeigen?,Could you show me the way?
+191,"nennen, nennt, nannte, hat genannt",verb,A2,449.1211,0.9608,1,0,"to name, call","Mein Freund heißt Alexander, aber alle nennen ihn Alex.","My friend’s name ist Alexander, but everybody calls him Alex."
+368,"reden, redet, redete, hat geredet",verb,A2,227.4436,0.9061,1,0,to talk,"Er hat jetzt keine Lust, darüber zu reden.",He doesn’t want to talk about it now.
+405,"bezeichnen, bezeichnet, bezeichnete, hat bezeichnet",verb,A2,203.5411,0.9056,1,0,"to call, name",Ärzte werden auch als Doktoren bezeichnet.,Physicians are also called doctors.
+435,"beschreiben, beschreibt, beschrieb, hat beschrieben",verb,A2,189.1503,0.9017,1,0,to describe,"Bitte beschreibe mir dein Haus, damit ich es finde.",Please describe your house so I can find it.
+530,"rufen, ruft, rief, hat gerufen",verb,A2,160.5658,0.8918,1,0,to call,"Die Mutter ruft laut die Kinder, damit sie wieder in das Haus gehen.",The mother calls out loudly to the children to go back in the house.
+591,"berichten, berichtet, berichtete, hat berichtet",verb,A2,146.2243,0.8876,1,0,to report,Die Zeitungen berichten von einem Unfall.,The newspapers report an accident.
+782,"betonen, betont, betonte, hat betont",verb,A2,109.6559,0.8399,1,0,to stress,Bei dem Wort “Sommer” solltest du die erste Silbe betonen.,In the word “Sommer” you should emphasize the first syllable.
+809,"überzeugen, überzeugt, überzeugte, hat überzeugt",verb,A2,106.6989,0.93,1,0,to convince,Tina überzeugt ihren Chef von ihrer Idee.,Tina convinces her boss of her idea.
+915,"bestätigen, bestätigt, bestätigte, hat bestätigt",verb,A2,95.5115,0.9122,1,0,"to confirm, endorse",Bitte bestätigen Sie Ihre Adresse.,Please confirm your address.
+925,"drohen, droht, drohte, hat gedroht",verb,A2,94.3287,0.9042,1,0,to threaten,Der Wert der Aktie droht seit gestern wieder zu sinken.,The value of the stock has been threatening to decline again since yesterday.
+997,"diskutieren, diskutiert, diskutierte, hat diskutiert",verb,A2,87.0841,0.9249,1,0,to discuss,Wir haben einige grundlegende Fragen diskutiert.,We have discussed some fundamental questions.
+1374,"begründen, begründet, begründete, hat begründet",verb,A2,64.6107,0.9071,1,0,to justify,"Ich möchte, dass du deine Meinung begründest.",I want you to justify your opinion.
+1515,"informieren, informiert, informierte, hat informiert",verb,A2,57.8589,0.9227,1,0,to inform,Die Zeitungen informieren über die aktuellen Nachrichten.,The newspapers inform about the latest news.
+1765,"übersetzen, übersetzt, übersetzte, hat übersetzt",verb,A2,48.15,0.7771,1,0,to translate,Sie hat mehrere spanische Romane ins Deutsche übersetzt.,She has translated several Spanish novels into German.
+1865,"beantworten, beantwortet, beantwortete, hat beantwortet",verb,A2,45.0452,0.9428,1,0,to answer,Er beantwortet meine Frage mit einem Ja.,He answers my question with a yes.
+1898,"unterhalten (sich), unterhält, unterhielt, hat unterhalten",verb,A2,44.1088,0.9092,1,0,"to amuse oneself, chat",Bärbel und Ronny unterhalten sich über politische Themen.,Bärbel and Ronny are chatting about political issues.
+1990,"vereinbaren, vereinbart, vereinbarte, hat vereinbart",verb,A2,41.6446,0.8573,1,0,to agree,"Ludwig und Christian vereinbaren, sich um acht Uhr an der Universität zu treffen.",Ludwig and Christian agree to meet at the university at eight o’clock.
+2157,"lügen, lügt, log, hat gelogen",verb,A2,37.9976,0.8722,1,0,to (tell a) lie,"Wenn Markus lügt, wird sein Gesicht rot.","When Markus lies, his face turns red."
+2288,"streiten, streitet, stritt, hat gestritten",verb,A2,35.287,0.9181,1,0,"to quarrel, argue","Er ist eine schwierige Person, weil er mit jedem streitet.",He’s a difficult person because he argues with everybody.
+2409,"raten, rät, riet, hat geraten",verb,A2,32.9214,0.9057,1,0,"to advise, guess","Er weiß die Antwort nicht, also muss er raten.","He doesn’t know the answer, so he has to guess."
+2701,"beraten, berät, beriet, hat beraten",verb,A2,28.5845,0.8887,1,0,"to advise, discuss","Als Verkäuferin ist es meine Aufgabe, meine Kunden zu beraten.",As a saleswoman it is my job to advise my customers.
+2882,"bedanken (sich), bedankt, bedankte, hat bedankt",verb,A2,26.2681,0.8345,1,0,to thank,Laura bedankt sich bei ihren Gästen für die vielen Geschenke.,Laura thanks her guests for the many gifts.
+3359,"notieren, notiert, notierte, hat notiert",verb,A2,20.9948,0.8993,1,0,to note,Ich notiere seine Telefonnummer.,I’ll note his phone number.
+4021,"schimpfen, schimpft, schimpfte, hat geschimpft",verb,A2,16.51,0.8833,1,0,"to scold, rant",Der Vater schimpft mit den frechen Kindern.,The father scolds the cheeky children.
+4249,"beschweren, beschwert, beschwerte, hat beschwert",verb,A2,15.2286,0.9085,1,0,"to weight, complain","Meine Nachbarn beschweren sich regelmäßig darüber, dass wir zu laut sind.",My neighbors regularly complain that we’re too loud.

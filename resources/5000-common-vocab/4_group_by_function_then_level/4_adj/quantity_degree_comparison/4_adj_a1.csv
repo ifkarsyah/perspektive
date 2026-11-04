@@ -1,0 +1,6 @@
+rank,word,pos,level,freq_per_million,dispersion,has_conjugation,definition,example_de,example_en
+102,wenig,adj,A1,887.9912,0.9623,0,few,"Es gibt nur wenige Menschen, denen er vertraut.",There are just a few people he trusts.
+141,gleich,adj,A1,631.5688,0.9579,0,"same, right away, just",Die zwei Schwestern tragen das gleiche Kleid.,The two sisters are wearing the same dress.
+182,"weitere (r, s)",adj,A1,477.952,0.9463,0,"additional, further",Weitere Informationen finden Sie im Internet.,Further information can be found on the internet.
+378,meiste,adj,A1,219.6075,0.9516,0,most,Am meisten gefällt mir das rote Kleid.,I like the red dress the most.
+642,normal,adj,A1,135.2341,0.9253,0,normal,Sein Verhalten ist normal für das Alter.,His behavior is normal for this age.

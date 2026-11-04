@@ -1,0 +1,6 @@
+rank,word,pos,level,freq_per_million,dispersion,has_conjugation,is_separable,definition,example_de,example_en
+1160,"auffallen, fällt auf, fiel auf, ist aufgefallen",verb,B1,74.911,0.9272,1,1,"to stand out, notice","Mir fällt erst jetzt auf, dass du blaue Augen hast.",I didn’t notice you had blue eyes until now.
+1542,"wahrnehmen, nimmt wahr, nahm wahr, hat wahrgenommen",verb,B1,56.7254,0.9206,1,1,"to perceive, detect","Es gibt Töne, die nicht mit dem menschlichen Ohr wahrgenommen werden können.",There are sounds that cannot be perceived with the human ear.
+2182,"zusehen, sieht zu, sah zu, hat zugesehen",verb,B1,37.4555,0.8828,1,1,to watch,Die Eltern möchten beim Training ihrer Kinder zusehen.,The parents would like to watch their children train.
+2401,"anhören, hört an, hörte an, hat angehört",verb,B1,33.02,0.9272,1,1,to listen to,Kannst du dir bitte meine Probleme anhören?,"Can you listen to my problems, please?"
+3239,"zuschauen, schaut zu, schaute zu, hat zugeschaut",verb,B1,22.1283,0.8723,1,1,to watch,Die Eltern schauen ihren Kindern beim Spielen zu.,The parents are watching their children play.

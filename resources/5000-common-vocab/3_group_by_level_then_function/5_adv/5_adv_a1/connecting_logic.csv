@@ -1,0 +1,6 @@
+rank,word,pos,level,freq_per_million,dispersion,has_conjugation,definition,example_de,example_en
+28,so,adv,A1,4519.3517,0.9377,0,"so, thus, the way, such",Ich beobachte Klaus und mache alles so wie er.,I watch Klaus and do everything the way he does.
+71,also,adv,A1,1568.2522,0.8418,0,so,Das ist also der neue Schüler.,"So, this is the new student."
+73,doch,adv,A1,1539.1749,0.9253,0,"however, but","Heute scheint die Sonne, doch ich bleibe zu Hause.","Today the sun is shining, but I’m staying at home."
+192,warum,adv,A1,447.7411,0.9159,0,why,Warum hast du mich angerufen?,Why did you call me?
+221,weiter,adv,A1,391.4593,0.9687,0,further,Weitere Informationen zu diesem Thema stehen im Internet.,Further information on this topic is available on the internet.

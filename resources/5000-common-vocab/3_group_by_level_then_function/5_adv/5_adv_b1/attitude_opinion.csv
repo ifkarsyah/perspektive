@@ -1,0 +1,14 @@
+rank,word,pos,level,freq_per_million,dispersion,has_conjugation,definition,example_de,example_en
+261,wohl,adv,B1,335.7689,0.9385,0,well,Er fühlt sich wohl.,He feels well.
+322,eher,adv,B1,260.2665,0.9457,0,"sooner, earlier, more likely, rather","Eher ziehe ich wieder zu meinen Eltern, als einen Tag länger bei dir zu wohnen.",I’d rather move back in with my parents than stay with you one day longer.
+754,übrigens,adv,B1,115.225,0.8923,0,by the way,Übrigens bleibt Florian doch in Deutschland.,"By the way, Florian is actually staying in Germany."
+1167,vermutlich,adv,B1,74.7139,0.9198,0,probably,Ich werde vermutlich zu Hause bleiben.,I’ll probably stay home.
+1272,sozusagen,adv,B1,69.5391,0.8237,0,so to speak,"Die Veranstaltung ist sozusagen nicht ganz offiziell, deswegen wissen nur wenige davon.","The event is not official, so to speak, which is why only a few people know about it."
+1428,möglicherweise,adv,B1,62.048,0.936,0,possibly,Der Zug kommt möglicherweise zehn Minuten später.,The train possibly arrives ten minutes later.
+1438,ohnehin,adv,B1,61.6044,0.9155,0,anyway,Das hätte uns ohnehin nichts genützt.,That wouldn’t have helped us anyway.
+1547,sowieso,adv,B1,56.5775,0.8731,0,anyway,"Ich kann dir Milch mitbringen, da ich sowieso einkaufen muss.","I can bring you some milk, because I have to go shopping anyway."
+1648,sicherlich,adv,B1,52.1913,0.86,0,certainly,"Auch wenn die Bahn schon über eine Stunde zu spät ist, kommt sie sicherlich noch.","Even if the train is over an hour too late, it is certainly still coming."
+2017,womöglich,adv,B1,40.9546,0.8805,0,possibly,"Womöglich fällt der Unterricht heute aus, weil die Lehrerin krank ist.",Possibly the lessons will be canceled today because the teacher is ill.
+2195,freilich,adv,B1,37.1105,0.8828,0,of course,Freilich kannst du aus meiner Flasche trinken.,Of course you can drink from my bottle.
+3619,irgend,adv,B1,19.0235,0.8404,0,some,Irgend so ein Stephan will dich sprechen.,Some Stephan wants to see you.
+4046,umsonst,adv,B1,16.4114,0.8908,0,"for free, in vain",Gäste des Hotels können den Parkplatz umsonst benutzen.,Hotel guests can use the parking lot for free.

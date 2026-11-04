@@ -1,0 +1,3 @@
+rank,word,pos,level,freq_per_million,dispersion,has_conjugation,definition,example_de,example_en
+134,"das Land, -̈er",das,A1,674.9384,0.91,0,"land, country, state",Welches Land würdest du gern besuchen?,Which country would you like to visit?
+140,Deutschland,das,A1,632.9488,0.8925,0,Germany,Meine Familie wohnt in einer kleinen Stadt im Westen von Deutschland.,My family lives in a small town in the west of Germany.

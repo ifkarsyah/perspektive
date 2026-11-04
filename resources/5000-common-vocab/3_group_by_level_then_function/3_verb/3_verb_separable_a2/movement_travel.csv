@@ -1,0 +1,3 @@
+rank,word,pos,level,freq_per_million,dispersion,has_conjugation,is_separable,definition,example_de,example_en
+483,"ausgehen, geht aus, ging aus, ist ausgegangen",verb,A2,171.4575,0.9242,1,1,"to go out, assume","Wir gehen davon aus, dass du kommst.",We assume you’ll be coming.
+2665,"einziehen, zieht ein, zog ein, hat eingezogen",verb,A2,29.1266,0.9109,1,1,to move in,Mein Großvater zieht für ein paar Wochen bei uns ein.,My grandfather’s moving in with us for a few weeks.

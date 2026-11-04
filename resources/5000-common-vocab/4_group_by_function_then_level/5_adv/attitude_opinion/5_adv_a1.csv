@@ -1,0 +1,5 @@
+rank,word,pos,level,freq_per_million,dispersion,has_conjugation,definition,example_de,example_en
+145,vielleicht,adv,A1,601.5551,0.9131,0,"perhaps, maybe",Vielleicht gibt es noch einen anderen Weg.,Maybe there’s another way.
+278,"gern, gerne",adv,A1,314.3798,0.9148,0,(with a verb) love to,Tom tanzt sehr gern.,Tom loves to dance.
+459,lieber,adv,A1,180.3778,0.9231,0,rather,Ich würde lieber am Meer wohnen.,I’d rather live by the sea.
+643,leider,adv,A1,134.8891,0.9115,0,unfortunately,"Daniel wollte kommen, aber er ist leider krank.","Daniel wanted to come, but unfortunately he’s ill."

@@ -1,0 +1,4 @@
+rank,word,pos,level,freq_per_million,dispersion,has_conjugation,definition,example_de,example_en
+707,Österreich,das,A2,125.3774,0.7633,0,Austria,Auch in Österreich spricht man Deutsch.,They also speak German in Austria.
+763,"die Schweiz, -en",die,A2,113.0565,0.7896,0,Switzerland,In der Schweiz spricht man insgesamt vier offizielle Sprachen.,Switzerland has a total of four official languages.
+813,Frankreich,das,A2,106.3046,0.9083,0,France,Paris ist die Hauptstadt von Frankreich.,Paris is the capital of France.

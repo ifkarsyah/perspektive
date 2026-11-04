@@ -1,0 +1,10 @@
+rank,word,pos,level,freq_per_million,dispersion,has_conjugation,definition,example_de,example_en
+620,"der Patient, -en",der,B1,140.8524,0.7609,0,patient,Die Ärztin untersucht jeden Tag viele Patienten.,The doctor examines many patients every day.
+1960,"die Medizin, -en",die,B1,42.6303,0.7736,0,medicine,Melanie studiert Medizin an der Humboldt- Universität in Berlin.,Melanie is studying medicine at the Humboldt University in Berlin.
+2177,"die Operation, -en",die,B1,37.5048,0.8335,0,"operation, surgery",Nach der Operation am Arm hat Jan keine Schmerzen mehr.,After his arm surgery Jan has not had any more pain.
+2202,"die Klinik, -en",die,B1,36.9627,0.8145,0,"clinic, hospital",Die Klinik ist auf Herzoperationen spezialisiert.,The clinic specializes in heart surgeries.
+2484,"die Therapie, -n",die,B1,31.7879,0.763,0,therapy,Die Therapie hat eine positive Wirkung.,The therapy has a positive effect.
+2720,"das Virus, -en",das,B1,28.338,0.5537,0,virus,Das Virus wird über den Kontakt übertragen.,The virus is transmitted through contact.
+3305,"die Droge, -n",die,B1,21.3891,0.8713,0,drug,Viele Drogen machen schnell abhängig.,A lot of drugs make you addicted fast.
+3740,"die Wunde, -n",die,B1,18.2349,0.8765,0,wound,Aus der frischen Wunde fließt Blut.,Blood flows from the fresh wound.
+4082,"die Infektion, -en",die,B1,16.2143,0.6827,0,infection,Sie untersuchen ihr Blut auf Anzeichen einer Infektion.,They’re checking her blood for signs of infection.

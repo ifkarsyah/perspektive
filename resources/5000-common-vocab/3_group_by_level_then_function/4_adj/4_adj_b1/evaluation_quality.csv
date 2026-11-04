@@ -1,0 +1,36 @@
+rank,word,pos,level,freq_per_million,dispersion,has_conjugation,definition,example_de,example_en
+516,positiv,adj,B1,164.5578,0.912,0,positive,Ich mag deine positive Haltung.,I like your positive attitude.
+735,erfolgreich,adj,B1,118.3791,0.9221,0,successful,"Er ist ein erfolgreicher Autor, viele Menschen lesen seine Bücher.",He is a successful author; many people read his books.
+817,negativ,adj,B1,105.7132,0.8806,0,negative,Die Wahl hat negative Auswirkungen auf die Stabilität des Landes.,The election has a negative impact on the stability of the country.
+1038,nötig,adj,B1,83.7328,0.9549,0,necessary,Ihm fehlen die nötigen Fähigkeiten für den Job.,He lacks the necessary skills for the job.
+1234,ideal,adj,B1,71.3133,0.7735,0,ideal,"Thomas wartet auf den idealen Moment, um seine Aktien zu verkaufen.",Thomas is waiting for the ideal moment to sell his shares.
+1241,kritisch,adj,B1,70.919,0.9162,0,critical,Im Interview mit dem Präsidenten spricht er besonders kritische Themen an.,"In an interview with the president, he addresses particularly critical issues."
+1354,sinnvoll,adj,B1,65.5471,0.9026,0,"sensible, meaningful",Sich um andere Menschen zu kümmern ist eine sinnvolle Arbeit.,Taking care of other people is a meaningful job.
+1567,perfekt,adj,B1,55.6411,0.9068,0,perfect,Niemand ist perfekt!,Nobody’s perfect!
+1682,unglaublich,adj,B1,50.8606,0.8977,0,incredible,Die Aktien sind in den letzten Tagen unglaublich gestiegen.,The shares have risen incredibly in the last few days.
+1725,erforderlich,adj,B1,49.2836,0.8282,0,"required, necessary",Herr Stein hat alle erforderlichen Voraussetzungen für den Job.,Mr. Stein has all the necessary requirements for the job.
+1829,seltsam,adj,B1,46.1787,0.8834,0,"strange, peculiar",Ich höre ein seltsames Geräusch aus dem Raum nebenan.,I hear a strange sound from the room next door.
+1868,kompliziert,adj,B1,44.9466,0.9369,0,complicated,Mathematik ist manchmal sehr kompliziert.,Mathematics is sometimes very complicated.
+1880,optimal,adj,B1,44.6016,0.7634,0,"best possible, optimum",Sein Trainingsplan garantiert ein optimales Ergebnis.,His training schedule guarantees an optimum result.
+2031,relevant,adj,B1,40.6589,0.8528,0,relevant,"Der Professor gibt uns Texte, die für die Prüfung relevant sind.",The professor gives us texts that are relevant for the exam.
+2088,ungewöhnlich,adj,B1,39.279,0.9321,0,unusual,Sabrina ist ungewöhnlich klug für ihr Alter.,Sabrina is unusually smart for her age.
+2108,grundlegend,adj,B1,38.8354,0.8814,0,"basic, fundamental",Das Gesetz wird eine grundlegende Veränderung bewirken.,The law will cause a fundamental change.
+2203,bedeutend,adj,B1,36.8641,0.9183,0,"important, significant",Schiller ist ein bedeutender deutscher Dichter.,Schiller is an important German poet.
+2214,angenehm,adj,B1,36.7163,0.9158,0,pleasant,Wir wünschen Ihnen eine angenehme Reise auf unserem Schiff.,We wish you a pleasant journey on our ship.
+2254,großartig,adj,B1,35.8784,0.8824,0,"great, splendid, superb, terrific",Das Konzert war großartig und ich werde es nie vergessen.,The concert was great and I will never forget it.
+2384,wahnsinnig,adj,B1,33.365,0.8441,0,insane,"Ich habe wahnsinnige Schmerzen, bitte helfen Sie mir.","I’m in insane pain, please help me."
+2385,erstaunlich,adj,B1,33.3157,0.9067,0,astonishing,"Es ist erstaunlich, wie schnell Kinder eine Sprache lernen.",It’s astonishing how quickly children learn a language.
+2411,wertvoll,adj,B1,32.9214,0.9082,0,valuable,Gold ist sehr wertvoll.,Gold is very valuable.
+2418,wirksam,adj,B1,32.8229,0.7743,0,effective,Das ist ein wirksames Medikament.,It’s an effective drug.
+2453,dramatisch,adj,B1,32.1329,0.8984,0,dramatic,Der dramatische Anstieg der Steuern bereitet der Bevölkerung Sorgen.,The dramatic increase in taxes is worrying the population.
+2470,verdammt,adj,B1,31.9357,0.8189,0,damned,Dieses verdammte Handy funktioniert nicht.,This damn cell phone isn’t working.
+2758,unheimlich,adj,B1,27.7959,0.8579,0,"eerie, scary, incredible, creepy",Sie wacht von einem unheimlichen Geräusch auf.,She wakes up to a creepy sound.
+2933,merkwürdig,adj,B1,25.6275,0.8853,0,strange,Der Zeuge erzählt von merkwürdigen Geräuschen in der Nacht der Tat.,The witness tells of strange noises on the night of the crime.
+2944,peinlich,adj,B1,25.4796,0.8926,0,embarrassing,Mein Verhalten ist mir sehr peinlich.,I’m very embarrassed about my behavior.
+3097,wunderschön,adj,B1,23.7547,0.8721,0,"wonderful, lovely",Er liest ihr ein wunderschönes Gedicht vor.,He’s reading her a beautiful poem.
+3352,tödlich,adj,B1,21.0441,0.9029,0,fatal,Diese Krankheit verläuft meist tödlich.,This disease is usually fatal.
+3665,vergeblich,adj,B1,18.6785,0.8968,0,futile,"Alle Versuche, einen Käufer für das Haus zu finden, sind bislang vergeblich.",All attempts to find a buyer for the house have been futile so far.
+3872,gemütlich,adj,B1,17.3971,0.8811,0,"comfortable, cozy",Dein Bett ist so gemütlich.,Your bed is so comfortable.
+4201,sinnlos,adj,B1,15.5243,0.891,0,meaningless,"Niko stellt nur sinnlose Fragen, auf die er die Antworten schon kennt.",Niko only asks meaningless questions to which he already knows the answers.
+4210,populär,adj,B1,15.475,0.8872,0,popular,"Je mehr Menschen unser Buch lesen, desto populärer wird es.","The more people read our book, the more popular it becomes."
+4891,ausgezeichnet,adj,B1,12.2716,0.9051,0,"excellent, outstanding",Er hat in der Schule nur ausgezeichnete Noten.,He has only excellent grades in school.

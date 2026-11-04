@@ -1,0 +1,10 @@
+rank,word,pos,level,freq_per_million,dispersion,has_conjugation,definition,example_de,example_en
+950,teuer,adj,A1,91.9138,0.9185,0,expensive,Die Milch ist teurer als letztes Jahr.,The milk is more expensive than last year.
+1033,kulturell,adj,A1,84.2256,0.7764,0,cultural,Die Stadt ist stolz auf ihr kulturelles Erbe.,The city ist proud of its cultural heritage.
+1475,arm,adj,A1,59.6824,0.9133,0,poor,"Sie ist zu arm, um Essen für ihre Kinder zu kaufen.",She’s too poor to buy food for her children.
+1526,günstig,adj,A1,57.3661,0.909,0,"cheap, favorable, good",Wir haben ein günstiges Angebot gefunden.,We found a cheap offer.
+1738,billig,adj,A1,48.9879,0.8999,0,cheap,Einige billige Produkte halten nicht sehr lange.,Some cheap products do not last very long.
+2541,selbstständig,adj,A1,30.8515,0.8896,0,"independent, self-employed",Frau Paget arbeitet als selbstständige Journalistin.,Mrs. Paget works as a self- employed journalist.
+2777,arbeitslos,adj,A1,27.4509,0.8608,0,unemployed,"Seit die Firma geschlossen hat, bin ich arbeitslos.",I’ve been unemployed since the company closed.
+3651,gültig,adj,A1,18.777,0.9115,0,valid,Mein Pass ist noch drei Jahre gültig.,My passport is still valid for three years.
+4027,bar,adj,A1,16.4607,0.823,0,cash,Bald bezahlt niemand mehr bar.,Soon nobody will pay with cash anymore.

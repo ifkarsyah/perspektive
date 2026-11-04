@@ -1,0 +1,16 @@
+rank,word,pos,level,freq_per_million,dispersion,has_conjugation,is_separable,definition,example_de,example_en
+49,"geben, gibt, gab, hat gegeben",verb,A1,2240.4306,0.9655,1,0,to give,Timo gibt dem Verkäufer die Bücher.,Timo gives the books to the seller.
+103,"finden, findet, fand, hat gefunden",verb,A1,885.1327,0.9628,1,0,to find,Ich kann meine Tasche nicht finden.,I can’t find my bag.
+142,"nehmen, nimmt, nahm, hat genommen",verb,A1,618.1144,0.9612,1,0,to take,Ich nehme ein Wasser.,I’ll take a water.
+163,"bringen, bringt, brachte, hat gebracht",verb,A1,536.2544,0.9571,1,0,"to bring, take",Der Mann bringt mir einen Kaffee an meinen Tisch.,The man brings me a coffee at my table.
+179,"brauchen, braucht, brauchte, hat gebraucht",verb,A1,487.0201,0.9283,1,0,to need,Brauchst du Hilfe?,Do you need any help?
+212,"bekommen, bekommt, bekam, hat bekommen",verb,A1,401.9074,0.94,1,0,"to get, receive",Natascha bekommt ein Fahrrad zu ihrem Geburtstag.,Natascha is getting a bike for her birthday.
+293,"suchen, sucht, suchte, hat gesucht",verb,A1,292.0051,0.9548,1,0,"to search, look for",Lisett sucht einen guten Job.,Lisett’s looking for a good job.
+372,"gewinnen, gewinnt, gewann, hat gewonnen",verb,A1,222.7124,0.8912,1,0,"to win, gain",Er gewinnt den ersten Preis im Wettbewerb.,He wins the first prize in the competition.
+420,"fehlen, fehlt, fehlte, hat gefehlt",verb,A1,198.2185,0.9515,1,0,"to lack, be missing, be absent",Anita ist krank und fehlt heute in der Schule.,Anita is ill and missing from school today.
+460,"gehören, gehört, gehörte, hat gehört",verb,A1,179.8357,0.9602,1,0,to belong,Das Buch gehört mir.,The book belongs to me.
+547,"holen, holt, holte, hat geholt",verb,A1,156.5739,0.9095,1,0,"to get, fetch",Ich muss ein Buch aus der Bibliothek holen.,I have to get a book from the library.
+724,"kriegen, kriegt, kriegte, hat gekriegt",verb,A1,121.3854,0.8452,1,0,"to get, receive",Das Restaurant kriegt positive Bewertungen von seinen Gästen.,The restaurant gets positive ratings from its guests.
+928,"schicken, schickt, schickte, hat geschickt",verb,A1,93.9837,0.929,1,0,to send,Kurts Vater schickt ihm jedes Jahr zu Weihnachten einen Brief.,Kurt’s father sends him a letter every Christmas.
+1119,"benutzen, benutzt, benutzte, hat benutzt",verb,A1,78.0652,0.9363,1,0,to use,"Tanja benutzt ihr Handy, um ihre E-Mails zu lesen.",Tanja uses her phone to read her e-mails.
+1945,"laden, lädt, lud, hat geladen",verb,A1,42.9753,0.9096,1,0,to load,Kräftige Männer laden die Ware auf den LKW.,Strong men are loading the goods onto the truck.

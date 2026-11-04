@@ -1,0 +1,15 @@
+rank,word,pos,level,freq_per_million,dispersion,has_conjugation,definition,example_de,example_en
+48,da,adv,A1,2326.4304,0.897,0,there,Da hinten steht mein Auto.,There’s my car over there.
+68,hier,adv,A1,1620.542,0.928,0,here,Hier ist mein Zimmer.,Here is my room.
+139,dort,adv,A1,633.2445,0.9422,0,there,Die Bibliothek ist dort drüben.,The library is over there.
+267,"allein, alleine",adv,A1,327.3414,0.9495,0,alone,Ohne Freunde ist man allein.,"Without friends, you’re alone."
+417,oben,adv,A1,199.5491,0.9437,0,"above, up there",Oben auf dem Dach sitzt ein Vogel.,There’s a bird up on the roof.
+533,zusammen,adv,A1,160.2701,0.9545,0,together,Sie wohnen zusammen.,They live together.
+710,unten,adv,A1,125.131,0.9298,0,down,Willi bringt das Fahrrad nach unten in den Keller.,Willi takes the bike down to the cellar.
+829,rechts,adv,A1,103.7419,0.9241,0,on/to the right,Das Haus ist auf der rechten Seite.,The house is on the right side.
+848,draußen,adv,A1,101.7706,0.8852,0,outside,Die Kinder spielen gern draußen.,The children like to play outside.
+893,links,adv,A1,97.3843,0.9218,0,on/to the left,Er dreht seinen Kopf nach links.,He turns his head to the left.
+965,weg,adv,A1,89.9918,0.8971,0,"gone, vanished",Mein Schlüssel ist weg!,My key’s gone!
+1159,hinten,adv,A1,74.9603,0.8846,0,at/in the back,Unsere Kinder sitzen hinten im Auto.,Our children are sitting in the back of the car.
+1683,zurück,adv,A1,50.8606,0.9089,0,back,Jan kommt aus dem Urlaub zurück nach Hause.,Jan comes back home from vacation.
+1745,ab,adv,A1,48.84,0.9223,0,"off, away","Kinder, es ist schon spät, ab ins Bett mit euch!","Kids, it’s getting late. Off to bed with you!"

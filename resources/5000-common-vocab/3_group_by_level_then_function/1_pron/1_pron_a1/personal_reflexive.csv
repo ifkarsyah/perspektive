@@ -1,0 +1,19 @@
+rank,word,pos,level,freq_per_million,dispersion,has_conjugation,definition,example_de,example_en
+7,sie,pron,A1,10186.3697,0.939,0,"she, her","Paul besucht Anna, sie ist Pauls Tante.",Paul visits Anna; she’s Paul’s aunt.
+10,ich,pron,A1,9785.5465,0.8909,0,I,Ich arbeite und du bleibst zu Hause.,I work and you stay home.
+12,es,pron,A1,8508.9052,0.9585,0,it,"Das Kind geht ins Bett, es ist müde.",The child goes to bed; she is tired.
+14,sich,pron,A1,7747.5728,0.9699,0,-self,Das Kind sieht sich im Spiegel.,The child sees itself in the mirror.
+15,er,pron,A1,6838.2418,0.9031,0,he,"Jan hat gute Noten in der Schule, er ist ein kluges Kind.",Jan has good grades in school; he’s a smart child.
+26,wir,pron,A1,4602.4438,0.9131,0,we,"Fernando und ich wollen Urlaub machen, wir fahren im Sommer.",Fernando and I are going on vacation; we’re going in summer.
+27,ihr,pron,A1,4598.9447,0.9505,0,"you, her",Das Mädchen ärgert ihren Bruder.,The girl annoys her brother.
+32,man,pron,A1,3629.1428,0.9452,0,"one, you, they",Hier erzählt man sich Geschichten.,They tell stories here.
+54,du,pron,A1,2042.0643,0.8295,0,you,Wer bist du?,Who are you?
+63,mir,pron,A1,1798.9978,0.8876,0,me,Gibst du mir dein Fahrrad?,Are you giving me your bike?
+65,mich,pron,A1,1683.8714,0.8906,0,me,Timo setzt sich neben mich an den Tisch.,Timo sits down next to me at the table.
+75,uns,pron,A1,1478.6546,0.9147,0,"us, we","Katharina besucht Max und mich, wir freuen uns darauf.","Katharina is visiting Max and me, we are looking forward to it."
+91,ihm,pron,A1,1083.8933,0.8931,0,him,Tom zieht zu Anna und sie gibt ihm die Schlüssel zu ihrer Wohnung.,Tom moves in with Anna and she gives him the keys to her apartment.
+92,ihn,pron,A1,1078.6693,0.8974,0,him,Ich treffe ihn immer am Donnerstag in der Universität.,I always meet him on Thursday at the university.
+125,ihnen,pron,A1,720.0328,0.9289,0,them,"Er gibt ihnen den Schlüssel, damit Tina und Erik in seiner Wohnung schlafen können.",He gives them the key so that Tina and Erik can sleep in his apartment.
+217,dich,pron,A1,399.4433,0.8229,0,"you, yourself",Ich hole dich gleich ab.,I’ll pick you up in a moment.
+244,dir,pron,A1,357.7494,0.829,0,you,"Ich möchte dir ein besonderes Geschenk kaufen, was wünschst du dir?","I want to buy you a special gift, what do you wish for?"
+495,euch,pron,A1,168.2541,0.8414,0,"you, yourselves",Ihr solltest euch mehr Zeit für euch nehmen.,You should take more time for yourselves.

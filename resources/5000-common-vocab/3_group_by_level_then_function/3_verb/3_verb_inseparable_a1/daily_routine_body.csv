@@ -1,0 +1,8 @@
+rank,word,pos,level,freq_per_million,dispersion,has_conjugation,is_separable,definition,example_de,example_en
+98,"leben, lebt, lebte, hat gelebt",verb,A1,927.5659,0.941,1,0,to live,Frauen leben länger als Männer.,Women live longer than men.
+323,"essen, isst, aß, hat gegessen",verb,A1,259.6751,0.8991,1,0,to eat,Morgen Abend essen wir Brot.,"Tomorrow evening, we will eat bread."
+560,"wohnen, wohnt, wohnte, hat gewohnt",verb,A1,153.7154,0.8886,1,0,to live,Juliane wohnt in einer großen Stadt.,Juliane lives in a big city.
+634,"trinken, trinkt, trank, hat getrunken",verb,A1,136.8112,0.8871,1,0,to drink,Ich trinke keinen Kaffee.,I don’t drink coffee.
+679,"schlafen, schläft, schlief, hat geschlafen",verb,A1,130.1086,0.8738,1,0,to sleep,Hast du gut geschlafen?,Did you sleep well?
+1481,"kochen, kocht, kochte, hat gekocht",verb,A1,59.436,0.8882,1,0,to cook,Ich koche gerne italienische Gerichte.,I like to cook Italian dishes.
+1665,"rauchen, raucht, rauchte, hat geraucht",verb,A1,51.452,0.8571,1,0,to smoke,In den meisten Restaurants darf man nicht mehr Zigaretten rauchen.,In most restaurants you are no longer allowed to smoke cigarettes.

@@ -1,0 +1,5 @@
+rank,word,pos,level,freq_per_million,dispersion,has_conjugation,definition,example_de,example_en
+320,"das Ziel, -e",das,A2,261.1536,0.925,0,"destination, goal",Berlin ist das Ziel unserer Reise.,Berlin is the destination of our journey.
+569,"der Begriff, -e",der,A2,151.6948,0.8889,0,"concept, idea, term",Ich kenne diesen Begriff nicht.,I don’t know that term.
+691,"das Mittel, -",das,A2,128.7287,0.9024,0,means,"Sie versuchen mit allen Mitteln, ihn zu finden.",They’re trying by any means necessary to find him.
+876,"das Verfahren, -",das,A2,99.1585,0.9045,0,"method, process, technique","Wir nutzen ein modernes Verfahren, um das Produkt herzustellen.",We use a modern process to manufacture the product.

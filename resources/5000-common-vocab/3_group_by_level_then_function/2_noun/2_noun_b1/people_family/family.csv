@@ -1,0 +1,10 @@
+rank,word,pos,level,freq_per_million,dispersion,has_conjugation,definition,example_de,example_en
+1131,"der Papa, -s",der,B1,76.7838,0.7538,0,daddy,Wo ist dein Papa?,Where’s your dad?
+1153,"die Generation, -en",die,B1,75.5024,0.8948,0,generation,Diese Musik ist bei der Generation meiner Mutter sehr beliebt.,This music is very popular with my mother’s generation.
+1826,"die Tante, -n",die,B1,46.3758,0.7694,0,aunt,Die Schwester meiner Mutter ist meine Tante.,My mother’s sister is my aunt.
+1832,"der Onkel, -",der,B1,46.0801,0.7721,0,uncle,Wir besuchen meine Tante und meinen Onkel am Sonntag.,We’re visiting my aunt and uncle on Sunday.
+2491,die Angehörige,"der, die",B1,31.6893,0.8986,0,"member, relative",Nur Freunde und enge Angehörige sind zur Hochzeit eingeladen.,Only friends and close relatives are invited to the wedding.
+4382,der Nachwuchs,der,B1,14.5879,0.8561,0,"offspring, new generation","Ich wünsche euch alles Gute zu eurem Nachwuchs und hoffe, dass das Kind gesund ist.",I wish you all the best for your offspring and hope that the child is healthy.
+4623,"der Enkel, -",der,B1,13.4544,0.8926,0,grandson,Ich bin der einzige Enkel meiner Großeltern.,I’m my grandparents’ only grandson.
+4642,"das Ehepaar, -e",das,B1,13.3558,0.8678,0,(married) couple,Dominik und Laura sind seit gestern ein Ehepaar.,Dominik and Laura have been a married couple since yesterday.
+4837,"der Cousin, -s",der,B1,12.518,0.7934,0,cousin,Der Sohn meiner Tante ist mein Cousin.,My aunt’s son is my cousin.

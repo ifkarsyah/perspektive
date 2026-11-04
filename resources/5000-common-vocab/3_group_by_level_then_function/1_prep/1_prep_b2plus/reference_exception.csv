@@ -1,0 +1,4 @@
+rank,word,pos,level,freq_per_million,dispersion,has_conjugation,definition,example_de,example_en
+4426,seitens,prep,B2+,14.3908,0.8776,0,"by, on the part of","Die Reaktionen seitens des Publikums zeigen, dass es ihnen gefällt.",The reactions on the part of the audience show that they like it.
+4474,anstelle,prep,B2+,14.1444,0.8803,0,instead of,Anstelle des Autos nehme ich jetzt immer den Bus.,"Instead of the car, I always take the bus."
+4976,entgegen,prep,B2+,11.9266,0.8904,0,contrary to,Entgegen meiner Erwartungen ist Tom sehr nett.,"Contrary to my expectations, Tom is very nice."

@@ -1,0 +1,5 @@
+rank,word,pos,level,freq_per_million,dispersion,has_conjugation,definition,example_de,example_en
+761,chemisch,adj,A2,113.9929,0.7315,0,chemical,Hinter der Entwicklung von Fotos steckt ein chemischer Prozess.,The development of photos is a chemical process.
+909,wissenschaftlich,adj,A2,96.3001,0.7604,0,"scientific, scholarly",Es gibt eine neue wissenschaftliche Studie zu diesem Thema.,There is a new scientific study about this topic.
+920,medizinisch,adj,A2,94.8216,0.4206,0,medical,Aus medizinischer Sicht ist eine große Operation im hohen Alter nicht sinnvoll.,"From a medical point of view, a major surgery in old age is not advisable."
+2309,schriftlich,adj,A2,34.7942,0.8331,0,written,"Seine Eltern müssen eine schriftliche Erklärung schicken, damit er teilnehmen darf.",His parents have to send a written declaration so that he can participate.

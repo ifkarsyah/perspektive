@@ -1,0 +1,22 @@
+rank,word,pos,level,freq_per_million,dispersion,has_conjugation,definition,example_de,example_en
+304,politisch,adj,B1,279.3392,0.8905,0,political,Ein Krieg hat oft politische Gründe.,War often has political reasons.
+430,sozial,adj,B1,191.9102,0.8789,0,social,"Jemand, der viele Freunde hat, lebt in einem guten sozialen Umfeld.",Someone who has a lot of friends lives in a good social environment.
+494,öffentlich,adj,B1,168.8948,0.8887,0,public,Sie ist eine Person des öffentlichen Lebens.,She’s a public figure.
+1151,gesellschaftlich,adj,B1,75.601,0.8596,0,social,Die Regierung reagiert auf die gesellschaftlichen Probleme.,The government reacts to social problems.
+1193,staatlich,adj,B1,73.0382,0.8795,0,"state, government, national",Die Bauern sind von staatlichen Subventionen abhängig.,Farmers are dependent on state subsidies.
+1287,offiziell,adj,B1,68.7013,0.9048,0,official,Nur wenige Journalisten dürfen an dem offiziellen Treffen teilnehmen.,Only a few journalists are allowed to attend the official meeting.
+1323,finanziell,adj,B1,66.8778,0.9017,0,financial,Sarah erhält finanzielle Unterstützung von ihren Eltern.,Sarah receives financial support from her parents.
+1644,gesetzlich,adj,B1,52.3391,0.8169,0,legal,Das Gericht entscheidet über eine neue gesetzliche Regelung.,The court decides on a new legal regulation.
+1773,ökonomisch,adj,B1,47.9036,0.8304,0,economic,Die ökonomische Situation des Landes hat sich verbessert.,The economic situation in the country has improved.
+1788,demokratisch,adj,B1,47.4601,0.8216,0,democratic,Man muss die Ergebnisse einer demokratischen Wahl akzeptieren.,You have to accept the results of a democratic election.
+1977,religiös,adj,B1,42.236,0.876,0,religious,Veronika ist sehr religiös und geht jeden Sonntag in die Kirche.,Veronika is very religious and goes to church every Sunday.
+1980,beruflich,adj,B1,42.1374,0.8703,0,professional,Timo ist beruflicher Erfolg wichtiger als eine eigene Familie.,To Timo professional success is more important than having your own family.
+1996,rechtlich,adj,B1,41.546,0.8564,0,legal,"Dem Vater ist es rechtlich erlaubt, seine Kinder am Wochenende zu besuchen.",The father is legally allowed to visit his children on weekends.
+2098,jüdisch,adj,B1,39.0326,0.8619,0,Jewish,Hannah Arendt war eine jüdische Philosophin und Autorin.,Hannah Arendt was a Jewish philosopher and author.
+2105,militärisch,adj,B1,38.934,0.8392,0,military,"Die Staaten wollen es vermeiden, den Konflikt militärisch zu lösen.",The states want to avoid resolving the conflict militarily.
+2124,heilig,adj,B1,38.4905,0.8747,0,holy,In Indien ist die Kuh ein heiliges Tier.,"In India, the cow is a holy animal."
+2279,moralisch,adj,B1,35.4349,0.8332,0,moral,"Es ist für sie eine moralische Pflicht, Geld zu spenden.","For her, it is a moral duty to donate money."
+2469,olympisch,adj,B1,31.9357,0.7334,0,Olympic,2012 fanden die olympischen Spiele in London statt.,In 2012 the Olympic Games took place in London.
+2473,illegal,adj,B1,31.8865,0.8649,0,illegal,Viele Menschen leben illegal in diesem Land.,Many people live illegally in this country.
+3674,schuldig,adj,B1,18.6292,0.9003,0,guilty,"Ich fühle mich schuldig, weil ich meinen Eltern eine Lüge erzähle.",I feel guilty about telling my parents a lie.
+4047,verdächtig,adj,B1,16.4114,0.8535,0,suspicious,Ihr Verhalten ist sehr verdächtig.,Your behavior is very suspicious.

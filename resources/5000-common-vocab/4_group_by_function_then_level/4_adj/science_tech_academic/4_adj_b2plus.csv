@@ -1,0 +1,43 @@
+rank,word,pos,level,freq_per_million,dispersion,has_conjugation,definition,example_de,example_en
+2527,formal,adj,B2+,31.0486,0.8311,0,"formal, technical",Die Arbeit muss formal richtig sein.,The work must formally be correct.
+2658,inhaltlich,adj,B2+,29.2744,0.842,0,in terms of content,"Inhaltlich ist der Text gut, aber formal gibt es einige Fehler.","In terms of its content, the text is good, but formally there are some mistakes."
+2729,experimentell,adj,B2+,28.1409,0.7729,0,experimental,"Der Patient wird mit einer experimentellen Methode behandelt, die vor Kurzem entwickelt wurde.",The patient is treated with an experimental method that was recently developed.
+2759,magnetisch,adj,B2+,27.7466,0.6358,0,magnetic,Um die Erde herum ist ein magnetisches Feld.,There is a magnetic field around the earth.
+2846,funktionell,adj,B2+,26.6624,0.6745,0,functional,Die Möbel von Egon Eiermann sind schön und funktionell.,Egon Eiermann’s furniture is beautiful and functional.
+2986,analytisch,adj,B2+,24.9375,0.6069,0,analytic,Ich benutze vorwiegend den analytischen Teil meines Gehirns.,I mainly use the analytic part of my brain.
+3010,kinetisch,adj,B2+,24.6911,0.6099,0,kinetic,Das Thema der heutigen Stunde ist die kinetische Energie.,The topic of today’s lesson is kinetic energy.
+3085,ökologisch,adj,B2+,23.804,0.8632,0,"ecological, organic",Der Staat fördert die ökologische Landwirtschaft.,The state promotes ecological agriculture.
+3164,qualitativ,adj,B2+,22.8676,0.8254,0,qualitative,Seine Forschung basiert auf qualitativen Methoden.,His research is based on qualitative methods.
+3200,radioaktiv,adj,B2+,22.4733,0.6724,0,radioactive,Marie Curie untersuchte radioaktive Substanzen.,Marie Curie studied radioactive substances.
+3211,quantitativ,adj,B2+,22.3747,0.7572,0,quantitative,Für die quantitative Analyse werden verschiedene Statistiken betrachtet.,Various statistics are considered for the quantitative analysis.
+3223,mechanisch,adj,B2+,22.2762,0.8026,0,mechanical,Das Auto hat ein mechanisches Problem.,The car has a mechanical problem.
+3258,klinisch,adj,B2+,21.8326,0.7425,0,clinical,Das Krankenhaus führt eine klinische Studie durch.,The hospital is conducting a clinical trial.
+3336,ästhetisch,adj,B2+,21.1426,0.7082,0,aesthetic,Die Kritiker bewundern das Gemälde wegen seines ästhetischen Wertes.,The critics admire the painting for its aesthetic value.
+3346,strukturell,adj,B2+,21.0934,0.8504,0,structural,Die strukturellen Änderungen haben Auswirkung auf die Mitarbeiter.,The structural changes have an impact on the employees.
+3403,kognitiv,adj,B2+,20.6991,0.6029,0,cognitive,Das Kind verfügt über sehr gute kognitive Fähigkeiten.,The child has very good cognitive abilities.
+3411,psychologisch,adj,B2+,20.6498,0.8423,0,psychological,Ihr neuer Roman ist ein psychologischer Thriller.,Her new novel is a psychological thriller.
+3553,akademisch,adj,B2+,19.4177,0.8329,0,academic,Alle Kandidaten haben sehr gute akademische Qualifikationen.,All candidates have very good academic qualifications.
+3587,variabel,adj,B2+,19.2206,0.6678,0,variable,Die Höhe des Tisches ist variabel.,The height of the table is variable.
+3594,proportional,adj,B2+,19.1713,0.7154,0,proportional,Das Glück einer Person ist nicht proportional zu ihrem Einkommen.,A person’s happiness is not proportional to their income.
+3598,operativ,adj,B2+,19.122,0.8032,0,operative,Bei dieser Krankheit ist ein operativer Eingriff notwendig.,For this disease an operative intervention is necessary.
+3688,physiologisch,adj,B2+,18.5306,0.6916,0,physiological,Sie untersuchen die physiologischen Auswirkungen der Krankheit auf den Körper.,They examine the physiological effects of the disease on the body.
+3913,symbolisch,adj,B2+,17.0521,0.8745,0,symbolic,"Brot und Salz mitzubringen, ist eine symbolische Geste nach einem Umzug.",Bringing bread and salt is a symbolic gesture after one moves into a new house.
+3988,thermisch,adj,B2+,16.7071,0.6446,0,thermal,Wir untersuchen die thermische Energie von bestimmten Stoffen.,We study the thermal energy of certain substances.
+4064,molekular,adj,B2+,16.3129,0.7433,0,molecular,Molekulare Vorgänge beziehen sich auf sehr kleine Teilchen.,Molecular processes refer to very small particles.
+4088,live,adj,B2+,16.165,0.8598,0,live,Das Spiel wird live im Fernsehen gezeigt.,The game will be shown live on TV.
+4127,elektromagnetisch,adj,B2+,15.9186,0.6247,0,electromagnetic,"Das Licht, das wir sehen, ist eine elektromagnetische Strahlung.",The light we see is electromagnetic radiation.
+4146,philosophisch,adj,B2+,15.7707,0.7531,0,philosophical,"Ben macht es Spaß, philosophische Fragen zu diskutieren.",Ben enjoys discussing philosophical questions.
+4154,fachlich,adj,B2+,15.7215,0.8228,0,"specialist, technical, professional",Unsere Kunden können sich auf unsere fachliche Kompetenz verlassen.,Our customers can rely on our professional competence.
+4185,ärztlich,adj,B2+,15.5736,0.7162,0,medical,Auf ärztlichen Rat hin darf ich das Bett nicht verlassen.,"On medical advice, I cannot leave the bed."
+4193,anorganisch,adj,B2+,15.5243,0.5454,0,inorganic,"Anorganische Stoffe sind Elemente in der Chemie, die keinen Kohlenstoff enthalten.",Inorganic substances are elements in chemistry that do not contain carbon.
+4224,intellektuell,adj,B2+,15.3765,0.8157,0,intellectual,"Um intellektuell zu wirken, trage ich jetzt eine Brille.","To make me look intellectual, I wear glasses now."
+4227,motorisch,adj,B2+,15.3765,0.5438,0,motor,Nach meinem Unfall muss ich die motorischen Fähigkeiten meiner Hand trainieren.,"After my accident, I have to train the motor skills of my hand."
+4427,verbal,adj,B2+,14.3908,0.7781,0,verbal,Ich kann meine Gefühle nicht verbal ausdrücken.,I can’t express my feelings verbally.
+4479,organisatorisch,adj,B2+,14.1444,0.7464,0,organizational,Aus organisatorischen Gründen müssen wir die Veranstaltung verschieben.,For organizational reasons we have to postpone the event.
+4511,naturwissenschaftlich,adj,B2+,13.9965,0.6281,0,scientific,Aus naturwissenschaftlicher Sicht gibt es Gott nicht.,"From a scientific point of view, God does not exist."
+4531,pädagogisch,adj,B2+,13.898,0.8098,0,pedagogical,"Um mit Kindern zu arbeiten, brauchst du eine pädagogische Ausbildung.","To work with children, you need a pedagogical education."
+4587,technologisch,adj,B2+,13.6515,0.8198,0,technological,Die technologische Entwicklung in den letzten Jahren ist enorm.,The technological development in recent years has been enormous.
+4662,semantisch,adj,B2+,13.3066,0.4305,0,semantic,"Was du sagst, ist semantisch nicht korrekt.",What you’re saying is semantically incorrect.
+4754,visuell,adj,B2+,12.9123,0.6628,0,visual,Das Auge empfängt visuelle Reize.,The eye receives visual stimuli.
+4806,funktional,adj,B2+,12.7152,0.7981,0,functional,Das Kleid hat einen funktionalen Stil.,The dress has a functional style.
+4922,nominal,adj,B2+,12.173,0.3825,0,nominal,Der nominale Wert dieser Aktien ist recht gering.,The nominal value of these shares are relatively low.

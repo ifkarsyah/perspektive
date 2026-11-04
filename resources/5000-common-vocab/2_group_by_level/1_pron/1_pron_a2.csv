@@ -1,0 +1,12 @@
+rank,word,pos,level,freq_per_million,dispersion,has_conjugation,definition,example_de,example_en
+100,etwas,pron,A2,919.1877,0.9305,0,"something, some, a little",Jeder macht die Welt etwas besser.,Everybody makes the world a little better.
+101,"selbst, selber",pron,A2,905.0433,0.9552,0,-self,"Es ist wichtig, sich selbst zu lieben.",It is important to love yourself.
+129,dabei,pron,A2,694.6025,0.9719,0,"with it, there",Lisa ist auch dabei.,Lisa will be there too.
+175,dafür,pron,A2,501.3124,0.9475,0,"for it, for that",Dafür musst du dich nicht entschuldigen.,You don’t have to apologize for that.
+286,damals,pron,A2,304.5724,0.9302,0,then,Damals verdiente ich mehr Geld.,Back then I was making more money.
+330,jemand,pron,A2,254.451,0.9132,0,"someone, somebody",Jemand wie du ist mein Freund.,Someone like you is my friend.
+362,niemand,pron,A2,230.9428,0.9227,0,"no one, nobody",Niemand kennt die Antwort.,Nobody knows the answer.
+466,dadurch,pron,A2,177.1251,0.9271,0,"through it, as a result, as a consequence",Toni raucht nicht mehr und lebt dadurch gesünder.,Toni no longer smokes and is healthier as a result.
+467,dagegen,pron,A2,177.0758,0.9541,0,"against it, on the other hand","Mein Eltern sind dagegen, dass ich ein Auto bekomme.",My parents are against my getting a car.
+518,darum,pron,A2,164.41,0.9326,0,"around it, therefore","Sie vergisst viele Dinge, darum muss Tim sie oft an etwas erinnern.","She forgets a lot of things; therefore, Tim often has to remind her of something."
+800,daraus,pron,A2,107.3889,0.9506,0,from it,Dennoch kannst du daraus etwas lernen.,"Nevertheless, you can learn something from this."

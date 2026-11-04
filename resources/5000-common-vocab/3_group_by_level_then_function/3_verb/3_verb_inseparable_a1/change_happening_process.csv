@@ -1,0 +1,6 @@
+rank,word,pos,level,freq_per_million,dispersion,has_conjugation,is_separable,definition,example_de,example_en
+251,"beginnen, beginnt, begann, hat begonnen",verb,A1,350.4554,0.9465,1,0,to begin,Mit der Arbeit beginne ich erst morgen.,I won’t start work until tomorrow.
+310,"vergehen, vergeht, verging, hat vergangen",verb,A1,271.5031,0.8853,1,0,to pass (time),Die Zeit vergeht sehr schnell.,Time passes very quickly.
+744,"dauern, dauert, dauerte, hat gedauert",verb,A1,116.802,0.9445,1,0,"to last, take (time)",Der Film dauert 120 Minuten.,The film lasts 120 minutes.
+1313,"enden, endet, endete, hat geendet",verb,A1,67.2721,0.9316,1,0,to end,Das Semester endet im März.,The semester ends in March.
+3558,"regnen, regnet, regnete, hat geregnet",verb,A1,19.4177,0.892,1,0,to rain,Im Herbst regnet es oft.,It often rains in autumn.

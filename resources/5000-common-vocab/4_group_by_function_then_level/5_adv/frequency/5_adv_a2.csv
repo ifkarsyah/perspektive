@@ -1,0 +1,5 @@
+rank,word,pos,level,freq_per_million,dispersion,has_conjugation,definition,example_de,example_en
+74,wieder,adv,A2,1530.501,0.9431,0,again,Lea kommt wieder zu spät.,Lea’s late again.
+382,manchmal,adv,A2,219.2133,0.9178,0,sometimes,"Das Wetter hier ist nur manchmal schlecht, meistens scheint die Sonne.","The weather here is only sometimes bad, mostly the sun shines."
+994,stets,adv,A2,87.429,0.9367,0,always,"Er ist stets bemüht, freundlich zu sein.",He always tries to be friendly.
+1261,meistens,adv,A2,70.0319,0.8916,0,mostly,In einem Dorf gibt es meistens nur wenige Läden.,"In a village, there are mostly only a few shops."

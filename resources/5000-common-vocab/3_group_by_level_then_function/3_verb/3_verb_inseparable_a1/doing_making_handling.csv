@@ -1,0 +1,10 @@
+rank,word,pos,level,freq_per_million,dispersion,has_conjugation,is_separable,definition,example_de,example_en
+205,"spielen, spielt, spielte, hat gespielt",verb,A1,414.9676,0.937,1,0,to play,Die Kinder spielen im Garten.,The children are playing in the garden.
+315,"bilden, bildet, bildete, hat gebildet",verb,A1,267.2155,0.8623,1,0,"to form, educate","Wir gehen in die Schule, um uns zu bilden.",We go to school to educate ourselves.
+350,"schließen, schließt, schloss, hat geschlossen",verb,A1,239.5674,0.8975,1,0,to close,Das Geschäft schließt heute schon um fünf Uhr.,The store closes at five o’clock today.
+364,"warten, wartet, wartete, hat gewartet",verb,A1,229.76,0.902,1,0,to wait,Ich warte am Bahnhof auf dich.,I’ll wait for you at the station.
+508,"öffnen, öffnet, öffnete, hat geöffnet",verb,A1,166.1349,0.8995,1,0,to open,Sie öffnet die Tür.,She opens the door.
+924,"drücken, drückt, drückte, hat gedrückt",verb,A1,94.5259,0.8931,1,0,"to press, push","Drücken Sie hier, um das Programm zu starten.",Press here to start the program.
+1497,"tanzen, tanzt, tanzte, hat getanzt",verb,A1,58.401,0.8497,1,0,to dance,Meine Eltern tanzen gerne Tango.,My parents like to dance the tango.
+1863,"schwimmen, schwimmt, schwamm, ist geschwommen",verb,A1,45.1437,0.8896,1,0,to swim,Sie schwimmt jeden Morgen im Meer.,She swims in the sea every morning.
+4205,"drucken, druckt, druckte, hat gedruckt",verb,A1,15.475,0.9039,1,0,to print,Der Verlag druckt diese Reihe von Büchern in hoher Auflage.,The publisher prints this series of books in large editions.

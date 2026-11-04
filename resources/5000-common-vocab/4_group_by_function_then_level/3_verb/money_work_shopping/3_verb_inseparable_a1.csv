@@ -1,0 +1,10 @@
+rank,word,pos,level,freq_per_million,dispersion,has_conjugation,is_separable,definition,example_de,example_en
+234,"arbeiten, arbeitet, arbeitete, hat gearbeitet",verb,A1,366.0783,0.927,1,0,to work,Marlene arbeitet in einem Krankenhaus.,Marlene works in a hospital.
+299,"handeln, handelt, handelte, hat gehandelt",verb,A1,281.3106,0.9355,1,0,"to deal, trade",Die Geschichte handelt von Tieren.,The story deals with animals.
+506,"kaufen, kauft, kaufte, hat gekauft",verb,A1,166.332,0.926,1,0,to buy,Morgen muss ich unbedingt Milch kaufen.,I really need to buy milk tomorrow.
+721,"verkaufen, verkauft, verkaufte, hat verkauft",verb,A1,122.2232,0.9169,1,0,to sell,Hildegart verkauft auf dem Markt frische Eier.,Hildegart sells fresh eggs at the market.
+793,"bezahlen, bezahlt, bezahlte, hat bezahlt",verb,A1,108.2267,0.9286,1,0,to pay,Wie viel hast du bezahlt?,How much did you pay?
+832,"zahlen, zahlt, zahlte, hat gezahlt",verb,A1,103.1505,0.901,1,0,to pay,"Er findet, dass Männer die Rechnung zahlen sollen.",He thinks men should pay the bill.
+835,"verdienen, verdient, verdiente, hat verdient",verb,A1,102.8055,0.9232,1,0,"to earn, deserve","Zusammen verdienen wir genug Geld, um unsere Rechnungen zu bezahlen.",Together we make enough money to pay our bills.
+903,"kosten, kostet, kostete, hat gekostet",verb,A1,96.5465,0.9178,1,0,to cost,Das Buch kostet nur fünf Euro.,The book costs only five euros.
+1657,"bestellen, bestellt, bestellte, hat bestellt",verb,A1,51.5999,0.9051,1,0,"to order, reserve",Jan und Ludwig bestellen sich eine große Pizza im Restaurant.,Jan and Ludwig order a large pizza in the restaurant.

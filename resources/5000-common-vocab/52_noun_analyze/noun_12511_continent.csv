@@ -1,0 +1,4 @@
+rank,word,pos,level,freq_per_million,dispersion,has_conjugation,definition,example_de,example_en
+294,Europa,das,A1,291.6601,0.8719,0,Europe,"Deutschland, England und Frankreich sind Länder in Europa.","Germany, England, and France are countries in Europe."
+2010,Afrika,das,B1,41.0532,0.8593,0,Africa,Afrika ist einer der Kontinente der Erde.,Africa is one of the continents of the earth.
+3330,Asien,das,B2+,21.1919,0.8681,0,Asia,Asien ist ein beliebtes Reiseziel.,Asia is a popular destination.

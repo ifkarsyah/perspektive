@@ -1,0 +1,5 @@
+rank,word,pos,level,freq_per_million,dispersion,has_conjugation,definition,example_de,example_en
+2516,jenseits,prep,B2+,31.2458,0.9071,0,beyond,Das Dorf befindet sich jenseits der Berge.,The village is beyond the mountains.
+3033,herum,prep,B2+,24.4446,0.8141,0,around,Wir fahren um den Unfall herum.,We’re driving around the accident.
+3296,unterhalb,prep,B2+,21.5369,0.8752,0,"below, underneath",Unterhalb von Köln liegt Bonn und oberhalb die Stadt Essen.,Below Cologne is Bonn and above the city of Essen.
+3382,oberhalb,prep,B2+,20.8469,0.8392,0,above,Das Hotel liegt auf einem Hügel oberhalb der Stadt.,The hotel is located on a hill above the town.

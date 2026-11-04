@@ -1,0 +1,4 @@
+rank,word,pos,level,freq_per_million,dispersion,has_conjugation,definition,example_de,example_en
+11,nicht,part,A1,9291.4296,0.9562,0,not,Im Restaurant darf man nicht rauchen.,You can’t smoke in the restaurant.
+45,ja,part,A1,2526.5217,0.8165,0,"yes, of course","Ja, ich verstehe das.","Yes, I understand that."
+148,"nein, nee, nö",part,A1,586.0308,0.8179,0,no,"Nein, ich habe das nicht verstanden.","No, I didn’t understand that."

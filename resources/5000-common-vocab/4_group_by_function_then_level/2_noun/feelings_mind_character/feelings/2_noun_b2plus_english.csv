@@ -1,0 +1,4 @@
+rank,word,pos,level,freq_per_million,dispersion,has_conjugation,definition,example_de,example_en
+2784,"die Emotion, -en",die,B2+,27.4017,0.7527,0,emotion,Die Liebe ist eine sehr starke Emotion.,Love is a very strong emotion.
+3747,"der Schock, -e",der,B2+,18.1856,0.863,0,shock,Nach dem Unfall steht er unter Schock.,He’s in shock after the accident.
+4209,"die Panik, -en",die,B2+,15.475,0.8985,0,panic,Der Terroranschlag löst eine Panik unter den Menschen aus.,The terrorist attack has caused a panic among the people.

@@ -1,0 +1,4 @@
+rank,word,pos,level,freq_per_million,dispersion,has_conjugation,definition,example_de,example_en
+1802,"das Restaurant, -s",das,A1,47.1644,0.8589,0,restaurant,Wir gehen zum Abendessen in ein Restaurant.,We’re going to a restaurant for dinner.
+2492,"das Café, -s",das,A1,31.6893,0.8667,0,"coffeehouse, coffee shop",Linda trinkt jeden Tag Kaffee im selben Café.,Linda drinks coffee every day at the same coffeehouse.
+2582,Bar,die,A1,30.1615,0.8314,0,bar,"Nach der Arbeit treffen sich die Kollegen in der Bar, um zu trinken und zu reden.","After work, the colleagues meet in the bar to drink and talk."

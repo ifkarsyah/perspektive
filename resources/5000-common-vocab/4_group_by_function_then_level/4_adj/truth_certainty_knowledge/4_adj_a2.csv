@@ -1,0 +1,13 @@
+rank,word,pos,level,freq_per_million,dispersion,has_conjugation,definition,example_de,example_en
+137,natürlich,adj,A2,637.8771,0.9209,0,natural,Ich beobachte wilde Tiere in ihrer natürlichen Umgebung.,I observe wild animals in their natural environment.
+151,eigentlich,adj,A2,569.8165,0.8766,0,"actual, real","Steffen ist der eigentliche Chef der Firma, aber er ist selten da.","Steffen is the real boss of the company, but he’s rarely there."
+167,genau,adj,A2,519.7937,0.9578,0,exact,Die genaue Zeit ist 10:43 Uhr.,The exact time is 10:43.
+189,wirklich,adj,A2,454.9858,0.9181,0,"real, actual",Sein Besuch ist eine wirkliche Überraschung.,His visit is a real surprise.
+265,sicher,adj,A2,328.6721,0.9411,0,"safe, secure, certain",Sie machen das Haus sicher.,They make the house safe.
+302,deutlich,adj,A2,279.9306,0.9286,0,clear,"Ich kann dich nicht verstehen, bitte sprich deutlich.","I can’t understand you, please speak clearly."
+493,wahrscheinlich,adj,A2,169.0919,0.9188,0,"likely, probable","Das ist möglich, aber nicht sehr wahrscheinlich.","It’s possible, but not very likely."
+552,gewiss,adj,A2,155.6375,0.9405,0,certain,Hast du nicht eine gewisse Sache vergessen?,Haven’t you forgotten a certain thing?
+685,echt,adj,A2,129.0736,0.906,0,"genuine, real",Ist das dein echtes Haar oder ist es künstlich?,Is that your real hair or is it synthetic?
+737,wahr,adj,A2,118.2313,0.9339,0,true,"Die Aussage ist wahr, wenn man sie beweisen kann.",The statement is true if you can prove it.
+830,konkret,adj,A2,103.4955,0.9107,0,concrete,Wir haben keine konkreten Pläne für das Wochenende.,We don’t have concrete plans for the weekend.
+916,bewusst,adj,A2,95.413,0.9257,0,conscious,"Das ist keine spontane Idee, sondern eine bewusste Entscheidung.","This is not a spontaneous idea, but a conscious decision."

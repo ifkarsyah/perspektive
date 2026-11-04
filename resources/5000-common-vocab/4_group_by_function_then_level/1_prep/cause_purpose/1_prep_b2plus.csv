@@ -1,0 +1,4 @@
+rank,word,pos,level,freq_per_million,dispersion,has_conjugation,definition,example_de,example_en
+3380,infolge,prep,B2+,20.8469,0.8706,0,as a result of,Der Fluss ist infolge des starken Regens extrem hoch.,The river is extremely high as a result of the heavy rain.
+3971,zugunsten,prep,B2+,16.8057,0.8736,0,in favor of,Das Gericht entscheidet zugunsten des Angeklagten.,The court rules in favor of the defendant.
+4618,willen,prep,B2+,13.5037,0.8793,0,for the sake of,"Um ihrer Kinder willen hören die Eltern auf, sich zu streiten.","For the sake of their children, the parents stop arguing."

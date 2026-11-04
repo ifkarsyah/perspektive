@@ -1,0 +1,50 @@
+rank,word,pos,level,freq_per_million,dispersion,has_conjugation,definition,example_de,example_en
+295,gemeinsam,adj,B1,288.8509,0.9179,0,"common, mutual",Die beiden Firmen verfolgen ein gemeinsames Ziel.,The two companies pursue a common goal.
+308,einzeln,adj,B1,274.2137,0.9195,0,"individual, single, separately",Ich spreche jedes Wort einzeln.,I speak each word separately.
+343,einzig,adj,B1,242.6722,0.9465,0,"only, single",Ich bin das einzige Mädchen beim Fußball.,I’m the only girl at soccer.
+345,unterschiedlich,adj,B1,241.8344,0.9032,0,different,Bei einem Streit gibt es unterschiedliche Meinungen.,"In a dispute, there are different opinions."
+393,allgemein,adj,B1,212.9543,0.8983,0,general,Der Kurs beginnt mit einer allgemeinen Einführung in das Thema.,The course begins with a general introduction to the topic.
+437,ähnlich,adj,B1,187.6718,0.9549,0,similar,Wir haben ähnliche Interessen.,We have similar interests.
+443,halb,adj,B1,185.8483,0.9248,0,half,Er ist halb so schwer wie ich.,He’s half my weight.
+504,gering,adj,B1,166.5291,0.9301,0,"low, small",Diese Arbeiter bekommen nur geringe Löhne.,These workers receive only low wages.
+515,völlig,adj,B1,164.6564,0.9461,0,"completely, absolutely",Du hast völlig recht.,You’re absolutely right.
+557,gesamt,adj,B1,154.8489,0.9388,0,"whole, entire",Sie verpassen den gesamten Vortrag.,They’re missing the entire lecture.
+571,relativ,adj,B1,151.2512,0.8817,0,relative,Schönheit ist ein relativer Begriff.,Beauty is a relative term.
+583,zusätzlich,adj,B1,147.9492,0.92,0,additional,"Sein Buch enthält zusätzliche Informationen, die im Film nicht gezeigt werden.",His book contains additional information that is not shown in the film.
+638,knapp,adj,B1,136.0226,0.9138,0,"scarce, slim",Wegen des heißen Sommers ist das Wasser knapp.,"Because of the hot summer, the water is scarce."
+741,bloß,adj,B1,117.2456,0.8902,0,"bare, mere",Ihre bloße Anwesenheit macht mich nervös.,Her mere presence makes me nervous.
+815,speziell,adj,B1,105.9597,0.9204,0,"special, specific",Die Schule bietet spezielle Kurse für den Umgang mit Computern an.,The school offers special courses for the use of computers.
+823,absolut,adj,B1,104.6783,0.9111,0,"absolute, complete",Ich vertraue dir absolut.,I trust you completely.
+919,zahlreich,adj,B1,94.9201,0.9241,0,numerous,"Es gibt zahlreiche Gründe, bei einem schweren Sturm nicht aus dem Haus zu gehen.",There are numerous reasons not to leave the house in a heavy storm.
+921,übrig,adj,B1,94.8216,0.9483,0,"remaining, left, leftover",Du kannst die übrige Milch trinken.,You can drink the leftover milk.
+1055,jeweilig,adj,B1,82.1064,0.8876,0,"particular, respective",Nach der Pause gehen die Kinder in ihre jeweiligen Klassen zurück.,After the break the children return to their respective classes.
+1058,vollständig,adj,B1,82.0078,0.9008,0,complete,"Es fehlen noch zwei Personen, damit die Gruppe vollständig ist.",Two more people are missing for the group to be complete.
+1127,extrem,adj,B1,77.2766,0.9266,0,extreme,Im Norden herrschen extreme Temperaturen.,The temperatures in the north are extreme.
+1215,komplett,adj,B1,72.2004,0.9235,0,complete,Ich biete dir meine komplette Sammlung an Filmen an.,I offer you my complete film collection.
+1284,maximal,adj,B1,68.7998,0.8704,0,maximum,Nimm das Medikament zweimal täglich um die maximale Wirkung zu erzielen.,Take the medicine twice a day to attain the maximum effect.
+1344,intensiv,adj,B1,66.04,0.9139,0,intensive,Nach dem intensiven Training brauchen sie eine Pause.,After the intensive training they need a break.
+1448,heftig,adj,B1,61.4073,0.9187,0,"hard, heavy, violent",Bei dem Streit bekommt er einen heftigen Schlag auf den Kopf.,"In the fight, he gets a hard punch to the head."
+1458,ungefähr,adj,B1,60.9145,0.8953,0,approximately,Die Fahrt dauert ungefähr drei Stunden.,The journey takes about three hours.
+1460,üblich,adj,B1,60.7666,0.9513,0,usual,Er geht zu seiner üblichen Zeit ins Bett.,He goes to bed at his usual time.
+1484,erheblich,adj,B1,59.2388,0.9165,0,considerable,"Es macht einen erheblichen Unterschied, ob ich helfe oder weitergehe.",It makes a considerable difference whether I help or keep going.
+1485,ausschließlich,adj,B1,58.9924,0.9229,0,exclusive,Der Raum ist für die ausschließliche Nutzung unserer Gäste.,This room is for the exclusive use of our guests.
+1499,spezifisch,adj,B1,58.3517,0.8061,0,specific,Jedes Organ hat seine eigene spezifische Funktion.,Each organ has its own specific function.
+1509,doppelt,adj,B1,57.9575,0.9474,0,double,Mein Fuß ist doppelt so groß wie deiner.,My foot is double the size of yours.
+1751,weitgehend,adj,B1,48.7414,0.9073,0,extensive,"Der Professor stimmt der Aussage des Studenten weitgehend zu, aber nicht vollständig.","The professor agrees with the student’s statement extensively, but not completely."
+1755,gegenseitig,adj,B1,48.5936,0.9374,0,"mutual, each other",Ole und Janosch werfen sich gegenseitig einen Ball zu.,Ole and Janosch throw each other a ball.
+1759,primär,adj,B1,48.3965,0.8007,0,primary,"Sein primäres Ziel war es, den Armen zu helfen.",His primary goal was to help the poor.
+1761,vollkommen,adj,B1,48.3472,0.8733,0,"complete, perfect",Ein vollkommener Tag beginnt mit einem guten Kaffee.,A perfect day starts with a good coffee.
+1764,sämtlich,adj,B1,48.1993,0.9267,0,all,In dem Verlag erscheinen sämtliche Werke von Hermann Hesse.,The publishing house publishes all works by Hermann Hesse.
+1933,generell,adj,B1,43.2217,0.9068,0,general,Sven fährt generell nicht mit dem Auto und geht lieber zu Fuß.,Sven generally does not drive and prefers to walk.
+1965,durchschnittlich,adj,B1,42.4824,0.8731,0,average,In Deutschland wird durchschnittlich mehr Bier getrunken als in anderen europäischen Ländern.,"On average, more beer is drunk in Germany than in other European countries."
+2060,hauptsächlich,adj,B1,39.9197,0.9001,0,"mainly, mostly",Viele Babys schlafen und essen hauptsächlich.,Many babies sleep and eat mostly.
+2066,mehrfach,adj,B1,39.7718,0.9063,0,"multiple, several",Die Knochen im Bein des Patienten sind mehrfach gebrochen.,The bones in the patient’s leg are broken several times.
+2081,unendlich,adj,B1,39.4761,0.8949,0,"endless, infinite","Etwas, was räumlich und zeitlich keine Grenzen hat, ist unendlich.",Something that has no spatial and temporal limits is infinite.
+2253,gewöhnlich,adj,B1,35.8784,0.8992,0,usual,"Die Kirche ist nicht nur sonntags, sondern auch an gewöhnlichen Tagen geöffnet.","The church is open not only on Sundays, but also on ordinary days."
+2259,beliebig,adj,B1,35.7799,0.8109,0,"any, as you like",Jeder kann beliebig viel Freunde mitbringen.,Everyone can bring as many friends as they like.
+2400,vergleichbar,adj,B1,33.0693,0.9187,0,comparable,"Fabian hofft, bei diesem Rennen eine vergleichbare Zeit wie letztes Jahr zu erreichen.",Fabian hopes to achieve a comparable time to last year in this race.
+2417,vielfältig,adj,B1,32.8229,0.8615,0,"diverse, varied",Das Restaurant hat ein vielfältiges Angebot an Gerichten.,The restaurant has a varied range of dishes.
+2489,identisch,adj,B1,31.7386,0.8382,0,identical,Die Zwillinge sehen beinahe identisch aus.,The twins look almost identical.
+2767,alternativ,adj,B1,27.6481,0.8787,0,alternatively,"Wenn dir das Haus zu teuer ist, kann ich dir alternativ eine Wohnung zeigen.","If the house is too expensive for you, I can alternatively show you an apartment."
+2857,einheitlich,adj,B1,26.5146,0.8784,0,"uniform, standardized","Wir brauchen einheitliche Regeln, die für alle gelten.",We need uniform rules that apply to everyone.
+3820,minimal,adj,B1,17.6928,0.8558,0,minimal,Der Athlet auf Platz eins hat nur einen minimalen Vorsprung vor dem Athleten auf Platz zwei.,The athlete in first place has only a minimal lead over the athlete in second place.

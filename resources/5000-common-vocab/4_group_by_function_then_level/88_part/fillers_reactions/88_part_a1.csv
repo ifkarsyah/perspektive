@@ -1,0 +1,3 @@
+rank,word,pos,level,freq_per_million,dispersion,has_conjugation,definition,example_de,example_en
+371,na,part,A1,224.0431,0.815,0,well,"Na, was soll ich dazu sagen?","Well, what shall I say to this?"
+397,oh,part,A1,206.8431,0.7115,0,"oh, aw","Oh, du machst einen Fehler.","Oh, you’re making a mistake."

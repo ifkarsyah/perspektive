@@ -1,0 +1,20 @@
+rank,word,pos,level,freq_per_million,dispersion,has_conjugation,definition,example_de,example_en
+119,damit,pron,B1,761.7267,0.9641,0,with it,Ich nehme den Wagen und fahre damit zur Arbeit.,I take the car and drive to work with it.
+185,solch,pron,B1,470.4116,0.9577,0,such,Unter solchen Bedingungen kann ich nicht arbeiten.,I can’t work in such conditions.
+349,mehrere,pron,B1,240.3066,0.9401,0,"several, multiple, various",Oft leben mehrere Familien in einem Haus.,Often several families live in one house.
+354,daher,pron,B1,237.8917,0.9218,0,"from, there, therefore","Ich bin krank, daher kann ich nicht zur Party kommen.","I’m sick, therefore I can’t come to the party."
+457,danach,pron,B1,180.7228,0.9555,0,"after it, afterwards",Ich mache Sport und danach trinke ich viel Wasser.,I exercise and after that I drink a lot of water.
+635,"derselbe, dieselbe, dasselbe",pron,B1,136.7126,0.9459,0,"the same (one, ones)","Klara trägt zu ihrer Hochzeit dasselbe Kleid, das auch ihre Mutter getragen hat.",Klara wears the same dress that her mother wore for her wedding.
+910,wieso,pron,B1,95.8072,0.8395,0,why,Wieso hast du mich nicht angerufen?,Why didn’t you call me?
+1026,darunter,pron,B1,84.7184,0.9357,0,"under it, underneath",Die Gläser stehen auf dem Tisch und der Hund liegt darunter.,The glasses are on the table and the dog is underneath.
+1027,"derjenige, diejenige, dasjenige",pron,B1,84.6692,0.9027,0,"the one (who, that)","Derjenige, der zuerst das Rätsel löst, bekommt ein Eis.",The one who solves the puzzle first gets an ice cream.
+1118,irgendein,pron,B1,78.1144,0.9078,0,"some, any",Hast du irgendeinen Rat für mich?,Do you have any advice for me?
+1120,"irgendetwas, irgendwas",pron,B1,77.9173,0.8676,0,"something, anything",Hast du irgendetwas gesagt?,Did you say something?
+1479,davor,pron,B1,59.4853,0.9291,0,"before, in front of","Hinter dem Haus ist ein See, davor ein schöner Garten.","Behind the house is a lake, in front of it a beautiful garden."
+1822,weshalb,pron,B1,46.4744,0.9158,0,why,"Weshalb sollte ich ihm helfen, er hilft mir nie.","Why should I help him, he never helps me."
+1888,dahinter,pron,B1,44.3059,0.9319,0,behind it,Dort an den Bäumen endet der Park und dahinter liegt eine große Straße.,There at the trees the park ends and behind it is a big road.
+1911,"irgendwelche (r, s)",pron,B1,43.6652,0.8394,0,"some, any",Können Sie mir irgendwelche Informationen zu dieser Veranstaltung geben?,Can you give me any information about this event?
+2280,"selbe (r, s)",pron,B1,35.4349,0.9415,0,same,Robin erledigt die Aufgaben noch am selben Tag.,Robin completes the tasks on the same day.
+2480,worauf,pron,B1,31.8372,0.9145,0,"on what, to what",Worauf bezieht sich deine Frage?,To what does your question refer?
+4025,worum,pron,B1,16.51,0.8155,0,what about,Worum geht es eigentlich bei eurem Streit?,What is your fight all about?
+4716,worüber,pron,B1,13.0601,0.906,0,what about,"Ich weiß nicht, worüber ich mit Paula sprechen soll.",I don’t know what to talk about with Paula.

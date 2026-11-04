@@ -1,0 +1,63 @@
+rank,word,pos,level,freq_per_million,dispersion,has_conjugation,definition,example_de,example_en
+140,Deutschland,das,A1,632.9488,0.8925,0,Germany,Meine Familie wohnt in einer kleinen Stadt im Westen von Deutschland.,My family lives in a small town in the west of Germany.
+294,Europa,das,A1,291.6601,0.8719,0,Europe,"Deutschland, England und Frankreich sind Länder in Europa.","Germany, England, and France are countries in Europe."
+409,USA (Vereinigte Staaten von Amerika),die,A2,201.8655,0.8698,0,"USA, United States of America",USA ist die Abkürzung von United States of America.,USA is the abbreviation for the United States of America.
+624,Bayern,das,A2,139.6203,0.7917,0,Bavaria,Bayern ist das größte Bundesland von Deutschland.,Bavaria is the largest federal state of Germany.
+707,Österreich,das,A2,125.3774,0.7633,0,Austria,Auch in Österreich spricht man Deutsch.,They also speak German in Austria.
+763,"die Schweiz, -en",die,A2,113.0565,0.7896,0,Switzerland,In der Schweiz spricht man insgesamt vier offizielle Sprachen.,Switzerland has a total of four official languages.
+798,Russland,das,A2,107.7831,0.8428,0,Russia,Moskau ist die Hauptstadt von Russland.,Moscow is the capital of Russia.
+813,Frankreich,das,A2,106.3046,0.9083,0,France,Paris ist die Hauptstadt von Frankreich.,Paris is the capital of France.
+846,China,das,A2,101.9184,0.8161,0,China,Bo kommt aus China.,Bo comes from China.
+922,die Türkei,die,A2,94.7723,0.7755,0,Turkey,Die Sachen auf dem Markt kommen aus der Türkei.,The things in the market come from Turkey.
+1198,Griechenland,das,B1,72.7918,0.8008,0,Greece,Griechenland ist Mitglied in der Europäischen Union.,Greece is a member of the European Union.
+1204,Italien,das,B1,72.3975,0.8889,0,Italy,Rom ist die Hauptstadt von Italien.,Rome is the capital of Italy.
+1209,Amerika,das,B1,72.299,0.8888,0,America,Amerika importiert Autos und Öl.,America imports cars and oil.
+1348,DDR (Deutsche Demokratische Republik),die,B1,65.7443,0.8408,0,,"German Democratic Republic Nachdem Deutschland geteilt wurde, existierte die DDR über 40 Jahre.","After Germany was divided, the GDR existed for over 40 years."
+1416,Syrien,das,B1,62.8858,0.739,0,Syria,Viele Menschen aus Syrien wohnen jetzt in Deutschland.,Many people from Syria now live in Germany.
+1640,Großbritannien,das,B1,52.5363,0.8371,0,Great Britain,Die Hauptstadt von Großbritannien ist London.,The capital of Great Britain is London.
+1744,Spanien,das,B1,48.8893,0.8671,0,Spain,Ich freue mich auf meine erste Reise nach Spanien.,I’m looking forward to my first trip to Spain.
+1762,England,das,B1,48.2486,0.8794,0,England,"England ist ein Land, das Teil des Vereinigten Königreichs ist.",England is a country that is part of the United Kingdom.
+2007,Afghanistan,das,B1,41.2503,0.714,0,Afghanistan,Afghanistan ist ein Land im Süden von Asien.,Afghanistan is a country in the south of Asia.
+2010,Afrika,das,B1,41.0532,0.8593,0,Africa,Afrika ist einer der Kontinente der Erde.,Africa is one of the continents of the earth.
+2023,Polen,das,B1,40.8068,0.894,0,Poland,"Polen ist ein europäisches Land, das an der Ostsee liegt.",Poland is a European country located on the Baltic Sea.
+2032,Israel,das,B1,40.6097,0.8345,0,Israel,In einigen Religionen gilt Israel als heiliges Land.,In some religions Israel is considered a holy country.
+2034,BRD (Bundesrepublik Deutschland),die,B1,40.5604,0.8487,0,Federal Republic (of Germany),Die Bundesrepublik Deutschland wurde 1949 gegründet.,The Federal Republic of Germany was founded in 1949.
+2102,Indien,das,B1,38.9833,0.834,0,India,In Indien reist man am besten mit dem Zug.,The best way to travel in India is by train.
+2162,Japan,das,B1,37.8498,0.8814,0,Japan,"Japan besteht aus mehreren Inseln, die vor der Küste Chinas und Russlands liegen.",Japan consists of several islands that lie off the coast of China and Russia.
+2324,Ungarn,das,B1,34.3506,0.845,0,Hungary,Von 1867 bis 1918 gehörte Ungarn zu Österreich.,From 1867 to 1918 Hungary belonged to Austria.
+2357,Island,das,B1,33.71,0.6986,0,Iceland,Island ist bekannt für seine schöne Landschaft.,Iceland is known for its beautiful landscape.
+2364,die Ukraine,die,B1,33.6114,0.7783,0,Ukraine,Die Hauptstadt der Ukraine ist Kiew.,The capital of Ukraine is Kiev.
+2478,Schweden,das,B1,31.8372,0.8692,0,Sweden,Schweden ist ein Land in Nordeuropa.,Sweden is a country in northern Europe.
+2694,Brasilien,das,B2+,28.6337,0.852,0,Brazil,Brasilien ist das größte Land in Südamerika.,Brazil is the largest country in South America.
+2786,Australien,das,B2+,27.3524,0.8793,0,Australia,"Bald fliege ich für ein Jahr nach Australien, um dort zu arbeiten.",Soon I will be flying to Australia for one year to work there.
+2833,Dänemark,das,B2+,26.8103,0.6085,0,Denmark,Während des Zweiten Weltkriegs war Dänemark besetzt.,Denmark was occupied during World War II.
+2836,Tibet,das,B2+,26.8103,0.1471,0,Tibet,Tibet wird oft als das Dach der Welt bezeichnet.,Tibet is often called the roof of the world.
+3045,Iran,der,B2+,24.2475,0.7988,0,Iran,Die Hauptstadt des Iran ist Teheran.,The capital of Iran is Tehran.
+3054,Irak,der,B2+,24.0997,0.7979,0,Iraq,Die Republik Irak ist ein Staat in Vorderasien.,The Republic of Iraq is a state in the Middle East.
+3092,Sachsen,das,B2+,23.7547,0.7912,0,Saxony,Sachsen ist ein Bundesland in Deutschland.,Saxony is a federal state in Germany.
+3170,Baden-Württemberg,das,B2+,22.769,0.7491,0,Baden-Württemberg,Stuttgart ist eine Stadt in Baden- Württemberg.,Stuttgart is a city in Baden- Württemberg.
+3245,Norwegen,das,B2+,22.0298,0.8109,0,Norway,Norwegen produziert viel Strom.,Norway produces a lot of electricity.
+3324,Kanada,das,B2+,21.2412,0.8736,0,Canada,Meine Eltern fliegen im Herbst nach Kanada.,My parents are flying to Canada in autumn.
+3330,Asien,das,B2+,21.1919,0.8681,0,Asia,Asien ist ein beliebtes Reiseziel.,Asia is a popular destination.
+3370,Hessen,das,B2+,20.8962,0.6786,0,Hesse,Das Bundesland Hessen liegt in der Mitte Deutschlands.,The federal state of Hesse is located in the middle of Germany.
+3605,Belgien,das,B2+,19.0727,0.8529,0,Belgium,Mona bringt ihrer Schwester Schokolade aus Belgien mit.,Mona brings her sister chocolate from Belgium.
+3642,Ägypten,das,B2+,18.8263,0.8205,0,Egypt,Die Hauptstadt von Ägypten ist Kairo.,The capital of Egypt is Cairo.
+3793,Sachsen-Anhalt,das,B2+,17.8899,0.7,0,Saxony-Anhalt,Sachsen-Anhalt ist ein Bundesland in der Mitte von Deutschland.,Saxony-Anhalt is a federal state in the middle of Germany.
+3798,die Niederlande,die,B2+,17.8406,0.862,0,the Netherlands,Wir fahren mit einem Schiff durch die Niederlande.,We travel by ship through the Netherlands.
+3969,Nordrhein-Westfalen,das,B2+,16.8057,0.7443,0,North Rhine-Westphalia,Nordrhein-Westfalen ist ein Bundesland im Westen von Deutschland.,North Rhine- Westphalia is a federal state in the west of Germany.
+4033,das Mittelmeer,das,B2+,16.4607,0.8553,0,Mediterranean See,"Zwischen Europa, Afrika und Asien liegt das Mittelmeer.","Between Europe, Africa, and Asia lies the Mediterranean Sea."
+4043,Pakistan,das,B2+,16.4114,0.7329,0,Pakistan,"Wir fliegen nach Pakistan, ein Staat in Südasien.","We’re flying to Pakistan, a state in South Asia."
+4044,Rheinland-Pfalz,das,B2+,16.4114,0.7317,0,Rhineland-Palatinate,Im Bundesland Rheinland-Pfalz leben vier Millionen Menschen.,Four million people live in the federal state of Rhineland-Palatinate.
+4062,Mexiko,das,B2+,16.3129,0.8576,0,Mexico,Mexiko und die USA teilen sich eine Grenze.,Mexico and the USA share a border.
+4099,Alpen,die (pl),B2+,16.0664,0.8249,0,Alps,Wir wandern in den Alpen.,We hike in the Alps.
+4140,die Sowjetunion,die,B2+,15.82,0.8551,0,Soviet Union,Die Sowjetunion wurde 1991 aufgelöst.,The Soviet Union was dissolved in 1991.
+4192,Thüringen,das,B2+,15.5736,0.5825,0,Thuringia,Im Bundesland Thüringen kann man sehr gut wandern gehen.,In the federal state of Thuringia you can go hiking very well.
+4239,Irland,das,B2+,15.3272,0.8134,0,Ireland,Irland wird auch die “grüne Insel” genannt.,Ireland is also called the “green island”.
+4406,Tirol,das,B2+,14.4894,0.6829,0,Tyrol,Wir machen dieses Jahr Urlaub in Tirol.,This year we are on vacation in Tyrol.
+4446,Brandenburg,das,B2+,14.2922,0.794,0,Brandenburg,Das Bundesland Brandenburg liegt im Nordosten von Deutschland.,The state of Brandenburg lies in the northeast of Germany.
+4578,Portugal,das,B2+,13.7008,0.8305,0,Portugal,Portugal teilt sich einen Teil seiner Grenze mit Spanien.,Portugal shares part of its border with Spain.
+4611,der Main,der,B2+,13.5037,0.8433,0,Main (river),Wir fahren mit einem Boot auf dem Main durch Frankfurt.,We go by boat on the Main through Frankfurt.
+4615,Saudi-Arabien,das,B2+,13.5037,0.7684,0,Saudi Arabia,In Saudi-Arabien herrschen andere Temperaturen als in Deutschland.,Temperatures in Saudi Arabia are different from those in Germany.
+4647,Nordkorea,das,B2+,13.3558,0.712,0,North Korea,Am 28. August feiert man in Nordkorea den Tag der Jugend.,"On 28 August, North Korea celebrates Youth Day."
+4659,Kuba,das,B2+,13.3066,0.7256,0,Cuba,Kuba ist eine Insel mit sehr schönen weißen Stränden.,Cuba is an island with very beautiful white beaches.
+4915,Argentinien,das,B2+,12.173,0.8232,0,Argentina,Eine berühmte Oper spielt in Argentinien.,A famous opera is set in Argentina.

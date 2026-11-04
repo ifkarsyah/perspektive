@@ -1,0 +1,9 @@
+rank,word,pos,level,freq_per_million,dispersion,has_conjugation,definition,example_de,example_en
+2545,wozu,pron,B2+,30.8515,0.9189,0,"what for, to what",Wozu brauchst du denn ein zweites Auto?,What do you need a second car for?
+2801,womit,pron,B2+,27.2538,0.8926,0,with what,Womit machst du das?,With what are you doing that?
+2903,wodurch,pron,B2+,26.0217,0.835,0,"how, which",Wodurch entstehen Krankheiten?,How do diseases emerge?
+3161,wofür,pron,B2+,22.9169,0.9189,0,for what,Wofür brauchst du zwei Handys?,What do you need two mobile phones for?
+3415,wonach,pron,B2+,20.6005,0.9022,0,"what . . . for, what . . . of",Wonach suchst du?,What are you looking for?
+3486,wovon,pron,B2+,20.0584,0.9148,0,"from what, about what",Wovon reden sie?,What are they talking about?
+3545,woran,pron,B2+,19.5656,0.9028,0,"on what, of what",Woran arbeitest du?,What are you working on?
+3604,wieviel,pron,B2+,19.122,0.8538,0,how much,Wieviel bezahlst du für die Reise?,How much are you paying for the trip?

@@ -1,0 +1,994 @@
+rank,word,pos,level,freq_per_million,dispersion,has_conjugation,definition,example_de,example_en
+2502,"der Weber, -",der,B2+,31.4922,0.5903,0,weaver,Mein Großvater war Weber von Beruf.,My grandfather was a weaver by profession.
+2505,das Erbe,das,B2+,31.4429,0.7867,0,heritage,Das Land ist stolz auf sein kulturelles Erbe.,The country is proud of its cultural heritage.
+2509,"der Ausbau, -ten",der,B2+,31.2951,0.623,0,"expansion, consolidation",Der geplante Ausbau der Autobahn kostet mehrere Millionen Euro.,The planned expansion of the motorway will cost several million euros.
+2513,"der Wandel, -",der,B2+,31.2951,0.8498,0,change,Die Gesellschaft ist einem ständigen Wandel ausgesetzt.,Societies are subjected to constant change.
+2514,"der Ast, -Äe",der,B2+,31.2458,0.5346,0,branch,Der Baum hat viele Äste.,The tree has many branches.
+2518,"der Wähler, -",der,B2+,31.2458,0.6921,0,voter,Die Wähler warten auf die Umsetzung der Versprechen der Politiker.,The voters are waiting for the politicians’ promises to be fulfilled.
+2520,"das Gedächtnis, -se",das,B2+,31.1965,0.7971,0,memory,"Opa hat ein gutes Gedächtnis, er vergisst nie etwas.",Grandpa has a good memory; he never forgets anything.
+2525,"der Wechsel, -",der,B2+,31.0979,0.8914,0,change,Der Trainer ist traurig über den Wechsel seines Spielers zu einer anderen Mannschaft.,The coach is sad about his player’s change to another team.
+2526,"die Wurzel, -n",die,B2+,31.0979,0.9146,0,root,Die Pflanze hat flache Wurzeln und lässt sich leicht herausziehen.,The plant has shallow roots and is easy to pull out.
+2533,"der Arbeitnehmer, -",der,B2+,30.9501,0.8095,0,employee,Das Unternehmen muss neue Arbeitnehmer einstellen.,The company must hire new employees.
+2536,"die Materie, -n",die,B2+,30.9501,0.5926,0,matter,"Materie ist eine Substanz, die flüssig oder aus Gas sein kann.",Matter is a substance that can be liquid or gas.
+2539,"die Frequenz, -en",die,B2+,30.8515,0.66,0,frequency,Auf welcher Frequenz liegt dieser Sender?,What’s the frequency of this station?
+2548,"der Arbeitsmarkt, -̈e",der,B2+,30.7529,0.7748,0,labor market,Frauen mit Kindern haben auf dem Arbeitsmarkt schlechtere Chancen.,Women with children have worse chances on the labor market.
+2556,"die Kompetenz, -en",die,B2+,30.6051,0.8197,0,"competence, authority",Der neue Mitarbeiter stellt seine Kompetenz am ersten Tag unter Beweis.,The new employee demonstrates his competence on the first day.
+2560,"der Austausch, -e",der,B2+,30.5558,0.8956,0,exchange,Viele Universitäten fördern den internationalen Austausch von Studenten.,Many universities promote international student exchange.
+2563,"der Kaiser, -",der,B2+,30.5065,0.6249,0,emperor,Kaiser Augustus regierte das Römische Reich.,Emperor Augustus ruled the Roman Empire.
+2566,"die Differenz, -en",die,B2+,30.4572,0.8529,0,difference,Die Messung ergibt eine Differenz von 20 Zentimetern.,The measurement yields a difference of 20 centimeters.
+2567,"der Fakt, -en",der,B2+,30.4572,0.9133,0,fact,Das Buch basiert auf wissenschaftlichen Fakten.,The book is based on scientific facts.
+2568,"die Herstellung, -en",die,B2+,30.4572,0.8389,0,production,Die Herstellung des Produkts besteht aus mehreren Schritten.,The production of the product consists of various steps.
+2569,"das Individuum, -en",das,B2+,30.4572,0.8014,0,individual,Jeder Schüler ist ein Individuum mit eigenen Fähigkeiten.,Every student is an individual with their own abilities.
+2572,"die Versorgung, -en",die,B2+,30.3587,0.8529,0,"supply, care",In vielen Ländern ist die medizinische Versorgung schlecht.,Medical care is poor in many countries.
+2573,"der Kommentar, -e",der,B2+,30.3094,0.9061,0,"comment, opinion",Unter dem Artikel finden sich Kommentare von Lesern.,Below the article are comments from readers.
+2583,"die Betrachtung, -en",die,B2+,30.1615,0.84,0,"contemplation, examination","Bei genauerer Betrachtung erkennt man, dass die Sterne ein Zeichen formen.","Upon closer examination, one recognizes that the stars form a sign."
+2584,"die Kommission, -en",die,B2+,30.1615,0.8403,0,"commission, committee",Eine unabhängige Kommission beobachtet den Wahlprozess.,An independent commission observes the electoral process.
+2589,"die Leiche, -n",die,B2+,30.1123,0.8305,0,corpse,Die Polizei findet die Leiche eines Mannes im Wald.,The police find the body of a man in the forest.
+2592,"der Abbau, -e",der,B2+,30.063,0.6316,0,"reduction, decline, mining",Der Abbau von Metallen ist ein wichtiger wirtschaftlicher Faktor in westafrikanischen Ländern.,The mining of metals is an important economic factor in West African countries.
+2593,"die Staatsanwaltschaft, -en",die,B2+,30.063,0.7654,0,prosecution,Die Staatsanwaltschaft präsentiert neue Beweise vor Gericht.,The prosecution presents new evidence in court.
+2597,"der Moslem, -s",der,B2+,30.0137,0.7929,0,Muslim,"Ich esse kein Schweinefleisch, weil ich Moslem bin.",I don’t eat pork because I’m Muslim.
+2602,"der Mittelpunkt, -e",der,B2+,29.9644,0.9263,0,"midpoint, center of attention",Heute ist sein Geburtstag und nur er steht im Mittelpunkt.,Today is his birthday and only he is the center of attention.
+2604,"die Entstehung, -en",die,B2+,29.9151,0.8658,0,origin,Es gibt verschiedene Theorien zur Entstehung des Universums.,There are several theories about the origin of the universe.
+2611,"der Brite, -n",der,B2+,29.8658,0.8436,0,Brit,Die Briten entscheiden über die Zukunft Großbritanniens.,The Brits decide on Great Britain’s future.
+2614,"die Achse, -n",die,B2+,29.8166,0.7788,0,"axle, axis",Die Erde dreht sich in 24 Stunden einmal um ihre Achse.,The earth rotates once around its axis in 24 hours.
+2619,"der Aufwand, -̈e",der,B2+,29.7673,0.8679,0,"expense, effort",Die Organisation des Festes bedeutet für alle einen großen Aufwand.,The organization of the festival is a big effort for everyone.
+2620,"die Kooperation, -en",die,B2+,29.7673,0.8698,0,cooperation,Das Projekt wird in Kooperation mit der Universität Leipzig durchgeführt.,The project is carried out in cooperation with the University of Leipzig.
+2621,"der Kritiker, -",der,B2+,29.7673,0.8631,0,critic,Die Kritiker der Reform warnen vor wirtschaftlichen Folgen.,The critics of the reform warn of economic consequences.
+2630,"die Republik, -en",die,B2+,29.6687,0.8877,0,republic,"Eine Republik ist eine Staatsform, bei der die Menschen die Regierung wählen.",A republic is a form of state in which the people elect the government.
+2635,"die Norm, -en",die,B2+,29.6194,0.8216,0,norm,Es gibt eine politische Debatte über die Normen und Werte des Landes.,There is a political debate about the norms and values of the country.
+2641,"der Überblick, -e",der,B2+,29.4716,0.8834,0,"view, overview",Ich gebe Ihnen einen kurzen Überblick über meinen Vortrag.,I am giving you a short overview of my presentation.
+2642,"der Geschäftsführer, -",der,B2+,29.4223,0.87,0,manager,Der Geschäftsführer kümmert sich persönlich um das Problem.,The manager personally takes care of the problem.
+2643,"der Griff, -e",der,B2+,29.373,0.9137,0,"handle, grip, grasp",Tobias packt das Messer am Griff.,Tobias grabs the knife by the handle.
+2645,"der Liter, -",der,B2+,29.373,0.862,0,liter,Die Flasche enthält einen Liter Milch.,The bottle contains one liter of milk.
+2646,"das Subjekt, -e",das,B2+,29.373,0.2738,0,subject,Sophia ist das Subjekt in dem Satz “Sophia spielt Fußball.”,Sophia is the subject in the sentence “Sophia plays soccer.”
+2647,"der Außenminister, -",der,B2+,29.3237,0.7647,0,foreign minister,Die Außenministerin trifft sich mit dem türkischen Präsidenten.,The foreign minister is meeting with the Turkish president.
+2648,"die Faser, -n",die,B2+,29.3237,0.3828,0,fiber,Die Fasern an der Leiche stammen wahrscheinlich von der Kleidung des Täters.,The fibers on the body are probably from the offender’s clothes.
+2649,"der Schatz, -̈e",der,B2+,29.3237,0.8515,0,"treasure, sweetheart",Auf dem Boden des Meeres liegen viele Schätze.,On the bottom of the sea lie many treasures.
+2651,"die Zentralbank, -en",die,B2+,29.3237,0.6346,0,central bank,Die Zentralbank senkt die Zinsen.,The central bank lowers interest rates.
+2652,die Alte,"der, die, das",B2+,29.2744,0.8879,0,old person/thing,"Der Alte hat keine Familie mehr, er ist sehr einsam.",The old man has no family; he’s very lonely.
+2653,die Angestellte,"der, die",B2+,29.2744,0.9017,0,employee,Die Firma hat nur wenige Angestellte.,The company has just a few employees.
+2666,"das Ausmaß, -e",das,B2+,29.0773,0.9182,0,"extent, size",Das Ausmaß des Schadens ist noch unklar.,The extent of the damage is still unclear.
+2667,"der Feind, -e",der,B2+,29.0773,0.8848,0,enemy,Nach dem Krieg schließen die ehemaligen Feinde Frieden.,"After the war, the former enemies make peace."
+2669,"der Vorstand, -̈e",der,B2+,29.0773,0.8,0,"board, chairperson",Der Vorstand entscheidet letztendlich über die Vorschläge.,The board finally decides on the proposals.
+2670,der Atem,der,B2+,29.028,0.8517,0,breath,Ihr Atem riecht nach Alkohol.,Her breath smells of alcohol.
+2674,"das Muster, -",das,B2+,29.028,0.8772,0,"pattern, model",Der Stoff hat ein buntes Muster.,The fabric has a colorful pattern.
+2677,der Terror,der,B2+,28.9787,0.8331,0,terror,Verschiedene radikale Gruppen sind für den Terror verantwortlich.,Different radical groups are responsible for the terror.
+2678,"die Verfassung, -en",die,B2+,28.9787,0.8579,0,constitution,Die Verfassung von Deutschland heißt Grundgesetz.,The constitution of Germany is called the Grundgesetz.
+2681,"die Flüchtlingskrise, -n",die,B2+,28.9294,0.7216,0,refugee crisis,Seit der Flüchtlingskrise 2015 haben sich der Staat und die Gesellschaft in vielerlei Hinsicht verändert.,"Since the refugee crisis in 2015, the state and society have changed in many ways."
+2682,der Ärger,der,B2+,28.8802,0.9113,0,"annoyance, trouble",Er hat viel Ärger mit den deutschen Behörden am Flughafen.,He has a lot of trouble with the German authorities at the airport.
+2684,"der Führer, -",der,B2+,28.8309,0.7201,0,"leader, guide",Eine Führerin gibt den Touristen Informationen zur Stadt.,A guide gives the tourists information about the city.
+2688,"die Niere, -n",die,B2+,28.7816,0.6345,0,kidney,Daniels kranke Mutter bekommt eine Niere von ihrem Sohn.,Daniel’s sick mother gets a kidney from her son.
+2690,"der Rezeptor, -en",der,B2+,28.7323,0.5806,0,receptor,Der Rezeptor ist ein Teil von einem Nerv und reagiert auf Reize wie Hitze oder Kälte.,The receptor is part of the nerve and responds to stimuli such as heat or cold.
+2694,Brasilien,das,B2+,28.6337,0.852,0,Brazil,Brasilien ist das größte Land in Südamerika.,Brazil is the largest country in South America.
+2696,"das Grundgesetz, -e",das,B2+,28.6337,0.7684,0,basic law,Viele Normen und Werte unserer Gesellschaft sind im Grundgesetz beschrieben.,Many norms and values of our society are described in the Basic Law.
+2706,die Wut,die,B2+,28.5845,0.8816,0,"rage, fury","Wut ist eine Emotion, die extremen Ärger ausdrückt.",Rage is an emotion that expresses extreme anger.
+2709,"der Kapitän, -e",der,B2+,28.4859,0.7991,0,captain,Der Kapitän verlässt als Letzter das Schiff.,The captain is the last to leave the ship.
+2712,die Beschäftigte,"der, die",B2+,28.3873,0.7848,0,employee,"Wir brauchen mehr Beschäftigte, um die ganze Arbeit zu erledigen.",We need more employees to do all the work.
+2713,"die Bundesliga, -en",die,B2+,28.3873,0.6276,0,(sport) national division,In den Nachrichten werden die Ergebnisse der Fußball-Bundesliga präsentiert.,The results of the German national soccer division will be presented in the news.
+2717,"die Dichte, -n",die,B2+,28.338,0.7549,0,density,"Gegenstände schwimmen, wenn ihre Dichte kleiner ist als die Dichte der Flüssigkeit.",Objects float when their density is lower than the density of the liquid.
+2719,"die Strahlung, -en",die,B2+,28.338,0.6416,0,radiation,Die Strahlung der Sonne ist bereits im Frühjahr sehr intensiv.,The sun’s radiation is already very intense in spring.
+2721,"der Kontinent, -e",der,B2+,28.2888,0.8705,0,continent,Asien und Afrika sind Kontinente.,Asia and Africa are continents.
+2722,"das Milligramm, -",das,B2+,28.2888,0.6973,0,milligram,"Bereits wenige Milligramm der Substanz genügen, um einen Menschen zu töten.",Just a few milligrams of the substance are sufficient to kill a human being.
+2727,"der Sprung, -̈e",der,B2+,28.1902,0.8913,0,jump,Martin zögert vor dem Sprung ins kalte Wasser.,Martin hesitates before the jump into the cold water.
+2732,"die Opposition, -en",die,B2+,28.1409,0.8022,0,opposition,Die Opposition kritisiert die Arbeit der Regierung.,The opposition criticizes the work of the government.
+2735,"der Grundsatz, -̈e",der,B2+,28.0916,0.8159,0,principle,Die Freiheit der Presse ist ein elementarer Grundsatz einer Demokratie.,Freedom of the press is a fundamental principle of democracy.
+2740,"der Akzent, -e",der,B2+,28.0423,0.4207,0,accent,"Alienor spricht Spanisch, aber mit einem starken französischen Akzent.","Alienor speaks Spanish, but with a strong French accent."
+2742,"die Nahrung, -en",die,B2+,27.9931,0.7987,0,"nourishment, food","Weil der Mensch den Wald zerstört, finden viele Tiere nicht genügend Nahrung.",Many animals do not find enough food because humans destroy the forest.
+2744,"der Planet, -en",der,B2+,27.9931,0.8469,0,planet,Die Ressourcen auf unserem Planeten sind knapp.,The resources on our planet are scarce.
+2748,"der Parameter, -",der,B2+,27.9438,0.7364,0,parameter,Die Ergebnisse liegen innerhalb akzeptabler Parameter.,The results are within acceptable parameters.
+2750,"der Europäer, -",der,B2+,27.8945,0.8728,0,European,"Viele junge Menschen fühlen sich nicht als Deutsche, sondern als Europäer.","Many young people feel like Europeans, not Germans."
+2753,die Stille,die,B2+,27.8945,0.8642,0,"peace, silence","Wir gehen in den Wald, um die Stille der Natur zu genießen.",We go into the forest to enjoy the silence of nature.
+2756,"das Proton, -en",das,B2+,27.7959,0.683,0,proton,Ein Proton ist ein Teilchen mit einer positiven elektrischen Ladung.,A proton is a particle with a positive electrical charge.
+2757,Schweizer,der,B2+,27.7959,0.8135,0,Swiss person,Das Unternehmen wird von einem Schweizer geleitet.,The company is managed by a Swiss person.
+2761,"die Beteiligung, -en",die,B2+,27.6974,0.8803,0,participation,Die Beteiligung an dem Projekt ist Pflicht.,The participation in the project is compulsory.
+2762,"das Frühjahr, -e",das,B2+,27.6974,0.8966,0,spring,Im Frühjahr steigen die Temperaturen.,In spring the temperatures increase.
+2764,"das Medium, -en",das,B2+,27.6974,0.704,0,medium,Viele informieren sich über neue Medien wie das Internet.,Many inform themselves through new media such as the internet.
+2765,"die Verpflichtung, -en",die,B2+,27.6974,0.864,0,"commitment, obligation",Als Königin hat sie viele gesellschaftliche Verpflichtungen.,"As queen, she has many social commitments."
+2768,"der Mittag, -e",der,B2+,27.6481,0.8937,0,"noon, midday",Der Mittag kommt nach dem Morgen.,Noon comes after the morning.
+2770,"das Finale, -",das,B2+,27.5988,0.6949,0,"final, finals, finale",Das Finale des Spiels war sehr spannend.,The finale of the game was very exciting.
+2773,"die Tendenz, -en",die,B2+,27.5495,0.8725,0,"tendency, trend, inclination","Es ist mir eigentlich egal, aber ich habe eine leichte Tendenz zu Anikas Idee.","I don’t really care, but I have a slight inclination toward Anika’s idea."
+2774,"der Terrorist, -en",der,B2+,27.5495,0.8135,0,terrorist,Terroristen sind für viel Leid verantwortlich.,Terrorists are responsible for much suffering.
+2778,"die Auswertung, -en",die,B2+,27.4509,0.8033,0,"evaluation, analysis",Ich lese gerade die Auswertung meiner Prüfung.,I’m currently reading the evaluation of my exam.
+2781,"der Nachfolger, -",der,B2+,27.4509,0.873,0,successor,"Wenn ich nicht mehr arbeiten kann, brauche ich einen Nachfolger für meinen Job.","If I can’t work anymore, I need a successor for my job."
+2784,"die Emotion, -en",die,B2+,27.4017,0.7527,0,emotion,Die Liebe ist eine sehr starke Emotion.,Love is a very strong emotion.
+2785,die Armut,die,B2+,27.3524,0.7466,0,poverty,Die Armut der Menschen ist ein großes Problem für eine Gesellschaft.,Poverty is a big problem for a society.
+2786,Australien,das,B2+,27.3524,0.8793,0,Australia,"Bald fliege ich für ein Jahr nach Australien, um dort zu arbeiten.",Soon I will be flying to Australia for one year to work there.
+2791,"der Widerspruch, -̈e",der,B2+,27.3524,0.9152,0,"contradiction, dissent",Deine Worte und deine Taten stehen im Widerspruch zueinander.,Your words and your actions are in contradiction to each other.
+2795,"der Regisseur, -e",der,B2+,27.3031,0.8289,0,director,Er arbeitet als Regisseur am Theater.,He works as a director at the theater.
+2797,"die Villa, -en",die,B2+,27.3031,0.8111,0,villa,"Meine Eltern leben in einer Villa, weil sie dort mehr Platz haben als in einem Haus.",My parents live in a villa because they have more space there than in a house.
+2806,EZB (Europäische Zentralbank),die,B2+,27.106,0.6585,0,European Central Bank,Die Europäische Zentralbank ist die Zentralbank der Mitgliedsstaaten der Europäischen Union.,The European Central Bank is the central bank of the member states of the European Union.
+2807,"die Infrastruktur, -en",die,B2+,27.106,0.8675,0,infrastructure,Große Städte brauchen eine gute Infrastruktur.,Big cities need a good infrastructure.
+2808,"der Konkurrent, -en",der,B2+,27.106,0.8594,0,competitor,Karla ist meine größte Konkurrentin in dem Wettbewerb.,Karla is my biggest competitor in the competition.
+2810,"die Wellenlänge, -n",die,B2+,27.106,0.6289,0,wavelength,"Tom und ich sind auf der gleichen Wellenlänge, deswegen verstehen wir uns so gut.","Tom and I are on the same wavelength, that’s why we get along so well."
+2811,"der Anhänger, -",der,B2+,27.0567,0.8543,0,"pendant, supporter, trailer",Tim schenkt mir zum Geburtstag einen schönen Anhänger für meine Kette.,Tim gives me for my birthday a beautiful pendant for my necklace.
+2813,"die Finanzierung, -en",die,B2+,27.0567,0.8468,0,financing,Die langfristige Finanzierung unseres Hauses scheint gesichert zu sein.,The long-term financing of our house seems to be secured.
+2814,"die Inflation, -en",die,B2+,27.0567,0.4955,0,inflation,Bei der deutschen Inflation 1914 bis 1923 hat das Geld radikal an Wert verloren.,"With the German inflation from 1914 to 1923, the money radically lost value."
+2816,"die Plattform, -en",die,B2+,27.0567,0.8551,0,platform,"Im Internet gibt es eine Plattform, um Informationen auszutauschen.",There is a platform on the internet for exchanging information.
+2822,"der Bundesrat, -̈e",der,B2+,26.9581,0.7542,0,Bundesrat,Im Bundesrat werden wichtige Entscheidungen für das Land getroffen.,The Bundesrat makes important decisions for the country.
+2824,"die Aufklärung, -en",die,B2+,26.9088,0.8859,0,"enlightenment, solution",Die Polizei bittet um Hilfe bei der Aufklärung eines Mordes.,Police are asking for help in the solution of a murder.
+2828,"der Italiener, -",der,B2+,26.8595,0.8665,0,Italian,Jeden Freitag essen wir Pizza beim Italiener.,Every Friday we have pizza at the Italian restaurant.
+2830,"die Schönheit, -en",die,B2+,26.8595,0.8691,0,beauty,Meine Tochter ist eine wahre Schönheit.,My daughter is a true beauty.
+2833,Dänemark,das,B2+,26.8103,0.6085,0,Denmark,Während des Zweiten Weltkriegs war Dänemark besetzt.,Denmark was occupied during World War II.
+2836,Tibet,das,B2+,26.8103,0.1471,0,Tibet,Tibet wird oft als das Dach der Welt bezeichnet.,Tibet is often called the roof of the world.
+2839,"der Besitzer, -",der,B2+,26.761,0.9116,0,owner,"Das Haus gehört nicht mir sondern Paul, er ist der Besitzer.",The house isn’t mine. Paul is the owner.
+2842,"die Persönlichkeit, -en",die,B2+,26.7117,0.8695,0,"personality, celebrity",Mein kleiner Bruder hat schon eine eigene Persönlichkeit entwickelt.,My little brother has already developed his own personality.
+2843,"die Truppe, -n",die,B2+,26.7117,0.8476,0,"troops, unit",Die Freunde von Klara sind eine lustige Truppe.,Klara’s friends are a funny group.
+2845,"die Einschätzung, -en",die,B2+,26.6624,0.8754,0,"opinion, assessment, evaluation",Seine Einschätzung der politischen Lage ist recht positiv.,His assessment of the political situation is quite positive.
+2847,"das Gewebe, -",das,B2+,26.6624,0.747,0,"fabric, tissue",Der Arzt untersucht das menschliche Gewebe nach Schäden.,The doctor examines the human tissue for damage.
+2848,"das Resultat, -e",das,B2+,26.6624,0.8778,0,result,Heute veröffentlichen sie die ersten Resultate des Experiments.,Today they publish the first results of the experiment.
+2850,"die Anordnung, -en",die,B2+,26.6131,0.8223,0,order,Der Prozess beginnt mit einer Anordnung des Richters.,The trial begins with an order from the judge.
+2854,der Hinblick,der,B2+,26.5638,0.8734,0,view,Im Hinblick auf die jüngsten Ereignisse müssen wir unser Vorgehen ändern.,"In view of the recent events, we need to change our approach."
+2855,"die Last, -en",die,B2+,26.5638,0.9001,0,"load, burden",Die Last der Verantwortung ist oft schwer zu tragen.,The burden of responsibility is often difficult to bear.
+2860,"die Version, -en",die,B2+,26.5146,0.8742,0,version,Die Firma bringt eine neue Version für das Programm heraus.,The company is releasing a new version for the program.
+2861,"die Zunge, -n",die,B2+,26.5146,0.8513,0,tongue,Der kleine Junge streckt die Zunge heraus.,The little boy sticks out his tongue.
+2864,die Vielzahl,die,B2+,26.4653,0.8754,0,multitude,Es gibt eine Vielzahl an interessanten Büchern zu diesem einen Thema.,There is a multitude of interesting books on this one topic.
+2865,"der Arbeitgeber, -",der,B2+,26.416,0.8267,0,employer,Ihr Arbeitgeber bemüht sich um gute Bedingungen bei der Arbeit.,Her employer strives for good conditions at work.
+2866,"die Höhle, -n",die,B2+,26.416,0.7867,0,cave,Im Berg gibt es mehrere Höhlen.,There are several caves in the mountain.
+2867,"die Lücke, -n",die,B2+,26.416,0.8624,0,gap,Füllen Sie die Lücken im Text mit den folgenden Wörtern.,Fill the gaps in the text with the following words.
+2871,"das Wirtschaftsforum, -s",das,B2+,26.416,0.4778,0,economic forum,Das jährliche Wirtschaftsforum bietet Gelegenheit für einen Austausch zwischen Unternehmen.,The annual economic forum offers an opportunity for an exchange between companies.
+2872,"die Angelegenheit, -en",die,B2+,26.3667,0.9159,0,"matter, affair",Die Entscheidung ist eine private Angelegenheit.,The decision is a private matter.
+2875,"der Islam, -e",der,B2+,26.3667,0.8047,0,Islam,"Im Islam glauben die Menschen an einen Gott, der Allah genannt wird.","In Islam, people believe in a god called Allah."
+2884,"die Sammlung, -en",die,B2+,26.2681,0.8471,0,collection,"Pauline hat so viele Bücher, sie zeigt mir morgen ihre Sammlung.","Pauline has so many books, she’s showing me her collection tomorrow."
+2886,"der Entwurf, -̈e",der,B2+,26.1696,0.88,0,"sketch, design, draft","Johannes arbeitet an einem Entwurf für das neue Theater, das bald gebaut werden soll.","Johannes is working on a design for the new theater, which is to be built soon."
+2895,"das Turnier, -e",das,B2+,26.071,0.7307,0,tournament,"Ich trainiere mit meinem Pferd für ein Turnier, das ich gewinnen will.",I’m training with my horse for a tournament I want to win.
+2897,"die Volkswirtschaft, -en",die,B2+,26.071,0.5223,0,national economy,Die Volkswirtschaft beschäftigt sich mit der Wirtschaft eines ganzen Landes.,The national economy deals with the economy of a whole country.
+2908,"der Vordergrund, -̈e",der,B2+,25.9724,0.8867,0,foreground,Im Vordergrund sieht man eine dreiköpfige Familie.,In the foreground you see a family of three.
+2909,"der Reiz, -e",der,B2+,25.9232,0.7625,0,"stimulus, appeal",Menschen nehmen Reize aus der Umwelt über ihre Sinne auf.,People absorb stimuli from the environment through their senses.
+2911,"der Wahlkampf, -̈e",der,B2+,25.9232,0.7629,0,election campaign,Auch bei dieser Wahl kostet der Wahlkampf die Partei viel Geld.,Also in this election the election campaign costs the party a lot of money.
+2914,"der Akteur, -e",der,B2+,25.8246,0.8459,0,"player, actor",An dem Stück nehmen insgesamt 50 Akteure teil.,A total of 50 actors take part in the play.
+2921,"das Motto, -s",das,B2+,25.726,0.8862,0,motto,Die Party findet unter dem Motto “Zwanziger Jahre” statt.,The party takes place under the motto “Twenties”.
+2922,"die Philosophie, -n",die,B2+,25.726,0.7831,0,philosophy,Max schreibt für sein Seminar über Philosophie eine Arbeit über Aristoteles.,Max writes a paper about Aristotle for his seminar on philosophy.
+2928,"die Klage, -n",die,B2+,25.6767,0.8504,0,"complaint, lawsuit",Vor Gericht wird Klage gegen den Täter erhoben.,The offender is charged with a lawsuit in court.
+2931,"die Gestaltung, -en",die,B2+,25.6275,0.8166,0,"design, organization",Ich verdiene viel Geld mit der Gestaltung von Häusern.,I make a lot of money by designing houses.
+2935,"die Kuh, -̈e",die,B2+,25.5782,0.8532,0,cow,Wir haben Kühe und können täglich frische Milch trinken.,We have cows and can drink fresh milk every day.
+2937,das Vorgehen,das,B2+,25.5782,0.8883,0,"action, approach",Die Polizei ändert ihr Vorgehen in diesem Fall.,The police are changing their approach in this case.
+2940,"der Nutzer, -",der,B2+,25.5289,0.8108,0,user,Jeder Nutzer muss monatlich 40 Euro bezahlen.,Each user must pay 40 euros per month.
+2941,die Stabilität,die,B2+,25.5289,0.845,0,stability,Die Stabilität einer Beziehung wächst mit den Jahren und gemeinsamen Erlebnissen.,The stability of a relationship grows with the years and shared experiences.
+2945,"die Anstrengung, -en",die,B2+,25.4303,0.9006,0,effort,Nur mit enormen Anstrengungen konnten die Städte nach dem Krieg wieder aufgebaut werden.,Only with enormous effort could the cities be rebuilt after the war.
+2946,"der Nationalsozialist, -en (Nazi)",der,B2+,25.4303,0.8791,0,"National Socialist, Nazi",1939 griffen die Nationalsozialisten Polen an.,In 1939 the National Socialists attacked Poland.
+2948,"das Zitat, -e",das,B2+,25.4303,0.86,0,"quotation, quote",Am Anfang des Romans steht ein Zitat von Franz Kafka.,The novel begins with a quotation from Franz Kafka.
+2949,"die Anpassung, -en",die,B2+,25.381,0.8527,0,adaptation,Carina fällt die Anpassung an die heißen Temperaturen in Australien sehr schwer.,Carina thinks the adaptation to the hot temperatures in Australia is very difficult.
+2951,die Menschheit,die,B2+,25.381,0.8847,0,humanity,Der Zustand dieses Planeten betrifft die gesamte Menschheit und nicht nur einzelne Menschen.,The state of this planet affects all of humanity and not just individuals.
+2956,"der Pilot, -en",der,B2+,25.3317,0.6938,0,pilot,Der Pilot des Flugzeugs begrüßt die Passagiere.,The pilot of the aircraft welcomes the passengers.
+2957,"die Vereinbarung, -en",die,B2+,25.3317,0.8473,0,agreement,Sie treffen beim Anwalt eine Vereinbarung für die Kinder.,They make an arrangement with the lawyer for the children.
+2959,"das Labor, -e",das,B2+,25.2825,0.8656,0,laboratory,Robert Koch führte in seinem Labor in Berlin Experimente zu Krankheiten durch.,Robert Koch conducted experiments on diseases in his laboratory in Berlin.
+2962,"der Höhepunkt, -e",der,B2+,25.2332,0.9012,0,"highlight, peak",Den Höhepunkt der Party bildet der Auftritt der Band.,The highlight of the party is the performance of the band.
+2964,"die Anerkennung, -en",die,B2+,25.1839,0.8636,0,recognition,Albert Einstein bekam große Anerkennung für seine Erkenntnisse in der Physik.,Albert Einstein received great recognition for his findings in physics.
+2967,"die Formulierung, -en",die,B2+,25.1839,0.8778,0,formulation,Der Student ändert die Formulierung seiner These.,The student changes the formulation of his thesis.
+2968,"die Berücksichtigung, -en",die,B2+,25.1346,0.8331,0,consideration,Unter Berücksichtigung der steilen Wege dürfen hier nur erfahrene Leute wandern.,"Taking into consideration the steep paths, only experienced people are allowed to hike here."
+2971,"das Weihnachten, -","das, die (pl)",B2+,25.1346,0.8911,0,Christmas,"Alle Kinder freuen sich auf Weihnachten und die Geschenke, die es dann gibt.",All children look forward to Christmas and the gifts that will be given.
+2974,"die Reduktion, -en",die,B2+,25.0853,0.7835,0,reduction,Ich kümmere mich um die Reduktion der Fehler im Text.,I take care of the reduction of errors in the text.
+2976,"der Komplex, -e",der,B2+,25.036,0.7275,0,complex,"Weil sie sehr dick ist, hat sie große Komplexe, in die Öffentlichkeit zu gehen.","Because she’s very big, she has big complexes about going out in public."
+2984,"die Prognose, -n",die,B2+,24.9868,0.8622,0,"prognosis, forecast",Die Prognose für das Wetter für die nächste Woche ist sehr gut.,The forecast for the weather next week is very good.
+2987,"das Anliegen, -",das,B2+,24.9375,0.8292,0,request,Die Patienten kommen mit ihren Anliegen erst sehr spät in die Praxis des Arztes.,The patients come to the doctor’s practice only very late with their concerns.
+2993,"das Abkommen, -",das,B2+,24.8389,0.7933,0,agreement,Beide Parteien haben das Abkommen unterzeichnet.,Both parties have signed the agreement.
+2994,"die Abstimmung, -en",die,B2+,24.8389,0.8304,0,"vote, coordination",Für die Entscheidung über den Bau der neuen Kirche hat man eine öffentliche Abstimmung durchgeführt.,A public vote was held to decide on the construction of the new church.
+3001,"die Zusammenfassung, -en",die,B2+,24.8389,0.8256,0,summary,Ich lese mir immer nur die Zusammenfassung von einem Buch durch.,I always only read the summary of a book.
+3002,"die Disziplin, -en",die,B2+,24.7896,0.8647,0,discipline,Schwimmen ist eine olympische Disziplin.,Swimming is an Olympic discipline.
+3003,"der Aufstieg, -e",der,B2+,24.7403,0.8699,0,"climb, rise",Der Aufstieg zum Gipfel ist anstrengend.,The climb to the summit is exhausting.
+3008,"der Gastgeber, -",der,B2+,24.6911,0.8262,0,host,Der Gastgeber kümmert sich gut um seine Gäste.,The host takes good care of his guests.
+3011,"das Skript, -e",das,B2+,24.6911,0.6988,0,"script, lecture notes",An dem Skript zum Film arbeiten zwei Autoren zusammen.,Two authors are working together on the script for the movie.
+3017,"die Abweichung, -en",die,B2+,24.5925,0.8312,0,"difference, deviation, tolerance",Abweichungen von der Norm werden nicht akzeptiert.,Deviations from the norm are not accepted.
+3022,"die Wange, -n",die,B2+,24.5925,0.8153,0,cheek,Zum Abschied gibt er ihr einen Kuss auf die Wange.,He gives her a kiss on the cheek as a farewell.
+3023,"der Champion, -s",der,B2+,24.5432,0.6548,0,champion,Nach unserem Sieg sind wir endlich die Champions.,"After our victory, we are finally the champions."
+3024,"der Horizont, -e",der,B2+,24.5432,0.8612,0,horizon,Die Sonne geht scheinbar am Horizont unter.,The sun seems to set on the horizon.
+3025,"die Intensität, -en",die,B2+,24.5432,0.7562,0,intensity,Die Intensität des Geschmacks ist beeindruckend.,The intensity of the flavor is impressive.
+3027,die Linke,die,B2+,24.5432,0.418,0,"left-wing party, Left Party",Die Linke ist derzeit Oppositionspartei im deutschen Parlament.,The Linke is currently the opposition party in the German parliament.
+3030,"das Symptom, -e",das,B2+,24.5432,0.7599,0,symptom,Jede Krankheit hat spezifische Symptome.,Each disease has specific symptoms.
+3032,"die Auffassung, -en",die,B2+,24.4446,0.8564,0,point of view,Ich habe eine andere Auffassung zu dem Thema als du.,I have a different point of view on the subject than you do.
+3034,"das Kunstwerk, -e",das,B2+,24.4446,0.8185,0,work of art,Im Louvre gibt es viele berühmte Kunstwerke.,There are many famous works of art in the Louvre.
+3035,"das Ministerium, -en",das,B2+,24.4446,0.8396,0,"ministry, department",Meine Mutter arbeitet im Ministerium für Arbeit.,My mother works at the Ministry of Labor.
+3036,"der Österreicher, -",der,B2+,24.4446,0.733,0,Austrian,Der Österreicher wohnt heute in den USA.,The Austrian now lives in the USA.
+3038,"der Ursprung, -̈e",der,B2+,24.4446,0.8366,0,origin,Adam und Eva sind in der Bibel der Ursprung der Menschheit.,Adam and Eve are the origin of humanity in the Bible.
+3042,"die Schwäche, -n",die,B2+,24.3461,0.9142,0,weakness,Anika hat eine Schwäche für Pizza.,Anika has a weakness for pizza.
+3043,"das Minus, -se",das,B2+,24.2968,0.8497,0,"minus, deficit",Das Unternehmen hat im letzten Jahr ein Minus von zwei Millionen gemacht.,"Last year, the company had a deficit of two million."
+3044,"das Eisen, -",das,B2+,24.2475,0.7353,0,iron,Die Tür ist aus Eisen und sehr schwer.,The door is made of iron and very heavy.
+3045,Iran,der,B2+,24.2475,0.7988,0,Iran,Die Hauptstadt des Iran ist Teheran.,The capital of Iran is Tehran.
+3046,"die Besonderheit, -en",die,B2+,24.1982,0.8684,0,"idiosyncracy, (special) feature, unique characteristic","Die Besonderheit der Universität liegt darin, dass die Studenten selbst forschen.",The unique characteristic of the university is that students conduct research themselves.
+3052,"die Unsicherheit, -en",die,B2+,24.1489,0.8811,0,uncertainty,Bei der Auswahl der Universität herrscht bei vielen Studenten eine große Unsicherheit.,"When choosing a university, there is a great deal of uncertainty among many students."
+3054,Irak,der,B2+,24.0997,0.7979,0,Iraq,Die Republik Irak ist ein Staat in Vorderasien.,The Republic of Iraq is a state in the Middle East.
+3061,"die These, -n",die,B2+,24.0011,0.8688,0,thesis,Ich brauche eine gute These für meine wissenschaftliche Arbeit.,I need a good thesis for my scientific work.
+3063,"der Besitz, -e",der,B2+,23.9518,0.9009,0,"property, possession",Das Haus ist im Besitz der Familie.,The house is in the possession of the family.
+3065,"der Gläubiger, -",der,B2+,23.9518,0.6764,0,"creditor, believer","Sein Gehalt reicht gerade einmal aus, um die Gläubiger zu bezahlen.",His income is just enough to pay the creditors.
+3070,"die Anfrage, -n",die,B2+,23.9025,0.853,0,"inquiry, request",Auf Anfrage müssen weitere Dokumente eingereicht werden.,Further documents have to be handed in on request.
+3074,"die Platte, -n",die,B2+,23.9025,0.8539,0,"disk, record, plate",Der Kuchen steht auf einer Platte aus Glas.,The cake stands on a glass plate.
+3081,"das Gymnasium, -en",das,B2+,23.8532,0.7955,0,secondary school,Nach der Grundschule wechseln einige kluge Schüler auf das Gymnasium.,After primary school some smart students move on to secondary school.
+3083,"der Mörder, -",der,B2+,23.8532,0.8027,0,murderer,Der Mörder muss für acht Jahre ins Gefängnis.,The murderer must go to prison for eight years.
+3087,"die Substitution, -en",die,B2+,23.804,0.472,0,"substitution, replacement","Eine Substitution kann erfolgen, wenn vorausbezahlt wird.",A replacement is possible if paid in advance.
+3091,"der Kanton, -e",der,B2+,23.7547,0.5816,0,"canton (Switzerland), province",Die Schweiz ist in viele Kantone unterteilt.,Switzerland is divided into many cantons.
+3092,Sachsen,das,B2+,23.7547,0.7912,0,Saxony,Sachsen ist ein Bundesland in Deutschland.,Saxony is a federal state in Germany.
+3094,"der Status, -",der,B2+,23.7547,0.854,0,status,Sein teures Auto ist ein Symbol für seinen Status.,His expensive car is a symbol of his status.
+3095,"das Stichwort, -̈er",das,B2+,23.7547,0.8055,0,"cue, key word",Mirjam fasst den Text in wenigen Stichworten zusammen.,Mirjam summarizes the text in a few key words.
+3099,"der Weltmeister, -",der,B2+,23.7054,0.7063,0,world champion,Deutschland war 2014 Weltmeister im Fußball.,Germany was world champion in soccer in 2014.
+3100,"der Duft, -̈e",der,B2+,23.6561,0.5432,0,"(pleasant) smell, fragrance",Die Blume verbreitet einen süßen Duft.,The flower spreads a sweet scent.
+3105,"die Leidenschaft, -en",die,B2+,23.6068,0.8939,0,passion,Er entdeckt seine Leidenschaft zur Musik.,He discovers his passion for music.
+3106,"der Parkplatz, -̈e",der,B2+,23.6068,0.8297,0,parking place,Zu der Wohnung gehört ein Parkplatz vor dem Haus.,The apartment includes a parking space in front of the house.
+3109,"die Universitätsbibliothek, -en",die,B2+,23.5575,0.5581,0,university library,Sie holt sich ein Buch aus der Universitätsbibliothek.,She’s getting a book from the university library.
+3110,"die Zusammensetzung, -en",die,B2+,23.5575,0.8233,0,composition,Wissenschaftler erforschen die Zusammensetzung der menschlichen DNA.,Scientists are investigating the composition of human DNA.
+3111,"die Ausführung, -en",die,B2+,23.5083,0.8587,0,"implementation, type",Die Ausführung des Projekts wird mehrere Jahre dauern.,The implementation of the project will take several years.
+3117,"der Quadratmeter, -",der,B2+,23.4097,0.8698,0,square meter,Die Wohnung ist 65 Quadratmeter groß.,The apartment is 65 square meters.
+3119,"die Beschwerde, -n",die,B2+,23.3604,0.8103,0,complaint,Bislang gibt es keine Beschwerden über unseren Service.,So far there have been no complaints about our service.
+3124,"die Rahmenbedingung, -en",die,B2+,23.3111,0.8105,0,prevailing condition,Die Regierung will die Rahmenbedingungen für Familien verbessern.,The government wants to improve the prevailing conditions for families.
+3125,"der Suizid, -e",der,B2+,23.3111,0.2547,0,suicide,Menschen mit psychischen Problemen begehen öfter Suizid als gesunde Menschen.,People with mental health problems commit suicide more often than healthy people.
+3135,"das Verbrechen, -",das,B2+,23.2126,0.8875,0,crime,Ein Verbrechen hat oft eine Strafe zur Folge.,Crime often results in punishment.
+3136,"die Aktivierung, -en",die,B2+,23.1633,0.5311,0,activation,Wie senden Ihnen eine Mail für die Aktivierung Ihres Accounts.,We will send you an e-mail for activation of your account.
+3138,"die Dunkelheit, -en",die,B2+,23.1633,0.8479,0,darkness,Ich laufe nicht gerne in der Dunkelheit nach Hause.,I don’t like walking home in the dark.
+3141,"die Übertragung, -en",die,B2+,23.1633,0.8133,0,"transmission, broadcast",Die Übertragung des Spiels im Fernsehen wird unterbrochen.,The transmission of the game on television is interrupted.
+3142,der Wasserstoff,der,B2+,23.114,0.6451,0,hydrogen,"Wasserstoff ist ein chemisches Element, das mit Sauerstoff zusammen Wasser ergibt.","Hydrogen is a chemical element which, together with oxygen, produces water."
+3143,"der Anblick, -e",der,B2+,23.0647,0.8563,0,sight,Die kranken Kinder bieten einen traurigen Anblick.,Sick children present a sad sight.
+3149,"der Großteil, -e",der,B2+,23.0154,0.9015,0,"large part, majority",Ein Großteil der Menschen isst Fleisch.,The majority of people eat meat.
+3150,"die Motivation, -en",die,B2+,23.0154,0.8546,0,motivation,Für ein erfolgreiches Studium braucht man viel Motivation.,Successful studies require a lot of motivation.
+3151,"die Software, -s",die,B2+,23.0154,0.8142,0,software,Dein Computer braucht eine neue Software.,Your computer needs new software.
+3154,der Hass,der,B2+,22.9661,0.8876,0,hatred,Kriege verursachen Hass und Gewalt.,Wars cause hatred and violence.
+3158,"die Ferne, -n",die,B2+,22.9169,0.8758,0,distance,Aus der Ferne sehen die Schiffe aus wie kleine Punkte.,"From a distance, the ships look like small dots."
+3159,"das Gelände, -",das,B2+,22.9169,0.8904,0,"ground, site",Auf diesem Gelände baut die Firma weitere Gebäude.,The company is building further buildings on this site.
+3167,"die Lunge, -n",die,B2+,22.8183,0.7269,0,lung,Rauchen ist schlecht für die Lunge.,Smoking is bad for the lungs.
+3170,Baden-Württemberg,das,B2+,22.769,0.7491,0,Baden-Württemberg,Stuttgart ist eine Stadt in Baden- Württemberg.,Stuttgart is a city in Baden- Württemberg.
+3171,das Mittelalter,das,B2+,22.769,0.752,0,Middle Ages,"Die Stadt wurde im neunten Jahrhundert, im Mittelalter, gegründet.","The city was founded in the ninth century, in the Middle Ages."
+3172,"die Sehnsucht, -̈e",die,B2+,22.769,0.898,0,longing,Nach fünf Jahren im Ausland hat er Sehnsucht nach seiner Heimat.,"After five years abroad, he has a longing for his homeland."
+3175,"die Gründung, -en",die,B2+,22.7197,0.8688,0,"foundation, formation, establishment",Für die Gründung eines Clubs braucht man mindestens sieben Mitglieder.,The formation of a club requires a minimum of seven members.
+3176,"der Architekt, -en",der,B2+,22.6704,0.8663,0,architect,Der Architekt gestaltet das neue Theater.,The architect designs the new theater.
+3182,"die Vision, -en",die,B2+,22.6704,0.8951,0,vision,Er hat große Visionen für die Zukunft.,He has big visions for the future.
+3184,"die Börse, -n",die,B2+,22.6212,0.7687,0,stock market,Die politische Entscheidung hat positive Auswirkungen auf die Börse.,The political decision has positive effects on the stock market.
+3185,"die Orientierung, -en",die,B2+,22.6212,0.9074,0,orientation,Die Schilder erleichtern die Orientierung in der Stadt.,The signs facilitate orientation in the city.
+3191,"die Fettsäure, -n",die,B2+,22.5719,0.4357,0,fatty acid,Omega-3-Fettsäuren sind sehr gut für das Herz.,Omega-3 fatty acids are very good for the heart.
+3194,"die Einschränkung, -en",die,B2+,22.5226,0.8885,0,restriction,"Politiker versuchen, das Problem mit gesetzlichen Einschränkungen zu lösen.",Politicians try to solve the problem with legal restrictions.
+3198,"der Stamm, -̈e",der,B2+,22.5226,0.8519,0,"trunk, stem, tribe",Der Baum ist 60 Jahre alt und hat einen dicken Stamm.,The tree is 60 years old and has a thick trunk.
+3209,"das Grab, -̈er",das,B2+,22.3747,0.8687,0,grave,Jeden Sonntag bringt sie frische Blumen ans Grab ihres Mannes.,Every Sunday she brings fresh flowers to her husband’s grave.
+3214,"die Einigung, -en",die,B2+,22.3255,0.8461,0,agreement,"Die Länder müssen eine Einigung erzielen, um den Krieg zu beenden.",The countries must reach an agreement to end the war.
+3217,"die Route, -n",die,B2+,22.3255,0.8026,0,route,Das ist die kürzeste Route nach Prag.,This is the shortest route to Prague.
+3220,"der Beschluss, -̈e",der,B2+,22.2762,0.8661,0,"decision, resolution",Fast alle Mitglieder der Vereinten Nationen stimmen dem Beschluss zu.,Nearly all members of the United Nations agree to the decision.
+3221,die Bundeswehr,die,B2+,22.2762,0.7846,0,Armed Forces,Der Einsatz der Bundeswehr im Irak ist umstritten.,The deployment of the Bundeswehr in Iraq is disputed.
+3222,"der Kerl, -e",der,B2+,22.2762,0.8602,0,"fellow, bloke",Er sieht aus wie ein freundlicher Kerl.,He looks like a kind fellow.
+3225,"der Ausgleich, -e",der,B2+,22.2269,0.8788,0,"balancing, compensation, change",Als Ausgleich zu seinem Job macht er viel Sport.,As a balance to his job he does a lot of sports.
+3228,"die Behinderung, -en",die,B2+,22.1776,0.7862,0,"obstruction, handicap",Die großen Steine auf der Straße stellen eine Behinderung für die Fahrer dar.,The large stones on the road are a hindrance for the drivers.
+3231,"die Varianz, -en",die,B2+,22.1776,0.3382,0,variance,Die Studenten sollen den Mittelwert und die Varianz berechnen.,The students are supposed to calculate the mean value and the variance.
+3235,"die Demonstration, -en",die,B2+,22.1283,0.8761,0,demonstration,Über tausend Menschen nehmen an der Demonstration gegen den Abbau von Kohle teil.,More than a thousand people are taking part in the demonstration against coal mining.
+3236,"die Linse, -n",die,B2+,22.1283,0.4365,0,"lens, lentil",Manchmal trägt Herr Abdoullah seine Brille und manchmal Linsen.,Sometimes Mr. Abdoullah wears his glasses and sometimes contact lenses.
+3238,"der Posten, -",der,B2+,22.1283,0.8504,0,"post, position",Sie hat alle notwendigen Qualifikationen für den Posten.,She has all the necessary qualifications for the position.
+3241,"die Arterie, -n",die,B2+,22.079,0.5045,0,artery,Das Blut fließt durch die Arterien.,Blood flows through the arteries.
+3242,"die Öffnung, -en",die,B2+,22.079,0.8087,0,"opening, hole",Die Kinder klettern durch eine kleine Öffnung im Zaun.,The children climb through a small opening in the fence.
+3245,Norwegen,das,B2+,22.0298,0.8109,0,Norway,Norwegen produziert viel Strom.,Norway produces a lot of electricity.
+3248,der Terrorismus,der,B2+,21.9805,0.7827,0,terrorism,Europäische Großstädte waren in den letzten Jahren häufig Ziel von Terrorismus.,European cities have often been the target of terrorism in recent years.
+3249,"der Wechselkurs, -e",der,B2+,21.9805,0.2498,0,exchange rate,Der Wechselkurs für Euro und Dollar ist relativ stabil.,The exchange rate for the euro and the dollar is relatively stable.
+3250,"die Faust, -̈e",die,B2+,21.9312,0.8732,0,fist,Albert schlägt seinem Bruder mit der Faust ins Gesicht.,Albert punches his brother in the face with his fist.
+3254,"die Veröffentlichung, -en",die,B2+,21.9312,0.84,0,publication,Alle warten auf die Veröffentlichung des letzten Bandes.,Everyone is waiting for the release of the last volume.
+3257,"der Innenminister, -",der,B2+,21.8326,0.7673,0,Minister of the Interior,Der Innenminister ist der Minister für innere Angelegenheiten.,The Minister of the Interior is the Minister for Internal Affairs.
+3260,"der Eingriff, -e",der,B2+,21.7833,0.8553,0,"intervention, interference",Der operative Eingriff war ein Erfolg.,The surgical intervention was a success.
+3262,"die Psychologie, -n",die,B2+,21.7833,0.5536,0,psychology,Elsa studiert Psychologie in den Niederlanden.,Elsa studies psychology in the Netherlands.
+3263,"die Digitalisierung, -en",die,B2+,21.734,0.7366,0,digitalization,Die Digitalisierung entwickelt sich sehr schnell.,Digitalization is developing very fast.
+3264,"die Einsicht, -en",die,B2+,21.734,0.8608,0,"view, insight",Das Gericht gewährt dem Anwalt Einsicht in alle Akten.,The court gives the lawyer access to all files.
+3265,"das Fräulein, -",das,B2+,21.734,0.6968,0,"young lady, miss","Räum endlich dein Zimmer auf, junges Fräulein!","Clean up your room at last, young lady!"
+3267,"der Rückgang, -̈e",der,B2+,21.734,0.7788,0,"fall, decline",Das Unternehmen verzeichnet einen Rückgang des Umsatzes.,The company reports a decline in sales.
+3273,Hunderte,(pl),B2+,21.6848,0.8903,0,hundreds,Es versammeln sich Hunderte von Menschen für die Demonstration.,Hundreds of people are gathering for the demonstration.
+3274,"der Leib, -er",der,B2+,21.6848,0.8889,0,body,Sie zittert am ganzen Leib.,She’s shivering all over her body.
+3279,"der Zaun, -̈e",der,B2+,21.6848,0.8628,0,fence,Ein Zaun trennt unseren Garten vom Garten nebenan.,A fence separates our garden from the garden next door.
+3283,"das Quartal, -e",das,B2+,21.6355,0.7595,0,quarter,Im dritten Quartal sind die Verluste besonders gestiegen.,Losses increased in particular in the third quarter.
+3284,"die Spalte, -n",die,B2+,21.6355,0.7584,0,"fissure, cleft, column",Tragen Sie in die erste Spalte der Tabelle das Datum ein.,Enter the date in the first column of the table.
+3286,"die Abgrenzung, -en",die,B2+,21.5862,0.7927,0,"boundary, disassociation",Eine Abgrenzung des privaten Lebens von der Öffentlichkeit ist unbedingt notwendig.,A separation of private life from public life is absolutely necessary.
+3288,"die Präferenz, -en",die,B2+,21.5862,0.5258,0,preference,Sie hat eine Präferenz für blonde Männer.,She has a preference for blonde men.
+3290,"die Unterscheidung, -en",die,B2+,21.5862,0.8418,0,"differentiation, distinction",Eine Unterscheidung von “er isst” und “er ist” ist sehr wichtig.,A distinction between “he eats” and “he is” is very important.
+3291,"die Dichtung, -en",die,B2+,21.5369,0.5545,0,"seal, literature, poetry","Die Dichtung verhindert, dass Wasser eindringt.",The seal prevents water from entering.
+3293,"der Sachverhalt, -e",der,B2+,21.5369,0.8203,0,facts,Der Sachverhalt ist sehr kompliziert.,The facts are very complicated.
+3298,"der Ertrag, -̈e",der,B2+,21.4876,0.7843,0,yield,Der Bauer freut sich über den hohen Ertrag vom Markt.,The farmer is pleased with the high yield from the market.
+3299,"der Finanzminister, -",der,B2+,21.4876,0.8043,0,finance minister,Wolfgang Schäuble ist ein ehemaliger deutscher Finanzminister.,Wolfgang Schäuble is a former German finance minister.
+3300,"der Vormittag, -e",der,B2+,21.4876,0.8896,0,morning,Wir treffen uns morgen Vormittag zum Frühstück.,We’re meeting for breakfast tomorrow morning.
+3303,"die Gerechtigkeit, -en",die,B2+,21.4383,0.8637,0,justice,Der Superheld kämpft für Gerechtigkeit.,The superhero fights for justice.
+3310,"die Notwendigkeit, -en",die,B2+,21.3398,0.8955,0,necessity,"Ich nehme den Job aus Notwendigkeit, weil ich kein Geld mehr habe.",I’m taking the job out of necessity because I’m out of money.
+3316,"der Athlet, -en",der,B2+,21.2905,0.6676,0,athlete,Die Jury beurteilt die Leistung der Athleten.,The jury judges the performance of the athletes.
+3321,"die Begeisterung, -en",die,B2+,21.2412,0.9144,0,enthusiasm,Nach dem Unfall hat er seine Begeisterung für Sport verloren.,After the accident he lost his enthusiasm for sports.
+3324,Kanada,das,B2+,21.2412,0.8736,0,Canada,Meine Eltern fliegen im Herbst nach Kanada.,My parents are flying to Canada in autumn.
+3325,"der Philosoph, -en",der,B2+,21.2412,0.7993,0,philosopher,Platon war ein griechischer Philosoph.,Plato was a Greek philosopher.
+3326,"die Übersicht, -en",die,B2+,21.2412,0.8254,0,overview,Der Verlag erstellt eine Übersicht über die neuesten Publikationen.,The publisher provides an overview of the latest publications.
+3328,"der Zinssatz, -̈e",der,B2+,21.2412,0.5278,0,interest rate,Die Zentralbank hebt den Zinssatz.,The central bank raises the interest rate.
+3330,Asien,das,B2+,21.1919,0.8681,0,Asia,Asien ist ein beliebtes Reiseziel.,Asia is a popular destination.
+3332,"die Geste, -n",die,B2+,21.1919,0.8897,0,gesture,"Es ist eine nette Geste, Blumen mitzubringen.",It’s a nice gesture to bring flowers.
+3333,"die Vorgabe, -n",die,B2+,21.1919,0.8904,0,guideline,Wir führen den Auftrag gemäß der Vorgaben aus.,We are carrying out the order according to the guidelines.
+3334,"die Abschreibung, -en",die,B2+,21.1426,0.6381,0,"deduction, depreciation",Der Berater für Steuern erklärt die lineare Abschreibung.,The tax consultant explains straight-line depreciation.
+3338,"der Klang, -̈e",der,B2+,21.1426,0.8798,0,"sound, tone",Dieses Instrument hat einen sehr charakteristischen Klang.,This instrument has a very characteristic sound.
+3340,"die Säule, -n",die,B2+,21.1426,0.7854,0,"column, pillar",Das Dach wird von zwei Säulen gestützt.,The roof is supported by two pillars.
+3344,"die Depression, -en",die,B2+,21.0934,0.7506,0,depression,Menschen mit Depression können Hilfe in einer Therapie finden.,People suffering from depression can find help in therapy.
+3348,"der Chinese, -n",der,B2+,21.0441,0.7785,0,Chinese,Viele Chinesen leben außerhalb von China.,Many Chinese live outside China.
+3355,"die Bombe, -n",die,B2+,20.9948,0.8473,0,bomb,In diesem Gebiet liegen unter der Erde noch Bomben aus der Zeit des Krieges.,There are still bombs from the time of the war underground in this area.
+3358,"die Kammer, -n",die,B2+,20.9948,0.8355,0,"chamber, (small) room",In der Kammer neben der Küche lagert Helmut sein Essen.,Helmut stores his food in the chamber next to the kitchen.
+3360,"die Solidarität, -en",die,B2+,20.9948,0.8159,0,solidarity,Die Situation stellt die Solidarität zwischen den Mitgliedsstaaten der UN in Frage.,The situation raises questions about solidarity between UN member states.
+3364,"die Option, -en",die,B2+,20.9455,0.8846,0,option,Bitte wählen Sie unten die entsprechende Option aus.,Please select the appropriate option below.
+3367,"die Show, -s",die,B2+,20.9455,0.8418,0,show,Für die Show laden sie einige berühmte Schauspieler als Gäste ein.,For the show they invite some famous actors as guests.
+3368,"die Unruhe, -n",die,B2+,20.9455,0.7509,0,"unrest, unease, disquiet, upheaval",Er läuft voller Unruhe auf und ab.,He walks up and down full of unease.
+3370,Hessen,das,B2+,20.8962,0.6786,0,Hesse,Das Bundesland Hessen liegt in der Mitte Deutschlands.,The federal state of Hesse is located in the middle of Germany.
+3373,"der Song, -s",der,B2+,20.8962,0.7969,0,song,Der Song kommt heute schon zum dritten Mal im Radio.,This is the third time the song has been on the radio.
+3375,"der Teufel, -",der,B2+,20.8962,0.8857,0,devil,Der Teufel lebt in der Hölle.,The devil lives in hell.
+3376,"die Zielgruppe, -n",die,B2+,20.8962,0.5108,0,target group,"Bevor wir Ideen für das neue Produkt sammeln, legen wir die Zielgruppe fest.","Before we collect ideas for the new product, we determine the target group."
+3379,"die Herrschaft, -en",die,B2+,20.8469,0.8817,0,"power, reign",Die Mehrheit der Bevölkerung leidet unter der Herrschaft des neuen Präsidenten.,The majority of the population suffers under the reign of the new president.
+3385,"die Bedrohung, -en",die,B2+,20.7977,0.8842,0,threat,Die Krankheit ist in unserem Land keine akute Bedrohung mehr.,The disease is no longer an acute threat in our country.
+3386,"die Bereitschaft, -en",die,B2+,20.7977,0.8719,0,willingness,Ein Team sollte eine allgemeine Bereitschaft zur Zusammenarbeit zeigen.,A team needs to show general willingness to cooperate.
+3387,"der Blutdruck, -̈e",der,B2+,20.7977,0.4306,0,blood pressure,Regelmäßige Bewegung senkt den Blutdruck.,Regular exercise lowers blood pressure.
+3388,"die Front, -en",die,B2+,20.7977,0.8895,0,front,Die Soldaten werden bald von der Front nach Hause geschickt.,The soldiers will soon be sent home from the front.
+3391,"die Verschiebung, -en",die,B2+,20.7977,0.8431,0,"shift, postponement",Nach den Wahlen kommt es zu einer Verschiebung der Macht.,There will be a shift in power after the elections.
+3394,"die Empfehlung, -en",die,B2+,20.7484,0.8904,0,recommendation,Ich kaufe den Computer auf Empfehlung von Robin.,I’m buying the computer on Robin’s recommendation.
+3400,der Wohlstand,der,B2+,20.7484,0.851,0,"prosperity, wealth",Schreckliche Armut und großer Wohlstand bestehen nebeneinander in der Stadt.,Terrible poverty and great wealth exist in the city side by side.
+3401,"der Felsen, -",der,B2+,20.6991,0.7973,0,rock,"Wir sehen einige Vögel, die auf den Felsen im Meer sitzen.",We can see some birds sitting on the rocks in the sea.
+3409,"die Durchführung, -en",die,B2+,20.6498,0.8415,0,carrying out,Die Durchführung der Wahlen verläuft problemlos.,The carrying out of the elections is going smoothly.
+3413,die Erziehung,die,B2+,20.6005,0.8454,0,"upbringing, education",Ihre strenge Erziehung zerstört die emotionale Beziehung zwischen Eltern und Kind.,Their strict upbringing destroys the emotional relationship between parents and child.
+3416,"die Datenbank, -en",die,B2+,20.5512,0.5708,0,database,Wir speichern alle unsere Kundendaten in einer Datenbank.,We store all our customer data in a database.
+3418,"der Premier, -s",der,B2+,20.5512,0.7335,0,prime minister,Ein Premier ist in vielen Ländern der Regierungschef.,A prime minister is the head of government in many countries.
+3421,"der Befehl, -e",der,B2+,20.502,0.8646,0,"order, command",Der Soldat erfüllt den Befehl des Offiziers.,The soldier obeys the officer’s order.
+3422,"der Christ, -en",der,B2+,20.502,0.866,0,Christian,Felix ist ein gläubiger Christ.,Felix is a believing Christian.
+3425,"der Treffer, -",der,B2+,20.502,0.7154,0,"hit, goal",Der Spieler erzielt zwei Treffer während des Spiels.,The player scores two goals during the game.
+3426,"der Helfer, -",der,B2+,20.4527,0.8675,0,"helper, accomplice",Der Verein ist immer auf der Suche nach freiwilligen Helfern.,The association is always looking for voluntary helpers.
+3427,"der Vizepräsident, -en",der,B2+,20.4527,0.4487,0,vice president,"Wenn der Präsident zurücktritt, übernimmt der Vizepräsident seine Stelle.","If the president resigns, the vice president takes his place."
+3428,"die Haustür, -en",die,B2+,20.4034,0.847,0,front door,Mein Nachbar klingelt an der Haustür.,My neighbor rings at the front door.
+3429,"die Landesregierung, -en",die,B2+,20.4034,0.6531,0,state government,Die Landesregierung stellt für das Projekt eine Million Euro bereit.,The state government is providing one million euros for the project.
+3440,"die Mitteilung, -en",die,B2+,20.3048,0.8435,0,"communication, announcement",Wir erhalten eine wichtige Mitteilung von unserem Chef.,We’re receiving an important announcement from our boss.
+3445,"der Bezirk, -e",der,B2+,20.2555,0.8189,0,district,Sein Büro ist im westlichen Bezirk der Stadt.,His office is in the western district of the city.
+3447,"die Entdeckung, -en",die,B2+,20.2555,0.8622,0,discovery,Marie Curies Erfolg war die Entdeckung des chemischen Elements Radium.,Marie Curie’s success was the discovery of the chemical element radium.
+3449,"der General, -e",der,B2+,20.2555,0.8263,0,general,"Er ist kein normaler Soldat, sondern ein General.","He’s not a regular soldier, he’s a general."
+3458,"der Chemiker, -",der,B2+,20.2063,0.6173,0,chemist,Die Chemikerin arbeitet mit gefährlichen Substanzen.,The chemist works with dangerous substances.
+3459,"die Erscheinung, -en",die,B2+,20.2063,0.8733,0,"phenomenon, appearance",Er legt Wert auf seine äußere Erscheinung.,He attaches great importance to his appearance.
+3463,"die Maus, -̈e",die,B2+,20.2063,0.8228,0,mouse,Eine Maus ist ein kleines Tier.,A mouse is a small animal.
+3464,"die Unabhängigkeit, -en",die,B2+,20.2063,0.7674,0,independence,In den sechziger Jahren erklärten viele afrikanische Staaten ihre Unabhängigkeit.,In the 1960s many African states declared independence.
+3465,"die Vene, -n",die,B2+,20.2063,0.4439,0,vein,Das Blut fließt durch die Venen zum Herzen.,Blood flows through the veins to the heart.
+3466,"der Bestand, -̈e",der,B2+,20.157,0.8579,0,"continuation, stock, supply","Gemeinsam versuchen sie, den Bestand der Firma zu sichern.",Together they try to secure the continuation of the company.
+3468,"die Kohle, -n",die,B2+,20.157,0.8708,0,coal,"Kohle erzeugt Energie, wenn man sie verbrennt.",Coal produces energy when burned.
+3471,"das Smartphone, -s",das,B2+,20.157,0.8031,0,smartphone,"Smartphones sind wie kleine Computer, die man in die Tasche stecken kann.",Smartphones are like small computers you can put in your pocket.
+3474,"das Kloster, -̈",das,B2+,20.1077,0.8287,0,"monastery, convent","In einem Kloster lebt eine christliche Gemeinschaft, die dort ihren Glauben ausübt.",In a monastery lives a Christian community that practices its faith there.
+3480,"die Eröffnung, -en",die,B2+,20.0584,0.8617,0,opening,Jeder Kunde bekommt ein Geschenk bei der Eröffnung des Geschäfts.,Every customer receives a gift at the shop opening.
+3481,"die Fragestellung, -en",die,B2+,20.0584,0.8065,0,"problem, question",Der Schüler versteht die Fragestellung nicht.,The student doesn’t understand the question.
+3482,"der Grieche, -n",der,B2+,20.0584,0.8109,0,Greek,Er ist ein Grieche aus Athen.,He’s a Greek from Athens.
+3485,der Sex,der,B2+,20.0584,0.8673,0,sex,Sie hat Sex und wird schwanger.,She has sex and gets pregnant.
+3494,"der Bär, -en",der,B2+,19.9106,0.8266,0,bear,"Ein Bär ist ein großes braunes Tier, das in kalten Regionen lebt.",A bear is a large brown animal that lives in cold regions.
+3497,"das Menschenrecht, -e",das,B2+,19.9106,0.8308,0,human right,"Menschenrechte sind die grundlegenden Rechte, die jede Person haben sollte.",Human rights are the fundamental rights that every person should have.
+3500,der Wahnsinn,der,B2+,19.9106,0.8635,0,"madness, insanity, lunacy","Wenn sie die Arbeit allein schaffen will, dann ist das absoluter Wahnsinn.","If she wants to do the job on her own, it would be absolute madness."
+3505,"die Verknüpfung, -en",die,B2+,19.8613,0.7491,0,"combination, link",Das Seminar ist eine gute Verknüpfung von Theorie und Praxis.,The seminar is a good combination of theory and practice.
+3510,"der Maßstab, -̈e",der,B2+,19.812,0.9017,0,"scale, yardstick, standard",Die Karte zeigt das Land im Maßstab 1: 10000.,"The map shows the country on a scale of 1: 10,000."
+3513,"der Vorhang, -̈e",der,B2+,19.812,0.8726,0,curtain,Sie zieht die Vorhänge vor das Fenster.,She pulls the curtains in front of the window.
+3514,"die Währung, -en",die,B2+,19.812,0.7564,0,currency,Der Euro ist die Währung in vielen europäischen Ländern.,The euro is the currency in many European countries.
+3515,"die Wüste, -n",die,B2+,19.812,0.8447,0,desert,In der Wüste ist es sehr heiß und das Wasser ist knapp.,In the desert it is very hot and water is scarce.
+3521,"die Flamme, -n",die,B2+,19.7134,0.8717,0,flame,Gas brennt mit blauer Flamme.,Gas burns with a blue flame.
+3522,"der Frühling, -e",der,B2+,19.7134,0.8832,0,spring,Im März beginnt der Frühling und es wird wärmer.,In March spring begins and it gets warmer.
+3524,"das Maximum, die Maxima",das,B2+,19.7134,0.7367,0,maximum,"Stefanie rennt extrem schnell, aber sie hat ihr Maximum noch nicht erreicht.","Stefanie runs extremely fast, but she hasn’t reached her maximum yet."
+3525,das Militär,das,B2+,19.7134,0.8394,0,military,Das Militär benötigt neue Waffen und Flugzeuge.,The military needs new weapons and planes.
+3527,"der Papst, -̈e",der,B2+,19.7134,0.7745,0,pope,Papst ist der höchste Titel der katholischen Kirche.,Pope is the highest title in the Catholic Church.
+3529,"die Aufregung, -en",die,B2+,19.6641,0.9059,0,excitement,"Vor dem Konzert spüren sie, wie die Aufregung steigt.",Before the concert they feel the excitement rising.
+3534,"der Terroranschlag, -̈e",der,B2+,19.6641,0.7526,0,terrorist attack,Zehn Menschen sterben bei einem Terroranschlag in Kabul.,Ten people die in a terrorist attack in Kabul.
+3537,"der Embryo, -ne",der,B2+,19.6149,0.6905,0,embryo,In der sechsten Woche beginnt das Herz eines menschlichen Embryos zu schlagen.,In the sixth week the heart of a human embryo begins to beat.
+3538,"die Muskulatur, -en",die,B2+,19.6149,0.6122,0,musculature,"Nach dem Unfall muss sie viel Sport machen, um ihre Muskulatur zu stärken.",After the accident she has to do a lot of sports to strengthen her musculature.
+3539,"der Rückstand, -̈e",der,B2+,19.6149,0.7541,0,"backlog, deficit",Die Mannschaft verliert das Spiel mit einem Rückstand von zwei Punkten.,The team loses the game with a deficit of two points.
+3541,"der Ermittler, -",der,B2+,19.5656,0.7466,0,investigator,Sie ist die zuständige Ermittlerin in diesem Fall.,She’s the investigator in charge of this case.
+3543,"die Hypothese, -n",die,B2+,19.5656,0.7605,0,hypothesis,Die Hypothese ist widerlegt.,The hypothesis is refuted.
+3552,"die Übernahme, -n",die,B2+,19.467,0.8575,0,takeover,Die Chefs organisieren die Übernahme des Konzerns durch eine große Firma.,The heads organize the takeover of the group by a large company.
+3556,"die Kapazität, -en",die,B2+,19.4177,0.8176,0,capacity,Die Halle hat eine Kapazität von 500 Plätzen.,The hall has a capacity of 500 seats.
+3557,"der Regierungschef, -s",der,B2+,19.4177,0.7669,0,head of government,Sie strebt das Amt des Regierungschefs an.,She is striving for the office of head of government.
+3559,"der Rohstoff, -e",der,B2+,19.4177,0.803,0,raw material,Das Land exportiert Rohstoffe wie Kupfer.,The country exports raw materials such as copper.
+3561,"der Fokus, -se",der,B2+,19.3684,0.8707,0,focus,Das Thema Bildung steht im Fokus der öffentlichen Debatte.,The topic of education is the focus of public debate.
+3563,"das Informationssystem, -e",das,B2+,19.3684,0.3247,0,information system,Mehrere Personen können gleichzeitig auf das Informationssystem zugreifen.,Multiple people can access the information system simultaneously.
+3566,"der Pfarrer, -",der,B2+,19.3684,0.8405,0,pastor,Er ist Pfarrer der örtlichen Kirche.,He’s a pastor of the local church.
+3567,"die Provinz, -en",die,B2+,19.3684,0.8621,0,province,Sie stammt aus der Provinz Quebec.,She comes from the province of Quebec.
+3568,die Trauer,die,B2+,19.3684,0.7688,0,grief,Die Trauer über den Tod meines Großvaters ist sehr groß.,The grief about my grandfather’s death is very great.
+3569,"der Aufsichtsrat, -̈e",der,B2+,19.3192,0.7864,0,supervisory board,Der Aufsichtsrat kontrolliert als Gremium bestimmte Organisationen.,"As a committee, the supervisory board monitors certain organizations."
+3570,"das Gerücht, -e",das,B2+,19.3192,0.8909,0,rumor,"Es geht das Gerücht um, dass sie schwanger ist.",There’s a rumor she’s pregnant.
+3573,"der Urlauber, -",der,B2+,19.3192,0.5405,0,vacationer,Für Urlauber mit Flugangst empfehlen sich Plätze in den vorderen Reihen der Maschine.,For vacationers with fear of flying we recommend seats in the front rows of the airplane.
+3575,"die Aufführung, -en",die,B2+,19.2699,0.4986,0,performance,Die Eltern sitzen bei der Aufführung ihrer Tochter in der ersten Reihe.,The parents sit in the front row at their daughter’s performance.
+3576,"das Huhn, -̈er",das,B2+,19.2699,0.7891,0,"hen, chicken",Das Huhn legt jeden Tag ein Ei.,The hen lays an egg every day.
+3577,"die Relation, -en",die,B2+,19.2699,0.6159,0,"proportion, relation",In Relation zu anderen kulturellen Einrichtungen ist die Oper sehr teuer.,"In relation to other cultural institutions, opera is very expensive."
+3579,"die Steigerung, -en",die,B2+,19.2699,0.8407,0,increase,Die Steigerung der Verkäufe ist der Schwerpunkt der Besprechung.,The increase in sales is the focus of the meeting.
+3580,"der Vorfall, -̈e",der,B2+,19.2699,0.8557,0,incident,Sie müssen den Vorfall der Polizei melden.,You must report the incident to the police.
+3581,"das Vorfeld, -er",das,B2+,19.2699,0.8221,0,advance,Wir sehen uns das im Vorfeld sehr genau an.,We have a very close look at this in advance.
+3583,"die Auflösung, -en",die,B2+,19.2206,0.8724,0,"dissolving, dissolution, breaking up",Nach der Auflösung der Regierung werden neue Wahlen abgehalten.,"After the dissolution of the government, new elections will be held."
+3589,"die Akademie, -n",die,B2+,19.1713,0.6949,0,academy,Die Jury der Akademie entscheidet sich für einen Kandidaten.,The academy’s jury decides on a candidate.
+3590,"der Ausgangspunkt, -e",der,B2+,19.1713,0.8641,0,starting point,Ausgangspunkt für die Stadtführung ist der Marktplatz.,The starting point for the city tour is in the marketplace.
+3591,"der Berater, -",der,B2+,19.1713,0.8591,0,"advisor, consultant",Sie arbeitet als Beraterin für den Präsidenten.,She works as an advisor to the president.
+3599,"der Proband, -en",der,B2+,19.122,0.6169,0,"subject, test person",Sie suchen nach Probanden für die Studie.,They’re looking for subjects for the study.
+3601,"die Schlange, -n",die,B2+,19.122,0.8898,0,"snake, line",An der Kasse ist eine lange Schlange.,There’s a long line at the cash register.
+3605,Belgien,das,B2+,19.0727,0.8529,0,Belgium,Mona bringt ihrer Schwester Schokolade aus Belgien mit.,Mona brings her sister chocolate from Belgium.
+3606,"die Einleitung, -en",die,B2+,19.0727,0.7258,0,introduction,Einleitung und Schluss eines Textes sollen relativ kurz sein.,The introduction and conclusion of a text should be relatively short.
+3612,"die Sanktion, -en",die,B2+,19.0727,0.8003,0,sanction,Die EU verhängt erneut wirtschaftliche Sanktionen über das Land.,The EU again imposes economic sanctions on the country.
+3616,"die Architektur, -en",die,B2+,19.0235,0.7698,0,architecture,Sie studiert Architektur und entwirft nun ihr erstes Gebäude.,She is studying architecture and is now designing her first building.
+3620,"der Kreislauf, -̈e",der,B2+,19.0235,0.6911,0,circulation,Sport am Morgen ist gut für den Kreislauf.,Morning exercise is good for your circulation.
+3621,"das Lösungsmittel, -",das,B2+,19.0235,0.6241,0,solvent,Die Farben sind frei von Lösungsmitteln.,These paints are free of solvents.
+3622,"der PC, -s",der,B2+,19.0235,0.7465,0,computer,Durch das häufige Arbeiten am PC bekommt er Schmerzen im Rücken.,Because of the frequent work on the computer he gets pain in his back.
+3623,"das Protokoll, -e",das,B2+,19.0235,0.8248,0,"minutes, record",Die Polizei hält jede Aussage im Protokoll fest.,The police are keeping a record of every statement.
+3630,"das Album, -en",das,B2+,18.9742,0.7629,0,album,Die Sängerin veröffentlicht ein neues Album.,The singer releases a new album.
+3632,die Justiz,die,B2+,18.9742,0.7,0,judiciary,Die Unabhängigkeit der Justiz ist wichtig in einer Demokratie.,The independence of the judiciary is important in a democracy.
+3636,"der Flügel, -",der,B2+,18.9249,0.8846,0,wing,Der Vogel hat sehr schöne bunte Flügel.,The bird has very nice colorful wings.
+3641,"der Hang, -̈e",der,B2+,18.8756,0.8431,0,"slope, inclination","Der Wein wächst am Hang, damit er viel Sonne bekommt.","The wine grows on a slope, so that it gets a lot of sun."
+3642,Ägypten,das,B2+,18.8263,0.8205,0,Egypt,Die Hauptstadt von Ägypten ist Kairo.,The capital of Egypt is Cairo.
+3643,"der Applaus, -e",der,B2+,18.8263,0.6128,0,applause,Die Ministerin erhält Applaus für ihre Rede.,The minister receives applause for her speech.
+3644,"die Ausprägung, -en",die,B2+,18.8263,0.6578,0,"shaping, markedness",Das Umfeld spielt in der Jugend eine große Rolle bei der Ausprägung des Charakters.,The environment plays an important role in the shaping of the character in youth.
+3645,"der Block, -̈e",der,B2+,18.8263,0.892,0,block,Jeden Abend rennt er eine Runde um den Block.,Every evening he runs a round around the block.
+3649,"das Budget, -s",das,B2+,18.777,0.6456,0,budget,Die Firma verfügt über ein jährliches Budget von 20 Millionen Euro.,The company has an annual budget of 20 million euros.
+3654,"der Skandal, -e",der,B2+,18.777,0.8744,0,scandal,Die Presse freut sich über den Skandal und berichtet über jedes Detail.,The press is pleased with the scandal and reports on every detail.
+3656,"die Abgabe, -n",die,B2+,18.7278,0.7958,0,"delivery, handing in",Die Abgabe des Textes ist noch bis nächste Woche möglich.,The handing in of the text is still possible until next week.
+3659,"der Nachweis, -e",der,B2+,18.7278,0.7715,0,"proof, evidence, certificate","Wir benötigen einen Nachweis darüber, dass sie im Moment studieren.",We need proof that you are currently studying.
+3660,"die Steuerung, -en",die,B2+,18.7278,0.8255,0,"control, steering",Die Steuerung der Maschine erfordert viel Übung.,The control of the machine requires a lot of practice.
+3662,"der Aufenthalt, -e",der,B2+,18.6785,0.8979,0,"stay, residence",Während des Aufenthalts in Mexiko lernt sie viel Spanisch.,During her stay in Mexico she learns a lot of Spanish.
+3667,"die Beurteilung, -en",die,B2+,18.6292,0.8548,0,judgment,Meiner Beurteilung nach ist die Verletzung nicht sehr schlimm.,"In my judgment, the injury isn’t very bad."
+3671,"der Prinz, -en",der,B2+,18.6292,0.7146,0,prince,Prinz Harry ist der Enkel von Königin Elizabeth.,Prince Harry ist the grandson of Queen Elizabeth.
+3672,"der Radius, -en",der,B2+,18.6292,0.7123,0,radius,Der Durchmesser eines Kreises ist doppelt so groß wie der Radius.,The diameter of a circle is twice as large as the radius.
+3673,"das Schaf, -e",das,B2+,18.6292,0.8308,0,sheep,Der Hund bewacht die Schafe auf der Wiese.,The dog guards the sheep on the meadow.
+3675,"das Tagebuch, -̈er",das,B2+,18.6292,0.8189,0,diary,Jeden Abend schreibt Frau Höfler ihre Sorgen in ihr Tagebuch.,Every evening Mrs. Höfler writes her worries in her diary.
+3679,"der Ökonom, -en",der,B2+,18.5799,0.7637,0,economist,Der Wirtschaftsminister lässt sich von verschiedenen Ökonomen beraten.,The Minister of Economic Affairs is consulted by various economists.
+3682,"das Adjektiv, -e",das,B2+,18.5306,0.4711,0,adjective,"Adjektive wie “klein”, “rot” oder “schön” beschreiben Substantive genauer.","Adjectives like “small”, “red”, or “beautiful” describe nouns more precisely."
+3689,"die Unternehmung, -en",die,B2+,18.5306,0.6526,0,"company, venture, enterprise",Wir investieren viel Geld in ganz unterschiedliche Unternehmungen.,We are investing a lot of money in very different enterprises.
+3692,"der Bruch, -̈e",der,B2+,18.4813,0.9018,0,"fracture, break",Der Bruch in meinem Bein heilt sehr schnell.,The fracture in my leg heals very fast.
+3694,"die Erweiterung, -en",die,B2+,18.4813,0.8833,0,"expansion, extension",Morgen kaufe ich mir endlich die Erweiterung von meinem Lieblingsspiel.,Tomorrow I’m finally buying the expansion of my favorite game.
+3696,"der Reichtum, -̈er",der,B2+,18.4813,0.8464,0,wealth,"Reichtum und Gesundheit, das wünsche ich dir für die Zukunft!","Wealth and health, that’s what I wish you for the future!"
+3697,"das Schema, -s",das,B2+,18.4813,0.8425,0,scheme,Er arbeitet nach einem festen Schema.,He works according to a fixed scheme.
+3706,"der Strich, -e",der,B2+,18.4321,0.9122,0,"stroke, line","Ich versuche seit vielen Minuten, einen ganz geraden Strich zu zeichnen.",I’ve been trying to draw a straight line for many minutes.
+3708,"die Addition, -en",die,B2+,18.3828,0.5963,0,"addition, summation","Wer gut in Mathe sein will, muss die Addition beherrschen.","If you want to be good at math, you have to master addition."
+3711,"die Innenstadt, -̈e",die,B2+,18.3828,0.8434,0,"town center, downtown","Die Bahn fährt nicht Richtung Innenstadt, du nimmst dir besser ein Taxi.",The train doesn’t go downtown; you’d better take a cab.
+3712,"die Konstruktion, -en",die,B2+,18.3828,0.8708,0,"construction, design",Das Haus ist eine interessante Konstruktion.,The house has an interesting construction.
+3713,"das Lehrbuch, -̈er",das,B2+,18.3828,0.8134,0,textbook,Das Lehrbuch in der Schule erklärt nicht alle Themen.,The textbook at school doesn’t explain all the topics.
+3715,"die Stichprobe, -n",die,B2+,18.3828,0.6044,0,sample,"Die Stichproben unterscheiden sich in ihrer Qualität, sind aber allgemein akzeptabel.",The samples differ in quality but are generally acceptable.
+3717,"der Vorsprung, -̈e",der,B2+,18.3828,0.7733,0,"lead, advance",Mark ist sehr schnell und hat bei dem Rennen einen großen Vorsprung.,Mark is very fast and has a big lead in the race.
+3723,"die Haftung, -en",die,B2+,18.3335,0.6573,0,liability,Das Hotel übernimmt keine Haftung für verlorene Gegenstände.,The hotel accepts no liability for lost items.
+3736,die FIFA,die,B2+,18.2349,0.6629,0,FIFA,FIFA ist die Abkürzung für Fédération Internationale de Football Association.,FIFA is the abbreviation for Fédération Internationale de Football Association.
+3737,"die Hemmung, -en",die,B2+,18.2349,0.5448,0,inhibition,"Viele Leute verlieren ihre Hemmungen, wenn sie Alkohol trinken.",Many people lose their inhibitions when they drink alcohol.
+3739,"die Tragödie, -n",die,B2+,18.2349,0.4285,0,tragedy,Die griechische Tragödie König Ödipus endet mit dem tragischen Tod des Helden.,The Greek tragedy King Oedipus ends with the tragic death of the hero.
+3742,das Chaos,das,B2+,18.1856,0.9164,0,chaos,Schnee und Eis können Chaos auf den Straßen verursachen.,Snow and ice can cause chaos on the roads.
+3743,"die Krone, -n",die,B2+,18.1856,0.793,0,crown,Die Königin trägt eine Krone auf dem Kopf.,The queen wears a crown on her head.
+3746,"der Schluck, -e",der,B2+,18.1856,0.8274,0,sip,Sie trinkt einen Schluck Wasser aus der Flasche.,She drinks a sip of water from the bottle.
+3747,"der Schock, -e",der,B2+,18.1856,0.863,0,shock,Nach dem Unfall steht er unter Schock.,He’s in shock after the accident.
+3750,"das Attribut, -e",das,B2+,18.0871,0.5535,0,"adjunct, attribute",Tanja hat viele schöne Attribute.,Tanja has many beautiful attributes.
+3752,"die Diagnose, -n",die,B2+,18.0871,0.8032,0,diagnosis,Morgen fährt er ins Krankenhaus und bekommt seine Diagnose.,Tomorrow he goes to the hospital and gets his diagnosis.
+3756,"die Unterlage, -n",die,B2+,18.0871,0.8875,0,"base, pad, document",Schicken Sie uns Ihre Unterlagen bitte per Post.,Please send your documents by mail.
+3760,"der Ersatz, -̈e",der,B2+,18.0378,0.7967,0,"replacement, compensation","Für das Spiel brauchen wir einen Ersatz für Paul, er ist krank.","For the game we need a replacement for Paul, he’s sick."
+3761,die EU-Kommission,die,B2+,18.0378,0.7717,0,European Commission,Die EU-Kommission ist die Regierung der Europäischen Union.,The European Commission is the government of the European Union.
+3764,"der Rauch, -e",der,B2+,18.0378,0.8216,0,"smoke, fume",Bei einem Feuer entsteht Rauch.,A fire causes smoke.
+3767,"der Vorgänger, -",der,B2+,18.0378,0.8723,0,predecessor,"Judith ist meine Vorgängerin bei der Arbeit, ich übernehme ihren Job ab sofort.","Judith is my predecessor at work, I’m taking over her job from now on."
+3777,"die Feder, -n",die,B2+,17.9392,0.851,0,feather,Der Stoff meines Kleides ist so leicht wie eine Feder.,The fabric of my dress is as light as a feather.
+3780,"das Gemälde, -",das,B2+,17.9392,0.837,0,painting,Im Museum hängen viele berühmte Gemälde.,There are many famous paintings in the museum.
+3783,"das Image, -s",das,B2+,17.9392,0.8551,0,image,Das gute Image der Firma ist meinem Chef sehr wichtig.,The good image of the company is very important to my boss.
+3785,"der Stadtteil, -e",der,B2+,17.9392,0.8449,0,district,Ich wohne in einem sehr schönen Stadtteil von Leipzig.,I live in a very beautiful district of Leipzig.
+3786,"der Träger, -",der,B2+,17.9392,0.8733,0,"strap, holder, responsible body","Als ich den Arm hebe, reißt der Träger von meinem T-Shirt.","As I lift my arm, the strap rips off my T-shirt."
+3788,"die Zunahme, -n",die,B2+,17.9392,0.8414,0,increase,Wir müssen mit einer Zunahme der Anzahl von Studierenden im nächsten Jahr rechnen.,We have to expect an increase in the number of students next year.
+3790,"der Baron, -e",der,B2+,17.8899,0.4999,0,baron,Den Titel Baron bekamen früher nur reiche Menschen.,"In the past, only rich people got the title of baron."
+3791,"das Eigentum, -e",das,B2+,17.8899,0.8048,0,property,"Wenn etwas mir gehört, dann ist es mein Eigentum.","If something belongs to me, it’s my property."
+3793,Sachsen-Anhalt,das,B2+,17.8899,0.7,0,Saxony-Anhalt,Sachsen-Anhalt ist ein Bundesland in der Mitte von Deutschland.,Saxony-Anhalt is a federal state in the middle of Germany.
+3797,"der Befund, -e",der,B2+,17.8406,0.8304,0,"result, finding(s)","Mein Arzt sagt, dass mein Befund für die Krankheit negativ ist.",My doctor says that my findings are negative for the disease.
+3798,die Niederlande,die,B2+,17.8406,0.862,0,the Netherlands,Wir fahren mit einem Schiff durch die Niederlande.,We travel by ship through the Netherlands.
+3800,"der Stoß, -̈e",der,B2+,17.8406,0.7197,0,"push, shock",Sie gibt mir einen Stoß und ich falle hin.,She gives me a push and I fall.
+3801,der Unsinn,der,B2+,17.8406,0.8872,0,nonsense,"Was dir deine Lehrer erzählen, ist Unsinn, ich weiß es besser.","What your teachers tell you is nonsense, I know better."
+3802,"die Wahlperiode, -n",die,B2+,17.8406,0.2008,0,term,Die Wahlperiode eines Bundeskanzlers dauert in Deutschland vier Jahre.,The term of office of a federal chancellor in Germany lasts four years.
+3804,"das Defizit, -e",das,B2+,17.7914,0.832,0,deficit,Der neue Finanzdirektor kann das Defizit deutlich reduzieren.,The new financial director can significantly reduce the deficit.
+3805,"die Dynamik, -en",die,B2+,17.7914,0.8267,0,dynamics,Die Dynamik einer Gruppe bedingt sich an deren Mitgliedern.,The dynamics of a group are determined by its members.
+3808,die Vernunft,die,B2+,17.7914,0.8307,0,reason,Ein gutes Argument basiert auf Vernunft und Logik.,A good argument is based on reason and logic.
+3809,"die Anregung, -en",die,B2+,17.7421,0.8278,0,"stimulus, idea",Die Bilder geben Anregung zur Diskussion.,The pictures provide a stimulus for discussion.
+3810,"der Code, -s",der,B2+,17.7421,0.8021,0,code,"Ich gebe meinen Code in das Handy ein, um es zu starten.",I enter my code into the phone to activate it.
+3813,"der Krebs, -e",der,B2+,17.7421,0.8399,0,cancer,Jährlich erkranken viele Menschen an Krebs.,Many people contract cancer every year.
+3816,"die Airline, -s",die,B2+,17.6928,0.7101,0,airline,Die Airline bietet Flüge von Amsterdam direkt nach Toronto an.,The airline offers direct flights from Amsterdam to Toronto.
+3817,"der Akt, -e",der,B2+,17.6928,0.8617,0,act,Das Stück besteht aus fünf Akten.,The play consists of five acts.
+3819,"der Empfang, -̈e",der,B2+,17.6928,0.888,0,reception,Wir haben hier auf dem Land einen schlechten Empfang.,We have bad reception here in the country.
+3821,"der Nacken, -",der,B2+,17.6928,0.8475,0,neck,Der Nacken ist der Übergang vom Rücken zum Kopf.,The neck is the transition from the back to the head.
+3822,"der Republikaner, -",der,B2+,17.6928,0.6431,0,Republican,Die Republikaner sind Anhänger der Republikanischen Partei der USA.,The Republicans are supporters of the Republican Party of the USA.
+3823,"der Rhythmus, -en",der,B2+,17.6928,0.8857,0,rhythm,Der Rhythmus dieses Liedes ist einfach zu schnell zum Tanzen.,The rhythm of this song is just too fast for dancing.
+3827,"der Ausfall, -̈e",der,B2+,17.6435,0.7716,0,"failure, breakdown",Durch den Ausfall der Maschinen verliert die Firma viel Zeit und Geld.,"Due to the failure of the machines, the company loses a lot of time and money."
+3830,"der Offizier, -e",der,B2+,17.6435,0.7343,0,officer,Der Offizier gibt den Soldaten Anweisungen.,The officer gives instructions to the soldiers.
+3831,"der Protagonist, -en",der,B2+,17.6435,0.6445,0,protagonist,Der Autor nutzt Freunde und Familie als Vorbilder für seine außergewöhnlichen Protagonisten.,The author uses friends and family as role models for his extraordinary protagonists.
+3833,"die Strömung, -en",die,B2+,17.6435,0.8135,0,"current, trend","Hier darf man nicht schwimmen, der Fluss hat eine starke Strömung.",You can’t swim here; the river has a strong current.
+3836,"die Gliederung, -en",die,B2+,17.5942,0.7094,0,"structure, organization",Die Gliederung des Textes besteht aus fünf Punkten.,The structure of the text consists of five points.
+3840,"der Aktionär, -e",der,B2+,17.5449,0.6705,0,shareholder,Die Entwicklung der Börse bereitet den Aktionären Sorge.,Shareholders are concerned about the development of the stock market.
+3845,"der Friedhof, -̈e",der,B2+,17.5449,0.8487,0,cemetery,Jeden Sonntag geht sie auf den Friedhof und besucht das Grab ihres Mannes.,Every Sunday she goes to the cemetery and visits her husband’s grave.
+3847,"der Produzent, -en",der,B2+,17.5449,0.8312,0,producer,Das Unternehmen ist der weltweit größte Produzent von Lebensmitteln.,The company is the world’s largest producer of food.
+3848,"die Transparenz, -en",die,B2+,17.5449,0.8674,0,"transparency, clarity","Transparenz in der Forschung ist wichtig, um ethische Grenzen zu erarbeiten.",Transparency in research is important in order to develop ethical boundaries.
+3849,"der Asylbewerber, -",der,B2+,17.4957,0.7189,0,asylum seeker,"Ein Asylbewerber ist eine Person, die geflohen ist und in einem anderen Land einen Antrag auf Asyl stellt.",An asylum seeker is a person who fled and applies for asylum in another country.
+3850,"der Eigentümer, -",der,B2+,17.4957,0.829,0,owner,Die Polizei sucht den Eigentümer des Autos.,Police are looking for the owner of the car.
+3856,"die Transformation, -en",die,B2+,17.4957,0.7997,0,transformation,Das Internet führt zu einer Transformation vieler Gewohnheiten wie dem Einkaufen.,The internet leads to a transformation of many habits such as shopping.
+3859,"die Akte, -n",die,B2+,17.4464,0.8429,0,file,"Patienten hat ihre eigenen Akten, in denen die Informationen zu ihrer Krankheit stehen.",Patients have their own files containing information about their illnesses.
+3866,"das Magnetfeld, -er",das,B2+,17.4464,0.6139,0,magnetic field,Die Erde ist von einem Magnetfeld umgeben.,The earth is surrounded by a magnetic field.
+3868,"die Schlagzeile, -n",die,B2+,17.4464,0.8196,0,"headline, caption",Die Zeitungen sind voll mit Schlagzeilen über den Skandal.,The newspapers are full of headlines about the scandal.
+3873,"der Spanier, -",der,B2+,17.3971,0.8138,0,Spaniard,Miguel ist Spanier und lebt in Madrid.,Miguel is a Spaniard and lives in Madrid.
+3874,"das Zeitalter, -",das,B2+,17.3971,0.8016,0,"age, period",Im Zeitalter von Medien kommunizieren die Menschen oft nur per Handy.,"In the age of media, people often communicate only by mobile phone."
+3878,"der Jurist, -en",der,B2+,17.3478,0.8892,0,"jurist, lawyer",Als Jurist kennt er das Grundgesetz sehr gut.,"As a lawyer, he knows the Basic Law very well."
+3879,"die Mission, -en",die,B2+,17.3478,0.8676,0,mission,Die Soldaten begeben sich auf eine gefährliche Mission.,The soldiers embark on a dangerous mission.
+3880,"das Mitochondrium, -en",das,B2+,17.3478,0.4868,0,mitochondrion,Mitochondrien sind wichtige Bestandteile einer Zelle.,Mitochondria are important components of a cell.
+3881,"das Neuron, -en",das,B2+,17.3478,0.5549,0,neuron,Neuronen liegen im Gehirn und transportieren Informationen.,Neurons are located in the brain and transport information.
+3882,"die Regulation, -en",die,B2+,17.3478,0.4833,0,regulation,Der Ökonom kritisiert die Regulation der Wirtschaft.,The economist criticizes the regulation of the economy.
+3883,"der Rücktritt, -e",der,B2+,17.3478,0.7749,0,"resignation, withdrawal",Ein Rücktritt von dem Vertrag ist nur 48 Stunden lang möglich.,Withdrawal from the contract is only possible for 48 hours.
+3884,"die Schätzung, -en",die,B2+,17.3478,0.8143,0,"estimate, estimation",Die Zahlen sind nicht sehr genau und basieren auf Schätzungen.,The figures are not very accurate and are based on estimates.
+3885,"die Entropie, -n",die,B2+,17.2985,0.5986,0,entropy,Wärme hat Einfluss auf die Entropie eines Systems.,Heat has an influence on the entropy of a system.
+3886,"das Gelenk, -e",das,B2+,17.2985,0.6136,0,"joint, hinge","Die Schulter ist ein Gelenk, das den Arm mit dem restlichen Körper verbindet.",The shoulder is a joint that connects the arm to the rest of the body.
+3887,"der Marktanteil, -e",der,B2+,17.2985,0.7499,0,market share,Durch die Fusion der Unternehmen verdoppeln sie ihren Marktanteil.,The merger of the companies doubles their market share.
+3889,der Rundfunk,der,B2+,17.2985,0.6729,0,broadcast,Zum Rundfunk gehören Radio und Fernsehen.,Broadcasting includes radio and television.
+3891,die Thermodynamik,die,B2+,17.2985,0.509,0,thermodynamics,Die Lehre von der Wärme wird auch Thermodynamik genannt.,The theory of heat is also called thermodynamics.
+3893,der Quatsch,der,B2+,17.2492,0.8009,0,nonsense,"Was du behauptest, ist absoluter Quatsch!",What you’re claiming is absolute nonsense!
+3895,"das Substrat, -e",das,B2+,17.2492,0.416,0,substrate,"Pflanzen brauchen ein passendes Substrat, um zu wachsen.",Plants need a suitable substrate to grow.
+3899,"das Becken, -",das,B2+,17.1507,0.6924,0,"pool, pelvis",Das Becken zum Schwimmen ist drei Meter tief.,The pool for swimming is three meters deep.
+3902,"der Zwang, -̈e",der,B2+,17.1507,0.8814,0,"force, pressure, compulsion","Kinder lernen nur, wenn sie wollen, und nicht aus Zwang.","Children only learn if they want to, not by force."
+3903,"der Engländer, -",der,B2+,17.1014,0.8341,0,"Englishman, English",Sie ist mit einem Engländer aus London verheiratet.,She is married to an Englishman from London.
+3905,"die Nachrichtenagentur, -en",die,B2+,17.1014,0.7708,0,news agency,Die Nachrichtenagentur sammelt Informationen und gibt diese an die Presse weiter.,The news agency collects information and passes it on to the press.
+3907,"das Abendessen, -",das,B2+,17.0521,0.8652,0,dinner,Morgen Abend sind wir bei Susanne und Robert zum Abendessen eingeladen.,Tomorrow evening we are invited to dinner with Susanne and Robert.
+3908,"der Beobachter, -",der,B2+,17.0521,0.8738,0,observer,Mehrere unabhängige Beobachter erklärten die Wahl für ungültig.,Various independent observers declared the election invalid.
+3909,"der Durchmesser, -",der,B2+,17.0521,0.7987,0,diameter,Die Dose hat einen Durchmesser von zehn Zentimetern.,The can has a diameter of ten centimeters.
+3912,SPÖ (Sozialdemokratische Partei Österreichs),die,B2+,17.0521,0.5148,0,,Social Democratic Party of Austria Die SPÖ fordert freien Zugang zu Universitäten.,The Social Democratic Party of Austria demands free access to universities.
+3915,"die Zerstörung, -en",die,B2+,17.0521,0.9051,0,destruction,Die Zerstörung des Waldes hat ernsthafte Konsequenzen für den Planeten.,The destruction of the forest has serious consequences for the planet.
+3920,"das Stadium, -en",das,B2+,17.0028,0.8608,0,"stage, phase",Das Projekt befindet sich nun im finalen Stadium.,The project is now in its final stage.
+3921,das Unrecht,das,B2+,17.0028,0.9086,0,"injustice, wrong","Er hat Unrecht, wenn er sagt, dass Tiere keinen Schmerz fühlen.",He’s wrong when he says animals don’t feel pain.
+3925,"das Bedenken, -",das,B2+,16.9535,0.8974,0,"concern, doubt","Ihre Eltern haben Bedenken dabei, ihre Kinder abends allein zu lassen.",The parents have concerns about leaving their children alone in the evening.
+3926,"der Cent, -",der,B2+,16.9535,0.8326,0,cent,Ein Euro sind hundert Cent.,One euro is 100 cents.
+3937,"der Brand, -̈e",der,B2+,16.9043,0.7791,0,fire,Die Feuerwehr löscht den Brand.,The fire brigade puts out the fire.
+3939,"die Erfüllung, -en",die,B2+,16.9043,0.8378,0,fulfillment,"Ihr Wunsch geht endlich in Erfüllung, sie bekommt ein Kind!","Her wish finally finds fulfillment, she’s having a child!"
+3940,"das Examen, -ia",das,B2+,16.9043,0.6631,0,exam,Stefanie besteht ihr Examen mit einer guten Note.,Stefanie passes her exam with a good grade.
+3941,"der Kristall, -e",der,B2+,16.9043,0.7256,0,crystal,Alle Gefäße in der Wohnung von Tim sind aus Kristall.,All the vessels in Tim’s flat are made of crystal.
+3943,"die Schale, -n",die,B2+,16.9043,0.7753,0,bowl,Kannst du die Äpfel in die Schale dort legen?,Can you put the apples in the bowl over there?
+3945,"der Schiedsrichter, -",der,B2+,16.9043,0.6222,0,"referee, judge (in sports)","Der Schiedsrichter ist sehr fair, er behandelt beide Mannschaften gleich.",The referee is very fair; he treats both teams equally.
+3948,"das Universum, -en",das,B2+,16.9043,0.8046,0,universe,Das Universum ist unendlich.,The universe is infinite.
+3953,"die Ablehnung, -en",die,B2+,16.855,0.8695,0,"refusal, rejection",Unser Vorschlag trifft auf Ablehnung.,Our proposal meets with rejection.
+3954,die Abwehr,die,B2+,16.855,0.7859,0,defense,Die Abwehr der Fußballmannschaft verhinderte viele Tore.,The defense of the soccer team prevented many goals.
+3955,"der Arsch, -Äe",der,B2+,16.855,0.7433,0,"ass, behind","John ist ein Arsch, weil er Anja schlecht behandelt.",John is an ass because he treats Anja badly.
+3957,"die Globalisierung, -en",die,B2+,16.855,0.801,0,globalization,"Je mehr Staaten zusammenarbeiten, desto größer wird die Globalisierung.","The more states work together, the greater the globalization."
+3958,"die Kampagne, -n",die,B2+,16.855,0.8336,0,campaign,Die Agentur entwickelt eine sehr erfolgreiche Kampagne für unser neues Produkt.,The agency is developing a very successful campaign for our new product.
+3964,"das Camp, -s",das,B2+,16.8057,0.7779,0,camp,"Emil freut sich auf das Camp, weil er den ganzen Tag mit anderen Kindern spielen kann.",Emil is looking forward to the camp because he can play with other children all day long.
+3965,"der Daumen, -",der,B2+,16.8057,0.8751,0,thumb,Zum Schlafen steckt das Baby seinen Daumen in den Mund.,"To be able to sleep, the baby puts its thumb in its mouth."
+3969,Nordrhein-Westfalen,das,B2+,16.8057,0.7443,0,North Rhine-Westphalia,Nordrhein-Westfalen ist ein Bundesland im Westen von Deutschland.,North Rhine- Westphalia is a federal state in the west of Germany.
+3970,der Verstand,der,B2+,16.8057,0.8381,0,reason,"Glaube nicht alles, was die Menschen sagen, sondern benutze deinen eigenen Verstand.","Do not believe everything people say, but use your own reason."
+3977,der Kohlenstoff,das,B2+,16.7564,0.6935,0,carbon,Kohlenstoff ist ein natürliches Element.,Carbon is a natural element.
+3978,"die Quote, -n",die,B2+,16.7564,0.8531,0,"rate, quota, ratio",Die Quote war ungewöhnlich hoch.,The rate was abnormally high.
+3979,"die Vorlage, -n",die,B2+,16.7564,0.8461,0,"draft, model, submission",Ich darf nur unter Vorlage aller notwendigen Dokumente an der Universität studieren.,I am only allowed to study at the university upon submission of all necessary documents.
+3980,"das Vorzeichen, -",das,B2+,16.7564,0.7852,0,"sign, omen","Es ist kein gutes Vorzeichen für den Erfolg der Ehe, wenn Maria und Steffen immer streiten.",It is not a good sign for the success of their marriage if Maria and Steffen always argue.
+3981,"der Zugriff, -e",der,B2+,16.7564,0.8675,0,access,Bei jedem Zugriff auf die Daten muss ein Passwort eingegeben werden.,A password must be entered each time the data is accessed.
+3983,"der Grenzwert, -e",der,B2+,16.7071,0.7866,0,"threshold, limit","Der Arzt sagt, erst wenn der Grenzwert in meinem Blut überschritten ist, bin ich krank.",The doctor says I’m not sick unless my blood level is over the limit.
+3984,"die Großstadt, -̈e",die,B2+,16.7071,0.8823,0,"large city, metropolis",Die meisten Großstädte der Welt haben mehr als fünf Millionen Einwohner.,Most large cities in the world have more than five million inhabitants.
+3987,"die Mitternacht, -̈e",die,B2+,16.7071,0.8803,0,midnight,"Meine Oma sagt, um Mitternacht wachen die Geister auf.",My granny says the spirits wake up at midnight.
+3991,"die Beschleunigung, -en",die,B2+,16.6578,0.6467,0,acceleration,Das Auto schafft eine Beschleunigung von null auf hundert Kilometer pro Stunde in acht Sekunden.,The car manages to accelerate from zero to 100 kilometers per hour in eight seconds.
+3992,"der Bundespräsident, -en",der,B2+,16.6578,0.7968,0,Federal President,"Der Bundespräsident besetzt in Deutschland das höchste Amt, das es in Deutschland gibt.",The Federal President holds the highest office in Germany.
+3994,"die Fliege, -n",die,B2+,16.6578,0.8806,0,fly,"Im Sommer stören mich bestimmte Tiere, wie zum Beispiel Fliegen, sehr.","In summer certain animals, such as flies, bother me a lot."
+3995,"das Immunsystem, -e",das,B2+,16.6578,0.6923,0,immune system,Das Immunsystem ist für die Abwehr von Krankheiten zuständig.,The immune system is responsible for the defense against diseases.
+3997,"die Pressekonferenz, -en",die,B2+,16.6578,0.8295,0,press conference,Die Polizei gibt eine Pressekonferenz zu dem aktuellen Fall.,Police are holding a press conference on the current case.
+4000,"der Strahl, -en",der,B2+,16.6578,0.7454,0,"ray, beam",Die Strahlen der Sonne schaden der Haut.,The sun’s rays damage the skin.
+4001,die Anwesenheit,die,B2+,16.6086,0.8963,0,presence,Die Wahl erfordert die Anwesenheit aller Mitglieder.,The election requires the presence of all members.
+4002,"der Bube, -n",der,B2+,16.6086,0.7474,0,boy,Ich bin Vater von zwei Buben.,I’m the father of two boys.
+4003,"die Geldpolitik, -en",die,B2+,16.6086,0.5781,0,financial policy,Die Geldpolitik der Bank muss geprüft werden.,The financial policy of the bank must be examined.
+4006,"das Manuskript, -e",das,B2+,16.6086,0.7631,0,manuscript,Vor der Rede lese ich mir nochmal das Manuskript durch.,"Before the speech, I’m going to read the manuscript again."
+4007,die Nacherfüllung,die,B2+,16.6086,0.7915,0,supplementary performance,"Bevor der Verkäufer die Ware ersetzen muss, hat er das Recht auf Nacherfüllung, um die Mängel zu beseitigen.","Before the seller must replace the goods, he has the right to supplementary performance to eliminate the defects."
+4009,"der Ausschuss, -̈e",der,B2+,16.5593,0.6011,0,committee,"Der Ausschuss trifft sich dann, wenn die Mitglieder etwas organisieren müssen.",The committee meets when the members need to organize something.
+4010,"der Mitgliedstaat, -en",der,B2+,16.5593,0.8146,0,member state,Deutschland ist ein Mitgliedstaat der Union.,Germany is a member state of the union.
+4011,"die Spaltung, -en",die,B2+,16.5593,0.7372,0,"split, splitting",Streit führt oft zur Spaltung einer Gruppe.,Disputes often leads to the splitting of a group.
+4012,"das Antibiotikum, die Antibiotika",das,B2+,16.51,0.6218,0,antibiotic,Der Arzt verschreibt ihr ein Antibiotikum.,The doctor’s prescribing her an antibiotic.
+4017,"der Index, -izes",der,B2+,16.51,0.8158,0,index,"Der Index am Ende des Buches gibt an, welche fremden Wörter benutzt werden.",The index at the end of the book indicates which foreign words are used.
+4020,"der Pariser, -",der,B2+,16.51,0.8574,0,"Parisian, condom","Man sagt, Pariser sind sehr romantische Menschen.",They say Parisians are very romantic people.
+4022,"die Sicherung, -en",die,B2+,16.51,0.8599,0,"protection, fuse",Zur Sicherung des Verkehrs stellt die Polizei Schilder auf.,For the protection of traffic the police put up signs.
+4023,"die Steigung, -en",die,B2+,16.51,0.6654,0,"ascent, slope",In der Schule untersuchen wir in Mathematik die Steigung einer Kurve.,At school we study the slope of a curve in mathematics.
+4028,das Business,das,B2+,16.4607,0.6086,0,business,"Hanna und Lina beenden ihr Studium, um ein eigenes Business zu gründen.",Hanna and Lina end their studies in order to found their own business.
+4029,"das Duell, -e",das,B2+,16.4607,0.6999,0,duel,Ich sehe ein Duell von zwei Politikern im Fernsehen.,I’m watching a duel between two politicians on TV.
+4032,"das Gewehr, -e",das,B2+,16.4607,0.7314,0,"rifle, shotgun",Der Jäger nimmt sein Gewehr und geht auf die Jagd.,The hunter takes his rifle and goes hunting.
+4033,das Mittelmeer,das,B2+,16.4607,0.8553,0,Mediterranean See,"Zwischen Europa, Afrika und Asien liegt das Mittelmeer.","Between Europe, Africa, and Asia lies the Mediterranean Sea."
+4036,"die Wende, -n",die,B2+,16.4607,0.9038,0,change (esp. the 1989–90 political change in the GDR),Der Wandel der Gesellschaft in der DDR führte zur Wende und zur Wiedervereinigung Deutschlands.,The change in society in the GDR led to the reunification of Germany.
+4037,"die Agentur, -en",die,B2+,16.4114,0.8419,0,agency,"Er geht zu der Agentur für Arbeit, um einen Arbeitsplatz zu finden.",He goes to the employment agency to find a job.
+4038,"das Bündnis, -se",das,B2+,16.4114,0.8047,0,alliance,Ein Bündnis zwischen diesen beiden Parteien ist ausgeschlossen.,An alliance between these two parties is impossible.
+4040,"die Geographie, -n",die,B2+,16.4114,0.235,0,geography,Ben studiert Geographie in Leipzig.,Ben studies geography in Leipzig.
+4041,"das Lebewesen, -",das,B2+,16.4114,0.7961,0,living being,Wasser ist eine lebenswichtige Ressource für alle Lebewesen.,Water is a vital resource for all living beings.
+4043,Pakistan,das,B2+,16.4114,0.7329,0,Pakistan,"Wir fliegen nach Pakistan, ein Staat in Südasien.","We’re flying to Pakistan, a state in South Asia."
+4044,Rheinland-Pfalz,das,B2+,16.4114,0.7317,0,Rhineland-Palatinate,Im Bundesland Rheinland-Pfalz leben vier Millionen Menschen.,Four million people live in the federal state of Rhineland-Palatinate.
+4045,"der Sektor, -en",der,B2+,16.4114,0.7596,0,sector,Dieser Sektor der Einrichtung ist nicht zugänglich für Besucher.,This sector of the facilities is not accessible for visitors.
+4055,"der Mediziner, -",der,B2+,16.3621,0.8324,0,"doctor, physician",Als Mediziner kannst du Menschen helfen.,"As a physician, you can help people."
+4056,"der Tunnel, -",der,B2+,16.3621,0.8569,0,tunnel,Der Zug fährt durch einen Tunnel.,The train is going through a tunnel.
+4057,"der Assistent, -en",der,B2+,16.3129,0.8397,0,assistant,Sie sucht nach einem persönlichen Assistenten mit guten organisatorischen Fähigkeiten.,She is looking for a personal assistant with good organizational skills.
+4058,"die Differenzierung, -en",die,B2+,16.3129,0.7848,0,differentiation,Differenzierung der Produkte ist ein wesentlicher Bestandteil für die Zukunft des Unternehmens.,Differentiation of the products is an essential component for the future of the company.
+4062,Mexiko,das,B2+,16.3129,0.8576,0,Mexico,Mexiko und die USA teilen sich eine Grenze.,Mexico and the USA share a border.
+4063,die Moderne,die,B2+,16.3129,0.8027,0,"modern age, modernism",Das Bauhaus ist ein Beispiel der klassischen Moderne in Kunst und Architektur.,The Bauhaus is an example of classical modernism in art and architecture.
+4065,"die Nachbarschaft, -en",die,B2+,16.3129,0.8857,0,neighborhood,"Wir wohnen in einer guten Nachbarschaft, in der man sich gegenseitig hilft.",We live in a good neighborhood where people help each other.
+4066,"der Siedepunkt, -e",der,B2+,16.3129,0.4648,0,boiling point,Der Siedepunkt von Wasser liegt bei einer Temperatur von 100°C.,The boiling point of water is at 100°C.
+4068,Taliban,die (pl),B2+,16.3129,0.6606,0,Taliban,Die Taliban kämpfen für ihre Überzeugungen mit Gewalt.,The Taliban fight for their convictions by force.
+4072,"die Redaktion, -en",die,B2+,16.2636,0.8813,0,"editorial work, editorial staff",Ich arbeite bei der Redaktion einer Zeitung.,I work at the editorial department of a newspaper.
+4073,"der Schweiß, -e",der,B2+,16.2636,0.8509,0,sweat,"Es ist so heiß, der Schweiß läuft mir den Nacken herunter.","It’s so hot, the sweat is running down my neck."
+4074,"der Spruch, -̈e",der,B2+,16.2636,0.8934,0,"saying, slogan",Auf der Karte zu meinem Geburtstag steht ein schöner Spruch.,There’s a nice saying on my birthday card.
+4076,"die Befragung, -en",die,B2+,16.2143,0.7373,0,"questioning, survey, interview",Die Polizei führt eine Befragung von verdächtigen Personen durch.,The police are questioning suspects.
+4077,Einzige,"der, die",B2+,16.2143,0.859,0,only one,"Mark sagt, ich bin die Einzige für ihn und es gibt keine anderen Frauen in seinem Leben.",Mark says I’m the only one for him and there are no other women in his life.
+4078,"die Eizelle, -n",die,B2+,16.2143,0.6115,0,"ovum, egg cell",Etwa am vierzehnten Tag der Periode ist die Eizelle reif.,"On about the 14th day of the period, the egg is ripe."
+4080,die Flüchtlingspolitik,die,B2+,16.2143,0.6497,0,refugee policy,Die Flüchtlingspolitik in Europa führt zu großem Streit zwischen den Ländern.,The refugee policy in Europe leads to great disputes among the countries.
+4081,"der Haufen, -",der,B2+,16.2143,0.87,0,"heap, pile, load","In meinem Zimmer liegt ein großer Haufen mit Sachen, den ich aufräumen muss.",There’s a big pile of stuff in my room that I have to clean up.
+4083,"der Keks, -",der,B2+,16.2143,0.4883,0,cookie,Ich esse lieber Kekse statt Kuchen.,I prefer eating cookies to cake.
+4084,"die Sorte, -n",die,B2+,16.2143,0.8879,0,"kind, variety","Ich bringe nachher Eis mit, welche Sorte möchtest du?",I’ll bring ice cream afterwards; what kind would you like?
+4086,"der Container, -",der,B2+,16.165,0.4894,0,container,"Vor unserem Haus steht ein Container, in den wir alles schmeißen, was wir nicht mehr brauchen.",In front of our house is a container into which we throw everything we no longer need.
+4089,"die Mutation, -en",die,B2+,16.165,0.3213,0,mutation,Eine dauerhafte Veränderung in der DNA wird Mutation genannt.,A permanent change in DNA is called a mutation.
+4092,"die Vermutung, -en",die,B2+,16.165,0.9094,0,"assumption, presumption","Ich bin mir nicht sicher, aber ich habe die Vermutung, dass Karl nicht die Wahrheit sagt.","I’m not sure, but I have an assumption that Karl’s not telling the truth."
+4096,"das Maul, -̈er",das,B2+,16.1157,0.7036,0,"mouth, jaws",Das Maul von Pferden ist sehr weich.,The mouth of horses is very soft.
+4099,Alpen,die (pl),B2+,16.0664,0.8249,0,Alps,Wir wandern in den Alpen.,We hike in the Alps.
+4100,"die Berufung, -en",die,B2+,16.0664,0.8556,0,"appeal, vocation, appointment",Das Unterrichten ist seine Berufung.,Teaching is his vocation.
+4101,"die Einteilung, -en",die,B2+,16.0664,0.826,0,"classification, division",Die Einteilung der Schüler in die Klassen erfolgt nach dem Alter.,The classification of students into the classes is based on age.
+4103,die Geliebte,"der, die",B2+,16.0664,0.7647,0,lover,Bernd hat eine Ehefrau und gleichzeitig eine Geliebte.,Bernd has a wife and a lover at the same time.
+4104,"das Gramm, -e",das,B2+,16.0664,0.8688,0,gram,In den Kuchen kommen 300 Gramm Zucker.,The cake requires 300 grams of sugar.
+4105,"die Hüfte, -n",die,B2+,16.0664,0.7574,0,hip,Das Wasser reichte ihr bis zur Hüfte.,The water reached her hip.
+4109,"der Zähler, -",der,B2+,16.0664,0.7332,0,"counter, meter, numerator","Der Zähler in unserer Wohnung misst den Strom, den wir verbrauchen.",The meter in our apartment measures the electricity we use.
+4112,"der Gründer, -",der,B2+,16.0172,0.8055,0,founder,Frau Paget ist die Gründerin und Geschäftsführerin des Unternehmens.,Mrs. Paget is the founder and managing director of the company.
+4115,"der Türke, -n",der,B2+,16.0172,0.8244,0,Turk,Mein Nachbar ist ein Türke und kocht sehr gutes Essen.,My neighbor is a Turk and cooks very good food.
+4120,"die Bestellung, -en",die,B2+,15.9679,0.7672,0,"order, reservation",Der Kellner schreibt sich unsere Bestellung auf.,The waiter takes down our order.
+4122,"das Glied, -er",das,B2+,15.9679,0.847,0,"limb, joint, link","Ihre goldene Kette ist kaputt, ein Glied ist gerissen.",Her gold chain is broken; one link tore.
+4124,"der Roboter, -",der,B2+,15.9679,0.8001,0,robot,"Roboter werden gebaut, um den Menschen Arbeit abzunehmen.",Robots are built to do the work of humans.
+4126,"die Blüte, -n",die,B2+,15.9186,0.8448,0,blossom,Die Blüten von Rosen riechen sehr gut.,The blossoms of roses smell very good.
+4131,"die Glocke, -n",die,B2+,15.8693,0.6765,0,bell,Die Glocken der Kirche läuten zu traditionellen Anlässen.,The bells of the church ring on traditional occasions.
+4132,die Informatik,die,B2+,15.8693,0.5346,0,computer science,"Weil Jan Informatik studiert, sitzt er viel am Computer.","Because Jan is studying computer science, he spends a lot of time at the computer."
+4133,"der Niederschlag, -̈e",der,B2+,15.8693,0.6454,0,"precipitation, rainfall",Wegen der starken Niederschläge steigt das Wasser im Fluss.,"Because of the heavy rainfall, the water in the river rises."
+4140,die Sowjetunion,die,B2+,15.82,0.8551,0,Soviet Union,Die Sowjetunion wurde 1991 aufgelöst.,The Soviet Union was dissolved in 1991.
+4142,"die Beschränkung, -en",die,B2+,15.7707,0.7934,0,restriction,Diese Beschränkungen verletzen die fundamentalen Menschenrechte.,These restrictions violate fundamental human rights.
+4143,"die Genehmigung, -en",die,B2+,15.7707,0.7278,0,"approval, permit, permission","Sie brauchen eine Genehmigung, um hier parken zu dürfen.",You need a permit to be allowed to park here.
+4145,"die Moral, -en",die,B2+,15.7707,0.8034,0,moral,Jede Geschichte hat eine Moral.,Every story has a moral.
+4148,"die Willenserklärung, -en",die,B2+,15.7707,0.2325,0,declaration of intent,"Ursula schreibt eine Willenserklärung, damit ihr Mann nach der Operation für sie entscheiden kann.",Ursula writes a declaration of intent so that her husband makes decisions for her after the operation.
+4155,"das Märchen, -",das,B2+,15.7215,0.8659,0,fairy tale,Im Märchen heiraten der Prinz und die Prinzessin am Ende immer.,"In fairy tales, the prince and the princess always marry in the end."
+4156,"das Regime, -",das,B2+,15.7215,0.8326,0,regime,Nach der Revolution wird das Land von einem neuen Regime geführt.,"After the revolution, the country is led by a new regime."
+4157,"der Schädel, -",der,B2+,15.7215,0.8202,0,"skull, head",Der feste Knochen des Schädels schützt das Gehirn vor Verletzungen.,The strong bone of the skull protects the brain from injury.
+4160,"der Löwe, -n",der,B2+,15.6722,0.8118,0,lion,"Obwohl er sehr groß ist, zählt der Löwe zu einer Art der Katzen.","Although very large, the lion counts as a species of cat."
+4161,"der Operator, -en",der,B2+,15.6722,0.4516,0,operator,Beispiele für mathematische Operatoren sind Plus und Minus.,Examples of mathematical operators are plus and minus.
+4162,"die Partnerschaft, -en",die,B2+,15.6722,0.8482,0,partnership,Eine erfolgreiche Partnerschaft erfordert gemeinsame Interessen und Werte.,A successful partnership requires shared interests and values.
+4163,"das Pfund, -e",das,B2+,15.6722,0.8444,0,pound,Ein Pfund ist etwas weniger als ein halbes Kilo.,A pound is a little less than half a kilo.
+4174,"die Inszenierung, -en",die,B2+,15.6229,0.7275,0,"production, staging",Wir sehen uns heute eine Inszenierung im Theater an.,We’re going to see a production at the theater today.
+4176,"das Nervensystem, -e",das,B2+,15.6229,0.6501,0,nervous systems,Man unterscheidet zwischen zwei Nervensystemen im menschlichen Körper.,One distinguishes between two nervous systems in the human body.
+4181,UNO (Vereinte Nationen),die,B2+,15.6229,0.7949,0,UN,Die UNO ist eine Organisation von mehreren Staaten zur Sicherung des Friedens auf der Welt.,The UN is an organization of multiple states for securing peace in the world.
+4186,"der Fürst, -en",der,B2+,15.5736,0.7056,0,prince,Der Titel eines Fürsten wird heute nicht mehr vergeben.,The title of prince is no longer awarded today.
+4192,Thüringen,das,B2+,15.5736,0.5825,0,Thuringia,Im Bundesland Thüringen kann man sehr gut wandern gehen.,In the federal state of Thuringia you can go hiking very well.
+4195,"das Bundesamt, -̈er",das,B2+,15.5243,0.8147,0,federal office,In Deutschland gibt es mehrere Bundesämter wie zum Beispiel das Bundesamt für Finanzen.,"There are a number of federal offices in Germany, such as the Federal Office of Finance."
+4197,"der Faden, -̈",der,B2+,15.5243,0.8915,0,thread,"Aus dem Loch in meiner Jacke hängt ein langer, dünner Faden.","There’s a long, thin thread hanging out of the hole in my jacket."
+4199,"der Oberschenkel, -",der,B2+,15.5243,0.6218,0,thigh,Als Oberschenkel bezeichnet man den oberen Teil des Beines bei einem Menschen.,The upper part of a person’s leg is called the thigh.
+4200,"die Schlacht, -en",die,B2+,15.5243,0.827,0,battle,Die Schlacht bei Waterloo zählt als die letzte Schlacht von Napoleon.,The Battle of Waterloo is considered the last battle of Napoleon.
+4203,"der Algorithmus, -en",der,B2+,15.475,0.6594,0,algorithm,Durch Algorithmen können Lösungen berechnet werden.,Algorithms can be used to calculate solutions.
+4208,"die Fahne, -n",die,B2+,15.475,0.8918,0,flag,Die Fahne eines Landes dient als Symbol.,The flag of a country serves as a symbol.
+4209,"die Panik, -en",die,B2+,15.475,0.8985,0,panic,Der Terroranschlag löst eine Panik unter den Menschen aus.,The terrorist attack has caused a panic among the people.
+4211,"die Rotation, -en",die,B2+,15.475,0.6651,0,rotation,Durch die Rotation des Autos wird mir übel.,The rotation of the car makes me sick.
+4213,"die Vereinigung, -en",die,B2+,15.475,0.8856,0,"organization, association, unification","Eine Vereinigung ist eine Organisation aus Menschen oder Staaten, die ein gemeinsames Ziel verfolgen.",An association is an organization of people or states pursuing a common goal.
+4214,"der Anleger, -",der,B2+,15.4258,0.733,0,investor,Als Anleger nehme ich finanzielle Investitionen vor.,"As an investor, I make financial investments."
+4215,"der Darm, -̈e",der,B2+,15.4258,0.7319,0,intestine,"Der Darm ist ein Organ, über den wichtige Stoffe aus der Nahrung in den Körper gelangen.",The intestine is an organ through which important substances from food enter the body.
+4217,"die Fassade, -n",die,B2+,15.4258,0.8698,0,"facade, front",Das Haus hat eine sehr schöne Fassade von außen.,The house has a very nice facade from the outside.
+4218,"der Favorit, -en",der,B2+,15.4258,0.7873,0,favorite,Von allen Schauspielern ist dieser der Favorit für die Rolle.,"Of all the actors, this one is the favorite for the role."
+4223,"der Gesetzentwurf, -̈e",der,B2+,15.3765,0.6272,0,"bill, draft law","Bald gibt es einen Gesetzentwurf, der verbietet, dass man Fotos von fremden Menschen verschickt.",Soon there will be a bill prohibiting the sending of photos of strangers.
+4226,"die Lektüre, -n",die,B2+,15.3765,0.8537,0,reading,"Bevor ich schlafen gehe, lese ich nur leichte Lektüre.","Before I go to sleep, I only read light reading."
+4229,"die Richtlinie, -n",die,B2+,15.3765,0.7865,0,guideline,"Es gibt eine neue Richtlinie darüber, wie wir uns bei der Arbeit zu verhalten haben.",There is a new guideline on how we should behave at work.
+4230,"der Trick, -s",der,B2+,15.3765,0.9065,0,trick,"Martha kennt viele Tricks, wie wir beim Einkaufen sparen können.",Martha knows many tricks for how we can save money when shopping.
+4236,"der Engel, -",der,B2+,15.3272,0.8188,0,angel,"Wenn mein Baby schläft, sieht es aus wie ein Engel.","When my baby sleeps, he/she looks like an angel."
+4237,"das Fazit, -s",das,B2+,15.3272,0.848,0,"summary, conclusion",Ich fasse meine Gedanken am Ende in einem Fazit zusammen.,At the end I summarize my thoughts in a summary.
+4239,Irland,das,B2+,15.3272,0.8134,0,Ireland,Irland wird auch die “grüne Insel” genannt.,Ireland is also called the “green island”.
+4240,"die Mechanik, -en",die,B2+,15.3272,0.6046,0,mechanics,Unter Mechanik versteht man in der Physik die Bewegung von Körpern.,"In physics, mechanics is the movement of bodies."
+4241,"der Psychologe, -n",der,B2+,15.3272,0.8321,0,psychologist,Seit dem Tod meiner Eltern bekomme ich Hilfe von einem Psychologen.,"Since my parents died, I’ve had help from a psychologist."
+4243,"die Erhebung, -en",die,B2+,15.2779,0.766,0,"survey, elicitation, levying",Die Regierung entscheidet über die Erhebung von Steuern.,The government decides on the levying of taxes.
+4251,die Hast,die,B2+,15.2286,0.7752,0,haste,"Wenn du mit so viel Hast isst, schmerzt dein Bauch gleich wieder.","If you eat with so much haste, your stomach will hurt again."
+4257,"die Prävention, -en",die,B2+,15.2286,0.4005,0,prevention,Die Prävention von Gewalt ist wichtiger als die Strafe.,The prevention of violence is more important than punishment.
+4261,"der Genosse, -n",der,B2+,15.1793,0.7754,0,comrade,Früher nannte man in Deutschland einen Menschen mit den gleichen politischen Zielen einen Genossen.,In Germany people used to call a person with the same political goals a comrade.
+4265,"das Hirn, -e",das,B2+,15.1301,0.8587,0,brain,"Bis heute weiß man nicht, was das menschliche Hirn alles leisten kann.","To this day, we do not know what the human brain can do."
+4266,"der Pfeil, -e",der,B2+,15.1301,0.83,0,arrow,Die roten Pfeile im Supermarkt deuten auf die speziellen Preise hin.,The red arrows in the supermarket indicate the special prices.
+4267,"der Schuldner, -",der,B2+,15.1301,0.5065,0,debtor,"Wenn ich als Schuldner nicht bezahle, kann ich vor Gericht kommen.","If I don’t pay as a debtor, I may be taken to court."
+4268,"die Überprüfung, -en",die,B2+,15.1301,0.8586,0,"review, screening, check, inspection","Bevor wir sie vorstellen, ist eine Überprüfung unserer Ergebnisse notwendig.","Before we present them, a review of our results is necessary."
+4269,"die Verzweiflung, -en",die,B2+,15.1301,0.8954,0,desperation,"Menschen machen aus Verzweiflung schlimme Dinge, ohne über die Konsequenzen nachzudenken.",People do bad things out of desperation without thinking about the consequences.
+4271,"die Anweisung, -en",die,B2+,15.0808,0.9092,0,"order, instruction","Die Polizei gibt mir die Anweisung, hier zu warten.",The police are me instructions to wait here.
+4272,das Bargeld,das,B2+,15.0808,0.7758,0,cash,Beim Einkaufen zahle ich kaum noch mit Bargeld.,When shopping I don’t pay with cash much anymore.
+4275,"das Format, -e",das,B2+,15.0808,0.827,0,format,"Du musst das Format der Bilder ändern, sonst kannst du sie mir nicht schicken.","You have to change the format of the pictures, otherwise you can’t send them to me."
+4276,"die Gasse, -n",die,B2+,15.0808,0.8245,0,alley,In Köln gibt es eine Altstadt mit vielen schmalen Gassen zwischen den Häusern.,In Cologne there is an old town with many narrow alleys between the houses.
+4277,"der Gesichtspunkt, -e",der,B2+,15.0808,0.7984,0,point of view,Unter diesen Gesichtspunkten beurteile ich das Thema noch einmal neu.,"With this in mind, I reassess the subject once again."
+4280,ÖVP (Österreichische Volkspartei),die,B2+,15.0808,0.4822,0,ÖVP,Die ÖVP ist eine Partei in Österreich.,The ÖVP is a party in Austria.
+4281,"die Priorität, -en",die,B2+,15.0808,0.8394,0,priority,"Wenn du zu viele Aufgaben hast, musst du Prioritäten setzen.","If you have too many tasks, you have to set priorities."
+4282,"der Stich, -e",der,B2+,15.0808,0.8493,0,"bite, sting",Mancher Stich von Insekten tut sehr weh.,Some insect bites hurt a lot.
+4283,"die Variation, -en",die,B2+,15.0808,0.8071,0,"kind, variation",Miriam verkauft in ihrem Laden Kuchen aller Variationen für Hochzeiten.,In her shop Miriam sells cakes of all kinds for weddings.
+4284,"der Wettkampf, -̈e",der,B2+,15.0808,0.6853,0,competition,Ich fahre jedes Wochenende zu den Wettkämpfen meines Sohnes.,I go to my son’s competitions every weekend.
+4285,die Fremde,der,B2+,15.0315,0.8654,0,stranger,Manchmal kann ein Fremder auch ein Freund werden.,Sometimes a stranger can become a friend.
+4293,"der Bewerber, -",der,B2+,14.9822,0.8147,0,applicant,"Es gibt noch zwei weitere Bewerber, die den Job haben wollen.",There are two other applicants who want the job.
+4296,"die Epoche, -n",die,B2+,14.9822,0.8331,0,epoch,In der Geschichte wird die Zeit in Epochen eingeteilt.,"In history, time is divided into epochs."
+4297,"die Explosion, -en",die,B2+,14.9822,0.8406,0,explosion,Das Feuer in der Fabrik löst eine Explosion aus.,The fire in the factory causes an explosion.
+4298,"der Idiot, -en",der,B2+,14.9822,0.8256,0,idiot,"Wenn Manuel dich nicht liebt, ist er ein Idiot.","If Manuel doesn’t love you, he’s an idiot."
+4299,"die Kulisse, -n",die,B2+,14.9822,0.8763,0,"setting, scenery, backdrop",Dieser Platz bietet eine schöne Kulisse für mein Foto.,This place offers a nice setting for my photo.
+4303,"der Stall, -̈e",der,B2+,14.9822,0.8132,0,stable,Zu unserem Haus gehört ein Stall für Tiere.,To our house belongs a stable for animals.
+4304,"die Arbeitskraft, -̈e",die,B2+,14.9329,0.8059,0,"manpower, worker",Leon ist eine zuverlässige Arbeitskraft und immer pünktlich.,Leon is a reliable worker and always on time.
+4305,"die Bibel, -n",die,B2+,14.9329,0.7968,0,Bible,"Die Bibel ist eine Sammlung von Schriften, die unter anderem als Grundlage des Christentums dienen.","The Bible is a collection of writings that serve, among other things, as the basis of Christianity."
+4306,"die Gemeinsamkeit, -en",die,B2+,14.9329,0.8776,0,"commonality, common feature","Pia und ich haben die Gemeinsamkeit, dass wir beide alte Filme mögen.",Pia and I have one common feature: that we both like old movies.
+4307,"das Gemisch, -e",das,B2+,14.9329,0.7234,0,mixture,Ein Gemisch besteht aus mehreren Stoffen.,A mixture consists of various substances.
+4313,"die Hölle, -n",die,B2+,14.8836,0.8871,0,hell,Nach der traditionellen Vorstellung des Christentums kommen schlechte Menschen in die Hölle.,"According to the traditional notion of Christianity, bad people go to hell."
+4315,"die Reflexion, -en",die,B2+,14.8836,0.7652,0,reflection,Im Wasser kann man die Reflexion des Lichtes sehen.,In the water you can see the reflection of the light.
+4318,"der Zwerg, -e",der,B2+,14.8836,0.4723,0,dwarf,"Einen kleinen Menschen als Zwerg zu bezeichnen, ist nicht nett.",It’s not nice to call a little person a dwarf.
+4319,"die Anmerkung, -en",die,B2+,14.8344,0.8002,0,"note, comment","Danke für deine Anmerkungen zu meiner Arbeit, ich werde einiges ändern.",Thank you for your comments on my work; I’ll make some changes.
+4320,"der Anreiz, -e",der,B2+,14.8344,0.8308,0,incentive,Das hohe Gehalt ist der einzige Anreiz für den neuen Job.,The high salary is the only incentive for the new job.
+4321,"die Ausrichtung, -en",die,B2+,14.8344,0.8537,0,"orientation, alignment",Der Architekt achtet vor allem auf die Ausrichtung der Fenster zur Sonne.,The architect pays particular attention to the orientation of the windows to the sun.
+4326,der Diabetes,der,B2+,14.7851,0.63,0,diabetes,"Mein Vater hat Diabetes und muss immer darauf achten, was er isst.",My father has diabetes and always has to watch what he eats.
+4329,die Haft,die,B2+,14.7851,0.8013,0,"detention, confinement","Weil er illegale Substanzen verkauft, muss er jetzt für drei Jahre in Haft.","Because he sells illegal substances, he is now in confinement for three years."
+4330,"die Malerei, -en",die,B2+,14.7851,0.7727,0,painting,Der Begriff “Leipziger Schule” bezeichnet eine Strömung der modernen Malerei.,The term “Leipzig School” refers to a movement in modern painting.
+4331,"die Marktwirtschaft, -en",die,B2+,14.7851,0.8093,0,market economy,"Die Marktwirtschaft ist ein System, in dem die Produktion durch Angebot und Nachfrage geregelt wird.",The market economy is a system in which production is regulated by supply and demand.
+4332,"die Maske, -n",die,B2+,14.7851,0.7658,0,mask,"Die Ärzte tragen während der Operation Masken, um sich und den Patienten vor Bakterien zu schützen.",The doctors wear masks during the operation to protect themselves and the patient from bacteria.
+4339,die Furcht,die,B2+,14.7358,0.8691,0,fear,Ich habe große Furcht vor der kommenden Prüfung.,I have great fear of the coming test.
+4342,"der Landkreis, -e",der,B2+,14.7358,0.7593,0,district,Jedes Bundesland in Deutschland ist in mehrere Landkreise unterteilt.,Each federal state in Germany is divided into several districts.
+4343,"die Meisterschaft, -en",die,B2+,14.7358,0.6887,0,championship,Dieses Jahr spielt mein Team endlich wieder um die Meisterschaft.,This year my team is finally playing for the championship again.
+4344,"der Neubau, -ten",der,B2+,14.7358,0.8448,0,new building,Ich lebe in einem Neubau in einer schönen Wohnung.,I live in a new building in a nice apartment.
+4346,"die Schau, -en",die,B2+,14.7358,0.883,0,show,Unsere Nachbarin stellt jeden Tag ihre schönen Hunde zur Schau.,Our neighbor puts her beautiful dogs on show every day.
+4349,"die Bande, -n",die,B2+,14.6865,0.8519,0,"gang, mob, clique",Durch den Zeugen kann die Polizei die gesamte kriminelle Bande fangen.,The witness enables the police to catch the entire criminal gang.
+4351,"die Bemühung, -en",die,B2+,14.6865,0.8816,0,effort,"Danke für deine Bemühungen, mich zu beruhigen, aber ich habe immer noch Angst.","Thank you for your efforts to reassure me, but I’m still scared."
+4352,"die Besetzung, -en",die,B2+,14.6865,0.8278,0,"occupation, cast, line-up",Besonders gut gefällt mir die Besetzung des Theaterstücks.,I particularly like the cast of the play.
+4353,"das Bündel, -",das,B2+,14.6865,0.752,0,"bundle, bunch",Das Bündel Sachen bringe ich morgen noch weg.,I’ll take that bundle of things away tomorrow.
+4355,FPÖ (Freiheitliche Partei Österreichs),die,B2+,14.6865,0.5383,0,FPÖ,Die Partei FPÖ wurde 1956 in Österreich gegründet.,The FPÖ party was founded in Austria in 1956.
+4358,"das Lebensjahr, -e",das,B2+,14.6865,0.8825,0,year (of one’s life),Ich habe heute Geburtstag und feiere den Beginn eines neuen Lebensjahres.,Today is my birthday and I’m celebrating the beginning of a new year.
+4359,die News,die,B2+,14.6865,0.5777,0,news,Ich lese immer die aktuellen News in der Zeitung.,I always read the latest news in the newspaper.
+4360,"das Profil, -e",das,B2+,14.6865,0.8519,0,profile,"Wenn du deinen Kopf drehst, können alle dein schönes Profil sehen.","If you turn your head, everyone can see your beautiful profile."
+4361,"die Siedlung, -en",die,B2+,14.6865,0.8528,0,"settlement, estate",In meiner Stadt wird eine neue Siedlung gebaut.,A new settlement is being built in my town.
+4363,"die Stellungnahme, -n",die,B2+,14.6865,0.8306,0,"opinion, statement","Um das Verbrechen aufzuklären, muss ich bei meinem Anwalt eine Stellungnahme abgeben.","To clarify the crime, I have to submit a statement to my lawyer."
+4364,"der Sturz, -̈e",der,B2+,14.6865,0.8579,0,fall,Das Kind überlebt den Sturz aus dem Fenster.,The child survives the fall out the window.
+4366,"der Verstoß, -̈e",der,B2+,14.6865,0.8541,0,violation,Ein Verstoß gegen die Regeln wird bestraft.,Any violation of the rules will be punished.
+4371,"der Demokrat, -en",der,B2+,14.6372,0.6826,0,democrat,In den USA gibt es zwei große Parteien: die Republikaner und die Demokraten.,There are two major parties in the USA: the Republicans and the Democrats.
+4372,"der Katalysator, -en",der,B2+,14.6372,0.6774,0,catalyst,Durch einen Katalysator wird eine chemische Reaktion beschleunigt.,A chemical reaction is accelerated by a catalyst.
+4373,"die Piste, -n",die,B2+,14.6372,0.7061,0,slope,Im Winter fahre ich regelmäßig die Piste runter.,In winter I ski down the slope regularly.
+4374,"der Senat, -e",der,B2+,14.6372,0.724,0,senate,"Die Regierungen in Berlin, Hamburg und Bremen nennt man Senat.","The governments in Berlin, Hamburg, and Bremen are called a Senate."
+4375,die Stasi (Staatssicherheitsdienst),die,B2+,14.6372,0.7636,0,state security service,Die Stasi überwachte in der DDR die Bürger.,The state security service watched the citizens in the GDR.
+4385,"die Ungleichheit, -en",die,B2+,14.5879,0.7374,0,"inequality, dissimilarity","Wegen unserer Ungleichheit denkt niemand, dass wir Verwandte sind.","Because of our dissimilarity, no one thinks we’re relatives."
+4386,"der Verteidiger, -",der,B2+,14.5879,0.8011,0,"defender, defense counsel",Vor Gericht braucht man einen Verteidiger.,You need counsel in court.
+4387,"das Center, -",das,B2+,14.5387,0.8426,0,center,Am Stadtrand eröffnet ein neues Center zum Einkaufen.,A new center opens on the outskirts of the city.
+4388,"der Halt, -e",der,B2+,14.5387,0.8744,0,"stop, hold",Der Zug macht fünf Minuten Halt in Amsterdam.,The train makes a five-minute stop in Amsterdam.
+4389,"das Handwerk, -e",das,B2+,14.5387,0.8869,0,"craft, trade","Ich lerne ein Handwerk, damit ich leichter einen Job finden kann.",I’m learning a craft so I can find a job more easily.
+4391,"das Intervall, -e",das,B2+,14.5387,0.6919,0,interval,"Du musst die Intervalle deiner Schmerzen messen, um zu wissen, ob das Baby kommt.",You have to measure the intervals of your labor pains to know if the baby is coming.
+4394,"die Skala, -en",die,B2+,14.5387,0.7804,0,"scale, dial, range","Auf einer Skala von eins bis zehn, wie stark sind deine Schmerzen?","On a scale of one to ten, how much pain are you in?"
+4396,"das Substantiv, -e",das,B2+,14.5387,0.3523,0,noun,"Ein Substantiv bezeichnet eine Person, eine Sache oder ein Tier.","A noun refers to a person, thing, or animal."
+4397,"das Testament, -e",das,B2+,14.5387,0.6658,0,will,"Ich habe ein Testament, um zu regeln, was nach meinem Tod passiert.",I have a will to settle what happens after I die.
+4398,"die Algebra, -en",die,B2+,14.4894,0.5284,0,algebra,In der Mathematik beschäftige ich mich am liebsten mit Algebra.,My favorite field of mathematics is algebra.
+4400,"die Box, -en",die,B2+,14.4894,0.8437,0,"speaker, pit, stall",Mein Pferd steht in einer sehr großen Box.,My horse stands in a very large stall.
+4402,"das Gremium, -en",das,B2+,14.4894,0.8357,0,committee,"Es gibt ein Gremium, das entscheidet, wo ich arbeite.",There is a committee that decides where I work.
+4406,Tirol,das,B2+,14.4894,0.6829,0,Tyrol,Wir machen dieses Jahr Urlaub in Tirol.,This year we are on vacation in Tyrol.
+4407,"die Zuordnung, -en",die,B2+,14.4894,0.805,0,"classification, assignment",Die Zuordnung zu einer Gruppe erfolgt durch einen Test.,Assignment to a group happens via a test.
+4409,"die Biografie, -n",die,B2+,14.4401,0.8515,0,biography,"Weil ich ein spannendes Leben habe, schreibe ich eine Biografie.","Because I have an exciting life, I’m writing a biography."
+4411,"der Erwerb, -e",der,B2+,14.4401,0.7281,0,"acquisition, purchase",Der Erwerb einer neuen Sprache ist nicht einfach.,The acquisition of a new language is not easy.
+4412,"das Hindernis, -se",das,B2+,14.4401,0.9155,0,obstacle,"Es ist für mich ein Hindernis, für einen neuen Job in eine andere Stadt zu ziehen.",It’s an obstacle for me to move to another city for a new job.
+4416,"die Wiedervereinigung, -en",die,B2+,14.4401,0.7475,0,reunification,Im Jahr 1990 kam es in Deutschland zur Wiedervereinigung von Ost und West.,The reunification of East and West took place in Germany in 1990.
+4418,"die Anleihe, -n",die,B2+,14.3908,0.7566,0,"loan, bond, borrowing",Manche Anleihen kann man kündigen.,Some bonds can be terminated.
+4422,"der Herausgeber, -",der,B2+,14.3908,0.659,0,publisher,Der Herausgeber einer Zeitung trifft für diese die wichtigsten Entscheidungen.,The publisher of a newspaper makes the most important decisions for the newspaper.
+4423,"das Kinn, -e",das,B2+,14.3908,0.8277,0,chin,Kilian ist vierzehn und hat schon ein paar Haare am Kinn.,Kilian is 14 and already has a few hairs on his chin.
+4425,"die Naturwissenschaft, -en",die,B2+,14.3908,0.8465,0,natural science,In der Schule interessiere ich mich am meisten für die Naturwissenschaften.,At school I am most interested in the natural sciences.
+4428,"die Versuchsperson, -en",die,B2+,14.3908,0.3904,0,test subject,Für einen Test brauchen wir noch fünf Versuchspersonen.,We need five more test subjects for one test.
+4430,"der Zeigefinger, -",der,B2+,14.3908,0.8417,0,index finger,Der Zeigefinger ist der zweite Finger an der Hand.,The index finger is the second finger on the hand.
+4432,"der Autofahrer, -",der,B2+,14.3415,0.8225,0,"driver, motorist",Trotz der großen Belastung für die Umwelt gibt es in Deutschland immer mehr Autofahrer.,"Despite the great burden on the environment, there are more and more motorists in Germany."
+4434,"der Einzelfall, -̈e",der,B2+,14.3415,0.8446,0,individual case,"Jenny ist kein Einzelfall, auch andere Mädchen können gut Fußball spielen.",Jenny is not an individual case; other girls can also play soccer well.
+4436,"der Jäger, -",der,B2+,14.3415,0.8299,0,hunter,Nur Jäger dürfen auf Tiere schießen.,Only hunters are allowed to shoot at animals.
+4438,"der Kongress, -e",der,B2+,14.3415,0.8726,0,"congress, convention",Ich fahre am Wochenende auf einen Kongress zum Thema Umwelt.,I’m going to a congress on the environment this weekend.
+4441,"die Passage, -n",die,B2+,14.3415,0.8449,0,passage,Diese Passage aus dem Buch gefällt mir besonders gut.,I particularly like this passage from the book.
+4445,"der Aufsatz, -̈e",der,B2+,14.2922,0.8249,0,essay,Ich muss für die Schule morgen noch einen Aufsatz schreiben.,I have an essay to write for school tomorrow.
+4446,Brandenburg,das,B2+,14.2922,0.794,0,Brandenburg,Das Bundesland Brandenburg liegt im Nordosten von Deutschland.,The state of Brandenburg lies in the northeast of Germany.
+4447,"das Diagramm, -e",die,B2+,14.2922,0.7407,0,diagram,"Wir lernen gerade, wie man die Informationen aus einem Diagramm interpretiert.",We’re learning how to interpret the information from a diagram.
+4448,"die Erleichterung, -en",die,B2+,14.2922,0.906,0,relief,"Es ist für mich eine große Erleichterung zu hören, dass du wieder gesund bist.",It’s a great relief to hear you’re well again.
+4449,"der Historiker, -",der,B2+,14.2922,0.8401,0,historian,Als Historiker beschäftige ich mich wissenschaftlich mit der Geschichte.,"As a historian, I deal academically with history."
+4454,"das Vorurteil, -e",das,B2+,14.2922,0.894,0,prejudice,"Ich versuche, fremden Menschen immer ohne Vorurteile zu begegnen.",I always try to meet strangers without prejudice.
+4455,"die Warnung, -en",die,B2+,14.2922,0.893,0,warning,Ich nehme die Warnungen meines Arztes ernst und werde weniger Alkohol trinken.,I take my doctor’s warnings seriously and will drink less alcohol.
+4458,"die App, -s",die,B2+,14.2429,0.7907,0,app,Manche Apps auf dem Handy sind sehr nützlich im Alltag.,Some apps on your mobile phone are very useful in everyday life.
+4460,"der Einblick, -e",der,B2+,14.2429,0.8956,0,insight,Das Praktikum verschafft mir einen Einblick in den Job.,The internship gives me an insight into the job.
+4462,"die Evolution, -en",die,B2+,14.2429,0.7324,0,evolution,Die Evolution des Menschen ist nur eine Theorie und nicht bewiesen.,Human evolution is only a theory and not proven.
+4464,"die Nervenzelle, -n",die,B2+,14.2429,0.706,0,"nerve cell, neuron",Sowohl Menschen als auch Tiere besitzen Nervenzellen und können so zum Beispiel Schmerz spüren.,"Both humans and animals have nerve cells and can feel pain, for example."
+4467,"die Feststellung, -en",die,B2+,14.1937,0.869,0,"determination, assessment","Mein Arzt macht die Feststellung, dass ich krank bin.",My doctor makes the assessment that I am ill.
+4469,"die Pistole, -n",die,B2+,14.1937,0.8132,0,pistol,Der Täter hat eine Pistole dabei und benutzt sie auch.,The perpetrator has a pistol with him and uses it.
+4476,"der Diener, -",der,B2+,14.1444,0.6801,0,servant,"Es ist nicht üblich, heute noch Diener im Haus zu haben.",It’s not customary to have servants in the house today.
+4478,"das Neutron, -en",das,B2+,14.1444,0.5617,0,neutron,Neutronen haben keine elektrische Ladung.,Neutrons have no electric charge.
+4481,"der Stab, -̈e",der,B2+,14.1444,0.7458,0,staff,Ich gehöre zu einem kleinen Stab von Mitarbeitern in der Firma.,I belong to a small staff of employees in the company.
+4486,Finanzen,die,B2+,14.0951,0.8271,0,"finance, finances",Meine Mutter kümmert sich um die Finanzen der Familie.,My mother takes care of the family finances.
+4488,Mist,der,B2+,14.0951,0.819,0,"crap, manure","Anton redet nur Mist, du kannst ihm nichts glauben.","Anton talks crap, you can’t believe anything he says."
+4490,die Physiologie,die,B2+,14.0951,0.4977,0,physiology,Die Physiologie des Menschen ist ein Gebiet in der Medizin.,Human physiology is a field in medicine.
+4491,"das Porträt, -s",das,B2+,14.0951,0.8328,0,portrait,"Ich möchte, dass du ein Porträt von mir malst.",I want you to paint a portrait of me.
+4492,"die Premiere, -n",die,B2+,14.0951,0.849,0,"opening night, premiere",Heute gehe ich zu der Premiere des neuen Films.,Today I’m going to the opening night of the new movie.
+4493,der Schadenersatz,der,B2+,14.0951,0.5516,0,compensation,Nach dem Unfall erhalte ich einen Schadenersatz.,After the accident I receive compensation.
+4494,"der Schrei, -e",der,B2+,14.0951,0.8523,0,scream,Das Baby gibt einen lauten Schrei von sich.,The baby gives a loud scream.
+4496,"der Staatsanwalt, -̈e",der,B2+,14.0951,0.8283,0,"public prosecutor, district attorney","Der Staatsanwalt entscheidet, ob ein Mensch angeklagt wird.",The prosecutor decides whether a person should be charged.
+4497,"der Transfer, -s",der,B2+,14.0951,0.8564,0,transfer,"Um vom Hotel zum Flughafen zu kommen, brauchen wir einen Transfer.","To get from the hotel to the airport, we need a transfer."
+4501,"die Annäherung, -en",die,B2+,14.0458,0.8873,0,"approach, approximation, rapprochement","Ich hoffe auf eine Annäherung meiner Eltern, damit wir wieder eine Familie sein können.","I hope for a rapprochement with my parents, so that we can be a family again."
+4503,"das Exemplar, -e",das,B2+,14.0458,0.8874,0,"copy, piece",Ich habe mir ein neues Exemplar von dem Buch gekauft.,I bought a new copy of the book.
+4504,"der Fond, -s",der,B2+,14.0458,0.7939,0,fund,Die Anleger wählten einen guten Fond aus.,The investors selected a good fund.
+4505,"die Logik, -en",die,B2+,14.0458,0.8746,0,logic,Ich verstehe die Logik deiner Gedanken nicht.,I don’t understand the logic of your thoughts.
+4512,"die Ökonomie, -n",die,B2+,13.9965,0.7063,0,economics,Unter Ökonomie versteht man die Wissenschaft der Wirtschaft.,Economics is the science of business.
+4515,"der Landwirt, -e",der,B2+,13.9472,0.79,0,farmer,Als Landwirt arbeitest du viel an der frischen Luft.,"As a farmer, you work a lot in the fresh air."
+4518,die Neugier,die,B2+,13.9472,0.8784,0,curiosity,Unsere kleine Katze besitzt viel Neugier und erforscht jeden Winkel unserer Wohnung.,Our little cat has a lot of curiosity and explores every corner of our home.
+4520,"die Rakete, -n",die,B2+,13.9472,0.8138,0,rocket,Am letzten Abend im Jahr schießen wir Raketen in die Luft.,The last night of the year we shoot rockets into the air.
+4524,"der Datensatz, -̈e",der,B2+,13.898,0.3481,0,data set,Für meine Arbeit nutze ich Informationen aus einem großen Datensatz.,For my work I use information from a large data set.
+4537,"die Verstärkung, -en",die,B2+,13.898,0.7364,0,reinforcement,"Die Polizei ruft Verstärkung, um den Täter zu fangen.",The police call for reinforcements to catch the perpetrator.
+4539,"die Bearbeitung, -en",die,B2+,13.8487,0.8268,0,processing,Mein Antrag auf mehr Geld liegt bei der Behörde zur Bearbeitung.,My request for more money is at the agency for processing.
+4541,"der Bürgerkrieg, -e",der,B2+,13.8487,0.8241,0,civil war,Durch den Bürgerkrieg kommen viele Flüchtlinge nach Deutschland.,Because of the civil war many refugees come to Germany.
+4543,"der Lastwagen, -",der,B2+,13.8487,0.8507,0,truck,Vasile fährt mit seinem Lastwagen durch ganz Europa.,Vasile drives his truck across all of Europe.
+4547,"das Arschloch, -̈er",das,B2+,13.7994,0.7209,0,asshole,"David ist ein Arschloch, weil er die ganze Zeit lügt.",David’s an asshole because he lies all the time.
+4548,"die Behauptung, -en",die,B2+,13.7994,0.9092,0,"claim, statement","Die Behauptung, dass ich lüge, ist falsch.",The claim that I’m lying is wrong.
+4549,"die Berührung, -en",die,B2+,13.7994,0.879,0,touch,Ich vermisse die Berührung seiner Hände auf meiner Haut.,I miss the touch of his hands on my skin.
+4550,"der Diskurs, -e",der,B2+,13.7994,0.7939,0,discourse,Wir haben einen sehr interessanten Diskurs zum Thema Politik.,We have a very interesting discourse on politics.
+4552,"die Inflationsrate, -n",die,B2+,13.7994,0.3706,0,inflation rate,Die Inflationsrate ist im Vergleich zum letzten Jahr sehr gestiegen.,The inflation rate has risen sharply compared to last year.
+4553,die Kreativität,die,B2+,13.7994,0.8583,0,creativity,"Wenn Eltern ihren Kindern oft vorlesen, fördert das deren Kreativität.","When parents often read aloud to their children, this encourages their creativity."
+4556,"der Tempel, -",der,B2+,13.7994,0.7987,0,temple,In Griechenland kann man viele alte Tempel sehen.,In Greece you can see many ancient temples.
+4557,"das Verb, -en",das,B2+,13.7994,0.635,0,verb,Das Verb steht in einem einfachen Satz an zweiter Position.,The verb is in second position in a simple sentence.
+4558,"die Verlängerung, -en",die,B2+,13.7994,0.8101,0,extension,Ich unterschreibe heute den Vertrag zur Verlängerung meiner Arbeit.,I’m signing today the contract for the extension of my work.
+4568,"das TV, -s",das,B2+,13.7501,0.8085,0,TV,Heute kommt wieder ein guter Film im TV.,There’s another good movie on TV today.
+4572,"die Fachhochschule, -n",die,B2+,13.7008,0.7705,0,"technical college, university of applied sciences",Ich studiere an einer Fachhochschule und nicht an einer Universität.,I study at a technical college and not at a university.
+4575,"der Klimawandel, -",der,B2+,13.7008,0.8167,0,climate change,Wir müssen den Klimawandel ernst nehmen.,We must take climate change seriously.
+4576,"der Mythos, -en",der,B2+,13.7008,0.8634,0,"myth, legend",Ich lese gerne griechische Mythen.,I like reading Greek myths.
+4578,Portugal,das,B2+,13.7008,0.8305,0,Portugal,Portugal teilt sich einen Teil seiner Grenze mit Spanien.,Portugal shares part of its border with Spain.
+4579,"der Stoffwechsel, -",der,B2+,13.7008,0.6763,0,metabolism,"Ich habe einen guten Stoffwechsel, deswegen kann ich mehr essen als du.","I have a good metabolism, so I can eat more than you can."
+4581,"die Amtszeit, -en",die,B2+,13.6515,0.7857,0,term of office,Bald ist meine Amtszeit zu Ende und ich brauche einen Nachfolger.,My term of office ends soon and I need a successor.
+4582,"der Berliner, -",der,B2+,13.6515,0.8365,0,Berliner,"Ein echter Berliner sagt, was er denkt, ohne darüber nachzudenken.",A real Berliner says what he thinks without thinking about it.
+4584,"die Reichweite, -n",die,B2+,13.6515,0.8283,0,"reach, range","Ich lege mein Handy in Reichweite, damit ich schnell abnehmen kann, wenn es klingelt.",I put my phone within reach so I can pick it up quickly when it rings.
+4585,"der Riese, -n",der,B2+,13.6515,0.8272,0,giant,Ich lese meinem Sohn Geschichten über gefährliche Riesen vor.,I read stories to my son about dangerous giants.
+4586,"die Tageszeitung, -en",die,B2+,13.6515,0.8658,0,daily newspaper,In der Tageszeitung informiere ich mich jeden Tag über aktuelle Themen.,Every day I inform myself about current topics in the daily newspaper.
+4590,"die Ausstattung, -en",die,B2+,13.6023,0.8793,0,"equipment, facilities, furnishings",Die Klinik braucht eine bessere technische Ausstattung.,The clinic needs better technical equipment.
+4594,"die Verbindlichkeit, -en",die,B2+,13.6023,0.6577,0,"obligation, liability, commitment",Die Ehe ist ein Ausdruck von Verbindlichkeit zwischen zwei Menschen.,Marriage is an expression of obligation between two people.
+4599,"die Aufwendung, -en",die,B2+,13.553,0.6678,0,"expense, expenditure, use",Unter Aufwendung all seiner Kräfte hebt er das Gewicht an.,"With the use of all his strength, he lifts the weight."
+4603,"der Gesetzgeber, -",der,B2+,13.553,0.7497,0,"legislator, legislature",Der Gesetzgeber entscheidet über Recht und Ordnung im Land.,The legislator decides on law and order in the country.
+4605,"der Senior, -en",der,B2+,13.553,0.8285,0,senior (citizen),Harry organisiert Reisen für Senioren.,Harry organizes trips for senior citizens.
+4607,"die Verbreitung, -en",die,B2+,13.553,0.8337,0,"dissemination, distribution, spread","Nicht nur die Herstellung, sondern auch die Verbreitung von gefährlichen Substanzen ist illegal.",Not only the production but also the dissemination of dangerous substances is illegal.
+4611,der Main,der,B2+,13.5037,0.8433,0,Main (river),Wir fahren mit einem Boot auf dem Main durch Frankfurt.,We go by boat on the Main through Frankfurt.
+4615,Saudi-Arabien,das,B2+,13.5037,0.7684,0,Saudi Arabia,In Saudi-Arabien herrschen andere Temperaturen als in Deutschland.,Temperatures in Saudi Arabia are different from those in Germany.
+4616,"der Triumph, -e",der,B2+,13.5037,0.8273,0,triumph,Wir feiern heute den Triumph über das andere Team.,Today we celebrate the triumph over the other team.
+4619,"der Atomkern, -e",der,B2+,13.4544,0.5352,0,(atomic) nucleus,Der Atomkern ist der positiv geladene Teil eines Atoms.,The atomic nucleus is the positively charged part of an atom.
+4624,"die Legende, -n",die,B2+,13.4544,0.8812,0,legend,Er ist eine Legende im Fußball.,He’s a legend in soccer.
+4625,die Pflege,die,B2+,13.4544,0.8583,0,care,Diese Pflanze braucht viel Pflege.,This plant needs a lot of care.
+4629,"der Vertrieb, -e",der,B2+,13.4544,0.6392,0,"market, sale, sales","Der Vertrieb hat die Aufgabe, dass die Kunden ihre Produkte erhalten.",The task of the sales department is to ensure that customers receive their products.
+4633,"die Illusion, -en",die,B2+,13.4051,0.8898,0,illusion,"Er hat die Illusion, dass er nicht arbeiten gehen muss, um Geld zu verdienen.",He has the illusion that he doesn’t have to go to work to make money.
+4636,"der Sozialdemokrat, -en",der,B2+,13.4051,0.7617,0,Social Democrat,Die Sozialdemokraten stellen die Regierung.,The Social Democrats form the government.
+4638,"die Allianz, -en",die,B2+,13.3558,0.8087,0,alliance,In der Politik müssen zwischen den Ländern Allianzen gebildet werden.,"In politics, alliances must be formed between the countries."
+4639,"die Arbeitslosenquote, -n",die,B2+,13.3558,0.3383,0,unemployment rate,"In der DDR gab es die geringste Arbeitslosenquote, die Deutschland je hatte.","In the GDR, the unemployment rate was the lowest ever in Germany."
+4641,"der Benutzer, -",der,B2+,13.3558,0.713,0,user,Als Benutzer dieser Seite muss ich mich registrieren.,As a user of this page I have to register.
+4643,"das Ensemble, -s",das,B2+,13.3558,0.8476,0,ensemble,Heute spielt ein berühmtes Ensemble aus Österreich.,Today a famous ensemble from Austria plays.
+4644,"die Handschrift, -en",die,B2+,13.3558,0.6158,0,handwriting,"Du musst deine Handschrift verbessern, ich kann nichts lesen.",You need to improve your handwriting; I can’t read anything.
+4645,"die Miene, -n",die,B2+,13.3558,0.8163,0,"face, expression, look","Sie setzt eine freundliche Miene auf, obwohl sie wütend ist.",She puts on a friendly face even though she’s angry.
+4647,Nordkorea,das,B2+,13.3558,0.712,0,North Korea,Am 28. August feiert man in Nordkorea den Tag der Jugend.,"On 28 August, North Korea celebrates Youth Day."
+4652,"die Effizienz, -en",die,B2+,13.3066,0.7238,0,efficiency,Ich arbeite immer mit großer Effizienz.,I always work with great efficiency.
+4654,"das Gutachten, -",das,B2+,13.3066,0.8664,0,"report, (expert) opinion","Der Experte gibt ein Gutachten zu unserem Haus ab, das wir verkaufen wollen.","The expert gives an expert opinion on our house, which we want to sell."
+4655,"der Kämpfer, -",der,B2+,13.3066,0.781,0,"fighter, combatant","Mein Opa besiegt die Krankheit bestimmt, er ist ein wahrer Kämpfer.",My grandfather defeats the disease; he’s a true fighter.
+4656,"das Klo, -s",das,B2+,13.3066,0.8278,0,"toilet, john","Wenn ich nervös bin, muss ich immer aufs Klo.","When I’m nervous, I always have to go to the john."
+4658,"der Knall, -e",der,B2+,13.3066,0.8105,0,bang,"Als wir die Raketen anzünden, machen sie einen lauten Knall.","When we light up the fireworks, they make a loud bang."
+4659,Kuba,das,B2+,13.3066,0.7256,0,Cuba,Kuba ist eine Insel mit sehr schönen weißen Stränden.,Cuba is an island with very beautiful white beaches.
+4666,"die Blase, -n",die,B2+,13.2573,0.876,0,"blister, bladder, bubble","Die Blase an meiner Ferse tut sehr weh, wenn ich laufe.",The blister on my heel hurts a lot when I walk.
+4667,die Energiewirtschaft,die,B2+,13.2573,0.0786,0,energy industry,"Die Energiewirtschaft muss sich ändern, damit wir die Umwelt schützen können.",The energy industry must change so that we can protect the environment.
+4668,"das Halbfinale, -",das,B2+,13.2573,0.6324,0,semi-final,Wir sehen uns heute das Halbfinale im Fußball an.,We’re watching the semi-finals of soccer today.
+4669,"der Oberbürgermeister, -",der,B2+,13.2573,0.7301,0,"mayor, city mayor, lord mayor",In Deutschland haben größere Städte einen Oberbürgermeister.,"In Germany, larger cities have a lord mayor."
+4672,"das Entwicklungsland, -̈er",das,B2+,13.208,0.7217,0,developing nation,Die Entwicklungsländer dieser Welt brauchen noch mehr Unterstützung.,The developing nations of the world need even more support.
+4673,"die Jagd, -en",die,B2+,13.208,0.8648,0,"hunt, chase",Mein Vater nimmt mich jeden Sonntag mit auf die Jagd in den Wald.,My father takes me hunting in the forest every Sunday.
+4679,"die Auszeichnung, -en",die,B2+,13.1587,0.8191,0,award,Für sein politisches Engagement bekommt er eine Auszeichnung.,He receives an award for his political commitment.
+4680,"der Bundesstaat, -en",der,B2+,13.1587,0.8219,0,"confederation, federal state",Ein Bundesstaat vereinigt mehrere Länder.,A confederation combines several states.
+4682,"die Fusion, -en",die,B2+,13.1587,0.8116,0,"fusion, merger",Die Fusion der beiden Firmen war sehr aufwendig.,The merger of the two companies was very costly.
+4684,"die Instanz, -en",die,B2+,13.1587,0.8872,0,instance,"Der Antrag muss durch alle Instanzen gehen, bevor eine Entscheidung getroffen wird.",The application must go through all instances before a decision is made.
+4687,"das Segment, -e",das,B2+,13.1587,0.7695,0,segment,"Wir sehen uns nicht den ganzen Film, sondern nur einzelne Segmente daraus an.","We don’t watch the whole film, but only individual segments of it."
+4689,"der Zyklus, -en",der,B2+,13.1587,0.6799,0,cycle,Der weibliche Zyklus wird durch Hormone gesteuert.,The female cycle is controlled by hormones.
+4691,"die Ähnlichkeit, -en",die,B2+,13.1094,0.8702,0,similarity,"Obwohl Anika und Mia keine Schwestern sind, haben sie eine große Ähnlichkeit.","Although Anika and Mia are not sisters, they have a great similarity."
+4693,"der Fachbereich, -e",der,B2+,13.1094,0.632,0,"(academic) department, field",Ich leite den Fachbereich Fremdsprachen an der Universität.,I manage the Department of Foreign Languages at the university.
+4696,"der Moderator, -en",der,B2+,13.1094,0.8246,0,"moderator, host, presenter",Die Moderatoren im Fernsehen müssen sehr gut sprechen können.,The TV moderators must be able to speak very well.
+4699,"die Realisierung, -en",die,B2+,13.1094,0.8043,0,"implementation, realization",Zur Realisierung des Projekts fehlen noch 200 Euro.,Two hundred euros are still needed for the implementation of the project.
+4700,"der Rechtsanwalt, -̈e",der,B2+,13.1094,0.8191,0,lawyer,"Weil wir um das Erbe streiten, lassen wir uns von einem Rechtsanwalt beraten.","Because we are fighting over our inheritance, we seek advice from a lawyer."
+4704,der Brexit,der,B2+,13.0601,0.7063,0,Brexit,Der Austritt des Vereinigten Königreichs aus der Europäischen Union wird in den Medien Brexit genannt.,The withdrawal of the United Kingdom from the European Union is referred to in the media as Brexit.
+4705,"die Diktatur, -en",die,B2+,13.0601,0.7833,0,dictatorship,Nur noch wenige Länder haben eine Diktatur als Regierung.,Only a few countries still have a dictatorship as a government.
+4707,das Insulin,das,B2+,13.0601,0.5007,0,insulin,"Weil mein Vater Diabetes hat, braucht er Insulin.","Because my father has diabetes, he needs insulin."
+4708,"die Interaktion, -en",die,B2+,13.0601,0.7979,0,interaction,Sprachliche Kommunikation ist die wichtigste Form der menschlichen Interaktion.,Linguistic communication is the most important form of human interaction.
+4709,"die Kante, -n",die,B2+,13.0601,0.8605,0,edge,Manuel stößt sich den Fuß an der Kante des Bettes.,Manuel hits his foot against the edge of the bed.
+4711,"die Rendite, -n",die,B2+,13.0601,0.7349,0,return,Durch meine Investition konnte ich eine Rendite von jährlich 8% machen.,Through my investment I was able to achieve an annual return of 8%.
+4714,"das Vokabular, -e",das,B2+,13.0601,0.2604,0,vocabulary,Mein Schüler hat ein großes Vokabular der deutschen Sprache.,My student has a great vocabulary in the German language.
+4717,"der Zerfall, -̈e",der,B2+,13.0601,0.7304,0,"disintegration, collapse, decay","Es kommt zum Zerfall der Häuser, weil schon seit langem niemand mehr in diesen wohnt.",The collapse of the houses takes place because no one has lived in them for a long time.
+4718,"der Zweig, -e",der,B2+,13.0601,0.8654,0,"branch, twig",Martin läuft im Wald und ein Zweig eines Baumes schlägt ihm ins Gesicht.,Martin walks in the forest and a branch of a tree hits him in the face.
+4720,"die Drohung, -en",die,B2+,13.0109,0.8836,0,threat,"Die Drohung, dass er mich schlagen wird, macht mir Angst.",The threat that he’s gonna hit me scares me.
+4721,"die Erregung, -en",die,B2+,13.0109,0.7587,0,"excitement, thrill, agitation",Vor Freude spüre ich eine starke Erregung.,With joy I feel a strong excitement.
+4724,"der Korb, -̈e",der,B2+,13.0109,0.8508,0,basket,"Ich lege die Lebensmittel in einen Korb, damit ich sie besser tragen kann.",I put the food in a basket so I can carry it better.
+4725,"der Pole, -n",der,B2+,13.0109,0.8809,0,Polish,Lena ist Polin und wohnt in Danzig.,Lena is Polish and lives in Gdansk.
+4726,"der Schoß, -̈e",der,B2+,13.0109,0.8281,0,lap,Benno sitzt auf dem Schoß von seinem Opa.,Benno sits on his grandfather’s lap.
+4727,"der Veranstalter, -",der,B2+,13.0109,0.8198,0,organizer,Der Veranstalter organisiert das Fest.,The organizer organizes the festival.
+4728,"die Verarbeitung, -en",die,B2+,13.0109,0.8123,0,"processing, finishing",An dem Material und der Verarbeitung der Kleidung erkennt man ihren Wert.,Its value can be seen in the material and finishing of the clothing.
+4731,"die Attacke, -n",die,B2+,12.9616,0.8284,0,attack,Sie wehren sich gegen die Attacke ihrer Gegner.,They defend themselves against their opponents’ attacks.
+4733,"der Demonstrant, -en",der,B2+,12.9616,0.7702,0,demonstrator,"Heute gibt es viele Demonstranten in der Stadt, die mehr Geld von der Regierung fordern.",Today there are many demonstrators in the city demanding more money from the government.
+4736,"das Insekt, -en",das,B2+,12.9616,0.8158,0,insect,Ich mag keine Fliegen oder andere Insekten.,I don’t like flies or other insects.
+4737,"die Konjunktur, -en",die,B2+,12.9616,0.7767,0,"economy, economic situation",Die Reformen sollen die Konjunktur positiv beeinflussen.,The reforms should have a positive impact on the economy.
+4739,"der Sponsor, -en",der,B2+,12.9616,0.8084,0,sponsor,"Da wir jetzt einen Sponsoren haben, können wir neue Kleidung für das Team kaufen.","Now that we have a sponsor, we can buy new clothes for the team."
+4743,"der Affe, -n",der,B2+,12.9123,0.8028,0,"monkey, ape",Von allen Tieren ist der Affe dem Menschen am ähnlichsten.,"Of all animals, the monkey is most similar to man."
+4744,DFB (Deutscher Fußball-Bund),der,B2+,12.9123,0.6134,0,DFB,"Der DFB kümmert sich um alles, was mit dem deutschen Fußball zu tun hat.",The DFB takes care of everything that has to do with German soccer.
+4745,"die Festlegung, -en",die,B2+,12.9123,0.7572,0,"determination, specification, fixing",Sie fordern die Festlegung neuer Gehälter.,They demand the fixing of new salaries.
+4747,"das Geschäftsjahr, -e",das,B2+,12.9123,0.7211,0,financial year,Am Ende des Geschäftsjahres stellen die Firmen eine Bilanz auf.,"At the end of the financial year, the companies draw up their balance sheets."
+4748,das Mitleid,das,B2+,12.9123,0.8764,0,pity,"Ich habe Mitleid mit Tom, weil er heute länger arbeiten muss.",I have pity on Tom because he has to work late today.
+4761,"der Betrachter, -",der,B2+,12.863,0.8249,0,"observer, viewer",Der Betrachter des Bildes ist sehr kritisch.,The viewer of the picture is very critical.
+4764,"das Paradies, -e",das,B2+,12.863,0.8701,0,paradise,"Meine Oma sagt, nach dem Tod kommt man ins Paradies.","My granny says after you die, you go to paradise."
+4765,"die Spekulation, -en",die,B2+,12.863,0.8694,0,speculation,"Meine Verwandten stellen Spekulationen an, ob ich schwanger bin.",My relatives are making speculations as to whether I’m pregnant.
+4767,"der Strauß, -̈e",der,B2+,12.863,0.7944,0,"bouquet, bunch, ostrich",Zum Geburtstag schenkt mir Oliver einen Strauß Blumen.,For my birthday Oliver gives me a bouquet of flowers.
+4768,"der Studiengang, -̈e",der,B2+,12.863,0.7171,0,course of study,Diesen Studiengang kann man nur an wenigen Universitäten studieren.,This course of study can only be studied at a few universities.
+4770,"die Verteidigung, -en",die,B2+,12.863,0.8903,0,defense,Die erfolgreiche Verteidigung des Täters bewirkt eine geringe Strafe.,The successful defense of the perpetrator leads to a minor punishment.
+4776,"die Hauptsache, -n",die,B2+,12.8137,0.8941,0,main thing,"Die Hauptsache ist, dass es dir gut geht.",The main thing is that you’re all right.
+4778,"der Komponist, -en",der,B2+,12.8137,0.8176,0,composer,Johann Sebastian Bach war Komponist.,Johann Sebastian Bach was a composer.
+4779,"die Korrektur, -en",die,B2+,12.8137,0.8637,0,"correction, adjustment",Der Professor nimmt die Korrektur der Arbeiten seiner Studenten vor.,The professor undertakes the correction of the work of his students.
+4783,das Silber,das,B2+,12.8137,0.8464,0,silver,Der Ring und die Kette sind aus echtem Silber.,The ring and chain are made of real silver.
+4785,"der Urgroßvater, -̈",der,B2+,12.8137,0.2329,0,great-grandfather,Mein Urgroßvater ist 95 Jahre alt.,My great-grandfather is 95 years old.
+4786,die Verletzte,der,B2+,12.8137,0.7926,0,injured,Im Krankenhaus kümmert man sich um die Verletzten.,The hospital takes care of the injured.
+4788,"die Altstadt, -̈e",die,B2+,12.7644,0.7901,0,"old town, historical center",Wir sehen uns heute die Altstadt von Dresden an.,Today we visit the historical center of Dresden.
+4796,"die Konstante, -n",die,B2+,12.7644,0.7032,0,constant,In der Mathematik und in der Physik gibt es festgelegte Konstanten.,In mathematics and physics there are fixed constants.
+4797,"die Schublade, -n",die,B2+,12.7644,0.8713,0,drawer,Ich lege die Unterlagen in die Schublade.,I’ll put the documents in the drawer.
+4798,"die Toleranz, -en",die,B2+,12.7644,0.8242,0,tolerance,Die Toleranz gegenüber Flüchtlingen nimmt in der Gesellschaft zu.,Tolerance toward refugees is increasing in society.
+4800,"die Verhaltensweise, -n",die,B2+,12.7644,0.7649,0,behavior,In seiner Forschung untersucht er die Verhaltensweisen von Katzen.,In his research he examines the behavior of cats.
+4801,die Wachstumsrate,die,B2+,12.7644,0.5515,0,growth rate,Die wirtschaftliche Wachstumsrate im Land ist in diesem Jahr gestiegen.,The economic growth rate in the country has risen this year.
+4802,"der Begleiter, -",der,B2+,12.7152,0.883,0,"attendant, companion","Wenn ich keinen Begleiter für das Fest finde, komme ich alleine.","If I can’t find a companion for the party, I’ll come alone."
+4805,"der Fund, -e",der,B2+,12.7152,0.8095,0,discovery,Die Polizei berichtet über den Fund einer Leiche.,Police are reporting the discovery of a body.
+4807,"der Hase, -n",der,B2+,12.7152,0.8264,0,rabbit,Hasen sind Tiere mit langen Ohren.,Rabbits are animals with long ears.
+4808,"die Jungfrau, -en",die,B2+,12.7152,0.6278,0,virgin,"Weil ich noch keinen Sex hatte, bin ich eine Jungfrau.","Because I haven’t had sex yet, I’m a virgin."
+4810,"der Pfad, -e",der,B2+,12.7152,0.8528,0,"path, trail","Ich gehe im Wald immer auf den Pfaden, weil ich mich sonst verlaufe.","I always walk on the paths in the forest, otherwise I get lost."
+4813,"die Teilung, -en",die,B2+,12.7152,0.6988,0,"division, separation, partition",Im Jahr 1949 fand die Teilung Deutschlands statt.,The partition of Germany took place in 1949.
+4814,"die Überwachung, -en",die,B2+,12.7152,0.8628,0,surveillance,Die Polizei ordnet die Überwachung des Täters an.,The police are ordering surveillance of the perpetrator.
+4815,"die Anatomie, -n",die,B2+,12.6659,0.5728,0,anatomy,In der Schule besprechen wir die Anatomie des menschlichen Körpers.,At school we discuss the anatomy of the human body.
+4816,"das Design, -s",das,B2+,12.6659,0.8433,0,design,Er studiert Design in Paris.,He’s studying design in Paris.
+4817,"der Durchbruch, -̈e",der,B2+,12.6659,0.8903,0,breakthrough,Dem Anwalt gelingt ein Durchbruch in dem Fall.,The lawyer makes a breakthrough in the case.
+4818,"die Jahreszeit, -en",die,B2+,12.6659,0.8827,0,season,Der Winter ist die kälteste Jahreszeit.,Winter is the coldest season.
+4819,"das Lob, -e",das,B2+,12.6659,0.8482,0,praise,Bei dieser Leistung verdienst du ein Lob.,You deserve praise for this achievement.
+4820,"die Telefonnummer, -n",die,B2+,12.6659,0.8543,0,phone number,Ich habe ein neues Handy und deshalb auch eine neue Telefonnummer.,I have a new mobile phone and therefore a new phone number.
+4821,"die Umwandlung, -en",die,B2+,12.6659,0.7489,0,conversion,In Physik behandeln wir die Umwandlung von Energie in Wärme.,In physics we deal with the conversion of energy into heat.
+4822,"die Bekämpfung, -en",die,B2+,12.6166,0.8315,0,"combat, control",Dieses Mittel eignet sich zur Bekämpfung von Insekten.,This product is suitable for controlling insects.
+4823,"die Finanzkrise, -n",die,B2+,12.6166,0.7621,0,financial crisis,Das Land und die Banken erholen sich von der Finanzkrise im letzten Jahr.,The country and the banks are recovering from last year’s financial crisis.
+4825,"das Archiv, -e",das,B2+,12.5673,0.8735,0,archive,Ich suche ein altes Dokument im Archiv.,I am looking for an old document in the archive.
+4828,"der Geheimdienst, -e",der,B2+,12.5673,0.8175,0,secret service,Der Geheimdienst warnt vor Terror.,The secret service warns of terror.
+4830,die NATO,die,B2+,12.5673,0.7683,0,NATO,"Die NATO ist eine internationale, militärische und politische Organisation.",NATO is an international military and political organization.
+4831,"die Symmetrie, -n",die,B2+,12.5673,0.6997,0,symmetry,"Die Symmetrie eines Gesichts ist verantwortlich dafür, ob wir einen Menschen schön finden.",The symmetry of a face is responsible for whether we find a person beautiful.
+4839,"der Gesang, -̈e",der,B2+,12.518,0.8754,0,"singing, vocals",Ich studiere Musik und Gesang.,I study music and singing.
+4840,"das Hilfsmittel, -",das,B2+,12.518,0.8659,0,"means, aid, tool",In der Prüfung sind keine Hilfsmittel erlaubt.,No aids are allowed in the test.
+4842,"die Abwesenheit, -en",die,B2+,12.4687,0.9059,0,absence,Während meiner Abwesenheit passen meine Eltern auf meinen Hund auf.,During my absence my parents look after my dog.
+4843,"der Anhang, -̈e",der,B2+,12.4687,0.7938,0,appendix,Im Anhang meiner Arbeit gibt es weitere Beispiele.,In the appendix of my work there are further examples.
+4844,"das Atelier, -s",das,B2+,12.4687,0.7381,0,studio,"Der Maler arbeitet in einem Atelier, weil er dort viel Licht hat.",The painter works in a studio because he has a lot of light there.
+4845,"das Brett, -er",das,B2+,12.4687,0.8885,0,"board, plank",Aus den Brettern baue ich ein Bett.,I’ll make a bed out of the boards.
+4846,"die Fachsprache, -n",die,B2+,12.4687,0.4078,0,technical language,"Ich verstehe den Artikel nicht, weil ich die Fachsprache nicht beherrsche.",I don’t understand the article because I haven’t mastered the technical language.
+4847,"die Geldmenge, -n",die,B2+,12.4687,0.4644,0,money supply,Der gesamte Bestand des Geldes in einem Land wird Geldmenge genannt.,The total stock of money in a country is called the money supply.
+4848,"das Getreide, -",das,B2+,12.4687,0.7405,0,"cereal, grain",Viele Lebensmittel aus Getreide sind Bestandteil einer gesunden Ernährung.,Many foods made from cereals are part of a healthy diet.
+4849,"das Grundrecht, -e",das,B2+,12.4687,0.7753,0,fundamental right,In der Verfassung eines Landes werden die Grundrechte der Menschen festgelegt.,A country’s constitution sets out the fundamental rights of its people.
+4850,die Leere,die,B2+,12.4687,0.8597,0,emptiness,Die Leere des verlassenen Hauses macht mich traurig.,The emptiness of the abandoned house makes me sad.
+4852,"der Abgrund, -̈e",der,B2+,12.4195,0.8468,0,abyss,Hinter dem Berg ist ein tiefer Abgrund.,Behind the mountain is a deep abyss.
+4853,"das Asyl, -e",das,B2+,12.4195,0.7822,0,asylum,"Weil in meiner Heimat Krieg herrscht, muss ich in einem anderen Land Asyl beantragen.","Because of the war in my country, I have to apply for asylum in another country."
+4857,"das Fell, -e",das,B2+,12.4195,0.8585,0,"fur, coat, skin",Das Fell des Hundes ist sehr weich.,The coat of the dog is very soft.
+4860,"der Syrer, -",der,B2+,12.4195,0.7261,0,Syrian,Viele Syrer kommen als Flüchtlinge nach Europa.,Many Syrians come to Europe as refugees.
+4865,"die Erstellung, -en",die,B2+,12.3702,0.7449,0,"preparation, creation",Mario hilft mir bei der Erstellung der Berechnungen.,Mario helps me with the preparation of the calculations.
+4866,"das Fass, -̈er",das,B2+,12.3702,0.771,0,"keg, barrel",Für das Fest kaufe ich ein Fass Bier.,I’ll buy a keg of beer for the party.
+4867,"der Kulturstaatsminister, -",der,B2+,12.3702,0.2622,0,minister of culture,Sie arbeitet im Amt der Kulturstaatsministerin.,She works in the office of the minister of culture.
+4868,"der Landsmann, -̈er",der,B2+,12.3702,0.882,0,"compatriot, fellow countryman",In meinem Urlaub treffe ich viele Landsmänner.,I meet a lot of compatriots on my vacation.
+4869,"die Laufzeit, -en",die,B2+,12.3702,0.8131,0,term,Die Laufzeit des Vertrags beträgt 24 Monate.,The term of the contract is 24 months.
+4873,"der Spielraum, -̈e",der,B2+,12.3702,0.8791,0,"leeway, scope, wiggle room",Ich habe keinen Spielraum bei der Festlegung des Preises.,I have no wiggle room in setting the price.
+4874,der Stickstoff,der,B2+,12.3702,0.6838,0,nitrogen,Stickstoff ist ein Bestandteil der Luft.,Nitrogen is a component of the air.
+4875,der Trost,der,B2+,12.3702,0.8527,0,"solace, comfort",Nach dem Tod meiner Großmutter suche ich Trost bei Freunden.,"After my grandmother’s death, I seek solace from friends."
+4879,"die Ewigkeit, -en",die,B2+,12.3209,0.8755,0,eternity,"Eigentlich warten wir nur fünf Minuten, aber es fühlt sich an wie eine Ewigkeit.","Actually, we’re only waiting five minutes, but it feels like an eternity."
+4880,"die Größenordnung, -en",die,B2+,12.3209,0.8393,0,"scale, size, magnitude",Der Krieg nimmt schlimme Größenordnungen an.,The war is taking on a terrible magnitude.
+4884,"der Reiter, -",der,B2+,12.3209,0.8368,0,"horseman, rider",Der Reiter fällt vom Pferd.,The horseman falls off his horse.
+4890,"der Abstieg, -e",der,B2+,12.2716,0.7536,0,descent,Das Haus steht oben auf dem Berg und der Abstieg ins Tal dauert vier Stunden.,The house stands on top of the mountain and the descent into the valley takes four hours.
+4892,"die Deutung, -en",die,B2+,12.2716,0.7696,0,interpretation,"Die Deutung eines Gedichts ist nicht immer klar, manchmal sind mehrere Interpretationen möglich.","The interpretation of a poem is not always clear, sometimes several interpretations are possible."
+4893,"der Einstieg, -e",der,B2+,12.2716,0.8719,0,entry,"Ich versuche, einen Einstieg in den Beruf zu finden.",I’m trying to find an entry into the job.
+4895,"die Halbzeit, -en",die,B2+,12.2716,0.6971,0,halftime,Während der Halbzeit beim Fußball reden wir über das Spiel.,"During halftime at soccer, we talk about the game."
+4896,"der Irrtum, -̈er",der,B2+,12.2716,0.8663,0,"error, misconception","Es ist ein Irrtum, dass Mädchen kein Fußball spielen können.",It’s a misconception that girls can’t play soccer.
+4897,"das Isotop, -e",das,B2+,12.2716,0.6223,0,isotope,Als Isotope werden verschiedene Arten von Atomen bezeichnet.,Isotopes are defined as different types of atoms.
+4899,"der Römer, -",der,B2+,12.2716,0.7796,0,Roman,Die Römer bauten die ersten Straßen.,The Romans built the first roads.
+4900,"der Specht, -e",der,B2+,12.2716,0.1385,0,woodpecker,"Obwohl Spechte Vögel sind, fliegen sie nicht oft.","Although woodpeckers are birds, they don’t fly often."
+4901,"die Übereinstimmung, -en",die,B2+,12.2716,0.8439,0,"match, agreement",Ich überprüfe die Übereinstimmungen zwischen meinen Antworten und den Lösungen.,I check the matches between my answers and the solutions.
+4904,"die Vorgehensweise, -n",die,B2+,12.2716,0.8319,0,"approach, procedure","Sie überlegen, welche Vorgehensweise beim Lernen besser ist.",They consider which approach to learning is better.
+4905,"die Affäre, -n",die,B2+,12.2223,0.8343,0,affair,"Monika erfährt, dass Tim eine Affäre mit ihrer besten Freundin hat.",Monika finds out that Tim is having an affair with her best friend.
+4909,"die Fluggesellschaft, -en",die,B2+,12.2223,0.7667,0,airline,Wir buchen den Flug bei einer anderen Fluggesellschaft.,We book the flight with another airline.
+4913,"das Kupfer, -",das,B2+,12.2223,0.7252,0,copper,Kupfer ist ein rotes Metall.,Copper is a red metal.
+4914,"die Lesung, -en",die,B2+,12.2223,0.7916,0,reading,Wir gehen zur Lesung eines neuen Autors.,We’re going to the reading of a new author.
+4915,Argentinien,das,B2+,12.173,0.8232,0,Argentina,Eine berühmte Oper spielt in Argentinien.,A famous opera is set in Argentina.
+4916,"der Dom, -e",der,B2+,12.173,0.8371,0,cathedral,Wir sehen uns den Dom in Köln an.,We’re going to see the cathedral in Cologne.
+4918,"die Ergänzung, -en",die,B2+,12.173,0.878,0,"supplement, addition",Er sucht eine sinnvolle Ergänzung zu seinem Alltag.,He’s looking for a meaningful addition to his everyday life.
+4920,"die Jury, -s",die,B2+,12.173,0.7809,0,jury,In den USA trifft im Gericht eine Jury die Entscheidungen.,"In the USA, a jury makes the decisions in court."
+4921,"der Kumpel, -",der,B2+,12.173,0.8292,0,pal,"Ich bin nicht in Oliver verliebt, er ist nur ein Kumpel.","I’m not in love with Oliver, he’s just a pal."
+4923,"die Ratte, -n",die,B2+,12.173,0.8505,0,rat,Ich habe Angst vor Ratten und Mäusen.,I’m afraid of rats and mice.
+4925,"das Seil, -e",das,B2+,12.173,0.8266,0,rope,Ich befestige das Boot mit einem Seil am Ufer.,I’m securing the boat to the shore with a rope.
+4926,"der Tresen, -",der,B2+,12.173,0.6977,0,counter,Sie setzt sich in der Bar an den Tresen und bestellt ein Bier.,She sits down at the counter in the bar and orders a beer.
+4928,"die Fakultät, -en",die,B2+,12.1238,0.8174,0,faculty,Ich studiere an der medizinischen Fakultät der Universität.,I’m studying at the medical faculty of the university.
+4932,"das Modul, -e",das,B2+,12.1238,0.6218,0,module,Dieses Modul bietet die Universität nur im Wintersemester an.,This module is only offered by the university in the winter semester.
+4933,"der Priester, -",der,B2+,12.1238,0.8257,0,priest,Ein Priester führt die Hochzeit in der Kirche durch.,A priest conducts the wedding in the church.
+4934,"der Rückzug, -̈e",der,B2+,12.1238,0.8899,0,retreat,Die Soldaten treten den Rückzug an.,The soldiers are on the retreat.
+4936,Tiroler,der,B2+,12.1238,0.6644,0,Tyrolean,Die Tiroler sind sehr stolz auf ihr Bundesland.,Tyroleans are very proud of their province.
+4938,"die Abnahme, -n",die,B2+,12.0745,0.7063,0,"acceptance, decrease, decline, removal",Ich freue mich auf die Abnahme meines Verbandes am Fuß.,I am looking forward to the removal of the bandage on my foot.
+4939,"die Arbeitszeit, -en",die,B2+,12.0745,0.8427,0,working hours,Lehrer fordern eine geringere Arbeitszeit und mehr Lohn.,Teachers demand shorter working hours and higher wages.
+4940,"das Elektroauto, -s",das,B2+,12.0745,0.6557,0,electric car,Elektroautos sind eine sinnvolle Alternative zum Schutz der Umwelt.,Electric cars are a sensible alternative for protecting the environment.
+4944,"der Tatort, -e",der,B2+,12.0745,0.7753,0,crime scene,Die Polizei untersucht den Tatort auf Spuren.,Police are investigating the crime scene for clues.
+4946,"das Attentat, -e",das,B2+,12.0252,0.8019,0,assassination,Die Menschen haben Angst vor mehr Attentaten und Terror.,People are afraid of more assassinations and terror.
+4947,"der Ausschnitt, -e",der,B2+,12.0252,0.8837,0,"section, extract, excerpt, neckline",Sie trägt ein Kleid mit großem Ausschnitt.,She’s wearing a dress with a big neckline.
+4950,"die Population, -en",die,B2+,12.0252,0.6357,0,population,Ich untersuche die Population verschiedener Tiere.,I am studying the population of different animals.
+4951,"das Referendum, -en",das,B2+,12.0252,0.7614,0,referendum,"In einer Demokratie hat das Volk die Möglichkeit, über ein Referendum abzustimmen.","In a democracy, the people have the opportunity to vote in a referendum."
+4958,"der Anwohner, -",der,B2+,11.9759,0.7641,0,resident,Die Anwohner beklagen sich über die laute Musik.,The residents complain about the loud music.
+4959,"der Ausblick, -e",der,B2+,11.9759,0.8116,0,"outlook, forecast, view",Der Ausblick aus meinem Fenster ist sehr schön.,The view from my window is very nice.
+4961,"die Diskriminierung, -en",die,B2+,11.9759,0.7877,0,discrimination,Ich kämpfe gegen die Diskriminierung von Minderheiten.,I am fighting against discrimination against minorities.
+4962,"der Frosch, -̈e",der,B2+,11.9759,0.6099,0,frog,Am See gibt es viele Frösche.,There are many frogs at the lake.
+4963,"der Funke, -n",der,B2+,11.9759,0.7983,0,spark,Bei einem Feuer entstehen Funken.,A fire makes sparks.
+4966,die Reiche,"der, die",B2+,11.9759,0.8678,0,rich,Der Unterschied zwischen den Armen und den Reichen wird immer größer.,The difference between the rich and the poor is growing.
+4967,"die Skulptur, -en",die,B2+,11.9759,0.8411,0,sculpture,In dem Museum stehen viele Skulpturen von berühmten Künstlern.,In the museum there are many sculptures by famous artists.
+4968,"der Stadtrat, -̈e",der,B2+,11.9759,0.7458,0,city council,Politiker aus verschiedenen Parteien stellen sich für das Amt zum Stadtrat zur Wahl auf.,Politicians from various parties are standing for election to the city council.
+4969,"der Verweis, -e",der,B2+,11.9759,0.8085,0,"reference, reprimand","Weil Lars oft andere Schüler schlägt, bekommt er einen Verweis von der Schule.","Because Lars often beats other students, he gets a reprimand from school."
+4971,die Beachtung,die,B2+,11.9266,0.8649,0,"attention, consideration, compliance",Mein Chef nimmt meine Arbeit als selbstverständlich hin und ich wünsche mir mehr Beachtung von ihm.,My boss takes my work for granted and I want more attention from him.
+4972,"die Befreiung, -en",die,B2+,11.9266,0.8703,0,liberation,Ich kämpfe für die Befreiung unschuldiger Menschen aus dem Gefängnis.,I fight for the liberation of innocent people from prison.
+4974,"der Botschafter, -",der,B2+,11.9266,0.8314,0,ambassador,Als Botschafter muss er viel reisen.,"As an ambassador, he has to travel a lot."
+4975,die Delegierte,"der, die",B2+,11.9266,0.7632,0,delegate,Die Mitglieder des deutschen Bundestages sind Delegierte des Volkes.,The members of the German Bundestag are delegates of the people.
+4977,das Grundeinkommen,das,B2+,11.9266,0.4681,0,basic income,Die Politiker entscheiden über ein Grundeinkommen für jeden Bürger.,Politicians decide on a basic income for every citizen.
+4978,Nachhinein,das,B2+,11.9266,0.9014,0,retrospect,"Im Nachhinein stelle ich fest, dass ich eine falsche Entscheidung getroffen habe.","In retrospect, I realize that I made the wrong decision."
+4979,"die Neigung, -en",die,B2+,11.9266,0.8879,0,"tendency, propensity, slope, incline",Seine Neigung zur Gewalt bringt ihn in Schwierigkeiten.,His propensity for violence gets him into trouble.
+4981,"der Ofen, -Ö",der,B2+,11.9266,0.8281,0,"oven, furnace",Ich nehme den Kuchen aus dem Ofen.,I’ll take the cake out of the oven.
+4983,"der Redakteur, -e",der,B2+,11.9266,0.8258,0,editor,Als Redakteur schreibt er Beiträge für die Zeitung.,As an editor he writes articles for the newspaper.
+4984,"die Sehne, -n",die,B2+,11.9266,0.4086,0,tendon,Eine Sehne in meinem Fuß ist gerissen und ich kann nicht mehr laufen.,A tendon in my foot is torn and I can’t walk anymore.
+4985,"der Spalt, -e",der,B2+,11.9266,0.8313,0,crack,Die Tür ist nur einen Spalt offen.,The door’s just open a crack.
+4987,"die Weiterentwicklung, -en",die,B2+,11.9266,0.8601,0,"further development, advancement",Mein neues Auto ist eine Weiterentwicklung des alten Modells.,My new car is a further development of the old model.
+4988,der Zorn,der,B2+,11.9266,0.8485,0,"anger, wrath","Ich empfinde keinen Ärger, sondern Zorn.",What I’m feeling isn’t annoyance but anger.
+4991,der Mars,der,B2+,11.8773,0.7249,0,Mars,Der Mars wird auch roter Planet genannt.,Mars is also called the red planet.
+4992,"der Mindestlohn, -̈e",der,B2+,11.8773,0.7748,0,minimum wage,Durch die Einführung des Mindestlohns verdiene ich mehr Geld.,I make more money because of the introduction of the minimum wage.
+4993,"der Missbrauch, -̈e",der,B2+,11.8773,0.8736,0,abuse,Der Missbrauch von Kindern muss härter bestraft werden.,The abuse of children must be punished more harshly.
+4994,"der Nationalpark, -s",der,B2+,11.8773,0.7465,0,national park,Ich wandere durch den Nationalpark Yosemite.,I hike through Yosemite National Park.
+4995,die Offenheit,die,B2+,11.8773,0.8489,0,"openness, candor",Er gibt seine Fehler zu und ich bewundere ihn für seine Offenheit.,He admits his mistakes and I admire him for his openness.
+4996,"der Premierminister, -",der,B2+,11.8773,0.8057,0,prime minister,Das Land wählt einen neuen Premierminister.,The country elects a new prime minister.
+4998,"die Fassung, -en",die,B2+,11.8281,0.8681,0,"version, composure, socket","Als er dies sagte, verlor sie die Fassung.","When he said this, she lost her composure."
+5002,"das Präparat, -e",das,B2+,11.8281,0.7056,0,"preparation, compound",Ich stelle ein biologisches Präparat für das Experiment her.,I’m producing a biological preparation for the experiment.
+5003,"die Rettung, -en",die,B2+,11.8281,0.8954,0,"rescue, salvation","Weil es einen Sturm gibt, können sie den Berg nicht verlassen und müssen auf ihre Rettung warten.",Because of the storm they cannot get down from the mountain and have to wait for rescue.
+5004,"die Ruine, -n",die,B2+,11.8281,0.848,0,ruin,"Früher war das Gebäude ein schönes Schloss, heute ist es nur noch eine Ruine.","Before, the building was a beautiful castle, now it’s only a ruin."
+5008,"die Zivilisation, -en",die,B2+,11.8281,0.8697,0,civilization,Die Zukunft der menschlichen Zivilisation ist nicht vorhersehbar.,The future of human civilization is not predictable.

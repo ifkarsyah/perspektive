@@ -1,0 +1,55 @@
+rank,word,pos,level,freq_per_million,dispersion,has_conjugation,definition,example_de,example_en
+7,sie,pron,A1,10186.3697,0.939,0,"she, her","Paul besucht Anna, sie ist Pauls Tante.",Paul visits Anna; she’s Paul’s aunt.
+10,ich,pron,A1,9785.5465,0.8909,0,I,Ich arbeite und du bleibst zu Hause.,I work and you stay home.
+12,es,pron,A1,8508.9052,0.9585,0,it,"Das Kind geht ins Bett, es ist müde.",The child goes to bed; she is tired.
+14,sich,pron,A1,7747.5728,0.9699,0,-self,Das Kind sieht sich im Spiegel.,The child sees itself in the mirror.
+15,er,pron,A1,6838.2418,0.9031,0,he,"Jan hat gute Noten in der Schule, er ist ein kluges Kind.",Jan has good grades in school; he’s a smart child.
+24,dies,pron,A1,5099.4685,0.9679,0,"this, that",Besonders dieses Bild gefällt mir sehr.,I especially like this picture.
+25,wie,pron,A1,4841.3212,0.9663,0,how,Wie lange dauert es?,How long does it take?
+26,wir,pron,A1,4602.4438,0.9131,0,we,"Fernando und ich wollen Urlaub machen, wir fahren im Sommer.",Fernando and I are going on vacation; we’re going in summer.
+27,ihr,pron,A1,4598.9447,0.9505,0,"you, her",Das Mädchen ärgert ihren Bruder.,The girl annoys her brother.
+30,sein,pron,A1,4061.6553,0.9341,0,"his, its",Der Junge ärgert seine Schwester.,The boy annoys his sister.
+32,man,pron,A1,3629.1428,0.9452,0,"one, you, they",Hier erzählt man sich Geschichten.,They tell stories here.
+36,all,pron,A1,3269.3235,0.9674,0,all,Wir freuen uns alle auf den Urlaub.,We are all looking forward to our vacation.
+38,was,pron,A1,3150.6487,0.9136,0,what,Was sagst du?,What do you say?
+46,kein,pron,A1,2476.9917,0.9626,0,no,"Sie haben keine Chance, das Spiel zu gewinnen.",They have no chance of winning the game.
+51,mein,pron,A1,2105.1965,0.8951,0,"my, mine",Anna ist meine kleine Schwester.,Anna is my little sister.
+54,du,pron,A1,2042.0643,0.8295,0,you,Wer bist du?,Who are you?
+56,viel,pron,A1,2032.9961,0.9429,0,"much, a lot, many",Ich gebe im Urlaub viel Geld aus.,I spend a lot of money on vacation.
+59,"andere (r, s)",pron,A1,1940.9344,0.9706,0,other,Es gibt noch einen anderen Weg zum Bahnhof.,There’s another way to the station.
+63,mir,pron,A1,1798.9978,0.8876,0,me,Gibst du mir dein Fahrrad?,Are you giving me your bike?
+65,mich,pron,A1,1683.8714,0.8906,0,me,Timo setzt sich neben mich an den Tisch.,Timo sits down next to me at the table.
+75,uns,pron,A1,1478.6546,0.9147,0,"us, we","Katharina besucht Max und mich, wir freuen uns darauf.","Katharina is visiting Max and me, we are looking forward to it."
+80,einer,pron,A1,1328.4876,0.9559,0,(some)one,Dieses Problem ist nur eines von vielen.,This problem is only one of many.
+86,unser,pron,A1,1171.0267,0.8989,0,our,Unser Verein hat das Spiel verloren.,Our club lost the game.
+87,"jede (r, s)",pron,A1,1162.5006,0.9691,0,every,Wir fahren jeden Sommer in den Urlaub.,We go on vacation every summer.
+91,ihm,pron,A1,1083.8933,0.8931,0,him,Tom zieht zu Anna und sie gibt ihm die Schlüssel zu ihrer Wohnung.,Tom moves in with Anna and she gives him the keys to her apartment.
+92,ihn,pron,A1,1078.6693,0.8974,0,him,Ich treffe ihn immer am Donnerstag in der Universität.,I always meet him on Thursday at the university.
+108,wo,pron,A1,848.3179,0.9251,0,where,Wo bist du geboren?,Where were you born?
+109,"nichts, nix",pron,A1,837.9684,0.9151,0,nothing,"Wenn es dunkel ist, kann man nichts sehen.","When it’s dark, you can see nothing."
+117,beide,pron,A1,766.0144,0.9669,0,both,Er hat zwei Kinder und liebt sie beide.,He has two children and loves them both.
+122,"welch, -e, -er, -es",pron,A1,757.1433,0.9265,0,which,Welchen Film magst du lieber?,Which movie do you like better?
+125,ihnen,pron,A1,720.0328,0.9289,0,them,"Er gibt ihnen den Schlüssel, damit Tina und Erik in seiner Wohnung schlafen können.",He gives them the key so that Tina and Erik can sleep in his apartment.
+149,wer,pron,A1,583.9609,0.9301,0,"who, whoever",Wer ist da?,Who is there?
+150,dazu,pron,A1,578.8354,0.9609,0,"in addition, furthermore, to that, for that",Ich koche heute und brauche dazu Eier.,I’m cooking tonight and I need eggs for that.
+174,einige,pron,A1,501.4109,0.9644,0,"a few, some","Für einige Probleme haben wir bereits Lösungen, für andere noch nicht.","For some problems we already have solutions, for others not yet."
+190,denen,pron,A1,453.1131,0.964,0,"whom, that","Das sind Klara und Lisa, mit denen ich zusammen in einer Wohnung lebe.","This is Klara and Lisa, with whom I live in an apartment."
+195,"darauf, drauf",pron,A1,434.4839,0.9572,0,"on it, to it","Das Geschenk ist offensichtlich für Marlene, ihr Name steht darauf.",This gift’s clearly for Marlene; it has her name on it.
+214,davon,pron,A1,401.1682,0.9636,0,"from it, about it, thereof",Davon wissen wir nichts.,We don’t know anything about that.
+217,dich,pron,A1,399.4433,0.8229,0,"you, yourself",Ich hole dich gleich ab.,I’ll pick you up in a moment.
+233,dein,pron,A1,367.7046,0.8388,0,your,Dein Handy klingelt.,Your cell’s ringing.
+244,dir,pron,A1,357.7494,0.829,0,you,"Ich möchte dir ein besonderes Geschenk kaufen, was wünschst du dir?","I want to buy you a special gift, what do you wish for?"
+283,"darüber, drüber",pron,A1,309.1065,0.9501,0,"above it, about it",Darüber müssen wir morgen sprechen.,We’ll have to talk about that tomorrow.
+284,deren,pron,A1,308.1208,0.9483,0,whose,"Die Frau, deren Vater krank ist, ist traurig.",The woman whose father is ill is sad.
+292,"daran, dran",pron,A1,293.1879,0.9413,0,on it,Daran denke ich jeden Tag.,I think about it every day.
+301,"bisschen, bissel",pron,A1,280.4235,0.8584,0,a little,Mein Bein schmerzt morgens ein bisschen.,My leg hurts a little in the morning.
+331,dessen,pron,A1,252.3811,0.935,0,whose,"Der Mann, dessen Frau Geburtstag hat, hat ein Geschenk.",The man whose wife’s birthday it is has a present.
+360,"darin, drin, drinnen",pron,A1,232.9141,0.9556,0,"in it, in there, inside","Ich suche meinen Koffer, darin sind meine Sachen.","I’m looking for my suitcase, in there are my things."
+395,"jene (r, s)",pron,A1,210.6379,0.9048,0,"that, those",Ich denke gerne zurück an jene Tage in Frankreich.,I like to think back to those days in France.
+433,"manche (r, s)",pron,A1,191.5159,0.9383,0,"some, many a",Manche Menschen mögen keinen Kaffee.,Some people don’t like coffee.
+495,euch,pron,A1,168.2541,0.8414,0,"you, yourselves",Ihr solltest euch mehr Zeit für euch nehmen.,You should take more time for yourselves.
+657,wann,pron,A1,132.8192,0.9188,0,when,Wann kommst du heute nach Hause?,When are you coming home today?
+1309,euer,pron,A1,67.3706,0.8484,0,your,"Mama, Papa, kann ich mir euer Auto ausleihen?","Mom, Dad, can I borrow your car?"
+1494,woher,pron,A1,58.5982,0.8894,0,"from where, how",Woher kommst du?,Where are you from?
+1811,wohin,pron,A1,46.8194,0.9022,0,where,Wohin gehen wir heute Abend?,Where are we going tonight?
+1939,daneben,pron,A1,43.1231,0.9378,0,"beside it, next to it",Auf dem Foto sieht man Günter und Hartmut und daneben steht ihre Schwester Gisela.,On the photo you can see Günter and Hartmut and next to them is their sister Gisela.

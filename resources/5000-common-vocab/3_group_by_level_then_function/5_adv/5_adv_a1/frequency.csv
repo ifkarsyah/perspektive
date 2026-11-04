@@ -1,0 +1,6 @@
+rank,word,pos,level,freq_per_million,dispersion,has_conjugation,definition,example_de,example_en
+64,immer,adv,A1,1703.3384,0.9466,0,always,Zum Frühstück esse ich immer eine Scheibe Brot.,I always have a slice of bread for breakfast.
+124,einmal,adv,A1,731.023,0.9348,0,once,Ich möchte einmal im Leben nach Paris fahren.,I want to go to Paris once in my life.
+186,nie,adv,A1,466.7153,0.9223,0,never,Das hast du mir nie erzählt.,You never told me that.
+223,oft,adv,A1,388.453,0.9566,0,often,Sie besucht ihre Oma oft.,She visits her grandma often.
+705,meist,adv,A1,125.4759,0.922,0,"mostly, usually",An einem Sonntag schläft Max meist bis 13 Uhr.,On a Sunday Max usually sleeps until 1 pm.

@@ -1,0 +1,8 @@
+rank,word,pos,level,freq_per_million,dispersion,has_conjugation,is_separable,definition,example_de,example_en
+863,"aufbauen, baut auf, baute auf, hat aufgebaut",verb,A2,100.4892,0.9384,1,1,to build up,"Sie trainiert täglich, um Kraft aufzubauen.",She trains daily to build her strength.
+1046,"herstellen, stellt her, stellte her, hat hergestellt",verb,A2,83.0428,0.9167,1,1,to produce,Die Firma stellt moderne Maschinen her.,The company produces modern machines.
+1327,"abschließen, schließt ab, schloss ab, hat abgeschlossen",verb,A2,66.7299,0.94,1,1,"to lock, conclude","Wenn du das Haus verlässt, musst du die Tür abschließen.","When you leave the house, you have to lock the door."
+1421,"vorbereiten, bereitet vor, bereitete vor, hat vorbereitet",verb,A2,62.5408,0.9345,1,1,to prepare,Sie bereiten sich auf die Prüfung vor.,They’re preparing for the exam.
+1714,"teilnehmen, nimmt teil, nahm teil, hat teilgenommen",verb,A2,49.7764,0.9256,1,1,to take part,Angela nimmt an der Veranstaltung am Samstag teil.,Angela takes part in the event on Saturday.
+2115,"aufmachen, macht auf, machte auf, hat aufgemacht",verb,A2,38.6876,0.8974,1,1,to open,"Er macht das Fenster auf, weil die Luft so schlecht ist.",He opens the window because the air is so bad.
+3897,"zumachen, macht zu, machte zu, hat zugemacht",verb,A2,17.2,0.8237,1,1,"to close, shut down","Wenn es regnet, musst du alle Fenster zumachen.","If it rains, you’ll have to close all the windows."

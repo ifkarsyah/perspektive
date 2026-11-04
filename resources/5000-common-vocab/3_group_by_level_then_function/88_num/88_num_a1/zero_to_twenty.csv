@@ -1,0 +1,13 @@
+rank,word,pos,level,freq_per_million,dispersion,has_conjugation,definition,example_de,example_en
+70,zwei,num,A1,1571.2585,0.9697,0,two,"Anna hat zwei Schwestern, Tina und Sarah.","Anna has two sisters, Tina and Sarah."
+106,drei,num,A1,870.8898,0.9655,0,three,"Im Deutschen gibt es drei Artikel, der, die und das.","In German there are three articles, “der”, “die”, and “das”."
+200,vier,num,A1,423.74,0.9435,0,four,Oma hat vier Hunde.,Grandma has four dogs.
+274,fünf,num,A1,319.5546,0.9327,0,five,Ich bin in fünf Minuten bei dir.,I’ll be with you in five minutes.
+333,zehn,num,A1,252.2333,0.9292,0,ten,Ein Mensch hat zwei Hände und zehn Finger.,A human has two hands and ten fingers.
+428,sechs,num,A1,192.8466,0.9213,0,six,Drei plus drei ergibt sechs.,Three plus three equals six.
+611,sieben,num,A1,141.9367,0.9243,0,seven,Eine Woche hat sieben Tage.,A week has seven days.
+645,acht,num,A1,134.4456,0.9271,0,eight,Acht ist eine gerade Zahl.,Eight is an even number.
+1053,neun,num,A1,82.4514,0.9126,0,nine,Sie trägt das Kind neun Monate in ihrem Bauch.,She carries the baby for nine months in her belly.
+1080,zwölf,num,A1,80.825,0.92,0,twelve,Das Jahr hat zwölf Monate.,The year has twelve months.
+1507,elf,num,A1,58.0068,0.8928,0,eleven,Mein jüngerer Bruder ist elf Jahre alt.,My younger brother is eleven years old.
+1680,null,num,A1,50.9099,0.8758,0,zero,"Timur hat null Ahnung, was die Lösung ist.",Timur has zero idea what the solution is.

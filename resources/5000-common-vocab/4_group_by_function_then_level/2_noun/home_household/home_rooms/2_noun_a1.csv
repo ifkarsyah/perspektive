@@ -1,0 +1,7 @@
+rank,word,pos,level,freq_per_million,dispersion,has_conjugation,definition,example_de,example_en
+501,"die Wohnung, -en",die,A1,166.9234,0.8961,0,"apartment, flat",Wir suchen eine neue Wohnung.,We’re looking for a new apartment.
+665,"das Zimmer, -",das,A1,132.1292,0.8758,0,room,Ich suche ein kleines Zimmer in Berlin.,I’m looking for a small room in Berlin.
+1041,"die Küche, -n",die,A1,83.3385,0.8708,0,"kitchen, cuisine","Die Wohnung hat zwei Zimmer, ein Bad und eine Küche.","The apartment has two rooms, a bathroom and a kitchen."
+1637,"das Bad, -̈er",das,A1,52.6348,0.8727,0,"bath, bathroom, spa",Die neue Wohnung hat zwei Bäder.,The new apartment has two bathrooms.
+1950,"die Treppe, -n",die,A1,42.7781,0.8475,0,stairs,In unserem Haus gibt es zwei Treppen.,In our house there are two stairs.
+2273,"der Stock, -̈e",der,A1,35.5827,0.8672,0,"stick, floor",Sein Büro ist im dritten Stock des Gebäudes.,His office on the third floor of the building.

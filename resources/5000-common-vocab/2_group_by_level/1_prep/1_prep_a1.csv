@@ -1,0 +1,22 @@
+rank,word,pos,level,freq_per_million,dispersion,has_conjugation,definition,example_de,example_en
+3,in,prep,A1,24319.0219,0.9771,0,in,Günter geht in den Keller.,Günter goes into the basement.
+9,von,prep,A1,10060.1052,0.979,0,"from, of",Benjamin ist der Bruder von Anna.,Benjamin is the brother of Anna.
+13,mit,prep,A1,8467.507,0.9811,0,with,Mein Bruder spielt mit Janosch Fußball im Garten.,My brother plays soccer in the garden with Janosch.
+16,auf,prep,A1,6800.7863,0.9714,0,"on, at, to",Auf dem Tisch steht ein Glas Wasser.,There’s a glass of water on the table.
+17,für,prep,A1,6621.197,0.9677,0,for,Sie macht einen Kaffee für Max.,She’s making coffee for Max.
+19,an,prep,A1,6163.4513,0.9732,0,"at, on",Das Bild hängt an der Wand.,The picture hangs on the wall.
+29,bei,prep,A1,4312.2622,0.9641,0,"by, with, at",Jan ist bei einem neuen Arzt.,Jan’s with a new doctor.
+34,nach,prep,A1,3307.7154,0.9682,0,"after, toward",Nach dem Mittagessen gehen wir spazieren.,After lunch we go for a walk.
+37,aus,prep,A1,3218.1672,0.9764,0,"out, out of, from",Thomas schaut aus dem Fenster.,Thomas looks out the window.
+44,um,prep,A1,2684.7219,0.9679,0,"around, at",Die Kinder laufen um den Baum.,The children run around the tree.
+47,über,prep,A1,2382.2687,0.9726,0,"above, over, about",Über mir fliegt ein Flugzeug.,There’s a plane flying above me.
+50,vor,prep,A1,2163.7947,0.9539,0,"in front of, before, ago",Laura wartet vor der Tür auf ihre Freunde.,Laura is waiting in front of the door for her friends.
+55,durch,prep,A1,2037.9245,0.9404,0,through,Ralf läuft durch die Stadt.,Ralf walks through the city.
+77,bis,prep,A1,1411.3333,0.9636,0,"until, till",Meine Mutter arbeitet bis sieben Uhr.,My mother works until seven o’clock.
+89,unter,prep,A1,1133.6204,0.9712,0,under,Unter der Brücke fließt ein Fluss.,Under the bridge a river flows.
+104,gegen,prep,A1,880.5986,0.9106,0,against,Ich verliere immer gegen dich.,I always lose against you.
+105,zwischen,prep,A1,878.233,0.9543,0,between,Mein Fahrrad steht zwischen den Bäumen.,My bicycle is standing between the trees.
+120,ohne,prep,A1,761.1846,0.9673,0,without,Ich verlasse meine Wohnung nie ohne Schlüssel.,I never leave my apartment without a key.
+130,seit,prep,A1,690.4627,0.9329,0,"since, for",Ihre Schwester ist seit drei Monaten im Ausland.,Her sister has been abroad for three months.
+544,ab,prep,A1,157.2146,0.9067,0,"from, as of",Ab morgen höre ich auf zu rauchen.,I’ll stop smoking as of tomorrow.
+572,laut,prep,A1,150.9063,0.8551,0,according to,Laut der Zeitung scheint heute die Sonne.,"According to the newspaper, the sun is shining today."

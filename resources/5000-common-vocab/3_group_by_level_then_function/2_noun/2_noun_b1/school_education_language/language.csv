@@ -1,0 +1,8 @@
+rank,word,pos,level,freq_per_million,dispersion,has_conjugation,definition,example_de,example_en
+970,"der Ausdruck, -̈e",der,B1,89.4497,0.8963,0,"term, expression",Der Professor erklärt wichtige Ausdrücke am Anfang der Vorlesung.,The professor explains important terms at the beginning of the lecture.
+1057,"die Definition, -en",die,B1,82.0078,0.8162,0,definition,Es gibt zahlreiche Definitionen zu “Politik”.,There are numerous definitions of politics.
+2072,"die Schrift, -en",die,B1,39.6733,0.7819,0,"script, handwriting",Der Lehrer kann die Schrift von Thomas nicht lesen.,The teacher cannot read Thomas’ handwriting.
+2073,"die Silbe, -n",die,B1,39.6733,0.1973,0,syllable,Das Wort “Liebe” besteht aus zwei Silben.,The word “Liebe” consists of two syllables.
+2318,"die Zeile, -n",die,B1,34.5478,0.8339,0,line,Übersetzer werden pro Zeile bezahlt.,Translators are paid per line.
+3770,"die Fremdsprache, -n",die,B1,17.9885,0.61,0,foreign language,Ich bin Lehrerin für Deutsch als Fremdsprache.,I am a teacher of German as a foreign language.
+4650,"der Dialekt, -e",der,B1,13.3066,0.7232,0,dialect,"Ich spreche nur dann Dialekt, wenn ich bei meinen Eltern bin.",I only speak dialect when I’m with my parents.

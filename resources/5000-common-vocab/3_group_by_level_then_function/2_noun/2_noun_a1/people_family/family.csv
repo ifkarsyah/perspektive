@@ -1,0 +1,18 @@
+rank,word,pos,level,freq_per_million,dispersion,has_conjugation,definition,example_de,example_en
+218,"die Mutter, -̈",die,A1,396.9298,0.8717,0,mother,Meine Mutter ist eine starke Frau.,My mother is a strong woman.
+232,"der Vater, -̈",der,A1,374.4565,0.8729,0,father,"Weil seine Freundin ein Baby bekommt, wird Timo endlich Vater.","Because his girlfriend is having a baby, Timo is finally becoming a father."
+329,"die Familie, -n",die,A1,254.6974,0.9363,0,family,Ich feiere meinen Geburtstag mit meiner Familie.,I’m celebrating my birthday with my family.
+404,Eltern,die (pl),A1,204.0832,0.9126,0,parents,Die Eltern lieben ihre Tochter.,Parents love their daughter.
+596,"der Sohn, -̈e",der,A1,145.3372,0.9127,0,son,Das ist unser Sohn Paul.,This is our son Paul.
+694,"die Tochter, -̈",die,A1,128.1373,0.8998,0,daughter,"Ute ist eine gute Mutter, sie liebt ihren Sohn und ihre Tochter sehr.","Ute is a good mother, she loves her son and daughter very much."
+730,"der Bruder, -̈",der,A1,120.3012,0.8597,0,brother,Friedrich hat einen großen Bruder namens Marco.,Friedrich has a big brother named Marco.
+974,"die Schwester, -n",die,A1,89.0554,0.8723,0,sister,"Lisa hat zwei Schwestern, Klara und Paula.","Lisa has two sisters, Klara and Paula."
+2175,"die Oma, -s",die,A1,37.6034,0.7887,0,grandma,Meine Oma erzählt mir oft Geschichten vom Krieg.,My grandma often tells me stories about the war.
+2297,"das Baby, -s",das,A1,35.0406,0.8363,0,baby,Das Baby von Ulrike und Peter ist winzig.,The baby of Ulrike and Peter is tiny.
+2776,"der Opa, -s",der,A1,27.5002,0.5772,0,grandpa,"Weil mein Sohn ein Kind bekommt, werde ich bald Opa.","Because my son is having a child, I’m soon to become a grandfather."
+2849,die Verwandte,"der, die",A1,26.6624,0.9051,0,relative,Zur Hochzeit sind alle Verwandten eingeladen.,All relatives are invited to the wedding.
+3104,"die Großmutter, -̈",die,A1,23.6068,0.8337,0,grandmother,Meine Großmutter erzählt mir immer Geschichten vom Krieg.,My grandmother always tells me stories about the war.
+3166,"der Großvater, -̈",der,A1,22.8183,0.8597,0,grandfather,Der Vater meiner Mutter ist mein Großvater.,My mother’s father is my grandfather.
+3929,Geschwister,die (pl),A1,16.9535,0.8772,0,siblings,"Irina hat fünf Geschwister, drei Schwestern und zwei Brüder.","Irina has five siblings, three sisters and two brothers."
+4734,"die Ehefrau, -en",die,A1,12.9616,0.8941,0,wife,Nach der Hochzeit ist Karla endlich meine Ehefrau.,"After the wedding, Karla is finally my wife."
+4762,"der Ehemann, -̈er",der,A1,12.863,0.9025,0,husband,Robert ist mir ein guter Ehemann.,Robert is a good husband to me.

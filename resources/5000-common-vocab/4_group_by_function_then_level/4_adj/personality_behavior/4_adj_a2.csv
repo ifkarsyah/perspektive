@@ -1,0 +1,15 @@
+rank,word,pos,level,freq_per_million,dispersion,has_conjugation,definition,example_de,example_en
+1375,streng,adj,A2,64.4629,0.951,0,strict,In der Schule haben wir eine strenge Lehrerin.,At school we have a strict teacher.
+1565,nett,adj,A2,55.789,0.8823,0,nice,Bernadette ist eine wirklich nette Person.,Bernadette is a really nice person.
+1566,freundlich,adj,A2,55.7397,0.9086,0,"kind, nice, friendly","Herr Schulz, unser neuer Lehrer, ist sehr freundlich.","Mr. Schulz, our new teacher, is very kind."
+1641,vorsichtig,adj,A2,52.5363,0.9114,0,"cautious, careful",Sei vorsichtig mit dem teuren Glas!,Be careful with the expensive glass!
+1875,komisch,adj,A2,44.7002,0.8706,0,funny,Alle lachen über Dominiks komische Geschichten.,Everyone laughs at Dominik’s funny stories.
+2004,blöd,adj,A2,41.2996,0.8407,0,"stupid, dumb",Es gibt keine blöden Fragen.,There are no stupid questions.
+2270,dumm,adj,A2,35.5827,0.8851,0,stupid,Es gibt keine dummen Fragen.,There are no stupid questions.
+2299,sportlich,adj,A2,34.9913,0.8235,0,athletic,Er präsentiert seinen sportlichen Körper am Strand.,He presents his athletic body on the beach.
+2532,klug,adj,A2,30.9994,0.9128,0,clever,Mia ist ein kluges Kind.,Mia’s a clever kid.
+3121,intelligent,adj,A2,23.3604,0.869,0,intelligent,Meine Schwester ist sehr intelligent.,My sister is very intelligent.
+3854,sympathisch,adj,A2,17.4957,0.8241,0,sympathetic,"Unser neuer Chef ist ein sympathischer Mensch, mit dem man bestimmt gut zusammen arbeiten kann.",Our new boss is a sympathetic person with whom you can certainly work well together.
+3894,romantisch,adj,A2,17.2492,0.8425,0,romantic,"Stefan kauft Blumen und Kerzen, um für seine Frau einen romantischen Abend vorzubereiten.",Stefan buys flowers and candles to prepare a romantic evening for his wife.
+4500,witzig,adj,A2,14.0951,0.8686,0,funny,"Ich muss immer lachen, wenn ich mich mit Karla treffe, sie ist sehr witzig.",I always have to laugh when I meet Karla; she’s very funny.
+4856,faul,adj,A2,12.4195,0.8882,0,lazy,Heute mache ich nichts und liege nur faul im Bett.,Today I don’t do anything and I’m just lying lazily in bed.

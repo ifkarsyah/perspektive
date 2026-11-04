@@ -1,0 +1,5 @@
+rank,word,pos,level,freq_per_million,dispersion,has_conjugation,definition,example_de,example_en
+1318,"der Tourist, -en",der,A2,67.1242,0.7698,0,tourist,Jedes Jahr besuchen tausende Touristen Berlin.,Thousands of tourists visit Berlin every year.
+2220,"der Flug, -̈e",der,A2,36.5684,0.8368,0,flight,Der Flug von Berlin nach Paris dauert weniger als zwei Stunden.,A flight from Berlin to Paris takes less than two hours.
+2640,"die Tour, -en",die,A2,29.4716,0.8092,0,"tour, trip",Wir machen eine Tour mit dem Fahrrad durch Leipzig.,We are taking a bicycle tour through Leipzig.
+3504,"die Unterkunft, -̈e",die,A2,19.8613,0.8242,0,accommodation,Sie sucht nach einer günstigen Unterkunft im Zentrum.,She is looking for cheap accommodations in the center.

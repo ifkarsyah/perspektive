@@ -1,0 +1,4 @@
+rank,word,pos,level,freq_per_million,dispersion,has_conjugation,definition,example_de,example_en
+897,lieb,adj,A1,97.0393,0.84,0,"dear, kind",Er ist ein sehr liebes Kind.,He’s a very dear child.
+1388,herzlich,adj,A1,64.0686,0.7389,0,"cordial, warm",Meine Oma ist eine liebe und herzliche Frau.,My grandma is a dear and warm woman.
+1973,lustig,adj,A1,42.2853,0.8925,0,"funny, enjoyable","Alle lachen, weil Anika so lustig ist.",Everybody laughs because Anika is so funny.

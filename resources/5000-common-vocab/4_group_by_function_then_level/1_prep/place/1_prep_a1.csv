@@ -1,0 +1,12 @@
+rank,word,pos,level,freq_per_million,dispersion,has_conjugation,definition,example_de,example_en
+3,in,prep,A1,24319.0219,0.9771,0,in,Günter geht in den Keller.,Günter goes into the basement.
+9,von,prep,A1,10060.1052,0.979,0,"from, of",Benjamin ist der Bruder von Anna.,Benjamin is the brother of Anna.
+16,auf,prep,A1,6800.7863,0.9714,0,"on, at, to",Auf dem Tisch steht ein Glas Wasser.,There’s a glass of water on the table.
+19,an,prep,A1,6163.4513,0.9732,0,"at, on",Das Bild hängt an der Wand.,The picture hangs on the wall.
+37,aus,prep,A1,3218.1672,0.9764,0,"out, out of, from",Thomas schaut aus dem Fenster.,Thomas looks out the window.
+44,um,prep,A1,2684.7219,0.9679,0,"around, at",Die Kinder laufen um den Baum.,The children run around the tree.
+47,über,prep,A1,2382.2687,0.9726,0,"above, over, about",Über mir fliegt ein Flugzeug.,There’s a plane flying above me.
+50,vor,prep,A1,2163.7947,0.9539,0,"in front of, before, ago",Laura wartet vor der Tür auf ihre Freunde.,Laura is waiting in front of the door for her friends.
+55,durch,prep,A1,2037.9245,0.9404,0,through,Ralf läuft durch die Stadt.,Ralf walks through the city.
+89,unter,prep,A1,1133.6204,0.9712,0,under,Unter der Brücke fließt ein Fluss.,Under the bridge a river flows.
+105,zwischen,prep,A1,878.233,0.9543,0,between,Mein Fahrrad steht zwischen den Bäumen.,My bicycle is standing between the trees.

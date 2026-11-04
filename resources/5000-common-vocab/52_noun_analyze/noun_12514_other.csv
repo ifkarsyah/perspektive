@@ -1,0 +1,5 @@
+rank,word,pos,level,freq_per_million,dispersion,has_conjugation,definition,example_de,example_en
+2836,Tibet,das,B2+,26.8103,0.1471,0,Tibet,Tibet wird oft als das Dach der Welt bezeichnet.,Tibet is often called the roof of the world.
+4033,das Mittelmeer,das,B2+,16.4607,0.8553,0,Mediterranean See,"Zwischen Europa, Afrika und Asien liegt das Mittelmeer.","Between Europe, Africa, and Asia lies the Mediterranean Sea."
+4099,Alpen,die (pl),B2+,16.0664,0.8249,0,Alps,Wir wandern in den Alpen.,We hike in the Alps.
+4611,der Main,der,B2+,13.5037,0.8433,0,Main (river),Wir fahren mit einem Boot auf dem Main durch Frankfurt.,We go by boat on the Main through Frankfurt.

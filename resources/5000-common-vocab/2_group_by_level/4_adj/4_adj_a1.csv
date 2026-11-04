@@ -1,0 +1,75 @@
+rank,word,pos,level,freq_per_million,dispersion,has_conjugation,definition,example_de,example_en
+67,groß,adj,A1,1636.9534,0.9679,0,"big, large, great",Florian hat eine große Wohnung.,Florian has a big apartment.
+76,gut,adj,A1,1441.7905,0.9386,0,good,Die Blumen riechen gut.,The flowers smell good.
+84,neu,adj,A1,1213.2134,0.9421,0,new,"Ich habe eine neue Tasche, weil die alte kaputt ist.",I got a new bag because the old one’s broken.
+95,"erste (r, s)",adj,A1,1025.2952,0.9615,0,first,Jonah feiert heute seinen ersten Geburtstag.,Jonah celebrates his first birthday today.
+97,lang,adj,A1,929.9315,0.9532,0,long,Mit ihren langen Beinen rennt sie schneller als Max.,With her long legs she runs faster than Max.
+102,wenig,adj,A1,887.9912,0.9623,0,few,"Es gibt nur wenige Menschen, denen er vertraut.",There are just a few people he trusts.
+110,klein,adj,A1,823.2326,0.9559,0,"small, little",Martin hat eine kleine Schwester.,Martin has a little sister.
+112,deutsch,adj,A1,795.7816,0.9101,0,German,Nina interessiert sich für deutsche Geschichte.,Nina is interested in German history.
+118,hoch,adj,A1,763.0574,0.9559,0,"high, tall",Diese Berge sind sehr hoch.,These mountains are very high.
+131,einfach,adj,A1,680.4088,0.9389,0,"simple, easy",Die Prüfung war sehr einfach.,The exam was very simple.
+138,alt,adj,A1,637.2364,0.9438,0,old,Wie alt bist du?,How old are you?
+141,gleich,adj,A1,631.5688,0.9579,0,"same, right away, just",Die zwei Schwestern tragen das gleiche Kleid.,The two sisters are wearing the same dress.
+144,wichtig,adj,A1,601.8016,0.9434,0,important,Er hat eine wichtige Frage.,He has an important question.
+152,"letzte (r, s)",adj,A1,564.2475,0.952,0,last,"Das ist das letzte Auto, das ich für meinen Sohn kaufe, das nächste bezahlt er selbst.",This is the last car I’m buying for my son; the next one he’ll be paying for himself.
+159,gerade,adj,A1,547.5404,0.9485,0,straight,Ich überhole nur auf einer geraden Strecke.,I only pass other cars on a straight stretch.
+169,spät,adj,A1,514.2247,0.9496,0,late,Es ist schon spät.,It’s getting late.
+171,möglich,adj,A1,510.2327,0.9597,0,possible,Ich besuche meine Eltern so oft wie möglich.,I visit my parents as often as possible.
+176,kurz,adj,A1,498.2075,0.9597,0,short,"Der Film dauert nur eine Stunde, er ist sehr kurz.",The film lasts only one hour; it is very short.
+177,richtig,adj,A1,495.6448,0.9158,0,"correct, right",Alle wissen die richtige Antwort.,Everybody knows the correct answer.
+182,"weitere (r, s)",adj,A1,477.952,0.9463,0,"additional, further",Weitere Informationen finden Sie im Internet.,Further information can be found on the internet.
+188,schön,adj,A1,455.0351,0.9033,0,"beautiful, pleasant, good",Von hier aus hat man einen schönen Blick auf die Stadt.,From here you have a beautiful view of the city.
+199,jung,adj,A1,427.2392,0.9422,0,young,"Sie war noch jung, als sie Kinder bekam.",She was still young when she had children.
+201,besser,adj,A1,421.0295,0.9567,0,better,Kevin kann besser schwimmen als sein Bruder.,Kevin swims better than his brother.
+203,schnell,adj,A1,416.1011,0.9589,0,fast,Mario kann sehr schnell rennen.,Mario can run very fast.
+230,weit,adj,A1,379.2863,0.9568,0,"widely, far",Ich möchte später weit weg ziehen.,Someday I want to move somewhere far away.
+239,klar,adj,A1,364.0577,0.9386,0,clear,Das Wasser ist sehr klar.,The water is very clear.
+257,schwer,adj,A1,338.9723,0.9507,0,"difficult, heavy",Das ist eine schwere Frage.,That’s a tough question.
+289,frei,adj,A1,296.9827,0.9434,0,free,Jeder Mensch sollte frei sein.,Everybody should be free.
+311,leicht,adj,A1,270.3696,0.955,0,"light, easy",Das ist eine leichte Aufgabe.,It’s an easy task.
+314,"beste (r, s)",adj,A1,268.1026,0.9329,0,best,Lisett ist meine beste Freundin.,Lisett is my best friend.
+319,bekannt,adj,A1,261.4,0.9553,0,"well-known, famous",Leipzig ist eine bekannte Stadt in Deutschland.,Leipzig is a well-known city in Germany.
+327,schlecht,adj,A1,257.3095,0.9503,0,bad,Dein Atem riecht schlecht.,Your breath smells bad.
+335,europäisch,adj,A1,250.6069,0.8648,0,European,Du siehst sehr europäisch aus.,You look very European.
+378,meiste,adj,A1,219.6075,0.9516,0,most,Am meisten gefällt mir das rote Kleid.,I like the red dress the most.
+426,international,adj,A1,194.1772,0.9052,0,international,Wir arbeiten eng mit internationalen Firmen zusammen.,We work closely with international companies.
+513,tot,adj,A1,165.2971,0.889,0,dead,"Die Fische sind tot, weil Florian sich nicht um sie gekümmert hat.",The fish are dead because Florian did not look after them.
+524,falsch,adj,A1,163.5229,0.9403,0,"false, wrong",Die Antwort ist leider falsch.,"Unfortunately, the answer is wrong."
+526,langsam,adj,A1,162.7836,0.9249,0,slow,Das Auto fährt langsam um die Kurve.,The car is going around the bend slowly.
+642,normal,adj,A1,135.2341,0.9253,0,normal,Sein Verhalten ist normal für das Alter.,His behavior is normal for this age.
+773,laut,adj,A1,110.6909,0.8965,0,loud,Meiner Meinung nach ist die Musik zu laut.,"In my opinion, the music is too loud."
+847,breit,adj,A1,101.8691,0.9477,0,"wide, broad",Ihr Bruder hat breite Schultern.,Her brother has broad shoulders.
+859,fremd,adj,A1,101.2777,0.9214,0,"foreign, strange",Sie zieht in eine fremde Stadt.,She’s moving to a foreign city.
+897,lieb,adj,A1,97.0393,0.84,0,"dear, kind",Er ist ein sehr liebes Kind.,He’s a very dear child.
+950,teuer,adj,A1,91.9138,0.9185,0,expensive,Die Milch ist teurer als letztes Jahr.,The milk is more expensive than last year.
+991,ruhig,adj,A1,87.7247,0.8997,0,"quiet, calm",In einer Großstadt gibt es nur wenige ruhige Orte.,In a big city there are only a few quiet places.
+1033,kulturell,adj,A1,84.2256,0.7764,0,cultural,Die Stadt ist stolz auf ihr kulturelles Erbe.,The city ist proud of its cultural heritage.
+1070,glücklich,adj,A1,81.2193,0.9142,0,"happy, fortunate",Thomas ist ein glückliches Kind.,Thomas is a happy child.
+1166,leise,adj,A1,74.7139,0.866,0,"quiet, soft",Er spricht mit leiser Stimme.,He speaks in a quiet voice.
+1210,geboren,adj,A1,72.299,0.9124,0,born,Er ist ein geborener Sänger.,He’s a born singer.
+1229,böse,adj,A1,71.4612,0.8922,0,"bad, mad",Warum bist du böse auf mich?,Why are you mad at me?
+1321,krank,adj,A1,66.9764,0.9104,0,"sick, ill",Michael ist krank und deswegen nicht in der Schule.,Michael is ill and therefore not at school.
+1388,herzlich,adj,A1,64.0686,0.7389,0,"cordial, warm",Meine Oma ist eine liebe und herzliche Frau.,My grandma is a dear and warm woman.
+1411,hell,adj,A1,62.9844,0.883,0,"light, bright","Bitte mach das Licht aus, es ist mir zu hell.",Please turn off the light; it’s too bright.
+1475,arm,adj,A1,59.6824,0.9133,0,poor,"Sie ist zu arm, um Essen für ihre Kinder zu kaufen.",She’s too poor to buy food for her children.
+1518,zufrieden,adj,A1,57.7603,0.9238,0,satisfied,Manche Menschen sind nie zufrieden.,Some people are never satisfied.
+1526,günstig,adj,A1,57.3661,0.909,0,"cheap, favorable, good",Wir haben ein günstiges Angebot gefunden.,We found a cheap offer.
+1571,ausländisch,adj,A1,55.3454,0.816,0,foreign,Nadja unterrichtet ausländische Studierende an der Universität.,Nadja teaches foreign students at the university.
+1603,wunderbar,adj,A1,53.9655,0.9039,0,wonderful,Diese Sängerin hat eine wunderbare Stimme.,This singer has a wonderful voice.
+1738,billig,adj,A1,48.9879,0.8999,0,cheap,Einige billige Produkte halten nicht sehr lange.,Some cheap products do not last very long.
+1916,automatisch,adj,A1,43.5667,0.9044,0,automatic,Das Gebäude hat eine automatische Tür.,The building has an automatic door.
+1948,weiblich,adj,A1,42.8274,0.8838,0,"feminine, female",Sina und Anja sind meine einzigen weiblichen Freundinnen.,Sina and Anja are my only female friends.
+1973,lustig,adj,A1,42.2853,0.8925,0,"funny, enjoyable","Alle lachen, weil Anika so lustig ist.",Everybody laughs because Anika is so funny.
+1981,lokal,adj,A1,42.0882,0.8953,0,local,Die lokale Presse berichtet von Themen aus der Umgebung.,The local press reports on topics from the area.
+2000,müde,adj,A1,41.4475,0.8747,0,tired,Nach der Arbeit ist Annette zu müde für die Party.,After work Annette is too tired for the party.
+2091,männlich,adj,A1,39.1804,0.8634,0,male,"In dem Team gibt es nur männliche Spieler, deswegen kann Anna nicht mitmachen.","There are only male players on the team, so Anna can’t participate."
+2519,willkommen,adj,A1,31.2458,0.8586,0,welcome,Familie Müller heißt ihre Gäste willkommen.,The Müller family welcomes their guests.
+2541,selbstständig,adj,A1,30.8515,0.8896,0,"independent, self-employed",Frau Paget arbeitet als selbstständige Journalistin.,Mrs. Paget works as a self- employed journalist.
+2777,arbeitslos,adj,A1,27.4509,0.8608,0,unemployed,"Seit die Firma geschlossen hat, bin ich arbeitslos.",I’ve been unemployed since the company closed.
+2950,kaputt,adj,A1,25.381,0.8756,0,"broken, ruined","Dieses Auto hat keinen großen Nutzen mehr, weil der Motor kaputt ist.",This car is no longer very useful because the engine is broken.
+2991,bitter,adj,A1,24.8882,0.9124,0,bitter,Wein hat einen etwas bitteren Geschmack.,Wine has a slightly bitter taste.
+3076,verheiratet,adj,A1,23.9025,0.8768,0,married,Mein Bruder und seine Frau sind glücklich verheiratet.,My brother and his wife are happily married.
+3651,gültig,adj,A1,18.777,0.9115,0,valid,Mein Pass ist noch drei Jahre gültig.,My passport is still valid for three years.
+4027,bar,adj,A1,16.4607,0.823,0,cash,Bald bezahlt niemand mehr bar.,Soon nobody will pay with cash anymore.
+4648,pünktlich,adj,A1,13.3558,0.8915,0,"punctual, on time","Wenn du nicht pünktlich bist, verpasst du den Zug.","If you’re not punctual, you’ll miss the train."

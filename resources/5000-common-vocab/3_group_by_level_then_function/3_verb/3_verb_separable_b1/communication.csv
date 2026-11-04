@@ -1,0 +1,21 @@
+rank,word,pos,level,freq_per_million,dispersion,has_conjugation,is_separable,definition,example_de,example_en
+402,"darstellen, stellt dar, stellte dar, hat dargestellt",verb,B1,204.2804,0.8976,1,1,"to depict, portray, show",Das Bild stellt eine Frau mit ihrem Hund dar.,The picture shows a woman with her dog.
+733,"angeben, gibt an, gab an, hat angegeben",verb,B1,119.2169,0.8495,1,1,"to claim, declare, show off","Er gibt an, regelmäßig Sport zu machen.",He claims to do sport regularly.
+875,"mitteilen, teilt mit, teilte mit, hat mitgeteilt",verb,B1,99.2078,0.8751,1,1,to inform,"Charlottes Mutter teilt ihr mit, dass sie und ihr Vater sich trennen.",Charlotte’s mother informs her that she and her father are separating.
+1214,"ansprechen, spricht an, sprach an, hat angesprochen",verb,B1,72.2004,0.9121,1,1,"to address, speak","Wenn du ein Problem mit Tom hast, musst du es ansprechen.","If you have a problem with Tom, you have to bring it up."
+1341,"ankündigen, kündigt an, kündigte an, hat angekündigt",verb,B1,66.1385,0.8891,1,1,to announce,Barbara und Sebastian kündigen eine Party im Juni an.,Barbara and Sebastian announce a party in June.
+1543,"hinweisen, weist hin, wies hin, hat hingewiesen",verb,B1,56.6268,0.8689,1,1,"to point to, refer to",Während der Vorlesung weist der Professor auf einige Fehler auf den Folien hin.,During the lecture the professor points out some mistakes on the slides.
+1705,"vorschlagen, schlägt vor, schlug vor, hat vorgeschlagen",verb,B1,50.0228,0.9078,1,1,to suggest,"Katja schlägt vor, bei guten Wetter ans Meer zu fahren.",Katja suggests driving to the sea in good weather.
+1786,"ausdrücken, drückt aus, drückte aus, hat ausgedrückt",verb,B1,47.5094,0.921,1,1,to express,Der Maler drückt seine Gefühle durch die dunklen Farben aus.,The painter expresses his feelings through the dark colors.
+1795,"zugeben, gibt zu, gab zu, hat zugegeben",verb,B1,47.3122,0.9045,1,1,to admit,"Ich gebe zu, dass es mein Fehler war.",I admit it was my mistake.
+1858,"zusammenfassen, fasst zusammen, fasste zusammen, hat zusammengefasst",verb,B1,45.2423,0.8715,1,1,to summarize,Am Ende des Textes fasst der Autor die Ergebnisse zusammen.,"At the end of the text, the author summarizes the results."
+2146,"vorwerfen, wirft vor, warf vor, hat vorgeworfen",verb,B1,38.1948,0.8664,1,1,"to accuse, reproach","Ihm wird vorgeworfen, keine Steuern gezahlt zu haben.",They accuse him of not paying taxes.
+2150,"ausrichten, richtet aus, richtete aus, hat ausgerichtet",verb,B1,38.0962,0.925,1,1,"to tell, align, line up, send",Martin richtet seiner Mutter die Grüße aus.,Martin sends his mother his regards.
+2227,"vorgeben, gibt vor, gab vor, hat vorgegeben",verb,B1,36.4698,0.8872,1,1,"to use as an excuse, set in advance, pretend","Johanna gibt vor, eine andere Person zu sein.",Johanna pretends to be another person.
+2354,"anregen, regt an, regte an, hat angeregt",verb,B1,33.71,0.8153,1,1,"to encourage, suggest, stimulate",Das Thema regt zur Diskussion an.,The subject stimulates discussion.
+2383,"vorlegen, legt vor, legte vor, hat vorgelegt",verb,B1,33.365,0.8938,1,1,"to present, provide, produce",Jonathan muss seinen Pass bei der Polizei vorlegen.,Jonathan has to present his passport to the police.
+2507,"zustimmen, stimmt zu, stimmte zu, hat zugestimmt",verb,B1,31.4429,0.8745,1,1,"to agree, consent",Ich stimme der Meinung meines Professors zu.,I agree with the opinion of my professor.
+2904,"zusagen, sagt zu, sagte zu, hat zugesagt",verb,B1,26.0217,0.8692,1,1,"to promise, accept",Wann sagst du endlich für den Urlaub zu?,When will you accept going on vacation?
+3320,"absagen, sagt ab, sagte ab, hat abgesagt",verb,B1,21.2412,0.8607,1,1,to cancel,Wir müssen die Veranstaltung wegen des schlechten Wetters absagen.,We have to cancel the event because of bad weather.
+3690,"vorlesen, liest vor, las vor, hat vorgelesen",verb,B1,18.5306,0.8736,1,1,to read sth to sb,"Damit mein Kind richtig sprechen lernt, lese ich ihm viel aus Büchern vor.","So that my child learns to speak properly, I read to him a lot from books."
+3748,"aufschreiben, schreibt auf, schrieb auf, hat aufgeschrieben",verb,B1,18.1364,0.8883,1,1,to write down,"Wenn ich es nicht aufschreibe, vergesse ich es.","If I don’t write it down, I forget it."

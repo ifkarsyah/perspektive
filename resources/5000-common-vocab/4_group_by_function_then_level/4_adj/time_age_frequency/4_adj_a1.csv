@@ -1,0 +1,10 @@
+rank,word,pos,level,freq_per_million,dispersion,has_conjugation,definition,example_de,example_en
+84,neu,adj,A1,1213.2134,0.9421,0,new,"Ich habe eine neue Tasche, weil die alte kaputt ist.",I got a new bag because the old one’s broken.
+95,"erste (r, s)",adj,A1,1025.2952,0.9615,0,first,Jonah feiert heute seinen ersten Geburtstag.,Jonah celebrates his first birthday today.
+138,alt,adj,A1,637.2364,0.9438,0,old,Wie alt bist du?,How old are you?
+152,"letzte (r, s)",adj,A1,564.2475,0.952,0,last,"Das ist das letzte Auto, das ich für meinen Sohn kaufe, das nächste bezahlt er selbst.",This is the last car I’m buying for my son; the next one he’ll be paying for himself.
+169,spät,adj,A1,514.2247,0.9496,0,late,Es ist schon spät.,It’s getting late.
+199,jung,adj,A1,427.2392,0.9422,0,young,"Sie war noch jung, als sie Kinder bekam.",She was still young when she had children.
+203,schnell,adj,A1,416.1011,0.9589,0,fast,Mario kann sehr schnell rennen.,Mario can run very fast.
+526,langsam,adj,A1,162.7836,0.9249,0,slow,Das Auto fährt langsam um die Kurve.,The car is going around the bend slowly.
+4648,pünktlich,adj,A1,13.3558,0.8915,0,"punctual, on time","Wenn du nicht pünktlich bist, verpasst du den Zug.","If you’re not punctual, you’ll miss the train."

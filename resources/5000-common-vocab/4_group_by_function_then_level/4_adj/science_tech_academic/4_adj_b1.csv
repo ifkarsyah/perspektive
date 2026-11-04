@@ -1,0 +1,24 @@
+rank,word,pos,level,freq_per_million,dispersion,has_conjugation,definition,example_de,example_en
+656,technisch,adj,B1,132.8685,0.8137,0,technical,Während des Konzerts treten technische Probleme auf.,Technical problems occur during the concert.
+1069,organisch,adj,B1,81.4164,0.4484,0,organic,Sie verwenden ausschließlich organische Produkte.,They use exclusively organic products.
+1090,elektrisch,adj,B1,79.8887,0.7059,0,electric,Das heutige Thema im Physikunterricht war elektrische Ladung.,Today’s topic in physics class was electrical charge.
+1129,theoretisch,adj,B1,77.0795,0.8,0,theoretical,"Theoretisch ist es richtig, aber in der Praxis nicht möglich.","Theoretically, it is correct, but not possible in practice."
+1164,physikalisch,adj,B1,74.8617,0.6211,0,physical,Es gibt physikalische Gesetzte für das Verhältnis von Kraft und Masse.,There are physical laws for the relationship between power and mass.
+1291,digital,adj,B1,68.5041,0.8232,0,digital,Ich mache Fotos mit einer digitalen Kamera.,I take pictures with a digital camera.
+1552,sprachlich,adj,B1,56.3804,0.4764,0,linguistic,Sie untersuchen die sprachliche Entwicklung von Kindern.,They study the linguistic development of children.
+1590,statistisch,adj,B1,54.3598,0.6629,0,statistical,Johanna studiert Soziologie und arbeitet mit statistischen Methoden.,Johanna studies sociology and works with statistical methods.
+1784,elektronisch,adj,B1,47.5586,0.8419,0,electronic,Im Internet gibt es gute elektronische Übersetzer.,There are good electronic translators on the internet.
+1894,empirisch,adj,B1,44.1581,0.7151,0,empirical,"In der Wissenschaft versucht man, Annahmen empirisch zu belegen.","In science, one tries to prove assumptions empirically."
+2012,strategisch,adj,B1,41.0532,0.7477,0,strategic,Dieses Spiel erfordert strategische Kompetenz.,This game requires strategic competence.
+2047,mathematisch,adj,B1,40.314,0.7647,0,mathematical,"Um die Höhe der Brücke zu bestimmen, wendet Max eine mathematische Formel an.","To determine the height of the bridge, Max uses a mathematical formula."
+2059,medial,adj,B1,40.0183,0.4134,0,media,Die Firma macht jetzt auch medial Werbung.,The company is now also doing media advertising.
+2083,literarisch,adj,B1,39.4268,0.7685,0,literary,James Joyces Roman Ulysses ist ein berühmtes literarisches Werk.,James Joyce’s novel Ulysses is a famous literary work.
+2104,optisch,adj,B1,38.9833,0.7048,0,"optical, visual",Die optische Gestaltung des Zimmers gefällt mir sehr gut.,I like the visual design of the room very much.
+2169,systematisch,adj,B1,37.7512,0.8813,0,systematic,In vielen Ländern werden politische Gegner systematisch verfolgt.,Political opponents are systematically persecuted in many countries.
+2222,künstlerisch,adj,B1,36.5684,0.7895,0,artistic,In dem Kurs entdeckt Frau Schneider ihr künstlerisches Talent.,"In the course, Mrs. Schneider discovers her artistic talent."
+2232,analog,adj,B1,36.322,0.8335,0,"analog, analogous",Er macht Fotos mit einer analogen Kamera.,He takes pictures with an analog camera.
+2310,genetisch,adj,B1,34.7449,0.6439,0,genetic,Diese Lebensmittel sind genetisch verändert.,These foods are genetically modified.
+2416,biologisch,adj,B1,32.8229,0.8381,0,biological,Rainer ist der biologische Vater von Nadine.,Rainer is Nadine’s biological father.
+3039,mündlich,adj,B1,24.3954,0.8019,0,oral,Fabian findet mündliche Prüfungen schwerer als schriftliche.,Fabian finds oral exams harder than written ones.
+3055,virtuell,adj,B1,24.0997,0.8158,0,virtual,Im Moment lebt er nur noch in der virtuellen Welt und nicht in der Realität.,At the moment he only lives in the virtual world and not in reality.
+3565,musikalisch,adj,B1,19.3684,0.8386,0,musical,Die musikalische Leitung hat Jonathan Michels.,The musical director is Jonathan Michels.

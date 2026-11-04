@@ -1,0 +1,13 @@
+rank,word,pos,level,freq_per_million,dispersion,has_conjugation,is_separable,definition,example_de,example_en
+309,"erreichen, erreicht, erreichte, hat erreicht",verb,A2,272.5874,0.9625,1,0,"to achieve, reach",Ich erreiche alle meine Ziele.,I achieve all my goals.
+381,"passieren, passiert, passierte, hat passiert",verb,A2,219.4104,0.9215,1,0,"to take place, happen","Ich warte darauf, dass mein Handy klingelt, aber nichts passiert.","I’m waiting for my phone to ring, but nothing is happening."
+408,"erscheinen, erscheint, erschien, ist erschienen",verb,A2,201.964,0.9172,1,0,to appear,Auf dem Bildschirm erscheint ein seltsames Symbol.,A strange symbol appears on the screen.
+448,"ändern, ändert, änderte, hat geändert",verb,A2,183.877,0.941,1,0,to change,"Der Lehrer ändert die Regeln des Spiels, damit es schwerer wird.",The teacher changes the rules of the game to make it harder.
+475,"sterben, stirbt, starb, ist gestorben",verb,A2,174.9074,0.9214,1,0,to die,Ohne Wasser stirbt man.,"Without water, you die."
+500,"verändern, verändert, veränderte, hat verändert",verb,A2,167.4655,0.9399,1,0,to change,Wir wollen die Welt verändern.,We want to change the world.
+648,"erfolgen, erfolgt, erfolgte, ist erfolgt",verb,A2,134.1991,0.8604,1,0,"to take place, occur",Danach erfolgt die Präsentation des Themas.,"After that, the presentation of the topic will occur."
+971,"geraten, gerät, geriet, ist geraten",verb,A2,89.4497,0.9345,1,0,to get into,"Weil wir andere Meinungen haben, geraten wir in einen Streit.","Because we have different opinions, we get into a fight."
+1084,"wechseln, wechselt, wechselte, hat gewechselt",verb,A2,80.6279,0.9363,1,0,to change,Ich muss noch Euro in Dollar wechseln.,I still have to change euros into dollars.
+1405,"beenden, beendet, beendete, hat beendet",verb,A2,63.2801,0.921,1,0,to end,"Wenn du nicht glücklich bist, musst du die Beziehung zu Luke beenden.","If you’re not happy, you have to end the relationship with Luke."
+2022,"klappen, klappt, klappte, hat geklappt",verb,A2,40.8561,0.9027,1,0,"to fold, go smoothly, work (out)","Ich habe es lange versucht, aber es klappt einfach nicht.","I’ve been trying for a long time, but it just won’t work."
+2145,"verpassen, verpasst, verpasste, hat verpasst",verb,A2,38.1948,0.8422,1,0,to miss,"Thomas verpasst den Anruf, weil er in der Bibliothek ist.",Thomas is missing the call because he’s in the library.

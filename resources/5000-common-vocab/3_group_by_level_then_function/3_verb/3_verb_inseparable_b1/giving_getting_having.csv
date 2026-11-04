@@ -1,0 +1,23 @@
+rank,word,pos,level,freq_per_million,dispersion,has_conjugation,is_separable,definition,example_de,example_en
+287,"erhalten, erhält, erhielt, hat erhalten",verb,B1,303.1432,0.9254,1,0,to receive,Du erhältst morgen ein Geschenk.,You’ll receive a present tomorrow.
+429,"nutzen, nutzt, nutzte, hat genutzt",verb,B1,192.2059,0.9481,1,0,to use,Sie nutzt jede freie Minute zum Lesen.,She uses every free minute to read.
+531,"bieten, bietet, bot, hat geboten",verb,B1,160.3687,0.9262,1,0,to offer,Das neue Museum bietet einen Überblick über moderne Kunst.,The new museum offers an overview of modern art.
+538,"verwenden, verwendet, verwendete, hat verwendet",verb,B1,158.5945,0.8847,1,0,to use,"Ich verwende mein Telefon auch, um Fotos zu machen.",I also use my phone to take pictures.
+586,"besitzen, besitzt, besaß, hat besessen",verb,B1,147.7521,0.9087,1,0,"to own, have",Julia besitzt die Hälfte der Firma.,Julia owns half the company.
+640,"übernehmen, übernimmt, übernahm, hat übernommen",verb,B1,135.7762,0.9412,1,0,to take over,Sie übernimmt die Firma ihres Vaters.,She’s taking over her father’s company.
+937,"benötigen, benötigt, benötigte, hat benötigt",verb,B1,92.7517,0.8762,1,0,to require,Ein Mensch benötigt mindestens zwei Liter Flüssigkeit am Tag.,A human requires at least two liters of liquid per day.
+1162,"verteilen, verteilt, verteilte, hat verteilt",verb,B1,74.911,0.9372,1,0,to distribute,Die Chancen auf Bildung müssen gerecht verteilt werden.,The opportunities for education must be fairly distributed.
+1297,"verzichten, verzichtet, verzichtete, hat verzichtet",verb,B1,68.2577,0.9283,1,0,to do without,Die Familie möchte auf Fleisch verzichten.,The family wants to do without meat.
+1380,"ersetzen, ersetzt, ersetzte, hat ersetzt",verb,B1,64.315,0.9271,1,0,"to replace, reimburse",Maschinen ersetzen viele Jobs.,Machines replace many jobs.
+1461,übertragen,verb,B1,60.5695,0.9049,1,0,to transfer,Ich muss einige Aufgaben an meine Kollegen übertragen.,I have to transfer some tasks to my colleagues.
+1493,"verfügen, verfügt, verfügte, hat verfügt",verb,B1,58.5982,0.9112,1,0,"to have sth at one’s disposal, be in charge",Das Land verfügt über Atomwaffen.,The country has nuclear weapons at its disposal.
+1612,"behalten, behält, behielt, hat behalten",verb,B1,53.6205,0.9494,1,0,to keep,"Er behält nur Dinge, die er regelmäßig benutzt.",He only keeps things he uses regularly.
+1944,"versorgen, versorgt, versorgte, hat versorgt",verb,B1,43.0245,0.817,1,0,"to supply, provide, look after","Es ist wichtig, arme Menschen mit Lebensmitteln zu versorgen.",It is important to provide poor people with food.
+2289,"widmen, widmet, widmete, hat gewidmet",verb,B1,35.287,0.9107,1,0,to dedicate,Die Autorin widmet das Buch ihrer Mutter.,The author dedicates the book to her mother.
+2291,"hinterlassen, hinterlässt, hinterließ, hat hinterlassen",verb,B1,35.2377,0.9271,1,0,to leave,Die Eltern hinterlassen ihren Kindern ein Vermögen nach ihrem Tod.,The parents leave their children a fortune after their deaths.
+2403,"verleihen, verleiht, verlieh, hat verliehen",verb,B1,33.02,0.9151,1,0,"to lend, award",Jutta verleiht ihre Bücher nur an gute Freunde.,Jutta only lends her books to good friends.
+2419,"überlassen, überlässt, überließ, hat überlassen",verb,B1,32.7736,0.9374,1,0,to leave,"Rudolf überlässt mir die Entscheidung, was wir heute Abend essen.",Rudolf leaves it up to me to decide what we will eat tonight.
+2626,"empfangen, empfängt, empfing, hat empfangen",verb,B1,29.6687,0.9251,1,0,to receive,Wir empfangen unsere Gäste am Flughafen.,We receive our guests at the airport.
+3307,"verbrauchen, verbraucht, verbrauchte, hat verbraucht",verb,B1,21.3891,0.8579,1,0,"to use, consume",Wir verbrauchen viel Wasser in unserem Haushalt.,We use a lot of water in our household.
+3647,"tauschen, tauscht, tauschte, hat getauscht",verb,B1,18.8263,0.9034,1,0,"to exchange, change, swap, switch","Karla und Paul tauschen ihre Plätze im Kino, damit Klara besser sehen kann.",Karla and Paul switch places in the cinema so that Klara can see better.
+4170,"besorgen, besorgt, besorgte, hat besorgt",verb,B1,15.6229,0.8778,1,0,"to get, provide, buy",Dieses Jahr besorge ich keine Geschenke für Weihnachten.,I’m not getting presents for Christmas this year.

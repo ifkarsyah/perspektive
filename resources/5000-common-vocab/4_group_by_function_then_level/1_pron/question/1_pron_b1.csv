@@ -1,0 +1,6 @@
+rank,word,pos,level,freq_per_million,dispersion,has_conjugation,definition,example_de,example_en
+910,wieso,pron,B1,95.8072,0.8395,0,why,Wieso hast du mich nicht angerufen?,Why didn’t you call me?
+1822,weshalb,pron,B1,46.4744,0.9158,0,why,"Weshalb sollte ich ihm helfen, er hilft mir nie.","Why should I help him, he never helps me."
+2480,worauf,pron,B1,31.8372,0.9145,0,"on what, to what",Worauf bezieht sich deine Frage?,To what does your question refer?
+4025,worum,pron,B1,16.51,0.8155,0,what about,Worum geht es eigentlich bei eurem Streit?,What is your fight all about?
+4716,worüber,pron,B1,13.0601,0.906,0,what about,"Ich weiß nicht, worüber ich mit Paula sprechen soll.",I don’t know what to talk about with Paula.

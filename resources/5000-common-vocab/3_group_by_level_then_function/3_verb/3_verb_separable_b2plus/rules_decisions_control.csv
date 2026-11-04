@@ -1,0 +1,14 @@
+rank,word,pos,level,freq_per_million,dispersion,has_conjugation,is_separable,definition,example_de,example_en
+3059,"anführen, führt an, führte an, hat angeführt",verb,B2+,24.0011,0.8784,1,1,"to lead, command, quote",Der Spielführer führt seine Mannschaft an.,The captain is leading his team.
+3137,"aussuchen, sucht aus, suchte aus, hat ausgesucht",verb,B2+,23.1633,0.903,1,1,to choose,Dieses Jahr darfst du dir dein Geschenk selbst aussuchen.,This year you can choose your own gift.
+3240,"abhalten, hält ab, hielt ab, hat abgehalten",verb,B2+,22.079,0.9059,1,1,to keep from,"Elsa kann ihn gerade noch davon abhalten, einen großen Fehler zu machen.",Elsa can just keep him from making a big mistake.
+3292,"einhalten, hält ein, hielt ein, hat eingehalten",verb,B2+,21.5369,0.9026,1,1,to observe,Alle Arbeitnehmer müssen die Vorschriften für Sicherheit einhalten.,All workers must observe the safety regulations.
+3308,"ausweisen, weist aus, wies aus, hat ausgewiesen",verb,B2+,21.3398,0.8432,1,1,"to identify, expel",Die neue Regierung weist alle ausländischen Diplomaten aus.,The new government expels all foreign diplomats.
+3396,"sicherstellen, stellt sicher, stellte sicher, hat sichergestellt",verb,B2+,20.7484,0.8828,1,1,"to confiscate, guarantee, ensure","Wir müssen sicherstellen, dass die Maschinen gut funktionieren.",We have to ensure that the machines work well.
+3405,"zustehen, steht zu, stand zu, hat zugestanden",verb,B2+,20.6991,0.8081,1,1,to be entitled,Ihm steht die Hälfte der Gewinne zu.,He’s entitled to half the profits.
+3455,"anordnen, ordnet an, ordnete an, hat angeordnet",verb,B2+,20.2063,0.8756,1,1,"to order, arrange","Der Chef ordnet an, dass seine Kollegen um acht Uhr im Büro sein müssen.",The boss orders his colleagues to be at the office at eight o’clock.
+3730,"vorschreiben, schreibt vor, schrieb vor, hat vorgeschrieben",verb,B2+,18.2842,0.8903,1,1,to dictate,"Ich lasse mir von meinen Eltern nicht vorschreiben, was ich studiere.",I won’t have my parents dictate what I study.
+4013,"anweisen, weist an, wies an, hat angewiesen",verb,B2+,16.51,0.9195,1,1,"to order to do, to instruct, to direct","Der Lehrer weist die Schüler an, leise zu sein.",The teacher instructs the students to be quiet.
+4232,"abschaffen, schafft ab, schaffte ab, hat abgeschafft",verb,B2+,15.3272,0.8761,1,1,to abolish,"Die Studierenden fordern, dass die Gebühren für das Studium abgeschafft werden.",The students demand that the fees for studying be abolished.
+4369,"zurückweisen, weist zurück, wies zurück, hat zurückgewiesen",verb,B2+,14.6865,0.8439,1,1,to reject,"Pia weist mich zurück, als ich ihr meine Liebe gestehe.",Pia rejects me as I confess my love for her.
+4855,"einreichen, reicht ein, reichte ein, hat eingereicht",verb,B2+,12.4195,0.8426,1,1,to submit,Der Antrag kann auch per E-Mail eingereicht werden.,The application can also be submitted via e-mail.

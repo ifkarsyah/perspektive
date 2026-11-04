@@ -1,0 +1,8 @@
+rank,word,pos,level,freq_per_million,dispersion,has_conjugation,is_separable,definition,example_de,example_en
+85,"stehen, steht, stand, hat gestanden",verb,A1,1187.1917,0.9533,1,0,to stand,Die Fahrräder stehen im Keller.,The bicycles stand in the cellar.
+107,"liegen, liegt, lag, hat gelegen",verb,A1,861.6245,0.9553,1,0,to lie,Der Hund liegt unter dem Stuhl.,The dog is lying under the chair.
+113,"bleiben, bleibt, blieb, ist geblieben",verb,A1,790.7054,0.9598,1,0,"to stay, remain",Anna möchte für ein Jahr im Ausland bleiben.,Anna wants to stay abroad for a year.
+135,"stellen, stellt, stellte, hat gestellt",verb,A1,652.1693,0.9708,1,0,"to place, set, put",Er stellt sein Fahrrad in den Garten.,He puts his bike in the garden.
+155,"halten, hält, hielt, hat gehalten",verb,A1,556.4607,0.9454,1,0,"to stop, hold",Er hält ein Buch in seinen Händen.,He’s holding a book in his hands.
+231,"sitzen, sitzt, saß, hat gesessen",verb,A1,377.2164,0.9016,1,0,to sit,Auf dem Boden sitzt ein schwarzer Hund.,There’s a black dog sitting on the floor.
+352,"legen, legt, legte, hat gelegt",verb,A1,238.631,0.9322,1,0,"to lay, put",Mia legt das Buch auf den Tisch.,Mia puts the book on the table.

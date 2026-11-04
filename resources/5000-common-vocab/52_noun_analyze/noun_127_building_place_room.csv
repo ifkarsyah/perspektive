@@ -1,0 +1,122 @@
+rank,word,pos,level,freq_per_million,dispersion,has_conjugation,definition,example_de,example_en
+147,"das Haus, -̈er",das,A1,594.4583,0.9153,0,house,Meine Eltern wohnen in einem kleinen Haus.,My parents live in a small house.
+220,"der Weg, -e",der,A1,393.7756,0.9472,0,"path, way",Der Weg entlang des Flusses ist sehr schön.,The path along the river is very beautiful.
+359,"die Schule, -n",die,A1,233.9983,0.8734,0,school,In Deutschland muss jedes Kind zur Schule gehen.,In Germany every child has to go to school.
+375,"die Tür, -en",die,A2,220.6425,0.866,0,door,"Ich schließe die Tür ab, wenn ich das Haus verlasse.",I’ll lock the door when I leave the house.
+391,"die Straße, -n",die,A1,214.1371,0.9113,0,street,Ich wohne in einer ruhigen Straße.,I live in a quiet street.
+403,"der Raum, -̈e",der,A1,204.2804,0.9438,0,"room, space",Das Seminar findet morgen im Raum 1216 statt.,The seminar will take place tomorrow in room 1216.
+415,"die Universität, -en (Uni)",die,A2,199.5984,0.87,0,university,Die Universität Heidelberg ist die älteste Universität Deutschlands.,The University of Heidelberg is the oldest university in Germany.
+501,"die Wohnung, -en",die,A1,166.9234,0.8961,0,"apartment, flat",Wir suchen eine neue Wohnung.,We’re looking for a new apartment.
+536,"der Boden, -̈",der,B1,159.3337,0.9225,0,"ground, floor, bottom",Fühle den Boden unter deinen Füßen.,Feel the ground under your feet.
+543,"die Bank, -̈e",die,A1,157.3131,0.838,0,"bank, bench",Die Bank hat einen neuen Manager.,The bank has a new manager.
+665,"das Zimmer, -",das,A1,132.1292,0.8758,0,room,Ich suche ein kleines Zimmer in Berlin.,I’m looking for a small room in Berlin.
+674,"das Fenster, -",das,A2,130.8971,0.8544,0,window,Kannst du bitte das Fenster öffnen?,"Could you open the window, please?"
+765,"das Geschäft, -e",das,A1,112.2187,0.9103,0,"business, shop",In der Stadt öffnet ein Geschäft für Schuhe.,In the city a shoe shop is opening.
+772,"das Hotel, -s",das,A1,110.6909,0.84,0,hotel,Das Hotel Adlon ist ein bekanntes Hotel in Berlin.,Hotel Adlon is a well-known hotel in Berlin.
+828,"die Wand, -̈e",die,B1,103.7912,0.8916,0,wall,Die Wände in meinem Zimmer sind rot.,The walls in my room are red.
+892,"die Kirche, -n",die,A2,97.6307,0.8965,0,church,Sie heiraten in einer alten Kirche.,They’re getting married in an old church.
+961,"die Klasse, -n",die,A1,90.2875,0.882,0,"class, classroom, grade",Antonia ist die beste Schülerin in ihrer Klasse.,Antonia is the best student in her class.
+1041,"die Küche, -n",die,A1,83.3385,0.8708,0,"kitchen, cuisine","Die Wohnung hat zwei Zimmer, ein Bad und eine Küche.","The apartment has two rooms, a bathroom and a kitchen."
+1078,"das Museum, -en",das,A2,80.9729,0.8029,0,museum,Das Museum plant eine Ausstellung zu moderner Kunst.,The museum is planning an exhibition on modern art.
+1086,"das Theater, -",das,A2,80.2336,0.8045,0,theater,Die Schauspielerin arbeitet am Theater.,The actress works at the theater.
+1139,"der Gang, -̈e",der,B1,76.0938,0.9067,0,"corridor, aisle, course",Ihr Büro ist am Ende des Ganges.,Her office is at the end of the corridor.
+1158,"der Garten, -̈",der,A1,74.9603,0.876,0,garden,Sie sitzt auf einer Bank im Garten.,She’s sitting on a bench in the garden.
+1189,"die Spur, -en",die,B1,73.2354,0.9187,0,"track, lane",Der Hund folgt den Spuren.,The dog follows the tracks.
+1293,"das Gericht, -e",das,A2,68.3563,0.8856,0,"court, dish",Sie ist Richterin und arbeitet am Gericht.,She’s a judge and works at the court.
+1376,"die Ecke, -n",die,A1,64.4136,0.9199,0,corner,An der Ecke der Straße ist eine Schule.,At the corner of the street is a school.
+1386,"das Gebäude, -",das,B1,64.1179,0.9102,0,building,In diesem Gebäude befindet sich die Universität.,The university is located in this building.
+1432,"der Hof, -̈e",der,B1,61.8016,0.8533,0,"courtyard, yard",Hinter dem Haus ist ein Hof.,There’s a yard behind the house.
+1449,"die Bühne, -n",die,B1,61.358,0.8762,0,stage,Die Schauspieler verlassen die Bühne unter Beifall.,The actors are leaving the stage to applause.
+1528,"der Flughafen, -̈",der,A1,57.3168,0.8416,0,airport,"Wir fahren zum Flughafen, um von dort aus in den Urlaub zu fliegen.",We’re driving to the airport to go on vacation from there.
+1559,"das Lager, -",das,B1,56.0847,0.8791,0,"camp, storeroom",Vielleicht finde ich das Produkt noch in unserem Lager.,Maybe I can still find the product in our warehouse.
+1598,"der Bau, -ten",der,B1,54.1626,0.9152,0,"construction, building",Der Bau der neuen Oper kostet mehrere Millionen.,The construction of the new opera house will cost several million.
+1599,"der Keller, -",der,A2,54.1626,0.7398,0,cellar,Wir lagern unseren Wein im Keller.,We store our wine in the cellar.
+1637,"das Bad, -̈er",das,A1,52.6348,0.8727,0,"bath, bathroom, spa",Die neue Wohnung hat zwei Bäder.,The new apartment has two bathrooms.
+1659,"die Mauer, -n",die,B1,51.5506,0.8913,0,wall,Von der Mauer in Berlin stehen noch immer einige Teile.,There are still some parts of the Wall in Berlin.
+1663,"das Büro, -s",das,A2,51.5013,0.9063,0,office,Ludwig bekommt in der Firma ein neues Büro.,Ludwig gets a new office in the company.
+1675,"der Laden, -̈",der,A1,51.1563,0.8925,0,shop,"Auf dem Land gibt es noch viele kleine, private Läden, die Lebensmittel verkaufen.","In the countryside there are still many small, private shops selling food."
+1802,"das Restaurant, -s",das,A1,47.1644,0.8589,0,restaurant,Wir gehen zum Abendessen in ein Restaurant.,We’re going to a restaurant for dinner.
+1812,"das Dach, -̈er",das,B1,46.7701,0.8958,0,roof,Wir bauen ein neues Dach für unser Haus.,We’re building a new roof for our house.
+1848,"die Anlage, -n",die,B1,45.4394,0.9122,0,"facility, complex, investment, attachment",Sie bauen eine neue Sportanlage neben der Universität.,They are building a new sports facility next to the university.
+1857,"der Übergang, -̈e",der,B1,45.2423,0.8025,0,"crossing, transition",Der Übergang von einem System zum anderen verläuft gut.,The transition from one system to another is going well.
+1899,"die Hochschule, -n",die,B1,44.0102,0.8455,0,"college, university",Magdalena studiert Betriebswirtschaftslehre an der Hochschule in Leipzig.,Magdalena studies business administration at the University of Leipzig.
+1907,"das Schloss, -̈er",das,A2,43.7638,0.8751,0,"lock, castle",Janina und Felix heiraten auf einem alten Schloss.,Janina and Felix get married in an old castle.
+1938,"die Brücke, -n",die,A2,43.1231,0.9113,0,bridge,Die Kinder werfen Steine von der Brücke in den Fluss.,The children throw stones from the bridge into the river.
+1950,"die Treppe, -n",die,A1,42.7781,0.8475,0,stairs,In unserem Haus gibt es zwei Treppen.,In our house there are two stairs.
+1951,"die Decke, -n",die,B1,42.7288,0.8582,0,"ceiling, blanket","Im Winter schläft Matthias unter zwei Decken, wenn ihm kalt ist.",In the winter Matthias sleeps under two blankets when he is cold.
+2020,"das Kino, -s",das,A1,40.9054,0.8845,0,"cinema, movie theater",Im Kino läuft seit Mittwoch ein Film über den Künstler Egon Schiele.,Since Wednesday a film about the artist Egon Schiele is showing in the cinema.
+2027,"der Bahnhof, -̈e",der,A1,40.7082,0.8814,0,(railway) station,Katharina wartet am Bahnhof auf den Zug nach Leipzig.,Katharina waits at the station for the train to Leipzig.
+2141,"der Park, -s",der,A2,38.1948,0.888,0,park,"Die Studenten treffen sich im Park, um die Sonne zu genießen.",The students meet in the park to enjoy the sun.
+2237,"die Halle, -n",die,A1,36.2727,0.8769,0,hall,Das Konzert findet in einer riesigen Halle statt.,The concert takes place in a huge hall.
+2273,"der Stock, -̈e",der,A1,35.5827,0.8672,0,"stick, floor",Sein Büro ist im dritten Stock des Gebäudes.,His office on the third floor of the building.
+2366,"die Bibliothek, -en",die,A2,33.5621,0.7256,0,library,Mona findet das Buch weder online noch in der Bibliothek.,Mona can’t find the book either online or in the library.
+2405,"das Bord, -e",der,B1,32.9707,0.8739,0,board,"Die Menschen retten sich von Bord, als das Schiff sinkt.",People are rescued from on board when the ship sinks.
+2492,"das Café, -s",das,A1,31.6893,0.8667,0,"coffeehouse, coffee shop",Linda trinkt jeden Tag Kaffee im selben Café.,Linda drinks coffee every day at the same coffeehouse.
+2504,"der Eingang, -̈e",der,A1,31.4429,0.8951,0,entrance,Der Eingang befindet sich neben dem Ausgang.,The entrance is next to the exit.
+2523,"das Gefängnis, -se",das,B1,31.1472,0.8727,0,prison,Das Gericht verurteilt ihn zu zehn Jahren Gefängnis.,The court sentences him to ten years in prison.
+2555,"das Wohnzimmer, -",das,A2,30.6544,0.8554,0,living room,Im Wohnzimmer steht der Fernseher.,The TV is in the living room.
+2562,"die Station, -en",die,B1,30.5558,0.907,0,"station, stop, stopover",Mit der Bahn fährt man fünf Stationen vom Bahnhof zur Universität.,By train one travels five stops from the station to the university.
+2582,Bar,die,A1,30.1615,0.8314,0,bar,"Nach der Arbeit treffen sich die Kollegen in der Bar, um zu trinken und zu reden.","After work, the colleagues meet in the bar to drink and talk."
+2656,"der Flur, -e",der,B1,29.2744,0.8136,0,"hall, corridor",Die Gäste ziehen ihre Schuhe im Flur aus.,The guests take off their shoes in the hall.
+2687,"der Hafen, -̈",der,B1,28.7816,0.8634,0,harbor,Am Hafen liegen Schiffe mit Gütern aus aller Welt.,At the harbor are ships with goods from all over the world.
+2733,"der Saal, -̈le",der,B1,28.1409,0.8609,0,hall,Das Konzert findet in einem festlichen Saal statt.,The concert takes place in a festive hall.
+2797,"die Villa, -en",die,B2+,27.3031,0.8111,0,villa,"Meine Eltern leben in einer Villa, weil sie dort mehr Platz haben als in einem Haus.",My parents live in a villa because they have more space there than in a house.
+2856,das Zuhause,das,B1,26.5638,0.8967,0,home,"Für Kinder ist es besonders wichtig, ein richtiges Zuhause zu haben.",It is particularly important for children to have a real home.
+2959,"das Labor, -e",das,B2+,25.2825,0.8656,0,laboratory,Robert Koch führte in seinem Labor in Berlin Experimente zu Krankheiten durch.,Robert Koch conducted experiments on diseases in his laboratory in Berlin.
+2966,"die Autobahn, -en",die,A1,25.1839,0.8696,0,"expressway, motorway",Auf deutschen Autobahnen darf man sehr schnell fahren.,On German motorways you can drive very fast.
+2982,"die Hütte, -n",die,B1,24.9868,0.8472,0,"hut, cabin",Mein Großvater lebt in einer Hütte im Wald.,My grandfather lives in a cabin in the woods.
+3081,"das Gymnasium, -en",das,B2+,23.8532,0.7955,0,secondary school,Nach der Grundschule wechseln einige kluge Schüler auf das Gymnasium.,After primary school some smart students move on to secondary school.
+3106,"der Parkplatz, -̈e",der,B2+,23.6068,0.8297,0,parking place,Zu der Wohnung gehört ein Parkplatz vor dem Haus.,The apartment includes a parking space in front of the house.
+3109,"die Universitätsbibliothek, -en",die,B2+,23.5575,0.5581,0,university library,Sie holt sich ein Buch aus der Universitätsbibliothek.,She’s getting a book from the university library.
+3118,"der Turm, -̈e",der,B1,23.4097,0.8364,0,tower,Vom Turm aus hat man eine großartige Aussicht auf die Stadt.,From the tower you have a great view of the city.
+3140,"das Stadion, -e",das,B1,23.1633,0.7214,0,stadium,Wir sehen uns das Spiel live im Stadion an.,We’ll watch the match live at the stadium.
+3160,"das Grundstück, -e",das,B1,22.9169,0.8513,0,plot of land,Das Grundstück am See steht zum Verkauf.,The plot of land by the lake is for sale.
+3218,"der Supermarkt, -̈e",der,A2,22.3255,0.8818,0,supermarket,Im Supermarkt kann man Produkte aus aller Welt kaufen.,In the supermarket you can buy products from all over the world.
+3219,"der Ausgang, -̈e",der,A1,22.2762,0.9083,0,"exit, outcome, starting point",Das Schild zeigt den Besuchern den Weg zum Ausgang.,The sign shows visitors the way to the exit.
+3279,"der Zaun, -̈e",der,B2+,21.6848,0.8628,0,fence,Ein Zaun trennt unseren Garten vom Garten nebenan.,A fence separates our garden from the garden next door.
+3319,"die Kneipe, -n",die,B1,21.2905,0.8083,0,"pub, bar",Wollen wir heute Abend nach der Arbeit in die Kneipe gehen?,Do you want to go to the pub tonight after work?
+3340,"die Säule, -n",die,B2+,21.1426,0.7854,0,"column, pillar",Das Dach wird von zwei Säulen gestützt.,The roof is supported by two pillars.
+3358,"die Kammer, -n",die,B2+,20.9948,0.8355,0,"chamber, (small) room",In der Kammer neben der Küche lagert Helmut sein Essen.,Helmut stores his food in the chamber next to the kitchen.
+3371,"der Kindergarten, -̈",der,A1,20.8962,0.8254,0,"nursery school, kindergarten",Mathilde geht schon in den Kindergarten.,Mathilde is already going to kindergarten.
+3428,"die Haustür, -en",die,B2+,20.4034,0.847,0,front door,Mein Nachbar klingelt an der Haustür.,My neighbor rings at the front door.
+3472,"die Werkstatt, -̈en",die,A2,20.157,0.8584,0,"workshop, garage",Sie stellen Tische und Stühle aus Holz in ihrer Werkstatt her.,They produce wooden tables and chairs in their workshop.
+3474,"das Kloster, -̈",das,B2+,20.1077,0.8287,0,"monastery, convent","In einem Kloster lebt eine christliche Gemeinschaft, die dort ihren Glauben ausübt.",In a monastery lives a Christian community that practices its faith there.
+3477,"die Toilette, -n",die,A1,20.1077,0.8462,0,toilet,In der Stadt gibt es mehrere öffentliche Toiletten.,There are a number of public toilets in the city.
+3504,"die Unterkunft, -̈e",die,A2,19.8613,0.8242,0,accommodation,Sie sucht nach einer günstigen Unterkunft im Zentrum.,She is looking for cheap accommodations in the center.
+3589,"die Akademie, -n",die,B2+,19.1713,0.6949,0,academy,Die Jury der Akademie entscheidet sich für einen Kandidaten.,The academy’s jury decides on a candidate.
+3738,"das Schlafzimmer, -",das,A2,18.2349,0.7983,0,bedroom,Unser Haus hat drei Schlafzimmer.,Our house has three bedrooms.
+3781,"das Heim, -e",das,B1,17.9392,0.8878,0,"home, institution","Kinder, die keine Eltern mehr haben, leben oft in einem Heim.",Children who no longer have parents often live in an institution.
+3845,"der Friedhof, -̈e",der,B2+,17.5449,0.8487,0,cemetery,Jeden Sonntag geht sie auf den Friedhof und besucht das Grab ihres Mannes.,Every Sunday she goes to the cemetery and visits her husband’s grave.
+3851,"die Fabrik, -en",die,B1,17.4957,0.8862,0,factory,In der Fabrik laufen die Maschinen 24 Stunden am Tag.,The machines run 24 hours a day in the factory.
+3960,"das Rathaus, -̈er",das,A2,16.855,0.8377,0,town hall,Das Rathaus befindet sich im Zentrum der Stadt.,The town hall is located in the center of the city.
+3964,"das Camp, -s",das,B2+,16.8057,0.7779,0,camp,"Emil freut sich auf das Camp, weil er den ganzen Tag mit anderen Kindern spielen kann.",Emil is looking forward to the camp because he can play with other children all day long.
+3986,"das Lokal, -e",das,A1,16.7071,0.8587,0,"pub, bar",Das Lokal ist bis 1 Uhr nachts geöffnet.,The restaurant is open until 1 am.
+4016,"die Baustelle, -n",die,A2,16.51,0.8676,0,"building site, construction site","Wir bauen ein neues Haus, aber jetzt ist es noch eine Baustelle.","We’re building a new house, but it’s just a construction site now."
+4026,"der Balkon, -s",der,A1,16.4607,0.8602,0,balcony,"Die Wohnung hat zwei Zimmer und einen Balkon, auf dem wir im Sommer sitzen können.",The apartment has two rooms and a balcony where we can sit in summer.
+4056,"der Tunnel, -",der,B2+,16.3621,0.8569,0,tunnel,Der Zug fährt durch einen Tunnel.,The train is going through a tunnel.
+4175,"das Kraftwerk, -e",das,B1,15.6229,0.7663,0,power plant,"Wenn die Kraftwerke ausfallen, haben wir keinen Strom.","If the power plants fail, we’ll have no power."
+4217,"die Fassade, -n",die,B2+,15.4258,0.8698,0,"facade, front",Das Haus hat eine sehr schöne Fassade von außen.,The house has a very nice facade from the outside.
+4220,"die Terrasse, -n",die,B1,15.4258,0.8183,0,"terrace, patio","Wir bauen eine Terrasse an unser Haus, damit wir im Frühling draußen sitzen können.",We’re building a patio next to our house so we can sit outside in the spring.
+4235,"die Burg, -en",die,B1,15.3272,0.7425,0,castle,Diese Burg stammt aus dem frühen Mittelalter und ist heute ein Museum.,This castle dates from the early Middle Ages and is now a museum.
+4276,"die Gasse, -n",die,B2+,15.0808,0.8245,0,alley,In Köln gibt es eine Altstadt mit vielen schmalen Gassen zwischen den Häusern.,In Cologne there is an old town with many narrow alleys between the houses.
+4299,"die Kulisse, -n",die,B2+,14.9822,0.8763,0,"setting, scenery, backdrop",Dieser Platz bietet eine schöne Kulisse für mein Foto.,This place offers a nice setting for my photo.
+4328,"die Galerie, -n",die,B1,14.7851,0.8529,0,gallery,"Heute öffnet die Galerie, in der meine Bilder zu sehen sind.",Today the gallery where you can see my pictures opens.
+4344,"der Neubau, -ten",der,B2+,14.7358,0.8448,0,new building,Ich lebe in einem Neubau in einer schönen Wohnung.,I live in a new building in a nice apartment.
+4373,"die Piste, -n",die,B2+,14.6372,0.7061,0,slope,Im Winter fahre ich regelmäßig die Piste runter.,In winter I ski down the slope regularly.
+4556,"der Tempel, -",der,B2+,13.7994,0.7987,0,temple,In Griechenland kann man viele alte Tempel sehen.,In Greece you can see many ancient temples.
+4571,"die Etage, -n",die,B1,13.7008,0.8549,0,"floor, level, story",Ich wohne in der ersten Etage.,I live on the first floor.
+4572,"die Fachhochschule, -n",die,B2+,13.7008,0.7705,0,"technical college, university of applied sciences",Ich studiere an einer Fachhochschule und nicht an einer Universität.,I study at a technical college and not at a university.
+4606,"das Studio, -s",das,B1,13.553,0.8011,0,studio,"Wir gehen ins Studio, um unsere eigene Sendung für das Radio aufzunehmen.",We’re going to the studio to record our own show for the radio.
+4613,"die Pension, -en",die,B1,13.5037,0.8123,0,"pension, guesthouse","Ich eröffne eine Pension für Menschen und ihre Tiere, die hier Urlaub machen.",I’m opening a boardinghouse for people and their animals on vacation here.
+4656,"das Klo, -s",das,B2+,13.3066,0.8278,0,"toilet, john","Wenn ich nervös bin, muss ich immer aufs Klo.","When I’m nervous, I always have to go to the john."
+4670,"die Rezeption, -en",die,A1,13.2573,0.678,0,reception,Wir holen uns die Schlüssel für das Zimmer an der Rezeption im Hotel ab.,We pick up the keys for the room at the hotel reception.
+4789,"das Denkmal, -e",das,B1,12.7644,0.7797,0,"monument, memorial","Um einen Menschen zu ehren, wird ihm ein Denkmal gesetzt.","To honor a human being, a monument is erected."
+4810,"der Pfad, -e",der,B2+,12.7152,0.8528,0,"path, trail","Ich gehe im Wald immer auf den Pfaden, weil ich mich sonst verlaufe.","I always walk on the paths in the forest, otherwise I get lost."
+4825,"das Archiv, -e",das,B2+,12.5673,0.8735,0,archive,Ich suche ein altes Dokument im Archiv.,I am looking for an old document in the archive.
+4844,"das Atelier, -s",das,B2+,12.4687,0.7381,0,studio,"Der Maler arbeitet in einem Atelier, weil er dort viel Licht hat.",The painter works in a studio because he has a lot of light there.
+4872,"das Quartier, -e",das,B1,12.3702,0.8489,0,quarters,Ich brauche ein warmes Quartier für die Nacht.,I need warm quarters for the night.
+4916,"der Dom, -e",der,B2+,12.173,0.8371,0,cathedral,Wir sehen uns den Dom in Köln an.,We’re going to see the cathedral in Cologne.
+4935,"das Stockwerk, -e",das,A2,12.1238,0.8646,0,floor,Das Haus hat zwei Stockwerke.,The house has two floors.
+4944,"der Tatort, -e",der,B2+,12.0745,0.7753,0,crime scene,Die Polizei untersucht den Tatort auf Spuren.,Police are investigating the crime scene for clues.
+4990,"die Kreuzung, -en",die,A2,11.8773,0.8394,0,intersection,"Ich überquere die Kreuzung, wenn kein Auto kommt.",I’ll cross the intersection if no car comes.
+5004,"die Ruine, -n",die,B2+,11.8281,0.848,0,ruin,"Früher war das Gebäude ein schönes Schloss, heute ist es nur noch eine Ruine.","Before, the building was a beautiful castle, now it’s only a ruin."

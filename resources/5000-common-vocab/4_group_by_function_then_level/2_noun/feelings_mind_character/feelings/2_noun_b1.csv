@@ -1,0 +1,23 @@
+rank,word,pos,level,freq_per_million,dispersion,has_conjugation,definition,example_de,example_en
+462,"das Gefühl, -e",das,B1,178.7515,0.9175,0,feeling,Er verletzt Stefans Gefühle.,He hurts Stefan’s feelings.
+844,"die Liebe, -n",die,B1,102.1155,0.8905,0,love,Sophia heiratet die Liebe ihres Lebens.,Sophia marries the love of her life.
+888,"die Sorge, -n",die,B1,98.2221,0.9227,0,worry,Die Familie hat finanzielle Sorgen.,The family has financial worries.
+1102,"die Hoffnung, -en",die,B1,78.9523,0.9225,0,hope,"Es besteht die Hoffnung, dass der Patient gesund wird.",There is hope that the patient will get well.
+1286,"die Freude, -n",die,B1,68.7013,0.9098,0,joy,"Es ist mir eine große Freude, meine Kinder spielen und lachen zu sehen.",It gives me great joy to see my children play and laugh.
+1300,das Leid,das,B1,68.0113,0.8527,0,"sorrow, grief",Nach dem Tod ihres Mannes hat sie viel Leid erfahren.,She experienced much suffering after her husband’s death.
+1583,"die Schuld, -en",die,B1,54.8033,0.9207,0,guilt,Es gibt keine Beweise für seine Schuld.,There is no proof of his guilt.
+1594,die Scheiße,die,B1,54.2612,0.6962,0,"crap, shit","Der Vater erklärt seinem Kind, dass “Scheiße” ein sehr schlechtes Wort ist.",The father explains to his child that “shit” is a very bad word.
+1634,"die Spannung, -en",die,B1,52.7827,0.7102,0,"suspense, tension",Ich mag die intensive Spannung des Films.,I like the intense tension of the movie.
+1728,"die Stimmung, -en",die,B1,49.185,0.9211,0,"mood, atmosphere",Die Stimmung auf der Geburtstagfeier von Ann-Katrin ist sehr gut.,The atmosphere at Ann-Katrin’s birthday party is very good.
+1824,"das Bedürfnis, -se",das,B1,46.3758,0.8811,0,need,"Wir tun alles, um die Bedürfnisse unserer Kunden zu befriedigen.",We do everything to satisfy our customers’ needs.
+1864,"die Erwartung, -en",die,B1,45.0945,0.8939,0,expectation,Unser Urlaub erfüllte all unsere Erwartungen.,Our vacation lived up to all our expectations.
+1927,"die Seele, -n",die,B1,43.3695,0.901,0,"soul, mind",Die Vorstellung der Seele ist je nach Religion und Philosophie unterschiedlich.,The idea of the soul varies according to religion and philosophy.
+1961,"das Schicksal, -e",das,B1,42.6303,0.9001,0,fate,"Es ist Schicksal, dass wir uns nach so langer Zeit wieder treffen.",It is fate that we meet again after such a long time.
+2524,"die Überraschung, -en",die,B1,31.1472,0.9093,0,surprise,"Sonja weiß nichts von der Party, es ist eine Überraschung.","Sonja doesn’t know about the party, it’s a surprise."
+2703,"das Erlebnis, -se",das,B1,28.5845,0.9032,0,experience,"Die Präsidentin zu treffen, ist ein besonderes Erlebnis.",Meeting the president is a special experience.
+2970,"der Schreck, -e",der,B1,25.1346,0.9008,0,"fright, shock",Wegen des lauten Geräuschs bekommt Marion einen großen Schreck.,Because of the loud noise Marion gets a big shock.
+3475,"die Laune, -n",die,B1,20.1077,0.8832,0,mood,"Wenn sie gute Laune hat, singt und lacht sie die ganze Zeit.","When she’s in a good mood, she sings and laughs all the time."
+3853,der Stolz,der,B1,17.4957,0.8923,0,pride,Sie empfindet Stolz für ihre Kinder.,She feels pride for her children.
+4137,"die Enttäuschung, -en",die,B1,15.82,0.8907,0,disappointment,Die Enttäuschung über das blöde Geschenk ist groß.,The disappointment about the stupid gift is great.
+4508,"das Vergnügen, -",das,B1,14.0458,0.868,0,pleasure,Die Eltern liegen am Strand und die Kinder spielen am Wasser — ein großes Vergnügen!,The parents lie on the beach and the children play by the water — a great pleasure!
+4755,das Wohl,das,B1,12.9123,0.8212,0,well-being,Ich kümmere mich um das Wohl anderer Menschen.,I care about other people’s well-being.

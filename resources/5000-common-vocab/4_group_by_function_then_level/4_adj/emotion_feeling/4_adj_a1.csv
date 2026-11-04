@@ -1,0 +1,4 @@
+rank,word,pos,level,freq_per_million,dispersion,has_conjugation,definition,example_de,example_en
+1070,glücklich,adj,A1,81.2193,0.9142,0,"happy, fortunate",Thomas ist ein glückliches Kind.,Thomas is a happy child.
+1229,böse,adj,A1,71.4612,0.8922,0,"bad, mad",Warum bist du böse auf mich?,Why are you mad at me?
+1518,zufrieden,adj,A1,57.7603,0.9238,0,satisfied,Manche Menschen sind nie zufrieden.,Some people are never satisfied.

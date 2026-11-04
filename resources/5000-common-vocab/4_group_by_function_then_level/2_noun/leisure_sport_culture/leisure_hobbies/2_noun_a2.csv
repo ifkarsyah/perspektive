@@ -1,0 +1,7 @@
+rank,word,pos,level,freq_per_million,dispersion,has_conjugation,definition,example_de,example_en
+1106,"der Besuch, -e",der,A2,78.7551,0.9296,0,visit,Heute bekommen wir Besuch von meinen Eltern.,Today my parents are visiting us.
+1921,"die Veranstaltung, -en",die,A2,43.5174,0.9062,0,event,Heute Abend findet eine Veranstaltung in der Schule statt.,An event is taking place at the school tonight.
+2880,"das Zelt, -e",das,A2,26.3174,0.7938,0,tent,Die Kinder schlafen in einem Zelt unter freiem Himmel.,The children sleep in a tent under the open sky.
+3372,"das Rätsel, -",das,A2,20.8962,0.85,0,"puzzle, mystery","Wenn wir weitere Hinweise finden, können wir das Rätsel lösen.","If we find more clues, we can solve the mystery."
+3448,Ferien,die (pl),A2,20.2555,0.8435,0,"school break, vacation",Im Sommer haben die Kinder sechs Wochen Ferien.,In the summer the children have six weeks of vacation.
+4675,"der Spaziergang, -̈e",der,A2,13.208,0.8682,0,walk,Ich mache jeden Sonntag einen Spaziergang durch den Wald.,I take a walk through the forest every Sunday.

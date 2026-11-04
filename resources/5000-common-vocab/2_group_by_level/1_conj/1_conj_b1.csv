@@ -1,0 +1,17 @@
+rank,word,pos,level,freq_per_million,dispersion,has_conjugation,definition,example_de,example_en
+115,sondern,conj,B1,786.0235,0.9521,0,but (on the contrary),"Nicht er mag Fußball, sondern seine Schwester.","He doesn’t like soccer, but his sister does."
+127,ob,conj,B1,713.0345,0.9593,0,"whether, if","Ich kann mich nicht entscheiden, ob ich Bier oder Wein nehme.",I can’t decide if I’ll have beer or wine.
+374,damit,conj,B1,222.0,0.9512,0,so that,"Kannst du bitte kommen, damit wir schnell gehen können?",Can you please come so that we can leave quickly?
+390,obwohl,conj,B1,214.5313,0.9418,0,although,"Sie geht alleine nach Hause, obwohl sie weiß, dass es gefährlich ist.","She goes home by herself, although she knows it’s dangerous."
+528,nachdem,conj,B1,161.2558,0.94,0,after,"Wir treffen eine Entscheidung, nachdem jeder seine Ansichten mit uns geteilt hat.",We will make a decision after everyone has shared their views with us.
+537,bevor,conj,B1,159.1859,0.933,0,before,"Bevor wir in die Bibliothek gehen, trinken wir einen Kaffee.","Before we go to the library, we’ll have a cup of coffee."
+666,indem,conj,B1,131.9814,0.9169,0,"while, by","Wir haben engen Kontakt, indem wir Briefe schreiben.",We have close contact by writing letters.
+1100,entweder,conj,B1,79.0508,0.9441,0,either,Wir können entweder ins Theater gehen oder einen Film schauen.,We can either go to the theater or watch a movie.
+1170,falls,conj,B1,74.3196,0.8866,0,"in case, if","Falls du müde bist, können wir auch nach Hause gehen.","If you’re tired, we can go home."
+1512,sodass,conj,B1,57.9082,0.8965,0,so that,"Ich wiederhole den Satz noch einmal laut, sodass ihn jeder hören kann.",I repeat the sentence again loudly so that everyone can hear it.
+1521,solange,conj,B1,57.5139,0.9454,0,as long as,"Solange es Regen gibt, gehe ich nicht nach draußen.","As long as it’s raining, I’m not going outside."
+1653,umso,conj,B1,52.0434,0.9243,0,the (more . . . the),"Umso schneller wir fahren, umso eher sind wir am Ziel.","The faster we drive, the sooner we’re at our destination."
+1685,sobald,conj,B1,50.8114,0.9175,0,as soon as,"Sobald Jürgen dort einen Job findet, zieht er nach Berlin.","As soon as Jürgen finds a job there, he’s moving to Berlin."
+2246,zumal,conj,B1,36.1248,0.9236,0,"particularly, especially","Sie kommt zum Fest, zumal sie keine anderen Pläne hat.","She’s coming to the party, especially since she has no other plans."
+2718,ehe,conj,B1,28.338,0.8772,0,before,"Der Arzt ruft sie auf, ehe sie sich setzen kann.",The doctor calls her before she can sit down.
+3374,soviel,conj,B1,20.8962,0.8456,0,as far as,"Soviel ich weiß, lebt er immer noch in Berlin.","As far as I know, he still lives in Berlin."

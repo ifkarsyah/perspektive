@@ -1,0 +1,11 @@
+rank,word,pos,level,freq_per_million,dispersion,has_conjugation,definition,example_de,example_en
+2,und,conj,A1,26562.1139,0.9766,0,and,Die Eltern und Kinder essen und sprechen über ihren Tag.,The parents and children eat and talk about their day.
+20,dass,conj,A1,5531.0939,0.9603,0,that,"Ich vermute, dass der Zug wieder zu spät kommt.",I suspect the train will be late again.
+22,als,conj,A1,5499.7496,0.9732,0,"as, when","Als ich nach Hause komme, ist es schon dunkel.","When I get home, it’s already dark."
+31,aber,conj,A1,4023.8055,0.9494,0,but,"Die Sonne scheint, aber es ist trotzdem kalt.","The sun is shining, but it’s still cold."
+35,oder,conj,A1,3301.7521,0.9562,0,or,Kommst du mit dem Fahrrad oder fährst du mit dem Bus?,Are you coming by bike or are you going by bus?
+42,wenn,conj,A1,2838.0431,0.953,0,"if, when","Ich erzähle es dir, wenn wir uns sehen.",I’ll tell you when we see each other.
+88,weil,conj,A1,1157.868,0.9332,0,because,"Frederiks Mutter steht früh auf, weil sie um sechs Uhr arbeiten muss.",Frederik’s mother gets up early because she has to work at six o’clock.
+93,denn,conj,A1,1055.2103,0.9266,0,because,"Heute sind alle Geschäfte geschlossen, denn es ist Sonntag.",Today all shops are closed because it is Sunday.
+281,sowie,conj,A1,313.0492,0.9094,0,"as well as, as soon as, plus",Christina mag Männer sowie Frauen.,Christina likes men as well as women.
+291,"beziehungsweise, bzw.",conj,A1,294.3214,0.8681,0,"or, respectively","Es ist ihr Traum, beziehungsweise Wunsch, Polizistin zu werden.",It is her dream or desire to become a policewoman.

@@ -1,0 +1,4 @@
+rank,word,pos,level,freq_per_million,dispersion,has_conjugation,definition,example_de,example_en
+374,damit,conj,B1,222.0,0.9512,0,so that,"Kannst du bitte kommen, damit wir schnell gehen können?",Can you please come so that we can leave quickly?
+1512,sodass,conj,B1,57.9082,0.8965,0,so that,"Ich wiederhole den Satz noch einmal laut, sodass ihn jeder hören kann.",I repeat the sentence again loudly so that everyone can hear it.
+2246,zumal,conj,B1,36.1248,0.9236,0,"particularly, especially","Sie kommt zum Fest, zumal sie keine anderen Pläne hat.","She’s coming to the party, especially since she has no other plans."

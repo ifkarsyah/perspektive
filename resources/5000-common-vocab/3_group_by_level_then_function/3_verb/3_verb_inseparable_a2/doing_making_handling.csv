@@ -1,0 +1,19 @@
+rank,word,pos,level,freq_per_million,dispersion,has_conjugation,is_separable,definition,example_de,example_en
+247,"versuchen, versucht, versuchte, hat versucht",verb,A2,354.6445,0.9484,1,0,"to try, attempt","Ich versuche, die Prüfung zu bestehen.",I’m trying to pass the exam.
+285,"schaffen, schafft, schuf, hat geschaffen",verb,A2,304.671,0.9378,1,0,"to manage, create",Magdalena schafft ihre Prüfung nicht.,Magdalena won’t manage to pass the exam.
+667,"bauen, baut, baute, hat gebaut",verb,A2,131.8828,0.9272,1,0,to build,Wir bauen ein Haus.,We’re building a house.
+842,"binden, bindet, band, hat gebunden",verb,A2,102.1648,0.8066,1,0,"to tie, bind","Sie lernt, ihre Schuhe zu binden.",She’s learning to tie her shoes.
+936,"trennen, trennt, trennte, hat getrennt",verb,A2,92.9981,0.9417,1,0,to separate,Eine Wand trennt zwei Zimmer.,A wall separates two rooms.
+952,"richten, richtet, richtete, hat gerichtet",verb,A2,91.3224,0.952,1,0,"to direct, repair, follow",Er richtet seine Rede an alle Studenten der Universität.,He directs his speech to all students of the university.
+1063,"singen, singt, sang, hat gesungen",verb,A2,81.7614,0.901,1,0,to sing,Sie singen ein Lied.,They’re singing a song.
+1096,"verletzen, verletzt, verletzte, hat verletzt",verb,A2,79.248,0.8753,1,0,to injure,Er verletzt sich die Hand mit einem Messer.,He injures his hand with a knife.
+1259,"zeichnen, zeichnet, zeichnete, hat gezeichnet",verb,A2,70.0812,0.8861,1,0,to draw,Linda zeichnet einen groben Entwurf ihres neuen Comics.,Linda draws a rough draft of her new comic.
+1295,"organisieren, organisiert, organisierte, hat organisiert",verb,A2,68.307,0.9302,1,0,to organize,In ihrem Job muss sie Veranstaltungen organisieren.,In her job she has to organize events.
+1925,"malen, malt, malte, hat gemalt",verb,A2,43.3695,0.8627,1,0,to paint,Die Kinder malen schon den ganzen Morgen Bilder.,The children have been painting pictures all morning.
+1947,"wagen, wagt, wagte, hat gewagt",verb,A2,42.8767,0.9159,1,0,"to dare, risk",Dominik wagt sich auf das dünne Eis auf dem See.,Dominik dares to walk on the thin ice on the lake.
+2133,"schneiden, schneidet, schnitt, hat geschnitten",verb,A2,38.3919,0.8534,1,0,to cut,Mein Freund schneidet das Brot fürs Frühstück.,My boyfriend cuts the bread for breakfast.
+2255,"trainieren, trainiert, trainierte, hat trainiert",verb,A2,35.8784,0.804,1,0,"to train, coach",Aaron trainiert jeden Tag für den Wettbewerb im Schwimmen.,Aaron trains every day for the swimming competition.
+2278,"unternehmen, unternimmt, unternahm, hat unternommen",verb,A2,35.4842,0.9278,1,0,"to undertake, do, take action","Sarah möchte im Urlaub am Strand liegen, während Erik lieber etwas unternehmen möchte.","Sarah wants to lie on the beach on vacation, while Erik would rather do something."
+2616,"speichern, speichert, speicherte, hat gespeichert",verb,A2,29.8166,0.8695,1,0,"to store, save",Daniel speichert alles auf seinem Computer.,Daniel stores everything on his computer.
+2894,"probieren, probiert, probierte, hat probiert",verb,A2,26.071,0.8982,1,0,to try,Alwin probiert zum ersten Mal Pizza.,Alwin tries pizza for the first time.
+3861,"fotografieren, fotografiert, fotografierte, hat fotografiert",verb,A2,17.4464,0.8756,1,0,to photograph,Mark fotografiert auf der Hochzeit alle Gäste.,Mark photographs all the guests at the wedding.

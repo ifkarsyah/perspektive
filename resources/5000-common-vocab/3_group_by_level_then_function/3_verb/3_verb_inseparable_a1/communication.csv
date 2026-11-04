@@ -1,0 +1,17 @@
+rank,word,pos,level,freq_per_million,dispersion,has_conjugation,is_separable,definition,example_de,example_en
+40,"sagen, sagt, sagte, hat gesagt",verb,A1,2953.7116,0.923,1,0,"to say, tell","Der Kollege sagt ihr, wo sie die Schlüssel findet.",The colleague tells her where to find the keys.
+126,"heißen, heißt, hieß, hat geheißen",verb,A1,717.6672,0.961,1,0,to be called,Sein Freund heißt Markus.,His friend is called Markus.
+153,"fragen, fragt, fragte, hat gefragt",verb,A1,559.812,0.8971,1,0,to ask,Die Touristen fragen nach dem Weg.,The tourists ask for directions.
+161,"sprechen, spricht, sprach, hat gesprochen",verb,A1,544.5341,0.9529,1,0,to speak,Der Student möchte mit dem Professor sprechen.,The student would like to speak to the professor.
+184,"schreiben, schreibt, schrieb, hat geschrieben",verb,A1,472.4815,0.9114,1,0,to write,Er schreibt einen Brief an seine Freundin.,He’s writing a letter to his girlfriend.
+238,"erklären, erklärt, erklärte, hat erklärt",verb,A1,365.0433,0.9484,1,0,to explain,Max erklärt mir komplizierte Dinge.,Max explains complicated things to me.
+263,"erzählen, erzählt, erzählte, hat erzählt",verb,A1,331.8755,0.9097,1,0,to tell,Susanne erzählt mir gerne Geschichten.,Susanne likes to tell me stories.
+305,"lesen, liest, las, hat gelesen",verb,A1,279.2899,0.9244,1,0,to read,Ich lese viele Bücher.,I read a lot of books.
+491,"bitten, bittet, bat, hat gebeten",verb,A1,169.4369,0.9037,1,0,"to request, ask",Thomas bittet mich um Hilfe.,Thomas asks me for help.
+826,"antworten, antwortet, antwortete, hat geantwortet",verb,A1,104.0376,0.8558,1,0,to answer,Der Schüler antwortet auf die Frage.,The student answers the question.
+988,"wiederholen, wiederholt, wiederholte, hat wiederholt",verb,A1,87.9712,0.9423,1,0,to repeat,Können Sie das bitte noch einmal wiederholen?,"Can you repeat that, please?"
+1276,"danken, dankt, dankte, hat gedankt",verb,A1,69.2434,0.8333,1,0,to thank,Ich möchte mich für ihre Aufmerksamkeit bedanken!,I would like to thank you for your attention!
+1418,"empfehlen, empfiehlt, empfahl, hat empfohlen",verb,A1,62.8365,0.9226,1,0,to recommend,Welchen Wein können Sie empfehlen?,Which wine can you recommend?
+1958,"entschuldigen, entschuldigt, entschuldigte, hat entschuldigt",verb,A1,42.6303,0.8602,1,0,"to excuse, apologize","Paula entschuldigt sich bei ihrer Schwester, weil sie sie geärgert hat.",Paula apologizes to her sister for teasing her.
+3156,"telefonieren, telefoniert, telefonierte, hat telefoniert",verb,A1,22.9661,0.8667,1,0,to (make a telephone) call,Er telefoniert jeden Abend mit seiner Mutter.,He calls his mother every evening.
+3353,"unterschreiben, unterschreibt, unterschrieb, hat unterschrieben",verb,A1,21.0441,0.9087,1,0,to sign,Miriam unterschreibt den Vertrag für ihren neuen Arbeitsplatz.,Miriam signs the contract for her new job.

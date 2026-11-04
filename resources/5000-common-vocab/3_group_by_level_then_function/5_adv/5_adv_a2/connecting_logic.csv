@@ -1,0 +1,11 @@
+rank,word,pos,level,freq_per_million,dispersion,has_conjugation,definition,example_de,example_en
+229,deshalb,adv,A2,379.927,0.929,0,therefore,"Es gibt bald Regen, deshalb sollten wir ins Haus gehen.","It’s going to rain; therefore, we should go into the house."
+336,sonst,adv,A2,248.0934,0.928,0,otherwise,"Maggie isst kein Brot, sonst wird ihr schlecht.","Maggie doesn’t eat bread, otherwise she’ll get sick."
+424,außerdem,adv,A2,195.8036,0.9549,0,"besides, in addition","Es ist zu früh zum Schlafen, außerdem bin ich noch nicht müde.","It is too early to sleep, and besides, I am not tired yet."
+542,zudem,adv,A2,157.7567,0.8964,0,"moreover, furthermore, besides",Heute ist es kalt und zudem gibt es Regen.,Today it is cold and furthermore there is rain.
+608,wobei,adv,A2,142.4788,0.9036,0,"whereby, at what, whereat",Wobei hast du dir den Fuß gebrochen?,Whereby did you break your foot?
+672,"beispielsweise, bspw.",adv,A2,131.4393,0.9152,0,"for example, such as","Daniela spricht verschiedene europäische Sprachen, wie beispielsweise Französisch.","Daniela speaks several European languages, such as French."
+717,dennoch,adv,A2,123.9974,0.9312,0,nevertheless,"Ich lerne viel für die Prüfung, dennoch bestehe ich sie vielleicht nicht.","I’m studying a lot for the exam, nevertheless I might not pass it."
+792,somit,adv,A2,108.3745,0.8876,0,"consequently, therefore",Ihre Kollegen sprechen kein Englisch und somit muss sie ihr Deutsch verbessern.,Her colleagues don’t speak English and consequently she has to improve her German.
+827,weiterhin,adv,A2,103.9883,0.9315,0,"still, furthermore",Es gibt weiterhin Probleme mit der neuen Technik.,There are still problems with the new technology.
+833,zugleich,adv,A2,103.1012,0.9049,0,"both, at the same time",Unser Lehrer kann nett und streng zugleich sein.,Our teacher can be nice and strict at the same time.

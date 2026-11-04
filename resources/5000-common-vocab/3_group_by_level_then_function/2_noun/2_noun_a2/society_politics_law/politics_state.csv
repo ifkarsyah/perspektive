@@ -1,0 +1,8 @@
+rank,word,pos,level,freq_per_million,dispersion,has_conjugation,definition,example_de,example_en
+521,"die Regierung, -en",die,A2,163.9171,0.8441,0,"rule, government",Eine Regierung leitet das Land und trifft alle politischen Entscheidungen.,A government leads the country and makes all political decisions.
+546,"der Präsident, -en",der,A2,156.771,0.8327,0,president,Die Präsidentin regiert das Land.,The president rules the country.
+588,"die Partei, -en",die,A2,146.9636,0.8216,0,(political) party,Die Partei hofft auf ein gutes Ergebnis bei den Wahlen.,The party hopes for a good result in the elections.
+726,EU (Europäische Union),die,A2,120.7447,0.8162,0,EU,Die EU ist ein Bund aus mehreren Staaten.,The EU is a federation of multiple states.
+777,SPD (Sozialdemokratische Partei Deutschlands),die,A2,110.5923,0.6909,0,SPD,Die SPD will ein neues Gesetz einführen.,The SPD wants to introduce a new law.
+894,CDU (Christlich Demokratische Union Deutschlands),die,A2,97.2365,0.6599,0,CDU,Sie hat die CDU gewählt.,She voted for the CDU.
+1655,"das Reich, -e",das,A2,51.9449,0.7908,0,"empire, kingdom",Die Studenten hören einen Beitrag über das Römische Reich.,The students listen to a piece about the Roman Empire.

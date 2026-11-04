@@ -1,0 +1,9 @@
+rank,word,pos,level,freq_per_million,dispersion,has_conjugation,definition,example_de,example_en
+25,wie,pron,A1,4841.3212,0.9663,0,how,Wie lange dauert es?,How long does it take?
+38,was,pron,A1,3150.6487,0.9136,0,what,Was sagst du?,What do you say?
+108,wo,pron,A1,848.3179,0.9251,0,where,Wo bist du geboren?,Where were you born?
+122,"welch, -e, -er, -es",pron,A1,757.1433,0.9265,0,which,Welchen Film magst du lieber?,Which movie do you like better?
+149,wer,pron,A1,583.9609,0.9301,0,"who, whoever",Wer ist da?,Who is there?
+657,wann,pron,A1,132.8192,0.9188,0,when,Wann kommst du heute nach Hause?,When are you coming home today?
+1494,woher,pron,A1,58.5982,0.8894,0,"from where, how",Woher kommst du?,Where are you from?
+1811,wohin,pron,A1,46.8194,0.9022,0,where,Wohin gehen wir heute Abend?,Where are we going tonight?

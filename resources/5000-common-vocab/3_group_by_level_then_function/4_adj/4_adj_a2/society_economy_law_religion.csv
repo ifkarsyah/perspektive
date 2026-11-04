@@ -1,0 +1,6 @@
+rank,word,pos,level,freq_per_million,dispersion,has_conjugation,definition,example_de,example_en
+745,wirtschaftlich,adj,A2,116.6049,0.8788,0,"economic, financial","Aus wirtschaftlichen Gründen ist es besser, Strom durch Wind zu erzeugen.",For economic reasons it is better to generate electricity from wind.
+746,privat,adj,A2,116.5556,0.8967,0,private,Das ist eine private Angelegenheit.,This is a private matter.
+1568,reich,adj,A2,55.5426,0.931,0,"rich, abundant",Reiche Menschen sind nicht unbedingt immer glücklich.,Rich people aren’t necessarily always happy.
+1652,freiwillig,adj,A2,52.0434,0.9411,0,voluntary,Nach dem Abschluss der Schule arbeiten viele Schüler freiwillig in sozialen Institutionen.,"After leaving school, many students work voluntarily in social institutions."
+3462,kostenlos,adj,A2,20.2063,0.8804,0,free (of charge),Das Hotel bietet kostenloses Internet.,The hotel offers free internet.

@@ -1,0 +1,5 @@
+rank,word,pos,level,freq_per_million,dispersion,has_conjugation,definition,example_de,example_en
+185,solch,pron,B1,470.4116,0.9577,0,such,Unter solchen Bedingungen kann ich nicht arbeiten.,I can’t work in such conditions.
+635,"derselbe, dieselbe, dasselbe",pron,B1,136.7126,0.9459,0,"the same (one, ones)","Klara trägt zu ihrer Hochzeit dasselbe Kleid, das auch ihre Mutter getragen hat.",Klara wears the same dress that her mother wore for her wedding.
+1027,"derjenige, diejenige, dasjenige",pron,B1,84.6692,0.9027,0,"the one (who, that)","Derjenige, der zuerst das Rätsel löst, bekommt ein Eis.",The one who solves the puzzle first gets an ice cream.
+2280,"selbe (r, s)",pron,B1,35.4349,0.9415,0,same,Robin erledigt die Aufgaben noch am selben Tag.,Robin completes the tasks on the same day.

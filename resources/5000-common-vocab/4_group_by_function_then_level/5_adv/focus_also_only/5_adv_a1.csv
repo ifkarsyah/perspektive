@@ -1,0 +1,3 @@
+rank,word,pos,level,freq_per_million,dispersion,has_conjugation,definition,example_de,example_en
+18,auch,adv,A1,6378.9683,0.951,0,"also, too","Auch ich habe Geburtstag, nicht nur Markus.","It’s my birthday too, not just Markus’s."
+39,nur,adv,A1,3000.0381,0.9773,0,only,Das kostet nur zwei Euro.,It only costs two euros.

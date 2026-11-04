@@ -1,0 +1,11 @@
+rank,word,pos,level,freq_per_million,dispersion,has_conjugation,is_separable,definition,example_de,example_en
+2501,vergeben,verb,B2+,31.4922,0.8852,1,0,"to award, allocate, give away",Sie haben den Auftrag an einen englischen Architekten vergeben.,They’ve awarded the contract to an English architect.
+2760,"versehen, versieht, versah, hat versehen",verb,B2+,27.7466,0.9245,1,0,"to perform, provide",Wir müssen jeden Schüler mit Materialien versehen.,We have to provide each student with materials.
+2771,"gewähren, gewährt, gewährte, hat gewährt",verb,B2+,27.5988,0.8949,1,0,"to grant, give",Der Verkäufer gewährt mir auf das Buch einen niedrigeren Preis.,The seller gives me a lower price on the book.
+2896,"verschaffen, verschafft, verschaffte, hat verschafft",verb,B2+,26.071,0.9224,1,0,to provide,Tom verschafft mir einen Job in seiner Firma.,Tom provides me with a job in his company.
+2915,"entnehmen, entnimmt, entnahm, hat entnommen",verb,B2+,25.8246,0.8889,1,0,"to take from, remove, withdraw, infer",Dem Blatt können Sie die wichtigsten Punkte meines Vortrags entnehmen.,You can infer from the sheet the most important points of my presentation.
+2973,"entziehen, entzieht, entzog, hat entzogen",verb,B2+,25.0853,0.9308,1,0,"to take away, remove, draw",Salz entzieht dem Körper Wasser.,Salt draws water from the body.
+3195,"erteilen, erteilt, erteilte, hat erteilt",verb,B2+,22.5226,0.8266,1,0,to give,"Die Eltern erteilen ihrem Sohn die Erlaubnis, auf die Party zu gehen.",The parents give their son permission to go to the party.
+3341,"übergeben, übergibt, übergab, hat übergeben",verb,B2+,21.1426,0.9118,1,0,"to hand over, transfer",Das Paket wird dem Kunden übergeben.,The package is handed over to the customer.
+3896,"erlangen, erlangt, erlangte, hat erlangt",verb,B2+,17.2,0.8531,1,0,"to obtain, secure",Bei den Wahlen erlangt die grüne Partei die Mehrheit.,The Green Party obtains a majority in the elections.
+4973,"bescheren, beschert, bescherte, hat beschert",verb,B2+,11.9266,0.8773,1,0,"to bring, bestow",Der Winter beschert uns Schnee.,Winter brings us snow.

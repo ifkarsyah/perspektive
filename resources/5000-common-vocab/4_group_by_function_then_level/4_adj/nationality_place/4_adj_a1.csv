@@ -1,0 +1,7 @@
+rank,word,pos,level,freq_per_million,dispersion,has_conjugation,definition,example_de,example_en
+112,deutsch,adj,A1,795.7816,0.9101,0,German,Nina interessiert sich für deutsche Geschichte.,Nina is interested in German history.
+335,europäisch,adj,A1,250.6069,0.8648,0,European,Du siehst sehr europäisch aus.,You look very European.
+426,international,adj,A1,194.1772,0.9052,0,international,Wir arbeiten eng mit internationalen Firmen zusammen.,We work closely with international companies.
+859,fremd,adj,A1,101.2777,0.9214,0,"foreign, strange",Sie zieht in eine fremde Stadt.,She’s moving to a foreign city.
+1571,ausländisch,adj,A1,55.3454,0.816,0,foreign,Nadja unterrichtet ausländische Studierende an der Universität.,Nadja teaches foreign students at the university.
+1981,lokal,adj,A1,42.0882,0.8953,0,local,Die lokale Presse berichtet von Themen aus der Umgebung.,The local press reports on topics from the area.

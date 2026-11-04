@@ -1,0 +1,36 @@
+rank,word,pos,level,freq_per_million,dispersion,has_conjugation,definition,example_de,example_en
+2576,Münchner,adj,B2+,30.2601,0.8475,0,Munich,Der Flug startet am Münchner Flughafen.,The flight starts at the Munich airport.
+2723,schwedisch,adj,B2+,28.2395,0.5698,0,Swedish,Er studiert in der schwedischen Hauptstadt Stockholm.,He studies in the Swedish capital Stockholm.
+2734,syrisch,adj,B2+,28.1409,0.7378,0,Syrian,Verschiedene Gruppen kämpfen im syrischen Bürgerkrieg.,Different groups fight in the Syrian Civil War.
+2743,niederländisch,adj,B2+,27.9931,0.4796,0,Dutch,Die niederländische Königin hat drei Töchter.,The Dutch queen has three daughters.
+2751,heimisch,adj,B2+,27.8945,0.8352,0,"indigenous, native, at home",Diese besondere Pflanze ist nur hier in Südamerika heimisch.,This special plant is only native to South America.
+2840,japanisch,adj,B2+,26.761,0.8813,0,Japanese,"In Leipzig gibt es viele Restaurants, die japanisches Essen anbieten.",There are many restaurants in Leipzig offering Japanese food.
+2862,dänisch,adj,B2+,26.4653,0.3473,0,Danish,Die dänische Hauptstadt heißt Kopenhagen.,The Danish capital is called Copenhagen.
+3126,benachbart,adj,B2+,23.2618,0.8569,0,"neighboring, adjacent",Wir gehen häufig im benachbarten Ort einkaufen.,We often go shopping in the neighboring town.
+3237,polnisch,adj,B2+,22.1283,0.8668,0,Polish,Die Familie lebt nahe der polnischen Grenze.,The family lives near the Polish border.
+3261,indisch,adj,B2+,21.7833,0.8432,0,Indian,Pakora ist ein indisches Gericht.,Pakora is an Indian dish.
+3453,südlich,adj,B2+,20.2555,0.8867,0,southern,Zimbabwe und Zambia sind Länder des südlichen Afrika.,Zimbabwe and Zambia are countries of southern Africa.
+3496,lateinisch,adj,B2+,19.9106,0.6479,0,Latin,Viele medizinische Begriffe sind lateinisch.,Many medical terms are Latin.
+3536,deutschsprachig,adj,B2+,19.6149,0.8466,0,German-speaking,Auch die Schweiz und Österreich gehören zu den deutschsprachigen Ländern.,Switzerland and Austria are also German- speaking countries.
+3638,touristisch,adj,B2+,18.9249,0.6177,0,touristic,"Die Küste ist eine touristische Region, aber der Rest des Landes wird nur selten von Touristen besucht.","The coast is a touristic region, but the rest of the country is rarely visited by tourists."
+3640,geographisch,adj,B2+,18.8756,0.6622,0,geographic,Die geographische Lage der Insel ist südlich von Indien.,The geographic location of the island is south of India.
+3658,israelisch,adj,B2+,18.7278,0.793,0,Israeli,Tel Aviv ist eine israelische Stadt.,Tel Aviv is an Israeli city.
+3762,hessisch,adj,B2+,18.0378,0.5664,0,Hessian,Die hessische Hauptstadt ist Wiesbaden.,The Hessian capital is Wiesbaden.
+3919,ländlich,adj,B2+,17.0028,0.7846,0,rural,In der Stadt gibt es mehr Unfälle als in ländlichen Gegenden.,There are more accidents in the city than in rural areas.
+3974,bundesweit,adj,B2+,16.7564,0.8263,0,nationwide,In dem Land gibt es bundesweite Proteste.,There are nationwide protests in the country.
+4019,Kölner,adj,B2+,16.51,0.8169,0,Cologne,Das Kölner Bier schmeckt mir am besten.,The Cologne beer tastes the best to me.
+4116,ukrainisch,adj,B2+,16.0172,0.7209,0,Ukrainian,"Bevor ich in die Ukraine ziehe, lerne ich die ukrainische Sprache.","Before I move to Ukraine, I learn the Ukrainian language."
+4134,örtlich,adj,B2+,15.8693,0.8928,0,local,Dieses Kölner Bier ist eine örtliche Besonderheit.,This Cologne beer is a local specialty.
+4141,afrikanisch,adj,B2+,15.7707,0.852,0,African,Marthas afrikanische Stoffe sind sehr bunt.,Martha’s African fabrics are very colorful.
+4177,nördlich,adj,B2+,15.6229,0.871,0,north,Der See liegt nördlich von der Stadt.,The lake is located north of the city.
+4263,Thüringer,adj,B2+,15.1793,0.5457,0,Thuringian,Die Thüringer Würste schmecken mir besonders gut.,The Thuringian sausages taste particularly good to me.
+4273,belgisch,adj,B2+,15.0808,0.7914,0,Belgian,Belgische Schokolade schmeckt mir am besten.,Belgian chocolate tastes the best to me.
+4408,asiatisch,adj,B2+,14.4401,0.8661,0,Asian,Ich kenne ein sehr gutes asiatisches Restaurant.,I know a very good Asian restaurant.
+4414,römisch,adj,B2+,14.4401,0.8413,0,Roman,Oft sieht man an alten Gebäuden noch römische Zahlen.,Often you can still see Roman numbers on old buildings.
+4419,auswärtig,adj,B2+,14.3908,0.7829,0,external,Heute hat sie viele auswärtige Termine und fährt deswegen mit dem Auto zur Arbeit.,Today she has many external appointments and therefore goes to work by car.
+4471,sowjetisch,adj,B2+,14.1937,0.7972,0,Soviet,Moskau war damals die sowjetische Hauptstadt.,Moscow was the Soviet capital at the time.
+4781,sächsisch,adj,B2+,12.8137,0.7209,0,Saxon,Der sächsische Dialekt klingt sehr freundlich.,The Saxon dialect sounds very friendly.
+4883,östlich,adj,B2+,12.3209,0.8678,0,"eastern, east",Der See liegt östlich von der Stadt.,The lake is located east of the city.
+4906,afghanisch,adj,B2+,12.2223,0.7194,0,Afghan,Das afghanische Volk muss viel Leid ertragen.,The Afghan people have to endure much suffering.
+4965,norwegisch,adj,B2+,11.9759,0.7859,0,Norwegian,Über fünf Millionen Menschen sprechen die norwegische Sprache.,Over five million people speak the Norwegian language.
+4970,Zürcher,adj,B2+,11.9759,0.5753,0,Zurich,Ich esse gern Zürcher Gerichte.,I like Zurich dishes.

@@ -1,0 +1,4 @@
+rank,word,pos,level,freq_per_million,dispersion,has_conjugation,definition,example_de,example_en
+1424,froh,adj,A2,62.2451,0.9001,0,"happy, glad","Ich bin froh, wenn die Prüfungen vorbei sind.",I’ll be glad when the exams are over.
+1752,traurig,adj,A2,48.6922,0.9029,0,sad,"Lucy ist traurig, weil ihr Hund gestorben ist.",Lucy is sad because her dog died.
+2793,nervös,adj,A2,27.3031,0.8916,0,nervous,"Immer wenn ich Christoph sehe, werde ich nervös.","Whenever I see Christoph, I get nervous."

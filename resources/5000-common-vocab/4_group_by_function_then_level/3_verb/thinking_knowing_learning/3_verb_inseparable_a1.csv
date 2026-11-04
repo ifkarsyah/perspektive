@@ -1,0 +1,9 @@
+rank,word,pos,level,freq_per_million,dispersion,has_conjugation,is_separable,definition,example_de,example_en
+78,"wissen, weiß, wusste, hat gewusst",verb,A1,1358.5013,0.9167,1,0,to know,Max weiß viel und ist gut in der Schule.,Max knows a lot and is good at school.
+156,"glauben, glaubt, glaubte, hat geglaubt",verb,A1,555.9186,0.9119,1,0,to believe,Sie glaubt ihm nicht.,She doesn’t believe him.
+211,"verstehen, versteht, verstand, hat verstanden",verb,A1,402.1046,0.9422,1,0,to understand,"Rede bitte etwas lauter, ich kann dich nicht verstehen.","Please speak a little louder, I can’t understand you."
+213,"meinen, meint, meinte, hat gemeint",verb,A1,401.2667,0.9197,1,0,"to think, have an opinion",Was meinen Sie dazu?,What do you think?
+216,"kennen, kennt, kannte, hat gekannt",verb,A1,399.8375,0.9294,1,0,to know,Wir kennen uns schon lange.,We’ve known each other for a long time.
+288,"lernen, lernt, lernte, hat gelernt",verb,A1,301.8618,0.9083,1,0,to learn,Wir lernen Deutsch.,We’re learning German.
+389,"erwarten, erwartet, erwartete, hat erwartet",verb,A1,214.7778,0.9479,1,0,to expect,Er erwartet eine Nachricht von seiner Schwester.,He’s expecting a message from his sister.
+600,"studieren, studiert, studierte, hat studiert",verb,A1,144.4994,0.8236,1,0,to study,Sie studieren gemeinsam an der Universität.,They study together at the university.

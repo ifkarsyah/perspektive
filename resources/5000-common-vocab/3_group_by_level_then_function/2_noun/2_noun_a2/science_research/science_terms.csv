@@ -1,0 +1,9 @@
+rank,word,pos,level,freq_per_million,dispersion,has_conjugation,definition,example_de,example_en
+486,"die Chemie, -n",die,A2,170.9647,0.6243,0,chemistry,"Er studiert Chemie, weil er gern Experimente durchführt.",He is studying chemistry because he likes to carry out experiments.
+592,"die Zelle, -n",die,A2,145.8793,0.6873,0,cell,Menschen und Tiere bestehen aus Zellen.,Humans and animals consist of cells.
+651,"das Molekül, -e",das,A2,134.002,0.6764,0,molecule,Ein Molekül besteht aus Atomen.,A molecule consists of atoms.
+699,"das Element, -e",das,A2,126.8066,0.7475,0,element,Kohlenstoffdioxid ist ein chemisches Element.,Carbon dioxide is a chemical element.
+812,"das Elektron, -en",das,A2,106.3539,0.6544,0,electron,In Chemie sprechen wir viel über Elektronen.,In chemistry we talk a lot about electrons.
+900,"das Atom, -e",das,A2,96.6943,0.6408,0,atom,Atome bestehen aus kleinen Teilchen.,Atoms consist of small particles.
+984,"das Protein, -e",das,A2,88.119,0.4576,0,protein,Fleisch und Fisch sind eine wesentliche Quelle für Protein.,Meat and fish are an essential source of protein.
+2359,"der Motor, -en",der,A2,33.71,0.8977,0,"motor, engine",Der Motor von Christinas Auto macht komische Geräusche.,The engine of Christina’s car makes strange noises.

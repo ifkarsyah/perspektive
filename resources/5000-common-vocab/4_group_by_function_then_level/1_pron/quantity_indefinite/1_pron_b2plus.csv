@@ -1,0 +1,5 @@
+rank,word,pos,level,freq_per_million,dispersion,has_conjugation,definition,example_de,example_en
+3004,keinerlei,pron,B2+,24.7403,0.9357,0,no . . . at all,Die Maschine weist keinerlei Mängel auf.,The machine has no defects at all.
+3064,etliche,pron,B2+,23.9518,0.9021,0,quite a few,Während ihrer Reise lernen sie etliche neue Orte kennen.,During their journey they get to know quite a few new places.
+3652,"jegliche (r, s)",pron,B2+,18.777,0.9133,0,any,Jeglicher Kontakt mit den Bakterien macht dich krank.,Any contact with the bacteria will make you sick.
+4941,irgendjemand,pron,B2+,12.0745,0.8641,0,"someone, anyone","Ich hoffe, dass mir irgendjemand aus meiner Familie helfen kann.",I’m hoping someone in my family can help me.

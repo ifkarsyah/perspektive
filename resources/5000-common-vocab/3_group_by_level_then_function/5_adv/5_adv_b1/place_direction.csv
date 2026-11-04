@@ -1,0 +1,10 @@
+rank,word,pos,level,freq_per_million,dispersion,has_conjugation,definition,example_de,example_en
+968,unterwegs,adv,B1,89.7454,0.9045,0,on the way,Er ist gerade nach London unterwegs.,He’s on his way to London right now.
+1008,hinaus,adv,B1,86.3941,0.9271,0,"out, beyond",Vom Wohnzimmer hat man einen schönen Blick hinaus auf den Garten.,From the living room you have a beautiful view out onto the garden.
+1412,mitten,adv,B1,62.9844,0.9111,0,in the middle,Wegen meines Babys muss ich immer mitten in der Nacht aufstehen.,I always have to get up in the middle of the night because of my baby.
+1520,dahin,adv,B1,57.5632,0.9375,0,there,"Ich möchte nach Rom, aber der Weg dahin ist weit.","I want to go to Rome, but it’s a long way there."
+2165,innen,adv,B1,37.7512,0.8845,0,inside,Durch die Sonne ist das Auto innen sehr warm.,Due to the sun the car is very warm inside.
+2367,ebenda,adv,B1,33.5621,0.3705,0,"ibidem, at the same place",Johann Sebastian Bach ist in Leipzig berühmt geworden und ebenda gestorben.,Johann Sebastian Bach became famous in Leipzig and died at the same place.
+2599,dorthin,adv,B1,29.9644,0.9036,0,there,"Wow, Australien, dorthin möchte ich auch reisen!","Wow, Australia, I want to travel there too!"
+2725,hierher,adv,B1,28.1902,0.8926,0,here,"Meine Schwester kommt hierher nach Leipzig, um mich zu besuchen.",My sister is coming here to Leipzig to visit me.
+3806,nirgendwo,adv,B1,17.7914,0.8964,0,nowhere,Ich kann meinen Schlüssel nirgendwo finden.,I can’t find my key anywhere.

@@ -1,0 +1,5 @@
+rank,word,pos,level,freq_per_million,dispersion,has_conjugation,definition,example_de,example_en
+772,"das Hotel, -s",das,A1,110.6909,0.84,0,hotel,Das Hotel Adlon ist ein bekanntes Hotel in Berlin.,Hotel Adlon is a well-known hotel in Berlin.
+2549,"der Pass, -̈e",der,A1,30.7529,0.877,0,"pass, passport",Menschen mit einem deutschen Pass können problemlos viele Länder bereisen.,People with a German passport can easily travel to many countries without any problems.
+4670,"die Rezeption, -en",die,A1,13.2573,0.678,0,reception,Wir holen uns die Schlüssel für das Zimmer an der Rezeption im Hotel ab.,We pick up the keys for the room at the hotel reception.
+4769,"das Ticket, -s",das,A1,12.863,0.8467,0,ticket,"Bevor das Stück startet, kaufen wir Tickets an der Kasse im Theater.","Before the play starts, we buy tickets at the box office in the theater."

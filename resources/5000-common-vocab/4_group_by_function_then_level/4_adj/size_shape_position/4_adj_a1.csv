@@ -1,0 +1,9 @@
+rank,word,pos,level,freq_per_million,dispersion,has_conjugation,definition,example_de,example_en
+67,groß,adj,A1,1636.9534,0.9679,0,"big, large, great",Florian hat eine große Wohnung.,Florian has a big apartment.
+97,lang,adj,A1,929.9315,0.9532,0,long,Mit ihren langen Beinen rennt sie schneller als Max.,With her long legs she runs faster than Max.
+110,klein,adj,A1,823.2326,0.9559,0,"small, little",Martin hat eine kleine Schwester.,Martin has a little sister.
+118,hoch,adj,A1,763.0574,0.9559,0,"high, tall",Diese Berge sind sehr hoch.,These mountains are very high.
+159,gerade,adj,A1,547.5404,0.9485,0,straight,Ich überhole nur auf einer geraden Strecke.,I only pass other cars on a straight stretch.
+176,kurz,adj,A1,498.2075,0.9597,0,short,"Der Film dauert nur eine Stunde, er ist sehr kurz.",The film lasts only one hour; it is very short.
+230,weit,adj,A1,379.2863,0.9568,0,"widely, far",Ich möchte später weit weg ziehen.,Someday I want to move somewhere far away.
+847,breit,adj,A1,101.8691,0.9477,0,"wide, broad",Ihr Bruder hat breite Schultern.,Her brother has broad shoulders.

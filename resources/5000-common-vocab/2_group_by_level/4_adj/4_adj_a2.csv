@@ -1,0 +1,126 @@
+rank,word,pos,level,freq_per_million,dispersion,has_conjugation,definition,example_de,example_en
+69,ganz,adj,A2,1575.4476,0.931,0,"whole, all the",Das ganze Zimmer ist leer.,The whole room is empty.
+137,natürlich,adj,A2,637.8771,0.9209,0,natural,Ich beobachte wilde Tiere in ihrer natürlichen Umgebung.,I observe wild animals in their natural environment.
+151,eigentlich,adj,A2,569.8165,0.8766,0,"actual, real","Steffen ist der eigentliche Chef der Firma, aber er ist selten da.","Steffen is the real boss of the company, but he’s rarely there."
+166,eigen,adj,A2,528.2212,0.9526,0,own,Jeder Mensch hat ihren eigenen Charakter.,Everyone has their own character.
+167,genau,adj,A2,519.7937,0.9578,0,exact,Die genaue Zeit ist 10:43 Uhr.,The exact time is 10:43.
+178,stark,adj,A2,487.858,0.9498,0,strong,Herr Müller nimmt starke Schmerztabletten.,Mr. Müller takes strong pain killers.
+189,wirklich,adj,A2,454.9858,0.9181,0,"real, actual",Sein Besuch ist eine wirkliche Überraschung.,His visit is a real surprise.
+237,"nächste (r, s)",adj,A2,365.1419,0.9526,0,next,Nächste Woche gehen wir schwimmen.,Next week we’re going swimming.
+254,verschieden,adj,A2,344.7385,0.9176,0,"different, diverse",Alle Menschen sind verschieden.,All people are different.
+265,sicher,adj,A2,328.6721,0.9411,0,"safe, secure, certain",Sie machen das Haus sicher.,They make the house safe.
+296,rund,adj,A2,286.7318,0.8814,0,round,Ein Fußball ist rund.,A soccer ball is round.
+302,deutlich,adj,A2,279.9306,0.9286,0,clear,"Ich kann dich nicht verstehen, bitte sprich deutlich.","I can’t understand you, please speak clearly."
+353,direkt,adj,A2,238.5817,0.9625,0,"direct, straight","Weil es keine direkte Verbindung gibt, muss ich nachher in einen anderen Zug steigen.","Because there’s no direct connection, I’ll have to get on another train later."
+355,offen,adj,A2,237.596,0.9027,0,open,Die Tür ist offen.,The door ist open.
+366,früh,adj,A2,228.6264,0.9496,0,early,Ich muss früh aufstehen.,I have to get up early.
+388,voll,adj,A2,215.2213,0.9425,0,full,Sprich nicht mit vollem Mund!,Don’t talk with your mouth full!
+442,tief,adj,A2,186.2919,0.9289,0,deep,"Der See ist sehr tief, ich kann den Boden nicht sehen.",The lake is very deep; I can’t see the bottom.
+472,weiß,adj,A2,175.6466,0.9099,0,white,Der Sand ist so weiß wie Schnee.,The sand is as white as snow.
+474,schwarz,adj,A2,174.9566,0.9179,0,black,Das Gegenteil von weiß ist schwarz.,The opposite of white is black.
+477,rot,adj,A2,173.9217,0.9319,0,red,Blut ist rot.,Blood is red.
+480,"nahe, nah",adj,A2,173.5274,0.9592,0,"near(by), close",Der Weg führt zu dem nahen Wald.,The path leads to the nearby forest.
+493,wahrscheinlich,adj,A2,169.0919,0.9188,0,"likely, probable","Das ist möglich, aber nicht sehr wahrscheinlich.","It’s possible, but not very likely."
+512,"besondere (r, s)",adj,A2,165.3956,0.9305,0,special,"Sie haben ein besonderes Haus, das Energie spart.",They have a special house that saves energy.
+552,gewiss,adj,A2,155.6375,0.9405,0,certain,Hast du nicht eine gewisse Sache vergessen?,Haven’t you forgotten a certain thing?
+567,fest,adj,A2,151.8426,0.9311,0,"firm, solid",Das Haus steht auf festem Boden.,The house is on solid ground.
+568,aktuell,adj,A2,151.7934,0.9096,0,current,Sie informieren sich über die aktuellen Entwicklungen.,They are informing themselves about current developments.
+580,schwierig,adj,A2,148.5406,0.9264,0,"difficult, hard, tough","Es ist schwierig, ein guter Vater zu sein.",It is difficult to be a good father.
+593,eng,adj,A2,145.6329,0.9476,0,"narrow, close",Stefan fährt durch eine enge Straße.,Stefan is driving through a narrow street.
+629,okay,adj,A2,137.3533,0.7821,0,okay,"Ist es okay, wenn wir “du” sagen?",Is it okay if we say “you”?
+661,wesentlich,adj,A2,132.5728,0.9162,0,"essential, fundamental",Das Medikament wird wesentlichen Einfluss auf die Gesundheit des Patienten haben.,The medication will have a significant impact on the patient’s health.
+662,englisch,adj,A2,132.5235,0.8208,0,English,Frank macht sich ein englisches Frühstück.,Frank’s making himself an English breakfast.
+664,rein,adj,A2,132.1292,0.9487,0,"pure, clear, clean",Sie haben Ringe aus reinem Gold.,They have rings of pure gold.
+671,"innere (r, s)",adj,A2,131.5378,0.9062,0,internal,Seine inneren Organe sind nicht verletzt.,His internal organs aren’t injured.
+682,grün,adj,A2,129.4186,0.9209,0,green,Die Bäume sind grün.,The trees are green.
+685,echt,adj,A2,129.0736,0.906,0,"genuine, real",Ist das dein echtes Haar oder ist es künstlich?,Is that your real hair or is it synthetic?
+706,dunkel,adj,A2,125.4267,0.8933,0,dark,"In der Nacht ist es dunkel, am Morgen ist es hell.",It’s dark at night and light in the morning.
+728,hart,adj,A2,120.5969,0.9416,0,hard,Er wirft mir einen harten Stein an den Kopf.,He’s throwing a hard rock at my head.
+737,wahr,adj,A2,118.2313,0.9339,0,true,"Die Aussage ist wahr, wenn man sie beweisen kann.",The statement is true if you can prove it.
+742,notwendig,adj,A2,117.1963,0.9184,0,necessary,Geld ist notwendig für ein angenehmes Leben.,Money is necessary for a comfortable life.
+745,wirtschaftlich,adj,A2,116.6049,0.8788,0,"economic, financial","Aus wirtschaftlichen Gründen ist es besser, Strom durch Wind zu erzeugen.",For economic reasons it is better to generate electricity from wind.
+746,privat,adj,A2,116.5556,0.8967,0,private,Das ist eine private Angelegenheit.,This is a private matter.
+747,modern,adj,A2,116.4571,0.9136,0,modern,Die Touristen gehen gerne in das Museum für moderne Kunst.,The tourists like to go to the Museum of Modern Art.
+751,unabhängig,adj,A2,115.6685,0.8804,0,independent,Serbien ist seit 2008 ein unabhängiger Staat.,Serbia has been an independent state since 2008.
+761,chemisch,adj,A2,113.9929,0.7315,0,chemical,Hinter der Entwicklung von Fotos steckt ein chemischer Prozess.,The development of photos is a chemical process.
+762,schlimm,adj,A2,113.2536,0.9175,0,"bad, serious","Es ist schlimm für die Familie, dass der Vater tot ist.",It’s bad for the family that the father is dead.
+786,"rechte (r, s)",adj,A2,109.2617,0.9205,0,right,In Deutschland muss man auf der rechten Seite der Straße fahren.,In Germany you have to drive on the right side of the road.
+790,aktiv,adj,A2,108.7195,0.8824,0,active,Alte Menschen sollten aktiv bleiben.,Old people should stay active.
+810,interessant,adj,A2,106.4525,0.9041,0,interesting,Sie arbeiten an einem interessanten Projekt.,They’re working on an interesting project.
+816,französisch,adj,A2,105.7625,0.9202,0,French,Sie mögen französische Filme.,They like French movies.
+830,konkret,adj,A2,103.4955,0.9107,0,concrete,Wir haben keine konkreten Pläne für das Wochenende.,We don’t have concrete plans for the weekend.
+831,russisch,adj,A2,103.3969,0.8686,0,Russian,Anna liest gern russische Literatur.,Anna likes to read Russian literature.
+836,amerikanisch,adj,A2,102.7069,0.8925,0,American,Sie lebt den amerikanischen Traum.,She is living the American dream.
+840,praktisch,adj,A2,102.3127,0.92,0,practical,Mein neues Handy ist kleiner und praktischer.,My new phone is smaller and more practical.
+871,"linke (r, s)",adj,A2,99.6514,0.8941,0,left,Auf der rechten Seite steht die Kirche und auf der linken ist die Universität.,On the right is the church and on the left is the university.
+874,leer,adj,A2,99.3064,0.9007,0,empty,Die Flasche ist leer.,The bottle is empty.
+882,klassisch,adj,A2,98.8135,0.8809,0,classical,Sie hören klassische Musik.,They listen to classical music.
+883,ehemalig,adj,A2,98.715,0.9029,0,former,Er mag den ehemaligen Präsidenten mehr als den jetzigen.,He likes the former president more than the current president.
+887,kalt,adj,A2,98.2221,0.9127,0,cold,Meine Hände sind kalt.,My hands are cold.
+890,künftig,adj,A2,98.025,0.8791,0,future,Mein künftiger Job sollte interessant sein.,My future job should be interesting.
+905,entscheidend,adj,A2,96.4479,0.9324,0,decisive,Die Diskussion wird einen entscheidenden Einfluss auf die Wahlen haben.,The discussion will have a decisive influence on the elections.
+909,wissenschaftlich,adj,A2,96.3001,0.7604,0,"scientific, scholarly",Es gibt eine neue wissenschaftliche Studie zu diesem Thema.,There is a new scientific study about this topic.
+916,bewusst,adj,A2,95.413,0.9257,0,conscious,"Das ist keine spontane Idee, sondern eine bewusste Entscheidung.","This is not a spontaneous idea, but a conscious decision."
+920,medizinisch,adj,A2,94.8216,0.4206,0,medical,Aus medizinischer Sicht ist eine große Operation im hohen Alter nicht sinnvoll.,"From a medical point of view, a major surgery in old age is not advisable."
+948,blau,adj,A2,92.0124,0.9181,0,blue,Die Kinder malen einen blauen Himmel und ein blaues Meer.,The children paint a blue sky and a blue sea.
+958,komplex,adj,A2,90.6325,0.798,0,complex,"Das ist eine komplexe Aufgabe, für die ich viel Zeit brauche.",It’s a complex task I’m going to need a lot of time for.
+972,toll,adj,A2,89.2525,0.8712,0,"great, terrific",Wir hatten eine tolle Reise nach Prag.,We had a great trip to Prague.
+978,schwach,adj,A2,88.809,0.9109,0,weak,Andreas ist krank und fühlt sich sehr schwach.,Andreas is ill and feels very weak.
+986,grundsätzlich,adj,A2,88.0204,0.9164,0,fundamental,Lisa isst grundsätzlich kein Fleisch.,Lisa fundamentally does not eat meat.
+1021,total,adj,A2,85.0634,0.8707,0,"total, complete",Das Projekt war eine totale Katastrophe.,The project was a total disaster.
+1074,dick,adj,A2,81.17,0.9098,0,"thick, fat",Mein dicker Hund muss abnehmen.,My fat dog needs to lose weight.
+1109,typisch,adj,A2,78.558,0.9334,0,typical,Mit ihrer Tasche und ihrem Laptop sieht sie aus wie eine typische Studentin.,"With her bag and laptop, she looks like a typical student."
+1195,heiß,adj,A2,72.989,0.9207,0,hot,"Sei vorsichtig, der Tee ist heiß.","Be careful, the tea is hot."
+1211,gefährlich,adj,A2,72.299,0.935,0,dangerous,Das Schiff transportiert gefährliche Substanzen.,The ship transports dangerous substances.
+1260,frisch,adj,A2,70.0319,0.9162,0,fresh,Wir benutzten nur frische Lebensmittel.,We only use fresh food.
+1275,gesund,adj,A2,69.2927,0.8702,0,healthy,Ihr Baby ist gesund.,Her baby is healthy.
+1281,warm,adj,A2,68.9477,0.9057,0,warm,Draußen ist es warm.,It’s warm outside.
+1375,streng,adj,A2,64.4629,0.951,0,strict,In der Schule haben wir eine strenge Lehrerin.,At school we have a strict teacher.
+1379,berühmt,adj,A2,64.315,0.9161,0,famous,Bald ist Christoph ein berühmter Schauspieler.,Soon Christoph will be a famous actor.
+1424,froh,adj,A2,62.2451,0.9001,0,"happy, glad","Ich bin froh, wenn die Prüfungen vorbei sind.",I’ll be glad when the exams are over.
+1442,scharf,adj,A2,61.5552,0.9281,0,sharp,"Sei vorsichtig, das Messer ist sehr scharf.","Be careful, the knife is very sharp."
+1565,nett,adj,A2,55.789,0.8823,0,nice,Bernadette ist eine wirklich nette Person.,Bernadette is a really nice person.
+1566,freundlich,adj,A2,55.7397,0.9086,0,"kind, nice, friendly","Herr Schulz, unser neuer Lehrer, ist sehr freundlich.","Mr. Schulz, our new teacher, is very kind."
+1568,reich,adj,A2,55.5426,0.931,0,"rich, abundant",Reiche Menschen sind nicht unbedingt immer glücklich.,Rich people aren’t necessarily always happy.
+1641,vorsichtig,adj,A2,52.5363,0.9114,0,"cautious, careful",Sei vorsichtig mit dem teuren Glas!,Be careful with the expensive glass!
+1652,freiwillig,adj,A2,52.0434,0.9411,0,voluntary,Nach dem Abschluss der Schule arbeiten viele Schüler freiwillig in sozialen Institutionen.,"After leaving school, many students work voluntarily in social institutions."
+1739,dünn,adj,A2,48.9386,0.8902,0,thin,Auf dem See ist eine dünne Schicht Eis.,There’s a thin layer of ice on the lake.
+1752,traurig,adj,A2,48.6922,0.9029,0,sad,"Lucy ist traurig, weil ihr Hund gestorben ist.",Lucy is sad because her dog died.
+1766,dringend,adj,A2,48.1008,0.9304,0,urgent,Der Patient benötigt dringend Ruhe.,The patient urgently needs rest.
+1772,super,adj,A2,47.9529,0.8557,0,"super, great",Die Party war super und ich habe mich gut unterhalten.,"The party was great, and I had a good time."
+1810,spannend,adj,A2,46.8194,0.905,0,"exciting, thrilling",Die Handlung des Romans ist voller spannender Situationen.,The plot of the novel is full of exciting situations.
+1817,bunt,adj,A2,46.573,0.9021,0,colorful,Es gibt viele bunte Gemälde in der Ausstellung.,There are many colorful paintings at the exhibition.
+1873,beliebt,adj,A2,44.7495,0.8756,0,popular,Der Professor ist bei seinen Studenten sehr beliebt.,The professor is very popular among his students.
+1875,komisch,adj,A2,44.7002,0.8706,0,funny,Alle lachen über Dominiks komische Geschichten.,Everyone laughs at Dominik’s funny stories.
+2004,blöd,adj,A2,41.2996,0.8407,0,"stupid, dumb",Es gibt keine blöden Fragen.,There are no stupid questions.
+2026,sauber,adj,A2,40.7575,0.9216,0,clean,"Das Haus ist bei mir immer sauber, wenn Besuch kommt.",My house is always clean when I’m getting company.
+2200,schrecklich,adj,A2,37.012,0.8974,0,terrible,"Emilia kann nicht mehr schlafen, weil sie einen schrecklichen Traum hatte.",Emilia can’t sleep anymore because she had a terrible dream.
+2201,weich,adj,A2,37.012,0.8983,0,soft,Ein zu weiches Bett ist nicht gut für den Rücken.,A bed that is too soft is not good for the back.
+2270,dumm,adj,A2,35.5827,0.8851,0,stupid,Es gibt keine dummen Fragen.,There are no stupid questions.
+2299,sportlich,adj,A2,34.9913,0.8235,0,athletic,Er präsentiert seinen sportlichen Körper am Strand.,He presents his athletic body on the beach.
+2309,schriftlich,adj,A2,34.7942,0.8331,0,written,"Seine Eltern müssen eine schriftliche Erklärung schicken, damit er teilnehmen darf.",His parents have to send a written declaration so that he can participate.
+2363,trocken,adj,A2,33.6114,0.9077,0,dry,Im Winter ist meine Haut sehr trocken von der kalten Luft.,In winter my skin is very dry from the cold air.
+2441,sauer,adj,A2,32.33,0.8254,0,"sour, angry","Er ist sauer, weil sie nicht anruft.",He’s angry because she’s not calling.
+2532,klug,adj,A2,30.9994,0.9128,0,clever,Mia ist ein kluges Kind.,Mia’s a clever kid.
+2588,"der Hamburger, -",adj,A2,30.1123,0.837,0,Hamburg,Der Hamburger Hafen ist der größte Hafen Deutschlands.,The port of Hamburg is the largest port in Germany.
+2730,kühl,adj,A2,28.1409,0.888,0,cool,Der Wein muss an einem kühlen und trockenen Platz liegen.,The wine must lie in a cool and dry place.
+2793,nervös,adj,A2,27.3031,0.8916,0,nervous,"Immer wenn ich Christoph sehe, werde ich nervös.","Whenever I see Christoph, I get nervous."
+2796,süß,adj,A2,27.3031,0.8843,0,sweet,"Ich gebe viel Zucker in den Tee, damit er süß ist.",I put a lot of sugar in the tea so it’s sweet.
+3019,langweilig,adj,A2,24.5925,0.8976,0,boring,Mathe ist für viele Schüler ein langweiliges Fach.,Math is a boring subject for many students.
+3031,einig,adj,A2,24.4939,0.8965,0,agreed,"Mein Mann und ich sind uns einig, das Haus zu verkaufen.",My husband and I have agreed to sell the house.
+3093,schwanger,adj,A2,23.7547,0.8784,0,pregnant,Lena ist schwanger mit ihrem dritten Kind.,Lena is pregnant with her third child.
+3116,nass,adj,A2,23.4097,0.8584,0,wet,Meine Haare sind nass vom Regen.,My hair is wet from the rain.
+3121,intelligent,adj,A2,23.3604,0.869,0,intelligent,Meine Schwester ist sehr intelligent.,My sister is very intelligent.
+3153,wach,adj,A2,23.0154,0.8755,0,awake,"Es ist schon nach Mitternacht, aber ich bin immer noch wach.","It’s already past midnight, but I’m still awake."
+3174,furchtbar,adj,A2,22.7197,0.894,0,terrible,Für Menschen und Tiere ist der Sturm eine furchtbare Katastrophe.,"For humans and animals, the storm is a terrible catastrophe."
+3306,fett,adj,A2,21.3891,0.8631,0,"fat, greasy, rich",Dein Hund ist ganz schön fett. Bewegt er sich nicht genug?,Your dog is quite fat. Doesn’t it move enough?
+3369,bequem,adj,A2,20.8962,0.9016,0,comfortable,Unser neues Bett ist sehr bequem.,Our new bed is very comfortable.
+3381,nützlich,adj,A2,20.8469,0.9189,0,useful,"Ein Laptop ist sehr nützlich, wenn ich unterwegs im Zug arbeite.",A laptop is very useful when I’m working on the train.
+3462,kostenlos,adj,A2,20.2063,0.8804,0,free (of charge),Das Hotel bietet kostenloses Internet.,The hotel offers free internet.
+3492,blond,adj,A2,19.9598,0.8651,0,blond,"Seine Haare sind nicht braun, sondern blond.","His hair isn’t brown, it’s blond."
+3542,hässlich,adj,A2,19.5656,0.8927,0,ugly,"Ihre Schwester mag das Kleid, aber Anna findet es hässlich.","Her sister likes the dress, but Anna thinks it’s ugly."
+3854,sympathisch,adj,A2,17.4957,0.8241,0,sympathetic,"Unser neuer Chef ist ein sympathischer Mensch, mit dem man bestimmt gut zusammen arbeiten kann.",Our new boss is a sympathetic person with whom you can certainly work well together.
+3869,schmutzig,adj,A2,17.4464,0.8826,0,dirty,Bitte wasche deine schmutzigen Hände.,"Please, wash your dirty hands."
+3894,romantisch,adj,A2,17.2492,0.8425,0,romantic,"Stefan kauft Blumen und Kerzen, um für seine Frau einen romantischen Abend vorzubereiten.",Stefan buys flowers and candles to prepare a romantic evening for his wife.
+4500,witzig,adj,A2,14.0951,0.8686,0,funny,"Ich muss immer lachen, wenn ich mich mit Karla treffe, sie ist sehr witzig.",I always have to laugh when I meet Karla; she’s very funny.
+4856,faul,adj,A2,12.4195,0.8882,0,lazy,Heute mache ich nichts und liege nur faul im Bett.,Today I don’t do anything and I’m just lying lazily in bed.

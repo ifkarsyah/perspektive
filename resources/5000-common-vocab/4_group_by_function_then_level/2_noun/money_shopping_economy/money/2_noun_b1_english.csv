@@ -1,0 +1,3 @@
+rank,word,pos,level,freq_per_million,dispersion,has_conjugation,definition,example_de,example_en
+1539,"die Mark, -",die,B1,56.9225,0.7112,0,Deutschmark,"Früher haben die Deutschen mit Mark bezahlt, jetzt bezahlen sie mit Euro.","In the past, Germans used to pay in Deutschmarks, but now they pay in euros."
+1563,"Franken, Fr.",der,B1,55.8876,0.6287,0,(Swiss) franc,In der Schweiz zahlt man mit Schweizer Franken.,In Switzerland you pay in Swiss francs.

@@ -1,0 +1,4 @@
+rank,word,pos,level,freq_per_million,dispersion,has_conjugation,definition,example_de,example_en
+1107,hundert,num,A1,78.6566,0.9293,0,hundred,Sie zählt leise bis hundert.,She counts quietly to a hundred.
+1177,tausend,num,A1,74.0239,0.9262,0,thousand,Tausend Menschen nehmen an den Demonstrationen teil.,A thousand people take part in the demonstrations.
+1359,zwanzig,num,A1,65.3007,0.8856,0,twenty,Morgen wird Julia zwanzig.,Tomorrow Julia will be twenty.

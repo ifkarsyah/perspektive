@@ -1,0 +1,17 @@
+rank,word,pos,level,freq_per_million,dispersion,has_conjugation,definition,example_de,example_en
+11,nicht,part,A1,9291.4296,0.9562,0,not,Im Restaurant darf man nicht rauchen.,You can’t smoke in the restaurant.
+21,zu,part,A1,5513.0,0.9802,0,to,"Ich versuche, dich zu verstehen.",I’m trying to understand you.
+45,ja,part,A1,2526.5217,0.8165,0,"yes, of course","Ja, ich verstehe das.","Yes, I understand that."
+148,"nein, nee, nö",part,A1,586.0308,0.8179,0,no,"Nein, ich habe das nicht verstanden.","No, I didn’t understand that."
+371,na,part,A1,224.0431,0.815,0,well,"Na, was soll ich dazu sagen?","Well, what shall I say to this?"
+397,oh,part,A1,206.8431,0.7115,0,"oh, aw","Oh, du machst einen Fehler.","Oh, you’re making a mistake."
+425,nämlich,part,B1,195.3107,0.9413,0,"you see, namely",Ich habe nämlich doch Recht!,"You see, I’m right after all!"
+478,halt,part,A2,173.8724,0.715,0,"just, simply",Damit musst du halt umgehen können.,You just have to be able to handle it.
+587,ach,part,A2,147.0129,0.813,0,oh,"Ach, das ist ja lieb von dir!","Oh, that is so sweet of you!"
+616,am,part,A2,141.2467,0.9569,0,the (+superlative),Von allen Schülern läuft Niklas am schnellsten.,"Of all the students, Niklas runs fastest."
+1077,hallo,part,A1,80.9729,0.7256,0,hello,"Hallo, ich bin Jana.","Hello, I’m Jana."
+1142,hey,part,B1,76.0,0.6283,0,hey,"Hey du, komm mal her!","Hey you, come here!"
+1242,äh,part,B1,70.8698,0.7397,0,um,"Äh, ich bin mir nicht sicher.","Um, I’m not sure."
+1487,naja,part,B1,58.9431,0.6187,0,(oh) well,"Naja, es könnte schlimmer sein.","Well, it could be worse."
+1796,ah,part,B1,47.2629,0.7634,0,ah,"Ah, Alissa, wie schön dich zu sehen!","Ah, Alissa, how nice to see you!"
+1924,aha,part,B1,43.3695,0.6993,0,"aha, I see","Aha, deswegen kommst du also zu spät.","Aha, that’s why you’re too late."

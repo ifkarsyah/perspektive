@@ -1,0 +1,8 @@
+rank,word,pos,level,freq_per_million,dispersion,has_conjugation,definition,example_de,example_en
+404,Eltern,die (pl),A1,204.0832,0.9126,0,parents,Die Eltern lieben ihre Tochter.,Parents love their daughter.
+2175,"die Oma, -s",die,A1,37.6034,0.7887,0,grandma,Meine Oma erzählt mir oft Geschichten vom Krieg.,My grandma often tells me stories about the war.
+2776,"der Opa, -s",der,A1,27.5002,0.5772,0,grandpa,"Weil mein Sohn ein Kind bekommt, werde ich bald Opa.","Because my son is having a child, I’m soon to become a grandfather."
+2849,die Verwandte,"der, die",A1,26.6624,0.9051,0,relative,Zur Hochzeit sind alle Verwandten eingeladen.,All relatives are invited to the wedding.
+3929,Geschwister,die (pl),A1,16.9535,0.8772,0,siblings,"Irina hat fünf Geschwister, drei Schwestern und zwei Brüder.","Irina has five siblings, three sisters and two brothers."
+4734,"die Ehefrau, -en",die,A1,12.9616,0.8941,0,wife,Nach der Hochzeit ist Karla endlich meine Ehefrau.,"After the wedding, Karla is finally my wife."
+4762,"der Ehemann, -̈er",der,A1,12.863,0.9025,0,husband,Robert ist mir ein guter Ehemann.,Robert is a good husband to me.

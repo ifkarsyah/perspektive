@@ -1,0 +1,4 @@
+rank,word,pos,level,freq_per_million,dispersion,has_conjugation,is_separable,definition,example_de,example_en
+464,"befinden (sich), befindet, befand, hat befunden",verb,B1,178.0615,0.9472,1,0,to be,Das Restaurant befindet sich in der Nähe des Bahnhofs.,The restaurant is near the railway station.
+688,"stecken, steckt, steckte, hat gesteckt",verb,B1,128.9258,0.9228,1,0,"to put, be located",Du musst den Schlüssel in das Schloss stecken.,You have to put the key in the lock.
+1470,"besetzen, besetzt, besetzte, hat besetzt",verb,B1,59.9288,0.8759,1,0,"to occupy, fill",In unserem Unternehmen sind noch einige Positionen zu besetzen.,There are still some positions to be filled in our company.

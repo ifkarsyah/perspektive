@@ -1,0 +1,25 @@
+rank,word,pos,level,freq_per_million,dispersion,has_conjugation,definition,example_de,example_en
+280,bestimmt,adj,B1,313.542,0.9292,0,"special, certain","Ich bin mir sicher, das Bild wird bestimmt gut.",I’m sure that picture will certainly be good.
+340,tatsächlich,adj,B1,245.6785,0.9515,0,"real, actual",Ich habe tatsächlich den Job bekommen.,I actually got the job.
+549,sogenannt,adj,B1,156.3275,0.9264,0,so-called,Sie lebt in New York dem sogenannten Big Apple.,"She lives in New York, the so-called “Big Apple”."
+729,offenbar,adj,B1,120.449,0.9126,0,apparent,"Ich warte seit einer Stunde auf Thomas, offenbar kommt er nicht mehr.","I’ve been waiting for Thomas for an hour, apparently he’s not coming."
+1168,eindeutig,adj,B1,74.5167,0.9235,0,clear,Sie haben eine eindeutige Wahl getroffen.,They’ve made a clear choice.
+1248,offensichtlich,adj,B1,70.7712,0.9161,0,obvious,"Es ist offensichtlich, dass Philipp lügt.",It’s obvious Philipp is lying.
+1292,unbekannt,adj,B1,68.4056,0.9077,0,unknown,Die Informationen stammen aus einer unbekannten Quelle.,The information comes from an unknown source.
+1329,selbstverständlich,adj,B1,66.7299,0.9164,0,"natural, self-evident, obvious","Anderen Menschen zu helfen, ist für Pia selbstverständlich.","For Pia, it is natural to help other people."
+1350,real,adj,B1,65.7443,0.768,0,real,Der Hunger auf der Welt ist ein reales Problem.,Hunger in the world is a real problem.
+1525,angeblich,adj,B1,57.4153,0.9126,0,alleged,Angeblich bekommen wir die Noten von der Prüfung nächste Woche.,Allegedly we’ll get the grades from the exam next week.
+1537,sichtbar,adj,B1,56.9718,0.9051,0,visible,Das Haus ist von der Straße aus nicht sichtbar.,The house is not visible from the street.
+1729,zufällig,adj,B1,49.185,0.8653,0,"accidental, by chance",Nora trifft beim Einkaufen zufällig ihren Bruder.,Nora meets her brother by chance while shopping.
+1879,unmöglich,adj,B1,44.6509,0.9346,0,impossible,"Es ist unmöglich, bei der lauten Musik zu schlafen.",It’s impossible to sleep with the loud music.
+1912,korrekt,adj,B1,43.6652,0.8695,0,correct,Die Antwort ist korrekt!,The answer is correct!
+1974,potenziell,adj,B1,42.2853,0.8715,0,potential,Magnus ist ein potenzieller Kandidat für den Job.,Magnus is a potential candidate for the job.
+2013,exakt,adj,B1,40.9546,0.8931,0,exact,Ich möchte kochen und brauche exakt 750 Milliliter Wasser dafür.,I want to cook and I need exactly 750 milliliters of water for it.
+2296,vertraut,adj,B1,35.0899,0.9258,0,"familiar, close",Ich entdecke ein vertrautes Gesicht in der Menge.,I discover a familiar face in the crowd.
+2301,eventuell,adj,B1,34.8928,0.9023,0,possible,"Es gibt verschiedene Pläne, um auf alle eventuellen Probleme reagieren zu können.",There are several plans to respond to all possible problems.
+2414,umstritten,adj,B1,32.8721,0.8548,0,disputed,Die Theorien des Wissenschaftlers sind umstritten.,The scientist’s theories are disputed.
+2910,verständlich,adj,B1,25.9232,0.8933,0,comprehensible,"Der Professor spricht so leise, dass er für seine Studenten nicht verständlich ist.",The professor speaks so quietly that he is not comprehensible to his students.
+3112,geheim,adj,B1,23.459,0.908,0,secret,Die Party findet an einem geheimen Ort statt.,The party is taking place in a secret place.
+3215,heimlich,adj,B1,22.3255,0.891,0,secret,Die Vereinbarung wurde bei einem heimlichen Meeting getroffen.,The agreement was reached at a secret meeting.
+3351,realistisch,adj,B1,21.0441,0.9165,0,realistic,Der Film bietet eine realistische Darstellung der Geschichte.,The film offers a realistic representation of the story.
+4367,voraussichtlich,adj,B1,14.6865,0.8629,0,"probable, presumable",Ich bin voraussichtlich morgen mit meiner Arbeit fertig.,I’ll probably finish my work tomorrow.

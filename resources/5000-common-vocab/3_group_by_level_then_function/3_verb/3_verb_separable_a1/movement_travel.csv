@@ -1,0 +1,5 @@
+rank,word,pos,level,freq_per_million,dispersion,has_conjugation,is_separable,definition,example_de,example_en
+653,"ankommen, kommt an, kam an, ist angekommen",verb,A1,133.4106,0.9327,1,1,to arrive,Wir kommen um zwölf Uhr am Bahnhof an.,We’ll be arriving at the station at twelve o’clock.
+2398,"aussteigen, steigt aus, stieg aus, ist ausgestiegen",verb,A1,33.0693,0.8814,1,1,"to get off, get out",Nach der Fahrt steige ich aus dem Auto aus.,"After the ride, I get out of the car."
+2629,"mitkommen, kommt mit, kam mit, ist mitgekommen",verb,A1,29.6687,0.8147,1,1,to come (with sb),"Martin fragt Tina, ob sie in den Urlaub mitkommen möchte.",Martin asks Tina if she wants to come along on a vacation.
+2835,"einsteigen, steigt ein, stieg ein, ist eingestiegen",verb,A1,26.8103,0.9087,1,1,"to board, get in",Er steigt in das Auto ein und fährt weg.,He gets into the car and drives away.

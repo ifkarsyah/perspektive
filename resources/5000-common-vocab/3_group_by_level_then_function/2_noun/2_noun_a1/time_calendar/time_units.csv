@@ -1,0 +1,11 @@
+rank,word,pos,level,freq_per_million,dispersion,has_conjugation,definition,example_de,example_en
+53,"das Jahr, -e",das,A1,2079.5691,0.9376,0,year,Ein Jahr hat 52 Wochen.,A year has 52 weeks.
+96,"die Zeit, -en",die,A1,967.2884,0.9528,0,time,Jannik braucht viel Zeit für seine Aufgabe.,Jannik needs a lot of time for his task.
+111,"der Tag, -e",der,A1,822.9862,0.942,0,day,Eine Woche hat sieben Tage.,A week has seven days.
+219,"die Woche, -n",die,A1,394.8599,0.9318,0,week,Eine Woche hat sieben Tage.,A week has seven days.
+276,"die Stunde, -n",die,A1,317.3368,0.9304,0,hour,Eine Stunde hat 60 Minuten.,An hour has 60 minutes.
+316,"der Monat, -e",der,A1,266.9198,0.9322,0,month,Das Jahr hat zwölf Monate.,The year has twelve months.
+324,"die Minute, -n",die,A1,257.5559,0.9071,0,minute,Eine Stunde hat 60 Minuten.,An hour has 60 minutes.
+348,"die Uhr, -en",die,A1,240.3559,0.9161,0,"clock, watch, o’clock",Die Uhr zeigt die Zeit.,The clock shows the time.
+358,"der Moment, -e",der,A1,234.6883,0.9194,0,moment,Man muss den Moment genießen können.,You have to be able to enjoy the moment.
+775,der Alter,das,A1,110.5923,0.9348,0,age,"Obwohl sie schon 80 Jahre alt ist, sieht man ihr ihr Alter nicht an.","Although she’s already 80 years old, she doesn’t look her age."

@@ -1,0 +1,3 @@
+rank,word,pos,level,freq_per_million,dispersion,has_conjugation,definition,example_de,example_en
+1760,der Schnee,der,A2,48.3472,0.8504,0,snow,Zu Weihnachten lag leider kein Schnee.,"Unfortunately, there was no snow for Christmas."
+2114,"die Wolke, -n",die,A2,38.7369,0.8457,0,cloud,Die Sonne verschwindet hinter den Wolken.,The sun disappears behind the clouds.

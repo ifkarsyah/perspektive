@@ -1,0 +1,8 @@
+rank,word,pos,level,freq_per_million,dispersion,has_conjugation,definition,example_de,example_en
+237,"nächste (r, s)",adj,A2,365.1419,0.9526,0,next,Nächste Woche gehen wir schwimmen.,Next week we’re going swimming.
+366,früh,adj,A2,228.6264,0.9496,0,early,Ich muss früh aufstehen.,I have to get up early.
+568,aktuell,adj,A2,151.7934,0.9096,0,current,Sie informieren sich über die aktuellen Entwicklungen.,They are informing themselves about current developments.
+747,modern,adj,A2,116.4571,0.9136,0,modern,Die Touristen gehen gerne in das Museum für moderne Kunst.,The tourists like to go to the Museum of Modern Art.
+882,klassisch,adj,A2,98.8135,0.8809,0,classical,Sie hören klassische Musik.,They listen to classical music.
+883,ehemalig,adj,A2,98.715,0.9029,0,former,Er mag den ehemaligen Präsidenten mehr als den jetzigen.,He likes the former president more than the current president.
+890,künftig,adj,A2,98.025,0.8791,0,future,Mein künftiger Job sollte interessant sein.,My future job should be interesting.

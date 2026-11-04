@@ -1,0 +1,22 @@
+rank,word,pos,level,freq_per_million,dispersion,has_conjugation,definition,example_de,example_en
+843,weltweit,adj,B1,102.1648,0.8925,0,worldwide,Die Firma hat weltweite Verbindungen.,The company has worldwide connections.
+891,national,adj,B1,97.7293,0.8939,0,national,Die Armee ist für die nationale Sicherheit verantwortlich.,The army is responsible for national security.
+1154,chinesisch,adj,B1,75.256,0.6791,0,Chinese,Jürgen arbeitet für ein chinesisches Unternehmen.,Jürgen works for a Chinese company.
+1190,berliner,adj,B1,73.1861,0.8821,0,(of) Berlin,Teile der Berliner Mauer stehen heute noch.,Parts of the Berlin Wall still stand today.
+1274,Schweizer,adj,B1,69.342,0.7521,0,Swiss,Das ist die beste Schweizer Uhr.,This is the best Swiss watch.
+1383,bayrisch,adj,B1,64.2165,0.7631,0,Bavarian,Das Restaurant ist typisch bayrisch.,The restaurant is typically Bavarian.
+1419,britisch,adj,B1,62.6887,0.8676,0,British,Ich trinke sehr gerne britischen Tee.,I like to drink British tea.
+1463,global,adj,B1,60.4709,0.8824,0,global,Krieg ist ein globales Problem.,War is a global problem.
+1486,griechisch,adj,B1,58.9924,0.8573,0,Greek,Moussaka ist ein griechisches Gericht.,Moussaka is a Greek dish.
+1511,österreichisch,adj,B1,57.9082,0.7902,0,Austrian,Die österreichische Sprache klingt anders als Deutsch.,The Austrian language sounds different from German.
+1531,türkisch,adj,B1,57.2182,0.8046,0,Turkish,Zeynep ist ein türkischer Name.,Zeynep is a Turkish name.
+1593,italienisch,adj,B1,54.2612,0.8939,0,Italian,Michelangelo war ein italienischer Künstler.,Michelangelo was an Italian artist.
+1876,westlich,adj,B1,44.7002,0.9033,0,"western, west",Westlich von Deutschland liegen die Niederlande.,West of Germany lies the Netherlands.
+1919,spanisch,adj,B1,43.5174,0.8488,0,Spanish,Ich höre gerne spanische Musik.,I like Spanish music.
+2003,Wiener,adj,B1,41.3489,0.7702,0,Viennese,"Es gibt 23 Wiener Bezirke, der erste Bezirk ist die Innenstadt von Wien.","There are 23 Viennese districts, the first district is the city center of Vienna."
+2011,regional,adj,B1,41.0532,0.8698,0,regional,"Ich kaufe nur regionale Produkte, weil ich mein Bundesland unterstützen will.",I only buy regional products because I want to support my state.
+2159,arabisch,adj,B1,37.8991,0.878,0,"Arabian, Arabic",Viele arabische Länder haben eine starke Ölindustrie.,Many Arab countries have a strong oil industry.
+2439,einheimisch,adj,B1,32.3793,0.8237,0,native,Der Wissenschaftler beschäftigt sich vor allem mit einheimischen Tieren und Pflanzen.,The scientist deals mainly with native animals and plants.
+2488,Frankfurter,adj,B1,31.7386,0.8014,0,Frankfurt,Der Frankfurter Flughafen soll noch einmal erweitert werden.,The Frankfurt airport is be expanded once again.
+2752,interkulturell,adj,B1,27.8945,0.2704,0,intercultural,Sie leitet ein Seminar über interkulturelle Kommunikation.,She runs a seminar on intercultural communication.
+3699,städtisch,adj,B1,18.4813,0.8774,0,"municipal, urban","Ich möchte, dass mein Kind städtisch aufwächst.",I want my child to grow up urban.

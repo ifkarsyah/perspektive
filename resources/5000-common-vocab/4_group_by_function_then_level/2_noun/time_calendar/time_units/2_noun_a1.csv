@@ -1,0 +1,6 @@
+rank,word,pos,level,freq_per_million,dispersion,has_conjugation,definition,example_de,example_en
+96,"die Zeit, -en",die,A1,967.2884,0.9528,0,time,Jannik braucht viel Zeit für seine Aufgabe.,Jannik needs a lot of time for his task.
+111,"der Tag, -e",der,A1,822.9862,0.942,0,day,Eine Woche hat sieben Tage.,A week has seven days.
+276,"die Stunde, -n",die,A1,317.3368,0.9304,0,hour,Eine Stunde hat 60 Minuten.,An hour has 60 minutes.
+348,"die Uhr, -en",die,A1,240.3559,0.9161,0,"clock, watch, o’clock",Die Uhr zeigt die Zeit.,The clock shows the time.
+775,der Alter,das,A1,110.5923,0.9348,0,age,"Obwohl sie schon 80 Jahre alt ist, sieht man ihr ihr Alter nicht an.","Although she’s already 80 years old, she doesn’t look her age."

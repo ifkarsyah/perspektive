@@ -1,0 +1,20 @@
+rank,word,pos,level,freq_per_million,dispersion,has_conjugation,definition,example_de,example_en
+2614,"die Achse, -n",die,B2+,29.8166,0.7788,0,"axle, axis",Die Erde dreht sich in 24 Stunden einmal um ihre Achse.,The earth rotates once around its axis in 24 hours.
+2648,"die Faser, -n",die,B2+,29.3237,0.3828,0,fiber,Die Fasern an der Leiche stammen wahrscheinlich von der Kleidung des Täters.,The fibers on the body are probably from the offender’s clothes.
+2717,"die Dichte, -n",die,B2+,28.338,0.7549,0,density,"Gegenstände schwimmen, wenn ihre Dichte kleiner ist als die Dichte der Flüssigkeit.",Objects float when their density is lower than the density of the liquid.
+2719,"die Strahlung, -en",die,B2+,28.338,0.6416,0,radiation,Die Strahlung der Sonne ist bereits im Frühjahr sehr intensiv.,The sun’s radiation is already very intense in spring.
+2847,"das Gewebe, -",das,B2+,26.6624,0.747,0,"fabric, tissue",Der Arzt untersucht das menschliche Gewebe nach Schäden.,The doctor examines the human tissue for damage.
+3044,"das Eisen, -",das,B2+,24.2475,0.7353,0,iron,Die Tür ist aus Eisen und sehr schwer.,The door is made of iron and very heavy.
+3142,der Wasserstoff,der,B2+,23.114,0.6451,0,hydrogen,"Wasserstoff ist ein chemisches Element, das mit Sauerstoff zusammen Wasser ergibt.","Hydrogen is a chemical element which, together with oxygen, produces water."
+3191,"die Fettsäure, -n",die,B2+,22.5719,0.4357,0,fatty acid,Omega-3-Fettsäuren sind sehr gut für das Herz.,Omega-3 fatty acids are very good for the heart.
+3468,"die Kohle, -n",die,B2+,20.157,0.8708,0,coal,"Kohle erzeugt Energie, wenn man sie verbrennt.",Coal produces energy when burned.
+3559,"der Rohstoff, -e",der,B2+,19.4177,0.803,0,raw material,Das Land exportiert Rohstoffe wie Kupfer.,The country exports raw materials such as copper.
+3621,"das Lösungsmittel, -",das,B2+,19.0235,0.6241,0,solvent,Die Farben sind frei von Lösungsmitteln.,These paints are free of solvents.
+3977,der Kohlenstoff,das,B2+,16.7564,0.6935,0,carbon,Kohlenstoff ist ein natürliches Element.,Carbon is a natural element.
+3991,"die Beschleunigung, -en",die,B2+,16.6578,0.6467,0,acceleration,Das Auto schafft eine Beschleunigung von null auf hundert Kilometer pro Stunde in acht Sekunden.,The car manages to accelerate from zero to 100 kilometers per hour in eight seconds.
+4000,"der Strahl, -en",der,B2+,16.6578,0.7454,0,"ray, beam",Die Strahlen der Sonne schaden der Haut.,The sun’s rays damage the skin.
+4066,"der Siedepunkt, -e",der,B2+,16.3129,0.4648,0,boiling point,Der Siedepunkt von Wasser liegt bei einer Temperatur von 100°C.,The boiling point of water is at 100°C.
+4307,"das Gemisch, -e",das,B2+,14.9329,0.7234,0,mixture,Ein Gemisch besteht aus mehreren Stoffen.,A mixture consists of various substances.
+4619,"der Atomkern, -e",der,B2+,13.4544,0.5352,0,(atomic) nucleus,Der Atomkern ist der positiv geladene Teil eines Atoms.,The atomic nucleus is the positively charged part of an atom.
+4667,die Energiewirtschaft,die,B2+,13.2573,0.0786,0,energy industry,"Die Energiewirtschaft muss sich ändern, damit wir die Umwelt schützen können.",The energy industry must change so that we can protect the environment.
+4874,der Stickstoff,der,B2+,12.3702,0.6838,0,nitrogen,Stickstoff ist ein Bestandteil der Luft.,Nitrogen is a component of the air.

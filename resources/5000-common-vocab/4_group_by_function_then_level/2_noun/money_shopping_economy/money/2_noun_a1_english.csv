@@ -1,0 +1,5 @@
+rank,word,pos,level,freq_per_million,dispersion,has_conjugation,definition,example_de,example_en
+207,"der Euro, -s",der,A1,411.567,0.8466,0,euro (unit of currency),In fast allen Ländern der EU kann man mit Euro bezahlen.,In almost all EU countries you can pay in euros.
+334,"der Preis, -e",der,A1,251.149,0.7808,0,"price, prize",Der Erste gewinnt einen Preis.,The first one wins a prize.
+543,"die Bank, -̈e",die,A1,157.3131,0.838,0,"bank, bench",Die Bank hat einen neuen Manager.,The bank has a new manager.
+564,Kosten,die (pl),A1,152.8776,0.7647,0,"costs, expenses",Die Kosten sind höher als erwartet.,The costs are higher than expected.

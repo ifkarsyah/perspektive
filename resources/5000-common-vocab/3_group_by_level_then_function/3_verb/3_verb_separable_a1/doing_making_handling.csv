@@ -1,0 +1,4 @@
+rank,word,pos,level,freq_per_million,dispersion,has_conjugation,is_separable,definition,example_de,example_en
+1239,"ausmachen, macht aus, machte aus, hat ausgemacht",verb,A1,71.1162,0.9315,1,1,"to put out, agree",Wir müssen ein Datum ausmachen.,We have to agree on a date.
+2173,"mitmachen, macht mit, machte mit, hat mitgemacht",verb,A1,37.6526,0.8872,1,1,"to join in, take part",Beide Kinder machen beim Konzert der Schule mit.,Both children are taking part in the school concert.
+4457,"anmachen, macht an, machte an, hat angemacht",verb,A1,14.2429,0.8098,1,1,to turn on,"Wenn es Nacht ist, mache ich das Licht an, um lesen zu können.","When it’s night, I turn on the lights so I can read."

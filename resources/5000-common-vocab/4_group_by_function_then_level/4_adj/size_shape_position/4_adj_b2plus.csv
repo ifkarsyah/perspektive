@@ -1,0 +1,14 @@
+rank,word,pos,level,freq_per_million,dispersion,has_conjugation,definition,example_de,example_en
+2708,quer,adj,B2+,28.5352,0.902,0,"diagonally, sideways, across",Der kürzeste Weg ist quer durch den Park.,The shortest way is across the park.
+3129,"hintere (r, s)",adj,B2+,23.2618,0.7132,0,rear,Ich möchte in der hintersten Reihe sitzen.,I want to sit in the rear row.
+3183,vordere,adj,B2+,22.6704,0.6168,0,front,Auf der vordersten Seite befindet sich der Titel des Buches.,On the front page is the title of the book.
+3226,symmetrisch,adj,B2+,22.2269,0.581,0,symmetrical,"Seine Ohren sind nicht symmetrisch, das rechte Ohr ist größer.",His ears are not symmetrical; his right ear is bigger.
+3602,schräg,adj,B2+,19.122,0.8728,0,"diagonal, at an angle",Nach der Kurve musst du schräg links fahren.,"After the bend, turn left diagonally."
+3733,asymmetrisch,adj,B2+,18.2349,0.4112,0,asymmetric,Der Schnitt von diesem Kleid ist asymmetrisch.,The cut of this dress is asymmetric.
+3906,seitlich,adj,B2+,17.1014,0.7149,0,"laterally, at/to the side","Ich warte nicht direkt am Eingang, sondern seitlich daneben.",I’m not waiting right at the entrance; I’m waiting to the side.
+3928,geometrisch,adj,B2+,16.9535,0.7792,0,geometric,Der Kreis ist eine geometrische Form.,The circle is a geometric form.
+4178,obig,adj,B2+,15.6229,0.7856,0,above,Bitte schicken Sie die Ware an die obige Adresse.,Please send the goods to the above address.
+4287,horizontal,adj,B2+,15.0315,0.7918,0,horizontal,Die Linie verläuft horizontal zur Achse.,The line runs horizontally to the axis.
+4314,quadratisch,adj,B2+,14.8836,0.7513,0,square,"Jede Wand in meinem Zimmer ist gleich lang, sodass das Zimmer quadratisch ist.","Each wall in my room is the same length, so the room is square."
+4463,gigantisch,adj,B2+,14.2429,0.8739,0,gigantic,Das ist ein gigantisches Gebäude.,This is a gigantic building.
+4986,vertikal,adj,B2+,11.9266,0.8322,0,vertical,Ich zeichne eine vertikale Linie in das Diagramm.,I draw a vertical line in the diagram.

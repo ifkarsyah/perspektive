@@ -1,0 +1,8 @@
+rank,word,pos,level,freq_per_million,dispersion,has_conjugation,definition,example_de,example_en
+204,"die Stadt, -̈e",die,A1,415.0661,0.9112,0,"city, town","London, Paris und Berlin sind große Städte.","London, Paris, and Berlin are big cities."
+326,"der Platz, -̈e",der,A1,257.3095,0.917,0,"place, room, square",Mein Haus hat genug Platz für acht Personen.,My house has enough room for eight people.
+341,"der Ort, -e",der,A1,245.0379,0.9287,0,"place, town, location",Die Kirche ist ein friedlicher Ort.,The church is a peaceful place.
+344,"die Stelle, -n",die,A1,242.4258,0.9511,0,place,Sein Name steht an erster Stelle.,His name is in the first place.
+391,"die Straße, -n",die,A1,214.1371,0.9113,0,street,Ich wohne in einer ruhigen Straße.,I live in a quiet street.
+959,"das Dorf, -̈er",das,A1,90.4846,0.8838,0,village,Günther wohnt in einem kleinen Dorf an der Grenze zu Polen.,Günther lives in a small village on the border with Poland.
+1376,"die Ecke, -n",die,A1,64.4136,0.9199,0,corner,An der Ecke der Straße ist eine Schule.,At the corner of the street is a school.

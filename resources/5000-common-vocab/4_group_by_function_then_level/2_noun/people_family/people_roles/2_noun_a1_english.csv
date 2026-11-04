@@ -1,0 +1,6 @@
+rank,word,pos,level,freq_per_million,dispersion,has_conjugation,definition,example_de,example_en
+121,"der Mann, -̈er",der,A1,758.129,0.9208,0,man,Sie wohnt mit einem Mann zusammen.,She lives with a man.
+255,"der Name, -n",der,A1,341.1901,0.9343,0,name,Mein Name ist Lisa und sie heißt Anika.,My name is Lisa and her name is Anika.
+369,"die Gruppe, -n",die,A1,226.5072,0.9102,0,group,Sie müssen in einer Gruppe zusammenarbeiten.,You have to work together in a group.
+576,"der Gast, -̈e",der,A1,150.3149,0.8891,0,guest,Heute sind Herr und Frau Müller unsere Gäste bei dem Fest.,Today Mr. and Mrs. Müller are our guests at the party.
+702,"die Dame, -n",die,A1,126.0181,0.7834,0,lady,Unten in der Wohnung wohnt eine alte Dame.,An old lady lives in the apartment downstairs.

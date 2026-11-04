@@ -1,0 +1,25 @@
+rank,word,pos,level,freq_per_million,dispersion,has_conjugation,definition,example_de,example_en
+799,"die Wahl, -en",die,B1,107.4874,0.9052,0,"choice, election",Viele Frauen müssen eine Wahl zwischen Beruf und Familie treffen.,Many women have to make a choice between work and family.
+1020,das Grüne,die,B1,85.0634,0.6677,0,the Greens,Die Partei “Bündnis 90/die Grünen” wurde 1993 in Leipzig gegründet.,The party “Bündnis 90/die Grünen” was founded in Leipzig in 1993.
+1024,"die Maßnahme, -n",die,B1,84.8663,0.8942,0,measure,Diese Maßnahmen sollen die Sicherheit erhöhen.,These measures are intended to increase safety.
+1087,"der König, -e",der,B1,80.1844,0.7975,0,king,Der König lebt in einem Schloss.,The king lives in a castle.
+1098,"die Macht, -̈e",die,B1,79.1494,0.9113,0,"power, strength","Lisa nutzt ihre Macht, um anderen zu helfen.",Lisa uses her power to help others.
+1111,"die Behörde, -n",die,B1,78.4594,0.8652,0,"department, authorities",Wir müssen diesen Vorfall den Behörden melden.,We have to report this incident to the authorities.
+1126,"der Bund, -̈e",der,B1,77.3259,0.8489,0,"association, alliance, bunch",Beide Parteien schließen einen Bund.,Both parties enter into an alliance.
+1216,"die Forderung, -en",die,B1,72.1511,0.8517,0,"demand, claim",Die Regierung ignoriert die Forderung nach freien Wahlen.,The government ignores the demand for free elections.
+1345,"die Bundesregierung, -en",die,B1,65.9414,0.7827,0,federal government,Die deutsche Bundesregierung veröffentlicht die Namen der neuen Minister.,The German Federal Government publishes the names of the new ministers.
+1351,die Abgeordnete,"der, die",B1,65.695,0.4644,0,"member of parliament, congress",Peter ist ein Abgeordneter der CDU.,Peter is a member of parliament for the CDU.
+1393,"das Amt, -Äer",das,B1,63.8715,0.8656,0,"office, department, function",Bis zu den nächsten Wahlen bleibt der jetzige Präsident im Amt.,The current president remains in office until the next elections.
+1435,"der Widerstand, -̈e",der,B1,61.6537,0.7643,0,"resistance, opposition",Der Widerstand gegen die Regierung steigt.,The resistance against the government is increasing.
+1579,AfD (Alternative für Deutschland),die,B1,54.9512,0.6379,0,"AfD, Alternative für Deutschland",Seit den Wahlen 2017 ist die Partei AfD im deutschen Parlament.,"Since the 2017 elections, the AFD party has been in the German parliament."
+1584,"die Mehrheit, -en",die,B1,54.6062,0.8667,0,majority,Die Mehrheit der Abgeordneten ist männlich.,The majority of the members of parliament are male.
+1600,"der Bürgermeister, -",der,B1,54.1133,0.8367,0,mayor,Der Bürgermeister unserer Stadt ist Mitglied der SPD.,The mayor of our town is a member of the SPD.
+1809,"der Streit, -e",der,B1,46.9179,0.8989,0,"argument, fight",Ich bekomme mit den Nachbarn Streit wegen meines Hundes.,I’m getting into a fight with the neighbors about my dog.
+1841,"die Auseinandersetzung, -en",die,B1,45.5873,0.8913,0,"argument, quarrel",Mein Mann und ich haben fast nie Auseinandersetzungen.,My husband and I almost never have arguments.
+2040,CSU (Christlich-Soziale Union),die,B1,40.3632,0.5944,0,CSU,Die CSU tritt ausschließlich in Bayern an.,The CSU will compete exclusively in Bavaria.
+2082,"der Bundestag, -e",der,B1,39.4268,0.8343,0,Bundestag,Der Bundestag ist das Organ der Bundesrepublik Deutschland und befindet sich in Berlin.,The Bundestag is the body of the Federal Republic of Germany and is located in Berlin.
+2101,"der Graf, -en",der,B1,38.9833,0.4963,0,"count, earl",Der Graf und die Gräfin wohnen in einem Schloss.,The count and the countess live in a castle.
+2130,"der Landtag, -e",der,B1,38.4412,0.3489,0,parliament,Der Landtag des Freistaats Sachsen hat seinen Sitz in Dresden.,The parliament of the Free State of Saxony has its headquarters in Dresden.
+2245,"die Verwaltung, -en",die,B1,36.1741,0.8205,0,administration,"Sie unterrichtet nicht, sondern arbeitet in der Verwaltung der Universität.","She does not teach, but works in the university administration."
+2250,"der Bundeskanzler, -",der,B1,35.9277,0.8092,0,federal chancellor,Konrad Adenauer war der erste Bundeskanzler der BRD.,Konrad Adenauer was the first chancellor of West Germany.
+2283,FDP (Freie Demokratische Partei),die,B1,35.3363,0.7232,0,FDP,Die FDP ist eine deutsche Partei und wurde 1948 gegründet.,The FDP is a German party and was founded in 1948.

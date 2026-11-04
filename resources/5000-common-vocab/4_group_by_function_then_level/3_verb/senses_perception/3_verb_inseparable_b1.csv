@@ -1,0 +1,14 @@
+rank,word,pos,level,freq_per_million,dispersion,has_conjugation,is_separable,definition,example_de,example_en
+510,"schauen, schaut, schaute, hat geschaut",verb,B1,165.8885,0.8997,1,0,to look,Du musst immer nach vorn schauen.,You always have to look ahead.
+697,"beobachten, beobachtet, beobachtete, hat beobachtet",verb,B1,127.743,0.9422,1,0,"to observe, watch","Jens sieht aus dem Fenster und beobachtet seine Kinder, während sie spielen.",Jens looks out the window and watches his children while they play.
+700,"klingen, klingt, klang, hat geklungen",verb,B1,126.5602,0.9082,1,0,to sound,"Deine Stimme gefällt mir, sie klingt sehr schön.",Your voice appeals to me; it sounds very beautiful.
+750,"spüren, spürt, spürte, hat gespürt",verb,B1,115.8164,0.8948,1,0,"to sense, notice, feel",Ich spüre die kalte Luft auf meiner Haut.,I can feel the cold air on my skin.
+1256,"blicken, blickt, blickte, hat geblickt",verb,B1,70.3769,0.8654,1,0,to look,Er blickt ihr neugierig über die Schulter.,He looks curiously over her shoulder.
+1298,"bemerken, bemerkt, bemerkte, hat bemerkt",verb,B1,68.0606,0.8801,1,0,to notice,"Ich habe noch gar nicht bemerkt, dass Mark heute nicht da ist.",I haven’t even noticed that Mark’s not here today.
+1362,"gucken, guckt, guckte, hat geguckt (kucken)",verb,B1,65.2021,0.8267,1,0,to look,Warum guckst du so komisch?,Why are you looking so weird?
+1589,"beachten, beachtet, beachtete, hat beachtet",verb,B1,54.4091,0.8664,1,0,"to pay attention, observe",Bitte beachten Sie die Vorschriften.,Please pay attention to the regulations.
+1847,"leuchten, leuchtet, leuchtete, hat geleuchtet",verb,B1,45.4887,0.8945,1,0,"to shine, glow",Die untergehende Sonne leuchtet am Horizont.,The setting sun shines on the horizon.
+2019,"berühren, berührt, berührte, hat berührt",verb,B1,40.9054,0.916,1,0,to touch,Beim Küssen berühren sich die Lippen.,"When kissing, the lips touch."
+2144,"starren, starrt, starrte, hat gestarrt",verb,B1,38.1948,0.8054,1,0,to stare,"Die Menschen starren auf die Straße, dort ist gerade ein Unfall passiert.","People are staring at the road, there’s just been an accident."
+2615,"klingeln, klingelt, klingelte, hat geklingelt",verb,B1,29.8166,0.8529,1,0,to ring,"Das Telefon klingelt, aber niemand ist da.","The phone is ringing, but nobody is there."
+3765,"stinken, stinkt, stank, hat gestunken",verb,B1,18.0378,0.8493,1,0,to stink,"Wenn du dich nicht wäschst, stinkst du.","If you don’t wash, you stink."

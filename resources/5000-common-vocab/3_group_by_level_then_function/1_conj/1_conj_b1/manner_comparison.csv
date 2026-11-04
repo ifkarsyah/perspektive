@@ -1,0 +1,4 @@
+rank,word,pos,level,freq_per_million,dispersion,has_conjugation,definition,example_de,example_en
+666,indem,conj,B1,131.9814,0.9169,0,"while, by","Wir haben engen Kontakt, indem wir Briefe schreiben.",We have close contact by writing letters.
+1653,umso,conj,B1,52.0434,0.9243,0,the (more . . . the),"Umso schneller wir fahren, umso eher sind wir am Ziel.","The faster we drive, the sooner we’re at our destination."
+3374,soviel,conj,B1,20.8962,0.8456,0,as far as,"Soviel ich weiß, lebt er immer noch in Berlin.","As far as I know, he still lives in Berlin."

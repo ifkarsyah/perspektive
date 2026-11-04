@@ -1,0 +1,9 @@
+rank,word,pos,level,freq_per_million,dispersion,has_conjugation,definition,example_de,example_en
+300,"das Buch, -̈er",das,A1,280.7684,0.9017,0,book,Natasha liest gerade ein gutes Buch.,Natasha is reading a good book.
+359,"die Schule, -n",die,A1,233.9983,0.8734,0,school,In Deutschland muss jedes Kind zur Schule gehen.,In Germany every child has to go to school.
+961,"die Klasse, -n",die,A1,90.2875,0.882,0,"class, classroom, grade",Antonia ist die beste Schülerin in ihrer Klasse.,Antonia is the best student in her class.
+1017,"der Student, -en",der,A1,85.3591,0.8931,0,student,Tim ist Student an der Universität Leipzig.,Tim is a student at the University of Leipzig.
+1398,"das Studium, -en",das,A1,63.5265,0.8575,0,"study, studies",Dieses Jahr möchte ich mein Studium beenden.,This year I want to finish my studies.
+1549,"der Kurs, -e",der,A1,56.4297,0.9064,0,"course, exchange rate",Im Wintersemester mache ich einen Kurs in Volkswirtschaftslehre.,In the winter semester I’m taking a course in economics.
+1770,"der Test, -s",der,A1,48.0515,0.8707,0,test,Ich habe heute zwei Tests geschrieben und beide bestanden.,I took two tests today and passed them both.
+3371,"der Kindergarten, -̈",der,A1,20.8962,0.8254,0,"nursery school, kindergarten",Mathilde geht schon in den Kindergarten.,Mathilde is already going to kindergarten.

@@ -1,0 +1,9 @@
+rank,word,pos,level,freq_per_million,dispersion,has_conjugation,is_separable,definition,example_de,example_en
+338,"helfen, hilft, half, hat geholfen",verb,A1,247.1571,0.9308,1,0,to help,Oliver hilft Tim jeden Sonntag bei seinen Aufgaben für die Schule.,Oliver helps Tim with his assignments for school every Sunday.
+444,"lachen, lacht, lachte, hat gelacht",verb,A1,185.8483,0.8744,1,0,to laugh,"Die Kinder lachen, weil der Film so lustig ist.",The children are laughing because the movie is so funny.
+601,"gefallen, gefällt, gefiel, hat gefallen",verb,A1,144.4008,0.9151,1,0,to please,Svenjas neuer Freund gefällt ihren Eltern sehr gut.,Svenja’s new boyfriend pleases her parents very much.
+701,"lieben, liebt, liebte, hat geliebt",verb,A1,126.4616,0.8979,1,0,to love,Die Kinder lieben ihre Eltern.,The children love their parents.
+820,"besuchen, besucht, besuchte, hat besucht",verb,A1,104.974,0.9186,1,0,to visit,Sie besuchen sich regelmäßig.,They visit each other regularly.
+869,"feiern, feiert, feierte, hat gefeiert",verb,A1,99.7992,0.9048,1,0,to celebrate,Wir feiern ihren Geburtstag.,We’re celebrating her birthday.
+1182,"kümmern (sich), kümmert, kümmerte, hat gekümmert",verb,A1,73.5804,0.9175,1,0,"to take care of, be concerned",Bitte kümmere dich gut um meinen Hund.,Please take good care of my dog.
+1953,"heiraten, heiratet, heiratete, hat geheiratet",verb,A1,42.7288,0.867,1,0,to marry,Maria heiratet nächstes Jahr ihren Freund Steffen.,Maria marries her boyfriend Steffen next year.

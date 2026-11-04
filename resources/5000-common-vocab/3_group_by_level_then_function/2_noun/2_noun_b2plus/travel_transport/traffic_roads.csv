@@ -1,0 +1,5 @@
+rank,word,pos,level,freq_per_million,dispersion,has_conjugation,definition,example_de,example_en
+3106,"der Parkplatz, -̈e",der,B2+,23.6068,0.8297,0,parking place,Zu der Wohnung gehört ein Parkplatz vor dem Haus.,The apartment includes a parking space in front of the house.
+3217,"die Route, -n",die,B2+,22.3255,0.8026,0,route,Das ist die kürzeste Route nach Prag.,This is the shortest route to Prague.
+4056,"der Tunnel, -",der,B2+,16.3621,0.8569,0,tunnel,Der Zug fährt durch einen Tunnel.,The train is going through a tunnel.
+4810,"der Pfad, -e",der,B2+,12.7152,0.8528,0,"path, trail","Ich gehe im Wald immer auf den Pfaden, weil ich mich sonst verlaufe.","I always walk on the paths in the forest, otherwise I get lost."

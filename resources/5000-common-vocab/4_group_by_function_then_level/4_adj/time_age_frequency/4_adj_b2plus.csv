@@ -1,0 +1,25 @@
+rank,word,pos,level,freq_per_million,dispersion,has_conjugation,definition,example_de,example_en
+2521,gelegentlich,adj,B2+,31.1965,0.9154,0,occasional,Gelegentlich gehe ich mit Freunden in einen Club.,Occasionally I go to a club with friends.
+2574,kontinuierlich,adj,B2+,30.3094,0.8606,0,"constant, continuous",Wissenschaftler warnen vor dem kontinuierlichen Anstieg der Temperaturen.,Scientists warn about the continuous rise in temperature.
+2683,allmählich,adj,B2+,28.8309,0.8967,0,gradual,Die Zeitungen berichten von einem allmählichen Anstieg der Temperaturen.,The newspapers report a gradual rise in temperatures.
+2992,permanent,adj,B2+,24.8882,0.9308,0,permanent,Der Patient steht unter permanenter Beobachtung.,The patient is under permanent observation.
+3322,fix,adj,B2+,21.2412,0.7708,0,"quick, fixed",Das Mädchen hat einen fixen Verstand.,The girl has a quick mind.
+3397,stundenlang,adj,B2+,20.7484,0.8948,0,(lasting) for hours,Die stundenlange Fahrt durch das Land ist anstrengend.,Driving for hours through the country is exhausting.
+3523,langjährig,adj,B2+,19.7134,0.8943,0,long-standing,Nach sieben Jahren beendet sie die langjährige Beziehung.,"After seven years, she ends the long-standing relationship."
+3544,unverändert,adj,B2+,19.5656,0.8965,0,unchanged,Die Wohnung meiner Großeltern ist seit 30 Jahren unverändert.,The apartment of my grandparents has been unchanged for 30 years.
+3685,"final (er, e, es)",adj,B2+,18.5306,0.1952,0,final,"Das ist die finale Version von meinem Plan, ich ändere nichts mehr.",This is the final version of my plan; I won’t change it anymore.
+3811,jetzig,adj,B2+,17.7421,0.8866,0,current,Bis zu den nächsten Wahlen bleibt der jetzige Präsident im Amt.,The current president remains in office until the next elections.
+4039,flüchtig,adj,B2+,16.4114,0.8822,0,"fugitive, cursory, fleeting",Die Erinnerungen an meine Kindheit sind flüchtig.,The memories of my childhood are fleeting.
+4172,einstig,adj,B2+,15.6229,0.8457,0,former,Das Gebäude der einstigen Firma steht jetzt leer.,The building of the former company is now empty.
+4188,mittelalterlich,adj,B2+,15.5736,0.7303,0,medieval,Ich gehe gerne auf mittelalterliche Märkte.,I like to go to medieval markets.
+4270,vorig,adj,B2+,15.1301,0.9079,0,previous,Voriges Jahr waren wir noch zu zweit und jetzt sind wir schon Eltern.,In the previous year there were two of us and now we are parents.
+4291,vorzeitig,adj,B2+,15.0315,0.8564,0,"early, premature",Martin geht vorzeitig in Rente und kümmert sich um seine Enkel.,Martin retires early and takes care of his grandchildren.
+4443,zeitgenössisch,adj,B2+,14.3415,0.8132,0,contemporary,Ich arbeite in einem Museum für zeitgenössische Kunst.,I work in a museum of contemporary art.
+4459,derzeitig,adj,B2+,14.2429,0.8588,0,current,Die derzeitige Situation im Land ist sehr gefährlich.,The current situation in the country is very dangerous.
+4589,antik,adj,B2+,13.6023,0.8546,0,antique,Martina sammelt antike Uhren.,Martina collects antique clocks.
+4698,nächtlich,adj,B2+,13.1094,0.8661,0,nocturnal,Ich genieße die nächtliche Stille.,I enjoy the nocturnal silence.
+4763,nachträglich,adj,B2+,12.863,0.8614,0,"subsequent, retrospective, belated",Nachträglich zu meinem Geburtstag am Samstag schenken meine Kollegen mir am Montag eine Reise.,"Subsequent to my birthday on Saturday, my colleagues will give me a trip on Monday."
+4780,monatlich,adj,B2+,12.8137,0.8563,0,monthly,Die monatliche Miete beträgt 450 Euro.,The monthly rent is 450 Euros.
+4792,frühzeitig,adj,B2+,12.7644,0.8773,0,"premature, early","Es ist wichtig, Krebs frühzeitig zu erkennen.",It is important to detect cancer early.
+4955,uralt,adj,B2+,12.0252,0.8823,0,ancient,In dem Haus stehen uralte Möbel.,There’s ancient furniture in that house.
+4957,anfänglich,adj,B2+,11.9759,0.8768,0,initial,Nach anfänglichen Schwierigkeiten können wir das Problem jetzt lösen.,"After initial difficulties, we can now solve the problem."

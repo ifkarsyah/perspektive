@@ -1,0 +1,14 @@
+rank,word,pos,level,freq_per_million,dispersion,has_conjugation,definition,example_de,example_en
+1742,"der Anbieter, -",der,B1,48.8893,0.7362,0,supplier,Für den neuen Vertrag seines Handys wechselt Kai zu einem anderen Anbieter.,Kai switches to another supplier for the new contract for his mobile phone.
+1979,"die Ware, -n",die,B1,42.1867,0.8639,0,goods,"Der Besitzer des Ladens bekommt neue Ware, die er dann verkauft.","The owner of the shop gets new goods, which he then sells."
+2051,"der Käufer, -",der,B1,40.2154,0.7437,0,buyer,Der Käufer dieses Hauses bezahlt viel Geld.,The buyer of this house pays a lot of money.
+2134,"der Kauf, -̈e",der,B1,38.3426,0.8387,0,purchase,Der Kauf eines neuen Autos ist teuer.,The purchase of a new car is expensive.
+2148,"der Verkauf, -̈e",der,B1,38.1455,0.8435,0,sale,Das Haus steht zum Verkauf.,The house is for sale.
+2192,"die Marke, -n",die,B1,37.2091,0.847,0,"brand, stamp",Nur aufgrund der Marke ist das Produkt so teuer.,The product is so expensive only because of its brand.
+2284,"der Konsument, -en",der,B1,35.3363,0.6967,0,consumer,Viele Konsumenten kaufen lieber regionale Produkte.,Many consumers prefer to buy regional products.
+2305,"die Dienstleistung, -en",die,B1,34.8435,0.6981,0,service,"Eine der Dienstleistungen ist es, die Produkte kostenlos zu liefern.",It is one of the services to deliver the products for free.
+2325,"der Verbraucher, -",der,B1,34.3014,0.8192,0,consumer,Die Verbraucher entscheiden durch ihren Kauf über den Erfolg des Produkts.,Consumers determine the success of the product through their purchase.
+2462,"die Werbung, -en",die,B1,32.0343,0.8531,0,advertising,Er macht Werbung für das neue Produkt.,He’s advertising the new product.
+2672,"der Händler, -",der,B1,29.028,0.853,0,"trader, dealer, retailer",Der Händler verkauft frische und regionale Produkte auf dem Markt.,The trader sells fresh and regional products on the market.
+4300,"die Lieferung, -en",die,B1,14.9822,0.7888,0,delivery,Du erhältst dein Geschenk morgen per Lieferung.,You’ll get your gift tomorrow by delivery.
+4863,"der Einkauf, -̈e",der,B1,12.3702,0.8797,0,"purchase, shopping",Ich bringe den Einkauf vom Supermarkt nach Hause.,I’m taking the shopping home from the supermarket.

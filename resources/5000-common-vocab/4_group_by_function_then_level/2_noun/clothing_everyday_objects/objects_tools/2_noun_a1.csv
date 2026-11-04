@@ -1,0 +1,6 @@
+rank,word,pos,level,freq_per_million,dispersion,has_conjugation,definition,example_de,example_en
+1602,"die Flasche, -n",die,A1,54.0641,0.8799,0,bottle,Wir teilen uns eine Flasche Wein zum Abendessen.,We share a bottle of wine with dinner.
+2197,"der Schlüssel, -",der,A1,37.0612,0.891,0,key,Der dritte Schlüssel für unsere Wohnung ist bei Frau Wagner.,The third key to our apartment is at Mrs. Wagner’s.
+2595,"das Geschenk, -e",das,A1,30.0137,0.9096,0,"gift, present",Liesbeth hat Geburtstag und bekommt viele Geschenke.,It’s Liesbeth’s birthday and she gets many gifts.
+3366,"der Schild, -e",das,A1,20.9455,0.8771,0,"sign, shield, tag",Auf der Autobahn zeigen die Schilder die legale Geschwindigkeit an.,"On the highway, the signs show the legal speed."
+3446,"der Bogen, -",der,A1,20.2555,0.8927,0,"bow, arc, sheet",Der Ball fliegt im hohen Bogen und landet im See.,The ball flies in a high arc and lands in the lake.

@@ -1,0 +1,8 @@
+rank,word,pos,level,freq_per_million,dispersion,has_conjugation,definition,example_de,example_en
+1790,das Fleisch,das,A1,47.4108,0.8971,0,"meat, flesh","Ich esse nur Fleisch von Kühen, aber nicht von anderen Tieren.","I only eat meat from cows, but not from other animals."
+1999,"das Ei, -er",das,A1,41.4475,0.8745,0,egg,Sonntags gibt es beim Frühstück immer ein Ei.,On Sundays there’s always an egg with breakfast.
+2317,"das Lebensmittel, -",das,A1,34.5478,0.837,0,food,Viele abgelaufene Lebensmittel sind im Grunde noch gut.,Many expired foods are basically still good.
+3650,"das Gemüse, -",das,A1,18.777,0.8542,0,vegetables,"Gemüse ist gesund, weil es viel Vitamine enthält.",Vegetables are healthy because they contain a lot of vitamins.
+3837,"die Kartoffel, -n",die,A1,17.5942,0.8461,0,potato,Aus Kartoffeln kann man viele verschiedene Gerichte machen.,Potatoes can be made into many different dishes.
+4381,"der Kuchen, -",der,A1,14.5879,0.8724,0,cake,Zum Geburtstag backt mir mein Bruder immer einen leckeren Kuchen.,"For my birthday, my brother always bakes me a delicious cake."
+4980,das Obst,das,A1,11.9266,0.8771,0,fruit,Ich ernähre mich gesund und esse viel Obst.,I eat healthy food and lots of fruit.

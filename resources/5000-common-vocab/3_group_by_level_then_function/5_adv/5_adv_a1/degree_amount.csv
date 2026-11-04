@@ -1,0 +1,4 @@
+rank,word,pos,level,freq_per_million,dispersion,has_conjugation,definition,example_de,example_en
+52,mehr,adv,A1,2081.8854,0.9573,0,more,Ich habe Hunger und möchte mehr Brot.,I’m hungry and want more bread.
+81,sehr,adv,A1,1307.8378,0.9139,0,very,Sie ist eine sehr gute Ärztin.,She’s a very good doctor.
+165,gar,adv,A1,532.1146,0.9267,0,at all,Das ist gar kein Problem.,That’s no problem at all.

@@ -1,0 +1,4 @@
+rank,word,pos,level,freq_per_million,dispersion,has_conjugation,definition,example_de,example_en
+100,etwas,pron,A2,919.1877,0.9305,0,"something, some, a little",Jeder macht die Welt etwas besser.,Everybody makes the world a little better.
+330,jemand,pron,A2,254.451,0.9132,0,"someone, somebody",Jemand wie du ist mein Freund.,Someone like you is my friend.
+362,niemand,pron,A2,230.9428,0.9227,0,"no one, nobody",Niemand kennt die Antwort.,Nobody knows the answer.

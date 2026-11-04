@@ -1,0 +1,6 @@
+rank,word,pos,level,freq_per_million,dispersion,has_conjugation,definition,example_de,example_en
+528,nachdem,conj,B1,161.2558,0.94,0,after,"Wir treffen eine Entscheidung, nachdem jeder seine Ansichten mit uns geteilt hat.",We will make a decision after everyone has shared their views with us.
+537,bevor,conj,B1,159.1859,0.933,0,before,"Bevor wir in die Bibliothek gehen, trinken wir einen Kaffee.","Before we go to the library, we’ll have a cup of coffee."
+1521,solange,conj,B1,57.5139,0.9454,0,as long as,"Solange es Regen gibt, gehe ich nicht nach draußen.","As long as it’s raining, I’m not going outside."
+1685,sobald,conj,B1,50.8114,0.9175,0,as soon as,"Sobald Jürgen dort einen Job findet, zieht er nach Berlin.","As soon as Jürgen finds a job there, he’s moving to Berlin."
+2718,ehe,conj,B1,28.338,0.8772,0,before,"Der Arzt ruft sie auf, ehe sie sich setzen kann.",The doctor calls her before she can sit down.

@@ -1,0 +1,291 @@
+rank,word,pos,level,freq_per_million,dispersion,has_conjugation,definition,example_de,example_en
+53,"das Jahr, -e",das,A1,2079.5691,0.9376,0,year,Ein Jahr hat 52 Wochen.,A year has 52 weeks.
+82,Mal,das,A1,1288.1737,0.8641,0,"time, mark",Maria hat ein dunkles Mal auf ihrer Haut.,Maria has a dark mark on her skin.
+90,"der Mensch, -en",der,A1,1093.5529,0.9286,0,human being,Es gibt über sieben Milliarden Menschen auf der Welt.,There are over seven billion human beings in the world.
+94,"das Beispiel, -e",das,A1,1027.4144,0.9024,0,example,Das Beispiel passt nicht gut zu diesem Argument.,The example does not fit this argument well.
+96,"die Zeit, -en",die,A1,967.2884,0.9528,0,time,Jannik braucht viel Zeit für seine Aufgabe.,Jannik needs a lot of time for his task.
+99,"die Frau, -en",die,A1,926.0874,0.9173,0,"woman, wife, Mrs.",Frauen sollten den gleichen Lohn bekommen wie Männer.,Women should be paid the same as men.
+111,"der Tag, -e",der,A1,822.9862,0.942,0,day,Eine Woche hat sieben Tage.,A week has seven days.
+121,"der Mann, -̈er",der,A1,758.129,0.9208,0,man,Sie wohnt mit einem Mann zusammen.,She lives with a man.
+133,"das Kind, -er",das,A1,679.4724,0.9187,0,child,Das Kind geht gern zur Schule.,The child likes going to school.
+134,"das Land, -̈er",das,A1,674.9384,0.91,0,"land, country, state",Welches Land würdest du gern besuchen?,Which country would you like to visit?
+140,Deutschland,das,A1,632.9488,0.8925,0,Germany,Meine Familie wohnt in einer kleinen Stadt im Westen von Deutschland.,My family lives in a small town in the west of Germany.
+147,"das Haus, -̈er",das,A1,594.4583,0.9153,0,house,Meine Eltern wohnen in einem kleinen Haus.,My parents live in a small house.
+154,"der Herr, -en",der,A1,558.6784,0.8182,0,Mr.,Unser neuer Lehrer heißt Herr Schmidt.,Our new teacher is called Mr. Schmidt.
+157,"die Frage, -n",die,A1,553.3558,0.9488,0,question,Die Studierenden stellen zu dem neu eingeführten Thema viele Fragen.,The students ask many questions about the newly introduced topic.
+164,"die Welt, -en",die,A1,533.0017,0.9279,0,world,Ich möchte gerne um die Welt reisen.,I would like to travel around the world.
+172,"das Prozent, -e",das,A1,509.3949,0.8399,0,percent,Für Studenten kostet das Gericht 20 Prozent weniger.,"For students, the meal costs 20 percent less."
+180,"die Hand, -̈e",die,A1,482.1904,0.8899,0,hand,Ich schreibe mit meiner rechten Hand.,I write with my right hand.
+183,"das Ende, -n",das,A1,477.0156,0.9533,0,end,Das Ende des Romans ist wirklich spannend.,The end of the novel is really exciting.
+194,"das Wort, -̈er",das,A1,443.7492,0.8467,0,word,Ich verstehe kein Wort.,I can’t understand a word.
+198,"das Teil, -e","der, das",A1,428.9641,0.9465,0,part,Die Ausstellung besteht aus drei Teilen.,The exhibition consists of three parts.
+204,"die Stadt, -̈e",die,A1,415.0661,0.9112,0,"city, town","London, Paris und Berlin sind große Städte.","London, Paris, and Berlin are big cities."
+207,"der Euro, -s",der,A1,411.567,0.8466,0,euro (unit of currency),In fast allen Ländern der EU kann man mit Euro bezahlen.,In almost all EU countries you can pay in euros.
+208,"die Arbeit, -en",die,A1,411.2713,0.9389,0,work,Es liegt noch viel Arbeit vor uns.,We still have a lot of work ahead of us.
+209,"Million, Mio.",die,A1,410.3842,0.8836,0,million,Die Stadt Tokio hat ca. 35 Millionen Einwohner.,The city of Tokyo has about 35 million inhabitants.
+210,"das Problem, -e",das,A1,406.8851,0.9402,0,problem,Sie müssen das Problem so schnell wie möglich lösen.,You have to solve the problem as fast as possible.
+218,"die Mutter, -̈",die,A1,396.9298,0.8717,0,mother,Meine Mutter ist eine starke Frau.,My mother is a strong woman.
+219,"die Woche, -n",die,A1,394.8599,0.9318,0,week,Eine Woche hat sieben Tage.,A week has seven days.
+220,"der Weg, -e",der,A1,393.7756,0.9472,0,"path, way",Der Weg entlang des Flusses ist sehr schön.,The path along the river is very beautiful.
+222,"das Auge, -n",das,A1,389.5865,0.8941,0,eye,Er hat schöne blaue Augen.,He has beautiful blue eyes.
+224,Leute,die (pl),A1,387.8616,0.8936,0,people,Ich treffe auf der Party viele nette Leute.,I meet a lot of nice people at the party.
+232,"der Vater, -̈",der,A1,374.4565,0.8729,0,father,"Weil seine Freundin ein Baby bekommt, wird Timo endlich Vater.","Because his girlfriend is having a baby, Timo is finally becoming a father."
+235,"das Geld, -er",das,A1,366.0783,0.9209,0,money,Du gibst viel Geld aus.,You spend a lot of money.
+240,"der Doktor, -en (Dr.)",der,A1,362.5792,0.7734,0,doctor,"Wenn ich Schmerzen habe, gehe ich zu einem Doktor.","Whenever I’m in pain, I go to a doctor."
+245,"das Wasser, -",das,A1,357.2072,0.8657,0,water,Ich trinke nur Wasser.,I only drink water.
+250,"der Kopf, -̈e",der,A1,353.1167,0.8888,0,head,Auf dem Hals befindet sich der Kopf.,On the neck is the head.
+253,"das Bild, -er",das,A1,347.6955,0.9371,0,picture,Clarita malt gerne Bilder von Blumen.,Clarita likes to paint pictures of flowers.
+255,"der Name, -n",der,A1,341.1901,0.9343,0,name,Mein Name ist Lisa und sie heißt Anika.,My name is Lisa and her name is Anika.
+256,"die Aufgabe, -n",die,A1,339.4652,0.8733,0,"task, assignment, job",Ich löse eine mathematische Aufgabe.,I’m solving a mathematical problem.
+260,"die Art, -en",die,A1,336.5574,0.9519,0,"type, kind",Es gibt verschiedene Arten von Tieren.,There are different kinds of animals.
+273,"der Freund, -e",der,A1,321.181,0.9155,0,friend,Elsbeth ist eine gute Freundin.,Elsbeth is a good friend.
+276,"die Stunde, -n",die,A1,317.3368,0.9304,0,hour,Eine Stunde hat 60 Minuten.,An hour has 60 minutes.
+294,Europa,das,A1,291.6601,0.8719,0,Europe,"Deutschland, England und Frankreich sind Länder in Europa.","Germany, England, and France are countries in Europe."
+298,"das Thema, -en",das,A1,284.9083,0.9186,0,"subject, topic, theme",Die Schüler schreiben eine Prüfung zu einem mathematischen Thema.,The students take an exam on a mathematical topic.
+300,"das Buch, -̈er",das,A1,280.7684,0.9017,0,book,Natasha liest gerade ein gutes Buch.,Natasha is reading a good book.
+306,"der Blick, -e",der,A1,276.6286,0.9162,0,"look, view, glance",Aus deinem Fenster hat man einen schönen Blick über die Stadt.,Your window has a nice view over the city.
+316,"der Monat, -e",der,A1,266.9198,0.9322,0,month,Das Jahr hat zwölf Monate.,The year has twelve months.
+317,"die Lösung, -en",die,A1,266.3776,0.8151,0,solution,Für jedes Problem gibt es eine Lösung.,There is a solution to every problem.
+324,"die Minute, -n",die,A1,257.5559,0.9071,0,minute,Eine Stunde hat 60 Minuten.,An hour has 60 minutes.
+325,"die Nacht, -̈e",die,A1,257.3588,0.8979,0,night,Die Nacht ist dunkel und grau.,The night is dark and gray.
+326,"der Platz, -̈e",der,A1,257.3095,0.917,0,"place, room, square",Mein Haus hat genug Platz für acht Personen.,My house has enough room for eight people.
+329,"die Familie, -n",die,A1,254.6974,0.9363,0,family,Ich feiere meinen Geburtstag mit meiner Familie.,I’m celebrating my birthday with my family.
+334,"der Preis, -e",der,A1,251.149,0.7808,0,"price, prize",Der Erste gewinnt einen Preis.,The first one wins a prize.
+337,"der Staat, -en",der,A1,247.847,0.8847,0,state,Der Staat entscheidet über Gesetze und Steuern.,The state decides on laws and taxes.
+341,"der Ort, -e",der,A1,245.0379,0.9287,0,"place, town, location",Die Kirche ist ein friedlicher Ort.,The church is a peaceful place.
+342,"der Abend, -e",der,A1,243.5101,0.9131,0,evening,Wir gehen morgen Abend ins Kino.,We’re going to the movies tomorrow evening.
+344,"die Stelle, -n",die,A1,242.4258,0.9511,0,place,Sein Name steht an erster Stelle.,His name is in the first place.
+348,"die Uhr, -en",die,A1,240.3559,0.9161,0,"clock, watch, o’clock",Die Uhr zeigt die Zeit.,The clock shows the time.
+358,"der Moment, -e",der,A1,234.6883,0.9194,0,moment,Man muss den Moment genießen können.,You have to be able to enjoy the moment.
+359,"die Schule, -n",die,A1,233.9983,0.8734,0,school,In Deutschland muss jedes Kind zur Schule gehen.,In Germany every child has to go to school.
+361,"das Auto, -s",das,A1,232.2241,0.9044,0,"automobile, car",Auf der Straße fahren viele Autos.,There are a lot of cars on the road.
+369,"die Gruppe, -n",die,A1,226.5072,0.9102,0,group,Sie müssen in einer Gruppe zusammenarbeiten.,You have to work together in a group.
+383,"der Vergleich, -e",der,A1,218.8683,0.7093,0,comparison,Die Schüler sprechen über den Vergleich von Männern und Frauen.,The students talk about the comparison of men and women.
+386,"das Ergebnis, -se",das,A1,216.0591,0.9104,0,result,Die Suche bleibt ohne Ergebnis.,The search remains without result.
+391,"die Straße, -n",die,A1,214.1371,0.9113,0,street,Ich wohne in einer ruhigen Straße.,I live in a quiet street.
+403,"der Raum, -̈e",der,A1,204.2804,0.9438,0,"room, space",Das Seminar findet morgen im Raum 1216 statt.,The seminar will take place tomorrow in room 1216.
+404,Eltern,die (pl),A1,204.0832,0.9126,0,parents,Die Eltern lieben ihre Tochter.,Parents love their daughter.
+421,"die Sprache, -n",die,A1,197.4792,0.8198,0,language,Englisch ist eine der am häufigsten gelernten Sprachen.,English is one of the most widely learned languages.
+427,"der Anfang, -̈e",der,A1,193.8815,0.9458,0,beginning,Der Anfang des Films war sehr traurig.,The beginning of the film was very sad.
+432,"der Satz, -̈e",der,A1,191.6145,0.906,0,sentence,Der Satz besteht aus sechs Wörtern.,The sentence consists of six words.
+436,"das Licht, -er",das,A1,188.2632,0.8642,0,light,Ich brauche ein helleres Licht zum Lesen.,I need a brighter light to read.
+440,"der Kollege, -n",der,A1,186.5383,0.797,0,colleague,Diana hat nur nette Kolleginnen bei der Arbeit.,Diana only has nice colleagues at work.
+465,"die Information, -en",die,A1,177.8644,0.9013,0,information,Jana sucht nach Informationen in der Bibliothek.,Jana is looking for information in the library.
+473,"der Text, -e",der,A1,175.1045,0.8005,0,text,Wir lesen und schreiben Texte zum Thema Natur.,We read and write texts about nature.
+481,"die Hilfe, -n",die,A1,173.1331,0.9362,0,help,Brauchen Sie Hilfe?,Do you need help?
+501,"die Wohnung, -en",die,A1,166.9234,0.8961,0,"apartment, flat",Wir suchen eine neue Wohnung.,We’re looking for a new apartment.
+505,"der Film, -e",der,A1,166.3813,0.8687,0,"film, movie",Sie schauen den Film auf Deutsch.,They’re watching the film in German.
+517,"das Gespräch, -e",das,A1,164.4592,0.9253,0,conversation,Wir haben immer interessante Gespräche.,We always have interesting conversations.
+519,"der Kunde, -n",der,A1,163.9171,0.8335,0,"customer, client",Es kommen viele Kunden in seinen Laden.,Many customers come to his shop.
+522,"die Antwort, -en",die,A1,163.6707,0.9457,0,"answer, reply",Sie gibt die richtige Antwort auf die Frage des Lehrers.,She gives the right answer to the teacher’s question.
+527,"der Arm, -e",der,A1,161.7486,0.8731,0,arm,An der Seite vom Körper sind die Arme.,To the side of the body are the arms.
+529,"der Tisch, -e",der,A1,160.6151,0.8815,0,table,Wir sitzen an einem Tisch aus Holz.,We are sitting at a wooden table.
+532,"das Herz, -en",das,A1,160.2701,0.8653,0,heart,Ich kann dein Herz schlagen hören.,I can hear your heart beating.
+543,"die Bank, -̈e",die,A1,157.3131,0.838,0,"bank, bench",Die Bank hat einen neuen Manager.,The bank has a new manager.
+548,"der Junge, -n",der,A1,156.5739,0.8786,0,boy,"Als Thomas ein kleiner Junge war, weinte er viel.","When Thomas was a little boy, he cried a lot."
+550,"die Polizei, -en",die,A1,156.081,0.8314,0,police,"Gehen Sie, sonst rufen wir die Polizei.","Go away, or we’re calling the police."
+556,"der Schüler, -",der,A1,155.2925,0.8043,0,"pupil, student (USA)",Die Schüler bereiten sich auf die Prüfungen vor.,The students prepare for their exams.
+564,Kosten,die (pl),A1,152.8776,0.7647,0,"costs, expenses",Die Kosten sind höher als erwartet.,The costs are higher than expected.
+573,"der Fuß, -̈e",der,A1,150.7584,0.8962,0,foot,Er hat große Füße.,He has big feet.
+576,"der Gast, -̈e",der,A1,150.3149,0.8891,0,guest,Heute sind Herr und Frau Müller unsere Gäste bei dem Fest.,Today Mr. and Mrs. Müller are our guests at the party.
+577,"die Aussage, -n",die,A1,150.167,0.8212,0,statement,Sie wartet auf die Reaktionen auf ihre Aussage.,She’s waiting for the reactions to her statement.
+581,"das Gut, -̈er",das,A1,148.0971,0.6546,0,"estate, good(s)",Verschiedene Güter kommen mit dem Schiff.,Various goods come by ship.
+596,"der Sohn, -̈e",der,A1,145.3372,0.9127,0,son,Das ist unser Sohn Paul.,This is our son Paul.
+597,der Dank,der,A1,145.2879,0.865,0,gratefulness,Ich möchte dir meinen tiefen Dank aussprechen.,I want to express to you my deep gratitude.
+602,"das Mädchen, -",das,A1,144.253,0.8899,0,girl,Das Mädchen heißt Lina und sie geht noch zur Schule.,"The girl’s called Lina, and she’s still in school."
+621,"der Morgen, -",der,A1,140.4632,0.8961,0,morning,Bei uns gibt es jeden Morgen Frühstück.,We have breakfast every morning.
+622,"der Arzt, -Äe",der,A1,140.1132,0.8638,0,"physician, doctor",Die Ärztin gibt ihm ein Medikament.,The doctor gives him a medication.
+633,"das Foto, -s",das,A1,136.9097,0.8853,0,photograph,"Lina mag die Fotos, die im Museum hängen.",Lina likes the photos that hang in the museum.
+641,das Glück,das,A1,135.6284,0.9089,0,"luck, fortune","Ich habe Glück, dass wir uns heute treffen.",I’m in luck that we’re meeting today.
+659,"das Bett, -en",das,A1,132.6221,0.865,0,bed,Ich schlafe in einem Bett aus Holz.,I sleep in a wooden bed.
+665,"das Zimmer, -",das,A1,132.1292,0.8758,0,room,Ich suche ein kleines Zimmer in Berlin.,I’m looking for a small room in Berlin.
+670,"die Zeitung, -en",die,A1,131.6364,0.918,0,newspaper,Jeden Morgen lese ich Zeitung.,I read the newspaper every morning.
+675,"der Zug, -̈e",der,A1,130.4536,0.9233,0,train,Der Zug kommt um zwölf Uhr an.,The train arrives at twelve o’clock.
+686,"die Firma, -en",die,A1,128.9751,0.8602,0,"firm, company","Mein Vater ist der Chef einer großen Firma, die Autos baut.",My father is the boss of a big company that makes cars.
+694,"die Tochter, -̈",die,A1,128.1373,0.8998,0,daughter,"Ute ist eine gute Mutter, sie liebt ihren Sohn und ihre Tochter sehr.","Ute is a good mother, she loves her son and daughter very much."
+695,"der Lehrer, -",der,A1,127.9401,0.8221,0,teacher,Wir haben einen neuen Lehrer an unserer Schule.,We have a new teacher at our school.
+702,"die Dame, -n",die,A1,126.0181,0.7834,0,lady,Unten in der Wohnung wohnt eine alte Dame.,An old lady lives in the apartment downstairs.
+711,"die Mitte, -n",die,A1,124.6874,0.9499,0,middle,"Anita steht zwischen Sven und Torben, genau in der Mitte.","Anita stands between Sven and Torben, right in the middle."
+719,"das Angebot, -e",das,A1,122.9625,0.8764,0,"offer, supply",Der Laden hat ein großes Angebot an frischen Produkten.,The shop has a large supply of fresh products.
+727,"die Größe, -n",die,A1,120.5969,0.8481,0,"size, height",Steffen hat in Schuhen die Größe 43.,Steffen wears size 43 shoes.
+730,"der Bruder, -̈",der,A1,120.3012,0.8597,0,brother,Friedrich hat einen großen Bruder namens Marco.,Friedrich has a big brother named Marco.
+734,"die Reise, -n",die,A1,118.9212,0.887,0,"journey, trip",Im März unternehmen Ann-Katrin und Dominik eine Reise nach Thailand.,In March Ann-Katrin and Dominik will make a journey to Thailand.
+748,"das Haar, -e",das,A1,116.2599,0.8678,0,hair,Ich wasche meine Haare täglich.,I wash my hair every day.
+765,"das Geschäft, -e",das,A1,112.2187,0.9103,0,"business, shop",In der Stadt öffnet ein Geschäft für Schuhe.,In the city a shoe shop is opening.
+772,"das Hotel, -s",das,A1,110.6909,0.84,0,hotel,Das Hotel Adlon ist ein bekanntes Hotel in Berlin.,Hotel Adlon is a well-known hotel in Berlin.
+775,der Alter,das,A1,110.5923,0.9348,0,age,"Obwohl sie schon 80 Jahre alt ist, sieht man ihr ihr Alter nicht an.","Although she’s already 80 years old, she doesn’t look her age."
+797,"die Ordnung, -en",die,A1,108.0788,0.9213,0,"order, tidiness",Anneliese kümmert sich um Ordnung in ihrer Wohnung.,Anneliese takes care of the tidiness of her apartment.
+805,das Internet,das,A1,106.8468,0.885,0,internet,Sie verbringt viele Stunden am Computer und sucht nach Wohnungen im Internet.,She spends many hours at the computer and searches for apartments on the internet.
+806,"die Nummer, -n",die,A1,106.7975,0.9252,0,number,"Ich kann ihn nicht anrufen, weil ich seine Nummer nicht habe.",I can’t call him because I don’t have his number.
+825,"der Hund, -e",der,A1,104.5797,0.8754,0,dog,Mein Hund ist mein bester Freund.,My dog is my best friend.
+838,"der Brief, -e",der,A1,102.5098,0.8827,0,letter,Mein Freund schreibt mir einen langen Brief.,My friend is writing me a long letter.
+852,"das Meer, -e",das,A1,101.672,0.8709,0,"sea, ocean",Der Ort liegt direkt am Meer und viele der Menschen verdienen sich ihr Geld mit Fisch.,The town is located directly on the sea and many of the people make their living from fish.
+856,"der Mund, -̈er",der,A1,101.4256,0.8643,0,mouth,Sie küsst ihn direkt auf den Mund.,She kisses him right on the mouth.
+861,"der Fehler, -",der,A1,100.7356,0.9222,0,"mistake, error",Die Lehrerin markiert alle Fehler im Text.,The teacher marks all mistakes in the text.
+864,"die Sonne, -n",die,A1,100.3906,0.8941,0,sun,Du solltest deine Haut vor der Sonne schützen.,You should protect your skin from the sun.
+884,"das Bein, -e",das,A1,98.6164,0.8893,0,leg,Er hat sehr lange Beine.,He has very long legs.
+885,"das Glas, -̈er",das,A1,98.37,0.8326,0,glass,Timo greift nach einem Glas Wasser auf dem Tisch.,Timo reaches for a glass of water on the table.
+899,"der Verein, -e",der,A1,96.9408,0.8021,0,"association, club",Ich bin Mitglied in einem Verein.,I am a member of an association.
+945,"der Sport, -e",der,A1,92.456,0.8034,0,sport,Viel Sport ist gut für die Gesundheit.,A lot of sport is good for health.
+954,"der Plan, -̈e",der,A1,91.2239,0.9216,0,plan,Ich habe einen Plan für mein Leben in den nächsten fünf Jahren.,I have a plan for my life for the next five years.
+959,"das Dorf, -̈er",das,A1,90.4846,0.8838,0,village,Günther wohnt in einem kleinen Dorf an der Grenze zu Polen.,Günther lives in a small village on the border with Poland.
+961,"die Klasse, -n",die,A1,90.2875,0.882,0,"class, classroom, grade",Antonia ist die beste Schülerin in ihrer Klasse.,Antonia is the best student in her class.
+974,"die Schwester, -n",die,A1,89.0554,0.8723,0,sister,"Lisa hat zwei Schwestern, Klara und Paula.","Lisa has two sisters, Klara and Paula."
+975,"der Chef, -s",der,A1,88.9568,0.8953,0,"head, leader, boss","Martin leitet diese Firma, er ist der Chef.","Martin runs this company, he’s the boss."
+1013,"der Baum, -̈e",der,A1,85.5563,0.8874,0,tree,Im Wald stehen viele Bäume.,There are many trees in a forest.
+1017,"der Student, -en",der,A1,85.3591,0.8931,0,student,Tim ist Student an der Universität Leipzig.,Tim is a student at the University of Leipzig.
+1030,"der Schluss, -̈e",der,A1,84.4227,0.9385,0,"end, conclusion",Am Schluss der Vorlesung können die Studenten Fragen stellen.,At the end of the lecture students can ask questions.
+1036,"der Beruf, -e",der,A1,83.9299,0.8603,0,"occupation, job, profession",Sie mag ihren Beruf als Schauspielerin sehr.,She likes her job as an actress very much.
+1041,"die Küche, -n",die,A1,83.3385,0.8708,0,"kitchen, cuisine","Die Wohnung hat zwei Zimmer, ein Bad und eine Küche.","The apartment has two rooms, a bathroom and a kitchen."
+1079,"die Farbe, -n",die,A1,80.8743,0.921,0,color,Die Kinder malen gern mit bunten Farben.,The children like to paint with bright colors.
+1115,"der Job, -s",der,A1,78.213,0.8986,0,job,Der Job wird gut bezahlt.,The job is well paid.
+1117,"der Grad, -e","der, das",A1,78.1637,0.9112,0,degree,Tina dreht sich um 90 Grad nach rechts.,Tina turns 90 degrees to the right.
+1124,"der Wind, -e",der,A1,77.523,0.8789,0,wind,Der Wind kommt aus nördlicher Richtung.,The wind is coming from a northerly direction.
+1158,"der Garten, -̈",der,A1,74.9603,0.876,0,garden,Sie sitzt auf einer Bank im Garten.,She’s sitting on a bench in the garden.
+1163,"das Papier, -e",das,A1,74.8617,0.9203,0,paper,Sie schreibt ihre Nummer auf ein kleines Stück Papier.,She writes her number on a little piece of paper.
+1172,"der Partner, -",der,A1,74.1718,0.8991,0,partner,Üben Sie den Dialog mit einem Partner.,Practice the dialogue with a partner.
+1213,"das Bier, -e",das,A1,72.2497,0.8883,0,beer,Möchtest du ein Bier?,Would you like a beer?
+1237,"die Maschine, -n",die,A1,71.2147,0.906,0,machine,Die Maschine arbeitet schneller als ein durchschnittlicher Arbeiter.,The machine works faster than an average worker.
+1252,"der Computer, -",der,A1,70.4755,0.8927,0,computer,Ich speichere das Bild auf meinem Computer.,I’m saving the image to my computer.
+1277,"der Fußball, -̈e",der,A1,69.2434,0.7453,0,"soccer, soccer ball",Beim Fußball hat jede Mannschaft elf Spieler.,"In soccer, each team has eleven players."
+1299,"der Kaffee, -s",der,A1,68.0113,0.8793,0,coffee,Der Kaffee riecht fantastisch.,The coffee smells fantastic.
+1305,"die Heimat, -en",die,A1,67.7156,0.8901,0,"home, homeland","Obwohl er in Deutschland geboren ist, ist Frankreich seine Heimat.","Although he was born in Germany, France is his home."
+1317,"der See, -n",der,A1,67.1242,0.8844,0,lake,Sie füttert die Fische im See.,She is feeding the fishes in the lake.
+1324,die Jugendliche,"der, die",A1,66.8778,0.8969,0,adolescent,Das Projekt unterstützt Jugendliche nach ihrem Abschluss.,The project supports adolescents after their graduation.
+1376,"die Ecke, -n",die,A1,64.4136,0.9199,0,corner,An der Ecke der Straße ist eine Schule.,At the corner of the street is a school.
+1382,das Ausland,das,A1,64.2165,0.8937,0,foreign countries,Nach unserem Abschluss wollen wir im Ausland arbeiten.,"After graduation, we want to work abroad."
+1398,"das Studium, -en",das,A1,63.5265,0.8575,0,"study, studies",Dieses Jahr möchte ich mein Studium beenden.,This year I want to finish my studies.
+1415,"die Bahn, -en",die,A1,62.8858,0.8609,0,"train, railway, way","Wir fahren mit dem Zug in den Urlaub, weil das Auto kaputt ist.",We’re going on vacation by train because the car broke down.
+1441,"die Pause, -n",die,A1,61.5552,0.8871,0,"pause, break",Nach einer kurzen Pause mache ich weiter.,After a short break I continue.
+1444,das Fernsehen,das,A1,61.5059,0.906,0,television,Das Spiel wird live im Fernsehen übertragen.,The game will be broadcast live on television.
+1457,"die Praxis, -en",die,A1,60.9145,0.9056,0,"practice, doctor’s office","Nicht nur theoretische Erfahrungen, sondern auch Praxis ist wichtig.","Not only theoretical experience, but also practice is important."
+1474,"die Karte, -n",die,A1,59.7317,0.9141,0,"card, ticket, menu",Die Karten für das Theater kosten 15 Euro.,The tickets for the theater cost 15 euros.
+1528,"der Flughafen, -̈",der,A1,57.3168,0.8416,0,airport,"Wir fahren zum Flughafen, um von dort aus in den Urlaub zu fliegen.",We’re driving to the airport to go on vacation from there.
+1549,"der Kurs, -e",der,A1,56.4297,0.9064,0,"course, exchange rate",Im Wintersemester mache ich einen Kurs in Volkswirtschaftslehre.,In the winter semester I’m taking a course in economics.
+1554,"der Fahrer, -",der,A1,56.3311,0.8627,0,driver,"Der Unfall wurde von einem Fahrer verursacht, der unter dem Einfluss von Alkohol stand.",The accident was caused by a driver under the influence of alcohol.
+1562,"der Bus, -se",der,A1,55.8876,0.8895,0,bus,Der Bus fährt nur am Wochenende.,The bus only runs on weekends.
+1570,"der Urlaub, -e",der,A1,55.444,0.8304,0,vacation,Nach meinem Abschluss nehme ich mir einen langen Urlaub.,"After graduation, I’m going on a long vacation."
+1576,"das Feuer, -",das,A1,55.0497,0.8949,0,fire,"Sie machen ein Feuer, weil es kalt ist.",They make a fire because it’s cold.
+1595,"das Telefon, -e",das,A1,54.2612,0.8834,0,telephone,Am Telefon klingt sie wie ihre Mutter.,"On the phone, she sounds like her mother."
+1602,"die Flasche, -n",die,A1,54.0641,0.8799,0,bottle,Wir teilen uns eine Flasche Wein zum Abendessen.,We share a bottle of wine with dinner.
+1637,"das Bad, -̈er",das,A1,52.6348,0.8727,0,"bath, bathroom, spa",Die neue Wohnung hat zwei Bäder.,The new apartment has two bathrooms.
+1671,"der Arbeitsplatz, -̈e",der,A1,51.3042,0.8956,0,"workplace, job",Svenjas Arbeitsplatz ist immer sehr sauber und ordentlich.,Svenja’s workplace is always very clean and tidy.
+1675,"der Laden, -̈",der,A1,51.1563,0.8925,0,shop,"Auf dem Land gibt es noch viele kleine, private Läden, die Lebensmittel verkaufen.","In the countryside there are still many small, private shops selling food."
+1678,"der Schuh, -e",der,A1,50.9592,0.8777,0,shoe,"Zieh die Schuhe aus, wenn du ins Haus gehst!",Take off your shoes when you go in the house!
+1691,"die Führung, -en",die,A1,50.6142,0.8568,0,"management, command, leadership",Unter der Führung des neuen Managers steigen die Umsätze wieder.,Sales increase again under the leadership of the new manager.
+1693,"das Handy, -s",das,A1,50.5649,0.8556,0,mobile phone,"Mit den neuen Handys kann man nicht nur telefonieren, sondern auch ins Internet gehen.","With the new mobile phones you can not only make phone calls, but also go online."
+1733,"das Lied, -er",das,A1,49.0371,0.8871,0,song,Wir singen für sie ein Lied zu ihrem Geburtstag.,We’ll sing her a song for her birthday.
+1736,"der Wein, -e",der,A1,49.0371,0.8932,0,wine,Dietmar bestellt im Restaurant eine teure Flasche Wein.,Dietmar orders an expensive bottle of wine at the restaurant.
+1770,"der Test, -s",der,A1,48.0515,0.8707,0,test,Ich habe heute zwei Tests geschrieben und beide bestanden.,I took two tests today and passed them both.
+1776,"das Flugzeug, -e",das,A1,47.7558,0.9003,0,airplane,Mit dem Flugzeug kann man leicht von Kontinent zu Kontinent reisen.,You can easily travel from continent to continent by airplane.
+1779,"der Geburtstag, -e",der,A1,47.7065,0.8889,0,birthday,Nina macht zu ihrem Geburtstag ein Fest.,Nina’s having a party on her birthday.
+1790,das Fleisch,das,A1,47.4108,0.8971,0,"meat, flesh","Ich esse nur Fleisch von Kühen, aber nicht von anderen Tieren.","I only eat meat from cows, but not from other animals."
+1802,"das Restaurant, -s",das,A1,47.1644,0.8589,0,restaurant,Wir gehen zum Abendessen in ein Restaurant.,We’re going to a restaurant for dinner.
+1804,"die Tasche, -n",die,A1,47.0165,0.8893,0,"pocket, bag",Ich verreise am liebsten mit nur einer Tasche.,I prefer to travel with only one bag.
+1806,die Beamte,"der, die",A1,46.9672,0.8743,0,"official, civil servant",Lehrer und Polizisten sind Beamte.,Teachers and police officers are civil servants.
+1816,"die Zigarette, -n",die,A1,46.6715,0.8525,0,cigarette,Sie zündet sich eine Zigarette an.,She lights a cigarette for herself.
+1823,"der Unterricht, -e",der,A1,46.4251,0.7786,0,"instruction, classes",Der Unterricht endet am späten Nachmittag.,Classes end in the late afternoon.
+1827,"die Prüfung, -en",die,A1,46.2773,0.8823,0,"examination, test, exam",Am Ende des Wintersemesters schreiben die Studenten ihre Prüfungen.,"At the end of the winter semester, students write their exams."
+1856,"die Rechnung, -en",die,A1,45.2423,0.9173,0,"bill, calculation, invoice",Die Arztpraxis hat mir gestern eine Rechnung für die Untersuchung geschickt.,The doctor’s office sent me an invoice for the examination yesterday.
+1881,"das Wetter, -",das,A1,44.6016,0.9095,0,weather,"Heute ist schönes Wetter, die Sonne scheint.",Today is beautiful weather; the sun is shining.
+1926,"die Post, -en",die,A1,43.3695,0.8677,0,"mail, post office","Nach dem Urlaub liegt im Büro viel Post, die ich beantworten muss.",After the vacation there is a lot of mail in the office that I have to answer.
+1940,"das Gewicht, -e",das,A1,43.1231,0.9167,0,weight,Das zu hohe Gewicht vieler Kinder sorgt die Ärzte.,The doctors are concerned about the excessive weight of many children.
+1950,"die Treppe, -n",die,A1,42.7781,0.8475,0,stairs,In unserem Haus gibt es zwei Treppen.,In our house there are two stairs.
+1957,"der Regen, -",der,A1,42.6796,0.8921,0,rain,"Schlechtes Wetter bedeutet oft, dass es Regen gibt.",Bad weather often means rain.
+1959,"der Fisch, -e",der,A1,42.6303,0.8904,0,fish,Er isst lieber Fisch als Fleisch.,He prefers fish to meat.
+1999,"das Ei, -er",das,A1,41.4475,0.8745,0,egg,Sonntags gibt es beim Frühstück immer ein Ei.,On Sundays there’s always an egg with breakfast.
+2020,"das Kino, -s",das,A1,40.9054,0.8845,0,"cinema, movie theater",Im Kino läuft seit Mittwoch ein Film über den Künstler Egon Schiele.,Since Wednesday a film about the artist Egon Schiele is showing in the cinema.
+2027,"der Bahnhof, -̈e",der,A1,40.7082,0.8814,0,(railway) station,Katharina wartet am Bahnhof auf den Zug nach Leipzig.,Katharina waits at the station for the train to Leipzig.
+2095,"das Brot, -e",das,A1,39.0326,0.8459,0,bread,Morgens isst Thorben immer eine Scheibe Brot und trinkt einen Kaffee.,In the morning Thorben always eats a slice of bread and drinks a coffee.
+2097,der Hunger,der,A1,39.0326,0.8597,0,hunger,"Die Bauern suchen nach Wegen, um den Hunger zu bekämpfen.",The farmers are looking for ways to fight hunger.
+2138,"das Fahrrad, -̈er",das,A1,38.244,0.8756,0,bicycle,Ich fahre mit dem Fahrrad zur Universität.,I ride my bicycle to the university.
+2147,"der Bauch, -̈e",der,A1,38.1455,0.8783,0,belly,Er schläft lieber auf dem Bauch als auf dem Rücken.,He prefers to sleep on his belly rather than his back.
+2172,"die E-Mail, -s","die, das",A1,37.6526,0.8857,0,e-mail,Eine E-Mail ist schneller und praktischer als ein Brief.,An e-mail is faster and more practical than a letter.
+2175,"die Oma, -s",die,A1,37.6034,0.7887,0,grandma,Meine Oma erzählt mir oft Geschichten vom Krieg.,My grandma often tells me stories about the war.
+2197,"der Schlüssel, -",der,A1,37.0612,0.891,0,key,Der dritte Schlüssel für unsere Wohnung ist bei Frau Wagner.,The third key to our apartment is at Mrs. Wagner’s.
+2213,"der Termin, -e",der,A1,36.7655,0.9132,0,"appointment, date",Können Sie den Termin verschieben?,Can you postpone the appointment?
+2237,"die Halle, -n",die,A1,36.2727,0.8769,0,hall,Das Konzert findet in einer riesigen Halle statt.,The concert takes place in a huge hall.
+2273,"der Stock, -̈e",der,A1,35.5827,0.8672,0,"stick, floor",Sein Büro ist im dritten Stock des Gebäudes.,His office on the third floor of the building.
+2276,"die Milch, -e",die,A1,35.4842,0.8626,0,milk,Eine normale Kuh produziert etwa acht Liter Milch täglich.,A normal cow produces about eight liters of milk a day.
+2297,"das Baby, -s",das,A1,35.0406,0.8363,0,baby,Das Baby von Ulrike und Peter ist winzig.,The baby of Ulrike and Peter is tiny.
+2317,"das Lebensmittel, -",das,A1,34.5478,0.837,0,food,Viele abgelaufene Lebensmittel sind im Grunde noch gut.,Many expired foods are basically still good.
+2327,"die Entschuldigung, -en",die,A1,34.2521,0.7739,0,"apology, excuse",Es gibt keine Entschuldigung für dein schlechtes Verhalten.,There’s no excuse for your bad behavior.
+2369,die Erwachsene,"der, die",A1,33.5128,0.9185,0,"adult, grown-up",In der Schule kümmert sich je ein Erwachsener um 20 Kinder.,"At school, each adult takes care of 20 children each."
+2374,"der Verkäufer, -",der,A1,33.4635,0.8065,0,"salesman, seller",Helen gibt dem Verkäufer das Geld für die Lebensmittel.,Helen gives the seller the money for the food.
+2387,"der Koffer, -",der,A1,33.3157,0.8484,0,suitcase,"Ich packe meinen Koffer, den ich mit in den Urlaub nehmen will.","I’m packing my suitcase, which I want to take with me on vacation."
+2463,"die Blume, -n",die,A1,31.985,0.8795,0,flower,Er schenkt ihr Blumen zum Geburtstag.,He’s giving her flowers for her birthday.
+2492,"das Café, -s",das,A1,31.6893,0.8667,0,"coffeehouse, coffee shop",Linda trinkt jeden Tag Kaffee im selben Café.,Linda drinks coffee every day at the same coffeehouse.
+2504,"der Eingang, -̈e",der,A1,31.4429,0.8951,0,entrance,Der Eingang befindet sich neben dem Ausgang.,The entrance is next to the exit.
+2549,"der Pass, -̈e",der,A1,30.7529,0.877,0,"pass, passport",Menschen mit einem deutschen Pass können problemlos viele Länder bereisen.,People with a German passport can easily travel to many countries without any problems.
+2582,Bar,die,A1,30.1615,0.8314,0,bar,"Nach der Arbeit treffen sich die Kollegen in der Bar, um zu trinken und zu reden.","After work, the colleagues meet in the bar to drink and talk."
+2594,"die Freizeit, -en",die,A1,30.0137,0.7427,0,spare time,"Was machst du in deiner Freizeit, wenn du nicht arbeiten musst?",What do you do in your free time when you don’t have to work?
+2595,"das Geschenk, -e",das,A1,30.0137,0.9096,0,"gift, present",Liesbeth hat Geburtstag und bekommt viele Geschenke.,It’s Liesbeth’s birthday and she gets many gifts.
+2600,"das Frühstück, -e",das,A1,29.9644,0.8655,0,breakfast,Ein gutes Frühstück gibt Kraft für den Tag.,A good breakfast gives strength for the day.
+2608,"das Salz, -e",das,A1,29.9151,0.7484,0,salt,"Stefanie isst das Ei mit Salz, weil es dann besser schmeckt.",Stefanie eats the egg with salt because it tastes better.
+2617,"der Tee, -s",der,A1,29.8166,0.8631,0,tea,Der Tee kommt aus Indien.,The tea comes from India.
+2624,die Erste,"der, die",A1,29.718,0.9062,0,first,Angela Merkel ist die Erste in diesem Amt.,Angela Merkel is the first in this position.
+2711,"der Ausländer, -",der,A1,28.4366,0.8766,0,foreigner,Die Integration von Ausländern ist in allen modernen Gesellschaften sehr wichtig.,The integration of foreigners is very important in all modern societies.
+2739,"die Adresse, -n",die,A1,28.0423,0.8849,0,address,Sie schreibt die Adresse von Familie Abdoullah auf den Brief.,She writes the address of the Abdoullah family on the letter.
+2776,"der Opa, -s",der,A1,27.5002,0.5772,0,grandpa,"Weil mein Sohn ein Kind bekommt, werde ich bald Opa.","Because my son is having a child, I’m soon to become a grandfather."
+2809,"die Party, -s",die,A1,27.106,0.8664,0,party,Zu meinem Geburtstag feiern wir eine große Party.,For my birthday we’re having a big party.
+2820,"die Kleidung, -en",die,A1,27.0074,0.9161,0,clothes,"Mein Baby braucht neue Kleidung, wenn es Sommer wird.",My baby needs new clothes when summer arrives.
+2849,die Verwandte,"der, die",A1,26.6624,0.9051,0,relative,Zur Hochzeit sind alle Verwandten eingeladen.,All relatives are invited to the wedding.
+2852,"die Kasse, -n",die,A1,26.6131,0.8749,0,"cash register, checkout","Wenn ich fertig mit dem Einkauf bin, gehe ich zur Kasse.","When I’m done shopping, I go to the checkout."
+2863,"die Einladung, -en",die,A1,26.4653,0.8914,0,invitation,Emma schreibt 50 Einladungen für ihren Geburtstag.,Emma writes 50 invitations for her birthday.
+2905,"der Buchstabe, -n",der,A1,25.9724,0.8877,0,letter,Mein Name besteht aus fünf Buchstaben.,My name consists of five letters.
+2954,die Achtung,die,A1,25.3317,0.7955,0,respect,Die Menschheit sollte mehr Achtung vor Tieren haben.,Humanity should have more respect for animals.
+2966,"die Autobahn, -en",die,A1,25.1839,0.8696,0,"expressway, motorway",Auf deutschen Autobahnen darf man sehr schnell fahren.,On German motorways you can drive very fast.
+2972,"der Anschluss, -̈e",der,A1,25.0853,0.8807,0,connection,Im Anschluss an das Essen sehen wir einen Film.,In connection with the meal we see a movie.
+2999,"das Taxi, -s",das,A1,24.8389,0.8613,0,taxi,Wir nehmen ein Taxi zum Flughafen.,We’re taking a taxi to the airport.
+3056,"der Vorname, -n",der,A1,24.0997,0.7581,0,first name,Mein Vorname ist Thomas und mein Nachname ist Müller.,My first name is Thomas and my surname is Müller.
+3104,"die Großmutter, -̈",die,A1,23.6068,0.8337,0,grandmother,Meine Großmutter erzählt mir immer Geschichten vom Krieg.,My grandmother always tells me stories about the war.
+3166,"der Großvater, -̈",der,A1,22.8183,0.8597,0,grandfather,Der Vater meiner Mutter ist mein Großvater.,My mother’s father is my grandfather.
+3203,"das Datum, -en",das,A1,22.424,0.8423,0,date,Andreas und Tine legen ein Datum für ihre Hochzeit fest.,Andreas and Tine set a date for their wedding.
+3219,"der Ausgang, -̈e",der,A1,22.2762,0.9083,0,"exit, outcome, starting point",Das Schild zeigt den Besuchern den Weg zum Ausgang.,The sign shows visitors the way to the exit.
+3247,"der Schrank, -̈e",der,A1,22.0298,0.8529,0,"cabinet, wardrobe",Sie hängt das Kleid zurück in den Schrank.,She hangs the dress back in the wardrobe.
+3280,"der Empfänger, -",der,A1,21.6355,0.5556,0,recipient,Der Empfänger des Pakets ist nicht zu Hause.,The recipient of the package is not at home.
+3281,"die Hochzeit, -en",die,A1,21.6355,0.8709,0,wedding,Am Wochenende bin ich auf einer Hochzeit.,I’m at a wedding this weekend.
+3287,"die Jacke, -n",die,A1,21.5862,0.8592,0,jacket,Er hängt seine Jacke über den Stuhl.,He’s hanging his jacket over the chair.
+3347,"die Anzeige, -n",die,A1,21.0441,0.876,0,"display, advertisement",Christoph meldet sich auf die Anzeige in der Zeitung.,Christoph answers the advertisement in the newspaper.
+3362,"das Konto, -en",das,A1,20.9455,0.8519,0,account,Ich muss Geld von meinem Konto abheben.,I need to withdraw money from my account.
+3366,"der Schild, -e",das,A1,20.9455,0.8771,0,"sign, shield, tag",Auf der Autobahn zeigen die Schilder die legale Geschwindigkeit an.,"On the highway, the signs show the legal speed."
+3371,"der Kindergarten, -̈",der,A1,20.8962,0.8254,0,"nursery school, kindergarten",Mathilde geht schon in den Kindergarten.,Mathilde is already going to kindergarten.
+3408,"die CD, -s",die,A1,20.6498,0.8238,0,CD,Der Popstar veröffentlicht eine Reihe erfolgreicher CDs.,The pop star releases a series of successful CDs.
+3441,"das Praktikum, die Praktika",das,A1,20.3048,0.8019,0,internship,"Mein Praktikum hilft mir, praktische Fähigkeiten zu gewinnen.",My internship helps me to gain practical skills.
+3443,die Vorsicht,die,A1,20.3048,0.901,0,caution,Vorsicht beim Verzehr von selbst gesammelten Pilzen!,Be careful when eating privately collected mushrooms!
+3444,"die Auskunft, -̈e",die,A1,20.2555,0.9005,0,information,Der Mann an der Kasse gibt mir Auskunft über die Veranstaltungen.,The man at the checkout gives me information about the events.
+3446,"der Bogen, -",der,A1,20.2555,0.8927,0,"bow, arc, sheet",Der Ball fliegt im hohen Bogen und landet im See.,The ball flies in a high arc and lands in the lake.
+3477,"die Toilette, -n",die,A1,20.1077,0.8462,0,toilet,In der Stadt gibt es mehrere öffentliche Toiletten.,There are a number of public toilets in the city.
+3488,"die Miete, -n",die,A1,20.0091,0.8771,0,rent,Jeden Monat müssen sie die Miete für ihre Wohnung bezahlen.,Every month they have to pay the rent for their apartment.
+3490,"der Apfel, -Ä",der,A1,19.9598,0.8697,0,apple,An dem Baum hängen viele rote Äpfel.,There are a lot of red apples on that tree.
+3501,"der Anruf, -e",der,A1,19.8613,0.8766,0,call,Jede Woche bekommt Tom einen Anruf von seinen Eltern.,Every week Tom gets a call from his parents.
+3572,"das Sofa, -s",das,A1,19.3192,0.8512,0,"sofa, couch",Meine Eltern kaufen ein neues Sofa für das Wohnzimmer.,My parents are buying a new couch for the living room.
+3582,"die Ankunft, -̈e",die,A1,19.2206,0.8712,0,arrival,Hunderte Fans versammelten sich am Flughafen und erwarteten die Ankunft des Stars.,Hundreds of fans gathered at the airport and awaited the arrival of the star.
+3608,"das Hobby, -s",das,A1,19.0727,0.6661,0,hobby,"Lesen, schwimmen und klettern sind ihre Hobbys.","Reading, swimming, and climbing are her hobbies."
+3609,"das Möbel, -",das,A1,19.0727,0.8791,0,(piece of) furniture,Nach dem Umzug müssen sie sich neue Möbel kaufen.,After the move they have to buy new furniture.
+3650,"das Gemüse, -",das,A1,18.777,0.8542,0,vegetables,"Gemüse ist gesund, weil es viel Vitamine enthält.",Vegetables are healthy because they contain a lot of vitamins.
+3686,"das Getränk, -e",das,A1,18.5306,0.8949,0,"drink, beverage",Getränke sind im Preis enthalten.,Drinks are included in the price.
+3771,"das Gepäck, -e",das,A1,17.9885,0.841,0,luggage,Für meine Reise brauche ich nur wenig Gepäck.,I don’t need much luggage for my trip.
+3814,"der Kühlschrank, -̈e",der,A1,17.7421,0.8668,0,fridge,"Wenn man Gemüse in den Kühlschrank legt, bleibt es länger frisch.","If you put vegetables in the fridge, they stay fresh longer."
+3825,"die Unterschrift, -en",die,A1,17.6928,0.8731,0,signature,Sie müssen den Vertrag nur noch mit Ihrer Unterschrift bestätigen.,You only have to confirm the contract with your signature.
+3837,"die Kartoffel, -n",die,A1,17.5942,0.8461,0,potato,Aus Kartoffeln kann man viele verschiedene Gerichte machen.,Potatoes can be made into many different dishes.
+3892,LKW (Lastkraftwagen),der,A1,17.2492,0.7871,0,truck,Der LKW transportiert die Milch von den Bauern zu den Läden.,The truck transports the milk from the farmers to the shops.
+3929,Geschwister,die (pl),A1,16.9535,0.8772,0,siblings,"Irina hat fünf Geschwister, drei Schwestern und zwei Brüder.","Irina has five siblings, three sisters and two brothers."
+3986,"das Lokal, -e",das,A1,16.7071,0.8587,0,"pub, bar",Das Lokal ist bis 1 Uhr nachts geöffnet.,The restaurant is open until 1 am.
+4014,"der Ausflug, -̈e",der,A1,16.51,0.8723,0,"excursion, trip",Mit der Schule machen wir einen Ausflug in die Hauptstadt.,With the school we make a trip to the capital.
+4026,"der Balkon, -s",der,A1,16.4607,0.8602,0,balcony,"Die Wohnung hat zwei Zimmer und einen Balkon, auf dem wir im Sommer sitzen können.",The apartment has two rooms and a balcony where we can sit in summer.
+4102,"der Eintritt, -e",der,A1,16.0664,0.8656,0,"entry, admission",Kinder unter fünf Jahren haben freien Eintritt.,Children under the age of five have free entry.
+4125,"die Bitte, -n",die,A1,15.9186,0.9135,0,request,"Ich habe eine Bitte an dich, kannst du mir vielleicht zwei Euro geben?",I have a request for you; can you perhaps give me two euros?
+4381,"der Kuchen, -",der,A1,14.5879,0.8724,0,cake,Zum Geburtstag backt mir mein Bruder immer einen leckeren Kuchen.,"For my birthday, my brother always bakes me a delicious cake."
+4417,"die Abfahrt, -en",die,A1,14.3908,0.7746,0,departure,Ich warte auf die Abfahrt des Zuges.,I’m waiting for the departure of the train.
+4570,"die Dusche, -n",die,A1,13.7008,0.8428,0,shower,Nach dem Sport gehe ich unter die Dusche.,"After doing sport, I‘m taking a shower."
+4670,"die Rezeption, -en",die,A1,13.2573,0.678,0,reception,Wir holen uns die Schlüssel für das Zimmer an der Rezeption im Hotel ab.,We pick up the keys for the room at the hotel reception.
+4710,"der Laut, -e",der,A1,13.0601,0.8325,0,sound,Jede Sprache hat spezifische Laute.,Each language has specific sounds.
+4722,"der Gruß, -̈e",der,A1,13.0109,0.8754,0,greeting,Richten Sie Ihrer Frau bitte herzliche Grüße aus.,"Give my regards to your wife, please."
+4734,"die Ehefrau, -en",die,A1,12.9616,0.8941,0,wife,Nach der Hochzeit ist Karla endlich meine Ehefrau.,"After the wedding, Karla is finally my wife."
+4762,"der Ehemann, -̈er",der,A1,12.863,0.9025,0,husband,Robert ist mir ein guter Ehemann.,Robert is a good husband to me.
+4769,"das Ticket, -s",das,A1,12.863,0.8467,0,ticket,"Bevor das Stück startet, kaufen wir Tickets an der Kasse im Theater.","Before the play starts, we buy tickets at the box office in the theater."
+4774,"das Fieber, -",das,A1,12.8137,0.8458,0,fever,"Weil das Kind Fieber hat, muss es Medikamente nehmen.","Because the kid has a fever, he has to take medicine."
+4886,das Trinken,das,A1,12.3209,0.6956,0,"drink, drinking","Ich möchte Wasser, aber das Trinken ist alle.","I want water, but I’m out of drink."
+4960,die Butter,die,A1,11.9759,0.7657,0,butter,Zum Frühstück esse ich nur ein Brot mit Butter.,"For breakfast, I’ll just have bread and butter."
+4980,das Obst,das,A1,11.9266,0.8771,0,fruit,Ich ernähre mich gesund und esse viel Obst.,I eat healthy food and lots of fruit.

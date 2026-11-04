@@ -1,0 +1,9 @@
+rank,word,pos,level,freq_per_million,dispersion,has_conjugation,is_separable,definition,example_de,example_en
+62,"kommen, kommt, kam, ist gekommen",verb,A1,1836.9461,0.9453,1,0,to come,Wir kommen morgen Abend zu dir.,We’ll come to your place tomorrow night.
+66,"gehen, geht, ging, ist gegangen",verb,A1,1648.6829,0.9438,1,0,to go,Wir gehen heute ins Theater.,We’re going to the theater today.
+215,"fahren, fährt, fuhr, ist gefahren",verb,A1,400.6261,0.906,1,0,"to drive, ride, go",Christine fährt mit dem Zug nach Amsterdam.,Christine’s taking the train to Amsterdam.
+252,"laufen, läuft, lief, ist gelaufen",verb,A1,348.9769,0.9444,1,0,to run,Die Zeit läuft uns davon.,We’re running out of time.
+824,"fliegen, fliegt, flog, ist geflogen",verb,A1,104.6783,0.9088,1,0,to fly,Der Vogel fliegt auf den Baum.,The bird flies up the tree.
+933,"reisen, reist, reiste, ist gereist",verb,A1,93.4416,0.8635,1,0,to travel,Ann-Katrin und Dominik reisen jedes Jahr in ein anderes Land.,Ann-Katrin and Dominik travel to another country every year.
+1803,"wandern, wandert, wanderte, ist gewandert",verb,A1,47.0658,0.9002,1,0,"to (go on a) walk or hike, migrate",Lucy wandert gern auf dem Land oder in den Bergen.,Lucy likes to hike in the country or in the mountains.
+4535,"übernachten, übernachtet, übernachtete, hat übernachtet",verb,A1,13.898,0.845,1,0,"to stay overnight, spend the night, sleep over",Heute übernachtet Lisa zum ersten Mal bei ihrem Freund Jonas.,Tonight Lisa sleeps over for the first time at her friend Jonas’ house.

@@ -1,0 +1,14 @@
+rank,word,pos,level,freq_per_million,dispersion,has_conjugation,definition,example_de,example_en
+791,"der Versuch, -e",der,B1,108.621,0.8802,0,"attempt, experiment",Louis besteht die Prüfung im letzten Versuch.,Louis passes the exam on his last attempt.
+860,"die Untersuchung, -en",die,B1,100.982,0.8509,0,examination,Thomas muss für seine Untersuchung zu einem speziellen Arzt gehen.,Thomas has to see a special doctor for his examination.
+1180,"die Gleichung, -en",die,B1,73.6789,0.7127,0,equation,Die Lehrerin erklärt die chemische Gleichung.,The teacher explains the chemical equation.
+1246,"der Forscher, -",der,B1,70.7712,0.6868,0,researcher,Die Forscherin beobachtet das Verhalten von Kindern.,The researcher observes the behavior of children.
+1335,"die Forschung, -en",die,B1,66.4342,0.8895,0,research,Der Staat investiert in die Forschung.,The state invests in research.
+1381,"die Wahrscheinlichkeit, -en",die,B1,64.315,0.6205,0,probability,"Rauchen erhöht die Wahrscheinlichkeit, krank zu werden.",Smoking increases the probability of becoming ill.
+1462,"die Wissenschaft, -en",die,B1,60.5202,0.8623,0,science,Biologie ist die Wissenschaft vom Leben.,Biology is the science of life.
+1522,"der Wissenschaftler, -",der,B1,57.5139,0.8166,0,"scholar, scientist",Johanna arbeitet als Wissenschaftlerin an der Universität.,Johanna works as a scientist at the university.
+1754,"die Berechnung, -en",die,B1,48.5936,0.8184,0,calculation,Nach den neuen Berechnungen der Manager kann sich die Firma einen zweiten Standort leisten.,"According to the new calculations of the managers, the company can afford a second location."
+2029,"die Messung, -en",die,B1,40.7082,0.7899,0,"measuring, measurement","Die Messung zeigt an, dass das Wasser 20 Grad warm ist.",The measurement shows that the water is 20 degrees.
+2126,"die Beobachtung, -en",die,B1,38.4412,0.8624,0,observation,Laut seiner Beobachtungen können auch einige Tiere lachen.,"According to his observations, some animals can also laugh."
+2397,"die Ableitung, -en",die,B1,33.0693,0.7431,0,derivation,Unser Mathematiklehrer bringt uns die Ableitung von Funktionen bei.,Our mathematics teacher teaches us the derivation of functions.
+3993,"die Erfindung, -en",die,B1,16.6578,0.8924,0,invention,Der Computer ist eine sehr nützliche Erfindung.,The computer is a very useful invention.

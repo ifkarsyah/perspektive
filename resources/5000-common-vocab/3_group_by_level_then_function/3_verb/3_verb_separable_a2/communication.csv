@@ -1,0 +1,4 @@
+rank,word,pos,level,freq_per_million,dispersion,has_conjugation,is_separable,definition,example_de,example_en
+962,"eingehen, geht ein, ging ein, ist eingegangen",verb,A2,90.2382,0.923,1,1,"to mention, discuss, react to, cater",Das Restaurant geht auf alle meine Wünsche ein.,The restaurant caters to all my desires.
+1872,"aussprechen, spricht aus, sprach aus, hat ausgesprochen",verb,A2,44.7495,0.9169,1,1,"to pronounce, express",Die meisten Leute sprechen meinen Namen falsch aus.,Most people pronounce my name wrong.
+2878,"eintragen, trägt ein, trug ein, hat eingetragen",verb,A2,26.3174,0.8683,1,1,"to enter, record, register",Ich trage mich für drei Seminare ein.,I’m registering for three seminars.
