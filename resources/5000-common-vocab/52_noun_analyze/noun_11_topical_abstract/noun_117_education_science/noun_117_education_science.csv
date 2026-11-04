@@ -1,8 +1,6 @@
 rank,word,pos,level,freq_per_million,dispersion,has_conjugation,definition,example_de,example_en
-455,"die Energie, -n",die,B1,180.9692,0.7683,0,energy,Eine Familie nutzt jeden Tag eine Menge Energie.,A family uses a lot of energy every day.
 486,"die Chemie, -n",die,A2,170.9647,0.6243,0,chemistry,"Er studiert Chemie, weil er gern Experimente durchführt.",He is studying chemistry because he likes to carry out experiments.
 565,"das Wintersemester, -",das,A2,151.9412,0.5126,0,winter semester,Die Universität startet im Wintersemester.,The university starts in the winter semester.
-574,Daten,die (pl),B1,150.4134,0.8082,0,data,Er überprüft die Daten seines Experiments.,He’s checking the data from his experiment.
 698,"die Einführung, -en",die,B1,126.9052,0.6164,0,introduction,Heute beschäftigen wir uns mit der Einführung in ein neues Thema.,Today we are dealing with an introduction to a new topic.
 703,"die Vorlesung, -en",die,A2,125.9195,0.726,0,lecture,Viele Studenten besuchen die Vorlesung von Professor Tschirner.,Many students attend Professor Tschirner’s lecture.
 708,"das Modell, -e",das,B1,125.3281,0.8808,0,model,"Ich kaufe mir ein neues Auto, weil mir das neue Modell besser gefällt.",I’m buying a new car because I like the new model better.
@@ -14,13 +12,10 @@ rank,word,pos,level,freq_per_million,dispersion,has_conjugation,definition,examp
 953,"das Institut, -e",das,B1,91.2732,0.8519,0,institute,An der Universität gibt es verschiedene Institute.,There are various institutes at the university.
 1064,"die Theorie, -n",die,B1,81.6629,0.854,0,theory,Er kann die Theorie nicht beweisen.,He can’t prove the theory.
 1174,"die Ausbildung, -en",die,A2,74.0732,0.8961,0,"training, development",Die Ausbildung bereitet Jugendliche auf ihren Beruf vor.,The training prepares adolescents for their profession.
-1180,"die Gleichung, -en",die,B1,73.6789,0.7127,0,equation,Die Lehrerin erklärt die chemische Gleichung.,The teacher explains the chemical equation.
-1269,"die Technik, -en",die,B1,69.7362,0.9044,0,"technology, technique","Die neue Technik ist teuer, aber spart viel Zeit.","The new technology is expensive, but saves a lot of time."
 1304,"die Statistik, -en",die,B1,67.7649,0.565,0,statistics,Die Statistiken zeigen einen deutlichen Anstieg der Temperatur.,Statistics show a significant increase in temperature.
 1335,"die Forschung, -en",die,B1,66.4342,0.8895,0,research,Der Staat investiert in die Forschung.,The state invests in research.
 1398,"das Studium, -en",das,A1,63.5265,0.8575,0,"study, studies",Dieses Jahr möchte ich mein Studium beenden.,This year I want to finish my studies.
 1434,"die Übung, -en",die,B1,61.6537,0.8145,0,"exercise, practice","Du brauchst viel Übung, um besser zu werden.",You need a lot of practice to get better.
-1445,"die Formel, -n",die,B1,61.5059,0.8517,0,formula,Die Formel zur Berechnung der Geschwindigkeit ist v = s/t.,The formula for calculating the velocity is v = s/t.
 1447,"das Sommersemester, -",das,B1,61.4566,0.4045,0,summer semester,Das Sommersemester beginnt im April.,The summer semester starts in April.
 1462,"die Wissenschaft, -en",die,B1,60.5202,0.8623,0,science,Biologie ist die Wissenschaft vom Leben.,Biology is the science of life.
 1534,VWL (Volkswirtschaftslehre),die,B1,57.1689,0.4333,0,economics,Studentinnen der Volkswirtschaft benötigen gute Fähigkeiten in Mathematik.,Students of economics need good mathematical abilities.
@@ -31,100 +26,57 @@ rank,word,pos,level,freq_per_million,dispersion,has_conjugation,definition,examp
 1636,die Mathematik,die,B1,52.7334,0.7363,0,mathematics,"In der Schule hat Laura Physik, Mathematik und andere Fächer.","At school Laura studies physics, mathematics, and other subjects."
 1695,"das Experiment, -e",das,B1,50.4664,0.8218,0,experiment,"Der Lehrer zeigt in einem Experiment, wie zwei chemische Substanzen miteinander reagieren.",The teacher shows in an experiment how two chemical substances react with each other.
 1731,"das Fach, -̈er",das,A2,49.1357,0.8487,0,"compartment, subject",Chemie ist Frederiks bestes Fach in der Schule.,Chemistry is Frederik’s best subject at school.
-1754,"die Berechnung, -en",die,B1,48.5936,0.8184,0,calculation,Nach den neuen Berechnungen der Manager kann sich die Firma einen zweiten Standort leisten.,"According to the new calculations of the managers, the company can afford a second location."
 1770,"der Test, -s",der,A1,48.0515,0.8707,0,test,Ich habe heute zwei Tests geschrieben und beide bestanden.,I took two tests today and passed them both.
-1789,"die Variable, -n",die,B1,47.4601,0.5837,0,variable,"Die Variablen in der Gleichung sind X, Y und Z.","The variables in the equation are X, Y, and Z."
 1823,"der Unterricht, -e",der,A1,46.4251,0.7786,0,"instruction, classes",Der Unterricht endet am späten Nachmittag.,Classes end in the late afternoon.
 1827,"die Prüfung, -en",die,A1,46.2773,0.8823,0,"examination, test, exam",Am Ende des Wintersemesters schreiben die Studenten ihre Prüfungen.,"At the end of the winter semester, students write their exams."
 1866,"der Beweis, -e",der,B1,45.0452,0.9197,0,"proof, evidence",Die zehn Kinder sind ein Beweis ihrer Liebe.,The ten children are a proof of her love.
 1917,die Physik,die,B1,43.5667,0.6181,0,physics,Die Physik ist eine Wissenschaft und untersucht grundlegende Phänomene in der Natur.,Physics is a science and investigates fundamental phenomena in nature.
 1936,"das Phänomen, -e",das,B1,43.1724,0.8707,0,phenomenon,"Phänomene sind Dinge, die der Mensch mit seinen Sinnen wahrnehmen kann.",Phenomena are things that people can perceive with their senses.
-1971,"die Ladung, -en",die,B1,42.3839,0.6922,0,"charge, load",Bei dem Unfall hat sich die Ladung des Wagens gelöst.,The car’s load came loose in the accident.
 2005,die Soziologie,die,B1,41.2996,0.1601,0,sociology,Die Soziologie befasst sich mit den Strukturen der Gesellschaft.,Sociology deals with the structures of society.
 2028,"die Bewertung, -en",die,B1,40.7082,0.8162,0,"assessment, evaluating, evaluation",Der Professor ist für die Bewertung der Prüfung zuständig.,The professor is responsible for evaluating the exam.
 2029,"die Messung, -en",die,B1,40.7082,0.7899,0,"measuring, measurement","Die Messung zeigt an, dass das Wasser 20 Grad warm ist.",The measurement shows that the water is 20 degrees.
-2075,"die Kurve, -n",die,B1,39.624,0.8513,0,"curve, turn",Die Straße macht eine Kurve nach links.,The road takes a turn to the left.
 2126,"die Beobachtung, -en",die,B1,38.4412,0.8624,0,observation,Laut seiner Beobachtungen können auch einige Tiere lachen.,"According to his observations, some animals can also laugh."
-2154,"der Mechanismus, -en",der,B1,38.0469,0.7208,0,mechanism,Der Mechanismus verschließt die Türen automatisch.,The mechanism locks the doors automatically.
 2164,"die Klausur, -en",die,B1,37.8005,0.7471,0,exam,Am Ende des Semesters schreiben die Studenten in jedem Seminar eine Klausur.,"At the end of the semester, students write a written exam in each seminar."
-2170,"die Technologie, -n",die,B1,37.7019,0.8622,0,technology,Die ausländischen Unternehmen bringen Wissen und Technologie ins Land.,Foreign companies bring knowledge and technology into the country.
 2176,"die Umfrage, -n",die,B1,37.5541,0.8048,0,survey,Die Teilnehmer an der Umfrage erhalten ein kleines Geschenk.,The participants of the survey receive a small gift.
-2215,"die Synthese, -n",die,B1,36.7163,0.5666,0,synthesis,Das neue Auto ist eine Synthese aus Stil und Leistung.,The new car is a synthesis of style and performance.
 2256,"die Variante, -n",die,B1,35.8784,0.8901,0,"variant, variation",Das Handy gibt es in verschiedenen Varianten und Farben.,The phone is available in many different variants and colors.
-2376,"die Matrix, -zen",die,B1,33.4143,0.5759,0,matrix,Matrix ist ein Begriff aus der Biologie oder der Mathematik.,Matrix is a term from biology or mathematics.
-2397,"die Ableitung, -en",die,B1,33.0693,0.7431,0,derivation,Unser Mathematiklehrer bringt uns die Ableitung von Funktionen bei.,Our mathematics teacher teaches us the derivation of functions.
-2430,"die Schwingung, -en",die,B1,32.5764,0.6238,0,vibration,Die Schwingung der Membran erzeugt einen Ton.,The vibration of the membrane produces a sound.
-2431,"der Vektor, -en",der,B1,32.5764,0.6213,0,vector,Ein Beispiel für einen Vektor ist die Geschwindigkeit.,An example of a vector is speed.
-2440,"der Winkel, -",der,B1,32.3793,0.82,0,"angle, corner",Ein Quadrat hat vier gleiche Winkel.,A square has four equal angles.
 2446,die Betriebswirtschaftslehre,die,B1,32.2314,0.3176,0,business administration,Mein Onkel studiert Betriebswirtschaftslehre.,My uncle is studying business administration.
 2461,"das Seminar, -e",das,B1,32.0343,0.7145,0,seminar,In dem Seminar wird über die Idee von Gut und Böse diskutiert.,The seminar will discuss the idea of good and evil.
-2500,"das Spektrum, -en",das,B1,31.5415,0.6983,0,spectrum,Das Spektrum an Möglichkeiten ist endlos.,The spectrum of possibilities is endless.
-2539,"die Frequenz, -en",die,B2+,30.8515,0.66,0,frequency,Auf welcher Frequenz liegt dieser Sender?,What’s the frequency of this station?
-2719,"die Strahlung, -en",die,B2+,28.338,0.6416,0,radiation,Die Strahlung der Sonne ist bereits im Frühjahr sehr intensiv.,The sun’s radiation is already very intense in spring.
-2748,"der Parameter, -",der,B2+,27.9438,0.7364,0,parameter,Die Ergebnisse liegen innerhalb akzeptabler Parameter.,The results are within acceptable parameters.
 2778,"die Auswertung, -en",die,B2+,27.4509,0.8033,0,"evaluation, analysis",Ich lese gerade die Auswertung meiner Prüfung.,I’m currently reading the evaluation of my exam.
-2810,"die Wellenlänge, -n",die,B2+,27.106,0.6289,0,wavelength,"Tom und ich sind auf der gleichen Wellenlänge, deswegen verstehen wir uns so gut.","Tom and I are on the same wavelength, that’s why we get along so well."
 2879,"der Vortrag, -̈e",der,B1,26.3174,0.9271,0,lecture,Sie hält einen Vortrag über die Wahlen in Frankreich.,She’s giving a lecture on the elections in France.
 2922,"die Philosophie, -n",die,B2+,25.726,0.7831,0,philosophy,Max schreibt für sein Seminar über Philosophie eine Arbeit über Aristoteles.,Max writes a paper about Aristotle for his seminar on philosophy.
 2952,"die Note, -n",die,A2,25.381,0.8945,0,"note, grade",Der Lehrer gibt den Schülern Noten für ihre Leistungen im Unterricht.,The teacher gives the students marks for their performance in class.
 2984,"die Prognose, -n",die,B2+,24.9868,0.8622,0,"prognosis, forecast",Die Prognose für das Wetter für die nächste Woche ist sehr gut.,The forecast for the weather next week is very good.
 3007,"das Semester, -",das,B1,24.7403,0.7999,0,semester,Der Bachelor dauert in Deutschland sechs Semester.,The bachelor’s program lasts six semesters in Germany.
 3061,"die These, -n",die,B2+,24.0011,0.8688,0,thesis,Ich brauche eine gute These für meine wissenschaftliche Arbeit.,I need a good thesis for my scientific work.
-3087,"die Substitution, -en",die,B2+,23.804,0.472,0,"substitution, replacement","Eine Substitution kann erfolgen, wenn vorausbezahlt wird.",A replacement is possible if paid in advance.
-3146,"das Klima, -s",das,B1,23.0647,0.8958,0,climate,Das Klima bestimmt das Wetter eines Landes.,The climate determines the weather of a country.
-3151,"die Software, -s",die,B2+,23.0154,0.8142,0,software,Dein Computer braucht eine neue Software.,Your computer needs new software.
-3231,"die Varianz, -en",die,B2+,22.1776,0.3382,0,variance,Die Studenten sollen den Mittelwert und die Varianz berechnen.,The students are supposed to calculate the mean value and the variance.
 3262,"die Psychologie, -n",die,B2+,21.7833,0.5536,0,psychology,Elsa studiert Psychologie in den Niederlanden.,Elsa studies psychology in the Netherlands.
-3263,"die Digitalisierung, -en",die,B2+,21.734,0.7366,0,digitalization,Die Digitalisierung entwickelt sich sehr schnell.,Digitalization is developing very fast.
 3329,"das Abitur, -e",das,B1,21.1919,0.8147,0,"school leaving exam, A levels",Nach dem Abitur besucht sie die Universität.,"After her A levels, she went to the university."
 3413,die Erziehung,die,B2+,20.6005,0.8454,0,"upbringing, education",Ihre strenge Erziehung zerstört die emotionale Beziehung zwischen Eltern und Kind.,Their strict upbringing destroys the emotional relationship between parents and child.
-3416,"die Datenbank, -en",die,B2+,20.5512,0.5708,0,database,Wir speichern alle unsere Kundendaten in einer Datenbank.,We store all our customer data in a database.
 3447,"die Entdeckung, -en",die,B2+,20.2555,0.8622,0,discovery,Marie Curies Erfolg war die Entdeckung des chemischen Elements Radium.,Marie Curie’s success was the discovery of the chemical element radium.
 3543,"die Hypothese, -n",die,B2+,19.5656,0.7605,0,hypothesis,Die Hypothese ist widerlegt.,The hypothesis is refuted.
-3563,"das Informationssystem, -e",das,B2+,19.3684,0.3247,0,information system,Mehrere Personen können gleichzeitig auf das Informationssystem zugreifen.,Multiple people can access the information system simultaneously.
 3600,"die Qualifikation, -en",die,B1,19.122,0.8487,0,qualification,Martha hat gute Qualifikationen und bekommt den Job.,Martha has good qualifications and gets the job.
 3616,"die Architektur, -en",die,B2+,19.0235,0.7698,0,architecture,Sie studiert Architektur und entwirft nun ihr erstes Gebäude.,She is studying architecture and is now designing her first building.
 3617,die Biologie,die,B1,19.0235,0.6662,0,biology,Die Biologie beschäftigt sich mit lebenden Organismen.,Biology deals with living organisms.
 3659,"der Nachweis, -e",der,B2+,18.7278,0.7715,0,"proof, evidence, certificate","Wir benötigen einen Nachweis darüber, dass sie im Moment studieren.",We need proof that you are currently studying.
 3697,"das Schema, -s",das,B2+,18.4813,0.8425,0,scheme,Er arbeitet nach einem festen Schema.,He works according to a fixed scheme.
-3708,"die Addition, -en",die,B2+,18.3828,0.5963,0,"addition, summation","Wer gut in Mathe sein will, muss die Addition beherrschen.","If you want to be good at math, you have to master addition."
-3712,"die Konstruktion, -en",die,B2+,18.3828,0.8708,0,"construction, design",Das Haus ist eine interessante Konstruktion.,The house has an interesting construction.
 3715,"die Stichprobe, -n",die,B2+,18.3828,0.6044,0,sample,"Die Stichproben unterscheiden sich in ihrer Qualität, sind aber allgemein akzeptabel.",The samples differ in quality but are generally acceptable.
-3805,"die Dynamik, -en",die,B2+,17.7914,0.8267,0,dynamics,Die Dynamik einer Gruppe bedingt sich an deren Mitgliedern.,The dynamics of a group are determined by its members.
-3810,"der Code, -s",der,B2+,17.7421,0.8021,0,code,"Ich gebe meinen Code in das Handy ein, um es zu starten.",I enter my code into the phone to activate it.
-3833,"die Strömung, -en",die,B2+,17.6435,0.8135,0,"current, trend","Hier darf man nicht schwimmen, der Fluss hat eine starke Strömung.",You can’t swim here; the river has a strong current.
-3866,"das Magnetfeld, -er",das,B2+,17.4464,0.6139,0,magnetic field,Die Erde ist von einem Magnetfeld umgeben.,The earth is surrounded by a magnetic field.
-3885,"die Entropie, -n",die,B2+,17.2985,0.5986,0,entropy,Wärme hat Einfluss auf die Entropie eines Systems.,Heat has an influence on the entropy of a system.
 3891,die Thermodynamik,die,B2+,17.2985,0.509,0,thermodynamics,Die Lehre von der Wärme wird auch Thermodynamik genannt.,The theory of heat is also called thermodynamics.
 3940,"das Examen, -ia",das,B2+,16.9043,0.6631,0,exam,Stefanie besteht ihr Examen mit einer guten Note.,Stefanie passes her exam with a good grade.
-3991,"die Beschleunigung, -en",die,B2+,16.6578,0.6467,0,acceleration,Das Auto schafft eine Beschleunigung von null auf hundert Kilometer pro Stunde in acht Sekunden.,The car manages to accelerate from zero to 100 kilometers per hour in eight seconds.
 3993,"die Erfindung, -en",die,B1,16.6578,0.8924,0,invention,Der Computer ist eine sehr nützliche Erfindung.,The computer is a very useful invention.
-4017,"der Index, -izes",der,B2+,16.51,0.8158,0,index,"Der Index am Ende des Buches gibt an, welche fremden Wörter benutzt werden.",The index at the end of the book indicates which foreign words are used.
-4023,"die Steigung, -en",die,B2+,16.51,0.6654,0,"ascent, slope",In der Schule untersuchen wir in Mathematik die Steigung einer Kurve.,At school we study the slope of a curve in mathematics.
 4040,"die Geographie, -n",die,B2+,16.4114,0.235,0,geography,Ben studiert Geographie in Leipzig.,Ben studies geography in Leipzig.
 4076,"die Befragung, -en",die,B2+,16.2143,0.7373,0,"questioning, survey, interview",Die Polizei führt eine Befragung von verdächtigen Personen durch.,The police are questioning suspects.
-4089,"die Mutation, -en",die,B2+,16.165,0.3213,0,mutation,Eine dauerhafte Veränderung in der DNA wird Mutation genannt.,A permanent change in DNA is called a mutation.
 4132,die Informatik,die,B2+,15.8693,0.5346,0,computer science,"Weil Jan Informatik studiert, sitzt er viel am Computer.","Because Jan is studying computer science, he spends a lot of time at the computer."
-4161,"der Operator, -en",der,B2+,15.6722,0.4516,0,operator,Beispiele für mathematische Operatoren sind Plus und Minus.,Examples of mathematical operators are plus and minus.
-4203,"der Algorithmus, -en",der,B2+,15.475,0.6594,0,algorithm,Durch Algorithmen können Lösungen berechnet werden.,Algorithms can be used to calculate solutions.
-4211,"die Rotation, -en",die,B2+,15.475,0.6651,0,rotation,Durch die Rotation des Autos wird mir übel.,The rotation of the car makes me sick.
 4240,"die Mechanik, -en",die,B2+,15.3272,0.6046,0,mechanics,Unter Mechanik versteht man in der Physik die Bewegung von Körpern.,"In physics, mechanics is the movement of bodies."
 4243,"die Erhebung, -en",die,B2+,15.2779,0.766,0,"survey, elicitation, levying",Die Regierung entscheidet über die Erhebung von Steuern.,The government decides on the levying of taxes.
 4398,"die Algebra, -en",die,B2+,14.4894,0.5284,0,algebra,In der Mathematik beschäftige ich mich am liebsten mit Algebra.,My favorite field of mathematics is algebra.
 4425,"die Naturwissenschaft, -en",die,B2+,14.3908,0.8465,0,natural science,In der Schule interessiere ich mich am meisten für die Naturwissenschaften.,At school I am most interested in the natural sciences.
 4445,"der Aufsatz, -̈e",der,B2+,14.2922,0.8249,0,essay,Ich muss für die Schule morgen noch einen Aufsatz schreiben.,I have an essay to write for school tomorrow.
-4462,"die Evolution, -en",die,B2+,14.2429,0.7324,0,evolution,Die Evolution des Menschen ist nur eine Theorie und nicht bewiesen.,Human evolution is only a theory and not proven.
 4490,die Physiologie,die,B2+,14.0951,0.4977,0,physiology,Die Physiologie des Menschen ist ein Gebiet in der Medizin.,Human physiology is a field in medicine.
 4505,"die Logik, -en",die,B2+,14.0458,0.8746,0,logic,Ich verstehe die Logik deiner Gedanken nicht.,I don’t understand the logic of your thoughts.
 4512,"die Ökonomie, -n",die,B2+,13.9965,0.7063,0,economics,Unter Ökonomie versteht man die Wissenschaft der Wirtschaft.,Economics is the science of business.
-4524,"der Datensatz, -̈e",der,B2+,13.898,0.3481,0,data set,Für meine Arbeit nutze ich Informationen aus einem großen Datensatz.,For my work I use information from a large data set.
-4575,"der Klimawandel, -",der,B2+,13.7008,0.8167,0,climate change,Wir müssen den Klimawandel ernst nehmen.,We must take climate change seriously.
 4627,"die Recherche, -n",die,B1,13.4544,0.8898,0,research,Für meine Recherche gehe ich in die Bibliothek.,I’ll go to the library to do my research.
 4654,"das Gutachten, -",das,B2+,13.3066,0.8664,0,"report, (expert) opinion","Der Experte gibt ein Gutachten zu unserem Haus ab, das wir verkaufen wollen.","The expert gives an expert opinion on our house, which we want to sell."
 4693,"der Fachbereich, -e",der,B2+,13.1094,0.632,0,"(academic) department, field",Ich leite den Fachbereich Fremdsprachen an der Universität.,I manage the Department of Foreign Languages at the university.
 4768,"der Studiengang, -̈e",der,B2+,12.863,0.7171,0,course of study,Diesen Studiengang kann man nur an wenigen Universitäten studieren.,This course of study can only be studied at a few universities.
-4796,"die Konstante, -n",die,B2+,12.7644,0.7032,0,constant,In der Mathematik und in der Physik gibt es festgelegte Konstanten.,In mathematics and physics there are fixed constants.
 4815,"die Anatomie, -n",die,B2+,12.6659,0.5728,0,anatomy,In der Schule besprechen wir die Anatomie des menschlichen Körpers.,At school we discuss the anatomy of the human body.
-4831,"die Symmetrie, -n",die,B2+,12.5673,0.6997,0,symmetry,"Die Symmetrie eines Gesichts ist verantwortlich dafür, ob wir einen Menschen schön finden.",The symmetry of a face is responsible for whether we find a person beautiful.
 4928,"die Fakultät, -en",die,B2+,12.1238,0.8174,0,faculty,Ich studiere an der medizinischen Fakultät der Universität.,I’m studying at the medical faculty of the university.
 4932,"das Modul, -e",das,B2+,12.1238,0.6218,0,module,Dieses Modul bietet die Universität nur im Wintersemester an.,This module is only offered by the university in the winter semester.

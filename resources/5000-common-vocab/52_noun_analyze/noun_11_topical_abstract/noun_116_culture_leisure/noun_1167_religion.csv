@@ -1,0 +1,10 @@
+rank,word,pos,level,freq_per_million,dispersion,has_conjugation,definition,example_de,example_en
+514,"der Gott, -̈er",der,B1,164.9521,0.8884,0,God,Die Menschen in der Kirche glauben an Gott.,People in the church believe in God.
+1909,"das Wunder, -",das,B1,43.7145,0.9145,0,miracle,"Die Menschen sprechen von Wundern, wenn etwas passiert, das unglaublich ist.",People talk about miracles when something happens that’s incredible.
+1961,"das Schicksal, -e",das,B1,42.6303,0.9001,0,fate,"Es ist Schicksal, dass wir uns nach so langer Zeit wieder treffen.",It is fate that we meet again after such a long time.
+1976,"die Religion, -en",die,B1,42.236,0.8856,0,religion,In meiner Religion gibt es einen Gott.,There is a God in my religion.
+2875,"der Islam, -e",der,B2+,26.3667,0.8047,0,Islam,"Im Islam glauben die Menschen an einen Gott, der Allah genannt wird.","In Islam, people believe in a god called Allah."
+3375,"der Teufel, -",der,B2+,20.8962,0.8857,0,devil,Der Teufel lebt in der Hölle.,The devil lives in hell.
+4236,"der Engel, -",der,B2+,15.3272,0.8188,0,angel,"Wenn mein Baby schläft, sieht es aus wie ein Engel.","When my baby sleeps, he/she looks like an angel."
+4313,"die Hölle, -n",die,B2+,14.8836,0.8871,0,hell,Nach der traditionellen Vorstellung des Christentums kommen schlechte Menschen in die Hölle.,"According to the traditional notion of Christianity, bad people go to hell."
+4764,"das Paradies, -e",das,B2+,12.863,0.8701,0,paradise,"Meine Oma sagt, nach dem Tod kommt man ins Paradies.","My granny says after you die, you go to paradise."

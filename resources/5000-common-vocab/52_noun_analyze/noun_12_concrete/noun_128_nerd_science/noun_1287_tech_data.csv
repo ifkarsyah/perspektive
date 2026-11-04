@@ -1,0 +1,11 @@
+rank,word,pos,level,freq_per_million,dispersion,has_conjugation,definition,example_de,example_en
+574,Daten,die (pl),B1,150.4134,0.8082,0,data,Er überprüft die Daten seines Experiments.,He’s checking the data from his experiment.
+1269,"die Technik, -en",die,B1,69.7362,0.9044,0,"technology, technique","Die neue Technik ist teuer, aber spart viel Zeit.","The new technology is expensive, but saves a lot of time."
+2170,"die Technologie, -n",die,B1,37.7019,0.8622,0,technology,Die ausländischen Unternehmen bringen Wissen und Technologie ins Land.,Foreign companies bring knowledge and technology into the country.
+3151,"die Software, -s",die,B2+,23.0154,0.8142,0,software,Dein Computer braucht eine neue Software.,Your computer needs new software.
+3263,"die Digitalisierung, -en",die,B2+,21.734,0.7366,0,digitalization,Die Digitalisierung entwickelt sich sehr schnell.,Digitalization is developing very fast.
+3416,"die Datenbank, -en",die,B2+,20.5512,0.5708,0,database,Wir speichern alle unsere Kundendaten in einer Datenbank.,We store all our customer data in a database.
+3563,"das Informationssystem, -e",das,B2+,19.3684,0.3247,0,information system,Mehrere Personen können gleichzeitig auf das Informationssystem zugreifen.,Multiple people can access the information system simultaneously.
+3712,"die Konstruktion, -en",die,B2+,18.3828,0.8708,0,"construction, design",Das Haus ist eine interessante Konstruktion.,The house has an interesting construction.
+3810,"der Code, -s",der,B2+,17.7421,0.8021,0,code,"Ich gebe meinen Code in das Handy ein, um es zu starten.",I enter my code into the phone to activate it.
+4524,"der Datensatz, -̈e",der,B2+,13.898,0.3481,0,data set,Für meine Arbeit nutze ich Informationen aus einem großen Datensatz.,For my work I use information from a large data set.

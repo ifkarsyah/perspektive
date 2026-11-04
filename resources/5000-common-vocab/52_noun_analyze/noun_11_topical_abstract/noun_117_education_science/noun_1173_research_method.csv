@@ -1,0 +1,31 @@
+rank,word,pos,level,freq_per_million,dispersion,has_conjugation,definition,example_de,example_en
+708,"das Modell, -e",das,B1,125.3281,0.8808,0,model,"Ich kaufe mir ein neues Auto, weil mir das neue Modell besser gefällt.",I’m buying a new car because I like the new model better.
+784,"die Studie, -n",die,B1,109.4588,0.8531,0,study,Laut einer Studie ist der Virus sehr gefährlich.,"According to a study, this virus is very dangerous."
+796,"die Methode, -n",die,B1,108.1281,0.8405,0,method,Wir nutzen unterschiedliche Methoden zum Lernen von Sprachen.,We use different methods for language learning.
+860,"die Untersuchung, -en",die,B1,100.982,0.8509,0,examination,Thomas muss für seine Untersuchung zu einem speziellen Arzt gehen.,Thomas has to see a special doctor for his examination.
+881,"die Analyse, -n",die,A2,98.9121,0.808,0,analysis,"Die Analyse des Blutes zeigt, dass der Patient gesund ist.",The blood analysis shows that the patient is healthy.
+1064,"die Theorie, -n",die,B1,81.6629,0.854,0,theory,Er kann die Theorie nicht beweisen.,He can’t prove the theory.
+1304,"die Statistik, -en",die,B1,67.7649,0.565,0,statistics,Die Statistiken zeigen einen deutlichen Anstieg der Temperatur.,Statistics show a significant increase in temperature.
+1335,"die Forschung, -en",die,B1,66.4342,0.8895,0,research,Der Staat investiert in die Forschung.,The state invests in research.
+1564,"die Kategorie, -n",die,B1,55.8383,0.6318,0,category,Sie gewinnt einen Preis in der Kategorie “bester Film”.,She wins an award in the category “best film”.
+1626,"das Kriterium, -en",das,B1,53.1277,0.8689,0,criterion,Frau Schneider erfüllt alle erforderlichen Kriterien für den Job.,Mrs. Schneider fulfills all necessary criteria for the job.
+1695,"das Experiment, -e",das,B1,50.4664,0.8218,0,experiment,"Der Lehrer zeigt in einem Experiment, wie zwei chemische Substanzen miteinander reagieren.",The teacher shows in an experiment how two chemical substances react with each other.
+1866,"der Beweis, -e",der,B1,45.0452,0.9197,0,"proof, evidence",Die zehn Kinder sind ein Beweis ihrer Liebe.,The ten children are a proof of her love.
+1936,"das Phänomen, -e",das,B1,43.1724,0.8707,0,phenomenon,"Phänomene sind Dinge, die der Mensch mit seinen Sinnen wahrnehmen kann.",Phenomena are things that people can perceive with their senses.
+2028,"die Bewertung, -en",die,B1,40.7082,0.8162,0,"assessment, evaluating, evaluation",Der Professor ist für die Bewertung der Prüfung zuständig.,The professor is responsible for evaluating the exam.
+2029,"die Messung, -en",die,B1,40.7082,0.7899,0,"measuring, measurement","Die Messung zeigt an, dass das Wasser 20 Grad warm ist.",The measurement shows that the water is 20 degrees.
+2126,"die Beobachtung, -en",die,B1,38.4412,0.8624,0,observation,Laut seiner Beobachtungen können auch einige Tiere lachen.,"According to his observations, some animals can also laugh."
+2176,"die Umfrage, -n",die,B1,37.5541,0.8048,0,survey,Die Teilnehmer an der Umfrage erhalten ein kleines Geschenk.,The participants of the survey receive a small gift.
+2256,"die Variante, -n",die,B1,35.8784,0.8901,0,"variant, variation",Das Handy gibt es in verschiedenen Varianten und Farben.,The phone is available in many different variants and colors.
+2778,"die Auswertung, -en",die,B2+,27.4509,0.8033,0,"evaluation, analysis",Ich lese gerade die Auswertung meiner Prüfung.,I’m currently reading the evaluation of my exam.
+2984,"die Prognose, -n",die,B2+,24.9868,0.8622,0,"prognosis, forecast",Die Prognose für das Wetter für die nächste Woche ist sehr gut.,The forecast for the weather next week is very good.
+3061,"die These, -n",die,B2+,24.0011,0.8688,0,thesis,Ich brauche eine gute These für meine wissenschaftliche Arbeit.,I need a good thesis for my scientific work.
+3447,"die Entdeckung, -en",die,B2+,20.2555,0.8622,0,discovery,Marie Curies Erfolg war die Entdeckung des chemischen Elements Radium.,Marie Curie’s success was the discovery of the chemical element radium.
+3543,"die Hypothese, -n",die,B2+,19.5656,0.7605,0,hypothesis,Die Hypothese ist widerlegt.,The hypothesis is refuted.
+3697,"das Schema, -s",das,B2+,18.4813,0.8425,0,scheme,Er arbeitet nach einem festen Schema.,He works according to a fixed scheme.
+3715,"die Stichprobe, -n",die,B2+,18.3828,0.6044,0,sample,"Die Stichproben unterscheiden sich in ihrer Qualität, sind aber allgemein akzeptabel.",The samples differ in quality but are generally acceptable.
+3993,"die Erfindung, -en",die,B1,16.6578,0.8924,0,invention,Der Computer ist eine sehr nützliche Erfindung.,The computer is a very useful invention.
+4076,"die Befragung, -en",die,B2+,16.2143,0.7373,0,"questioning, survey, interview",Die Polizei führt eine Befragung von verdächtigen Personen durch.,The police are questioning suspects.
+4243,"die Erhebung, -en",die,B2+,15.2779,0.766,0,"survey, elicitation, levying",Die Regierung entscheidet über die Erhebung von Steuern.,The government decides on the levying of taxes.
+4627,"die Recherche, -n",die,B1,13.4544,0.8898,0,research,Für meine Recherche gehe ich in die Bibliothek.,I’ll go to the library to do my research.
+4654,"das Gutachten, -",das,B2+,13.3066,0.8664,0,"report, (expert) opinion","Der Experte gibt ein Gutachten zu unserem Haus ab, das wir verkaufen wollen.","The expert gives an expert opinion on our house, which we want to sell."

@@ -1,0 +1,20 @@
+rank,word,pos,level,freq_per_million,dispersion,has_conjugation,definition,example_de,example_en
+1180,"die Gleichung, -en",die,B1,73.6789,0.7127,0,equation,Die Lehrerin erklärt die chemische Gleichung.,The teacher explains the chemical equation.
+1445,"die Formel, -n",die,B1,61.5059,0.8517,0,formula,Die Formel zur Berechnung der Geschwindigkeit ist v = s/t.,The formula for calculating the velocity is v = s/t.
+1754,"die Berechnung, -en",die,B1,48.5936,0.8184,0,calculation,Nach den neuen Berechnungen der Manager kann sich die Firma einen zweiten Standort leisten.,"According to the new calculations of the managers, the company can afford a second location."
+1789,"die Variable, -n",die,B1,47.4601,0.5837,0,variable,"Die Variablen in der Gleichung sind X, Y und Z.","The variables in the equation are X, Y, and Z."
+2075,"die Kurve, -n",die,B1,39.624,0.8513,0,"curve, turn",Die Straße macht eine Kurve nach links.,The road takes a turn to the left.
+2376,"die Matrix, -zen",die,B1,33.4143,0.5759,0,matrix,Matrix ist ein Begriff aus der Biologie oder der Mathematik.,Matrix is a term from biology or mathematics.
+2397,"die Ableitung, -en",die,B1,33.0693,0.7431,0,derivation,Unser Mathematiklehrer bringt uns die Ableitung von Funktionen bei.,Our mathematics teacher teaches us the derivation of functions.
+2431,"der Vektor, -en",der,B1,32.5764,0.6213,0,vector,Ein Beispiel für einen Vektor ist die Geschwindigkeit.,An example of a vector is speed.
+2440,"der Winkel, -",der,B1,32.3793,0.82,0,"angle, corner",Ein Quadrat hat vier gleiche Winkel.,A square has four equal angles.
+2748,"der Parameter, -",der,B2+,27.9438,0.7364,0,parameter,Die Ergebnisse liegen innerhalb akzeptabler Parameter.,The results are within acceptable parameters.
+3087,"die Substitution, -en",die,B2+,23.804,0.472,0,"substitution, replacement","Eine Substitution kann erfolgen, wenn vorausbezahlt wird.",A replacement is possible if paid in advance.
+3231,"die Varianz, -en",die,B2+,22.1776,0.3382,0,variance,Die Studenten sollen den Mittelwert und die Varianz berechnen.,The students are supposed to calculate the mean value and the variance.
+3708,"die Addition, -en",die,B2+,18.3828,0.5963,0,"addition, summation","Wer gut in Mathe sein will, muss die Addition beherrschen.","If you want to be good at math, you have to master addition."
+4017,"der Index, -izes",der,B2+,16.51,0.8158,0,index,"Der Index am Ende des Buches gibt an, welche fremden Wörter benutzt werden.",The index at the end of the book indicates which foreign words are used.
+4023,"die Steigung, -en",die,B2+,16.51,0.6654,0,"ascent, slope",In der Schule untersuchen wir in Mathematik die Steigung einer Kurve.,At school we study the slope of a curve in mathematics.
+4161,"der Operator, -en",der,B2+,15.6722,0.4516,0,operator,Beispiele für mathematische Operatoren sind Plus und Minus.,Examples of mathematical operators are plus and minus.
+4203,"der Algorithmus, -en",der,B2+,15.475,0.6594,0,algorithm,Durch Algorithmen können Lösungen berechnet werden.,Algorithms can be used to calculate solutions.
+4796,"die Konstante, -n",die,B2+,12.7644,0.7032,0,constant,In der Mathematik und in der Physik gibt es festgelegte Konstanten.,In mathematics and physics there are fixed constants.
+4831,"die Symmetrie, -n",die,B2+,12.5673,0.6997,0,symmetry,"Die Symmetrie eines Gesichts ist verantwortlich dafür, ob wir einen Menschen schön finden.",The symmetry of a face is responsible for whether we find a person beautiful.
