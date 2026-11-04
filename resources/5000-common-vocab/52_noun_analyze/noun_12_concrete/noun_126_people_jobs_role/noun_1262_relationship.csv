@@ -1,0 +1,14 @@
+rank,word,pos,level,freq_per_million,dispersion,has_conjugation,definition,example_de,example_en
+273,"der Freund, -e",der,A1,321.181,0.9155,0,friend,Elsbeth ist eine gute Freundin.,Elsbeth is a good friend.
+440,"der Kollege, -n",der,A1,186.5383,0.797,0,colleague,Diana hat nur nette Kolleginnen bei der Arbeit.,Diana only has nice colleagues at work.
+576,"der Gast, -̈e",der,A1,150.3149,0.8891,0,guest,Heute sind Herr und Frau Müller unsere Gäste bei dem Fest.,Today Mr. and Mrs. Müller are our guests at the party.
+1283,"der Nachbar, -n",der,A2,68.8491,0.9192,0,neighbor,"Wenn unsere Nachbarn kochen, kann man es im ganzen Haus riechen.","When our neighbors cook, you can smell it in the entire house."
+2382,"das Vorbild, -er",das,B1,33.365,0.8908,0,"role model, example","Sophie ist ein Vorbild für die anderen Schüler, sie beteiligt sich immer aktiv am Unterricht.","Sophie is a role model for the other students, she always participates actively in the lessons."
+2447,"der Held, -en",der,B1,32.2314,0.8933,0,hero,In meiner Jugend war James Bond mein größter Held.,James Bond was my greatest hero in my youth.
+2781,"der Nachfolger, -",der,B2+,27.4509,0.873,0,successor,"Wenn ich nicht mehr arbeiten kann, brauche ich einen Nachfolger für meinen Job.","If I can’t work anymore, I need a successor for my job."
+3008,"der Gastgeber, -",der,B2+,24.6911,0.8262,0,host,Der Gastgeber kümmert sich gut um seine Gäste.,The host takes good care of his guests.
+3426,"der Helfer, -",der,B2+,20.4527,0.8675,0,"helper, accomplice",Der Verein ist immer auf der Suche nach freiwilligen Helfern.,The association is always looking for voluntary helpers.
+3767,"der Vorgänger, -",der,B2+,18.0378,0.8723,0,predecessor,"Judith ist meine Vorgängerin bei der Arbeit, ich übernehme ihren Job ab sofort.","Judith is my predecessor at work, I’m taking over her job from now on."
+4261,"der Genosse, -n",der,B2+,15.1793,0.7754,0,comrade,Früher nannte man in Deutschland einen Menschen mit den gleichen politischen Zielen einen Genossen.,In Germany people used to call a person with the same political goals a comrade.
+4802,"der Begleiter, -",der,B2+,12.7152,0.883,0,"attendant, companion","Wenn ich keinen Begleiter für das Fest finde, komme ich alleine.","If I can’t find a companion for the party, I’ll come alone."
+4921,"der Kumpel, -",der,B2+,12.173,0.8292,0,pal,"Ich bin nicht in Oliver verliebt, er ist nur ein Kumpel.","I’m not in love with Oliver, he’s just a pal."

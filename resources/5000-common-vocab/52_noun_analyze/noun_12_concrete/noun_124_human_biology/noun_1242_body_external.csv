@@ -1,0 +1,38 @@
+rank,word,pos,level,freq_per_million,dispersion,has_conjugation,definition,example_de,example_en
+180,"die Hand, -̈e",die,A1,482.1904,0.8899,0,hand,Ich schreibe mit meiner rechten Hand.,I write with my right hand.
+222,"das Auge, -n",das,A1,389.5865,0.8941,0,eye,Er hat schöne blaue Augen.,He has beautiful blue eyes.
+250,"der Kopf, -̈e",der,A1,353.1167,0.8888,0,head,Auf dem Hals befindet sich der Kopf.,On the neck is the head.
+346,"das Gesicht, -er",das,A2,240.6023,0.8641,0,face,Sie hat ein sehr schönes Gesicht.,She has a very beautiful face.
+488,"der Körper, -",der,A2,170.8168,0.8879,0,body,Stefanie hat einen sportlichen Körper.,Stefanie has an athletic body.
+527,"der Arm, -e",der,A1,161.7486,0.8731,0,arm,An der Seite vom Körper sind die Arme.,To the side of the body are the arms.
+573,"der Fuß, -̈e",der,A1,150.7584,0.8962,0,foot,Er hat große Füße.,He has big feet.
+748,"das Haar, -e",das,A1,116.2599,0.8678,0,hair,Ich wasche meine Haare täglich.,I wash my hair every day.
+856,"der Mund, -̈er",der,A1,101.4256,0.8643,0,mouth,Sie küsst ihn direkt auf den Mund.,She kisses him right on the mouth.
+884,"das Bein, -e",das,A1,98.6164,0.8893,0,leg,Er hat sehr lange Beine.,He has very long legs.
+998,"die Ferse, -n",die,A2,87.0841,0.9205,0,heel,Die Ferse ist der hintere Teil vom Fuß.,The heel is the back part of the foot.
+1019,"der Finger, -",der,B1,85.162,0.8744,0,finger,Sie trägt einen Ring am Finger.,She wears a ring on her finger.
+1023,"die Schulter, -n",die,B1,84.9156,0.841,0,shoulder,Die Schulter verbindet den Arm und den Körper.,The shoulder connects the arm and the body.
+1060,"der Rücken, -",der,A2,81.9093,0.8798,0,back,Ich liege auf dem Rücken und schaue zur Decke.,I’m lying on my back looking at the ceiling.
+1088,"das Ohr, -en",das,A2,79.9872,0.8824,0,ear,Sie flüstert ihm etwas ins Ohr.,She whispers something in his ear.
+1149,"die Haut, -̈e",die,B1,75.6995,0.8645,0,skin,Zu viel Sonne ist nicht gut für die Haut.,Too much sun is not good for the skin.
+1264,"die Nase, -n",die,B1,69.9334,0.8668,0,nose,In meiner Familie haben alle eine lange Nase.,Everybody in my family has a long nose.
+1591,"der Hals, -̈e",der,A2,54.3105,0.8681,0,"neck, throat",Sie trägt immer eine goldene Kette um ihren Hals.,She always wears a golden chain around her neck.
+1679,"das Knie, -",das,B1,50.9099,0.8466,0,knee,Bei einem Rennen in Berlin verletzte sich ein Sportler schwer am Knie.,"At a race in Berlin, one athlete injured his knee badly."
+1783,"die Brust, -̈e",die,B1,47.6079,0.8677,0,"breast, chest",Die Mutter drückt das Baby an ihre Brust.,The mother presses the baby to her breast.
+1869,"die Stirn, -en",die,B1,44.848,0.8387,0,forehead,Die Mutter küsst ihre Tochter auf die Stirn.,The mother kisses her daughter on the forehead.
+1871,"der Zahn, -̈e",der,A2,44.7988,0.8716,0,tooth,"Sandra bekommt Schmerzen an den Zähnen, wenn sie kaltes Eis isst.",Sandra gets pain in her teeth when she eats cold ice cream.
+2033,"die Lippe, -n",die,B1,40.6097,0.8411,0,lip,Er küsst sie direkt auf die Lippen.,He kisses her right on the lips.
+2147,"der Bauch, -̈e",der,A1,38.1455,0.8783,0,belly,Er schläft lieber auf dem Bauch als auf dem Rücken.,He prefers to sleep on his belly rather than his back.
+2861,"die Zunge, -n",die,B2+,26.5146,0.8513,0,tongue,Der kleine Junge streckt die Zunge heraus.,The little boy sticks out his tongue.
+3022,"die Wange, -n",die,B2+,24.5925,0.8153,0,cheek,Zum Abschied gibt er ihr einen Kuss auf die Wange.,He gives her a kiss on the cheek as a farewell.
+3250,"die Faust, -̈e",die,B2+,21.9312,0.8732,0,fist,Albert schlägt seinem Bruder mit der Faust ins Gesicht.,Albert punches his brother in the face with his fist.
+3274,"der Leib, -er",der,B2+,21.6848,0.8889,0,body,Sie zittert am ganzen Leib.,She’s shivering all over her body.
+3821,"der Nacken, -",der,B2+,17.6928,0.8475,0,neck,Der Nacken ist der Übergang vom Rücken zum Kopf.,The neck is the transition from the back to the head.
+3955,"der Arsch, -Äe",der,B2+,16.855,0.7433,0,"ass, behind","John ist ein Arsch, weil er Anja schlecht behandelt.",John is an ass because he treats Anja badly.
+3965,"der Daumen, -",der,B2+,16.8057,0.8751,0,thumb,Zum Schlafen steckt das Baby seinen Daumen in den Mund.,"To be able to sleep, the baby puts its thumb in its mouth."
+4105,"die Hüfte, -n",die,B2+,16.0664,0.7574,0,hip,Das Wasser reichte ihr bis zur Hüfte.,The water reached her hip.
+4199,"der Oberschenkel, -",der,B2+,15.5243,0.6218,0,thigh,Als Oberschenkel bezeichnet man den oberen Teil des Beines bei einem Menschen.,The upper part of a person’s leg is called the thigh.
+4423,"das Kinn, -e",das,B2+,14.3908,0.8277,0,chin,Kilian ist vierzehn und hat schon ein paar Haare am Kinn.,Kilian is 14 and already has a few hairs on his chin.
+4430,"der Zeigefinger, -",der,B2+,14.3908,0.8417,0,index finger,Der Zeigefinger ist der zweite Finger an der Hand.,The index finger is the second finger on the hand.
+4645,"die Miene, -n",die,B2+,13.3558,0.8163,0,"face, expression, look","Sie setzt eine freundliche Miene auf, obwohl sie wütend ist.",She puts on a friendly face even though she’s angry.
+4726,"der Schoß, -̈e",der,B2+,13.0109,0.8281,0,lap,Benno sitzt auf dem Schoß von seinem Opa.,Benno sits on his grandfather’s lap.

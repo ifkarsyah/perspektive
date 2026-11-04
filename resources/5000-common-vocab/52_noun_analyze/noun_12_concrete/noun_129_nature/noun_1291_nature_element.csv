@@ -16,6 +16,7 @@ rank,word,pos,level,freq_per_million,dispersion,has_conjugation,definition,examp
 2167,"das Metall, -e",das,B1,37.7512,0.7395,0,metal,Gold ist ein besonders wertvolles Metall.,Gold is a particularly valuable metal.
 2300,die Wärme,die,B1,34.942,0.8008,0,"warmth, heat",Sie spürt die Wärme der Sonne auf ihrer Haut.,She feels the warmth of the sun on her skin.
 2413,das Gold,das,B1,32.8721,0.8889,0,gold,Der Ring ist aus echtem Gold.,The ring is made of real gold.
+2423,"die Atmosphäre, -n",die,B1,32.6257,0.9003,0,atmosphere,Ich mag die lockere Atmosphäre im Büro.,I like the relaxed atmosphere in the office.
 2474,"der Sand, -e",der,B1,31.8865,0.8838,0,sand,Das ist ein schöner Strand mit weißem Sand.,This is a nice beach with white sand.
 2913,"der Sturm, -̈e",der,B1,25.8739,0.8837,0,storm,Das Boot gerät in einen starken Sturm.,The boat gets caught in a strong storm.
 3044,"das Eisen, -",das,B2+,24.2475,0.7353,0,iron,Die Tür ist aus Eisen und sehr schwer.,The door is made of iron and very heavy.

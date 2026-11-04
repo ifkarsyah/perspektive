@@ -1,0 +1,8 @@
+rank,word,pos,level,freq_per_million,dispersion,has_conjugation,definition,example_de,example_en
+1625,"die Waffe, -n",die,B1,53.2262,0.8876,0,weapon,Die Polizei findet Waffen in seiner Wohnung.,The police find weapons in his apartment.
+1818,"die Falle, -n",die,B1,46.5237,0.91,0,trap,"Die Männer legen im Wald Fallen, um Tiere zu fangen.",The men set traps in the forest to catch animals.
+2391,"die Kugel, -n",die,B1,33.2664,0.8032,0,"ball, sphere, bullet",Die Kugel der Waffe trifft den Mann direkt ins Herz.,The bullet in the gun hits the man right in the heart.
+3355,"die Bombe, -n",die,B2+,20.9948,0.8473,0,bomb,In diesem Gebiet liegen unter der Erde noch Bomben aus der Zeit des Krieges.,There are still bombs from the time of the war underground in this area.
+4032,"das Gewehr, -e",das,B2+,16.4607,0.7314,0,"rifle, shotgun",Der Jäger nimmt sein Gewehr und geht auf die Jagd.,The hunter takes his rifle and goes hunting.
+4266,"der Pfeil, -e",der,B2+,15.1301,0.83,0,arrow,Die roten Pfeile im Supermarkt deuten auf die speziellen Preise hin.,The red arrows in the supermarket indicate the special prices.
+4469,"die Pistole, -n",die,B2+,14.1937,0.8132,0,pistol,Der Täter hat eine Pistole dabei und benutzt sie auch.,The perpetrator has a pistol with him and uses it.

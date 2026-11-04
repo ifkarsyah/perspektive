@@ -1,0 +1,8 @@
+rank,word,pos,level,freq_per_million,dispersion,has_conjugation,definition,example_de,example_en
+511,"das Stück, -e",das,A2,165.6913,0.9115,0,piece,Er gibt ihr ein Stück von dem Brot.,He gives her a piece of the bread.
+758,"der Stoff, -e",der,B1,114.3379,0.8323,0,"material, substance, fabric",Die Hose besteht aus einem weichen Stoff.,The trousers are made of soft fabric.
+1673,"die Komponente, -n",die,B1,51.3042,0.817,0,component,"Das Gericht besteht aus verschiedenen Komponenten, die auch einzeln gut schmecken.",The dish consists of different components that also taste good individually.
+2648,"die Faser, -n",die,B2+,29.3237,0.3828,0,fiber,Die Fasern an der Leiche stammen wahrscheinlich von der Kleidung des Täters.,The fibers on the body are probably from the offender’s clothes.
+3559,"der Rohstoff, -e",der,B2+,19.4177,0.803,0,raw material,Das Land exportiert Rohstoffe wie Kupfer.,The country exports raw materials such as copper.
+4081,"der Haufen, -",der,B2+,16.2143,0.87,0,"heap, pile, load","In meinem Zimmer liegt ein großer Haufen mit Sachen, den ich aufräumen muss.",There’s a big pile of stuff in my room that I have to clean up.
+4231,"der Tropfen, -",der,B1,15.3765,0.8664,0,drop,Jeden Abend nimmt meine Oma drei Tropfen ihrer Medizin.,Every night my grandma takes three drops of her medicine.

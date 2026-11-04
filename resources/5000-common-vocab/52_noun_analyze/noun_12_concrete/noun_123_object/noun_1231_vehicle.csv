@@ -1,0 +1,19 @@
+rank,word,pos,level,freq_per_million,dispersion,has_conjugation,definition,example_de,example_en
+361,"das Auto, -s",das,A1,232.2241,0.9044,0,"automobile, car",Auf der Straße fahren viele Autos.,There are a lot of cars on the road.
+675,"der Zug, -̈e",der,A1,130.4536,0.9233,0,train,Der Zug kommt um zwölf Uhr an.,The train arrives at twelve o’clock.
+1175,"der Wagen, -",der,A2,74.0732,0.8723,0,"car, carriage",Wo hast du deinen Wagen geparkt?,Where did you park your car?
+1176,"das Schiff, -e",das,A2,74.0239,0.8724,0,ship,Das Schiff transportiert Öl.,The ship is transporting oil.
+1415,"die Bahn, -en",die,A1,62.8858,0.8609,0,"train, railway, way","Wir fahren mit dem Zug in den Urlaub, weil das Auto kaputt ist.",We’re going on vacation by train because the car broke down.
+1562,"der Bus, -se",der,A1,55.8876,0.8895,0,bus,Der Bus fährt nur am Wochenende.,The bus only runs on weekends.
+1721,"das Fahrzeug, -e",das,B1,49.3328,0.8431,0,vehicle,Irgendwann fahren nur noch elektronische Fahrzeuge.,"At some point, only electronic vehicles will be driving."
+1776,"das Flugzeug, -e",das,A1,47.7558,0.9003,0,airplane,Mit dem Flugzeug kann man leicht von Kontinent zu Kontinent reisen.,You can easily travel from continent to continent by airplane.
+2109,"das Boot, -e",das,B1,38.7862,0.8751,0,boat,Im Sommer fährt Felix mit seinem Boot auf der Donau von Deutschland nach Österreich.,In summer Felix travels with his boat on the Danube from Germany to Austria.
+2138,"das Fahrrad, -̈er",das,A1,38.244,0.8756,0,bicycle,Ich fahre mit dem Fahrrad zur Universität.,I ride my bicycle to the university.
+2359,"der Motor, -en",der,A2,33.71,0.8977,0,"motor, engine",Der Motor von Christinas Auto macht komische Geräusche.,The engine of Christina’s car makes strange noises.
+2392,"das Rad, -̈er",das,B1,33.2664,0.8852,0,wheel,Ein Fahrrad hat zwei Räder.,A bicycle has two wheels.
+2999,"das Taxi, -s",das,A1,24.8389,0.8613,0,taxi,Wir nehmen ein Taxi zum Flughafen.,We’re taking a taxi to the airport.
+3892,LKW (Lastkraftwagen),der,A1,17.2492,0.7871,0,truck,Der LKW transportiert die Milch von den Bauern zu den Läden.,The truck transports the milk from the farmers to the shops.
+4520,"die Rakete, -n",die,B2+,13.9472,0.8138,0,rocket,Am letzten Abend im Jahr schießen wir Raketen in die Luft.,The last night of the year we shoot rockets into the air.
+4543,"der Lastwagen, -",der,B2+,13.8487,0.8507,0,truck,Vasile fährt mit seinem Lastwagen durch ganz Europa.,Vasile drives his truck across all of Europe.
+4646,"das Motorrad, -̈er",das,B1,13.3558,0.8402,0,motorbike,Wir fahren mit dem Motorrad nach Italien.,We’re going to Italy by motorbike.
+4940,"das Elektroauto, -s",das,B2+,12.0745,0.6557,0,electric car,Elektroautos sind eine sinnvolle Alternative zum Schutz der Umwelt.,Electric cars are a sensible alternative for protecting the environment.

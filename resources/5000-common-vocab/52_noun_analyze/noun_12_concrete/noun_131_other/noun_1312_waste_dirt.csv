@@ -1,0 +1,5 @@
+rank,word,pos,level,freq_per_million,dispersion,has_conjugation,definition,example_de,example_en
+4309,der Dreck,der,B1,14.8836,0.8701,0,dirt,"Wenn Kinder draußen spielen, haben sie oft überall Dreck am Körper.","When children play outside, they often have dirt all over their bodies."
+4370,"der Abfall, -̈e",der,B1,14.6372,0.855,0,"waste, trash","Ich bringe immer den Abfall runter, wenn ich das Haus verlasse.",I always take the trash down when I leave the house.
+4488,Mist,der,B2+,14.0951,0.819,0,"crap, manure","Anton redet nur Mist, du kannst ihm nichts glauben.","Anton talks crap, you can’t believe anything he says."
+4506,der Müll,der,A2,14.0458,0.8999,0,"waste, garbage, rubbish, trash","Die Menschen produzieren zu viel Müll, das schadet der Umwelt.","People produce too much waste, which is harmful to the environment."

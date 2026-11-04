@@ -1,0 +1,6 @@
+rank,word,pos,level,freq_per_million,dispersion,has_conjugation,definition,example_de,example_en
+771,"der Sommer, -",der,A2,110.9373,0.9107,0,summer,"Im Sommer ist es warm, weil oft die Sonne scheint.","In summer it is warm, because the sun often shines."
+1206,"der Winter, -",der,B1,72.3975,0.8975,0,winter,Der Winter dauert von November bis März.,Winter lasts from November to March.
+1596,"der Herbst, -e",der,B1,54.2119,0.9117,0,autumn,Im Herbst sinken die Temperaturen.,Temperatures drop in fall.
+2762,"das Frühjahr, -e",das,B2+,27.6974,0.8966,0,spring,Im Frühjahr steigen die Temperaturen.,In spring the temperatures increase.
+3522,"der Frühling, -e",der,B2+,19.7134,0.8832,0,spring,Im März beginnt der Frühling und es wird wärmer.,In March spring begins and it gets warmer.

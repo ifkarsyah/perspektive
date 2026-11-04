@@ -1,0 +1,162 @@
+rank,word,pos,level,freq_per_million,dispersion,has_conjugation,definition,example_de,example_en
+90,"der Mensch, -en",der,A1,1093.5529,0.9286,0,human being,Es gibt über sieben Milliarden Menschen auf der Welt.,There are over seven billion human beings in the world.
+99,"die Frau, -en",die,A1,926.0874,0.9173,0,"woman, wife, Mrs.",Frauen sollten den gleichen Lohn bekommen wie Männer.,Women should be paid the same as men.
+121,"der Mann, -̈er",der,A1,758.129,0.9208,0,man,Sie wohnt mit einem Mann zusammen.,She lives with a man.
+133,"das Kind, -er",das,A1,679.4724,0.9187,0,child,Das Kind geht gern zur Schule.,The child likes going to school.
+154,"der Herr, -en",der,A1,558.6784,0.8182,0,Mr.,Unser neuer Lehrer heißt Herr Schmidt.,Our new teacher is called Mr. Schmidt.
+224,Leute,die (pl),A1,387.8616,0.8936,0,people,Ich treffe auf der Party viele nette Leute.,I meet a lot of nice people at the party.
+240,"der Doktor, -en (Dr.)",der,A1,362.5792,0.7734,0,doctor,"Wenn ich Schmerzen habe, gehe ich zu einem Doktor.","Whenever I’m in pain, I go to a doctor."
+273,"der Freund, -e",der,A1,321.181,0.9155,0,friend,Elsbeth ist eine gute Freundin.,Elsbeth is a good friend.
+282,"der Professor, -en",der,B1,310.6836,0.7516,0,professor,Ein Professor lehrt an der Universität.,A professor teaches at the university.
+357,"die Person, -en",die,A2,237.2511,0.8561,0,person,In den Saal passen zehn Personen.,The hall can accommodate ten people.
+369,"die Gruppe, -n",die,A1,226.5072,0.9102,0,group,Sie müssen in einer Gruppe zusammenarbeiten.,You have to work together in a group.
+440,"der Kollege, -n",der,A1,186.5383,0.797,0,colleague,Diana hat nur nette Kolleginnen bei der Arbeit.,Diana only has nice colleagues at work.
+519,"der Kunde, -n",der,A1,163.9171,0.8335,0,"customer, client",Es kommen viele Kunden in seinen Laden.,Many customers come to his shop.
+548,"der Junge, -n",der,A1,156.5739,0.8786,0,boy,"Als Thomas ein kleiner Junge war, weinte er viel.","When Thomas was a little boy, he cried a lot."
+556,"der Schüler, -",der,A1,155.2925,0.8043,0,"pupil, student (USA)",Die Schüler bereiten sich auf die Prüfungen vor.,The students prepare for their exams.
+576,"der Gast, -̈e",der,A1,150.3149,0.8891,0,guest,Heute sind Herr und Frau Müller unsere Gäste bei dem Fest.,Today Mr. and Mrs. Müller are our guests at the party.
+602,"das Mädchen, -",das,A1,144.253,0.8899,0,girl,Das Mädchen heißt Lina und sie geht noch zur Schule.,"The girl’s called Lina, and she’s still in school."
+622,"der Arzt, -Äe",der,A1,140.1132,0.8638,0,"physician, doctor",Die Ärztin gibt ihm ein Medikament.,The doctor gives him a medication.
+639,"der Mitarbeiter, -",der,A2,135.7762,0.8923,0,"employee, co-worker",Die Firma hat nur wenige Mitarbeiter.,The company has just a few employees.
+695,"der Lehrer, -",der,A1,127.9401,0.8221,0,teacher,Wir haben einen neuen Lehrer an unserer Schule.,We have a new teacher at our school.
+702,"die Dame, -n",die,A1,126.0181,0.7834,0,lady,Unten in der Wohnung wohnt eine alte Dame.,An old lady lives in the apartment downstairs.
+723,"der Autor, -en",der,B1,122.0261,0.8648,0,author,Johann Wolfgang von Goethe ist der Autor vieler Gedichte und Erzählungen.,Johann Wolfgang von Goethe is the author of many poems and stories.
+769,"das Team, -s",das,A2,111.3316,0.8137,0,team,Das Team trainiert täglich für das Spiel am Samstag.,The team trains daily for the match on Saturday.
+789,"der Künstler, -",der,B1,108.966,0.8194,0,artist,Die Künstlerin zeigt ihre Bilder in der neuen Ausstellung.,The artist shows her paintings in the new exhibition.
+822,"der Spieler, -",der,B1,104.8261,0.7378,0,player,Wir haben viele gute Spielerinnen in unserem Team.,We have many good players on our team.
+975,"der Chef, -s",der,A1,88.9568,0.8953,0,"head, leader, boss","Martin leitet diese Firma, er ist der Chef.","Martin runs this company, he’s the boss."
+999,"der Sprecher, -",der,A2,87.0348,0.8306,0,"speaker, spokesperson",Der Sprecher der Firma hat ein Interview.,The company spokesperson has an interview.
+1003,"der Trainer, -",der,B1,86.7391,0.6767,0,coach,"Der Trainer ist sehr stolz, wenn seine Mannschaft gewinnt.",The coach is very proud when his team wins.
+1017,"der Student, -en",der,A1,85.3591,0.8931,0,student,Tim ist Student an der Universität Leipzig.,Tim is a student at the University of Leipzig.
+1099,"die Mannschaft, -en",die,A2,79.1494,0.7225,0,"crew, team",Die Mannschaft bekommt einen neuen Spieler.,The team gets a new player.
+1246,"der Forscher, -",der,B1,70.7712,0.6868,0,researcher,Die Forscherin beobachtet das Verhalten von Kindern.,The researcher observes the behavior of children.
+1283,"der Nachbar, -n",der,A2,68.8491,0.9192,0,neighbor,"Wenn unsere Nachbarn kochen, kann man es im ganzen Haus riechen.","When our neighbors cook, you can smell it in the entire house."
+1303,"der Vertreter, -",der,B1,67.9127,0.9001,0,representative,Wir treffen uns mit Vertretern aus Wirtschaft und Politik.,We are meeting with representatives from business and politics.
+1318,"der Tourist, -en",der,A2,67.1242,0.7698,0,tourist,Jedes Jahr besuchen tausende Touristen Berlin.,Thousands of tourists visit Berlin every year.
+1324,die Jugendliche,"der, die",A1,66.8778,0.8969,0,adolescent,Das Projekt unterstützt Jugendliche nach ihrem Abschluss.,The project supports adolescents after their graduation.
+1368,"das Publikum, die Publika",das,B1,65.0543,0.8939,0,"public, audience",Morgen singt er vor einem großen Publikum.,Tomorrow he’s singing in front of a big audience.
+1369,"der Besucher, -",der,B1,65.005,0.84,0,visitor,Heute sind wir die einzigen Besucher im Museum.,Today we are the only visitors to the museum.
+1410,"der Zuschauer, -",der,B1,63.083,0.854,0,spectator,Bei meiner mündlichen Prüfung möchte ich keine Zuschauer.,I don’t want any spectators at my oral exam.
+1437,"der Experte, -n",der,B1,61.6044,0.8746,0,expert,Herr Michels ist Experte auf dem Gebiet der deutschen Literatur.,Mr. Michels is an expert in the field of German literature.
+1473,"der Fan, -s",der,A2,59.8795,0.7865,0,"fan, supporter",Er ist ein wahrer Fan und geht zu allen Spielen der Mannschaft.,He is a true fan and goes to all the matches of the team.
+1480,"der Journalist, -en",der,B1,59.4853,0.8731,0,journalist,Er arbeitet als Journalist für mehrere Zeitungen und das Fernsehen.,He works as a journalist for various newspapers and television.
+1522,"der Wissenschaftler, -",der,B1,57.5139,0.8166,0,"scholar, scientist",Johanna arbeitet als Wissenschaftlerin an der Universität.,Johanna works as a scientist at the university.
+1532,"der Gegner, -",der,B1,57.1689,0.8727,0,"opponent, competitor, enemy","Weil sein Gegner so stark ist, verliert er den Kampf.","Because his opponent is so strong, he loses the fight."
+1533,"der Leser, -",der,B1,57.1689,0.8463,0,reader,Die Leserinnen und Leser dieser Zeitung kommen aus einer gebildeten Schicht.,The readers of this newspaper are from an educated class.
+1548,"der Bauer, -n",der,B1,56.4297,0.8914,0,farmer,Der Bauer bringt seine Tiere auf die Wiese.,The farmer takes his animals to the meadow.
+1554,"der Fahrer, -",der,A1,56.3311,0.8627,0,driver,"Der Unfall wurde von einem Fahrer verursacht, der unter dem Einfluss von Alkohol stand.",The accident was caused by a driver under the influence of alcohol.
+1622,"der Leiter, -",der,B1,53.2755,0.9009,0,leader,Als Leiter des Projekts solltest du gut organisieren können.,"As the project leader, you should be able to organize well."
+1704,"der Schauspieler, -",der,B1,50.0228,0.8488,0,actor,Das Theater sucht junge Schauspieler für ein neues Stück.,The theater is looking for young actors for a new play.
+1727,"der Schriftsteller, -",der,B1,49.2343,0.8197,0,writer,Bei einem Gespräch verrät der Schriftsteller erste Fakten zu seinem neuen Buch.,"During a conversation, the writer reveals the first facts about his new book."
+1749,"der Meister, -",der,B1,48.7414,0.8666,0,master,Unser Professor ist ein Meister in seinem Fach.,Our professor is a master in his field.
+1913,die Vorsitzende,"der, die",B1,43.6652,0.8489,0,chairperson,Thomas ist der neue Vorsitzende der Organisation für Umwelt.,Thomas is the new chairperson of the Organization for the Environment.
+1920,"der Teilnehmer, -",der,B1,43.5174,0.8829,0,participant,Die Teilnehmer des Experiments dürfen nicht über den Vorgang sprechen.,The participants of the experiment are not allowed to talk about the process.
+1975,"der Dichter, -",der,B1,42.236,0.7061,0,"writer, poet",Georg Trakl war ein österreichischer Dichter.,Georg Trakl was an Austrian poet.
+2041,"der Direktor, -en",der,B1,40.3632,0.8498,0,director,Der Direktor der Klinik kündigt Veränderungen für die Zukunft an.,The director of the clinic announces changes for the future.
+2174,"der Manager, -",der,B1,37.6034,0.849,0,manager,Die Gäste beschweren sich beim Manager des Hotels.,The guests complain to the hotel manager.
+2185,"der Fischer, -",der,B1,37.3569,0.8634,0,fisherman,Die Fischer legen ihre Netze zum Trocknen an den Strand.,The fishermen lay their nets on the beach to dry.
+2304,"der Unternehmer, -",der,B1,34.8928,0.8717,0,"entrepreneur, employer",Frau Günters leitet als Unternehmerin ihr eigenes Unternehmen.,Mrs. Günters runs her own company as an entrepreneur.
+2322,"der Passagier, -e",der,B1,34.3999,0.794,0,passenger,In das Flugzeug passen 300 Passagiere.,The plane can carry 300 passengers.
+2369,die Erwachsene,"der, die",A1,33.5128,0.9185,0,"adult, grown-up",In der Schule kümmert sich je ein Erwachsener um 20 Kinder.,"At school, each adult takes care of 20 children each."
+2374,"der Verkäufer, -",der,A1,33.4635,0.8065,0,"salesman, seller",Helen gibt dem Verkäufer das Geld für die Lebensmittel.,Helen gives the seller the money for the food.
+2382,"das Vorbild, -er",das,B1,33.365,0.8908,0,"role model, example","Sophie ist ein Vorbild für die anderen Schüler, sie beteiligt sich immer aktiv am Unterricht.","Sophie is a role model for the other students, she always participates actively in the lessons."
+2404,"der Arbeiter, -",der,B1,32.9707,0.91,0,worker,Die Arbeiter fordern mehr Lohn.,The workers are demanding more pay.
+2412,"der Erzähler, -",der,B1,32.8721,0.6335,0,"storyteller, narrator",Der Erzähler des Films hat eine angenehme Stimme.,The narrator of the film has a pleasant voice.
+2447,"der Held, -en",der,B1,32.2314,0.8933,0,hero,In meiner Jugend war James Bond mein größter Held.,James Bond was my greatest hero in my youth.
+2477,"der Gesellschafter, -",der,B1,31.8372,0.5633,0,"associate, shareholder",Sie haben gegen alle Gesellschafter des Unternehmens geklagt.,They have brought an action against all shareholders of the company.
+2502,"der Weber, -",der,B2+,31.4922,0.5903,0,weaver,Mein Großvater war Weber von Beruf.,My grandfather was a weaver by profession.
+2533,"der Arbeitnehmer, -",der,B2+,30.9501,0.8095,0,employee,Das Unternehmen muss neue Arbeitnehmer einstellen.,The company must hire new employees.
+2537,das Personal,das,B1,30.9008,0.9037,0,staff,"Es gibt zwei Eingänge, einen für Gäste und einen für das Personal.","There are two entrances, one for guests and one for staff."
+2565,"der Sportler, -",der,B1,30.5065,0.6958,0,athlete,Die Sportlerinnen und Sportler bereiten sich auf den Wettkampf vor.,The athletes prepare for the competition.
+2569,"das Individuum, -en",das,B2+,30.4572,0.8014,0,individual,Jeder Schüler ist ein Individuum mit eigenen Fähigkeiten.,Every student is an individual with their own abilities.
+2577,"der Musiker, -",der,B1,30.2601,0.8656,0,musician,Der Musiker schreibt alle Texte für seine Lieder selbst.,The musician writes all lyrics for his songs by himself.
+2585,"der Star, -e",der,A2,30.1615,0.8725,0,"star, starling",Ein Star ist eine berühmte Person.,A star is a famous person.
+2621,"der Kritiker, -",der,B2+,29.7673,0.8631,0,critic,Die Kritiker der Reform warnen vor wirtschaftlichen Folgen.,The critics of the reform warn of economic consequences.
+2642,"der Geschäftsführer, -",der,B2+,29.4223,0.87,0,manager,Der Geschäftsführer kümmert sich persönlich um das Problem.,The manager personally takes care of the problem.
+2652,die Alte,"der, die, das",B2+,29.2744,0.8879,0,old person/thing,"Der Alte hat keine Familie mehr, er ist sehr einsam.",The old man has no family; he’s very lonely.
+2653,die Angestellte,"der, die",B2+,29.2744,0.9017,0,employee,Die Firma hat nur wenige Angestellte.,The company has just a few employees.
+2669,"der Vorstand, -̈e",der,B2+,29.0773,0.8,0,"board, chairperson",Der Vorstand entscheidet letztendlich über die Vorschläge.,The board finally decides on the proposals.
+2684,"der Führer, -",der,B2+,28.8309,0.7201,0,"leader, guide",Eine Führerin gibt den Touristen Informationen zur Stadt.,A guide gives the tourists information about the city.
+2709,"der Kapitän, -e",der,B2+,28.4859,0.7991,0,captain,Der Kapitän verlässt als Letzter das Schiff.,The captain is the last to leave the ship.
+2712,die Beschäftigte,"der, die",B2+,28.3873,0.7848,0,employee,"Wir brauchen mehr Beschäftigte, um die ganze Arbeit zu erledigen.",We need more employees to do all the work.
+2731,"der Maler, -",der,B1,28.1409,0.8376,0,painter,Picasso war ein spanischer Maler.,Picasso was a Spanish painter.
+2781,"der Nachfolger, -",der,B2+,27.4509,0.873,0,successor,"Wenn ich nicht mehr arbeiten kann, brauche ich einen Nachfolger für meinen Job.","If I can’t work anymore, I need a successor for my job."
+2795,"der Regisseur, -e",der,B2+,27.3031,0.8289,0,director,Er arbeitet als Regisseur am Theater.,He works as a director at the theater.
+2811,"der Anhänger, -",der,B2+,27.0567,0.8543,0,"pendant, supporter, trailer",Tim schenkt mir zum Geburtstag einen schönen Anhänger für meine Kette.,Tim gives me for my birthday a beautiful pendant for my necklace.
+2839,"der Besitzer, -",der,B2+,26.761,0.9116,0,owner,"Das Haus gehört nicht mir sondern Paul, er ist der Besitzer.",The house isn’t mine. Paul is the owner.
+2865,"der Arbeitgeber, -",der,B2+,26.416,0.8267,0,employer,Ihr Arbeitgeber bemüht sich um gute Bedingungen bei der Arbeit.,Her employer strives for good conditions at work.
+2902,"der Übersetzer, -",der,B1,26.0217,0.5921,0,translator,Fernando ist ein Übersetzer für das Deutsche und Spanische.,Fernando is a translator for German and Spanish.
+2914,"der Akteur, -e",der,B2+,25.8246,0.8459,0,"player, actor",An dem Stück nehmen insgesamt 50 Akteure teil.,A total of 50 actors take part in the play.
+2940,"der Nutzer, -",der,B2+,25.5289,0.8108,0,user,Jeder Nutzer muss monatlich 40 Euro bezahlen.,Each user must pay 40 euros per month.
+2951,die Menschheit,die,B2+,25.381,0.8847,0,humanity,Der Zustand dieses Planeten betrifft die gesamte Menschheit und nicht nur einzelne Menschen.,The state of this planet affects all of humanity and not just individuals.
+2956,"der Pilot, -en",der,B2+,25.3317,0.6938,0,pilot,Der Pilot des Flugzeugs begrüßt die Passagiere.,The pilot of the aircraft welcomes the passengers.
+3008,"der Gastgeber, -",der,B2+,24.6911,0.8262,0,host,Der Gastgeber kümmert sich gut um seine Gäste.,The host takes good care of his guests.
+3023,"der Champion, -s",der,B2+,24.5432,0.6548,0,champion,Nach unserem Sieg sind wir endlich die Champions.,"After our victory, we are finally the champions."
+3029,"der Sänger, -",der,B1,24.5432,0.8454,0,singer,Madonna ist eine berühmte Sängerin.,Madonna is a famous singer.
+3099,"der Weltmeister, -",der,B2+,23.7054,0.7063,0,world champion,Deutschland war 2014 Weltmeister im Fußball.,Germany was world champion in soccer in 2014.
+3176,"der Architekt, -en",der,B2+,22.6704,0.8663,0,architect,Der Architekt gestaltet das neue Theater.,The architect designs the new theater.
+3204,"der Kellner, -",der,B1,22.424,0.8478,0,"waiter, waitress","Der Kellner bringt einen Wein, obwohl ich ein Bier bestellt habe.","The waiter brings a glass of wine, although I ordered a beer."
+3222,"der Kerl, -e",der,B2+,22.2762,0.8602,0,"fellow, bloke",Er sieht aus wie ein freundlicher Kerl.,He looks like a kind fellow.
+3265,"das Fräulein, -",das,B2+,21.734,0.6968,0,"young lady, miss","Räum endlich dein Zimmer auf, junges Fräulein!","Clean up your room at last, young lady!"
+3280,"der Empfänger, -",der,A1,21.6355,0.5556,0,recipient,Der Empfänger des Pakets ist nicht zu Hause.,The recipient of the package is not at home.
+3316,"der Athlet, -en",der,B2+,21.2905,0.6676,0,athlete,Die Jury beurteilt die Leistung der Athleten.,The jury judges the performance of the athletes.
+3325,"der Philosoph, -en",der,B2+,21.2412,0.7993,0,philosopher,Platon war ein griechischer Philosoph.,Plato was a Greek philosopher.
+3426,"der Helfer, -",der,B2+,20.4527,0.8675,0,"helper, accomplice",Der Verein ist immer auf der Suche nach freiwilligen Helfern.,The association is always looking for voluntary helpers.
+3458,"der Chemiker, -",der,B2+,20.2063,0.6173,0,chemist,Die Chemikerin arbeitet mit gefährlichen Substanzen.,The chemist works with dangerous substances.
+3503,"der Sieger, -",der,B1,19.8613,0.8467,0,winner,Der Sieger des Wettkampfes erhält ein Geschenk.,The winner of the competition receives a gift.
+3528,"der Profi, -s",der,B1,19.7134,0.7818,0,"pro, professional",Thomas Müller ist ein Profi im Fußball.,Thomas Müller is a professional soccer player.
+3569,"der Aufsichtsrat, -̈e",der,B2+,19.3192,0.7864,0,supervisory board,Der Aufsichtsrat kontrolliert als Gremium bestimmte Organisationen.,"As a committee, the supervisory board monitors certain organizations."
+3573,"der Urlauber, -",der,B2+,19.3192,0.5405,0,vacationer,Für Urlauber mit Flugangst empfehlen sich Plätze in den vorderen Reihen der Maschine.,For vacationers with fear of flying we recommend seats in the front rows of the airplane.
+3591,"der Berater, -",der,B2+,19.1713,0.8591,0,"advisor, consultant",Sie arbeitet als Beraterin für den Präsidenten.,She works as an advisor to the president.
+3599,"der Proband, -en",der,B2+,19.122,0.6169,0,"subject, test person",Sie suchen nach Probanden für die Studie.,They’re looking for subjects for the study.
+3670,"der Hörer, -",der,B1,18.6292,0.8446,0,"listener, receiver",Die Hörer können beim Radio anrufen und sich ein Lied wünschen.,The listeners can call the radio and request a song.
+3707,"der Wirt, -e",der,B1,18.4321,0.8153,0,"host, innkeeper",Zu meinem Geburtstag essen und schlafen wir bei einem bayrischen Wirt.,For my birthday we eat and sleep at a Bavarian innkeeper’s place.
+3745,"der Reporter, -",der,B1,18.1856,0.8299,0,reporter,Der Reporter von der Presse fotografiert die Mannschaft nach dem Spiel.,The reporter from the press photographs the team after the match.
+3767,"der Vorgänger, -",der,B2+,18.0378,0.8723,0,predecessor,"Judith ist meine Vorgängerin bei der Arbeit, ich übernehme ihren Job ab sofort.","Judith is my predecessor at work, I’m taking over her job from now on."
+3784,"der Koch, -̈e",der,B1,17.9392,0.8521,0,cook,Mein Vater arbeitet als Koch in einem Restaurant.,My father works as a cook in a restaurant.
+3847,"der Produzent, -en",der,B2+,17.5449,0.8312,0,producer,Das Unternehmen ist der weltweit größte Produzent von Lebensmitteln.,The company is the world’s largest producer of food.
+3850,"der Eigentümer, -",der,B2+,17.4957,0.829,0,owner,Die Polizei sucht den Eigentümer des Autos.,Police are looking for the owner of the car.
+3908,"der Beobachter, -",der,B2+,17.0521,0.8738,0,observer,Mehrere unabhängige Beobachter erklärten die Wahl für ungültig.,Various independent observers declared the election invalid.
+3945,"der Schiedsrichter, -",der,B2+,16.9043,0.6222,0,"referee, judge (in sports)","Der Schiedsrichter ist sehr fair, er behandelt beide Mannschaften gleich.",The referee is very fair; he treats both teams equally.
+4002,"der Bube, -n",der,B2+,16.6086,0.7474,0,boy,Ich bin Vater von zwei Buben.,I’m the father of two boys.
+4005,"der Ingenieur, -e",der,B1,16.6086,0.8637,0,engineer,Er arbeitet als Ingenieur bei einem großen Unternehmen.,He works as an engineer for a large company.
+4055,"der Mediziner, -",der,B2+,16.3621,0.8324,0,"doctor, physician",Als Mediziner kannst du Menschen helfen.,"As a physician, you can help people."
+4057,"der Assistent, -en",der,B2+,16.3129,0.8397,0,assistant,Sie sucht nach einem persönlichen Assistenten mit guten organisatorischen Fähigkeiten.,She is looking for a personal assistant with good organizational skills.
+4077,Einzige,"der, die",B2+,16.2143,0.859,0,only one,"Mark sagt, ich bin die Einzige für ihn und es gibt keine anderen Frauen in seinem Leben.",Mark says I’m the only one for him and there are no other women in his life.
+4112,"der Gründer, -",der,B2+,16.0172,0.8055,0,founder,Frau Paget ist die Gründerin und Geschäftsführerin des Unternehmens.,Mrs. Paget is the founder and managing director of the company.
+4113,"das Orchester, -",das,B1,16.0172,0.7971,0,orchestra,In dem Orchester spielen viele verschiedene Musiker.,Many different musicians play in the orchestra.
+4218,"der Favorit, -en",der,B2+,15.4258,0.7873,0,favorite,Von allen Schauspielern ist dieser der Favorit für die Rolle.,"Of all the actors, this one is the favorite for the role."
+4241,"der Psychologe, -n",der,B2+,15.3272,0.8321,0,psychologist,Seit dem Tod meiner Eltern bekomme ich Hilfe von einem Psychologen.,"Since my parents died, I’ve had help from a psychologist."
+4248,"der Zuhörer, -",der,B1,15.2779,0.8847,0,"listener, audience (pl)",In dem Vortrag des berühmten Managers sitzen über 300 Zuhörer.,Over 300 listeners are sitting in the lecture of the famous CEO.
+4261,"der Genosse, -n",der,B2+,15.1793,0.7754,0,comrade,Früher nannte man in Deutschland einen Menschen mit den gleichen politischen Zielen einen Genossen.,In Germany people used to call a person with the same political goals a comrade.
+4285,die Fremde,der,B2+,15.0315,0.8654,0,stranger,Manchmal kann ein Fremder auch ein Freund werden.,Sometimes a stranger can become a friend.
+4293,"der Bewerber, -",der,B2+,14.9822,0.8147,0,applicant,"Es gibt noch zwei weitere Bewerber, die den Job haben wollen.",There are two other applicants who want the job.
+4298,"der Idiot, -en",der,B2+,14.9822,0.8256,0,idiot,"Wenn Manuel dich nicht liebt, ist er ein Idiot.","If Manuel doesn’t love you, he’s an idiot."
+4304,"die Arbeitskraft, -̈e",die,B2+,14.9329,0.8059,0,"manpower, worker",Leon ist eine zuverlässige Arbeitskraft und immer pünktlich.,Leon is a reliable worker and always on time.
+4318,"der Zwerg, -e",der,B2+,14.8836,0.4723,0,dwarf,"Einen kleinen Menschen als Zwerg zu bezeichnen, ist nicht nett.",It’s not nice to call a little person a dwarf.
+4393,"der Rentner, -",der,A2,14.5387,0.8496,0,pensioner,Als Rentner ziehe ich in ein anderes Land und genieße mein Leben ohne Arbeit.,As a pensioner I move to another country and enjoy my life without work.
+4422,"der Herausgeber, -",der,B2+,14.3908,0.659,0,publisher,Der Herausgeber einer Zeitung trifft für diese die wichtigsten Entscheidungen.,The publisher of a newspaper makes the most important decisions for the newspaper.
+4428,"die Versuchsperson, -en",die,B2+,14.3908,0.3904,0,test subject,Für einen Test brauchen wir noch fünf Versuchspersonen.,We need five more test subjects for one test.
+4432,"der Autofahrer, -",der,B2+,14.3415,0.8225,0,"driver, motorist",Trotz der großen Belastung für die Umwelt gibt es in Deutschland immer mehr Autofahrer.,"Despite the great burden on the environment, there are more and more motorists in Germany."
+4436,"der Jäger, -",der,B2+,14.3415,0.8299,0,hunter,Nur Jäger dürfen auf Tiere schießen.,Only hunters are allowed to shoot at animals.
+4449,"der Historiker, -",der,B2+,14.2922,0.8401,0,historian,Als Historiker beschäftige ich mich wissenschaftlich mit der Geschichte.,"As a historian, I deal academically with history."
+4476,"der Diener, -",der,B2+,14.1444,0.6801,0,servant,"Es ist nicht üblich, heute noch Diener im Haus zu haben.",It’s not customary to have servants in the house today.
+4515,"der Landwirt, -e",der,B2+,13.9472,0.79,0,farmer,Als Landwirt arbeitest du viel an der frischen Luft.,"As a farmer, you work a lot in the fresh air."
+4533,"der Sekretär, -e",der,B1,13.898,0.8442,0,secretary,Mein Vater arbeitet als Sekretär für einen Anwalt.,My father works as a secretary for a lawyer.
+4547,"das Arschloch, -̈er",das,B2+,13.7994,0.7209,0,asshole,"David ist ein Arschloch, weil er die ganze Zeit lügt.",David’s an asshole because he lies all the time.
+4573,"der Fotograf, -en",der,B1,13.7008,0.8557,0,photographer,"Ich gehe mit meiner Familie zu einem Fotografen, um schöne Bilder zu machen.",I’m going with my family to a photographer to take nice pictures.
+4585,"der Riese, -n",der,B2+,13.6515,0.8272,0,giant,Ich lese meinem Sohn Geschichten über gefährliche Riesen vor.,I read stories to my son about dangerous giants.
+4605,"der Senior, -en",der,B2+,13.553,0.8285,0,senior (citizen),Harry organisiert Reisen für Senioren.,Harry organizes trips for senior citizens.
+4641,"der Benutzer, -",der,B2+,13.3558,0.713,0,user,Als Benutzer dieser Seite muss ich mich registrieren.,As a user of this page I have to register.
+4643,"das Ensemble, -s",das,B2+,13.3558,0.8476,0,ensemble,Heute spielt ein berühmtes Ensemble aus Österreich.,Today a famous ensemble from Austria plays.
+4696,"der Moderator, -en",der,B2+,13.1094,0.8246,0,"moderator, host, presenter",Die Moderatoren im Fernsehen müssen sehr gut sprechen können.,The TV moderators must be able to speak very well.
+4727,"der Veranstalter, -",der,B2+,13.0109,0.8198,0,organizer,Der Veranstalter organisiert das Fest.,The organizer organizes the festival.
+4750,"der Spezialist, -en",der,B1,12.9123,0.8859,0,specialist,Sie ist Spezialistin für genetische Krankheiten.,She’s a specialist in genetic diseases.
+4761,"der Betrachter, -",der,B2+,12.863,0.8249,0,"observer, viewer",Der Betrachter des Bildes ist sehr kritisch.,The viewer of the picture is very critical.
+4778,"der Komponist, -en",der,B2+,12.8137,0.8176,0,composer,Johann Sebastian Bach war Komponist.,Johann Sebastian Bach was a composer.
+4802,"der Begleiter, -",der,B2+,12.7152,0.883,0,"attendant, companion","Wenn ich keinen Begleiter für das Fest finde, komme ich alleine.","If I can’t find a companion for the party, I’ll come alone."
+4808,"die Jungfrau, -en",die,B2+,12.7152,0.6278,0,virgin,"Weil ich noch keinen Sex hatte, bin ich eine Jungfrau.","Because I haven’t had sex yet, I’m a virgin."
+4884,"der Reiter, -",der,B2+,12.3209,0.8368,0,"horseman, rider",Der Reiter fällt vom Pferd.,The horseman falls off his horse.
+4921,"der Kumpel, -",der,B2+,12.173,0.8292,0,pal,"Ich bin nicht in Oliver verliebt, er ist nur ein Kumpel.","I’m not in love with Oliver, he’s just a pal."
+4966,die Reiche,"der, die",B2+,11.9759,0.8678,0,rich,Der Unterschied zwischen den Armen und den Reichen wird immer größer.,The difference between the rich and the poor is growing.
+4983,"der Redakteur, -e",der,B2+,11.9266,0.8258,0,editor,Als Redakteur schreibt er Beiträge für die Zeitung.,As an editor he writes articles for the newspaper.

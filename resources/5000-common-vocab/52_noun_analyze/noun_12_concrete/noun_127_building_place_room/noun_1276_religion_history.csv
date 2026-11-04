@@ -1,0 +1,11 @@
+rank,word,pos,level,freq_per_million,dispersion,has_conjugation,definition,example_de,example_en
+892,"die Kirche, -n",die,A2,97.6307,0.8965,0,church,Sie heiraten in einer alten Kirche.,They’re getting married in an old church.
+1907,"das Schloss, -̈er",das,A2,43.7638,0.8751,0,"lock, castle",Janina und Felix heiraten auf einem alten Schloss.,Janina and Felix get married in an old castle.
+3118,"der Turm, -̈e",der,B1,23.4097,0.8364,0,tower,Vom Turm aus hat man eine großartige Aussicht auf die Stadt.,From the tower you have a great view of the city.
+3474,"das Kloster, -̈",das,B2+,20.1077,0.8287,0,"monastery, convent","In einem Kloster lebt eine christliche Gemeinschaft, die dort ihren Glauben ausübt.",In a monastery lives a Christian community that practices its faith there.
+3845,"der Friedhof, -̈e",der,B2+,17.5449,0.8487,0,cemetery,Jeden Sonntag geht sie auf den Friedhof und besucht das Grab ihres Mannes.,Every Sunday she goes to the cemetery and visits her husband’s grave.
+4235,"die Burg, -en",die,B1,15.3272,0.7425,0,castle,Diese Burg stammt aus dem frühen Mittelalter und ist heute ein Museum.,This castle dates from the early Middle Ages and is now a museum.
+4556,"der Tempel, -",der,B2+,13.7994,0.7987,0,temple,In Griechenland kann man viele alte Tempel sehen.,In Greece you can see many ancient temples.
+4789,"das Denkmal, -e",das,B1,12.7644,0.7797,0,"monument, memorial","Um einen Menschen zu ehren, wird ihm ein Denkmal gesetzt.","To honor a human being, a monument is erected."
+4916,"der Dom, -e",der,B2+,12.173,0.8371,0,cathedral,Wir sehen uns den Dom in Köln an.,We’re going to see the cathedral in Cologne.
+5004,"die Ruine, -n",die,B2+,11.8281,0.848,0,ruin,"Früher war das Gebäude ein schönes Schloss, heute ist es nur noch eine Ruine.","Before, the building was a beautiful castle, now it’s only a ruin."

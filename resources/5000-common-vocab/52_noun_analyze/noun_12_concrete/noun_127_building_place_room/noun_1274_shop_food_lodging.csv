@@ -1,0 +1,15 @@
+rank,word,pos,level,freq_per_million,dispersion,has_conjugation,definition,example_de,example_en
+543,"die Bank, -̈e",die,A1,157.3131,0.838,0,"bank, bench",Die Bank hat einen neuen Manager.,The bank has a new manager.
+765,"das Geschäft, -e",das,A1,112.2187,0.9103,0,"business, shop",In der Stadt öffnet ein Geschäft für Schuhe.,In the city a shoe shop is opening.
+772,"das Hotel, -s",das,A1,110.6909,0.84,0,hotel,Das Hotel Adlon ist ein bekanntes Hotel in Berlin.,Hotel Adlon is a well-known hotel in Berlin.
+1675,"der Laden, -̈",der,A1,51.1563,0.8925,0,shop,"Auf dem Land gibt es noch viele kleine, private Läden, die Lebensmittel verkaufen.","In the countryside there are still many small, private shops selling food."
+1802,"das Restaurant, -s",das,A1,47.1644,0.8589,0,restaurant,Wir gehen zum Abendessen in ein Restaurant.,We’re going to a restaurant for dinner.
+2492,"das Café, -s",das,A1,31.6893,0.8667,0,"coffeehouse, coffee shop",Linda trinkt jeden Tag Kaffee im selben Café.,Linda drinks coffee every day at the same coffeehouse.
+2582,Bar,die,A1,30.1615,0.8314,0,bar,"Nach der Arbeit treffen sich die Kollegen in der Bar, um zu trinken und zu reden.","After work, the colleagues meet in the bar to drink and talk."
+3218,"der Supermarkt, -̈e",der,A2,22.3255,0.8818,0,supermarket,Im Supermarkt kann man Produkte aus aller Welt kaufen.,In the supermarket you can buy products from all over the world.
+3319,"die Kneipe, -n",die,B1,21.2905,0.8083,0,"pub, bar",Wollen wir heute Abend nach der Arbeit in die Kneipe gehen?,Do you want to go to the pub tonight after work?
+3504,"die Unterkunft, -̈e",die,A2,19.8613,0.8242,0,accommodation,Sie sucht nach einer günstigen Unterkunft im Zentrum.,She is looking for cheap accommodations in the center.
+3986,"das Lokal, -e",das,A1,16.7071,0.8587,0,"pub, bar",Das Lokal ist bis 1 Uhr nachts geöffnet.,The restaurant is open until 1 am.
+4613,"die Pension, -en",die,B1,13.5037,0.8123,0,"pension, guesthouse","Ich eröffne eine Pension für Menschen und ihre Tiere, die hier Urlaub machen.",I’m opening a boardinghouse for people and their animals on vacation here.
+4670,"die Rezeption, -en",die,A1,13.2573,0.678,0,reception,Wir holen uns die Schlüssel für das Zimmer an der Rezeption im Hotel ab.,We pick up the keys for the room at the hotel reception.
+4872,"das Quartier, -e",das,B1,12.3702,0.8489,0,quarters,Ich brauche ein warmes Quartier für die Nacht.,I need warm quarters for the night.

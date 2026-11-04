@@ -1,0 +1,4 @@
+rank,word,pos,level,freq_per_million,dispersion,has_conjugation,definition,example_de,example_en
+739,"die Natur, -en",die,A2,117.4427,0.8952,0,nature,Das Dorf in den Bergen ist von viel Natur umgeben.,The village in the mountains is surrounded by nature.
+1664,"die Umwelt, -en",die,B1,51.5013,0.8706,0,environment,"Es ist an der Zeit, besser auf unsere Umwelt zu achten.",It’s time to take better care of our environment.
+3024,"der Horizont, -e",der,B2+,24.5432,0.8612,0,horizon,Die Sonne geht scheinbar am Horizont unter.,The sun seems to set on the horizon.

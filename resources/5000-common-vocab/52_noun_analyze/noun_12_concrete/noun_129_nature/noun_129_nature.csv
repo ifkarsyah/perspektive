@@ -1,0 +1,105 @@
+rank,word,pos,level,freq_per_million,dispersion,has_conjugation,definition,example_de,example_en
+436,"das Licht, -er",das,A1,188.2632,0.8642,0,light,Ich brauche ein helleres Licht zum Lesen.,I need a brighter light to read.
+487,"die Luft, -̈e",die,B1,170.8661,0.9168,0,air,Die Qualität der Luft ist auf dem Land besser.,The air quality is better in the country.
+614,"das Tier, -e",das,A2,141.3945,0.8964,0,animal,Wilde Tiere sollten geschützt werden.,Wild animals should be protected.
+739,"die Natur, -en",die,A2,117.4427,0.8952,0,nature,Das Dorf in den Bergen ist von viel Natur umgeben.,The village in the mountains is surrounded by nature.
+771,"der Sommer, -",der,A2,110.9373,0.9107,0,summer,"Im Sommer ist es warm, weil oft die Sonne scheint.","In summer it is warm, because the sun often shines."
+825,"der Hund, -e",der,A1,104.5797,0.8754,0,dog,Mein Hund ist mein bester Freund.,My dog is my best friend.
+834,"das Feld, -er",das,B1,102.8548,0.8537,0,field,Das Pferd steht auf dem Feld.,The horse is standing in the field.
+852,"das Meer, -e",das,A1,101.672,0.8709,0,"sea, ocean",Der Ort liegt direkt am Meer und viele der Menschen verdienen sich ihr Geld mit Fisch.,The town is located directly on the sea and many of the people make their living from fish.
+889,"der Himmel, -",der,A2,98.1236,0.8773,0,"sky, heaven",Heute ist der Himmel blau.,The sky is blue today.
+927,"das Gas, -e",das,B1,94.2302,0.6448,0,gas,Gas hat keine Farbe und man kann es nicht riechen.,Gas has no color and you can’t smell it.
+934,"der Berg, -e",der,A2,93.3923,0.8635,0,"hill, mountain",Die Zugspitze ist der höchste Berg Deutschlands.,The Zugspitze is the highest mountain in Germany.
+1013,"der Baum, -̈e",der,A1,85.5563,0.8874,0,tree,Im Wald stehen viele Bäume.,There are many trees in a forest.
+1028,"der Wald, -̈er",der,A2,84.5706,0.8856,0,"forest, woods",In diesem Wald gibt es viele verschiedene Bäume.,There are many different trees in this forest.
+1029,"die Insel, -n",die,A2,84.472,0.8012,0,island,Rügen ist die größte deutsche Insel.,Rügen is the largest German island.
+1124,"der Wind, -e",der,A1,77.523,0.8789,0,wind,Der Wind kommt aus nördlicher Richtung.,The wind is coming from a northerly direction.
+1181,"der Stein, -e",der,B1,73.6789,0.9015,0,"rock, stone",Sie werfen Steine auf die Polizei.,They throw stones at the police.
+1206,"der Winter, -",der,B1,72.3975,0.8975,0,winter,Der Winter dauert von November bis März.,Winter lasts from November to March.
+1263,"die Welle, -n",die,B1,69.9827,0.7923,0,wave,Aufgrund der hohen Wellen ist das Schwimmen verboten.,Swimming is forbidden due to the high waves.
+1317,"der See, -n",der,A1,67.1242,0.8844,0,lake,Sie füttert die Fische im See.,She is feeding the fishes in the lake.
+1392,"der Strom, -̈e",der,B1,63.9208,0.8015,0,"stream, current, electricity",Elektrische Geräte funktionieren nur mit Strom.,Electrical devices only work with electricity.
+1502,"der Schatten, -",der,B1,58.2532,0.8178,0,"shadow, shade","Ich sitze gerne in der Sonne, aber meine Freundin sitzt lieber im Schatten.","I like sitting in the sun, but my girlfriend prefers sitting in the shade."
+1504,"das Pferd, -e",das,A2,58.2039,0.8264,0,horse,Elsa wünscht sich ein Pferd.,Elsa wants a horse.
+1576,"das Feuer, -",das,A1,55.0497,0.8949,0,fire,"Sie machen ein Feuer, weil es kalt ist.",They make a fire because it’s cold.
+1596,"der Herbst, -e",der,B1,54.2119,0.9117,0,autumn,Im Herbst sinken die Temperaturen.,Temperatures drop in fall.
+1664,"die Umwelt, -en",die,B1,51.5013,0.8706,0,environment,"Es ist an der Zeit, besser auf unsere Umwelt zu achten.",It’s time to take better care of our environment.
+1667,"die Pflanze, -n",die,A2,51.4028,0.8354,0,plant,"Pflanzen brauchen Licht, um zu wachsen.",Plants need light to grow.
+1669,"die Landschaft, -en",die,A2,51.3535,0.8657,0,"landscape, countryside",Die Landschaft außerhalb von Leipzig ist sehr grün und schön.,The landscape outside Leipzig is very green and beautiful.
+1687,"der Fluss, -̈e",der,A2,50.7621,0.8875,0,river,"Die Pleiße ist ein Fluss, der durch Leipzig fließt.",The Pleiße is a river that flows through Leipzig.
+1701,"der Vogel, -̈",der,A2,50.1707,0.8732,0,bird,Am Himmel fliegen viele Vögel.,A lot of birds fly in the sky.
+1760,der Schnee,der,A2,48.3472,0.8504,0,snow,Zu Weihnachten lag leider kein Schnee.,"Unfortunately, there was no snow for Christmas."
+1881,"das Wetter, -",das,A1,44.6016,0.9095,0,weather,"Heute ist schönes Wetter, die Sonne scheint.",Today is beautiful weather; the sun is shining.
+1957,"der Regen, -",der,A1,42.6796,0.8921,0,rain,"Schlechtes Wetter bedeutet oft, dass es Regen gibt.",Bad weather often means rain.
+1966,"der Strand, -̈e",der,A2,42.4824,0.809,0,beach,Sabines Familie macht in diesem Jahr Urlaub in Italien am Strand.,Sabine’s family is on vacation in Italy this year at the beach.
+2114,"die Wolke, -n",die,A2,38.7369,0.8457,0,cloud,Die Sonne verschwindet hinter den Wolken.,The sun disappears behind the clouds.
+2167,"das Metall, -e",das,B1,37.7512,0.7395,0,metal,Gold ist ein besonders wertvolles Metall.,Gold is a particularly valuable metal.
+2221,"das Holz, -̈er",das,B1,36.5684,0.8988,0,wood,Holz ist eine kostbare Ressource.,Wood is a valuable resource.
+2235,"die Katze, -n",die,A2,36.322,0.8014,0,cat,"Neben ihrem Hund hat Ute auch eine Katze, sie liebt beide Tiere sehr.","Besides her dog Ute also has a cat, she loves both animals very much."
+2293,"der Gipfel, -",der,B1,35.1392,0.7731,0,"peak, summit",Die Gipfel der Berge sind mit Schnee bedeckt.,The peaks of the mountains are covered with snow.
+2300,die Wärme,die,B1,34.942,0.8008,0,"warmth, heat",Sie spürt die Wärme der Sonne auf ihrer Haut.,She feels the warmth of the sun on her skin.
+2413,das Gold,das,B1,32.8721,0.8889,0,gold,Der Ring ist aus echtem Gold.,The ring is made of real gold.
+2423,"die Atmosphäre, -n",die,B1,32.6257,0.9003,0,atmosphere,Ich mag die lockere Atmosphäre im Büro.,I like the relaxed atmosphere in the office.
+2463,"die Blume, -n",die,A1,31.985,0.8795,0,flower,Er schenkt ihr Blumen zum Geburtstag.,He’s giving her flowers for her birthday.
+2474,"der Sand, -e",der,B1,31.8865,0.8838,0,sand,Das ist ein schöner Strand mit weißem Sand.,This is a nice beach with white sand.
+2514,"der Ast, -Äe",der,B2+,31.2458,0.5346,0,branch,Der Baum hat viele Äste.,The tree has many branches.
+2526,"die Wurzel, -n",die,B2+,31.0979,0.9146,0,root,Die Pflanze hat flache Wurzeln und lässt sich leicht herausziehen.,The plant has shallow roots and is easy to pull out.
+2622,"das Tal, -̈er",das,B1,29.7673,0.8424,0,valley,Der Schnee liegt nur auf den Bergen und nicht im Tal.,The snow is only on the mountains and not in the valley.
+2628,"die Küste, -n",die,B1,29.6687,0.851,0,coast,New York liegt an der Ostküste der USA.,New York is located on the east coast of the USA.
+2716,"das Ufer, -",das,B1,28.3873,0.8434,0,"shore, bank",Wir laufen am Ufer des Flusses entlang.,We walk along the riverbank.
+2762,"das Frühjahr, -e",das,B2+,27.6974,0.8966,0,spring,Im Frühjahr steigen die Temperaturen.,In spring the temperatures increase.
+2779,"das Gras, -̈er",das,B1,27.4509,0.8593,0,grass,Ich spüre gerne das Gras unter meinen Füßen.,I like to feel the grass under my feet.
+2866,"die Höhle, -n",die,B2+,26.416,0.7867,0,cave,Im Berg gibt es mehrere Höhlen.,There are several caves in the mountain.
+2913,"der Sturm, -̈e",der,B1,25.8739,0.8837,0,storm,Das Boot gerät in einen starken Sturm.,The boat gets caught in a strong storm.
+2935,"die Kuh, -̈e",die,B2+,25.5782,0.8532,0,cow,Wir haben Kühe und können täglich frische Milch trinken.,We have cows and can drink fresh milk every day.
+2963,"die Wiese, -n",die,B1,25.2332,0.8755,0,meadow,Die Kühe stehen friedlich auf der Wiese.,The cows stand peacefully in the meadow.
+2975,"das Schwein, -e",das,A2,25.0853,0.8727,0,pig,In ihrer Religion essen sie kein Fleisch von Schweinen.,"In their religion, they don’t eat meat from pigs."
+3024,"der Horizont, -e",der,B2+,24.5432,0.8612,0,horizon,Die Sonne geht scheinbar am Horizont unter.,The sun seems to set on the horizon.
+3044,"das Eisen, -",das,B2+,24.2475,0.7353,0,iron,Die Tür ist aus Eisen und sehr schwer.,The door is made of iron and very heavy.
+3090,"der Hügel, -",der,B1,23.7547,0.8329,0,hill,Unser Haus steht auf einem Hügel.,Our house is on a hill.
+3138,"die Dunkelheit, -en",die,B2+,23.1633,0.8479,0,darkness,Ich laufe nicht gerne in der Dunkelheit nach Hause.,I don’t like walking home in the dark.
+3198,"der Stamm, -̈e",der,B2+,22.5226,0.8519,0,"trunk, stem, tribe",Der Baum ist 60 Jahre alt und hat einen dicken Stamm.,The tree is 60 years old and has a thick trunk.
+3216,"der Pilz, -e",der,B1,22.3255,0.6216,0,"mushroom, fungus",Jeden Sommer sammelt Matthias Pilze im Wald.,Every summer Matthias picks mushrooms in the forest.
+3266,"die Rose, -n",die,A2,21.734,0.8287,0,rose,Rote Rosen sind Sissis liebste Blumen.,Red roses are Sissi’s favorite flowers.
+3357,"die Hitze, -n",die,B1,20.9948,0.8738,0,heat,Wegen der Hitze sitzen alle im Schatten.,"Because of the heat, everyone’s in the shade."
+3401,"der Felsen, -",der,B2+,20.6991,0.7973,0,rock,"Wir sehen einige Vögel, die auf den Felsen im Meer sitzen.",We can see some birds sitting on the rocks in the sea.
+3463,"die Maus, -̈e",die,B2+,20.2063,0.8228,0,mouse,Eine Maus ist ein kleines Tier.,A mouse is a small animal.
+3468,"die Kohle, -n",die,B2+,20.157,0.8708,0,coal,"Kohle erzeugt Energie, wenn man sie verbrennt.",Coal produces energy when burned.
+3473,die Kälte,die,B1,20.1077,0.8848,0,cold,Wasser gefriert bei dieser Kälte.,Water freezes in this cold.
+3494,"der Bär, -en",der,B2+,19.9106,0.8266,0,bear,"Ein Bär ist ein großes braunes Tier, das in kalten Regionen lebt.",A bear is a large brown animal that lives in cold regions.
+3515,"die Wüste, -n",die,B2+,19.812,0.8447,0,desert,In der Wüste ist es sehr heiß und das Wasser ist knapp.,In the desert it is very hot and water is scarce.
+3521,"die Flamme, -n",die,B2+,19.7134,0.8717,0,flame,Gas brennt mit blauer Flamme.,Gas burns with a blue flame.
+3522,"der Frühling, -e",der,B2+,19.7134,0.8832,0,spring,Im März beginnt der Frühling und es wird wärmer.,In March spring begins and it gets warmer.
+3533,"der Nebel, -",der,B1,19.6641,0.8569,0,fog,Durch den dichten Nebel kann man kaum etwas sehen.,Because of the dense fog you can hardly see anything.
+3576,"das Huhn, -̈er",das,B2+,19.2699,0.7891,0,"hen, chicken",Das Huhn legt jeden Tag ein Ei.,The hen lays an egg every day.
+3636,"der Flügel, -",der,B2+,18.9249,0.8846,0,wing,Der Vogel hat sehr schöne bunte Flügel.,The bird has very nice colorful wings.
+3641,"der Hang, -̈e",der,B2+,18.8756,0.8431,0,"slope, inclination","Der Wein wächst am Hang, damit er viel Sonne bekommt.","The wine grows on a slope, so that it gets a lot of sun."
+3673,"das Schaf, -e",das,B2+,18.6292,0.8308,0,sheep,Der Hund bewacht die Schafe auf der Wiese.,The dog guards the sheep on the meadow.
+3764,"der Rauch, -e",der,B2+,18.0378,0.8216,0,"smoke, fume",Bei einem Feuer entsteht Rauch.,A fire causes smoke.
+3777,"die Feder, -n",die,B2+,17.9392,0.851,0,feather,Der Stoff meines Kleides ist so leicht wie eine Feder.,The fabric of my dress is as light as a feather.
+3932,"der Staub, -̈e",der,B1,16.9535,0.8783,0,dust,Die Bücher im Regal sind mit Staub bedeckt.,The books on the shelf are covered with dust.
+3937,"der Brand, -̈e",der,B2+,16.9043,0.7791,0,fire,Die Feuerwehr löscht den Brand.,The fire brigade puts out the fire.
+3941,"der Kristall, -e",der,B2+,16.9043,0.7256,0,crystal,Alle Gefäße in der Wohnung von Tim sind aus Kristall.,All the vessels in Tim’s flat are made of crystal.
+3994,"die Fliege, -n",die,B2+,16.6578,0.8806,0,fly,"Im Sommer stören mich bestimmte Tiere, wie zum Beispiel Fliegen, sehr.","In summer certain animals, such as flies, bother me a lot."
+4000,"der Strahl, -en",der,B2+,16.6578,0.7454,0,"ray, beam",Die Strahlen der Sonne schaden der Haut.,The sun’s rays damage the skin.
+4042,"der Ozean, -e",der,B1,16.4114,0.839,0,ocean,Ein riesiger Ozean trennt Europa von Amerika.,A giant ocean separates Europe from America.
+4096,"das Maul, -̈er",das,B2+,16.1157,0.7036,0,"mouth, jaws",Das Maul von Pferden ist sehr weich.,The mouth of horses is very soft.
+4126,"die Blüte, -n",die,B2+,15.9186,0.8448,0,blossom,Die Blüten von Rosen riechen sehr gut.,The blossoms of roses smell very good.
+4133,"der Niederschlag, -̈e",der,B2+,15.8693,0.6454,0,"precipitation, rainfall",Wegen der starken Niederschläge steigt das Wasser im Fluss.,"Because of the heavy rainfall, the water in the river rises."
+4160,"der Löwe, -n",der,B2+,15.6722,0.8118,0,lion,"Obwohl er sehr groß ist, zählt der Löwe zu einer Art der Katzen.","Although very large, the lion counts as a species of cat."
+4303,"der Stall, -̈e",der,B2+,14.9822,0.8132,0,stable,Zu unserem Haus gehört ein Stall für Tiere.,To our house belongs a stable for animals.
+4521,"der Rasen, -",das,B1,13.9472,0.8441,0,"lawn, grass","Ich hoffe auf Regen, damit mein Rasen grün bleibt.",I’m hoping for rain so my lawn stays green.
+4718,"der Zweig, -e",der,B2+,13.0601,0.8654,0,"branch, twig",Martin läuft im Wald und ein Zweig eines Baumes schlägt ihm ins Gesicht.,Martin walks in the forest and a branch of a tree hits him in the face.
+4736,"das Insekt, -en",das,B2+,12.9616,0.8158,0,insect,Ich mag keine Fliegen oder andere Insekten.,I don’t like flies or other insects.
+4743,"der Affe, -n",der,B2+,12.9123,0.8028,0,"monkey, ape",Von allen Tieren ist der Affe dem Menschen am ähnlichsten.,"Of all animals, the monkey is most similar to man."
+4767,"der Strauß, -̈e",der,B2+,12.863,0.7944,0,"bouquet, bunch, ostrich",Zum Geburtstag schenkt mir Oliver einen Strauß Blumen.,For my birthday Oliver gives me a bouquet of flowers.
+4783,das Silber,das,B2+,12.8137,0.8464,0,silver,Der Ring und die Kette sind aus echtem Silber.,The ring and chain are made of real silver.
+4807,"der Hase, -n",der,B2+,12.7152,0.8264,0,rabbit,Hasen sind Tiere mit langen Ohren.,Rabbits are animals with long ears.
+4852,"der Abgrund, -̈e",der,B2+,12.4195,0.8468,0,abyss,Hinter dem Berg ist ein tiefer Abgrund.,Behind the mountain is a deep abyss.
+4857,"das Fell, -e",das,B2+,12.4195,0.8585,0,"fur, coat, skin",Das Fell des Hundes ist sehr weich.,The coat of the dog is very soft.
+4900,"der Specht, -e",der,B2+,12.2716,0.1385,0,woodpecker,"Obwohl Spechte Vögel sind, fliegen sie nicht oft.","Although woodpeckers are birds, they don’t fly often."
+4913,"das Kupfer, -",das,B2+,12.2223,0.7252,0,copper,Kupfer ist ein rotes Metall.,Copper is a red metal.
+4923,"die Ratte, -n",die,B2+,12.173,0.8505,0,rat,Ich habe Angst vor Ratten und Mäusen.,I’m afraid of rats and mice.
+4962,"der Frosch, -̈e",der,B2+,11.9759,0.6099,0,frog,Am See gibt es viele Frösche.,There are many frogs at the lake.
+4963,"der Funke, -n",der,B2+,11.9759,0.7983,0,spark,Bei einem Feuer entstehen Funken.,A fire makes sparks.
+4994,"der Nationalpark, -s",der,B2+,11.8773,0.7465,0,national park,Ich wandere durch den Nationalpark Yosemite.,I hike through Yosemite National Park.

@@ -1,0 +1,17 @@
+rank,word,pos,level,freq_per_million,dispersion,has_conjugation,definition,example_de,example_en
+723,"der Autor, -en",der,B1,122.0261,0.8648,0,author,Johann Wolfgang von Goethe ist der Autor vieler Gedichte und Erzählungen.,Johann Wolfgang von Goethe is the author of many poems and stories.
+789,"der Künstler, -",der,B1,108.966,0.8194,0,artist,Die Künstlerin zeigt ihre Bilder in der neuen Ausstellung.,The artist shows her paintings in the new exhibition.
+1704,"der Schauspieler, -",der,B1,50.0228,0.8488,0,actor,Das Theater sucht junge Schauspieler für ein neues Stück.,The theater is looking for young actors for a new play.
+1727,"der Schriftsteller, -",der,B1,49.2343,0.8197,0,writer,Bei einem Gespräch verrät der Schriftsteller erste Fakten zu seinem neuen Buch.,"During a conversation, the writer reveals the first facts about his new book."
+1975,"der Dichter, -",der,B1,42.236,0.7061,0,"writer, poet",Georg Trakl war ein österreichischer Dichter.,Georg Trakl was an Austrian poet.
+2412,"der Erzähler, -",der,B1,32.8721,0.6335,0,"storyteller, narrator",Der Erzähler des Films hat eine angenehme Stimme.,The narrator of the film has a pleasant voice.
+2577,"der Musiker, -",der,B1,30.2601,0.8656,0,musician,Der Musiker schreibt alle Texte für seine Lieder selbst.,The musician writes all lyrics for his songs by himself.
+2585,"der Star, -e",der,A2,30.1615,0.8725,0,"star, starling",Ein Star ist eine berühmte Person.,A star is a famous person.
+2621,"der Kritiker, -",der,B2+,29.7673,0.8631,0,critic,Die Kritiker der Reform warnen vor wirtschaftlichen Folgen.,The critics of the reform warn of economic consequences.
+2731,"der Maler, -",der,B1,28.1409,0.8376,0,painter,Picasso war ein spanischer Maler.,Picasso was a Spanish painter.
+2795,"der Regisseur, -e",der,B2+,27.3031,0.8289,0,director,Er arbeitet als Regisseur am Theater.,He works as a director at the theater.
+2914,"der Akteur, -e",der,B2+,25.8246,0.8459,0,"player, actor",An dem Stück nehmen insgesamt 50 Akteure teil.,A total of 50 actors take part in the play.
+3029,"der Sänger, -",der,B1,24.5432,0.8454,0,singer,Madonna ist eine berühmte Sängerin.,Madonna is a famous singer.
+3847,"der Produzent, -en",der,B2+,17.5449,0.8312,0,producer,Das Unternehmen ist der weltweit größte Produzent von Lebensmitteln.,The company is the world’s largest producer of food.
+4696,"der Moderator, -en",der,B2+,13.1094,0.8246,0,"moderator, host, presenter",Die Moderatoren im Fernsehen müssen sehr gut sprechen können.,The TV moderators must be able to speak very well.
+4778,"der Komponist, -en",der,B2+,12.8137,0.8176,0,composer,Johann Sebastian Bach war Komponist.,Johann Sebastian Bach was a composer.

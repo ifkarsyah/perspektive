@@ -1,0 +1,15 @@
+rank,word,pos,level,freq_per_million,dispersion,has_conjugation,definition,example_de,example_en
+220,"der Weg, -e",der,A1,393.7756,0.9472,0,"path, way",Der Weg entlang des Flusses ist sehr schön.,The path along the river is very beautiful.
+391,"die Straße, -n",die,A1,214.1371,0.9113,0,street,Ich wohne in einer ruhigen Straße.,I live in a quiet street.
+1528,"der Flughafen, -̈",der,A1,57.3168,0.8416,0,airport,"Wir fahren zum Flughafen, um von dort aus in den Urlaub zu fliegen.",We’re driving to the airport to go on vacation from there.
+1938,"die Brücke, -n",die,A2,43.1231,0.9113,0,bridge,Die Kinder werfen Steine von der Brücke in den Fluss.,The children throw stones from the bridge into the river.
+2027,"der Bahnhof, -̈e",der,A1,40.7082,0.8814,0,(railway) station,Katharina wartet am Bahnhof auf den Zug nach Leipzig.,Katharina waits at the station for the train to Leipzig.
+2405,"das Bord, -e",der,B1,32.9707,0.8739,0,board,"Die Menschen retten sich von Bord, als das Schiff sinkt.",People are rescued from on board when the ship sinks.
+2562,"die Station, -en",die,B1,30.5558,0.907,0,"station, stop, stopover",Mit der Bahn fährt man fünf Stationen vom Bahnhof zur Universität.,By train one travels five stops from the station to the university.
+2687,"der Hafen, -̈",der,B1,28.7816,0.8634,0,harbor,Am Hafen liegen Schiffe mit Gütern aus aller Welt.,At the harbor are ships with goods from all over the world.
+2966,"die Autobahn, -en",die,A1,25.1839,0.8696,0,"expressway, motorway",Auf deutschen Autobahnen darf man sehr schnell fahren.,On German motorways you can drive very fast.
+3106,"der Parkplatz, -̈e",der,B2+,23.6068,0.8297,0,parking place,Zu der Wohnung gehört ein Parkplatz vor dem Haus.,The apartment includes a parking space in front of the house.
+4056,"der Tunnel, -",der,B2+,16.3621,0.8569,0,tunnel,Der Zug fährt durch einen Tunnel.,The train is going through a tunnel.
+4276,"die Gasse, -n",die,B2+,15.0808,0.8245,0,alley,In Köln gibt es eine Altstadt mit vielen schmalen Gassen zwischen den Häusern.,In Cologne there is an old town with many narrow alleys between the houses.
+4810,"der Pfad, -e",der,B2+,12.7152,0.8528,0,"path, trail","Ich gehe im Wald immer auf den Pfaden, weil ich mich sonst verlaufe.","I always walk on the paths in the forest, otherwise I get lost."
+4990,"die Kreuzung, -en",die,A2,11.8773,0.8394,0,intersection,"Ich überquere die Kreuzung, wenn kein Auto kommt.",I’ll cross the intersection if no car comes.

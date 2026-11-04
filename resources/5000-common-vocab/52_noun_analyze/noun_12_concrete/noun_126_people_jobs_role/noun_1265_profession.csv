@@ -1,0 +1,34 @@
+rank,word,pos,level,freq_per_million,dispersion,has_conjugation,definition,example_de,example_en
+240,"der Doktor, -en (Dr.)",der,A1,362.5792,0.7734,0,doctor,"Wenn ich Schmerzen habe, gehe ich zu einem Doktor.","Whenever I’m in pain, I go to a doctor."
+282,"der Professor, -en",der,B1,310.6836,0.7516,0,professor,Ein Professor lehrt an der Universität.,A professor teaches at the university.
+622,"der Arzt, -Äe",der,A1,140.1132,0.8638,0,"physician, doctor",Die Ärztin gibt ihm ein Medikament.,The doctor gives him a medication.
+695,"der Lehrer, -",der,A1,127.9401,0.8221,0,teacher,Wir haben einen neuen Lehrer an unserer Schule.,We have a new teacher at our school.
+1246,"der Forscher, -",der,B1,70.7712,0.6868,0,researcher,Die Forscherin beobachtet das Verhalten von Kindern.,The researcher observes the behavior of children.
+1480,"der Journalist, -en",der,B1,59.4853,0.8731,0,journalist,Er arbeitet als Journalist für mehrere Zeitungen und das Fernsehen.,He works as a journalist for various newspapers and television.
+1522,"der Wissenschaftler, -",der,B1,57.5139,0.8166,0,"scholar, scientist",Johanna arbeitet als Wissenschaftlerin an der Universität.,Johanna works as a scientist at the university.
+1548,"der Bauer, -n",der,B1,56.4297,0.8914,0,farmer,Der Bauer bringt seine Tiere auf die Wiese.,The farmer takes his animals to the meadow.
+1554,"der Fahrer, -",der,A1,56.3311,0.8627,0,driver,"Der Unfall wurde von einem Fahrer verursacht, der unter dem Einfluss von Alkohol stand.",The accident was caused by a driver under the influence of alcohol.
+2185,"der Fischer, -",der,B1,37.3569,0.8634,0,fisherman,Die Fischer legen ihre Netze zum Trocknen an den Strand.,The fishermen lay their nets on the beach to dry.
+2374,"der Verkäufer, -",der,A1,33.4635,0.8065,0,"salesman, seller",Helen gibt dem Verkäufer das Geld für die Lebensmittel.,Helen gives the seller the money for the food.
+2502,"der Weber, -",der,B2+,31.4922,0.5903,0,weaver,Mein Großvater war Weber von Beruf.,My grandfather was a weaver by profession.
+2684,"der Führer, -",der,B2+,28.8309,0.7201,0,"leader, guide",Eine Führerin gibt den Touristen Informationen zur Stadt.,A guide gives the tourists information about the city.
+2709,"der Kapitän, -e",der,B2+,28.4859,0.7991,0,captain,Der Kapitän verlässt als Letzter das Schiff.,The captain is the last to leave the ship.
+2902,"der Übersetzer, -",der,B1,26.0217,0.5921,0,translator,Fernando ist ein Übersetzer für das Deutsche und Spanische.,Fernando is a translator for German and Spanish.
+2956,"der Pilot, -en",der,B2+,25.3317,0.6938,0,pilot,Der Pilot des Flugzeugs begrüßt die Passagiere.,The pilot of the aircraft welcomes the passengers.
+3176,"der Architekt, -en",der,B2+,22.6704,0.8663,0,architect,Der Architekt gestaltet das neue Theater.,The architect designs the new theater.
+3204,"der Kellner, -",der,B1,22.424,0.8478,0,"waiter, waitress","Der Kellner bringt einen Wein, obwohl ich ein Bier bestellt habe.","The waiter brings a glass of wine, although I ordered a beer."
+3325,"der Philosoph, -en",der,B2+,21.2412,0.7993,0,philosopher,Platon war ein griechischer Philosoph.,Plato was a Greek philosopher.
+3458,"der Chemiker, -",der,B2+,20.2063,0.6173,0,chemist,Die Chemikerin arbeitet mit gefährlichen Substanzen.,The chemist works with dangerous substances.
+3707,"der Wirt, -e",der,B1,18.4321,0.8153,0,"host, innkeeper",Zu meinem Geburtstag essen und schlafen wir bei einem bayrischen Wirt.,For my birthday we eat and sleep at a Bavarian innkeeper’s place.
+3745,"der Reporter, -",der,B1,18.1856,0.8299,0,reporter,Der Reporter von der Presse fotografiert die Mannschaft nach dem Spiel.,The reporter from the press photographs the team after the match.
+3784,"der Koch, -̈e",der,B1,17.9392,0.8521,0,cook,Mein Vater arbeitet als Koch in einem Restaurant.,My father works as a cook in a restaurant.
+4005,"der Ingenieur, -e",der,B1,16.6086,0.8637,0,engineer,Er arbeitet als Ingenieur bei einem großen Unternehmen.,He works as an engineer for a large company.
+4055,"der Mediziner, -",der,B2+,16.3621,0.8324,0,"doctor, physician",Als Mediziner kannst du Menschen helfen.,"As a physician, you can help people."
+4241,"der Psychologe, -n",der,B2+,15.3272,0.8321,0,psychologist,Seit dem Tod meiner Eltern bekomme ich Hilfe von einem Psychologen.,"Since my parents died, I’ve had help from a psychologist."
+4422,"der Herausgeber, -",der,B2+,14.3908,0.659,0,publisher,Der Herausgeber einer Zeitung trifft für diese die wichtigsten Entscheidungen.,The publisher of a newspaper makes the most important decisions for the newspaper.
+4436,"der Jäger, -",der,B2+,14.3415,0.8299,0,hunter,Nur Jäger dürfen auf Tiere schießen.,Only hunters are allowed to shoot at animals.
+4449,"der Historiker, -",der,B2+,14.2922,0.8401,0,historian,Als Historiker beschäftige ich mich wissenschaftlich mit der Geschichte.,"As a historian, I deal academically with history."
+4476,"der Diener, -",der,B2+,14.1444,0.6801,0,servant,"Es ist nicht üblich, heute noch Diener im Haus zu haben.",It’s not customary to have servants in the house today.
+4515,"der Landwirt, -e",der,B2+,13.9472,0.79,0,farmer,Als Landwirt arbeitest du viel an der frischen Luft.,"As a farmer, you work a lot in the fresh air."
+4573,"der Fotograf, -en",der,B1,13.7008,0.8557,0,photographer,"Ich gehe mit meiner Familie zu einem Fotografen, um schöne Bilder zu machen.",I’m going with my family to a photographer to take nice pictures.
+4983,"der Redakteur, -e",der,B2+,11.9266,0.8258,0,editor,Als Redakteur schreibt er Beiträge für die Zeitung.,As an editor he writes articles for the newspaper.

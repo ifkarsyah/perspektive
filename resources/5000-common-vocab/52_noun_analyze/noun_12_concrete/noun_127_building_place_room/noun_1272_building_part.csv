@@ -1,0 +1,18 @@
+rank,word,pos,level,freq_per_million,dispersion,has_conjugation,definition,example_de,example_en
+375,"die Tür, -en",die,A2,220.6425,0.866,0,door,"Ich schließe die Tür ab, wenn ich das Haus verlasse.",I’ll lock the door when I leave the house.
+536,"der Boden, -̈",der,B1,159.3337,0.9225,0,"ground, floor, bottom",Fühle den Boden unter deinen Füßen.,Feel the ground under your feet.
+674,"das Fenster, -",das,A2,130.8971,0.8544,0,window,Kannst du bitte das Fenster öffnen?,"Could you open the window, please?"
+828,"die Wand, -̈e",die,B1,103.7912,0.8916,0,wall,Die Wände in meinem Zimmer sind rot.,The walls in my room are red.
+1376,"die Ecke, -n",die,A1,64.4136,0.9199,0,corner,An der Ecke der Straße ist eine Schule.,At the corner of the street is a school.
+1659,"die Mauer, -n",die,B1,51.5506,0.8913,0,wall,Von der Mauer in Berlin stehen noch immer einige Teile.,There are still some parts of the Wall in Berlin.
+1812,"das Dach, -̈er",das,B1,46.7701,0.8958,0,roof,Wir bauen ein neues Dach für unser Haus.,We’re building a new roof for our house.
+1950,"die Treppe, -n",die,A1,42.7781,0.8475,0,stairs,In unserem Haus gibt es zwei Treppen.,In our house there are two stairs.
+2273,"der Stock, -̈e",der,A1,35.5827,0.8672,0,"stick, floor",Sein Büro ist im dritten Stock des Gebäudes.,His office on the third floor of the building.
+2504,"der Eingang, -̈e",der,A1,31.4429,0.8951,0,entrance,Der Eingang befindet sich neben dem Ausgang.,The entrance is next to the exit.
+3219,"der Ausgang, -̈e",der,A1,22.2762,0.9083,0,"exit, outcome, starting point",Das Schild zeigt den Besuchern den Weg zum Ausgang.,The sign shows visitors the way to the exit.
+3279,"der Zaun, -̈e",der,B2+,21.6848,0.8628,0,fence,Ein Zaun trennt unseren Garten vom Garten nebenan.,A fence separates our garden from the garden next door.
+3340,"die Säule, -n",die,B2+,21.1426,0.7854,0,"column, pillar",Das Dach wird von zwei Säulen gestützt.,The roof is supported by two pillars.
+3428,"die Haustür, -en",die,B2+,20.4034,0.847,0,front door,Mein Nachbar klingelt an der Haustür.,My neighbor rings at the front door.
+4217,"die Fassade, -n",die,B2+,15.4258,0.8698,0,"facade, front",Das Haus hat eine sehr schöne Fassade von außen.,The house has a very nice facade from the outside.
+4571,"die Etage, -n",die,B1,13.7008,0.8549,0,"floor, level, story",Ich wohne in der ersten Etage.,I live on the first floor.
+4935,"das Stockwerk, -e",das,A2,12.1238,0.8646,0,floor,Das Haus hat zwei Stockwerke.,The house has two floors.

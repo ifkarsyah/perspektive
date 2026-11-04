@@ -1,0 +1,29 @@
+rank,word,pos,level,freq_per_million,dispersion,has_conjugation,definition,example_de,example_en
+639,"der Mitarbeiter, -",der,A2,135.7762,0.8923,0,"employee, co-worker",Die Firma hat nur wenige Mitarbeiter.,The company has just a few employees.
+975,"der Chef, -s",der,A1,88.9568,0.8953,0,"head, leader, boss","Martin leitet diese Firma, er ist der Chef.","Martin runs this company, he’s the boss."
+999,"der Sprecher, -",der,A2,87.0348,0.8306,0,"speaker, spokesperson",Der Sprecher der Firma hat ein Interview.,The company spokesperson has an interview.
+1303,"der Vertreter, -",der,B1,67.9127,0.9001,0,representative,Wir treffen uns mit Vertretern aus Wirtschaft und Politik.,We are meeting with representatives from business and politics.
+1437,"der Experte, -n",der,B1,61.6044,0.8746,0,expert,Herr Michels ist Experte auf dem Gebiet der deutschen Literatur.,Mr. Michels is an expert in the field of German literature.
+1622,"der Leiter, -",der,B1,53.2755,0.9009,0,leader,Als Leiter des Projekts solltest du gut organisieren können.,"As the project leader, you should be able to organize well."
+1749,"der Meister, -",der,B1,48.7414,0.8666,0,master,Unser Professor ist ein Meister in seinem Fach.,Our professor is a master in his field.
+1913,die Vorsitzende,"der, die",B1,43.6652,0.8489,0,chairperson,Thomas ist der neue Vorsitzende der Organisation für Umwelt.,Thomas is the new chairperson of the Organization for the Environment.
+2041,"der Direktor, -en",der,B1,40.3632,0.8498,0,director,Der Direktor der Klinik kündigt Veränderungen für die Zukunft an.,The director of the clinic announces changes for the future.
+2174,"der Manager, -",der,B1,37.6034,0.849,0,manager,Die Gäste beschweren sich beim Manager des Hotels.,The guests complain to the hotel manager.
+2304,"der Unternehmer, -",der,B1,34.8928,0.8717,0,"entrepreneur, employer",Frau Günters leitet als Unternehmerin ihr eigenes Unternehmen.,Mrs. Günters runs her own company as an entrepreneur.
+2404,"der Arbeiter, -",der,B1,32.9707,0.91,0,worker,Die Arbeiter fordern mehr Lohn.,The workers are demanding more pay.
+2477,"der Gesellschafter, -",der,B1,31.8372,0.5633,0,"associate, shareholder",Sie haben gegen alle Gesellschafter des Unternehmens geklagt.,They have brought an action against all shareholders of the company.
+2533,"der Arbeitnehmer, -",der,B2+,30.9501,0.8095,0,employee,Das Unternehmen muss neue Arbeitnehmer einstellen.,The company must hire new employees.
+2642,"der Geschäftsführer, -",der,B2+,29.4223,0.87,0,manager,Der Geschäftsführer kümmert sich persönlich um das Problem.,The manager personally takes care of the problem.
+2653,die Angestellte,"der, die",B2+,29.2744,0.9017,0,employee,Die Firma hat nur wenige Angestellte.,The company has just a few employees.
+2712,die Beschäftigte,"der, die",B2+,28.3873,0.7848,0,employee,"Wir brauchen mehr Beschäftigte, um die ganze Arbeit zu erledigen.",We need more employees to do all the work.
+2839,"der Besitzer, -",der,B2+,26.761,0.9116,0,owner,"Das Haus gehört nicht mir sondern Paul, er ist der Besitzer.",The house isn’t mine. Paul is the owner.
+2865,"der Arbeitgeber, -",der,B2+,26.416,0.8267,0,employer,Ihr Arbeitgeber bemüht sich um gute Bedingungen bei der Arbeit.,Her employer strives for good conditions at work.
+3528,"der Profi, -s",der,B1,19.7134,0.7818,0,"pro, professional",Thomas Müller ist ein Profi im Fußball.,Thomas Müller is a professional soccer player.
+3591,"der Berater, -",der,B2+,19.1713,0.8591,0,"advisor, consultant",Sie arbeitet als Beraterin für den Präsidenten.,She works as an advisor to the president.
+3850,"der Eigentümer, -",der,B2+,17.4957,0.829,0,owner,Die Polizei sucht den Eigentümer des Autos.,Police are looking for the owner of the car.
+4057,"der Assistent, -en",der,B2+,16.3129,0.8397,0,assistant,Sie sucht nach einem persönlichen Assistenten mit guten organisatorischen Fähigkeiten.,She is looking for a personal assistant with good organizational skills.
+4112,"der Gründer, -",der,B2+,16.0172,0.8055,0,founder,Frau Paget ist die Gründerin und Geschäftsführerin des Unternehmens.,Mrs. Paget is the founder and managing director of the company.
+4293,"der Bewerber, -",der,B2+,14.9822,0.8147,0,applicant,"Es gibt noch zwei weitere Bewerber, die den Job haben wollen.",There are two other applicants who want the job.
+4304,"die Arbeitskraft, -̈e",die,B2+,14.9329,0.8059,0,"manpower, worker",Leon ist eine zuverlässige Arbeitskraft und immer pünktlich.,Leon is a reliable worker and always on time.
+4533,"der Sekretär, -e",der,B1,13.898,0.8442,0,secretary,Mein Vater arbeitet als Sekretär für einen Anwalt.,My father works as a secretary for a lawyer.
+4750,"der Spezialist, -en",der,B1,12.9123,0.8859,0,specialist,Sie ist Spezialistin für genetische Krankheiten.,She’s a specialist in genetic diseases.

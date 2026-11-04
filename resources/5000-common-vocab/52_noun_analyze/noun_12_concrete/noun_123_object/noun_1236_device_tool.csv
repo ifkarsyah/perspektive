@@ -1,0 +1,23 @@
+rank,word,pos,level,freq_per_million,dispersion,has_conjugation,definition,example_de,example_en
+348,"die Uhr, -en",die,A1,240.3559,0.9161,0,"clock, watch, o’clock",Die Uhr zeigt die Zeit.,The clock shows the time.
+1237,"die Maschine, -n",die,A1,71.2147,0.906,0,machine,Die Maschine arbeitet schneller als ein durchschnittlicher Arbeiter.,The machine works faster than an average worker.
+1252,"der Computer, -",der,A1,70.4755,0.8927,0,computer,Ich speichere das Bild auf meinem Computer.,I’m saving the image to my computer.
+1501,"die Kamera, -s",die,A2,58.2532,0.8044,0,camera,Jonathan dreht Filme und kauft sich heute eine neue Kamera.,Jonathan is making movies and buying a new camera today.
+1572,"das Instrument, -e",das,A2,55.3454,0.8835,0,instrument,Welches Instrument spielen Sie?,What instrument do you play?
+1595,"das Telefon, -e",das,A1,54.2612,0.8834,0,telephone,Am Telefon klingt sie wie ihre Mutter.,"On the phone, she sounds like her mother."
+1646,"das Gerät, -e",das,A2,52.2406,0.8297,0,"tool, piece of equipment, appliance",Wir haben sehr viele elektrische Geräte zu Hause.,We have a lot of electrical equipment at home.
+1693,"das Handy, -s",das,A1,50.5649,0.8556,0,mobile phone,"Mit den neuen Handys kann man nicht nur telefonieren, sondern auch ins Internet gehen.","With the new mobile phones you can not only make phone calls, but also go online."
+2197,"der Schlüssel, -",der,A1,37.0612,0.891,0,key,Der dritte Schlüssel für unsere Wohnung ist bei Frau Wagner.,The third key to our apartment is at Mrs. Wagner’s.
+2575,"das Radio, -s",das,A2,30.3094,0.8785,0,radio,"Wir schalten das Radio an, um die Nachrichten zu hören.",We switch on the radio to listen to the news.
+2754,"der Bildschirm, -e",der,B1,27.8452,0.8186,0,"screen, monitor","Der Bildschirm des Computers verbreitet kaltes, blaues Licht.","The computer screen emits cold, blue light."
+2827,"der Fernseher, -",der,A2,26.9088,0.8237,0,television,Ich kaufe morgen einen Fernseher für unsere Wohnung.,I’m buying a television for our apartment tomorrow.
+3365,"der Rechner, -",der,B1,20.9455,0.7265,0,"computer, calculator",Wer hat Zugang zu diesem Rechner?,Who has access to this computer?
+3471,"das Smartphone, -s",das,B2+,20.157,0.8031,0,smartphone,"Smartphones sind wie kleine Computer, die man in die Tasche stecken kann.",Smartphones are like small computers you can put in your pocket.
+3622,"der PC, -s",der,B2+,19.0235,0.7465,0,computer,Durch das häufige Arbeiten am PC bekommt er Schmerzen im Rücken.,Because of the frequent work on the computer he gets pain in his back.
+3681,"das Werkzeug, -e",das,B1,18.5799,0.9106,0,tool,"Affen nutzen Steine als Werkzeug, um an Nahrung zu gelangen.",Monkeys use stones as a tool to get food.
+4109,"der Zähler, -",der,B2+,16.0664,0.7332,0,"counter, meter, numerator","Der Zähler in unserer Wohnung misst den Strom, den wir verbrauchen.",The meter in our apartment measures the electricity we use.
+4124,"der Roboter, -",der,B2+,15.9679,0.8001,0,robot,"Roboter werden gebaut, um den Menschen Arbeit abzunehmen.",Robots are built to do the work of humans.
+4340,"das Klavier, -e",das,A2,14.7358,0.8341,0,piano,"Ich spiele viele Instrumente, darunter auch Klavier.","I play many instruments, including piano."
+4516,"der Laptop, -s","der, das",A2,13.9472,0.7639,0,laptop,"Ich arbeite mit dem Laptop, wenn ich unterwegs bin.",I work with my laptop when I’m on the road.
+4759,"der Apparat, -e",der,A2,12.863,0.7902,0,"device, gadget",Der Fernseher ist ein nützlicher Apparat.,The television is a useful device.
+4840,"das Hilfsmittel, -",das,B2+,12.518,0.8659,0,"means, aid, tool",In der Prüfung sind keine Hilfsmittel erlaubt.,No aids are allowed in the test.
