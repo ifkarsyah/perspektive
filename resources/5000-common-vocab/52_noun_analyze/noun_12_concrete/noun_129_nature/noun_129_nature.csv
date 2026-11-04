@@ -42,6 +42,7 @@ rank,word,pos,level,freq_per_million,dispersion,has_conjugation,definition,examp
 2423,"die Atmosphäre, -n",die,B1,32.6257,0.9003,0,atmosphere,Ich mag die lockere Atmosphäre im Büro.,I like the relaxed atmosphere in the office.
 2463,"die Blume, -n",die,A1,31.985,0.8795,0,flower,Er schenkt ihr Blumen zum Geburtstag.,He’s giving her flowers for her birthday.
 2474,"der Sand, -e",der,B1,31.8865,0.8838,0,sand,Das ist ein schöner Strand mit weißem Sand.,This is a nice beach with white sand.
+2510,"der Kanal, -̈e",der,B1,31.2951,0.8804,0,"canal, channel",Der Kanal verbindet zwei Flüsse.,The canal connects two rivers.
 2514,"der Ast, -Äe",der,B2+,31.2458,0.5346,0,branch,Der Baum hat viele Äste.,The tree has many branches.
 2526,"die Wurzel, -n",die,B2+,31.0979,0.9146,0,root,Die Pflanze hat flache Wurzeln und lässt sich leicht herausziehen.,The plant has shallow roots and is easy to pull out.
 2622,"das Tal, -̈er",das,B1,29.7673,0.8424,0,valley,Der Schnee liegt nur auf den Bergen und nicht im Tal.,The snow is only on the mountains and not in the valley.

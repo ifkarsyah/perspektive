@@ -1,0 +1,140 @@
+rank,word,pos,level,freq_per_million,dispersion,has_conjugation,definition,example_de,example_en
+208,"die Arbeit, -en",die,A1,411.2713,0.9389,0,work,Es liegt noch viel Arbeit vor uns.,We still have a lot of work ahead of us.
+236,"das Unternehmen, -",das,A2,365.5854,0.8122,0,"enterprise, company",Ich gründe mein eigenes Unternehmen.,I am starting my own company.
+334,"der Preis, -e",der,A1,251.149,0.7808,0,"price, prize",Der Erste gewinnt einen Preis.,The first one wins a prize.
+476,"der Markt, -̈e",der,A2,174.4145,0.8316,0,market,Jede Woche gibt es hier einen Markt mit Produkten aus der Region.,Every week there is a market with products from the region.
+564,Kosten,die (pl),A1,152.8776,0.7647,0,"costs, expenses",Die Kosten sind höher als erwartet.,The costs are higher than expected.
+581,"das Gut, -̈er",das,A1,148.0971,0.6546,0,"estate, good(s)",Verschiedene Güter kommen mit dem Schiff.,Various goods come by ship.
+686,"die Firma, -en",die,A1,128.9751,0.8602,0,"firm, company","Mein Vater ist der Chef einer großen Firma, die Autos baut.",My father is the boss of a big company that makes cars.
+687,"die Wirtschaft, -en",die,B1,128.9751,0.8591,0,"economy, commerce",In der Wirtschaft spielen Politik und Geld eine große Rolle.,Politics and money play an important role in the economy.
+719,"das Angebot, -e",das,A1,122.9625,0.8764,0,"offer, supply",Der Laden hat ein großes Angebot an frischen Produkten.,The shop has a large supply of fresh products.
+720,"das Projekt, -e",das,A2,122.3218,0.8931,0,project,Das Projekt für die neue Bibliothek geht schnell voran.,The project for the new library is progressing rapidly.
+923,"die Produktion, -en",die,B1,94.6737,0.7362,0,production,Die Produktion von elektronischen Fahrzeugen nimmt stark zu.,The production of electronic vehicles is increasing sharply.
+947,"die Nachfrage, -n",die,B1,92.2095,0.6694,0,demand,Die Nachfrage nach lokalen Lebensmitteln ist enorm.,The demand for local food is enormous.
+957,"der Betrieb, -e",der,B1,90.8789,0.8886,0,"business, operation",Ich arbeite in einem kleinen Betrieb mit wenigen Mitarbeitern.,I work in a small business with few employees.
+985,"der Gewinn, -e",der,B1,88.0697,0.7915,0,profit,Die Firma verdoppelte im letzten Jahr ihren Gewinn.,The company doubled its profits in the last year.
+1036,"der Beruf, -e",der,A1,83.9299,0.8603,0,"occupation, job, profession",Sie mag ihren Beruf als Schauspielerin sehr.,She likes her job as an actress very much.
+1115,"der Job, -s",der,A1,78.213,0.8986,0,job,Der Job wird gut bezahlt.,The job is well paid.
+1157,"der Haushalt, -e",der,A2,75.0589,0.7492,0,"household, budget",Der Haushalt von Familie Krämer besteht aus den Eltern und drei Kindern.,The Krämer family household consists of the parents and three children.
+1406,"die Investition, -en",die,B1,63.2308,0.7744,0,investment,"Das ist eine gute Investition, du wirst viel Gewinn machen.",This is a good investment; you’ll make a lot of profit.
+1417,"das Einkommen, -",das,B1,62.8365,0.689,0,income,"Je mehr Geld du verdienst, desto höher ist dein Einkommen.","The more money you earn, the higher your income."
+1423,"der Auftrag, -̈e",der,B1,62.4916,0.9207,0,"instructions, order, job",Er handelt im Auftrag der Regierung.,He works by order of the government.
+1492,"der Wettbewerb, -e",der,A2,58.6474,0.831,0,competition,An dem Wettbewerb nehmen Menschen aus aller Welt teil.,People from all over the world take part in the competition.
+1496,"der Konzern, -e",der,B1,58.401,0.7666,0,corporation,Die Firma wurde von einem großen Konzern übernommen.,The company was taken over by a large corporation.
+1524,"das Steuer, -",die,B1,57.4646,0.8415,0,tax,"Wer Geld verdient, muss Steuern auf sein Einkommen zahlen.",Anyone who earns money has to pay taxes on their income.
+1535,"der Handel, -̈",der,B1,57.0704,0.8376,0,trade,Der internationale Handel ist deutlich gestiegen.,International trade has increased significantly.
+1551,"der Service, -s",der,A2,56.3804,0.4903,0,service,Wir garantieren einen guten Service im Restaurant.,We guarantee good service in the restaurant.
+1558,"der Dienst, -e",der,B1,56.0847,0.9225,0,"service, duty",Die Organisation arbeitet im Dienst der Menschenrechte.,The organization works in the service of human rights.
+1668,"die Tätigkeit, -en",die,B1,51.4028,0.8826,0,"activity, work","Patrick hat keine geregelte Tätigkeit, er ist arbeitslos.","Patrick has no regular job, he’s unemployed."
+1671,"der Arbeitsplatz, -̈e",der,A1,51.3042,0.8956,0,"workplace, job",Svenjas Arbeitsplatz ist immer sehr sauber und ordentlich.,Svenja’s workplace is always very clean and tidy.
+1691,"die Führung, -en",die,A1,50.6142,0.8568,0,"management, command, leadership",Unter der Führung des neuen Managers steigen die Umsätze wieder.,Sales increase again under the leadership of the new manager.
+1699,"der Verlag, -e",der,B1,50.2692,0.8749,0,publishing company,Viele Verlage veröffentlichen immer mehr Bücher.,Many publishing companies are publishing more and more books.
+1703,"die Branche, -n",die,B1,50.0721,0.8531,0,"sector, line of business",Das Arbeiten mit Aktien ist keine sichere Branche.,Working with stocks is not a safe sector.
+1710,"der Umsatz, -̈e",der,B1,49.875,0.8162,0,"turnover, sales","Durch Werbung versuchen wir, den Umsatz unseres Geschäfts zu steigern.",We try to increase the turnover of our business through advertising.
+1742,"der Anbieter, -",der,B1,48.8893,0.7362,0,supplier,Für den neuen Vertrag seines Handys wechselt Kai zu einem anderen Anbieter.,Kai switches to another supplier for the new contract for his mobile phone.
+1743,"die Industrie, -n",die,B1,48.8893,0.8686,0,industry,Die Industrie ist ein Teil der Wirtschaft.,The industry is part of the economy.
+1768,"die Konkurrenz, -en",die,B1,48.0515,0.8585,0,competition,Die Firma ist ihrer Konkurrenz einen Schritt voraus.,The company is one step ahead of the competition.
+1813,"die Karriere, -n",die,B1,46.7701,0.8647,0,career,Martha möchte sich auf ihre Karriere konzentrieren.,Martha wants to focus on her career.
+1856,"die Rechnung, -en",die,A1,45.2423,0.9173,0,"bill, calculation, invoice",Die Arztpraxis hat mir gestern eine Rechnung für die Untersuchung geschickt.,The doctor’s office sent me an invoice for the examination yesterday.
+1862,"das Management, -s",das,B1,45.1437,0.6695,0,management,Herr Jarvis übernimmt das Management eines japanischen Unternehmens.,Mr. Jarvis is taking over the management of a Japanese company.
+1892,AG (Aktiengesellschaft),die,B1,44.1581,0.8566,0,"incorporated company, inc.",Mit einem Job bei einer Aktiengesellschaft kann man viel Geld verdienen.,You can make a lot of money with a job at a stock corporation.
+1935,das Marketing,das,B1,43.1724,0.4791,0,marketing,Der Chef und der Manager diskutieren eine neue Strategie für das Marketing der Firma.,The boss and the manager discuss a new strategy for the marketing of the company.
+1967,"der Zins, -en",der,B1,42.4824,0.7321,0,interest,Der Kredit bei meiner Bank hat nur sehr geringe Zinsen.,The interest on the loan from my bank is very low.
+2037,"die Lehre, -n",die,B1,40.5111,0.8966,0,"apprenticeship, lesson, doctrine",Niklas macht eine Lehre in der Firma seines Vaters.,Niklas is doing an apprenticeship in his father’s company.
+2061,"der Hersteller, -",der,B1,39.9197,0.8331,0,"manufacturer, producer",Der Hersteller des Produkts garantiert eine gute Qualität.,The manufacturer of the product guarantees good quality.
+2087,"die GmbH, -s",die,B1,39.3283,0.6941,0,"limited liability company, Ltd",Fabian gründet eine GmbH und sucht weitere Mitarbeiter.,Fabian is founding a limited liability company and is looking for further employees.
+2094,die Arbeitslosigkeit,die,B1,39.0326,0.6735,0,unemployment,Die Arbeitslosigkeit in Deutschland ist in den letzten Jahren gesunken.,Unemployment in Germany has fallen in recent years.
+2134,"der Kauf, -̈e",der,B1,38.3426,0.8387,0,purchase,Der Kauf eines neuen Autos ist teuer.,The purchase of a new car is expensive.
+2148,"der Verkauf, -̈e",der,B1,38.1455,0.8435,0,sale,Das Haus steht zum Verkauf.,The house is for sale.
+2192,"die Marke, -n",die,B1,37.2091,0.847,0,"brand, stamp",Nur aufgrund der Marke ist das Produkt so teuer.,The product is so expensive only because of its brand.
+2217,der Konsum,der,B1,36.6177,0.5878,0,consumption,Der Konsum von Alkohol beeinflusst die Wahrnehmung.,The consumption of alcohol influences perception.
+2239,"das Kapital, -e",das,B1,36.2727,0.753,0,capital,"Die Firma hat nicht genügend Kapital, um im Wettbewerb zu bleiben.",The company does not have the capital to stay competitive.
+2243,"der Lohn, -̈e",der,B1,36.1741,0.7822,0,"wage, pay, reward",Ich bekomme meinen Lohn am Ende des Monats.,I get my wages at the end of the month.
+2244,"das Vermögen, -",das,B1,36.1741,0.8429,0,"assets, fortune, ability","Das Gericht entscheidet darüber, wer der Erbe des Vermögens sein wird.",The court decides who will inherit the assets.
+2305,"die Dienstleistung, -en",die,B1,34.8435,0.6981,0,service,"Eine der Dienstleistungen ist es, die Produkte kostenlos zu liefern.",It is one of the services to deliver the products for free.
+2361,"die Aktie, -n",die,B1,33.6607,0.791,0,share,"Er investiert sein Geld in Aktien, die er später mit Gewinn wieder verkaufen will.","He invests his money in shares, which he later wants to sell at a profit."
+2372,"das Bruttoinlandsprodukt, -e",das,B1,33.4635,0.4084,0,"gross domestic product, GDP",Das Bruttoinlandsprodukt erfasst Güter als Leistungen in der Wirtschaft innerhalb eines Landes und eines Jahres.,The gross domestic product includes goods as services in the economy within a country and for one year.
+2380,"die Ressource, -n",die,B1,33.365,0.8137,0,resource,"Die finanziellen Ressourcen der Firma reichen nicht aus, um neue Mitarbeiter einzustellen.",The company’s financial resources are not sufficient to recruit new employees.
+2424,"die Beschäftigung, -en",die,B1,32.6257,0.8423,0,"employment, work, job, pursuit","Ich suche eine Beschäftigung für die Zeit, wenn ich nicht mehr arbeiten gehe.",I’m looking for a pursuit for when I’m no longer working.
+2450,"die Bilanz, -en",die,B1,32.1822,0.8431,0,"balance (sheet), result",Am Ende des Jahres wird die Bilanz hoffentlich positiv sein.,"At the end of the year, the balance hopefully will be positive."
+2462,"die Werbung, -en",die,B1,32.0343,0.8531,0,advertising,Er macht Werbung für das neue Produkt.,He’s advertising the new product.
+2482,"die Innovation, -en",die,B1,31.7879,0.5397,0,innovation,Innovation ist nur ein Bestandteil von anhaltendem Wachstum.,Innovation is only one component of sustained growth.
+2483,"die Landwirtschaft, -en",die,B1,31.7879,0.8564,0,agriculture,Landwirtschaft und Tourismus sind wichtig für die Wirtschaft der Region.,Agriculture and tourism are important to the region’s economy.
+2548,"der Arbeitsmarkt, -̈e",der,B2+,30.7529,0.7748,0,labor market,Frauen mit Kindern haben auf dem Arbeitsmarkt schlechtere Chancen.,Women with children have worse chances on the labor market.
+2550,"der Bedarf, -e",der,B1,30.7037,0.9008,0,"need, demand",Der Bedarf an qualifiziertem Personal ist schwer zu decken.,The demand for qualified employees is difficult to meet.
+2554,"der Kredit, -e",der,A2,30.6544,0.8098,0,"loan, credit","Um ein Auto kaufen zu können, muss er einen Kredit aufnehmen.","To buy a car, he has to take out a loan."
+2557,"die Leitung, -en",die,B1,30.6051,0.8705,0,"management, leadership",Lisabeth übernimmt die Leitung des neuen Projekts.,Lisabeth takes over the management of the new project.
+2568,"die Herstellung, -en",die,B2+,30.4572,0.8389,0,production,Die Herstellung des Produkts besteht aus mehreren Schritten.,The production of the product consists of various steps.
+2572,"die Versorgung, -en",die,B2+,30.3587,0.8529,0,"supply, care",In vielen Ländern ist die medizinische Versorgung schlecht.,Medical care is poor in many countries.
+2592,"der Abbau, -e",der,B2+,30.063,0.6316,0,"reduction, decline, mining",Der Abbau von Metallen ist ein wichtiger wirtschaftlicher Faktor in westafrikanischen Ländern.,The mining of metals is an important economic factor in West African countries.
+2619,"der Aufwand, -̈e",der,B2+,29.7673,0.8679,0,"expense, effort",Die Organisation des Festes bedeutet für alle einen großen Aufwand.,The organization of the festival is a big effort for everyone.
+2651,"die Zentralbank, -en",die,B2+,29.3237,0.6346,0,central bank,Die Zentralbank senkt die Zinsen.,The central bank lowers interest rates.
+2766,"die Abteilung, -en",die,B1,27.6481,0.8627,0,department,Die Abteilung für den interkulturellen Austausch schließt nächsten Monat.,The Department of Intercultural Exchange closes next month.
+2806,EZB (Europäische Zentralbank),die,B2+,27.106,0.6585,0,European Central Bank,Die Europäische Zentralbank ist die Zentralbank der Mitgliedsstaaten der Europäischen Union.,The European Central Bank is the central bank of the member states of the European Union.
+2813,"die Finanzierung, -en",die,B2+,27.0567,0.8468,0,financing,Die langfristige Finanzierung unseres Hauses scheint gesichert zu sein.,The long-term financing of our house seems to be secured.
+2814,"die Inflation, -en",die,B2+,27.0567,0.4955,0,inflation,Bei der deutschen Inflation 1914 bis 1923 hat das Geld radikal an Wert verloren.,"With the German inflation from 1914 to 1923, the money radically lost value."
+2853,Schulden,die (pl),B1,26.6131,0.8734,0,debt,Die Schulden des Unternehmens betragen mehr als eine Millionen Euro.,The company’s debt amounts to more than one million euros.
+2871,"das Wirtschaftsforum, -s",das,B2+,26.416,0.4778,0,economic forum,Das jährliche Wirtschaftsforum bietet Gelegenheit für einen Austausch zwischen Unternehmen.,The annual economic forum offers an opportunity for an exchange between companies.
+2874,"die Einnahme, -n",die,B1,26.3667,0.8508,0,"income, receipts, revenue","Das Unternehmen hat genug Einnahmen, um eine neue Maschine zu kaufen.",The company has enough income to buy a new machine.
+2897,"die Volkswirtschaft, -en",die,B2+,26.071,0.5223,0,national economy,Die Volkswirtschaft beschäftigt sich mit der Wirtschaft eines ganzen Landes.,The national economy deals with the economy of a whole country.
+2919,"der Gehalt, -e",das,A2,25.726,0.8804,0,salary,"Mit dem Gehalt, das ich für meine Arbeit bekomme, möchte ich ein Haus kaufen.","With the salary I get for my work, I want to buy a house."
+2998,"die Rente, -n",die,B1,24.8389,0.8077,0,"pension, retirement",Ute is 67 und freut sich auf die Rente.,Ute is 67 and is looking forward to retirement.
+3063,"der Besitz, -e",der,B2+,23.9518,0.9009,0,"property, possession",Das Haus ist im Besitz der Familie.,The house is in the possession of the family.
+3132,"der Export, -e",der,B1,23.2126,0.7853,0,export,Die Hälfte unserer Ware ist für den Export bestimmt.,Half of our goods are destined for export.
+3184,"die Börse, -n",die,B2+,22.6212,0.7687,0,stock market,Die politische Entscheidung hat positive Auswirkungen auf die Börse.,The political decision has positive effects on the stock market.
+3238,"der Posten, -",der,B2+,22.1283,0.8504,0,"post, position",Sie hat alle notwendigen Qualifikationen für den Posten.,She has all the necessary qualifications for the position.
+3249,"der Wechselkurs, -e",der,B2+,21.9805,0.2498,0,exchange rate,Der Wechselkurs für Euro und Dollar ist relativ stabil.,The exchange rate for the euro and the dollar is relatively stable.
+3298,"der Ertrag, -̈e",der,B2+,21.4876,0.7843,0,yield,Der Bauer freut sich über den hohen Ertrag vom Markt.,The farmer is pleased with the high yield from the market.
+3314,"die Zahlung, -en",die,B1,21.3398,0.7969,0,payment,Die Bank zieht die Zahlung an die Versicherung immer Ende des Monats ein.,The bank collects the insurance payment always at the end of the month.
+3328,"der Zinssatz, -̈e",der,B2+,21.2412,0.5278,0,interest rate,Die Zentralbank hebt den Zinssatz.,The central bank raises the interest rate.
+3334,"die Abschreibung, -en",die,B2+,21.1426,0.6381,0,"deduction, depreciation",Der Berater für Steuern erklärt die lineare Abschreibung.,The tax consultant explains straight-line depreciation.
+3362,"das Konto, -en",das,A1,20.9455,0.8519,0,account,Ich muss Geld von meinem Konto abheben.,I need to withdraw money from my account.
+3376,"die Zielgruppe, -n",die,B2+,20.8962,0.5108,0,target group,"Bevor wir Ideen für das neue Produkt sammeln, legen wir die Zielgruppe fest.","Before we collect ideas for the new product, we determine the target group."
+3399,"die Vermittlung, -en",die,B1,20.7484,0.8076,0,"negotiation, placement, mediation",Die Agentur für Arbeit ist für die Vermittlung von Arbeitsplätzen zuständig.,The employment agency is responsible for work placement.
+3400,der Wohlstand,der,B2+,20.7484,0.851,0,"prosperity, wealth",Schreckliche Armut und großer Wohlstand bestehen nebeneinander in der Stadt.,Terrible poverty and great wealth exist in the city side by side.
+3441,"das Praktikum, die Praktika",das,A1,20.3048,0.8019,0,internship,"Mein Praktikum hilft mir, praktische Fähigkeiten zu gewinnen.",My internship helps me to gain practical skills.
+3450,"die Messe, -n",die,A2,20.2555,0.8661,0,"(trade) fair, mass",Jedes Jahr gibt es in Leipzig eine große Messe für Bücher.,Every year there is a large book fair in Leipzig.
+3488,"die Miete, -n",die,A1,20.0091,0.8771,0,rent,Jeden Monat müssen sie die Miete für ihre Wohnung bezahlen.,Every month they have to pay the rent for their apartment.
+3514,"die Währung, -en",die,B2+,19.812,0.7564,0,currency,Der Euro ist die Währung in vielen europäischen Ländern.,The euro is the currency in many European countries.
+3552,"die Übernahme, -n",die,B2+,19.467,0.8575,0,takeover,Die Chefs organisieren die Übernahme des Konzerns durch eine große Firma.,The heads organize the takeover of the group by a large company.
+3649,"das Budget, -s",das,B2+,18.777,0.6456,0,budget,Die Firma verfügt über ein jährliches Budget von 20 Millionen Euro.,The company has an annual budget of 20 million euros.
+3656,"die Abgabe, -n",die,B2+,18.7278,0.7958,0,"delivery, handing in",Die Abgabe des Textes ist noch bis nächste Woche möglich.,The handing in of the text is still possible until next week.
+3689,"die Unternehmung, -en",die,B2+,18.5306,0.6526,0,"company, venture, enterprise",Wir investieren viel Geld in ganz unterschiedliche Unternehmungen.,We are investing a lot of money in very different enterprises.
+3696,"der Reichtum, -̈er",der,B2+,18.4813,0.8464,0,wealth,"Reichtum und Gesundheit, das wünsche ich dir für die Zukunft!","Wealth and health, that’s what I wish you for the future!"
+3791,"das Eigentum, -e",das,B2+,17.8899,0.8048,0,property,"Wenn etwas mir gehört, dann ist es mein Eigentum.","If something belongs to me, it’s my property."
+3804,"das Defizit, -e",das,B2+,17.7914,0.832,0,deficit,Der neue Finanzdirektor kann das Defizit deutlich reduzieren.,The new financial director can significantly reduce the deficit.
+3816,"die Airline, -s",die,B2+,17.6928,0.7101,0,airline,Die Airline bietet Flüge von Amsterdam direkt nach Toronto an.,The airline offers direct flights from Amsterdam to Toronto.
+3887,"der Marktanteil, -e",der,B2+,17.2985,0.7499,0,market share,Durch die Fusion der Unternehmen verdoppeln sie ihren Marktanteil.,The merger of the companies doubles their market share.
+3922,"die Versicherung, -en",die,B1,17.0028,0.8094,0,"insurance, assurance",Die Versicherung trägt die Kosten für den Unfall.,The insurance covers the costs of the accident.
+3957,"die Globalisierung, -en",die,B2+,16.855,0.801,0,globalization,"Je mehr Staaten zusammenarbeiten, desto größer wird die Globalisierung.","The more states work together, the greater the globalization."
+4003,"die Geldpolitik, -en",die,B2+,16.6086,0.5781,0,financial policy,Die Geldpolitik der Bank muss geprüft werden.,The financial policy of the bank must be examined.
+4028,das Business,das,B2+,16.4607,0.6086,0,business,"Hanna und Lina beenden ihr Studium, um ein eigenes Business zu gründen.",Hanna and Lina end their studies in order to found their own business.
+4037,"die Agentur, -en",die,B2+,16.4114,0.8419,0,agency,"Er geht zu der Agentur für Arbeit, um einen Arbeitsplatz zu finden.",He goes to the employment agency to find a job.
+4045,"der Sektor, -en",der,B2+,16.4114,0.7596,0,sector,Dieser Sektor der Einrichtung ist nicht zugänglich für Besucher.,This sector of the facilities is not accessible for visitors.
+4120,"die Bestellung, -en",die,B2+,15.9679,0.7672,0,"order, reservation",Der Kellner schreibt sich unsere Bestellung auf.,The waiter takes down our order.
+4300,"die Lieferung, -en",die,B1,14.9822,0.7888,0,delivery,Du erhältst dein Geschenk morgen per Lieferung.,You’ll get your gift tomorrow by delivery.
+4331,"die Marktwirtschaft, -en",die,B2+,14.7851,0.8093,0,market economy,"Die Marktwirtschaft ist ein System, in dem die Produktion durch Angebot und Nachfrage geregelt wird.",The market economy is a system in which production is regulated by supply and demand.
+4389,"das Handwerk, -e",das,B2+,14.5387,0.8869,0,"craft, trade","Ich lerne ein Handwerk, damit ich leichter einen Job finden kann.",I’m learning a craft so I can find a job more easily.
+4411,"der Erwerb, -e",der,B2+,14.4401,0.7281,0,"acquisition, purchase",Der Erwerb einer neuen Sprache ist nicht einfach.,The acquisition of a new language is not easy.
+4418,"die Anleihe, -n",die,B2+,14.3908,0.7566,0,"loan, bond, borrowing",Manche Anleihen kann man kündigen.,Some bonds can be terminated.
+4486,Finanzen,die,B2+,14.0951,0.8271,0,"finance, finances",Meine Mutter kümmert sich um die Finanzen der Familie.,My mother takes care of the family finances.
+4504,"der Fond, -s",der,B2+,14.0458,0.7939,0,fund,Die Anleger wählten einen guten Fond aus.,The investors selected a good fund.
+4552,"die Inflationsrate, -n",die,B2+,13.7994,0.3706,0,inflation rate,Die Inflationsrate ist im Vergleich zum letzten Jahr sehr gestiegen.,The inflation rate has risen sharply compared to last year.
+4599,"die Aufwendung, -en",die,B2+,13.553,0.6678,0,"expense, expenditure, use",Unter Aufwendung all seiner Kräfte hebt er das Gewicht an.,"With the use of all his strength, he lifts the weight."
+4629,"der Vertrieb, -e",der,B2+,13.4544,0.6392,0,"market, sale, sales","Der Vertrieb hat die Aufgabe, dass die Kunden ihre Produkte erhalten.",The task of the sales department is to ensure that customers receive their products.
+4639,"die Arbeitslosenquote, -n",die,B2+,13.3558,0.3383,0,unemployment rate,"In der DDR gab es die geringste Arbeitslosenquote, die Deutschland je hatte.","In the GDR, the unemployment rate was the lowest ever in Germany."
+4667,die Energiewirtschaft,die,B2+,13.2573,0.0786,0,energy industry,"Die Energiewirtschaft muss sich ändern, damit wir die Umwelt schützen können.",The energy industry must change so that we can protect the environment.
+4682,"die Fusion, -en",die,B2+,13.1587,0.8116,0,"fusion, merger",Die Fusion der beiden Firmen war sehr aufwendig.,The merger of the two companies was very costly.
+4711,"die Rendite, -n",die,B2+,13.0601,0.7349,0,return,Durch meine Investition konnte ich eine Rendite von jährlich 8% machen.,Through my investment I was able to achieve an annual return of 8%.
+4737,"die Konjunktur, -en",die,B2+,12.9616,0.7767,0,"economy, economic situation",Die Reformen sollen die Konjunktur positiv beeinflussen.,The reforms should have a positive impact on the economy.
+4747,"das Geschäftsjahr, -e",das,B2+,12.9123,0.7211,0,financial year,Am Ende des Geschäftsjahres stellen die Firmen eine Bilanz auf.,"At the end of the financial year, the companies draw up their balance sheets."
+4795,"der Import, -e",der,B1,12.7644,0.6829,0,import,Die Regierung entscheidet über den Import von Lebensmitteln in das Land.,The government decides on the import of food into the country.
+4801,die Wachstumsrate,die,B2+,12.7644,0.5515,0,growth rate,Die wirtschaftliche Wachstumsrate im Land ist in diesem Jahr gestiegen.,The economic growth rate in the country has risen this year.
+4823,"die Finanzkrise, -n",die,B2+,12.6166,0.7621,0,financial crisis,Das Land und die Banken erholen sich von der Finanzkrise im letzten Jahr.,The country and the banks are recovering from last year’s financial crisis.
+4847,"die Geldmenge, -n",die,B2+,12.4687,0.4644,0,money supply,Der gesamte Bestand des Geldes in einem Land wird Geldmenge genannt.,The total stock of money in a country is called the money supply.
+4863,"der Einkauf, -̈e",der,B1,12.3702,0.8797,0,"purchase, shopping",Ich bringe den Einkauf vom Supermarkt nach Hause.,I’m taking the shopping home from the supermarket.
+4909,"die Fluggesellschaft, -en",die,B2+,12.2223,0.7667,0,airline,Wir buchen den Flug bei einer anderen Fluggesellschaft.,We book the flight with another airline.
+4912,"die Kündigung, -en",die,B1,12.2223,0.7651,0,"termination, cancellation, notice",Mein Chef gab mir die Kündigung und ich bin jetzt arbeitslos.,"My boss handed me my termination, and I’m unemployed now."
+4939,"die Arbeitszeit, -en",die,B2+,12.0745,0.8427,0,working hours,Lehrer fordern eine geringere Arbeitszeit und mehr Lohn.,Teachers demand shorter working hours and higher wages.
+4977,das Grundeinkommen,das,B2+,11.9266,0.4681,0,basic income,Die Politiker entscheiden über ein Grundeinkommen für jeden Bürger.,Politicians decide on a basic income for every citizen.
+4992,"der Mindestlohn, -̈e",der,B2+,11.8773,0.7748,0,minimum wage,Durch die Einführung des Mindestlohns verdiene ich mehr Geld.,I make more money because of the introduction of the minimum wage.

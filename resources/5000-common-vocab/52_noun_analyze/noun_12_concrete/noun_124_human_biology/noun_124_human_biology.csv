@@ -71,6 +71,7 @@ rank,word,pos,level,freq_per_million,dispersion,has_conjugation,definition,examp
 3537,"der Embryo, -ne",der,B2+,19.6149,0.6905,0,embryo,In der sechsten Woche beginnt das Herz eines menschlichen Embryos zu schlagen.,In the sixth week the heart of a human embryo begins to beat.
 3538,"die Muskulatur, -en",die,B2+,19.6149,0.6122,0,musculature,"Nach dem Unfall muss sie viel Sport machen, um ihre Muskulatur zu stärken.",After the accident she has to do a lot of sports to strengthen her musculature.
 3601,"die Schlange, -n",die,B2+,19.122,0.8898,0,"snake, line",An der Kasse ist eine lange Schlange.,There’s a long line at the cash register.
+3692,"der Bruch, -̈e",der,B2+,18.4813,0.9018,0,"fracture, break",Der Bruch in meinem Bein heilt sehr schnell.,The fracture in my leg heals very fast.
 3740,"die Wunde, -n",die,B1,18.2349,0.8765,0,wound,Aus der frischen Wunde fließt Blut.,Blood flows from the fresh wound.
 3821,"der Nacken, -",der,B2+,17.6928,0.8475,0,neck,Der Nacken ist der Übergang vom Rücken zum Kopf.,The neck is the transition from the back to the head.
 3880,"das Mitochondrium, -en",das,B2+,17.3478,0.4868,0,mitochondrion,Mitochondrien sind wichtige Bestandteile einer Zelle.,Mitochondria are important components of a cell.
@@ -89,6 +90,7 @@ rank,word,pos,level,freq_per_million,dispersion,has_conjugation,definition,examp
 4199,"der Oberschenkel, -",der,B2+,15.5243,0.6218,0,thigh,Als Oberschenkel bezeichnet man den oberen Teil des Beines bei einem Menschen.,The upper part of a person’s leg is called the thigh.
 4215,"der Darm, -̈e",der,B2+,15.4258,0.7319,0,intestine,"Der Darm ist ein Organ, über den wichtige Stoffe aus der Nahrung in den Körper gelangen.",The intestine is an organ through which important substances from food enter the body.
 4265,"das Hirn, -e",das,B2+,15.1301,0.8587,0,brain,"Bis heute weiß man nicht, was das menschliche Hirn alles leisten kann.","To this day, we do not know what the human brain can do."
+4282,"der Stich, -e",der,B2+,15.0808,0.8493,0,"bite, sting",Mancher Stich von Insekten tut sehr weh.,Some insect bites hurt a lot.
 4356,"das Gift, -e",das,B1,14.6865,0.8458,0,poison,"Die Tiere im Wald sterben an dem Gift, das aus der Fabrik in den Fluss gelangt.",The animals in the forest die of the poison that enters the river from the factory.
 4423,"das Kinn, -e",das,B2+,14.3908,0.8277,0,chin,Kilian ist vierzehn und hat schon ein paar Haare am Kinn.,Kilian is 14 and already has a few hairs on his chin.
 4430,"der Zeigefinger, -",der,B2+,14.3908,0.8417,0,index finger,Der Zeigefinger ist der zweite Finger an der Hand.,The index finger is the second finger on the hand.

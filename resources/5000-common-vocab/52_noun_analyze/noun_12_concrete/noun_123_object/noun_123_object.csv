@@ -13,6 +13,7 @@ rank,word,pos,level,freq_per_million,dispersion,has_conjugation,definition,examp
 670,"die Zeitung, -en",die,A1,131.6364,0.918,0,newspaper,Jeden Morgen lese ich Zeitung.,I read the newspaper every morning.
 675,"der Zug, -̈e",der,A1,130.4536,0.9233,0,train,Der Zug kommt um zwölf Uhr an.,The train arrives at twelve o’clock.
 692,"die Folie, -n",die,A2,128.2358,0.5716,0,"slide, foil",Für die Prüfung lerne ich alle Folien aus der Vorlesung.,For the exam I study all the slides from the lecture.
+753,"der Rahmen, -",der,A2,115.225,0.8988,0,"frame, framework",Meine Mutter kauft einen schönen Rahmen für das Foto.,My mother buys a nice frame for the photo.
 838,"der Brief, -e",der,A1,102.5098,0.8827,0,letter,Mein Freund schreibt mir einen langen Brief.,My friend is writing me a long letter.
 885,"das Glas, -̈er",das,A1,98.37,0.8326,0,glass,Timo greift nach einem Glas Wasser auf dem Tisch.,Timo reaches for a glass of water on the table.
 979,"die Tabelle, -n",die,B1,88.7104,0.8153,0,"table, chart",Die Tabelle gibt einen Überblick über die jährlichen Einnahmen und Ausgaben.,The table gives an overview of the annual income and expenses.
@@ -24,6 +25,7 @@ rank,word,pos,level,freq_per_million,dispersion,has_conjugation,definition,examp
 1252,"der Computer, -",der,A1,70.4755,0.8927,0,computer,Ich speichere das Bild auf meinem Computer.,I’m saving the image to my computer.
 1270,"das Blatt, -̈er",das,A2,69.5391,0.9064,0,"sheet, leaf",Die Pflanze hat lange grüne Blätter.,The plant has long green leaves.
 1308,"der Gegenstand, -̈e",der,B1,67.4199,0.8617,0,object,Kinder sollten nicht mit kleinen Gegenständen spielen.,Children should not play with small objects.
+1325,"das Netz, -e",das,B1,66.8778,0.8728,0,"net, network",Fischer lassen ihre Netze bis zum nächsten Morgen im Meer.,Fishermen leave their nets in the sea until the next morning.
 1390,"das Material, -ien",das,B1,63.9701,0.9159,0,material,Für den Unterricht hat sie viele Materialien vorbereitet.,She has prepared many materials for the lessons.
 1415,"die Bahn, -en",die,A1,62.8858,0.8609,0,"train, railway, way","Wir fahren mit dem Zug in den Urlaub, weil das Auto kaputt ist.",We’re going on vacation by train because the car broke down.
 1427,"das Objekt, -e",das,B1,62.0973,0.8638,0,object,"Schau, da ist ein seltsames Objekt am Himmel zu sehen!","Look, there’s a strange object in the sky!"
@@ -96,6 +98,7 @@ rank,word,pos,level,freq_per_million,dispersion,has_conjugation,definition,examp
 3247,"der Schrank, -̈e",der,A1,22.0298,0.8529,0,"cabinet, wardrobe",Sie hängt das Kleid zurück in den Schrank.,She hangs the dress back in the wardrobe.
 3285,"der Zettel, -",der,A2,21.6355,0.8508,0,"piece of paper, note","Ich brauche einen Zettel, um mir die Nummer aufzuschreiben.",I need a note to write down the number.
 3287,"die Jacke, -n",die,A1,21.5862,0.8592,0,jacket,Er hängt seine Jacke über den Stuhl.,He’s hanging his jacket over the chair.
+3291,"die Dichtung, -en",die,B2+,21.5369,0.5545,0,"seal, literature, poetry","Die Dichtung verhindert, dass Wasser eindringt.",The seal prevents water from entering.
 3355,"die Bombe, -n",die,B2+,20.9948,0.8473,0,bomb,In diesem Gebiet liegen unter der Erde noch Bomben aus der Zeit des Krieges.,There are still bombs from the time of the war underground in this area.
 3365,"der Rechner, -",der,B1,20.9455,0.7265,0,"computer, calculator",Wer hat Zugang zu diesem Rechner?,Who has access to this computer?
 3366,"der Schild, -e",das,A1,20.9455,0.8771,0,"sign, shield, tag",Auf der Autobahn zeigen die Schilder die legale Geschwindigkeit an.,"On the highway, the signs show the legal speed."

@@ -3,6 +3,7 @@ rank,word,pos,level,freq_per_million,dispersion,has_conjugation,definition,examp
 370,"das Ding, -e",das,A2,224.5852,0.9185,0,thing,Was ist das für ein Ding dort?,What’s that thing over there?
 422,"das Produkt, -e",das,A2,197.0357,0.8192,0,product,Unsere Firma verkauft viele Produkte ins Ausland.,Our company sells many products abroad.
 1308,"der Gegenstand, -̈e",der,B1,67.4199,0.8617,0,object,Kinder sollten nicht mit kleinen Gegenständen spielen.,Children should not play with small objects.
+1325,"das Netz, -e",das,B1,66.8778,0.8728,0,"net, network",Fischer lassen ihre Netze bis zum nächsten Morgen im Meer.,Fishermen leave their nets in the sea until the next morning.
 1390,"das Material, -ien",das,B1,63.9701,0.9159,0,material,Für den Unterricht hat sie viele Materialien vorbereitet.,She has prepared many materials for the lessons.
 1427,"das Objekt, -e",das,B1,62.0973,0.8638,0,object,"Schau, da ist ein seltsames Objekt am Himmel zu sehen!","Look, there’s a strange object in the sky!"
 1782,"der Ball, -̈e",der,A2,47.6572,0.8192,0,ball,Der Ball ist rund.,The ball is round.
@@ -18,6 +19,7 @@ rank,word,pos,level,freq_per_million,dispersion,has_conjugation,definition,examp
 2884,"die Sammlung, -en",die,B2+,26.2681,0.8471,0,collection,"Pauline hat so viele Bücher, sie zeigt mir morgen ihre Sammlung.","Pauline has so many books, she’s showing me her collection tomorrow."
 2926,"der Fleck, -e",der,B1,25.6767,0.885,0,stain,"Ich muss mein Hemd waschen, es hat einen Fleck.",I need to wash my shirt; it has a stain.
 3069,"das Zeug, -e",das,B1,23.9518,0.8757,0,stuff,Ich hole die Bücher und das andere Zeug morgen ab.,I’ll pick up the books and other stuff tomorrow.
+3291,"die Dichtung, -en",die,B2+,21.5369,0.5545,0,"seal, literature, poetry","Die Dichtung verhindert, dass Wasser eindringt.",The seal prevents water from entering.
 3366,"der Schild, -e",das,A1,20.9455,0.8771,0,"sign, shield, tag",Auf der Autobahn zeigen die Schilder die legale Geschwindigkeit an.,"On the highway, the signs show the legal speed."
 3446,"der Bogen, -",der,A1,20.2555,0.8927,0,"bow, arc, sheet",Der Ball fliegt im hohen Bogen und landet im See.,The ball flies in a high arc and lands in the lake.
 3645,"der Block, -̈e",der,B2+,18.8263,0.892,0,block,Jeden Abend rennt er eine Runde um den Block.,Every evening he runs a round around the block.

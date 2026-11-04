@@ -1,6 +1,7 @@
 rank,word,pos,level,freq_per_million,dispersion,has_conjugation,definition,example_de,example_en
 529,"der Tisch, -e",der,A1,160.6151,0.8815,0,table,Wir sitzen an einem Tisch aus Holz.,We are sitting at a wooden table.
 659,"das Bett, -en",das,A1,132.6221,0.865,0,bed,Ich schlafe in einem Bett aus Holz.,I sleep in a wooden bed.
+753,"der Rahmen, -",der,A2,115.225,0.8988,0,"frame, framework",Meine Mutter kauft einen schönen Rahmen für das Foto.,My mother buys a nice frame for the photo.
 885,"das Glas, -̈er",das,A1,98.37,0.8326,0,glass,Timo greift nach einem Glas Wasser auf dem Tisch.,Timo reaches for a glass of water on the table.
 1468,"der Spiegel, -",der,B1,60.0274,0.8902,0,mirror,Ich betrachte mein Gesicht im Spiegel.,I look at my face in the mirror.
 1602,"die Flasche, -n",die,A1,54.0641,0.8799,0,bottle,Wir teilen uns eine Flasche Wein zum Abendessen.,We share a bottle of wine with dinner.

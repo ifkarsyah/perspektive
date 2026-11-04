@@ -23,6 +23,7 @@ rank,word,pos,level,freq_per_million,dispersion,has_conjugation,definition,examp
 1158,"der Garten, -̈",der,A1,74.9603,0.876,0,garden,Sie sitzt auf einer Bank im Garten.,She’s sitting on a bench in the garden.
 1189,"die Spur, -en",die,B1,73.2354,0.9187,0,"track, lane",Der Hund folgt den Spuren.,The dog follows the tracks.
 1293,"das Gericht, -e",das,A2,68.3563,0.8856,0,"court, dish",Sie ist Richterin und arbeitet am Gericht.,She’s a judge and works at the court.
+1357,"der Stand, -̈e",der,B1,65.3993,0.8858,0,"stand, stage",Sie verkaufen Bier und Wein an ihrem Stand.,They sell beer and wine at their stand.
 1376,"die Ecke, -n",die,A1,64.4136,0.9199,0,corner,An der Ecke der Straße ist eine Schule.,At the corner of the street is a school.
 1386,"das Gebäude, -",das,B1,64.1179,0.9102,0,building,In diesem Gebäude befindet sich die Universität.,The university is located in this building.
 1432,"der Hof, -̈e",der,B1,61.8016,0.8533,0,"courtyard, yard",Hinter dem Haus ist ein Hof.,There’s a yard behind the house.

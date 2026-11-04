@@ -1,0 +1,70 @@
+rank,word,pos,level,freq_per_million,dispersion,has_conjugation,definition,example_de,example_en
+53,"das Jahr, -e",das,A1,2079.5691,0.9376,0,year,Ein Jahr hat 52 Wochen.,A year has 52 weeks.
+96,"die Zeit, -en",die,A1,967.2884,0.9528,0,time,Jannik braucht viel Zeit für seine Aufgabe.,Jannik needs a lot of time for his task.
+111,"der Tag, -e",der,A1,822.9862,0.942,0,day,Eine Woche hat sieben Tage.,A week has seven days.
+183,"das Ende, -n",das,A1,477.0156,0.9533,0,end,Das Ende des Romans ist wirklich spannend.,The end of the novel is really exciting.
+219,"die Woche, -n",die,A1,394.8599,0.9318,0,week,Eine Woche hat sieben Tage.,A week has seven days.
+276,"die Stunde, -n",die,A1,317.3368,0.9304,0,hour,Eine Stunde hat 60 Minuten.,An hour has 60 minutes.
+316,"der Monat, -e",der,A1,266.9198,0.9322,0,month,Das Jahr hat zwölf Monate.,The year has twelve months.
+324,"die Minute, -n",die,A1,257.5559,0.9071,0,minute,Eine Stunde hat 60 Minuten.,An hour has 60 minutes.
+325,"die Nacht, -̈e",die,A1,257.3588,0.8979,0,night,Die Nacht ist dunkel und grau.,The night is dark and gray.
+342,"der Abend, -e",der,A1,243.5101,0.9131,0,evening,Wir gehen morgen Abend ins Kino.,We’re going to the movies tomorrow evening.
+358,"der Moment, -e",der,A1,234.6883,0.9194,0,moment,Man muss den Moment genießen können.,You have to be able to enjoy the moment.
+427,"der Anfang, -̈e",der,A1,193.8815,0.9458,0,beginning,Der Anfang des Films war sehr traurig.,The beginning of the film was very sad.
+469,"die Zukunft, -̈e",die,B1,176.238,0.9108,0,future,In der Zukunft wird die Arbeit vieler Menschen von Maschinen gemacht.,"In the future, many people’s work will be done by machines."
+492,"das Jahrhundert, -e",das,A2,169.3876,0.888,0,century,Das ist der schlimmste Sturm des Jahrhunderts.,This is the worst storm of the century.
+621,"der Morgen, -",der,A1,140.4632,0.8961,0,morning,Bei uns gibt es jeden Morgen Frühstück.,We have breakfast every morning.
+732,"die Phase, -n",die,A2,119.3155,0.8241,0,phase,Während einer Entwicklung gibt es unterschiedliche Phasen.,During a development there are different phases.
+804,"der Sonntag, -e",der,A2,106.9946,0.8575,0,Sunday,Sonntag ist mein einziger freier Tag in der Woche.,Sunday is my only day off during the week.
+837,"die Sekunde, -n",die,A2,102.6084,0.9058,0,second,Eine Minute hat 60 Sekunden.,One minute has 60 seconds.
+845,"der Beginn, -e",der,B1,102.0663,0.9317,0,beginning,Zu Beginn haben wir uns nicht gemocht.,We didn’t like each other at the beginning.
+981,"der Freitag, -e",der,A2,88.5133,0.8408,0,Friday,Jeden Freitag besucht sie ihre Großeltern.,Every Friday she visits her grandparents.
+987,"der März, -e",der,A2,87.9712,0.8586,0,March,Anika hat im März Geburtstag.,Anika’s birthday is in March.
+1004,"der April, -e",der,B1,86.6898,0.8692,0,April,Das Museum ist von April bis Oktober geöffnet.,The museum is open from April to October.
+1030,"der Schluss, -̈e",der,A1,84.4227,0.9385,0,"end, conclusion",Am Schluss der Vorlesung können die Studenten Fragen stellen.,At the end of the lecture students can ask questions.
+1035,"der September, -",der,B1,84.127,0.8595,0,September,September ist der Monat zwischen August und Oktober.,September is the month between August and October.
+1044,"der Montag, -e",der,B1,83.1414,0.8367,0,Monday,Montag ist der erste Tag der Woche.,Monday is the first day of the week.
+1048,"der Mai, -e",der,B1,82.7471,0.8821,0,May,Seine Schwester hat im Mai Geburtstag.,His sister’s birthday is in May.
+1052,"der Januar, -e",der,B1,82.5992,0.8841,0,January,Januar ist der erste Monat des Jahres.,January is the first month of the year.
+1093,"der Februar, -e",der,B1,79.6422,0.8622,0,February,Sein Geburtstag ist im Februar.,His birthday is in February.
+1112,"der Samstag, -e",der,B1,78.4594,0.8393,0,Saturday,Am Samstag schaue ich einen Film.,I’m watching a movie on Saturday.
+1123,"das Jahrzehnt, -e",das,B1,77.5723,0.9116,0,decade,Ich mag die Musik aus diesem Jahrzehnt.,I like the music of this decade.
+1137,"der Zeitpunkt, -e",der,B1,76.1924,0.9244,0,"moment, (point in) time","Jetzt ist der perfekte Zeitpunkt, um mit ihm zu reden.",Now is the perfect moment to talk to him.
+1148,"der Juni, -s",der,B1,75.7488,0.8663,0,June,Juni ist der sechste Monat des Jahres.,June is the sixth month of the year.
+1187,"der Mittwoch, -e",der,B1,73.2847,0.837,0,Wednesday,Unser Treffen findet am Mittwoch statt.,Our meeting is on Wednesday.
+1196,"die Vergangenheit, -en",die,B1,72.9397,0.9284,0,past,Sie wollen ihre Vergangenheit vergessen.,They want to forget their past.
+1223,"der Oktober, -",der,B1,71.7076,0.8733,0,October,Diesen Oktober gibt es viele Stürme.,There are many storms this October.
+1235,"der Augenblick, -e",der,B1,71.264,0.8754,0,moment,Das ist der beste Augenblick meines Lebens.,This is the best moment of my life.
+1243,"das Wochenende, -n",das,B1,70.8698,0.8932,0,weekend,Tina ist Ärztin und muss auch am Wochenende arbeiten.,Tina is a doctor and also has to work on weekends.
+1244,"der Donnerstag, -e",der,B1,70.8205,0.8357,0,Thursday,Dieses Jahr hat meine Mutter an einem Donnerstag Geburtstag.,This year my mother’s birthday is on a Thursday.
+1245,"die Saison, -s",die,B1,70.8205,0.7019,0,season,Der Trainer motiviert seine Mannschaft für die neue Saison.,The coach motivates his team for the new season.
+1273,"der November, -",der,B1,69.342,0.8977,0,November,Der November hat 30 Tage.,November has 30 days.
+1356,"der Dienstag, -e",der,B1,65.4486,0.8295,0,Tuesday,Nächsten Dienstag habe ich einen Termin beim Arzt.,Next Tuesday I have an appointment with the doctor.
+1441,"die Pause, -n",die,A1,61.5552,0.8871,0,"pause, break",Nach einer kurzen Pause mache ich weiter.,After a short break I continue.
+1464,"der Nachmittag, -e",der,B1,60.2738,0.901,0,afternoon,Lass uns heute Nachmittag in den Park gehen.,Let’s go to the park this afternoon.
+1527,"der Dezember, -",der,B1,57.3168,0.8934,0,December,Dezember ist der zwölfte und letzte Monat im Jahr.,December is the twelfth and last month of the year.
+1544,"der Juli, -s",der,B1,56.6268,0.9021,0,July,Juli und August sind die heißesten Monate im Jahr.,July and August are the hottest months of the year.
+1631,die Weile,die,B1,52.8813,0.8446,0,while,"Es dauert noch eine Weile, bis der Bus kommt.",It will take a while until the bus arrives.
+1929,"der August, -e",der,B1,43.3202,0.9019,0,August,Die Prüfungen für das Sommersemester finden alle im August statt.,The examinations for the summer semester all take place in August.
+1932,die Gegenwart,die,B1,43.2217,0.9067,0,present,Die Menschen der Gegenwart können über das Internet viel einfacher miteinander in Kontakt treten.,People of the present can contact each other much more easily via the internet.
+1946,"der Start, -s",der,B1,42.9753,0.8568,0,"start, takeoff, launch",Die Teilnehmer des Rennens gehen alle an den Start.,The participants of the race all go to the start.
+2021,"die Dauer, -n",die,B1,40.8561,0.9114,0,"duration, length",Die Dauer des Experiments beträgt nur 20 Minuten.,The duration of the experiment is only 20 minutes.
+2213,"der Termin, -e",der,A1,36.7655,0.9132,0,"appointment, date",Können Sie den Termin verschieben?,Can you postpone the appointment?
+2263,"das Vorjahr, -e",das,B1,35.7799,0.7781,0,previous year,Dieses Jahr wurden die Gewinne aus dem Vorjahr verdoppelt.,"This year, the profits from the previous year were doubled."
+2308,"die Periode, -n",die,B1,34.7942,0.7253,0,period,Nach einer langen Periode der Kälte wird es endlich wieder warm.,After a long period of cold it finally gets warm again.
+2427,"der Zeitraum, -̈e",der,B1,32.6257,0.8977,0,period of time,Eine Woche hat einen Zeitraum von sieben Tagen.,A week is a period of seven days.
+2768,"der Mittag, -e",der,B2+,27.6481,0.8937,0,"noon, midday",Der Mittag kommt nach dem Morgen.,Noon comes after the morning.
+3171,das Mittelalter,das,B2+,22.769,0.752,0,Middle Ages,"Die Stadt wurde im neunten Jahrhundert, im Mittelalter, gegründet.","The city was founded in the ninth century, in the Middle Ages."
+3203,"das Datum, -en",das,A1,22.424,0.8423,0,date,Andreas und Tine legen ein Datum für ihre Hochzeit fest.,Andreas and Tine set a date for their wedding.
+3283,"das Quartal, -e",das,B2+,21.6355,0.7595,0,quarter,Im dritten Quartal sind die Verluste besonders gestiegen.,Losses increased in particular in the third quarter.
+3300,"der Vormittag, -e",der,B2+,21.4876,0.8896,0,morning,Wir treffen uns morgen Vormittag zum Frühstück.,We’re meeting for breakfast tomorrow morning.
+3596,"die Frist, -en",die,B1,19.122,0.6831,0,"time period, deadline",Die Frist für die Anmeldung zum Wettbewerb läuft nächste Woche ab.,The deadline for registration for the competition is next week.
+3874,"das Zeitalter, -",das,B2+,17.3971,0.8016,0,"age, period",Im Zeitalter von Medien kommunizieren die Menschen oft nur per Handy.,"In the age of media, people often communicate only by mobile phone."
+3987,"die Mitternacht, -̈e",die,B2+,16.7071,0.8803,0,midnight,"Meine Oma sagt, um Mitternacht wachen die Geister auf.",My granny says the spirits wake up at midnight.
+4063,die Moderne,die,B2+,16.3129,0.8027,0,"modern age, modernism",Das Bauhaus ist ein Beispiel der klassischen Moderne in Kunst und Architektur.,The Bauhaus is an example of classical modernism in art and architecture.
+4296,"die Epoche, -n",die,B2+,14.9822,0.8331,0,epoch,In der Geschichte wird die Zeit in Epochen eingeteilt.,"In history, time is divided into epochs."
+4358,"das Lebensjahr, -e",das,B2+,14.6865,0.8825,0,year (of one’s life),Ich habe heute Geburtstag und feiere den Beginn eines neuen Lebensjahres.,Today is my birthday and I’m celebrating the beginning of a new year.
+4818,"die Jahreszeit, -en",die,B2+,12.6659,0.8827,0,season,Der Winter ist die kälteste Jahreszeit.,Winter is the coldest season.
+4869,"die Laufzeit, -en",die,B2+,12.3702,0.8131,0,term,Die Laufzeit des Vertrags beträgt 24 Monate.,The term of the contract is 24 months.
+4879,"die Ewigkeit, -en",die,B2+,12.3209,0.8755,0,eternity,"Eigentlich warten wir nur fünf Minuten, aber es fühlt sich an wie eine Ewigkeit.","Actually, we’re only waiting five minutes, but it feels like an eternity."
+4978,Nachhinein,das,B2+,11.9266,0.9014,0,retrospect,"Im Nachhinein stelle ich fest, dass ich eine falsche Entscheidung getroffen habe.","In retrospect, I realize that I made the wrong decision."

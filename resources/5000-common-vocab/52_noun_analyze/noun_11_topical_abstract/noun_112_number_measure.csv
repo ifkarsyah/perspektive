@@ -1,0 +1,65 @@
+rank,word,pos,level,freq_per_million,dispersion,has_conjugation,definition,example_de,example_en
+172,"das Prozent, -e",das,A1,509.3949,0.8399,0,percent,Für Studenten kostet das Gericht 20 Prozent weniger.,"For students, the meal costs 20 percent less."
+209,"Million, Mio.",die,A1,410.3842,0.8836,0,million,Die Stadt Tokio hat ca. 35 Millionen Einwohner.,The city of Tokyo has about 35 million inhabitants.
+297,"die Zahl, -en",die,A2,285.3518,0.9084,0,number,In der Mathematik braucht man Zahlen.,In mathematics you need numbers.
+453,"Milliarde, Mrd.",die,A2,181.5606,0.8253,0,billion,Er hat Milliarden mit seinem Produkt verdient.,He has made billions with his product.
+479,"Meter, m",der,A2,173.7245,0.8764,0,meter,Der Meter Stoff ist hier sehr billig.,A meter of fabric here is very cheap.
+520,"die Menge, -n",die,A2,163.9171,0.8668,0,"quantity, amount",Diese Milch hat eine gewisse Menge Zucker.,This milk has a certain amount of sugar.
+582,"der Kilometer, -",der,A2,148.0971,0.8774,0,kilometer,Ein Kilometer sind 1000 Meter.,"One kilometer is 1,000 meters."
+660,"die Höhe, -n",die,B1,132.6221,0.9109,0,"height, altitude",Die Stadt liegt in 1000 Meter Höhe.,"The town is located at an altitude of 1,000 meters."
+727,"die Größe, -n",die,A1,120.5969,0.8481,0,"size, height",Steffen hat in Schuhen die Größe 43.,Steffen wears size 43 shoes.
+767,"der Anteil, -e",der,A2,111.7751,0.893,0,"share, portion",Der Chef gibt die Anteile seiner Firma an seinen Sohn.,The boss gives the shares of his company to his son.
+806,"die Nummer, -n",die,A1,106.7975,0.9252,0,number,"Ich kann ihn nicht anrufen, weil ich seine Nummer nicht habe.",I can’t call him because I don’t have his number.
+853,"die Anzahl, -en",die,B1,101.6227,0.8404,0,number,Eine große Anzahl von Menschen geht wählen.,A large number of people vote.
+873,"die Temperatur, -en",die,B1,99.3557,0.7297,0,temperature,Die Temperaturen werden weiter steigen.,Temperatures will continue to rise.
+929,"die Hälfte, -n",die,A2,93.8852,0.9472,0,half,Die Hälfte von zehn ist fünf.,Half of ten is five.
+1022,"der Abstand, -̈e",der,B1,84.9649,0.8521,0,distance,Der Abstand zwischen den Punkten beträgt zehn Meter.,The distance between the dots is ten meters.
+1062,"die Masse, -n",die,B1,81.7614,0.7483,0,"mass, crowd","Massen an Fans kommen, um die Band zu sehen.",Crowds of fans come to see the band.
+1071,"der Rest, -e",der,A2,81.2193,0.9384,0,"rest, remainder, balance",Du kannst den Rest vom Essen haben.,You can have the rest of the food.
+1114,"die Summe, -n",die,B1,78.2623,0.8597,0,sum,Die Summe von zwei und vier ist sechs.,The sum of two and four is six.
+1117,"der Grad, -e","der, das",A1,78.1637,0.9112,0,degree,Tina dreht sich um 90 Grad nach rechts.,Tina turns 90 degrees to the right.
+1199,"das Maß, -e",das,B1,72.7425,0.916,0,measure,Hast du die Maße der neuen Wohnung?,Do you have the measurements of the new apartment?
+1233,"die Geschwindigkeit, -en",die,B1,71.3133,0.7639,0,speed,Sie fährt mit hoher Geschwindigkeit.,She’s driving at high speed.
+1280,"Kilogramm, kg",das,B1,68.9477,0.8185,0,kilogram,Ein Kilogramm entspricht 1.000 Gramm.,"One kilogram equals 1,000 grams."
+1306,"Milliliter, ml",der,B1,67.6663,0.6256,0,milliliter,In der Flasche sind 500 Milliliter Wasser.,There are 500 milliliters of water in the bottle.
+1338,"Zentimeter, cm",der,B1,66.3357,0.8132,0,"centimeter, cm",Ein Meter hat 100 Zentimeter.,One meter is 100 centimeters.
+1456,"die Strecke, -n",die,B1,60.9638,0.8886,0,"distance, route",Die Strecke am Fluss entlang ist schöner.,The route along the river is nicer.
+1608,"die Fläche, -n",die,B1,53.7191,0.8783,0,"area, surface",Der Preis steigt mit der Fläche der Wohnung.,The price increases with the area of the apartment.
+1794,"das Volumen, -",das,B1,47.3122,0.7181,0,"volume, total amount","Was glaubst du, welche dieser Flaschen hat das größere Volumen?",Which of these bottles do you think has the larger volume?
+1797,"das Drittel, -",das,B1,47.2629,0.9018,0,third,Ein Drittel ist einer von drei gleichen Teilen eines Ganzen.,A third is one of three equal parts of a whole.
+1878,"die Länge, -n",die,B1,44.6509,0.8418,0,length,Wir mussten den Film wegen seiner Länge mehrmals unterbrechen.,We had to pause the film several times because of its length.
+1940,"das Gewicht, -e",das,A1,43.1231,0.9167,0,weight,Das zu hohe Gewicht vieler Kinder sorgt die Ärzte.,The doctors are concerned about the excessive weight of many children.
+2110,"das Dutzend, -e",das,B1,38.7862,0.892,0,dozen,Sechs ist ein halbes Dutzend.,Six is half a dozen.
+2125,"der Umfang, -̈e",der,B1,38.4905,0.8589,0,"circumference, size, extent, length",Monikas Text hat einen Umfang von 100 Seiten.,Monika’s text has a length of 100 pages.
+2136,"der Betrag, -̈e",der,B1,38.2933,0.8301,0,amount,Alexander bezahlt den Betrag von zehn Euro an der Kasse.,Alexander pays the amount of ten euros at the cash desk.
+2238,"die Häufigkeit, -en",die,B1,36.2727,0.4999,0,frequency,Die Häufigkeit von Wörtern spielt eine wichtige Rolle beim Lernen von Fremdsprachen.,The frequency of words plays an important role in language learning.
+2277,"die Tiefe, -n",die,B1,35.4842,0.8729,0,depth,Es könnten noch unbekannte Tiere in den Tiefen des Ozeans leben.,There may be still unknown animals living in the depths of the ocean.
+2282,"Millimeter, mm",der,B1,35.3856,0.7534,0,millimeter,Ein Zentimeter hat zehn Millimeter.,One centimeter equals ten millimeters.
+2340,"die Entfernung, -en",die,B1,34.1042,0.9114,0,distance,Wir benutzen das Auto nur für große Entfernungen.,We use the car only for long distances.
+2402,"die Tonne, -n",die,B1,33.02,0.8742,0,"ton, barrel, bin",Das Auto wiegt etwa eine Tonne.,The car weighs about a ton.
+2421,"der Mittelwert, -e",der,B1,32.7243,0.6499,0,"average, mean",Wir müssen den Mittelwert der Messergebnisse berechnen.,We need to calculate the average of the measurement results.
+2429,"das Plus, -",das,B1,32.5764,0.7805,0,plus,Das Plus an dem neuen Job ist das schöne neue Büro.,The plus of this new job is the beautiful new office.
+2624,die Erste,"der, die",A1,29.718,0.9062,0,first,Angela Merkel ist die Erste in diesem Amt.,Angela Merkel is the first in this position.
+2645,"der Liter, -",der,B2+,29.373,0.862,0,liter,Die Flasche enthält einen Liter Milch.,The bottle contains one liter of milk.
+2666,"das Ausmaß, -e",das,B2+,29.0773,0.9182,0,"extent, size",Das Ausmaß des Schadens ist noch unklar.,The extent of the damage is still unclear.
+2671,"die Distanz, -en",die,B1,29.028,0.9116,0,distance,Über das Internet kann man über weite Distanzen hinweg kommunizieren.,You can communicate over long distances over the internet.
+2717,"die Dichte, -n",die,B2+,28.338,0.7549,0,density,"Gegenstände schwimmen, wenn ihre Dichte kleiner ist als die Dichte der Flüssigkeit.",Objects float when their density is lower than the density of the liquid.
+2722,"das Milligramm, -",das,B2+,28.2888,0.6973,0,milligram,"Bereits wenige Milligramm der Substanz genügen, um einen Menschen zu töten.",Just a few milligrams of the substance are sufficient to kill a human being.
+2864,die Vielzahl,die,B2+,26.4653,0.8754,0,multitude,Es gibt eine Vielzahl an interessanten Büchern zu diesem einen Thema.,There is a multitude of interesting books on this one topic.
+3043,"das Minus, -se",das,B2+,24.2968,0.8497,0,"minus, deficit",Das Unternehmen hat im letzten Jahr ein Minus von zwei Millionen gemacht.,"Last year, the company had a deficit of two million."
+3096,"das Tempo, -i",das,B1,23.7547,0.9042,0,"pace, speed","Bei Regen müssen Autofahrer, ihr Tempo reduzieren.","In the rain, drivers have to reduce their speed."
+3117,"der Quadratmeter, -",der,B2+,23.4097,0.8698,0,square meter,Die Wohnung ist 65 Quadratmeter groß.,The apartment is 65 square meters.
+3145,"der Durchschnitt, -e",der,B1,23.0647,0.8705,0,average,Meine Noten entsprechen dem Durchschnitt.,My grades are average.
+3149,"der Großteil, -e",der,B2+,23.0154,0.9015,0,"large part, majority",Ein Großteil der Menschen isst Fleisch.,The majority of people eat meat.
+3158,"die Ferne, -n",die,B2+,22.9169,0.8758,0,distance,Aus der Ferne sehen die Schiffe aus wie kleine Punkte.,"From a distance, the ships look like small dots."
+3273,Hunderte,(pl),B2+,21.6848,0.8903,0,hundreds,Es versammeln sich Hunderte von Menschen für die Demonstration.,Hundreds of people are gathering for the demonstration.
+3510,"der Maßstab, -̈e",der,B2+,19.812,0.9017,0,"scale, yardstick, standard",Die Karte zeigt das Land im Maßstab 1: 10000.,"The map shows the country on a scale of 1: 10,000."
+3524,"das Maximum, die Maxima",das,B2+,19.7134,0.7367,0,maximum,"Stefanie rennt extrem schnell, aber sie hat ihr Maximum noch nicht erreicht.","Stefanie runs extremely fast, but she hasn’t reached her maximum yet."
+3672,"der Radius, -en",der,B2+,18.6292,0.7123,0,radius,Der Durchmesser eines Kreises ist doppelt so groß wie der Radius.,The diameter of a circle is twice as large as the radius.
+3909,"der Durchmesser, -",der,B2+,17.0521,0.7987,0,diameter,Die Dose hat einen Durchmesser von zehn Zentimetern.,The can has a diameter of ten centimeters.
+3978,"die Quote, -n",die,B2+,16.7564,0.8531,0,"rate, quota, ratio",Die Quote war ungewöhnlich hoch.,The rate was abnormally high.
+4104,"das Gramm, -e",das,B2+,16.0664,0.8688,0,gram,In den Kuchen kommen 300 Gramm Zucker.,The cake requires 300 grams of sugar.
+4294,"die Breite, -n",die,B1,14.9822,0.8748,0,width,Die Breite des Tisches beträgt zwei Meter und die Tiefe sechzig Zentimeter.,The width of the table is two meters and the depth is sixty centimeters.
+4391,"das Intervall, -e",das,B2+,14.5387,0.6919,0,interval,"Du musst die Intervalle deiner Schmerzen messen, um zu wissen, ob das Baby kommt.",You have to measure the intervals of your labor pains to know if the baby is coming.
+4394,"die Skala, -en",die,B2+,14.5387,0.7804,0,"scale, dial, range","Auf einer Skala von eins bis zehn, wie stark sind deine Schmerzen?","On a scale of one to ten, how much pain are you in?"
+4880,"die Größenordnung, -en",die,B2+,12.3209,0.8393,0,"scale, size, magnitude",Der Krieg nimmt schlimme Größenordnungen an.,The war is taking on a terrible magnitude.

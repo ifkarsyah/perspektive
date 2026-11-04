@@ -1,0 +1,362 @@
+rank,word,pos,level,freq_per_million,dispersion,has_conjugation,definition,example_de,example_en
+82,Mal,das,A1,1288.1737,0.8641,0,"time, mark",Maria hat ein dunkles Mal auf ihrer Haut.,Maria has a dark mark on her skin.
+94,"das Beispiel, -e",das,A1,1027.4144,0.9024,0,example,Das Beispiel passt nicht gut zu diesem Argument.,The example does not fit this argument well.
+187,"der Fall, -̈e",der,B1,463.0683,0.9528,0,"fall, case",Der Richter erklärt den Fall für geschlossen.,The judge will close the case.
+197,"die Seite, -n",die,A2,431.2804,0.9579,0,"side, page",Das Buch hat 300 Seiten.,The book has 300 pages.
+198,"das Teil, -e","der, das",A1,428.9641,0.9465,0,part,Die Ausstellung besteht aus drei Teilen.,The exhibition consists of three parts.
+210,"das Problem, -e",das,A1,406.8851,0.9402,0,problem,Sie müssen das Problem so schnell wie möglich lösen.,You have to solve the problem as fast as possible.
+248,"der Punkt, -e",der,B1,354.4474,0.8867,0,"dot, point, period",Am Ende eines Satzes ist ein Punkt.,At the end of a sentence is a period.
+249,"der Grund, -̈e",der,B1,354.2502,0.9643,0,"reason, basis",Es gibt mehrere Gründe für einen Streit.,There are several reasons for a dispute.
+256,"die Aufgabe, -n",die,A1,339.4652,0.8733,0,"task, assignment, job",Ich löse eine mathematische Aufgabe.,I’m solving a mathematical problem.
+260,"die Art, -en",die,A1,336.5574,0.9519,0,"type, kind",Es gibt verschiedene Arten von Tieren.,There are different kinds of animals.
+290,"der Wert, -e",der,B1,296.4899,0.9,0,value,Du musst den Wert des Geldes kennen.,You must know the value of money.
+306,"der Blick, -e",der,A1,276.6286,0.9162,0,"look, view, glance",Aus deinem Fenster hat man einen schönen Blick über die Stadt.,Your window has a nice view over the city.
+307,"die Form, -en",die,B1,275.1008,0.9132,0,"form, shape",Das Gebäude hat eine schöne Form.,The building has a beautiful shape.
+317,"die Lösung, -en",die,A1,266.3776,0.8151,0,solution,Für jedes Problem gibt es eine Lösung.,There is a solution to every problem.
+320,"das Ziel, -e",das,A2,261.1536,0.925,0,"destination, goal",Berlin ist das Ziel unserer Reise.,Berlin is the destination of our journey.
+339,"der Bereich, -e",der,B1,245.7278,0.91,0,"area, region",Diesen Bereich darf niemand betreten.,Nobody is allowed to enter this area.
+347,"die Entwicklung, -en",die,B1,240.5038,0.897,0,development,Der Film zeigt die Entwicklung eines Menschen von der Geburt bis zum Tod.,The film shows the development of a person from birth to death.
+376,"der Schritt, -e",der,B1,220.1004,0.9442,0,step,Wir müssen unseren Gegnern immer einen Schritt voraus sein.,We need to always be one step ahead of our competitors.
+379,"die Möglichkeit, -en",die,B1,219.5583,0.9342,0,"possibility, chance","Es besteht die Möglichkeit, dass ich krank bin.",There’s a chance I’m sick.
+380,"der Sinn, -e",der,B1,219.4597,0.9247,0,"sense, meaning",Dein Argument macht keinen Sinn.,Your argument doesn’t make sense.
+383,"der Vergleich, -e",der,A1,218.8683,0.7093,0,comparison,Die Schüler sprechen über den Vergleich von Männern und Frauen.,The students talk about the comparison of men and women.
+384,"das System, -e",das,B1,217.7348,0.8723,0,system,"Béatrice benutzt ein System, um ihren Koffer zu packen.",Béatrice uses a system to pack her suitcase.
+385,"die Rolle, -n",die,B1,217.0448,0.935,0,"role, roll",Die Schauspielerin spielt für das Stück die Rolle einer Mutter.,The actress plays the role of a mother for the play.
+386,"das Ergebnis, -se",das,A1,216.0591,0.9104,0,result,Die Suche bleibt ohne Ergebnis.,The search remains without result.
+400,"die Reaktion, -en",die,B1,205.3153,0.7576,0,reaction,"Tom beobachtet die Reaktion von Tina, als sie ihr Geschenk sieht.",Tom watches Tina’s reaction when she sees her present.
+406,"die Funktion, -en",die,A2,203.3933,0.8254,0,function,"Die Funktion vom Gesetz ist es, die Rechte der Menschen zu schützen.",The function of the law is to protect people’s rights.
+418,"die Richtung, -en",die,B1,198.7606,0.9417,0,direction,In welche Richtung müssen wir fahren?,In which direction do we have to drive?
+423,"die Situation, -en",die,A2,196.1979,0.9153,0,situation,Die politische Situation im Land hat sich stark verändert.,The political situation in the country has changed considerably.
+431,"die Folge, -n",die,B1,191.6638,0.9303,0,"result, consequences",Deine Entscheidung wird Folgen haben.,Your decision will have consequences.
+434,"die Verbindung, -en",die,B1,189.9388,0.8045,0,"connection, link","Entschuldige, die Verbindung ist schlecht.","Sorry, this connection is bad."
+449,"die Entscheidung, -en",die,B1,183.532,0.8921,0,decision,Manchmal muss man schwierige Entscheidungen treffen.,Sometimes you have to make difficult decisions.
+458,"die Kraft, -̈e",die,B1,180.575,0.8789,0,"strength, power","Um diese schwere Tasche zu tragen, brauchst du viel Kraft.",It takes a lot of strength for you to carry that heavy bag.
+468,"die Weise, -n",die,A2,176.6323,0.9355,0,"way, manner",Sie erledigt die Arbeit in einer ruhigen Weise.,She does the work in a quiet manner.
+481,"die Hilfe, -n",die,A1,173.1331,0.9362,0,help,Brauchen Sie Hilfe?,Do you need help?
+489,"die Struktur, -en",die,A2,170.324,0.8232,0,structure,Der Text folgt einer klaren Struktur.,The text follows a clear structure.
+525,"der Zusammenhang, -̈e",der,B1,163.5229,0.8859,0,"connection, context",Es gibt keinen Zusammenhang zwischen Geld und Glück.,There is no connection between money and happiness.
+541,"der Erfolg, -e",der,B1,157.9045,0.9154,0,success,Ich wünsche dir viel Erfolg bei deinen Prüfungen.,I wish you much success in your exams.
+551,"die Chance, -n",die,B1,155.6375,0.9062,0,chance,Ich bekomme die Chance auf einen neuen Job.,I get a chance at a new job.
+555,"die Lage, -n",die,B1,155.4403,0.9492,0,"situation, location",Wie ist die Lage nach den Wahlen im Land?,How is the situation in the country after the elections?
+558,"der Druck, -̈e",der,B1,154.5532,0.8298,0,"pressure, printing",Die Wirtschaft übt Druck auf Politiker aus.,The economy is putting pressure on politicians.
+632,"der Unterschied, -e",der,A2,137.0083,0.9089,0,difference,"Der Unterschied zwischen einer Vorlesung und einem Seminar ist, dass die Studenten im Seminar mehr diskutieren dürfen.",The difference between a lecture and a seminar is that the students are allowed to discuss more in the seminar.
+644,"die Grundlage, -n",die,A2,134.6427,0.836,0,basis,Diese These hat keine wissenschaftliche Grundlage.,This thesis has no scientific basis.
+646,"die Leistung, -en",die,B1,134.347,0.8626,0,performance,Die Lehrer sind mit seiner Leistung zufrieden.,The teachers are satisfied with his performance.
+649,"die Beziehung, -en",die,B1,134.1499,0.9253,0,"relation, relationship",Julias Firma profitiert von internationalen Beziehungen.,Julia’s company benefits from international relations.
+668,"das Verhältnis, -se",das,B1,131.735,0.9383,0,relationship,Sophia hat ein enges Verhältnis zu ihren Eltern.,Sophia has a close relationship to her parents.
+673,"die Bedingung, -en",die,B1,131.1928,0.7942,0,"condition, stipulation",Die Chefin möchte die Bedingungen bei der Arbeit verbessern.,The boss wants to improve working conditions.
+691,"das Mittel, -",das,A2,128.7287,0.9024,0,means,"Sie versuchen mit allen Mitteln, ihn zu finden.",They’re trying by any means necessary to find him.
+709,"die Bewegung, -en",die,B1,125.2295,0.9116,0,"movement, motion","Du brauchst Bewegung, wenn du Gewicht verlieren und gesund leben willst.",You need movement if you want to lose weight and have a healthy life.
+711,"die Mitte, -n",die,A1,124.6874,0.9499,0,middle,"Anita steht zwischen Sven und Torben, genau in der Mitte.","Anita stands between Sven and Torben, right in the middle."
+736,"der Zustand, -̈e",der,B1,118.3298,0.8616,0,"condition, state",Der Patient ist in einem schlechten Zustand.,The patient’s in bad condition.
+738,"die Reihe, -n",die,A2,117.7877,0.9397,0,"row, line",Lisa sitzt in der Vorlesung immer in der ersten Reihe.,Lisa always sits in the front row in the lecture.
+755,"die Einheit, -en",die,A2,115.1757,0.8241,0,"unity, unit, entity",Seit dem 3. Oktorber 1990 ist Deutschland wieder eine Einheit.,"Since October 3, 1990, Germany has become a single entity again."
+780,"der Einsatz, -̈e",der,A2,110.0009,0.9152,0,"insert, use, application, assignment",Die Polizei ist seit drei Stunden im Einsatz.,The police have been on assignment for three hours.
+791,"der Versuch, -e",der,B1,108.621,0.8802,0,"attempt, experiment",Louis besteht die Prüfung im letzten Versuch.,Louis passes the exam on his last attempt.
+794,"die Eigenschaft, -en",die,A2,108.2267,0.834,0,quality,Matthias hat viele gute Eigenschaften.,Matthias has many good qualities.
+819,"die Ebene, -n",die,A2,105.0725,0.8927,0,"plane, level",Auf politischer Ebene haben wir unterschiedliche Meinungen.,We have different opinions at the political level.
+841,"die Gefahr, -en",die,B1,102.2634,0.9452,0,"danger, risk",Durch das warme Wetter ist die Gefahr eines Feuers im Wald sehr groß.,"Due to the warm weather, the risk of fire in the forest is very high."
+849,"die Wirkung, -en",die,B1,101.7213,0.8999,0,effect,Welche Wirkung hat dieses Medikament?,What effect does this medication have?
+854,"die Veränderung, -en",die,A2,101.5241,0.896,0,change,Wir brauchen Veränderung in der Politik.,We need a change in politics.
+861,"der Fehler, -",der,A1,100.7356,0.9222,0,"mistake, error",Die Lehrerin markiert alle Fehler im Text.,The teacher marks all mistakes in the text.
+865,"das Prinzip, -ien",das,A2,100.3413,0.8898,0,principle,Wir essen aus Prinzip kein Fleisch.,We don’t eat meat on principle.
+868,"die Verfügung, -en",die,A2,99.8485,0.9116,0,disposal,Verfügungen können von Anwälten erstellt werden.,Disposals may be drawn up by lawyers.
+870,"das Programm, -e",das,A2,99.7499,0.9149,0,program,Der Leiter stellt den Teilnehmern das Programm vor.,The instructor introduces the program to the participants.
+872,"der Einfluss, -̈e",der,B1,99.6021,0.9093,0,influence,Der Chef der Firma hat einen großen Einfluss in der Branche.,The head of the company has great influence in his line of business.
+876,"das Verfahren, -",das,A2,99.1585,0.9045,0,"method, process, technique","Wir nutzen ein modernes Verfahren, um das Produkt herzustellen.",We use a modern process to manufacture the product.
+907,"der Typ, -en",der,B1,96.3986,0.908,0,type,Sie ist eher ein sportlicher Typ.,She’s more of a sporty type.
+911,"der Faktor, -en",der,B1,95.7087,0.8463,0,factor,Wir müssen alle Faktoren berücksichtigen.,We have to consider all factors.
+912,"die Bindung, -en",die,A2,95.5608,0.6731,0,"relationship, attachment",Mütter haben häufig eine besondere Bindung zu ihren Kindern.,Mothers often have a special relationship to their children.
+918,die Nähe,die,A2,95.1173,0.9446,0,"vicinity, proximity",Aufgrund ihrer Nähe zum Bahnhof ist die Wohnung teuer.,"Due to its proximity to the railway station, the apartment is expensive."
+926,"die Linie, -n",die,B1,94.3287,0.9442,0,line,Ich zeichne eine sehr gerade Linie auf das Blatt.,I draw a very straight line on the sheet.
+930,"der Kontakt, -e",der,A2,93.7373,0.9334,0,contact,"Seit John in einer anderen Stadt wohnt, habe ich keinen Kontakt mehr zu ihm.","Since John has been living in another city, I have no contact with him anymore."
+940,"die Sicht, -en",die,A2,92.7024,0.9251,0,"view, visibility","Bei Regen ist die Sicht schlecht, deswegen fahren viele Menschen dann nicht mit dem Auto.","When it rains, the visibility is bad, which is why many people do not drive their cars then."
+943,"der Anspruch, -̈e",der,B1,92.456,0.846,0,claim,Nach vielen Jahren Arbeit hat er einen Anspruch auf Rente.,"After many years of work, he has a claim to a pension."
+944,"die Position, -en",die,A2,92.456,0.9193,0,position,John hat eine neue Position in der Firma.,John has a new position in the company.
+954,"der Plan, -̈e",der,A1,91.2239,0.9216,0,plan,Ich habe einen Plan für mein Leben in den nächsten fünf Jahren.,I have a plan for my life for the next five years.
+977,"das Risiko, -s",das,B1,88.8583,0.8924,0,risk,"Es ist ein großes Risiko, Geld in Aktien zu investieren.",Investing money in stocks is a big risk.
+983,"der Vorteil, -e",der,B1,88.3654,0.9236,0,advantage,Praktische Erfahrungen sind bei der Suche nach Arbeit immer von Vorteil.,Practical experience is always an advantage when looking for work.
+1037,"der Ansatz, -̈e",der,B1,83.8313,0.8618,0,"approach, attempt",Dieser Ansatz ist in der Wissenschaft umstritten.,This approach is disputed in science.
+1067,"das Ereignis, -se",das,B1,81.4657,0.8191,0,event,Ein Geburtstag ist immer ein fröhliches Ereignis.,A birthday is always a happy event.
+1091,"der Aufbau, -ten",der,B1,79.6422,0.804,0,"construction, structure",Das Buch hat einen klaren Aufbau.,The book has a clear structure.
+1092,"der Beitrag, -̈e",der,B1,79.6422,0.8904,0,contribution,Das Team bedankt sich bei den Teilnehmern für ihren Beitrag.,The team thanks the participants for their contribution.
+1097,"die Kontrolle, -n",die,B1,79.1494,0.9215,0,"inspection, control","Sie führen Kontrollen durch, um die Sicherheit zu verbessern.",They carry out inspections to improve safety.
+1103,"die Verantwortung, -en",die,B1,78.903,0.8677,0,responsibility,Eltern haben die Verantwortung für ihre Kinder.,Parents have the responsibility for their children.
+1128,"das Merkmal, -e",das,B1,77.1781,0.7322,0,feature,Dieses Symbol ist ein gemeinsames Merkmal aller regionalen Produkte.,This symbol is a common feature of all regional products.
+1133,"die Voraussetzung, -en",die,B1,76.4881,0.8881,0,"condition, requirement","Tanja erfüllt alle Voraussetzungen, um den Job zu bekommen.",Tanja meets all the requirements to get the job.
+1141,"die Unterstützung, -en",die,B1,76.0938,0.8897,0,support,Ich möchte mich für eure Unterstützung bedanken.,I want to thank you for your support.
+1156,"die Wahrheit, -en",die,B1,75.2067,0.9142,0,truth,"Ich glaube, dass er nicht die Wahrheit sagt.",I don’t think he’s telling the truth.
+1161,"der Gegensatz, -̈e",der,B1,74.911,0.9199,0,"opposite, contrast",Der Gegensatz von warm ist kalt.,The opposite of warm is cold.
+1186,"das Konzept, -e",das,B1,73.2847,0.9028,0,"concept, idea, plan",Die Schule arbeitet nach einem demokratischen Konzept.,The school works according to a democratic idea.
+1191,"die Herausforderung, -en",die,B1,73.0875,0.8272,0,challenge,Du musst dich der Herausforderung stellen.,You have to face the challenge.
+1197,"das Gleichgewicht, -e",das,B1,72.8411,0.751,0,balance,Die Übung verbessert dein Gleichgewicht.,The exercise improves your balance.
+1202,"die Qualität, -en",die,A2,72.5947,0.9146,0,quality,Sie verkaufen nur Produkte mit hoher Qualität.,They only sell products of high quality.
+1203,"der Rand, -̈er",der,B1,72.5947,0.9262,0,edge,Sie sitzt auf dem Rand ihres Stuhles.,She’s sitting on the edge of her chair.
+1205,"der Kern, -e",der,B1,72.3975,0.8379,0,"seed, core, nucleus",Wir sollten den Kern des Problems analysieren.,We should analyze the core of the problem.
+1207,"der Hintergrund, -̈e",der,B1,72.3483,0.9282,0,background,Theresa wird vor einem schwarzen Hintergrund fotografiert.,Theresa is photographed against a black background.
+1216,"die Forderung, -en",die,B1,72.1511,0.8517,0,"demand, claim",Die Regierung ignoriert die Forderung nach freien Wahlen.,The government ignores the demand for free elections.
+1253,"der Effekt, -e",der,B1,70.4755,0.8097,0,effect,Diese Übungen haben einen positiven Effekt auf deine Gesundheit.,These exercises have a positive effect on your health.
+1255,"die Verteilung, -en",die,B1,70.4262,0.7012,0,distribution,Die Karte zeigt die Verteilung der Schulen in Deutschland.,The map shows the distribution of schools in Germany.
+1258,"die Anwendung, -en",die,B1,70.0812,0.8175,0,"application, use",Die Anwendung des Produkts ist sehr einfach.,The application of the product is very simple.
+1278,"der Umstand, -̈e",der,B1,69.1941,0.9231,0,circumstance,"Wenn es die Umstände erlauben, gründen Katarina und Marc bald eine Familie.","If circumstances allow, Katarina and Marc will soon start a family."
+1289,"der Kreis, -e",der,B1,68.6027,0.9359,0,"circle, district",Jeden Morgen sitzen die Schüler im Kreis.,Every morning the students sit in a circle.
+1296,"der Aspekt, -e",der,B1,68.2577,0.8356,0,aspect,Dieser Aspekt sollte berücksichtigt werden.,This aspect should be taken into consideration.
+1312,die Zusammenarbeit,die,B1,67.3213,0.8559,0,cooperation,Beide Länder profitieren von der engen Zusammenarbeit.,Both countries profit from the close cooperation.
+1326,"die Änderung, -en",die,B1,66.7792,0.8569,0,"change, modification, alteration",Nach der Änderung passt das Kleid perfekt.,After the alteration the dress fits perfectly.
+1331,"die Ursache, -n",die,B1,66.6807,0.9002,0,cause,Die Ursache für das Feuer ist noch unklar.,The cause of the fire is still unclear.
+1333,"die Basis, -en",die,B1,66.5821,0.9005,0,basis,Diese Artikel bilden die Basis für meine Theorie.,These articles form the basis of my theory.
+1355,"der Bezug, -̈e",der,B1,65.4486,0.8693,0,"reference, cover",Das Modell nimmt Bezug auf die Theorie.,The model refers to the theory.
+1370,das Wachstum,das,B1,64.9557,0.8334,0,growth,Bei Jugendlichen befindet sich der Körper noch im Wachstum.,"In adolescents, the body is still in a state of growth."
+1373,"der Verlust, -e",der,B1,64.66,0.9056,0,loss,Der Tod meiner Mutter war ein großer Verlust für mich.,The death of my mother was a great loss to me.
+1381,"die Wahrscheinlichkeit, -en",die,B1,64.315,0.6205,0,probability,"Rauchen erhöht die Wahrscheinlichkeit, krank zu werden.",Smoking increases the probability of becoming ill.
+1396,"die Wirklichkeit, -en",die,B1,63.6251,0.9015,0,reality,Es ist kein Traum sondern die Wirklichkeit.,It is not a dream but reality.
+1404,"die Ausnahme, -n",die,B1,63.3787,0.9299,0,exception,"Alle Kinder setzen sich mit Ausnahme von Tom, der stehenbleibt.","All the children sit down with the exception of Tom, who remains standing."
+1422,"die Aktivität, -en",die,B1,62.4916,0.8638,0,activity,Heute suche ich mir eine sportliche Aktivität für meinen Urlaub aus.,Today I’m looking for an athletic activity for my vacation.
+1451,"der Schaden, -̈",der,B1,61.2595,0.8828,0,damage,Der Unfall hat einen großen Schaden an meinem Auto verursacht.,The accident caused a lot of damage to my car.
+1465,"die Annahme, -n",die,B1,60.1259,0.8357,0,"acceptance, assumption",Die Ergebnisse bestätigen die Annahme.,The results confirm the assumption.
+1471,"das Gegenteil, -e",das,A2,59.9288,0.9335,0,opposite,Das Gegenteil von Frieden ist Krieg.,Peace is the opposite of war.
+1477,"die Strategie, -n",die,B1,59.5838,0.847,0,strategy,Wir müssen eine neue Strategie für das Problem entwickeln.,We have to develop a new strategy for the problem.
+1506,"der Zugang, -̈e",der,B1,58.1053,0.8473,0,access,Hast du in diesem Raum Zugang zum Internet?,Do you have access to the internet in this room?
+1508,"die Suche, -n",die,B1,58.0068,0.9293,0,search,Wir machen uns auf die Suche nach einem Schatz.,We are going in search of a treasure.
+1513,"die Tatsache, -n",die,B1,57.9082,0.9085,0,fact,"Es ist eine Tatsache, dass in manchen Ländern Krieg herrscht.",It is a fact that there is war in some countries.
+1541,"die Schwierigkeit, -en",die,B1,56.7747,0.9064,0,difficulty,Selbst viele Erwachsene haben Schwierigkeiten beim Lesen und Schreiben.,Even many adults have difficulties in reading and writing.
+1582,"die Konsequenz, -en",die,B1,54.8033,0.9197,0,consequence,"Dein Verhalten wird ernste Konsequenzen haben, mein Sohn!","Your behavior will have serious consequences, my son!"
+1604,"der Zweck, -e",der,B1,53.9655,0.8971,0,purpose,Sie sammeln Geld für einen besonderen Zweck.,They’re raising money for a special purpose.
+1606,"die Verwendung, -en",die,B1,53.9162,0.8453,0,use,"Wirf das nicht weg, denn vielleicht hat jemand anderes Verwendung dafür.","Don’t throw that away, because maybe someone else has a use for it."
+1615,"der Umgang, -̈e",der,B1,53.5712,0.9159,0,"dealings, contact",Ludwig ist sehr freundlich im Umgang mit Kunden.,Ludwig is very pleasant while dealing with customers.
+1635,"der Fortschritt, -e",der,B1,52.7334,0.8507,0,progress,John macht Fortschritte in der Schule und bekommt immer bessere Noten.,John’s making progress at school and getting better and better grades.
+1645,"die Spitze, -n",die,B1,52.2899,0.9231,0,"point, top, peak",Die Spitze des Messers ist sehr scharf.,The point of the knife is very sharp.
+1658,"die Gelegenheit, -en",die,B1,51.5999,0.9264,0,opportunity,"Die Gelegenheit ist günstig, jetzt eine Wohnung zu kaufen.",The opportunity is good to buy an apartment now.
+1681,"die Schicht, -en",die,B1,50.9099,0.8313,0,"layer, class",Auf dem Berg liegt manchmal auch im Sommer eine Schicht Schnee.,Sometimes there is a layer of snow on the mountain even in summer.
+1684,"die Realität, -en",die,B1,50.8114,0.9082,0,reality,"In der Realität sind Probleme oft kleiner, als man denkt.","In reality, problems are often smaller than you think."
+1688,"die Alternative, -n",die,B1,50.6635,0.8522,0,alternative,Mittlerweile gibt es viele gute Alternativen zu Fleisch.,Meanwhile there are many good alternatives to meat.
+1697,"der Verlauf, -̈e",der,B1,50.4171,0.8893,0,course,Der Verlauf der Krankheit ist tödlich.,The course of the disease is fatal.
+1698,"das Potenzial, -e",das,B1,50.3185,0.841,0,potential,Das Potenzial vieler Kinder wird in der Schule nicht erkannt.,The potential of many children is not recognized at school.
+1709,"der Alltag, -e",der,B1,49.875,0.9197,0,"workday, daily routine, everyday life",Im Alltag tragen viele Menschen andere Kleidung als im Urlaub.,Many people wear different clothes in everyday life than on vacation.
+1717,"die Gestalt, -en",die,B1,49.5793,0.8999,0,"shape, form, figure",Der Mann hat zur Zeit der Tat eine dunkle Gestalt gesehen.,The man saw a dark figure at the time.
+1747,"der Vorgang, -̈e",der,B1,48.84,0.8838,0,"procedure, process",Der Lehrer erklärt die chemischen Vorgänge bei der Herstellung von Alkohol.,The teacher explains the chemical processes involved in the production of alcohol.
+1757,"die Stufe, -n",die,B1,48.5443,0.9066,0,"step, level",Eine Treppe besteht aus mehreren Stufen.,A staircase consists of multiple steps.
+1775,"die Initiative, -n",die,B1,47.8051,0.8501,0,initiative,Die Initiative kämpft für soziale Gerechtigkeit.,The initiative fights for social justice.
+1787,"das Detail, -s",das,B1,47.5094,0.9384,0,detail,"Wir haben eine Meldung von einem schweren Unfall auf der A7, bisher aber keine genauen Details.","We have a report of a serious accident on Route A7, but so far no exact details."
+1801,"die Perspektive, -n",die,B1,47.1644,0.8684,0,"perspective, prospects","Das Projekt hat keine Perspektive mehr, da es nicht mehr finanziell unterstützt wird.","The project has no prospects anymore, as it is no longer financially supported."
+1820,"die Auswirkung, -en",die,B1,46.4744,0.9028,0,effect,Die Katastrophe wird noch jahrelange Auswirkungen auf die Umwelt haben.,The disaster will have an effect on the environment for years to come.
+1825,"das Niveau, -s",das,B1,46.3758,0.8803,0,"level, standard",Kunden möchten Qualität auf höchstem Niveau.,Customers want quality of the highest level.
+1838,"die Aktion, -en",die,B1,45.8337,0.9019,0,"action, campaign",Die Teams planen eine gemeinsame Aktion für Kinder.,The teams are planning a joint action for children.
+1889,"die Stärke, -n",die,B1,44.3059,0.9142,0,strength,"Ich halte es für ein Zeichen von Stärke, dass er seine Gefühle zeigt.",I think it’s a sign of strength that he shows his feelings.
+1895,"die Kombination, -en",die,B1,44.1581,0.8914,0,combination,Maria mag ihren Kaffee am liebsten in Kombination mit Milch.,Maria likes her coffee best in combination with milk.
+1900,"die Umsetzung, -en",die,B1,43.9609,0.8831,0,"transfer, implementation",Die Umsetzung einer Idee ist in der Theorie meist einfacher als in der Praxis.,The implementation of an idea is usually easier in theory than in practice.
+1901,"das Engagement, -s",das,B1,43.9117,0.8101,0,commitment,In seinem neuen Job zeigt Niko viel Engagement.,In his new job Niko shows a lot of commitment.
+1904,"das Wesen, -",das,B1,43.9117,0.8685,0,"being, creature, nature (of sth)",Über die Wesen tief unten im Meer ist noch wenig bekannt.,Little is known about the creatures deep down in the sea.
+1910,"der Abschluss, -̈e",der,B1,43.6652,0.8908,0,"end, conclusion, graduation",Ein tolles Abendessen war der Abschluss unserer Reise.,A great dinner was the end of our trip.
+1956,"der Bestandteil, -e",der,B1,42.6796,0.8635,0,component,Zucker ist Bestandteil vieler Lebensmittel.,Sugar is a component of many foods.
+1982,"der Standard, -s",der,B1,41.9403,0.8778,0,standard,Die Herstellung von Bier folgt dem deutschen Standard.,The production of beer follows the German standard.
+1987,"die Abhängigkeit, -en",die,B1,41.7432,0.85,0,dependence,Die Industrie für Autos hat eine wirtschaftliche Abhängigkeit von der Industrie für Metall.,The automotive industry is economically dependent on the metal industry.
+1998,"die Dimension, -en",die,B1,41.4475,0.8709,0,dimension,"Der Krieg nimmt eine Dimension an, die nicht zu erwarten war.",The war is taking on a dimension that was not to be expected.
+2018,"das Argument, -e",das,B1,40.9054,0.9155,0,argument,"Judith liefert viele Argumente, die für ihre Annahme sprechen.",Judith makes many arguments in favor of her acceptance.
+2058,"der Anlass, -̈e",der,B1,40.0675,0.9162,0,"occasion, cause",Was ist der Anlass für deinen Besuch?,What’s the occasion for your visit?
+2063,"das Motiv, -e",das,B1,39.8704,0.8684,0,motive,Das Motiv des Täters ist Geld.,The perpetrator’s motive is money.
+2064,"die Auswahl, -en",die,B1,39.8211,0.8967,0,"choice, selection",Ich habe eine große Auswahl an Kleidern für die Party und muss mich für eins davon entscheiden.,I have a large choice of dresses for the party and I have to choose one of them.
+2067,"der Rang, -̈e",der,B1,39.7718,0.8122,0,"standing, status",Kunst hat für Maike einen höheren Rang als die Wissenschaft.,"For Maike, art has a higher status than science."
+2074,"der Anstieg, -e",der,B1,39.624,0.6867,0,"rise, increase",Der Anstieg der Kosten für Wohnungen in der Stadt ist enorm.,The increase in the cost of housing in the city is enormous.
+2086,"die Erhöhung, -en",die,B1,39.3283,0.7955,0,increase,Wegen der Erhöhung der Kosten ziehen viele Leute aus dem Haus aus.,Many people move out of the house because of the increase in costs.
+2090,"die Anforderung, -en",die,B1,39.1804,0.8211,0,"requirement, demand, standard","Sie findet keinen Mann, weil sie zu hohe Anforderungen hat.",She can’t find a man because her standards are too high.
+2099,"das Umfeld, -er",das,B1,39.0326,0.9006,0,"milieu, environment",Ein Kind sollte in einem Umfeld voller Liebe aufwachsen.,A child should grow up in an environment full of love.
+2106,"die Mühe, -n",die,B1,38.934,0.9077,0,"effort, trouble",Herr Schmidt gibt sich immer große Mühe.,Mr. Schmidt always makes great efforts.
+2121,"die Stellung, -en",die,B1,38.589,0.8747,0,"position, standing",Christians Vater besetzt eine hohe Stellung im Parlament.,Christian’s father occupies a high position in parliament.
+2129,"der Gebrauch, -̈e",der,B1,38.4412,0.7656,0,use,Der Gebrauch von Waffen ist in Deutschland nur unter bestimmten Bedingungen erlaubt.,The use of weapons is only permitted in Germany under certain conditions.
+2139,"die Koordination, -en",die,B1,38.244,0.4004,0,coordination,"Anna macht Sport, um die Koordination ihrer Bewegungen zu verbessern.",Anna does sport to improve the coordination of her movements.
+2140,"die Nutzung, -en",die,B1,38.244,0.8329,0,use,Früher war die Nutzung von Handys in Krankenhäusern verboten.,"In the past, the use of mobile phones in hospitals was prohibited."
+2149,"die Vorbereitung, -en",die,B1,38.1455,0.908,0,preparation,Die Lehrerin wird auch für die Vorbereitung des Unterrichts bezahlt.,The teacher is also paid for the preparation of the lessons.
+2152,"der Trend, -s",der,B1,38.0962,0.8957,0,trend,Bei diesem Phänomen handelt es sich um einen europäischen Trend.,This phenomenon is a European trend.
+2155,"der Nutzen, -",der,B1,38.0469,0.7972,0,"benefit, profit, use",Die Arbeit ist relativ gering im Vergleich zum Nutzen.,The work is relatively small in comparison to the benefit.
+2171,"die Trennung, -en",die,B1,37.7019,0.7964,0,separation,Eine Trennung kommt für das Paar nicht in Frage.,A separation is not an option for the couple.
+2186,"der Ruf, -e",der,B1,37.3569,0.9239,0,"reputation, call",Dieses Unternehmen hat einen guten Ruf bei Arbeitnehmern.,This company has a good reputation among employees.
+2188,"die Begegnung, -en",die,B1,37.3077,0.8986,0,"encounter, meeting",Die zufällige Begegnung mit Tim hat ihre Gefühle wieder geweckt.,The accidental encounter with Tim has reawakened her feelings.
+2189,"der Schlag, -̈e",der,B1,37.2584,0.9182,0,blow,Der Gegner fällt nach einem Schlag auf den Boden.,The opponent falls to the ground after a blow.
+2196,"die Hinsicht, -en",die,B1,37.0612,0.8895,0,respect,Er ist in dieser Hinsicht kein guter Kandidat für das Amt.,"In this respect, he is not a good candidate for the office."
+2208,"der Zufall, -̈e",der,B1,36.8148,0.9333,0,"chance, coincidence",Die Wissenschaftler entdecken das Phänomen per Zufall.,The scientists detect the phenomenon by coincidence.
+2223,"die Förderung, -en",die,B1,36.5191,0.8692,0,"support, promotion, funding",Ausländische Studierende erhalten eine besondere Förderung.,Foreign students receive special support.
+2224,"der Impuls, -e",der,B1,36.5191,0.8253,0,"stimulus, impulse",Die Meetings schaffen neue Impulse für die Arbeit der Mitarbeiter.,The meetings create new impulses for the employees’ work.
+2225,"die Planung, -en",die,B1,36.5191,0.8451,0,"planning, plan","Es braucht Monate der Planung, um solche großen Projekte vorzubereiten.",It takes months of planning to prepare such large projects.
+2230,"der Mangel, -̈",der,B1,36.4206,0.8752,0,"lack, shortage, defect",Viele Krankheiten sind häufig die Folge von Mangel an Bewegung.,Many illnesses are often the result of the lack of exercise.
+2294,"der Nachteil, -e",der,B1,35.0899,0.8813,0,disadvantage,Das heiße Wetter hat viele Nachteile für die Bauern.,The hot weather has many disadvantages for the farmers.
+2326,die Vielfalt,die,B1,34.3014,0.8039,0,"diversity, variety",Im Wald gibt es eine Vielfalt an regionalen Pflanzen.,In the forest there is a variety of regional plants.
+2331,"die Mischung, -en",die,B1,34.2521,0.888,0,"mixture, blend, combination",Durch die Mischung der beiden Farben entsteht ein schönes Blau.,The combination of the two colors creates a beautiful blue.
+2338,"die Serie, -n",die,B1,34.1535,0.8475,0,series,Eine Serie von Morden macht den Menschen Angst.,A series of murders scares people.
+2351,"der Kontext, -e",der,B1,33.8578,0.7689,0,context,Das Museum eröffnet eine neue Ausstellung im Kontext der Geschichte von Deutschland.,The museum opens a new exhibition in the context of the history of Germany.
+2365,"die Wechselwirkung, -en",die,B1,33.6114,0.729,0,interaction,Dieses Medikament hat keine Wechselwirkungen mit anderen Medikamenten.,This medicine has no interactions with other medicines.
+2395,"der Schwerpunkt, -e",der,B1,33.1678,0.8955,0,"focus, main emphasis, center of gravity",Der Schwerpunkt meiner Arbeit liegt auf der Analyse der Personen in Goethes Gedichten.,The focus of my work is on the analysis of the characters in Goethe’s poems.
+2410,"der Schnitt, -e",der,B1,32.9214,0.8876,0,cut,Der Schnitt des Kleides ist modern.,The cut of the dress is modern.
+2445,"die Aussicht, -en",die,B1,32.2314,0.8987,0,"prospect, view",Oben vom Berg hat man eine wunderschöne Aussicht.,At the top of the mountain you have a wonderful view.
+2479,"die Verbesserung, -en",die,B1,31.8372,0.8974,0,improvement,Die Noten zeigen eine deutliche Verbesserung des Schülers.,The grades show a clear improvement of the student.
+2485,"der Ablauf, -̈e",der,B1,31.7386,0.8803,0,"expiry, action",Nach Ablauf dieser Frist können keine Änderungen mehr vorgenommen werden.,"After expiry of this period, no further changes can be made."
+2509,"der Ausbau, -ten",der,B2+,31.2951,0.623,0,"expansion, consolidation",Der geplante Ausbau der Autobahn kostet mehrere Millionen Euro.,The planned expansion of the motorway will cost several million euros.
+2513,"der Wandel, -",der,B2+,31.2951,0.8498,0,change,Die Gesellschaft ist einem ständigen Wandel ausgesetzt.,Societies are subjected to constant change.
+2525,"der Wechsel, -",der,B2+,31.0979,0.8914,0,change,Der Trainer ist traurig über den Wechsel seines Spielers zu einer anderen Mannschaft.,The coach is sad about his player’s change to another team.
+2560,"der Austausch, -e",der,B2+,30.5558,0.8956,0,exchange,Viele Universitäten fördern den internationalen Austausch von Studenten.,Many universities promote international student exchange.
+2566,"die Differenz, -en",die,B2+,30.4572,0.8529,0,difference,Die Messung ergibt eine Differenz von 20 Zentimetern.,The measurement yields a difference of 20 centimeters.
+2567,"der Fakt, -en",der,B2+,30.4572,0.9133,0,fact,Das Buch basiert auf wissenschaftlichen Fakten.,The book is based on scientific facts.
+2583,"die Betrachtung, -en",die,B2+,30.1615,0.84,0,"contemplation, examination","Bei genauerer Betrachtung erkennt man, dass die Sterne ein Zeichen formen.","Upon closer examination, one recognizes that the stars form a sign."
+2602,"der Mittelpunkt, -e",der,B2+,29.9644,0.9263,0,"midpoint, center of attention",Heute ist sein Geburtstag und nur er steht im Mittelpunkt.,Today is his birthday and only he is the center of attention.
+2604,"die Entstehung, -en",die,B2+,29.9151,0.8658,0,origin,Es gibt verschiedene Theorien zur Entstehung des Universums.,There are several theories about the origin of the universe.
+2620,"die Kooperation, -en",die,B2+,29.7673,0.8698,0,cooperation,Das Projekt wird in Kooperation mit der Universität Leipzig durchgeführt.,The project is carried out in cooperation with the University of Leipzig.
+2641,"der Überblick, -e",der,B2+,29.4716,0.8834,0,"view, overview",Ich gebe Ihnen einen kurzen Überblick über meinen Vortrag.,I am giving you a short overview of my presentation.
+2659,"die Begründung, -en",die,B1,29.2252,0.906,0,"explanation, justification",Mit welcher Begründung kommt Martin heute nicht zur Schule?,What justification does Martin give for not coming to school today?
+2674,"das Muster, -",das,B2+,29.028,0.8772,0,"pattern, model",Der Stoff hat ein buntes Muster.,The fabric has a colorful pattern.
+2697,"die Herkunft, -̈e",die,B1,28.6337,0.9011,0,origin,"Weil er anders aussieht, wird er oft nach seiner Herkunft gefragt.","Because he looks different, he is often asked about his origin."
+2699,"die Katastrophe, -n",die,B1,28.6337,0.9114,0,catastrophe,So ein Sturm ist eine schlimme Katastrophe.,Such a storm is a terrible catastrophe.
+2761,"die Beteiligung, -en",die,B2+,27.6974,0.8803,0,participation,Die Beteiligung an dem Projekt ist Pflicht.,The participation in the project is compulsory.
+2773,"die Tendenz, -en",die,B2+,27.5495,0.8725,0,"tendency, trend, inclination","Es ist mir eigentlich egal, aber ich habe eine leichte Tendenz zu Anikas Idee.","I don’t really care, but I have a slight inclination toward Anika’s idea."
+2791,"der Widerspruch, -̈e",der,B2+,27.3524,0.9152,0,"contradiction, dissent",Deine Worte und deine Taten stehen im Widerspruch zueinander.,Your words and your actions are in contradiction to each other.
+2824,"die Aufklärung, -en",die,B2+,26.9088,0.8859,0,"enlightenment, solution",Die Polizei bittet um Hilfe bei der Aufklärung eines Mordes.,Police are asking for help in the solution of a murder.
+2848,"das Resultat, -e",das,B2+,26.6624,0.8778,0,result,Heute veröffentlichen sie die ersten Resultate des Experiments.,Today they publish the first results of the experiment.
+2854,der Hinblick,der,B2+,26.5638,0.8734,0,view,Im Hinblick auf die jüngsten Ereignisse müssen wir unser Vorgehen ändern.,"In view of the recent events, we need to change our approach."
+2855,"die Last, -en",die,B2+,26.5638,0.9001,0,"load, burden",Die Last der Verantwortung ist oft schwer zu tragen.,The burden of responsibility is often difficult to bear.
+2867,"die Lücke, -n",die,B2+,26.416,0.8624,0,gap,Füllen Sie die Lücken im Text mit den folgenden Wörtern.,Fill the gaps in the text with the following words.
+2872,"die Angelegenheit, -en",die,B2+,26.3667,0.9159,0,"matter, affair",Die Entscheidung ist eine private Angelegenheit.,The decision is a private matter.
+2886,"der Entwurf, -̈e",der,B2+,26.1696,0.88,0,"sketch, design, draft","Johannes arbeitet an einem Entwurf für das neue Theater, das bald gebaut werden soll.","Johannes is working on a design for the new theater, which is to be built soon."
+2908,"der Vordergrund, -̈e",der,B2+,25.9724,0.8867,0,foreground,Im Vordergrund sieht man eine dreiköpfige Familie.,In the foreground you see a family of three.
+2909,"der Reiz, -e",der,B2+,25.9232,0.7625,0,"stimulus, appeal",Menschen nehmen Reize aus der Umwelt über ihre Sinne auf.,People absorb stimuli from the environment through their senses.
+2931,"die Gestaltung, -en",die,B2+,25.6275,0.8166,0,"design, organization",Ich verdiene viel Geld mit der Gestaltung von Häusern.,I make a lot of money by designing houses.
+2937,das Vorgehen,das,B2+,25.5782,0.8883,0,"action, approach",Die Polizei ändert ihr Vorgehen in diesem Fall.,The police are changing their approach in this case.
+2941,die Stabilität,die,B2+,25.5289,0.845,0,stability,Die Stabilität einer Beziehung wächst mit den Jahren und gemeinsamen Erlebnissen.,The stability of a relationship grows with the years and shared experiences.
+2945,"die Anstrengung, -en",die,B2+,25.4303,0.9006,0,effort,Nur mit enormen Anstrengungen konnten die Städte nach dem Krieg wieder aufgebaut werden.,Only with enormous effort could the cities be rebuilt after the war.
+2949,"die Anpassung, -en",die,B2+,25.381,0.8527,0,adaptation,Carina fällt die Anpassung an die heißen Temperaturen in Australien sehr schwer.,Carina thinks the adaptation to the hot temperatures in Australia is very difficult.
+2962,"der Höhepunkt, -e",der,B2+,25.2332,0.9012,0,"highlight, peak",Den Höhepunkt der Party bildet der Auftritt der Band.,The highlight of the party is the performance of the band.
+2964,"die Anerkennung, -en",die,B2+,25.1839,0.8636,0,recognition,Albert Einstein bekam große Anerkennung für seine Erkenntnisse in der Physik.,Albert Einstein received great recognition for his findings in physics.
+2968,"die Berücksichtigung, -en",die,B2+,25.1346,0.8331,0,consideration,Unter Berücksichtigung der steilen Wege dürfen hier nur erfahrene Leute wandern.,"Taking into consideration the steep paths, only experienced people are allowed to hike here."
+2972,"der Anschluss, -̈e",der,A1,25.0853,0.8807,0,connection,Im Anschluss an das Essen sehen wir einen Film.,In connection with the meal we see a movie.
+2974,"die Reduktion, -en",die,B2+,25.0853,0.7835,0,reduction,Ich kümmere mich um die Reduktion der Fehler im Text.,I take care of the reduction of errors in the text.
+2987,"das Anliegen, -",das,B2+,24.9375,0.8292,0,request,Die Patienten kommen mit ihren Anliegen erst sehr spät in die Praxis des Arztes.,The patients come to the doctor’s practice only very late with their concerns.
+3003,"der Aufstieg, -e",der,B2+,24.7403,0.8699,0,"climb, rise",Der Aufstieg zum Gipfel ist anstrengend.,The climb to the summit is exhausting.
+3017,"die Abweichung, -en",die,B2+,24.5925,0.8312,0,"difference, deviation, tolerance",Abweichungen von der Norm werden nicht akzeptiert.,Deviations from the norm are not accepted.
+3025,"die Intensität, -en",die,B2+,24.5432,0.7562,0,intensity,Die Intensität des Geschmacks ist beeindruckend.,The intensity of the flavor is impressive.
+3038,"der Ursprung, -̈e",der,B2+,24.4446,0.8366,0,origin,Adam und Eva sind in der Bibel der Ursprung der Menschheit.,Adam and Eve are the origin of humanity in the Bible.
+3046,"die Besonderheit, -en",die,B2+,24.1982,0.8684,0,"idiosyncracy, (special) feature, unique characteristic","Die Besonderheit der Universität liegt darin, dass die Studenten selbst forschen.",The unique characteristic of the university is that students conduct research themselves.
+3094,"der Status, -",der,B2+,23.7547,0.854,0,status,Sein teures Auto ist ein Symbol für seinen Status.,His expensive car is a symbol of his status.
+3110,"die Zusammensetzung, -en",die,B2+,23.5575,0.8233,0,composition,Wissenschaftler erforschen die Zusammensetzung der menschlichen DNA.,Scientists are investigating the composition of human DNA.
+3111,"die Ausführung, -en",die,B2+,23.5083,0.8587,0,"implementation, type",Die Ausführung des Projekts wird mehrere Jahre dauern.,The implementation of the project will take several years.
+3124,"die Rahmenbedingung, -en",die,B2+,23.3111,0.8105,0,prevailing condition,Die Regierung will die Rahmenbedingungen für Familien verbessern.,The government wants to improve the prevailing conditions for families.
+3136,"die Aktivierung, -en",die,B2+,23.1633,0.5311,0,activation,Wie senden Ihnen eine Mail für die Aktivierung Ihres Accounts.,We will send you an e-mail for activation of your account.
+3143,"der Anblick, -e",der,B2+,23.0647,0.8563,0,sight,Die kranken Kinder bieten einen traurigen Anblick.,Sick children present a sad sight.
+3175,"die Gründung, -en",die,B2+,22.7197,0.8688,0,"foundation, formation, establishment",Für die Gründung eines Clubs braucht man mindestens sieben Mitglieder.,The formation of a club requires a minimum of seven members.
+3185,"die Orientierung, -en",die,B2+,22.6212,0.9074,0,orientation,Die Schilder erleichtern die Orientierung in der Stadt.,The signs facilitate orientation in the city.
+3194,"die Einschränkung, -en",die,B2+,22.5226,0.8885,0,restriction,"Politiker versuchen, das Problem mit gesetzlichen Einschränkungen zu lösen.",Politicians try to solve the problem with legal restrictions.
+3213,"das Vorhaben, -",das,B1,22.3747,0.894,0,"plan, project",Wir benötigen jede Hilfe bei der Umsetzung des Vorhabens.,We need all the help we can get in implementing the project.
+3225,"der Ausgleich, -e",der,B2+,22.2269,0.8788,0,"balancing, compensation, change",Als Ausgleich zu seinem Job macht er viel Sport.,As a balance to his job he does a lot of sports.
+3267,"der Rückgang, -̈e",der,B2+,21.734,0.7788,0,"fall, decline",Das Unternehmen verzeichnet einen Rückgang des Umsatzes.,The company reports a decline in sales.
+3286,"die Abgrenzung, -en",die,B2+,21.5862,0.7927,0,"boundary, disassociation",Eine Abgrenzung des privaten Lebens von der Öffentlichkeit ist unbedingt notwendig.,A separation of private life from public life is absolutely necessary.
+3290,"die Unterscheidung, -en",die,B2+,21.5862,0.8418,0,"differentiation, distinction",Eine Unterscheidung von “er isst” und “er ist” ist sehr wichtig.,A distinction between “he eats” and “he is” is very important.
+3293,"der Sachverhalt, -e",der,B2+,21.5369,0.8203,0,facts,Der Sachverhalt ist sehr kompliziert.,The facts are very complicated.
+3310,"die Notwendigkeit, -en",die,B2+,21.3398,0.8955,0,necessity,"Ich nehme den Job aus Notwendigkeit, weil ich kein Geld mehr habe.",I’m taking the job out of necessity because I’m out of money.
+3311,"die Reihenfolge, -n",die,B1,21.3398,0.8585,0,order,Meine Großmutter muss ihre Medikamente in einer bestimmten Reihenfolge nehmen.,My grandmother has to take her medications in a certain order.
+3326,"die Übersicht, -en",die,B2+,21.2412,0.8254,0,overview,Der Verlag erstellt eine Übersicht über die neuesten Publikationen.,The publisher provides an overview of the latest publications.
+3333,"die Vorgabe, -n",die,B2+,21.1919,0.8904,0,guideline,Wir führen den Auftrag gemäß der Vorgaben aus.,We are carrying out the order according to the guidelines.
+3364,"die Option, -en",die,B2+,20.9455,0.8846,0,option,Bitte wählen Sie unten die entsprechende Option aus.,Please select the appropriate option below.
+3383,"der Schein, -e",der,B1,20.8469,0.8905,0,"light, appearance, certificate",Im Schein der Kerze kann man nur wenig sehen.,In the light of the candle you can only see a little.
+3391,"die Verschiebung, -en",die,B2+,20.7977,0.8431,0,"shift, postponement",Nach den Wahlen kommt es zu einer Verschiebung der Macht.,There will be a shift in power after the elections.
+3409,"die Durchführung, -en",die,B2+,20.6498,0.8415,0,carrying out,Die Durchführung der Wahlen verläuft problemlos.,The carrying out of the elections is going smoothly.
+3437,"die Wiederholung, -en",die,B1,20.3541,0.8325,0,repetition,Die Wiederholung des Experiments bringt ein anderes Ergebnis.,The repetition of the experiment brings a different result.
+3459,"die Erscheinung, -en",die,B2+,20.2063,0.8733,0,"phenomenon, appearance",Er legt Wert auf seine äußere Erscheinung.,He attaches great importance to his appearance.
+3466,"der Bestand, -̈e",der,B2+,20.157,0.8579,0,"continuation, stock, supply","Gemeinsam versuchen sie, den Bestand der Firma zu sichern.",Together they try to secure the continuation of the company.
+3480,"die Eröffnung, -en",die,B2+,20.0584,0.8617,0,opening,Jeder Kunde bekommt ein Geschenk bei der Eröffnung des Geschäfts.,Every customer receives a gift at the shop opening.
+3481,"die Fragestellung, -en",die,B2+,20.0584,0.8065,0,"problem, question",Der Schüler versteht die Fragestellung nicht.,The student doesn’t understand the question.
+3505,"die Verknüpfung, -en",die,B2+,19.8613,0.7491,0,"combination, link",Das Seminar ist eine gute Verknüpfung von Theorie und Praxis.,The seminar is a good combination of theory and practice.
+3539,"der Rückstand, -̈e",der,B2+,19.6149,0.7541,0,"backlog, deficit",Die Mannschaft verliert das Spiel mit einem Rückstand von zwei Punkten.,The team loses the game with a deficit of two points.
+3556,"die Kapazität, -en",die,B2+,19.4177,0.8176,0,capacity,Die Halle hat eine Kapazität von 500 Plätzen.,The hall has a capacity of 500 seats.
+3561,"der Fokus, -se",der,B2+,19.3684,0.8707,0,focus,Das Thema Bildung steht im Fokus der öffentlichen Debatte.,The topic of education is the focus of public debate.
+3577,"die Relation, -en",die,B2+,19.2699,0.6159,0,"proportion, relation",In Relation zu anderen kulturellen Einrichtungen ist die Oper sehr teuer.,"In relation to other cultural institutions, opera is very expensive."
+3579,"die Steigerung, -en",die,B2+,19.2699,0.8407,0,increase,Die Steigerung der Verkäufe ist der Schwerpunkt der Besprechung.,The increase in sales is the focus of the meeting.
+3580,"der Vorfall, -̈e",der,B2+,19.2699,0.8557,0,incident,Sie müssen den Vorfall der Polizei melden.,You must report the incident to the police.
+3581,"das Vorfeld, -er",das,B2+,19.2699,0.8221,0,advance,Wir sehen uns das im Vorfeld sehr genau an.,We have a very close look at this in advance.
+3583,"die Auflösung, -en",die,B2+,19.2206,0.8724,0,"dissolving, dissolution, breaking up",Nach der Auflösung der Regierung werden neue Wahlen abgehalten.,"After the dissolution of the government, new elections will be held."
+3590,"der Ausgangspunkt, -e",der,B2+,19.1713,0.8641,0,starting point,Ausgangspunkt für die Stadtführung ist der Marktplatz.,The starting point for the city tour is in the marketplace.
+3644,"die Ausprägung, -en",die,B2+,18.8263,0.6578,0,"shaping, markedness",Das Umfeld spielt in der Jugend eine große Rolle bei der Ausprägung des Charakters.,The environment plays an important role in the shaping of the character in youth.
+3660,"die Steuerung, -en",die,B2+,18.7278,0.8255,0,"control, steering",Die Steuerung der Maschine erfordert viel Übung.,The control of the machine requires a lot of practice.
+3667,"die Beurteilung, -en",die,B2+,18.6292,0.8548,0,judgment,Meiner Beurteilung nach ist die Verletzung nicht sehr schlimm.,"In my judgment, the injury isn’t very bad."
+3694,"die Erweiterung, -en",die,B2+,18.4813,0.8833,0,"expansion, extension",Morgen kaufe ich mir endlich die Erweiterung von meinem Lieblingsspiel.,Tomorrow I’m finally buying the expansion of my favorite game.
+3706,"der Strich, -e",der,B2+,18.4321,0.9122,0,"stroke, line","Ich versuche seit vielen Minuten, einen ganz geraden Strich zu zeichnen.",I’ve been trying to draw a straight line for many minutes.
+3717,"der Vorsprung, -̈e",der,B2+,18.3828,0.7733,0,"lead, advance",Mark ist sehr schnell und hat bei dem Rennen einen großen Vorsprung.,Mark is very fast and has a big lead in the race.
+3742,das Chaos,das,B2+,18.1856,0.9164,0,chaos,Schnee und Eis können Chaos auf den Straßen verursachen.,Snow and ice can cause chaos on the roads.
+3760,"der Ersatz, -̈e",der,B2+,18.0378,0.7967,0,"replacement, compensation","Für das Spiel brauchen wir einen Ersatz für Paul, er ist krank.","For the game we need a replacement for Paul, he’s sick."
+3788,"die Zunahme, -n",die,B2+,17.9392,0.8414,0,increase,Wir müssen mit einer Zunahme der Anzahl von Studierenden im nächsten Jahr rechnen.,We have to expect an increase in the number of students next year.
+3800,"der Stoß, -̈e",der,B2+,17.8406,0.7197,0,"push, shock",Sie gibt mir einen Stoß und ich falle hin.,She gives me a push and I fall.
+3809,"die Anregung, -en",die,B2+,17.7421,0.8278,0,"stimulus, idea",Die Bilder geben Anregung zur Diskussion.,The pictures provide a stimulus for discussion.
+3827,"der Ausfall, -̈e",der,B2+,17.6435,0.7716,0,"failure, breakdown",Durch den Ausfall der Maschinen verliert die Firma viel Zeit und Geld.,"Due to the failure of the machines, the company loses a lot of time and money."
+3848,"die Transparenz, -en",die,B2+,17.5449,0.8674,0,"transparency, clarity","Transparenz in der Forschung ist wichtig, um ethische Grenzen zu erarbeiten.",Transparency in research is important in order to develop ethical boundaries.
+3856,"die Transformation, -en",die,B2+,17.4957,0.7997,0,transformation,Das Internet führt zu einer Transformation vieler Gewohnheiten wie dem Einkaufen.,The internet leads to a transformation of many habits such as shopping.
+3879,"die Mission, -en",die,B2+,17.3478,0.8676,0,mission,Die Soldaten begeben sich auf eine gefährliche Mission.,The soldiers embark on a dangerous mission.
+3882,"die Regulation, -en",die,B2+,17.3478,0.4833,0,regulation,Der Ökonom kritisiert die Regulation der Wirtschaft.,The economist criticizes the regulation of the economy.
+3884,"die Schätzung, -en",die,B2+,17.3478,0.8143,0,"estimate, estimation",Die Zahlen sind nicht sehr genau und basieren auf Schätzungen.,The figures are not very accurate and are based on estimates.
+3890,"die Teilnahme, -n",die,B1,17.2985,0.8848,0,participation,Mit dem Test qualifiziert er sich für die Teilnahme an dem Wettkampf.,With this test he qualifies for participation in the competition.
+3902,"der Zwang, -̈e",der,B2+,17.1507,0.8814,0,"force, pressure, compulsion","Kinder lernen nur, wenn sie wollen, und nicht aus Zwang.","Children only learn if they want to, not by force."
+3915,"die Zerstörung, -en",die,B2+,17.0521,0.9051,0,destruction,Die Zerstörung des Waldes hat ernsthafte Konsequenzen für den Planeten.,The destruction of the forest has serious consequences for the planet.
+3920,"das Stadium, -en",das,B2+,17.0028,0.8608,0,"stage, phase",Das Projekt befindet sich nun im finalen Stadium.,The project is now in its final stage.
+3939,"die Erfüllung, -en",die,B2+,16.9043,0.8378,0,fulfillment,"Ihr Wunsch geht endlich in Erfüllung, sie bekommt ein Kind!","Her wish finally finds fulfillment, she’s having a child!"
+3979,"die Vorlage, -n",die,B2+,16.7564,0.8461,0,"draft, model, submission",Ich darf nur unter Vorlage aller notwendigen Dokumente an der Universität studieren.,I am only allowed to study at the university upon submission of all necessary documents.
+3980,"das Vorzeichen, -",das,B2+,16.7564,0.7852,0,"sign, omen","Es ist kein gutes Vorzeichen für den Erfolg der Ehe, wenn Maria und Steffen immer streiten.",It is not a good sign for the success of their marriage if Maria and Steffen always argue.
+3981,"der Zugriff, -e",der,B2+,16.7564,0.8675,0,access,Bei jedem Zugriff auf die Daten muss ein Passwort eingegeben werden.,A password must be entered each time the data is accessed.
+3983,"der Grenzwert, -e",der,B2+,16.7071,0.7866,0,"threshold, limit","Der Arzt sagt, erst wenn der Grenzwert in meinem Blut überschritten ist, bin ich krank.",The doctor says I’m not sick unless my blood level is over the limit.
+4001,die Anwesenheit,die,B2+,16.6086,0.8963,0,presence,Die Wahl erfordert die Anwesenheit aller Mitglieder.,The election requires the presence of all members.
+4011,"die Spaltung, -en",die,B2+,16.5593,0.7372,0,"split, splitting",Streit führt oft zur Spaltung einer Gruppe.,Disputes often leads to the splitting of a group.
+4022,"die Sicherung, -en",die,B2+,16.51,0.8599,0,"protection, fuse",Zur Sicherung des Verkehrs stellt die Polizei Schilder auf.,For the protection of traffic the police put up signs.
+4053,"die Fortsetzung, -en",die,B1,16.3621,0.8748,0,continuation,Wir müssen noch lange auf die Fortsetzung des Films warten.,We have to wait a long time for the continuation of the movie.
+4058,"die Differenzierung, -en",die,B2+,16.3129,0.7848,0,differentiation,Differenzierung der Produkte ist ein wesentlicher Bestandteil für die Zukunft des Unternehmens.,Differentiation of the products is an essential component for the future of the company.
+4084,"die Sorte, -n",die,B2+,16.2143,0.8879,0,"kind, variety","Ich bringe nachher Eis mit, welche Sorte möchtest du?",I’ll bring ice cream afterwards; what kind would you like?
+4101,"die Einteilung, -en",die,B2+,16.0664,0.826,0,"classification, division",Die Einteilung der Schüler in die Klassen erfolgt nach dem Alter.,The classification of students into the classes is based on age.
+4142,"die Beschränkung, -en",die,B2+,15.7707,0.7934,0,restriction,Diese Beschränkungen verletzen die fundamentalen Menschenrechte.,These restrictions violate fundamental human rights.
+4268,"die Überprüfung, -en",die,B2+,15.1301,0.8586,0,"review, screening, check, inspection","Bevor wir sie vorstellen, ist eine Überprüfung unserer Ergebnisse notwendig.","Before we present them, a review of our results is necessary."
+4275,"das Format, -e",das,B2+,15.0808,0.827,0,format,"Du musst das Format der Bilder ändern, sonst kannst du sie mir nicht schicken.","You have to change the format of the pictures, otherwise you can’t send them to me."
+4279,"das Original, -e",das,B1,15.0808,0.7913,0,original,Das Bild ist im Original zu teuer.,The picture is too expensive in the original.
+4281,"die Priorität, -en",die,B2+,15.0808,0.8394,0,priority,"Wenn du zu viele Aufgaben hast, musst du Prioritäten setzen.","If you have too many tasks, you have to set priorities."
+4283,"die Variation, -en",die,B2+,15.0808,0.8071,0,"kind, variation",Miriam verkauft in ihrem Laden Kuchen aller Variationen für Hochzeiten.,In her shop Miriam sells cakes of all kinds for weddings.
+4297,"die Explosion, -en",die,B2+,14.9822,0.8406,0,explosion,Das Feuer in der Fabrik löst eine Explosion aus.,The fire in the factory causes an explosion.
+4306,"die Gemeinsamkeit, -en",die,B2+,14.9329,0.8776,0,"commonality, common feature","Pia und ich haben die Gemeinsamkeit, dass wir beide alte Filme mögen.",Pia and I have one common feature: that we both like old movies.
+4315,"die Reflexion, -en",die,B2+,14.8836,0.7652,0,reflection,Im Wasser kann man die Reflexion des Lichtes sehen.,In the water you can see the reflection of the light.
+4320,"der Anreiz, -e",der,B2+,14.8344,0.8308,0,incentive,Das hohe Gehalt ist der einzige Anreiz für den neuen Job.,The high salary is the only incentive for the new job.
+4321,"die Ausrichtung, -en",die,B2+,14.8344,0.8537,0,"orientation, alignment",Der Architekt achtet vor allem auf die Ausrichtung der Fenster zur Sonne.,The architect pays particular attention to the orientation of the windows to the sun.
+4351,"die Bemühung, -en",die,B2+,14.6865,0.8816,0,effort,"Danke für deine Bemühungen, mich zu beruhigen, aber ich habe immer noch Angst.","Thank you for your efforts to reassure me, but I’m still scared."
+4364,"der Sturz, -̈e",der,B2+,14.6865,0.8579,0,fall,Das Kind überlebt den Sturz aus dem Fenster.,The child survives the fall out the window.
+4407,"die Zuordnung, -en",die,B2+,14.4894,0.805,0,"classification, assignment",Die Zuordnung zu einer Gruppe erfolgt durch einen Test.,Assignment to a group happens via a test.
+4412,"das Hindernis, -se",das,B2+,14.4401,0.9155,0,obstacle,"Es ist für mich ein Hindernis, für einen neuen Job in eine andere Stadt zu ziehen.",It’s an obstacle for me to move to another city for a new job.
+4434,"der Einzelfall, -̈e",der,B2+,14.3415,0.8446,0,individual case,"Jenny ist kein Einzelfall, auch andere Mädchen können gut Fußball spielen.",Jenny is not an individual case; other girls can also play soccer well.
+4460,"der Einblick, -e",der,B2+,14.2429,0.8956,0,insight,Das Praktikum verschafft mir einen Einblick in den Job.,The internship gives me an insight into the job.
+4467,"die Feststellung, -en",die,B2+,14.1937,0.869,0,"determination, assessment","Mein Arzt macht die Feststellung, dass ich krank bin.",My doctor makes the assessment that I am ill.
+4501,"die Annäherung, -en",die,B2+,14.0458,0.8873,0,"approach, approximation, rapprochement","Ich hoffe auf eine Annäherung meiner Eltern, damit wir wieder eine Familie sein können.","I hope for a rapprochement with my parents, so that we can be a family again."
+4537,"die Verstärkung, -en",die,B2+,13.898,0.7364,0,reinforcement,"Die Polizei ruft Verstärkung, um den Täter zu fangen.",The police call for reinforcements to catch the perpetrator.
+4539,"die Bearbeitung, -en",die,B2+,13.8487,0.8268,0,processing,Mein Antrag auf mehr Geld liegt bei der Behörde zur Bearbeitung.,My request for more money is at the agency for processing.
+4549,"die Berührung, -en",die,B2+,13.7994,0.879,0,touch,Ich vermisse die Berührung seiner Hände auf meiner Haut.,I miss the touch of his hands on my skin.
+4558,"die Verlängerung, -en",die,B2+,13.7994,0.8101,0,extension,Ich unterschreibe heute den Vertrag zur Verlängerung meiner Arbeit.,I’m signing today the contract for the extension of my work.
+4584,"die Reichweite, -n",die,B2+,13.6515,0.8283,0,"reach, range","Ich lege mein Handy in Reichweite, damit ich schnell abnehmen kann, wenn es klingelt.",I put my phone within reach so I can pick it up quickly when it rings.
+4607,"die Verbreitung, -en",die,B2+,13.553,0.8337,0,"dissemination, distribution, spread","Nicht nur die Herstellung, sondern auch die Verbreitung von gefährlichen Substanzen ist illegal.",Not only the production but also the dissemination of dangerous substances is illegal.
+4652,"die Effizienz, -en",die,B2+,13.3066,0.7238,0,efficiency,Ich arbeite immer mit großer Effizienz.,I always work with great efficiency.
+4687,"das Segment, -e",das,B2+,13.1587,0.7695,0,segment,"Wir sehen uns nicht den ganzen Film, sondern nur einzelne Segmente daraus an.","We don’t watch the whole film, but only individual segments of it."
+4691,"die Ähnlichkeit, -en",die,B2+,13.1094,0.8702,0,similarity,"Obwohl Anika und Mia keine Schwestern sind, haben sie eine große Ähnlichkeit.","Although Anika and Mia are not sisters, they have a great similarity."
+4699,"die Realisierung, -en",die,B2+,13.1094,0.8043,0,"implementation, realization",Zur Realisierung des Projekts fehlen noch 200 Euro.,Two hundred euros are still needed for the implementation of the project.
+4708,"die Interaktion, -en",die,B2+,13.0601,0.7979,0,interaction,Sprachliche Kommunikation ist die wichtigste Form der menschlichen Interaktion.,Linguistic communication is the most important form of human interaction.
+4717,"der Zerfall, -̈e",der,B2+,13.0601,0.7304,0,"disintegration, collapse, decay","Es kommt zum Zerfall der Häuser, weil schon seit langem niemand mehr in diesen wohnt.",The collapse of the houses takes place because no one has lived in them for a long time.
+4728,"die Verarbeitung, -en",die,B2+,13.0109,0.8123,0,"processing, finishing",An dem Material und der Verarbeitung der Kleidung erkennt man ihren Wert.,Its value can be seen in the material and finishing of the clothing.
+4745,"die Festlegung, -en",die,B2+,12.9123,0.7572,0,"determination, specification, fixing",Sie fordern die Festlegung neuer Gehälter.,They demand the fixing of new salaries.
+4765,"die Spekulation, -en",die,B2+,12.863,0.8694,0,speculation,"Meine Verwandten stellen Spekulationen an, ob ich schwanger bin.",My relatives are making speculations as to whether I’m pregnant.
+4776,"die Hauptsache, -n",die,B2+,12.8137,0.8941,0,main thing,"Die Hauptsache ist, dass es dir gut geht.",The main thing is that you’re all right.
+4779,"die Korrektur, -en",die,B2+,12.8137,0.8637,0,"correction, adjustment",Der Professor nimmt die Korrektur der Arbeiten seiner Studenten vor.,The professor undertakes the correction of the work of his students.
+4791,"die Einzelheit, -en",die,B1,12.7644,0.89,0,detail,Wir benötigen noch einige Einzelheiten zu dem Artikel.,We need some more details about the article.
+4805,"der Fund, -e",der,B2+,12.7152,0.8095,0,discovery,Die Polizei berichtet über den Fund einer Leiche.,Police are reporting the discovery of a body.
+4813,"die Teilung, -en",die,B2+,12.7152,0.6988,0,"division, separation, partition",Im Jahr 1949 fand die Teilung Deutschlands statt.,The partition of Germany took place in 1949.
+4817,"der Durchbruch, -̈e",der,B2+,12.6659,0.8903,0,breakthrough,Dem Anwalt gelingt ein Durchbruch in dem Fall.,The lawyer makes a breakthrough in the case.
+4821,"die Umwandlung, -en",die,B2+,12.6659,0.7489,0,conversion,In Physik behandeln wir die Umwandlung von Energie in Wärme.,In physics we deal with the conversion of energy into heat.
+4842,"die Abwesenheit, -en",die,B2+,12.4687,0.9059,0,absence,Während meiner Abwesenheit passen meine Eltern auf meinen Hund auf.,During my absence my parents look after my dog.
+4850,die Leere,die,B2+,12.4687,0.8597,0,emptiness,Die Leere des verlassenen Hauses macht mich traurig.,The emptiness of the abandoned house makes me sad.
+4865,"die Erstellung, -en",die,B2+,12.3702,0.7449,0,"preparation, creation",Mario hilft mir bei der Erstellung der Berechnungen.,Mario helps me with the preparation of the calculations.
+4873,"der Spielraum, -̈e",der,B2+,12.3702,0.8791,0,"leeway, scope, wiggle room",Ich habe keinen Spielraum bei der Festlegung des Preises.,I have no wiggle room in setting the price.
+4890,"der Abstieg, -e",der,B2+,12.2716,0.7536,0,descent,Das Haus steht oben auf dem Berg und der Abstieg ins Tal dauert vier Stunden.,The house stands on top of the mountain and the descent into the valley takes four hours.
+4896,"der Irrtum, -̈er",der,B2+,12.2716,0.8663,0,"error, misconception","Es ist ein Irrtum, dass Mädchen kein Fußball spielen können.",It’s a misconception that girls can’t play soccer.
+4901,"die Übereinstimmung, -en",die,B2+,12.2716,0.8439,0,"match, agreement",Ich überprüfe die Übereinstimmungen zwischen meinen Antworten und den Lösungen.,I check the matches between my answers and the solutions.
+4904,"die Vorgehensweise, -n",die,B2+,12.2716,0.8319,0,"approach, procedure","Sie überlegen, welche Vorgehensweise beim Lernen besser ist.",They consider which approach to learning is better.
+4918,"die Ergänzung, -en",die,B2+,12.173,0.878,0,"supplement, addition",Er sucht eine sinnvolle Ergänzung zu seinem Alltag.,He’s looking for a meaningful addition to his everyday life.
+4938,"die Abnahme, -n",die,B2+,12.0745,0.7063,0,"acceptance, decrease, decline, removal",Ich freue mich auf die Abnahme meines Verbandes am Fuß.,I am looking forward to the removal of the bandage on my foot.
+4947,"der Ausschnitt, -e",der,B2+,12.0252,0.8837,0,"section, extract, excerpt, neckline",Sie trägt ein Kleid mit großem Ausschnitt.,She’s wearing a dress with a big neckline.
+4959,"der Ausblick, -e",der,B2+,11.9759,0.8116,0,"outlook, forecast, view",Der Ausblick aus meinem Fenster ist sehr schön.,The view from my window is very nice.
+4971,die Beachtung,die,B2+,11.9266,0.8649,0,"attention, consideration, compliance",Mein Chef nimmt meine Arbeit als selbstverständlich hin und ich wünsche mir mehr Beachtung von ihm.,My boss takes my work for granted and I want more attention from him.
+4987,"die Weiterentwicklung, -en",die,B2+,11.9266,0.8601,0,"further development, advancement",Mein neues Auto ist eine Weiterentwicklung des alten Modells.,My new car is a further development of the old model.
+5003,"die Rettung, -en",die,B2+,11.8281,0.8954,0,"rescue, salvation","Weil es einen Sturm gibt, können sie den Berg nicht verlassen und müssen auf ihre Rettung warten.",Because of the storm they cannot get down from the mountain and have to wait for rescue.

@@ -6,8 +6,10 @@ rank,word,pos,level,freq_per_million,dispersion,has_conjugation,definition,examp
 2589,"die Leiche, -n",die,B2+,30.1123,0.8305,0,corpse,Die Polizei findet die Leiche eines Mannes im Wald.,The police find the body of a man in the forest.
 3209,"das Grab, -̈er",das,B2+,22.3747,0.8687,0,grave,Jeden Sonntag bringt sie frische Blumen ans Grab ihres Mannes.,Every Sunday she brings fresh flowers to her husband’s grave.
 3305,"die Droge, -n",die,B1,21.3891,0.8713,0,drug,Viele Drogen machen schnell abhängig.,A lot of drugs make you addicted fast.
+3692,"der Bruch, -̈e",der,B2+,18.4813,0.9018,0,"fracture, break",Der Bruch in meinem Bein heilt sehr schnell.,The fracture in my leg heals very fast.
 3740,"die Wunde, -n",die,B1,18.2349,0.8765,0,wound,Aus der frischen Wunde fließt Blut.,Blood flows from the fresh wound.
 4012,"das Antibiotikum, die Antibiotika",das,B2+,16.51,0.6218,0,antibiotic,Der Arzt verschreibt ihr ein Antibiotikum.,The doctor’s prescribing her an antibiotic.
+4282,"der Stich, -e",der,B2+,15.0808,0.8493,0,"bite, sting",Mancher Stich von Insekten tut sehr weh.,Some insect bites hurt a lot.
 4356,"das Gift, -e",das,B1,14.6865,0.8458,0,poison,"Die Tiere im Wald sterben an dem Gift, das aus der Fabrik in den Fluss gelangt.",The animals in the forest die of the poison that enters the river from the factory.
 4707,das Insulin,das,B2+,13.0601,0.5007,0,insulin,"Weil mein Vater Diabetes hat, braucht er Insulin.","Because my father has diabetes, he needs insulin."
 4786,die Verletzte,der,B2+,12.8137,0.7926,0,injured,Im Krankenhaus kümmert man sich um die Verletzten.,The hospital takes care of the injured.
