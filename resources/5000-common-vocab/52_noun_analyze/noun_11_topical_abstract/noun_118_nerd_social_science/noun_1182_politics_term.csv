@@ -1,0 +1,76 @@
+rank,word,pos,level,freq_per_million,dispersion,has_conjugation,definition,example_de,example_en
+777,SPD (Sozialdemokratische Partei Deutschlands),die,A2,110.5923,0.6909,0,SPD,Die SPD will ein neues Gesetz einführen.,The SPD wants to introduce a new law.
+894,CDU (Christlich Demokratische Union Deutschlands),die,A2,97.2365,0.6599,0,CDU,Sie hat die CDU gewählt.,She voted for the CDU.
+1020,das Grüne,die,B1,85.0634,0.6677,0,the Greens,Die Partei “Bündnis 90/die Grünen” wurde 1993 in Leipzig gegründet.,The party “Bündnis 90/die Grünen” was founded in Leipzig in 1993.
+1024,"die Maßnahme, -n",die,B1,84.8663,0.8942,0,measure,Diese Maßnahmen sollen die Sicherheit erhöhen.,These measures are intended to increase safety.
+1126,"der Bund, -̈e",der,B1,77.3259,0.8489,0,"association, alliance, bunch",Beide Parteien schließen einen Bund.,Both parties enter into an alliance.
+1397,"die Union, -en",die,B1,63.5758,0.8194,0,union,Manche Mitgliedsstaaten möchten aus der Union austreten.,Some member states want to leave the union.
+1579,AfD (Alternative für Deutschland),die,B1,54.9512,0.6379,0,"AfD, Alternative für Deutschland",Seit den Wahlen 2017 ist die Partei AfD im deutschen Parlament.,"Since the 2017 elections, the AFD party has been in the German parliament."
+1655,"das Reich, -e",das,A2,51.9449,0.7908,0,"empire, kingdom",Die Studenten hören einen Beitrag über das Römische Reich.,The students listen to a piece about the Roman Empire.
+1711,"der Verband, -̈e",der,B1,49.875,0.8674,0,"association, bandage",Das Kind bekommt im Krankenhaus einen neuen Verband um seinen Arm.,The child gets a new bandage around his arm in the hospital.
+1988,"die Einrichtung, -en",die,B1,41.6939,0.8734,0,"institution, furnishings",Die Einrichtung von Katjas Wohnung ist sehr modern.,The furnishings of Katja’s apartment are very modern.
+1995,"die Institution, -en",die,B1,41.546,0.8659,0,institution,Die Universität ist eine Institution für Bildung und Wissenschaft.,The university is an institution for education and science.
+2040,CSU (Christlich-Soziale Union),die,B1,40.3632,0.5944,0,CSU,Die CSU tritt ausschließlich in Bayern an.,The CSU will compete exclusively in Bavaria.
+2085,"die Stiftung, -en",die,B1,39.3776,0.8143,0,"foundation, institute, donation","Meine Mutter leitet eine Stiftung, die wilden Hunden hilft.",My mother runs a foundation that helps wild dogs.
+2130,"der Landtag, -e",der,B1,38.4412,0.3489,0,parliament,Der Landtag des Freistaats Sachsen hat seinen Sitz in Dresden.,The parliament of the Free State of Saxony has its headquarters in Dresden.
+2245,"die Verwaltung, -en",die,B1,36.1741,0.8205,0,administration,"Sie unterrichtet nicht, sondern arbeitet in der Verwaltung der Universität.","She does not teach, but works in the university administration."
+2265,"die Kommune, -n",die,B1,35.7306,0.7755,0,"municipality, local authority","Es ist die Aufgabe der Kommunen, Schulen zu bauen.",It is the task of the municipalities to build schools.
+2283,FDP (Freie Demokratische Partei),die,B1,35.3363,0.7232,0,FDP,Die FDP ist eine deutsche Partei und wurde 1948 gegründet.,The FDP is a German party and was founded in 1948.
+2330,"die Koalition, -en",die,B1,34.2521,0.7554,0,coalition,Die große Koalition besteht aus zwei Parteien.,The grand coalition consists of two parties.
+2476,"die Fraktion, -en",die,B1,31.8372,0.6571,0,parliamentary party,Es gibt verschiedene Meinungen innerhalb der Fraktion.,There are different opinions within the parliamentary party.
+2584,"die Kommission, -en",die,B2+,30.1615,0.8403,0,"commission, committee",Eine unabhängige Kommission beobachtet den Wahlprozess.,An independent commission observes the electoral process.
+2635,"die Norm, -en",die,B2+,29.6194,0.8216,0,norm,Es gibt eine politische Debatte über die Normen und Werte des Landes.,There is a political debate about the norms and values of the country.
+2681,"die Flüchtlingskrise, -n",die,B2+,28.9294,0.7216,0,refugee crisis,Seit der Flüchtlingskrise 2015 haben sich der Staat und die Gesellschaft in vielerlei Hinsicht verändert.,"Since the refugee crisis in 2015, the state and society have changed in many ways."
+2732,"die Opposition, -en",die,B2+,28.1409,0.8022,0,opposition,Die Opposition kritisiert die Arbeit der Regierung.,The opposition criticizes the work of the government.
+2735,"der Grundsatz, -̈e",der,B2+,28.0916,0.8159,0,principle,Die Freiheit der Presse ist ein elementarer Grundsatz einer Demokratie.,Freedom of the press is a fundamental principle of democracy.
+2822,"der Bundesrat, -̈e",der,B2+,26.9581,0.7542,0,Bundesrat,Im Bundesrat werden wichtige Entscheidungen für das Land getroffen.,The Bundesrat makes important decisions for the country.
+2946,"der Nationalsozialist, -en (Nazi)",der,B2+,25.4303,0.8791,0,"National Socialist, Nazi",1939 griffen die Nationalsozialisten Polen an.,In 1939 the National Socialists attacked Poland.
+2993,"das Abkommen, -",das,B2+,24.8389,0.7933,0,agreement,Beide Parteien haben das Abkommen unterzeichnet.,Both parties have signed the agreement.
+3027,die Linke,die,B2+,24.5432,0.418,0,"left-wing party, Left Party",Die Linke ist derzeit Oppositionspartei im deutschen Parlament.,The Linke is currently the opposition party in the German parliament.
+3220,"der Beschluss, -̈e",der,B2+,22.2762,0.8661,0,"decision, resolution",Fast alle Mitglieder der Vereinten Nationen stimmen dem Beschluss zu.,Nearly all members of the United Nations agree to the decision.
+3360,"die Solidarität, -en",die,B2+,20.9948,0.8159,0,solidarity,Die Situation stellt die Solidarität zwischen den Mitgliedsstaaten der UN in Frage.,The situation raises questions about solidarity between UN member states.
+3379,"die Herrschaft, -en",die,B2+,20.8469,0.8817,0,"power, reign",Die Mehrheit der Bevölkerung leidet unter der Herrschaft des neuen Präsidenten.,The majority of the population suffers under the reign of the new president.
+3388,"die Front, -en",die,B2+,20.7977,0.8895,0,front,Die Soldaten werden bald von der Front nach Hause geschickt.,The soldiers will soon be sent home from the front.
+3429,"die Landesregierung, -en",die,B2+,20.4034,0.6531,0,state government,Die Landesregierung stellt für das Projekt eine Million Euro bereit.,The state government is providing one million euros for the project.
+3612,"die Sanktion, -en",die,B2+,19.0727,0.8003,0,sanction,Die EU verhängt erneut wirtschaftliche Sanktionen über das Land.,The EU again imposes economic sanctions on the country.
+3761,die EU-Kommission,die,B2+,18.0378,0.7717,0,European Commission,Die EU-Kommission ist die Regierung der Europäischen Union.,The European Commission is the government of the European Union.
+3802,"die Wahlperiode, -n",die,B2+,17.8406,0.2008,0,term,Die Wahlperiode eines Bundeskanzlers dauert in Deutschland vier Jahre.,The term of office of a federal chancellor in Germany lasts four years.
+3912,SPÖ (Sozialdemokratische Partei Österreichs),die,B2+,17.0521,0.5148,0,,Social Democratic Party of Austria Die SPÖ fordert freien Zugang zu Universitäten.,The Social Democratic Party of Austria demands free access to universities.
+3954,die Abwehr,die,B2+,16.855,0.7859,0,defense,Die Abwehr der Fußballmannschaft verhinderte viele Tore.,The defense of the soccer team prevented many goals.
+4009,"der Ausschuss, -̈e",der,B2+,16.5593,0.6011,0,committee,"Der Ausschuss trifft sich dann, wenn die Mitglieder etwas organisieren müssen.",The committee meets when the members need to organize something.
+4010,"der Mitgliedstaat, -en",der,B2+,16.5593,0.8146,0,member state,Deutschland ist ein Mitgliedstaat der Union.,Germany is a member state of the union.
+4036,"die Wende, -n",die,B2+,16.4607,0.9038,0,change (esp. the 1989–90 political change in the GDR),Der Wandel der Gesellschaft in der DDR führte zur Wende und zur Wiedervereinigung Deutschlands.,The change in society in the GDR led to the reunification of Germany.
+4038,"das Bündnis, -se",das,B2+,16.4114,0.8047,0,alliance,Ein Bündnis zwischen diesen beiden Parteien ist ausgeschlossen.,An alliance between these two parties is impossible.
+4068,Taliban,die (pl),B2+,16.3129,0.6606,0,Taliban,Die Taliban kämpfen für ihre Überzeugungen mit Gewalt.,The Taliban fight for their convictions by force.
+4080,die Flüchtlingspolitik,die,B2+,16.2143,0.6497,0,refugee policy,Die Flüchtlingspolitik in Europa führt zu großem Streit zwischen den Ländern.,The refugee policy in Europe leads to great disputes among the countries.
+4156,"das Regime, -",das,B2+,15.7215,0.8326,0,regime,Nach der Revolution wird das Land von einem neuen Regime geführt.,"After the revolution, the country is led by a new regime."
+4162,"die Partnerschaft, -en",die,B2+,15.6722,0.8482,0,partnership,Eine erfolgreiche Partnerschaft erfordert gemeinsame Interessen und Werte.,A successful partnership requires shared interests and values.
+4181,UNO (Vereinte Nationen),die,B2+,15.6229,0.7949,0,UN,Die UNO ist eine Organisation von mehreren Staaten zur Sicherung des Friedens auf der Welt.,The UN is an organization of multiple states for securing peace in the world.
+4195,"das Bundesamt, -̈er",das,B2+,15.5243,0.8147,0,federal office,In Deutschland gibt es mehrere Bundesämter wie zum Beispiel das Bundesamt für Finanzen.,"There are a number of federal offices in Germany, such as the Federal Office of Finance."
+4200,"die Schlacht, -en",die,B2+,15.5243,0.827,0,battle,Die Schlacht bei Waterloo zählt als die letzte Schlacht von Napoleon.,The Battle of Waterloo is considered the last battle of Napoleon.
+4213,"die Vereinigung, -en",die,B2+,15.475,0.8856,0,"organization, association, unification","Eine Vereinigung ist eine Organisation aus Menschen oder Staaten, die ein gemeinsames Ziel verfolgen.",An association is an organization of people or states pursuing a common goal.
+4223,"der Gesetzentwurf, -̈e",der,B2+,15.3765,0.6272,0,"bill, draft law","Bald gibt es einen Gesetzentwurf, der verbietet, dass man Fotos von fremden Menschen verschickt.",Soon there will be a bill prohibiting the sending of photos of strangers.
+4229,"die Richtlinie, -n",die,B2+,15.3765,0.7865,0,guideline,"Es gibt eine neue Richtlinie darüber, wie wir uns bei der Arbeit zu verhalten haben.",There is a new guideline on how we should behave at work.
+4280,ÖVP (Österreichische Volkspartei),die,B2+,15.0808,0.4822,0,ÖVP,Die ÖVP ist eine Partei in Österreich.,The ÖVP is a party in Austria.
+4352,"die Besetzung, -en",die,B2+,14.6865,0.8278,0,"occupation, cast, line-up",Besonders gut gefällt mir die Besetzung des Theaterstücks.,I particularly like the cast of the play.
+4355,FPÖ (Freiheitliche Partei Österreichs),die,B2+,14.6865,0.5383,0,FPÖ,Die Partei FPÖ wurde 1956 in Österreich gegründet.,The FPÖ party was founded in Austria in 1956.
+4374,"der Senat, -e",der,B2+,14.6372,0.724,0,senate,"Die Regierungen in Berlin, Hamburg und Bremen nennt man Senat.","The governments in Berlin, Hamburg, and Bremen are called a Senate."
+4375,die Stasi (Staatssicherheitsdienst),die,B2+,14.6372,0.7636,0,state security service,Die Stasi überwachte in der DDR die Bürger.,The state security service watched the citizens in the GDR.
+4385,"die Ungleichheit, -en",die,B2+,14.5879,0.7374,0,"inequality, dissimilarity","Wegen unserer Ungleichheit denkt niemand, dass wir Verwandte sind.","Because of our dissimilarity, no one thinks we’re relatives."
+4402,"das Gremium, -en",das,B2+,14.4894,0.8357,0,committee,"Es gibt ein Gremium, das entscheidet, wo ich arbeite.",There is a committee that decides where I work.
+4416,"die Wiedervereinigung, -en",die,B2+,14.4401,0.7475,0,reunification,Im Jahr 1990 kam es in Deutschland zur Wiedervereinigung von Ost und West.,The reunification of East and West took place in Germany in 1990.
+4438,"der Kongress, -e",der,B2+,14.3415,0.8726,0,"congress, convention",Ich fahre am Wochenende auf einen Kongress zum Thema Umwelt.,I’m going to a congress on the environment this weekend.
+4581,"die Amtszeit, -en",die,B2+,13.6515,0.7857,0,term of office,Bald ist meine Amtszeit zu Ende und ich brauche einen Nachfolger.,My term of office ends soon and I need a successor.
+4603,"der Gesetzgeber, -",der,B2+,13.553,0.7497,0,"legislator, legislature",Der Gesetzgeber entscheidet über Recht und Ordnung im Land.,The legislator decides on law and order in the country.
+4638,"die Allianz, -en",die,B2+,13.3558,0.8087,0,alliance,In der Politik müssen zwischen den Ländern Allianzen gebildet werden.,"In politics, alliances must be formed between the countries."
+4680,"der Bundesstaat, -en",der,B2+,13.1587,0.8219,0,"confederation, federal state",Ein Bundesstaat vereinigt mehrere Länder.,A confederation combines several states.
+4704,der Brexit,der,B2+,13.0601,0.7063,0,Brexit,Der Austritt des Vereinigten Königreichs aus der Europäischen Union wird in den Medien Brexit genannt.,The withdrawal of the United Kingdom from the European Union is referred to in the media as Brexit.
+4814,"die Überwachung, -en",die,B2+,12.7152,0.8628,0,surveillance,Die Polizei ordnet die Überwachung des Täters an.,The police are ordering surveillance of the perpetrator.
+4822,"die Bekämpfung, -en",die,B2+,12.6166,0.8315,0,"combat, control",Dieses Mittel eignet sich zur Bekämpfung von Insekten.,This product is suitable for controlling insects.
+4828,"der Geheimdienst, -e",der,B2+,12.5673,0.8175,0,secret service,Der Geheimdienst warnt vor Terror.,The secret service warns of terror.
+4830,die NATO,die,B2+,12.5673,0.7683,0,NATO,"Die NATO ist eine internationale, militärische und politische Organisation.",NATO is an international military and political organization.
+4934,"der Rückzug, -̈e",der,B2+,12.1238,0.8899,0,retreat,Die Soldaten treten den Rückzug an.,The soldiers are on the retreat.
+4951,"das Referendum, -en",das,B2+,12.0252,0.7614,0,referendum,"In einer Demokratie hat das Volk die Möglichkeit, über ein Referendum abzustimmen.","In a democracy, the people have the opportunity to vote in a referendum."
+4968,"der Stadtrat, -̈e",der,B2+,11.9759,0.7458,0,city council,Politiker aus verschiedenen Parteien stellen sich für das Amt zum Stadtrat zur Wahl auf.,Politicians from various parties are standing for election to the city council.
+4972,"die Befreiung, -en",die,B2+,11.9266,0.8703,0,liberation,Ich kämpfe für die Befreiung unschuldiger Menschen aus dem Gefängnis.,I fight for the liberation of innocent people from prison.
+5008,"die Zivilisation, -en",die,B2+,11.8281,0.8697,0,civilization,Die Zukunft der menschlichen Zivilisation ist nicht vorhersehbar.,The future of human civilization is not predictable.
