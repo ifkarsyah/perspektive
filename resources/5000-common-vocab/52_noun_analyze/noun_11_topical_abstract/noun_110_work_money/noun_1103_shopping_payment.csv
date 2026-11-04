@@ -1,0 +1,14 @@
+rank,word,pos,level,freq_per_million,dispersion,has_conjugation,definition,example_de,example_en
+334,"der Preis, -e",der,A1,251.149,0.7808,0,"price, prize",Der Erste gewinnt einen Preis.,The first one wins a prize.
+564,Kosten,die (pl),A1,152.8776,0.7647,0,"costs, expenses",Die Kosten sind höher als erwartet.,The costs are higher than expected.
+719,"das Angebot, -e",das,A1,122.9625,0.8764,0,"offer, supply",Der Laden hat ein großes Angebot an frischen Produkten.,The shop has a large supply of fresh products.
+1856,"die Rechnung, -en",die,A1,45.2423,0.9173,0,"bill, calculation, invoice",Die Arztpraxis hat mir gestern eine Rechnung für die Untersuchung geschickt.,The doctor’s office sent me an invoice for the examination yesterday.
+3488,"die Miete, -n",die,A1,20.0091,0.8771,0,rent,Jeden Monat müssen sie die Miete für ihre Wohnung bezahlen.,Every month they have to pay the rent for their apartment.
+1524,"das Steuer, -",die,B1,57.4646,0.8415,0,tax,"Wer Geld verdient, muss Steuern auf sein Einkommen zahlen.",Anyone who earns money has to pay taxes on their income.
+2134,"der Kauf, -̈e",der,B1,38.3426,0.8387,0,purchase,Der Kauf eines neuen Autos ist teuer.,The purchase of a new car is expensive.
+2148,"der Verkauf, -̈e",der,B1,38.1455,0.8435,0,sale,Das Haus steht zum Verkauf.,The house is for sale.
+3314,"die Zahlung, -en",die,B1,21.3398,0.7969,0,payment,Die Bank zieht die Zahlung an die Versicherung immer Ende des Monats ein.,The bank collects the insurance payment always at the end of the month.
+3922,"die Versicherung, -en",die,B1,17.0028,0.8094,0,"insurance, assurance",Die Versicherung trägt die Kosten für den Unfall.,The insurance covers the costs of the accident.
+4300,"die Lieferung, -en",die,B1,14.9822,0.7888,0,delivery,Du erhältst dein Geschenk morgen per Lieferung.,You’ll get your gift tomorrow by delivery.
+4863,"der Einkauf, -̈e",der,B1,12.3702,0.8797,0,"purchase, shopping",Ich bringe den Einkauf vom Supermarkt nach Hause.,I’m taking the shopping home from the supermarket.
+4120,"die Bestellung, -en",die,B2+,15.9679,0.7672,0,"order, reservation",Der Kellner schreibt sich unsere Bestellung auf.,The waiter takes down our order.

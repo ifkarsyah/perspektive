@@ -1,0 +1,27 @@
+rank,word,pos,level,freq_per_million,dispersion,has_conjugation,definition,example_de,example_en
+686,"die Firma, -en",die,A1,128.9751,0.8602,0,"firm, company","Mein Vater ist der Chef einer großen Firma, die Autos baut.",My father is the boss of a big company that makes cars.
+236,"das Unternehmen, -",das,A2,365.5854,0.8122,0,"enterprise, company",Ich gründe mein eigenes Unternehmen.,I am starting my own company.
+476,"der Markt, -̈e",der,A2,174.4145,0.8316,0,market,Jede Woche gibt es hier einen Markt mit Produkten aus der Region.,Every week there is a market with products from the region.
+1492,"der Wettbewerb, -e",der,A2,58.6474,0.831,0,competition,An dem Wettbewerb nehmen Menschen aus aller Welt teil.,People from all over the world take part in the competition.
+1551,"der Service, -s",der,A2,56.3804,0.4903,0,service,Wir garantieren einen guten Service im Restaurant.,We guarantee good service in the restaurant.
+3450,"die Messe, -n",die,A2,20.2555,0.8661,0,"(trade) fair, mass",Jedes Jahr gibt es in Leipzig eine große Messe für Bücher.,Every year there is a large book fair in Leipzig.
+687,"die Wirtschaft, -en",die,B1,128.9751,0.8591,0,"economy, commerce",In der Wirtschaft spielen Politik und Geld eine große Rolle.,Politics and money play an important role in the economy.
+923,"die Produktion, -en",die,B1,94.6737,0.7362,0,production,Die Produktion von elektronischen Fahrzeugen nimmt stark zu.,The production of electronic vehicles is increasing sharply.
+957,"der Betrieb, -e",der,B1,90.8789,0.8886,0,"business, operation",Ich arbeite in einem kleinen Betrieb mit wenigen Mitarbeitern.,I work in a small business with few employees.
+1535,"der Handel, -̈",der,B1,57.0704,0.8376,0,trade,Der internationale Handel ist deutlich gestiegen.,International trade has increased significantly.
+1558,"der Dienst, -e",der,B1,56.0847,0.9225,0,"service, duty",Die Organisation arbeitet im Dienst der Menschenrechte.,The organization works in the service of human rights.
+1699,"der Verlag, -e",der,B1,50.2692,0.8749,0,publishing company,Viele Verlage veröffentlichen immer mehr Bücher.,Many publishing companies are publishing more and more books.
+1703,"die Branche, -n",die,B1,50.0721,0.8531,0,"sector, line of business",Das Arbeiten mit Aktien ist keine sichere Branche.,Working with stocks is not a safe sector.
+1743,"die Industrie, -n",die,B1,48.8893,0.8686,0,industry,Die Industrie ist ein Teil der Wirtschaft.,The industry is part of the economy.
+1768,"die Konkurrenz, -en",die,B1,48.0515,0.8585,0,competition,Die Firma ist ihrer Konkurrenz einen Schritt voraus.,The company is one step ahead of the competition.
+2061,"der Hersteller, -",der,B1,39.9197,0.8331,0,"manufacturer, producer",Der Hersteller des Produkts garantiert eine gute Qualität.,The manufacturer of the product guarantees good quality.
+2192,"die Marke, -n",die,B1,37.2091,0.847,0,"brand, stamp",Nur aufgrund der Marke ist das Produkt so teuer.,The product is so expensive only because of its brand.
+2305,"die Dienstleistung, -en",die,B1,34.8435,0.6981,0,service,"Eine der Dienstleistungen ist es, die Produkte kostenlos zu liefern.",It is one of the services to deliver the products for free.
+2462,"die Werbung, -en",die,B1,32.0343,0.8531,0,advertising,Er macht Werbung für das neue Produkt.,He’s advertising the new product.
+2483,"die Landwirtschaft, -en",die,B1,31.7879,0.8564,0,agriculture,Landwirtschaft und Tourismus sind wichtig für die Wirtschaft der Region.,Agriculture and tourism are important to the region’s economy.
+3132,"der Export, -e",der,B1,23.2126,0.7853,0,export,Die Hälfte unserer Ware ist für den Export bestimmt.,Half of our goods are destined for export.
+4795,"der Import, -e",der,B1,12.7644,0.6829,0,import,Die Regierung entscheidet über den Import von Lebensmitteln in das Land.,The government decides on the import of food into the country.
+3816,"die Airline, -s",die,B2+,17.6928,0.7101,0,airline,Die Airline bietet Flüge von Amsterdam direkt nach Toronto an.,The airline offers direct flights from Amsterdam to Toronto.
+4028,das Business,das,B2+,16.4607,0.6086,0,business,"Hanna und Lina beenden ihr Studium, um ein eigenes Business zu gründen.",Hanna and Lina end their studies in order to found their own business.
+4037,"die Agentur, -en",die,B2+,16.4114,0.8419,0,agency,"Er geht zu der Agentur für Arbeit, um einen Arbeitsplatz zu finden.",He goes to the employment agency to find a job.
+4909,"die Fluggesellschaft, -en",die,B2+,12.2223,0.7667,0,airline,Wir buchen den Flug bei einer anderen Fluggesellschaft.,We book the flight with another airline.

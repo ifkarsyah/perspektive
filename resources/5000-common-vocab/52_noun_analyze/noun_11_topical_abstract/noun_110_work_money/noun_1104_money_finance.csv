@@ -1,0 +1,17 @@
+rank,word,pos,level,freq_per_million,dispersion,has_conjugation,definition,example_de,example_en
+3362,"das Konto, -en",das,A1,20.9455,0.8519,0,account,Ich muss Geld von meinem Konto abheben.,I need to withdraw money from my account.
+1157,"der Haushalt, -e",der,A2,75.0589,0.7492,0,"household, budget",Der Haushalt von Familie Krämer besteht aus den Eltern und drei Kindern.,The Krämer family household consists of the parents and three children.
+2554,"der Kredit, -e",der,A2,30.6544,0.8098,0,"loan, credit","Um ein Auto kaufen zu können, muss er einen Kredit aufnehmen.","To buy a car, he has to take out a loan."
+985,"der Gewinn, -e",der,B1,88.0697,0.7915,0,profit,Die Firma verdoppelte im letzten Jahr ihren Gewinn.,The company doubled its profits in the last year.
+1417,"das Einkommen, -",das,B1,62.8365,0.689,0,income,"Je mehr Geld du verdienst, desto höher ist dein Einkommen.","The more money you earn, the higher your income."
+1967,"der Zins, -en",der,B1,42.4824,0.7321,0,interest,Der Kredit bei meiner Bank hat nur sehr geringe Zinsen.,The interest on the loan from my bank is very low.
+2244,"das Vermögen, -",das,B1,36.1741,0.8429,0,"assets, fortune, ability","Das Gericht entscheidet darüber, wer der Erbe des Vermögens sein wird.",The court decides who will inherit the assets.
+2361,"die Aktie, -n",die,B1,33.6607,0.791,0,share,"Er investiert sein Geld in Aktien, die er später mit Gewinn wieder verkaufen will.","He invests his money in shares, which he later wants to sell at a profit."
+2853,Schulden,die (pl),B1,26.6131,0.8734,0,debt,Die Schulden des Unternehmens betragen mehr als eine Millionen Euro.,The company’s debt amounts to more than one million euros.
+2814,"die Inflation, -en",die,B2+,27.0567,0.4955,0,inflation,Bei der deutschen Inflation 1914 bis 1923 hat das Geld radikal an Wert verloren.,"With the German inflation from 1914 to 1923, the money radically lost value."
+3063,"der Besitz, -e",der,B2+,23.9518,0.9009,0,"property, possession",Das Haus ist im Besitz der Familie.,The house is in the possession of the family.
+3514,"die Währung, -en",die,B2+,19.812,0.7564,0,currency,Der Euro ist die Währung in vielen europäischen Ländern.,The euro is the currency in many European countries.
+3649,"das Budget, -s",das,B2+,18.777,0.6456,0,budget,Die Firma verfügt über ein jährliches Budget von 20 Millionen Euro.,The company has an annual budget of 20 million euros.
+3696,"der Reichtum, -̈er",der,B2+,18.4813,0.8464,0,wealth,"Reichtum und Gesundheit, das wünsche ich dir für die Zukunft!","Wealth and health, that’s what I wish you for the future!"
+3791,"das Eigentum, -e",das,B2+,17.8899,0.8048,0,property,"Wenn etwas mir gehört, dann ist es mein Eigentum.","If something belongs to me, it’s my property."
+4486,Finanzen,die,B2+,14.0951,0.8271,0,"finance, finances",Meine Mutter kümmert sich um die Finanzen der Familie.,My mother takes care of the family finances.

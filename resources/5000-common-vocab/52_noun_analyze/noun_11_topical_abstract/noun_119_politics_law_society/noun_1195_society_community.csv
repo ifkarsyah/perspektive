@@ -1,0 +1,17 @@
+rank,word,pos,level,freq_per_million,dispersion,has_conjugation,definition,example_de,example_en
+899,"der Verein, -e",der,A1,96.9408,0.8021,0,"association, club",Ich bin Mitglied in einem Verein.,I am a member of an association.
+1305,"die Heimat, -en",die,A1,67.7156,0.8901,0,"home, homeland","Obwohl er in Deutschland geboren ist, ist Frankreich seine Heimat.","Although he was born in Germany, France is his home."
+363,"die Gesellschaft, -en",die,B1,230.5485,0.8864,0,"society, company",Jeder ist ein Teil der Gesellschaft.,Everybody is a part of society.
+1113,"die Organisation, -en",die,B1,78.4101,0.8808,0,organization,Sie arbeiten für eine politische Organisation.,They work for a political organization.
+1153,"die Generation, -en",die,B1,75.5024,0.8948,0,generation,Diese Musik ist bei der Generation meiner Mutter sehr beliebt.,This music is very popular with my mother’s generation.
+1282,"die Integration, -en",die,B1,68.8984,0.848,0,integration,Diese Maßnahmen fördern die Integration von neuen Schülern.,These measures promote the integration of new students.
+1440,"die Gemeinde, -n",die,B1,61.5552,0.8465,0,"community, municipality",Zörbig ist eine kleine Gemeinde in der Nähe von Leipzig.,Zörbig is a small community near Leipzig.
+1467,"die Öffentlichkeit, -en",die,B1,60.0274,0.9067,0,public,Morgen geht die Polizei mit ihrer Suche an die Öffentlichkeit.,Tomorrow the police will go public with their search.
+1650,"die Tradition, -en",die,B1,52.0927,0.8858,0,tradition,"Die Tradition, dass man während der Ehe einen Ring trägt, gibt es nicht überall.",The tradition of wearing a ring during marriage is not found everywhere.
+2302,"die Gemeinschaft, -en",die,B1,34.8928,0.902,0,community,"Viele Menschen nutzen soziale Medien, weil sie nach Gemeinschaft suchen.",Many people are using social media because they are looking for community.
+2435,"die Gewerkschaft, -en",die,B1,32.4779,0.843,0,trade union,Gewerkschaften setzen sich für die Arbeitnehmer ein.,Trade unions stand up for the employees.
+4123,"die Migration, -en",die,B1,15.9679,0.8044,0,migration,Die Ursachen für die Migration in ein anderes Land sind ganz unterschiedlich.,The causes of migration to another country vary widely.
+4256,"die Minderheit, -en",die,B1,15.2286,0.8525,0,minority,In Deutschland leben viele religiöse Minderheiten.,Many religious minorities live in Germany.
+2785,die Armut,die,B2+,27.3524,0.7466,0,poverty,Die Armut der Menschen ist ein großes Problem für eine Gesellschaft.,Poverty is a big problem for a society.
+4853,"das Asyl, -e",das,B2+,12.4195,0.7822,0,asylum,"Weil in meiner Heimat Krieg herrscht, muss ich in einem anderen Land Asyl beantragen.","Because of the war in my country, I have to apply for asylum in another country."
+4961,"die Diskriminierung, -en",die,B2+,11.9759,0.7877,0,discrimination,Ich kämpfe gegen die Diskriminierung von Minderheiten.,I am fighting against discrimination against minorities.

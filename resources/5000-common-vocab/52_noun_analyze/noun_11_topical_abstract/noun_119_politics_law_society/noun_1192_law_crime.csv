@@ -1,0 +1,25 @@
+rank,word,pos,level,freq_per_million,dispersion,has_conjugation,definition,example_de,example_en
+797,"die Ordnung, -en",die,A1,108.0788,0.9213,0,"order, tidiness",Anneliese kümmert sich um Ordnung in ihrer Wohnung.,Anneliese takes care of the tidiness of her apartment.
+969,"der Vertrag, -̈e",der,A2,89.7454,0.8121,0,contract,Kai bekommt heute einen neuen Vertrag von seinem Chef.,Kai gets a new contract from his boss today.
+242,"das Recht, -e",das,B1,361.6428,0.9369,0,"right, law",Menschen haben Rechte.,People have rights.
+438,"die Regel, -n",die,B1,187.2775,0.9257,0,rule,Diese Schule hat strenge Regeln.,This school has strict rules.
+578,"das Gesetz, -e",das,B1,149.8713,0.906,0,law,Sie fordern ein neues Gesetz.,They’re demanding a new law.
+595,"der Prozess, -e",der,B1,145.5836,0.8877,0,"trial, process","Ein Buch zu schreiben, ist, ein langer Prozess.",Writing a book is a long process.
+814,"die Freiheit, -en",die,B1,106.0582,0.843,0,freedom,Sie kämpfen für Freiheit.,They fight for freedom.
+1178,"die Tat, -en",die,B1,73.9746,0.9041,0,"deed, action",Der Mann steht für seine Taten vor Gericht.,The man is facing trial for his actions.
+1583,"die Schuld, -en",die,B1,54.8033,0.9207,0,guilt,Es gibt keine Beweise für seine Schuld.,There is no proof of his guilt.
+1654,"der Antrag, -̈e",der,B1,51.9449,0.705,0,application,Er füllt den Antrag aus und reicht ihn bei der zuständigen Behörde ein.,He fills out the application and sends it to the responsible authority.
+1758,"das Urteil, -e",das,B1,48.495,0.8963,0,"sentence, judgment",Der Richter verkündet das Urteil am Ende des Prozesses.,The judge pronounces the sentence at the end of the trial.
+2048,"die Pflicht, -en",die,B1,40.2647,0.8868,0,duty,"Jeder Mensch hat Rechte, aber auch Pflichten dem Staat gegenüber.","Everyone has rights, but also duties toward the state."
+2226,"der Verdacht, -e",der,B1,36.4698,0.8958,0,suspicion,"Die Polizei hat den Verdacht, dass er Waffen besitzt.",The police have a suspicion he possesses weapons.
+2266,"der Mord, -e",der,B1,35.7306,0.8333,0,murder,"Mord ist eine Tat, bei der eine Person mit Absicht getötet wird.",Murder is an act in which a person is killed on purpose.
+2348,"die Strafe, -n",die,B1,34.0057,0.881,0,"punishment, penalty",Als Strafe muss Carmen Geld bezahlen.,"As a penalty, Carmen has to pay money."
+3390,"das Verbot, -e",das,B1,20.7977,0.8808,0,"ban, prohibition","Er muss eine hohe Strafe zahlen, weil er das Verbot von Handys am Steuer ignoriert hat.",He has to pay a large fine because he ignored the ban on mobile phones at the wheel.
+4706,"der Einbruch, -̈e",der,B1,13.0601,0.8756,0,"break-in, burglary, slump, decline",Das Gericht verurteilt ihn wegen Einbruchs und er muss die gestohlenen Sachen zurückgeben.,The court convicts him for burglary and he has to return the stolen property.
+3135,"das Verbrechen, -",das,B2+,23.2126,0.8875,0,crime,Ein Verbrechen hat oft eine Strafe zur Folge.,Crime often results in punishment.
+3303,"die Gerechtigkeit, -en",die,B2+,21.4383,0.8637,0,justice,Der Superheld kämpft für Gerechtigkeit.,The superhero fights for justice.
+3497,"das Menschenrecht, -e",das,B2+,19.9106,0.8308,0,human right,"Menschenrechte sind die grundlegenden Rechte, die jede Person haben sollte.",Human rights are the fundamental rights that every person should have.
+3921,das Unrecht,das,B2+,17.0028,0.9086,0,"injustice, wrong","Er hat Unrecht, wenn er sagt, dass Tiere keinen Schmerz fühlen.",He’s wrong when he says animals don’t feel pain.
+4329,die Haft,die,B2+,14.7851,0.8013,0,"detention, confinement","Weil er illegale Substanzen verkauft, muss er jetzt für drei Jahre in Haft.","Because he sells illegal substances, he is now in confinement for three years."
+4770,"die Verteidigung, -en",die,B2+,12.863,0.8903,0,defense,Die erfolgreiche Verteidigung des Täters bewirkt eine geringe Strafe.,The successful defense of the perpetrator leads to a minor punishment.
+4993,"der Missbrauch, -̈e",der,B2+,11.8773,0.8736,0,abuse,Der Missbrauch von Kindern muss härter bestraft werden.,The abuse of children must be punished more harshly.

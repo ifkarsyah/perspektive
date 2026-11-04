@@ -1,0 +1,22 @@
+rank,word,pos,level,freq_per_million,dispersion,has_conjugation,definition,example_de,example_en
+208,"die Arbeit, -en",die,A1,411.2713,0.9389,0,work,Es liegt noch viel Arbeit vor uns.,We still have a lot of work ahead of us.
+1036,"der Beruf, -e",der,A1,83.9299,0.8603,0,"occupation, job, profession",Sie mag ihren Beruf als Schauspielerin sehr.,She likes her job as an actress very much.
+1115,"der Job, -s",der,A1,78.213,0.8986,0,job,Der Job wird gut bezahlt.,The job is well paid.
+1671,"der Arbeitsplatz, -̈e",der,A1,51.3042,0.8956,0,"workplace, job",Svenjas Arbeitsplatz ist immer sehr sauber und ordentlich.,Svenja’s workplace is always very clean and tidy.
+1691,"die Führung, -en",die,A1,50.6142,0.8568,0,"management, command, leadership",Unter der Führung des neuen Managers steigen die Umsätze wieder.,Sales increase again under the leadership of the new manager.
+3441,"das Praktikum, die Praktika",das,A1,20.3048,0.8019,0,internship,"Mein Praktikum hilft mir, praktische Fähigkeiten zu gewinnen.",My internship helps me to gain practical skills.
+720,"das Projekt, -e",das,A2,122.3218,0.8931,0,project,Das Projekt für die neue Bibliothek geht schnell voran.,The project for the new library is progressing rapidly.
+2919,"der Gehalt, -e",das,A2,25.726,0.8804,0,salary,"Mit dem Gehalt, das ich für meine Arbeit bekomme, möchte ich ein Haus kaufen.","With the salary I get for my work, I want to buy a house."
+1423,"der Auftrag, -̈e",der,B1,62.4916,0.9207,0,"instructions, order, job",Er handelt im Auftrag der Regierung.,He works by order of the government.
+1668,"die Tätigkeit, -en",die,B1,51.4028,0.8826,0,"activity, work","Patrick hat keine geregelte Tätigkeit, er ist arbeitslos.","Patrick has no regular job, he’s unemployed."
+1813,"die Karriere, -n",die,B1,46.7701,0.8647,0,career,Martha möchte sich auf ihre Karriere konzentrieren.,Martha wants to focus on her career.
+2037,"die Lehre, -n",die,B1,40.5111,0.8966,0,"apprenticeship, lesson, doctrine",Niklas macht eine Lehre in der Firma seines Vaters.,Niklas is doing an apprenticeship in his father’s company.
+2094,die Arbeitslosigkeit,die,B1,39.0326,0.6735,0,unemployment,Die Arbeitslosigkeit in Deutschland ist in den letzten Jahren gesunken.,Unemployment in Germany has fallen in recent years.
+2243,"der Lohn, -̈e",der,B1,36.1741,0.7822,0,"wage, pay, reward",Ich bekomme meinen Lohn am Ende des Monats.,I get my wages at the end of the month.
+2557,"die Leitung, -en",die,B1,30.6051,0.8705,0,"management, leadership",Lisabeth übernimmt die Leitung des neuen Projekts.,Lisabeth takes over the management of the new project.
+2766,"die Abteilung, -en",die,B1,27.6481,0.8627,0,department,Die Abteilung für den interkulturellen Austausch schließt nächsten Monat.,The Department of Intercultural Exchange closes next month.
+2998,"die Rente, -n",die,B1,24.8389,0.8077,0,"pension, retirement",Ute is 67 und freut sich auf die Rente.,Ute is 67 and is looking forward to retirement.
+4912,"die Kündigung, -en",die,B1,12.2223,0.7651,0,"termination, cancellation, notice",Mein Chef gab mir die Kündigung und ich bin jetzt arbeitslos.,"My boss handed me my termination, and I’m unemployed now."
+4389,"das Handwerk, -e",das,B2+,14.5387,0.8869,0,"craft, trade","Ich lerne ein Handwerk, damit ich leichter einen Job finden kann.",I’m learning a craft so I can find a job more easily.
+4939,"die Arbeitszeit, -en",die,B2+,12.0745,0.8427,0,working hours,Lehrer fordern eine geringere Arbeitszeit und mehr Lohn.,Teachers demand shorter working hours and higher wages.
+4992,"der Mindestlohn, -̈e",der,B2+,11.8773,0.7748,0,minimum wage,Durch die Einführung des Mindestlohns verdiene ich mehr Geld.,I make more money because of the introduction of the minimum wage.

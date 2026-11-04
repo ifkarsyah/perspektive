@@ -1,0 +1,27 @@
+rank,word,pos,level,freq_per_million,dispersion,has_conjugation,definition,example_de,example_en
+337,"der Staat, -en",der,A1,247.847,0.8847,0,state,Der Staat entscheidet über Gesetze und Steuern.,The state decides on laws and taxes.
+521,"die Regierung, -en",die,A2,163.9171,0.8441,0,"rule, government",Eine Regierung leitet das Land und trifft alle politischen Entscheidungen.,A government leads the country and makes all political decisions.
+588,"die Partei, -en",die,A2,146.9636,0.8216,0,(political) party,Die Partei hofft auf ein gutes Ergebnis bei den Wahlen.,The party hopes for a good result in the elections.
+726,EU (Europäische Union),die,A2,120.7447,0.8162,0,EU,Die EU ist ein Bund aus mehreren Staaten.,The EU is a federation of multiple states.
+539,"die Politik, -en",die,B1,158.4466,0.8891,0,politics,Viele Menschen interessieren sich nicht für Politik.,Many people are not interested in politics.
+799,"die Wahl, -en",die,B1,107.4874,0.9052,0,"choice, election",Viele Frauen müssen eine Wahl zwischen Beruf und Familie treffen.,Many women have to make a choice between work and family.
+1098,"die Macht, -̈e",die,B1,79.1494,0.9113,0,"power, strength","Lisa nutzt ihre Macht, um anderen zu helfen.",Lisa uses her power to help others.
+1111,"die Behörde, -n",die,B1,78.4594,0.8652,0,"department, authorities",Wir müssen diesen Vorfall den Behörden melden.,We have to report this incident to the authorities.
+1345,"die Bundesregierung, -en",die,B1,65.9414,0.7827,0,federal government,Die deutsche Bundesregierung veröffentlicht die Namen der neuen Minister.,The German Federal Government publishes the names of the new ministers.
+1393,"das Amt, -Äer",das,B1,63.8715,0.8656,0,"office, department, function",Bis zu den nächsten Wahlen bleibt der jetzige Präsident im Amt.,The current president remains in office until the next elections.
+1401,"die Demokratie, -n",die,B1,63.4279,0.8118,0,democracy,In einer Demokratie gehen die Macht und Regierung vom Volk aus.,"In a democracy, power and government emanate from the people."
+1584,"die Mehrheit, -en",die,B1,54.6062,0.8667,0,majority,Die Mehrheit der Abgeordneten ist männlich.,The majority of the members of parliament are male.
+1623,"das Parlament, -e",das,B1,53.2755,0.8141,0,parliament,Der Minister der Partei hält eine Rede im Parlament.,The party’s minister gives a speech in parliament.
+1734,"die Nation, -en",die,B1,49.0371,0.8727,0,nation,Jede Nation hat ihre eigene Sprache und ihre eigenen Traditionen.,Each nation has its own language and traditions.
+2082,"der Bundestag, -e",der,B1,39.4268,0.8343,0,Bundestag,Der Bundestag ist das Organ der Bundesrepublik Deutschland und befindet sich in Berlin.,The Bundestag is the body of the Federal Republic of Germany and is located in Berlin.
+2240,"die Revolution, -en",die,B1,36.2727,0.8869,0,revolution,Die Französische Revolution begann 1789.,The French Revolution began in 1789.
+2285,"die Reform, -en",die,B1,35.3363,0.8505,0,reform,Die Regierung plant eine Reform zur Verbesserung der Bildung.,The government is planning a reform to improve education.
+2630,"die Republik, -en",die,B2+,29.6687,0.8877,0,republic,"Eine Republik ist eine Staatsform, bei der die Menschen die Regierung wählen.",A republic is a form of state in which the people elect the government.
+2911,"der Wahlkampf, -̈e",der,B2+,25.9232,0.7629,0,election campaign,Auch bei dieser Wahl kostet der Wahlkampf die Partei viel Geld.,Also in this election the election campaign costs the party a lot of money.
+2994,"die Abstimmung, -en",die,B2+,24.8389,0.8304,0,"vote, coordination",Für die Entscheidung über den Bau der neuen Kirche hat man eine öffentliche Abstimmung durchgeführt.,A public vote was held to decide on the construction of the new church.
+3035,"das Ministerium, -en",das,B2+,24.4446,0.8396,0,"ministry, department",Meine Mutter arbeitet im Ministerium für Arbeit.,My mother works at the Ministry of Labor.
+3464,"die Unabhängigkeit, -en",die,B2+,20.2063,0.7674,0,independence,In den sechziger Jahren erklärten viele afrikanische Staaten ihre Unabhängigkeit.,In the 1960s many African states declared independence.
+3654,"der Skandal, -e",der,B2+,18.777,0.8744,0,scandal,Die Presse freut sich über den Skandal und berichtet über jedes Detail.,The press is pleased with the scandal and reports on every detail.
+3883,"der Rücktritt, -e",der,B2+,17.3478,0.7749,0,"resignation, withdrawal",Ein Rücktritt von dem Vertrag ist nur 48 Stunden lang möglich.,Withdrawal from the contract is only possible for 48 hours.
+3958,"die Kampagne, -n",die,B2+,16.855,0.8336,0,campaign,Die Agentur entwickelt eine sehr erfolgreiche Kampagne für unser neues Produkt.,The agency is developing a very successful campaign for our new product.
+4705,"die Diktatur, -en",die,B2+,13.0601,0.7833,0,dictatorship,Nur noch wenige Länder haben eine Diktatur als Regierung.,Only a few countries still have a dictatorship as a government.
