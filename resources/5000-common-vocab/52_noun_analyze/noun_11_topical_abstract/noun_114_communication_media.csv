@@ -16,10 +16,8 @@ rank,word,pos,level,freq_per_million,dispersion,has_conjugation,definition,examp
 577,"die Aussage, -n",die,A1,150.167,0.8212,0,statement,Sie wartet auf die Reaktionen auf ihre Aussage.,She’s waiting for the reactions to her statement.
 759,"die Rede, -n",die,B1,114.2393,0.8746,0,"speech, talk",Der Präsident hält eine Rede zur aktuellen Lage der Wirtschaft.,The president gives a speech on the current economic situation.
 768,"die Angabe, -n",die,B1,111.3316,0.8708,0,"information, statement",In dieses Feld musst du deine persönlichen Angaben eintragen.,In this field you have to enter your personal information.
-805,das Internet,das,A1,106.8468,0.885,0,internet,Sie verbringt viele Stunden am Computer und sucht nach Wohnungen im Internet.,She spends many hours at the computer and searches for apartments on the internet.
 917,"der Abschnitt, -e",der,B1,95.1666,0.8325,0,"section, paragraph, chapter, passage",Mir gefällt besonders der erste Abschnitt des Textes.,I particularly like the first chapter of the text.
 931,"das Interview, -s",das,A2,93.688,0.7656,0,interview,Der Künstler hat ein Interview zu seinem neuen Projekt.,The artist has an interview about his new project.
-951,Medien,die (pl),B1,91.6181,0.8847,0,media,Die Medien berichten über aktuelle Themen.,The media report on current topics.
 967,"der Absatz, -̈e (Abs.)",der,A2,89.7454,0.6157,0,"section, sales, paragraph, heel",Der letzte Absatz fasst den Text zusammen.,The last paragraph summarizes the text.
 970,"der Ausdruck, -̈e",der,B1,89.4497,0.8963,0,"term, expression",Der Professor erklärt wichtige Ausdrücke am Anfang der Vorlesung.,The professor explains important terms at the beginning of the lecture.
 982,"der Hinweis, -e",der,B1,88.4147,0.91,0,"instruction, hint","Ich gebe dir einen Hinweis, damit du die Aufgabe lösen kannst.",I’ll give you a hint so you can solve the problem.
@@ -34,8 +32,6 @@ rank,word,pos,level,freq_per_million,dispersion,has_conjugation,definition,examp
 1185,"die Erklärung, -en",die,B1,73.3832,0.8604,0,explanation,Ich habe keine Erklärung für diesen Unfall.,I have no explanation for this accident.
 1201,"der Bericht, -e",der,B1,72.5947,0.8925,0,report,Der Bericht wurde einen Tag vor der Wahl veröffentlicht.,The report was published one day before the election.
 1218,"die Nachricht, -en",die,A2,72.0033,0.9192,0,"news, message",Hast du meine Nachricht gelesen?,Did you read my message?
-1378,"der Artikel, -",der,A2,64.315,0.837,0,article,In der Zeitung steht ein interessanter Artikel über Leipzig.,The newspaper has an interesting article about Leipzig.
-1444,das Fernsehen,das,A1,61.5059,0.906,0,television,Das Spiel wird live im Fernsehen übertragen.,The game will be broadcast live on television.
 1478,"die Debatte, -n",die,B1,59.5345,0.8713,0,debate,Nach einer langen Debatte stimmt der Chef dem Vorschlag zu.,"After a long debate, the boss agrees to the proposal."
 1523,"die Kommunikation, -en",die,B1,57.4646,0.8223,0,communication,Kommunikation ist die Basis einer guten Beziehung.,Communication is the basis of a good relationship.
 1545,"das Signal, -e",das,B1,56.6268,0.8719,0,signal,"Ich gebe dir ein Signal, wenn du starten kannst.",I’ll give you a signal when you can start.
@@ -46,15 +42,11 @@ rank,word,pos,level,freq_per_million,dispersion,has_conjugation,definition,examp
 1724,"der Vorwurf, -̈e",der,B1,49.3328,0.8774,0,"reproach, accusation","Meine Frau macht mir den Vorwurf, dass ich ihr nie zuhöre.",The accusation my wife makes is that I never listen to her.
 1737,"die Auflage, -n",die,B1,48.9879,0.8279,0,"edition, condition, plating",Die Bibliothek führt nicht die neueste Auflage des Buches.,The library does not carry the latest edition of the book.
 1792,"die Liste, -n",die,B1,47.4108,0.9284,0,list,"Ich schreibe eine Liste mit Orten, die ich besichtigen möchte, während ich in Paris bin.",I’m writing a list of places I would like to visit while I’m in Paris.
-1843,"die Ausgabe, -n",die,B1,45.538,0.8816,0,"distribution, edition, issue, expense",Ich kaufe die neueste Ausgabe der Zeitung.,I’m buying the latest issue of the paper.
-1963,"das Video, -s",das,B1,42.5317,0.8801,0,video,"Marlies macht ein Video von ihren Kindern, damit sie sich später an den Moment erinnern kann.",Marlies makes a video of her children so she can remember the moment later.
 2016,"die Übersetzung, -en",die,A2,40.9546,0.653,0,translation,Carlos ist für die Übersetzung vom Spanischen ins Deutsche verantwortlich.,Carlos is responsible for the translation from Spanish into German.
 2056,"die Bezeichnung, -en",die,B1,40.1168,0.8554,0,"name, term",Medizinische Bezeichnungen sind meist nicht auf deutsch.,Medical names are usually not in German.
 2072,"die Schrift, -en",die,B1,39.6733,0.7819,0,"script, handwriting",Der Lehrer kann die Schrift von Thomas nicht lesen.,The teacher cannot read Thomas’ handwriting.
 2073,"die Silbe, -n",die,B1,39.6733,0.1973,0,syllable,Das Wort “Liebe” besteht aus zwei Silben.,The word “Liebe” consists of two syllables.
 2119,"die Interpretation, -en",die,B1,38.589,0.7474,0,interpretation,Zu dem Gedicht existieren verschiedene Interpretationen.,There exist various interpretations of the poem.
-2168,"das Netzwerk, -e",das,B1,37.7512,0.8793,0,network,Sie teilt das Video auf verschiedenen sozialen Netzwerken.,She shares the video on several social networks.
-2172,"die E-Mail, -s","die, das",A1,37.6526,0.8857,0,e-mail,Eine E-Mail ist schneller und praktischer als ein Brief.,An e-mail is faster and more practical than a letter.
 2228,"der Witz, -e",der,A2,36.4698,0.8643,0,joke,"Der Witz ist so gut, dass wir immer wieder darüber lachen müssen.",The joke is so good that we have to laugh about it again and again.
 2251,"der Rat, -̈e",der,B1,35.9277,0.8685,0,advice,In diesem Fall holt sich der Professor Rat von einem Kollegen.,"In this case, the professor takes advice from a colleague."
 2318,"die Zeile, -n",die,B1,34.5478,0.8339,0,line,Übersetzer werden pro Zeile bezahlt.,Translators are paid per line.
@@ -69,14 +61,10 @@ rank,word,pos,level,freq_per_million,dispersion,has_conjugation,definition,examp
 2739,"die Adresse, -n",die,A1,28.0423,0.8849,0,address,Sie schreibt die Adresse von Familie Abdoullah auf den Brief.,She writes the address of the Abdoullah family on the letter.
 2740,"der Akzent, -e",der,B2+,28.0423,0.4207,0,accent,"Alienor spricht Spanisch, aber mit einem starken französischen Akzent.","Alienor speaks Spanish, but with a strong French accent."
 2764,"das Medium, -en",das,B2+,27.6974,0.704,0,medium,Viele informieren sich über neue Medien wie das Internet.,Many inform themselves through new media such as the internet.
-2800,"die Presse, -n",die,B1,27.2538,0.8968,0,press,Die Polizei antwortet auf die Fragen der Presse.,The police are responding to questions from the press.
-2816,"die Plattform, -en",die,B2+,27.0567,0.8551,0,platform,"Im Internet gibt es eine Plattform, um Informationen auszutauschen.",There is a platform on the internet for exchanging information.
-2837,"die Webseite, -n",die,A2,26.8103,0.8584,0,website,Seit gestern hat unserer Universität eine neue Webseite.,Since yesterday our university has a new website.
 2860,"die Version, -en",die,B2+,26.5146,0.8742,0,version,Die Firma bringt eine neue Version für das Programm heraus.,The company is releasing a new version for the program.
 2863,"die Einladung, -en",die,A1,26.4653,0.8914,0,invitation,Emma schreibt 50 Einladungen für ihren Geburtstag.,Emma writes 50 invitations for her birthday.
 2905,"der Buchstabe, -n",der,A1,25.9724,0.8877,0,letter,Mein Name besteht aus fünf Buchstaben.,My name consists of five letters.
 2921,"das Motto, -s",das,B2+,25.726,0.8862,0,motto,Die Party findet unter dem Motto “Zwanziger Jahre” statt.,The party takes place under the motto “Twenties”.
-2923,"der Sender, -",der,B1,25.726,0.8765,0,broadcasting station,Wir suchen im Fernsehen einen Sender für Kinder.,We’re looking for a children’s channel on TV.
 2930,"die Beratung, -en",die,B1,25.6275,0.8725,0,"advice, discussion, consultation","Der Arzt gibt mir eine medizinische Beratung, wie ich in Zukunft gesünder leben kann.",The doctor gives me medical advice on how I can live healthier in the future.
 2948,"das Zitat, -e",das,B2+,25.4303,0.86,0,"quotation, quote",Am Anfang des Romans steht ein Zitat von Franz Kafka.,The novel begins with a quotation from Franz Kafka.
 2967,"die Formulierung, -en",die,B2+,25.1839,0.8778,0,formulation,Der Student ändert die Formulierung seiner These.,The student changes the formulation of his thesis.
@@ -90,7 +78,6 @@ rank,word,pos,level,freq_per_million,dispersion,has_conjugation,definition,examp
 3254,"die Veröffentlichung, -en",die,B2+,21.9312,0.84,0,publication,Alle warten auf die Veröffentlichung des letzten Bandes.,Everyone is waiting for the release of the last volume.
 3255,"der Bescheid, -e",der,A2,21.8819,0.8911,0,"information, reply",Der Bescheid über die staatliche Förderung kommt per Post.,The decision on the state subsidy will be sent by mail.
 3332,"die Geste, -n",die,B2+,21.1919,0.8897,0,gesture,"Es ist eine nette Geste, Blumen mitzubringen.",It’s a nice gesture to bring flowers.
-3347,"die Anzeige, -n",die,A1,21.0441,0.876,0,"display, advertisement",Christoph meldet sich auf die Anzeige in der Zeitung.,Christoph answers the advertisement in the newspaper.
 3394,"die Empfehlung, -en",die,B2+,20.7484,0.8904,0,recommendation,Ich kaufe den Computer auf Empfehlung von Robin.,I’m buying the computer on Robin’s recommendation.
 3417,"die Meldung, -en",die,B1,20.5512,0.8992,0,report,Im Radio kommt eine Meldung zu einem großen Unfall.,There’s a report of a major accident on the radio.
 3421,"der Befehl, -e",der,B2+,20.502,0.8646,0,"order, command",Der Soldat erfüllt den Befehl des Offiziers.,The soldier obeys the officer’s order.
@@ -109,12 +96,8 @@ rank,word,pos,level,freq_per_million,dispersion,has_conjugation,definition,examp
 3801,der Unsinn,der,B2+,17.8406,0.8872,0,nonsense,"Was dir deine Lehrer erzählen, ist Unsinn, ich weiß es besser.","What your teachers tell you is nonsense, I know better."
 3819,"der Empfang, -̈e",der,B2+,17.6928,0.888,0,reception,Wir haben hier auf dem Land einen schlechten Empfang.,We have bad reception here in the country.
 3836,"die Gliederung, -en",die,B2+,17.5942,0.7094,0,"structure, organization",Die Gliederung des Textes besteht aus fünf Punkten.,The structure of the text consists of five points.
-3868,"die Schlagzeile, -n",die,B2+,17.4464,0.8196,0,"headline, caption",Die Zeitungen sind voll mit Schlagzeilen über den Skandal.,The newspapers are full of headlines about the scandal.
-3889,der Rundfunk,der,B2+,17.2985,0.6729,0,broadcast,Zum Rundfunk gehören Radio und Fernsehen.,Broadcasting includes radio and television.
 3893,der Quatsch,der,B2+,17.2492,0.8009,0,nonsense,"Was du behauptest, ist absoluter Quatsch!",What you’re claiming is absolute nonsense!
-3905,"die Nachrichtenagentur, -en",die,B2+,17.1014,0.7708,0,news agency,Die Nachrichtenagentur sammelt Informationen und gibt diese an die Presse weiter.,The news agency collects information and passes it on to the press.
 3997,"die Pressekonferenz, -en",die,B2+,16.6578,0.8295,0,press conference,Die Polizei gibt eine Pressekonferenz zu dem aktuellen Fall.,Police are holding a press conference on the current case.
-4072,"die Redaktion, -en",die,B2+,16.2636,0.8813,0,"editorial work, editorial staff",Ich arbeite bei der Redaktion einer Zeitung.,I work at the editorial department of a newspaper.
 4074,"der Spruch, -̈e",der,B2+,16.2636,0.8934,0,"saying, slogan",Auf der Karte zu meinem Geburtstag steht ein schöner Spruch.,There’s a nice saying on my birthday card.
 4125,"die Bitte, -n",die,A1,15.9186,0.9135,0,request,"Ich habe eine Bitte an dich, kannst du mir vielleicht zwei Euro geben?",I have a request for you; can you perhaps give me two euros?
 4226,"die Lektüre, -n",die,B2+,15.3765,0.8537,0,reading,"Bevor ich schlafen gehe, lese ich nur leichte Lektüre.","Before I go to sleep, I only read light reading."
@@ -123,22 +106,18 @@ rank,word,pos,level,freq_per_million,dispersion,has_conjugation,definition,examp
 4319,"die Anmerkung, -en",die,B2+,14.8344,0.8002,0,"note, comment","Danke für deine Anmerkungen zu meiner Arbeit, ich werde einiges ändern.",Thank you for your comments on my work; I’ll make some changes.
 4334,"die Präsentation, -en",die,B1,14.7851,0.8803,0,presentation,Am Montag halte ich eine Präsentation an der Universität.,On Monday I’m giving a presentation at the university.
 4359,die News,die,B2+,14.6865,0.5777,0,news,Ich lese immer die aktuellen News in der Zeitung.,I always read the latest news in the newspaper.
-4360,"das Profil, -e",das,B2+,14.6865,0.8519,0,profile,"Wenn du deinen Kopf drehst, können alle dein schönes Profil sehen.","If you turn your head, everyone can see your beautiful profile."
 4363,"die Stellungnahme, -n",die,B2+,14.6865,0.8306,0,"opinion, statement","Um das Verbrechen aufzuklären, muss ich bei meinem Anwalt eine Stellungnahme abgeben.","To clarify the crime, I have to submit a statement to my lawyer."
 4396,"das Substantiv, -e",das,B2+,14.5387,0.3523,0,noun,"Ein Substantiv bezeichnet eine Person, eine Sache oder ein Tier.","A noun refers to a person, thing, or animal."
 4441,"die Passage, -n",die,B2+,14.3415,0.8449,0,passage,Diese Passage aus dem Buch gefällt mir besonders gut.,I particularly like this passage from the book.
 4455,"die Warnung, -en",die,B2+,14.2922,0.893,0,warning,Ich nehme die Warnungen meines Arztes ernst und werde weniger Alkohol trinken.,I take my doctor’s warnings seriously and will drink less alcohol.
-4458,"die App, -s",die,B2+,14.2429,0.7907,0,app,Manche Apps auf dem Handy sind sehr nützlich im Alltag.,Some apps on your mobile phone are very useful in everyday life.
 4548,"die Behauptung, -en",die,B2+,13.7994,0.9092,0,"claim, statement","Die Behauptung, dass ich lüge, ist falsch.",The claim that I’m lying is wrong.
 4550,"der Diskurs, -e",der,B2+,13.7994,0.7939,0,discourse,Wir haben einen sehr interessanten Diskurs zum Thema Politik.,We have a very interesting discourse on politics.
 4557,"das Verb, -en",das,B2+,13.7994,0.635,0,verb,Das Verb steht in einem einfachen Satz an zweiter Position.,The verb is in second position in a simple sentence.
-4568,"das TV, -s",das,B2+,13.7501,0.8085,0,TV,Heute kommt wieder ein guter Film im TV.,There’s another good movie on TV today.
 4644,"die Handschrift, -en",die,B2+,13.3558,0.6158,0,handwriting,"Du musst deine Handschrift verbessern, ich kann nichts lesen.",You need to improve your handwriting; I can’t read anything.
 4650,"der Dialekt, -e",der,B1,13.3066,0.7232,0,dialect,"Ich spreche nur dann Dialekt, wenn ich bei meinen Eltern bin.",I only speak dialect when I’m with my parents.
 4714,"das Vokabular, -e",das,B2+,13.0601,0.2604,0,vocabulary,Mein Schüler hat ein großes Vokabular der deutschen Sprache.,My student has a great vocabulary in the German language.
 4720,"die Drohung, -en",die,B2+,13.0109,0.8836,0,threat,"Die Drohung, dass er mich schlagen wird, macht mir Angst.",The threat that he’s gonna hit me scares me.
 4722,"der Gruß, -̈e",der,A1,13.0109,0.8754,0,greeting,Richten Sie Ihrer Frau bitte herzliche Grüße aus.,"Give my regards to your wife, please."
-4746,"das Forum, -en",das,B1,12.9123,0.8626,0,"forum, audience, public discussion",Die Webseite bietet ein Forum für registrierte Nutzer.,The website offers a forum for registered users.
 4819,"das Lob, -e",das,B2+,12.6659,0.8482,0,praise,Bei dieser Leistung verdienst du ein Lob.,You deserve praise for this achievement.
 4820,"die Telefonnummer, -n",die,B2+,12.6659,0.8543,0,phone number,Ich habe ein neues Handy und deshalb auch eine neue Telefonnummer.,I have a new mobile phone and therefore a new phone number.
 4843,"der Anhang, -̈e",der,B2+,12.4687,0.7938,0,appendix,Im Anhang meiner Arbeit gibt es weitere Beispiele.,In the appendix of my work there are further examples.
