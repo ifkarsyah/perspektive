@@ -1,0 +1,66 @@
+rank,word,pos,level,freq_per_million,dispersion,has_conjugation,definition,example_de,example_en
+211,"verstehen, versteht, verstand, hat verstanden",verb,A1,402.1046,0.9422,1,to understand,"Rede bitte etwas lauter, ich kann dich nicht verstehen.","Please speak a little louder, I can’t understand you."
+212,"bekommen, bekommt, bekam, hat bekommen",verb,A1,401.9074,0.94,1,"to get, receive",Natascha bekommt ein Fahrrad zu ihrem Geburtstag.,Natascha is getting a bike for her birthday.
+238,"erklären, erklärt, erklärte, hat erklärt",verb,A1,365.0433,0.9484,1,to explain,Max erklärt mir komplizierte Dinge.,Max explains complicated things to me.
+251,"beginnen, beginnt, begann, hat begonnen",verb,A1,350.4554,0.9465,1,to begin,Mit der Arbeit beginne ich erst morgen.,I won’t start work until tomorrow.
+258,"entsprechen, entspricht, entsprach, hat entsprochen",verb,A1,337.9867,0.9146,1,to correspond,Das entspricht unserer Idee.,This corresponds to our idea.
+263,"erzählen, erzählt, erzählte, hat erzählt",verb,A1,331.8755,0.9097,1,to tell,Susanne erzählt mir gerne Geschichten.,Susanne likes to tell me stories.
+310,"vergehen, vergeht, verging, hat vergangen",verb,A1,271.5031,0.8853,1,to pass (time),Die Zeit vergeht sehr schnell.,Time passes very quickly.
+372,"gewinnen, gewinnt, gewann, hat gewonnen",verb,A1,222.7124,0.8912,1,"to win, gain",Er gewinnt den ersten Preis im Wettbewerb.,He wins the first prize in the competition.
+389,"erwarten, erwartet, erwartete, hat erwartet",verb,A1,214.7778,0.9479,1,to expect,Er erwartet eine Nachricht von seiner Schwester.,He’s expecting a message from his sister.
+398,"bedeuten, bedeutet, bedeutete, hat bedeutet",verb,A1,206.2024,0.9595,1,to mean,Was bedeutet dieses Wort?,What does this word mean?
+460,"gehören, gehört, gehörte, hat gehört",verb,A1,179.8357,0.9602,1,to belong,Das Buch gehört mir.,The book belongs to me.
+601,"gefallen, gefällt, gefiel, hat gefallen",verb,A1,144.4008,0.9151,1,to please,Svenjas neuer Freund gefällt ihren Eltern sehr gut.,Svenja’s new boyfriend pleases her parents very much.
+721,"verkaufen, verkauft, verkaufte, hat verkauft",verb,A1,122.2232,0.9169,1,to sell,Hildegart verkauft auf dem Markt frische Eier.,Hildegart sells fresh eggs at the market.
+793,"bezahlen, bezahlt, bezahlte, hat bezahlt",verb,A1,108.2267,0.9286,1,to pay,Wie viel hast du bezahlt?,How much did you pay?
+820,"besuchen, besucht, besuchte, hat besucht",verb,A1,104.974,0.9186,1,to visit,Sie besuchen sich regelmäßig.,They visit each other regularly.
+835,"verdienen, verdient, verdiente, hat verdient",verb,A1,102.8055,0.9232,1,"to earn, deserve","Zusammen verdienen wir genug Geld, um unsere Rechnungen zu bezahlen.",Together we make enough money to pay our bills.
+963,"erlauben, erlaubt, erlaubte, hat erlaubt",verb,A1,90.0903,0.9518,1,"to allow, permit","Oma und Opa erlauben alles, was meine Eltern verbieten.",Grandma and Grandpa allow everything my parents forbid.
+988,"wiederholen, wiederholt, wiederholte, hat wiederholt",verb,A1,87.9712,0.9423,1,to repeat,Können Sie das bitte noch einmal wiederholen?,"Can you repeat that, please?"
+1119,"benutzen, benutzt, benutzte, hat benutzt",verb,A1,78.0652,0.9363,1,to use,"Tanja benutzt ihr Handy, um ihre E-Mails zu lesen.",Tanja uses her phone to read her e-mails.
+1418,"empfehlen, empfiehlt, empfahl, hat empfohlen",verb,A1,62.8365,0.9226,1,to recommend,Welchen Wein können Sie empfehlen?,Which wine can you recommend?
+1657,"bestellen, bestellt, bestellte, hat bestellt",verb,A1,51.5999,0.9051,1,"to order, reserve",Jan und Ludwig bestellen sich eine große Pizza im Restaurant.,Jan and Ludwig order a large pizza in the restaurant.
+1958,"entschuldigen, entschuldigt, entschuldigte, hat entschuldigt",verb,A1,42.6303,0.8602,1,"to excuse, apologize","Paula entschuldigt sich bei ihrer Schwester, weil sie sie geärgert hat.",Paula apologizes to her sister for teasing her.
+3353,"unterschreiben, unterschreibt, unterschrieb, hat unterschrieben",verb,A1,21.0441,0.9087,1,to sign,Miriam unterschreibt den Vertrag für ihren neuen Arbeitsplatz.,Miriam signs the contract for her new job.
+4535,"übernachten, übernachtet, übernachtete, hat übernachtet",verb,A1,13.898,0.845,1,"to stay overnight, spend the night, sleep over",Heute übernachtet Lisa zum ersten Mal bei ihrem Freund Jonas.,Tonight Lisa sleeps over for the first time at her friend Jonas’ house.
+246,"bestehen, besteht, bestand, hat bestanden",verb,A2,355.9259,0.9363,1,"to exist, insist, pass (an exam)",Hoffentlich besteht Anja die Prüfung.,Hopefully Anja passes the exam.
+247,"versuchen, versucht, versuchte, hat versucht",verb,A2,354.6445,0.9484,1,"to try, attempt","Ich versuche, die Prüfung zu bestehen.",I’m trying to pass the exam.
+309,"erreichen, erreicht, erreichte, hat erreicht",verb,A2,272.5874,0.9625,1,"to achieve, reach",Ich erreiche alle meine Ziele.,I achieve all my goals.
+313,"verlieren, verliert, verlor, hat verloren",verb,A2,269.3347,0.9439,1,to lose,Johann verliert immer beim Fußball.,Johann always loses at soccer.
+387,"vergleichen, vergleicht, verglich, hat verglichen",verb,A2,215.7634,0.8018,1,to compare,"Meine Oma vergleicht immer die Preise, bevor sie ein Produkt kauft.",My grandmother always compares prices before she buys a product.
+396,"erinnern, erinnert, erinnerte, hat erinnert",verb,A2,209.9972,0.925,1,to remind,Mein Handy erinnert mich an den Termin um 14 Uhr.,My phone reminds me of the appointment at 2:00.
+405,"bezeichnen, bezeichnet, bezeichnete, hat bezeichnet",verb,A2,203.5411,0.9056,1,"to call, name",Ärzte werden auch als Doktoren bezeichnet.,Physicians are also called doctors.
+408,"erscheinen, erscheint, erschien, ist erschienen",verb,A2,201.964,0.9172,1,to appear,Auf dem Bildschirm erscheint ein seltsames Symbol.,A strange symbol appears on the screen.
+413,"ergeben, ergibt, ergab, hat ergeben",verb,A2,199.9927,0.8744,1,"to result in, produce",Die Untersuchung ergibt keinen Beweis für seine Schuld.,The investigation results in no evidence of his guilt.
+416,"betreffen, betrifft, betraf, hat betroffen",verb,A2,199.5491,0.931,1,"to affect, concern",Die Frage nach der Zukunft dieser Welt betrifft uns alle.,The question of the future of this world concerns all of us.
+419,"bestimmen, bestimmt, bestimmte, hat bestimmt",verb,A2,198.2185,0.8824,1,"to decide, determine","Du bestimmst, welchen Film wir uns ansehen.",You decide what movie we are going to watch.
+435,"beschreiben, beschreibt, beschrieb, hat beschrieben",verb,A2,189.1503,0.9017,1,to describe,"Bitte beschreibe mir dein Haus, damit ich es finde.",Please describe your house so I can find it.
+485,"betrachten, betrachtet, betrachtete, hat betrachtet",verb,A2,171.3097,0.907,1,"to look at, consider",Ich betrachte diese Aussage als nicht relevant.,I do not consider this statement relevant.
+500,"verändern, verändert, veränderte, hat verändert",verb,A2,167.4655,0.9399,1,to change,Wir wollen die Welt verändern.,We want to change the world.
+584,"vergessen, vergisst, vergaß, hat vergessen",verb,A2,147.9,0.9104,1,to forget,"Er vergisst immer, frische Milch zu kaufen.",He always forgets to buy fresh milk.
+591,"berichten, berichtet, berichtete, hat berichtet",verb,A2,146.2243,0.8876,1,to report,Die Zeitungen berichten von einem Unfall.,The newspapers report an accident.
+648,"erfolgen, erfolgt, erfolgte, ist erfolgt",verb,A2,134.1991,0.8604,1,"to take place, occur",Danach erfolgt die Präsentation des Themas.,"After that, the presentation of the topic will occur."
+782,"betonen, betont, betonte, hat betont",verb,A2,109.6559,0.8399,1,to stress,Bei dem Wort “Sommer” solltest du die erste Silbe betonen.,In the word “Sommer” you should emphasize the first syllable.
+809,"überzeugen, überzeugt, überzeugte, hat überzeugt",verb,A2,106.6989,0.93,1,to convince,Tina überzeugt ihren Chef von ihrer Idee.,Tina convinces her boss of her idea.
+858,"betragen, beträgt, betrug, hat betragen",verb,A2,101.2777,0.8543,1,to amount,Die Kosten für die gesamte Veranstaltung betragen mehrere tausend Euro.,The costs for the entire event amount to several thousand euros.
+878,"beziehen, bezieht, bezog, hat bezogen",verb,A2,99.0107,0.9021,1,"to refer, put, get",In ihrem Artikel bezieht sie sich auf die politische Situation.,In her article she refers to the political situation.
+886,"untersuchen, untersucht, untersuchte, hat untersucht",verb,A2,98.3207,0.8913,1,to examine,Sie untersuchen die Entwicklung des neuen Virus.,They examine the development of the new virus.
+915,"bestätigen, bestätigt, bestätigte, hat bestätigt",verb,A2,95.5115,0.9122,1,"to confirm, endorse",Bitte bestätigen Sie Ihre Adresse.,Please confirm your address.
+971,"geraten, gerät, geriet, ist geraten",verb,A2,89.4497,0.9345,1,to get into,"Weil wir andere Meinungen haben, geraten wir in einen Streit.","Because we have different opinions, we get into a fight."
+980,"ermöglichen, ermöglicht, ermöglichte, hat ermöglicht",verb,A2,88.5133,0.9032,1,"to enable, allow","Ein Computer ermöglicht es mir, im Internet zu arbeiten.",A computer allows me to work on the internet.
+1096,"verletzen, verletzt, verletzte, hat verletzt",verb,A2,79.248,0.8753,1,to injure,Er verletzt sich die Hand mit einem Messer.,He injures his hand with a knife.
+1320,"verbieten, verbietet, verbot, hat verboten",verb,A2,67.0256,0.9335,1,"to forbid, prohibit","Tina verbietet ihren Kindern, Spiele auf dem Computer zu spielen.",Tina forbids her children to play games on the computer.
+1374,"begründen, begründet, begründete, hat begründet",verb,A2,64.6107,0.9071,1,to justify,"Ich möchte, dass du deine Meinung begründest.",I want you to justify your opinion.
+1405,"beenden, beendet, beendete, hat beendet",verb,A2,63.2801,0.921,1,to end,"Wenn du nicht glücklich bist, musst du die Beziehung zu Luke beenden.","If you’re not happy, you have to end the relationship with Luke."
+1765,"übersetzen, übersetzt, übersetzte, hat übersetzt",verb,A2,48.15,0.7771,1,to translate,Sie hat mehrere spanische Romane ins Deutsche übersetzt.,She has translated several Spanish novels into German.
+1865,"beantworten, beantwortet, beantwortete, hat beantwortet",verb,A2,45.0452,0.9428,1,to answer,Er beantwortet meine Frage mit einem Ja.,He answers my question with a yes.
+1898,"unterhalten (sich), unterhält, unterhielt, hat unterhalten",verb,A2,44.1088,0.9092,1,"to amuse oneself, chat",Bärbel und Ronny unterhalten sich über politische Themen.,Bärbel and Ronny are chatting about political issues.
+1990,"vereinbaren, vereinbart, vereinbarte, hat vereinbart",verb,A2,41.6446,0.8573,1,to agree,"Ludwig und Christian vereinbaren, sich um acht Uhr an der Universität zu treffen.",Ludwig and Christian agree to meet at the university at eight o’clock.
+1991,"verschieben, verschiebt, verschob, hat verschoben",verb,A2,41.6446,0.8746,1,"to move, postpone",Elisabeth verschiebt den Termin von Mittwoch auf Freitag.,Elisabeth postpones the appointment from Wednesday to Friday.
+2145,"verpassen, verpasst, verpasste, hat verpasst",verb,A2,38.1948,0.8422,1,to miss,"Thomas verpasst den Anruf, weil er in der Bibliothek ist.",Thomas is missing the call because he’s in the library.
+2278,"unternehmen, unternimmt, unternahm, hat unternommen",verb,A2,35.4842,0.9278,1,"to undertake, do, take action","Sarah möchte im Urlaub am Strand liegen, während Erik lieber etwas unternehmen möchte.","Sarah wants to lie on the beach on vacation, while Erik would rather do something."
+2465,"verlieben (sich), verliebt, verliebte, hat verliebt",verb,A2,31.985,0.8278,1,to fall in love,Robin und Charly verliebten sich auf den ersten Blick.,Robin and Charly fell in love at first sight.
+2701,"beraten, berät, beriet, hat beraten",verb,A2,28.5845,0.8887,1,"to advise, discuss","Als Verkäuferin ist es meine Aufgabe, meine Kunden zu beraten.",As a saleswoman it is my job to advise my customers.
+2882,"bedanken (sich), bedankt, bedankte, hat bedankt",verb,A2,26.2681,0.8345,1,to thank,Laura bedankt sich bei ihren Gästen für die vielen Geschenke.,Laura thanks her guests for the many gifts.
+3775,"bewerben (sich), bewirbt, bewarb, hat beworben",verb,A2,17.9392,0.8718,1,to apply,Sie können sich noch bis morgen für den Job bewerben.,You can apply for the job until tomorrow.
+4249,"beschweren, beschwert, beschwerte, hat beschwert",verb,A2,15.2286,0.9085,1,"to weight, complain","Meine Nachbarn beschweren sich regelmäßig darüber, dass wir zu laut sind.",My neighbors regularly complain that we’re too loud.

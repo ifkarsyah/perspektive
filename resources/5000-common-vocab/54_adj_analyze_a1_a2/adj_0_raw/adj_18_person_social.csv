@@ -1,0 +1,37 @@
+rank,word,pos,level,freq_per_million,dispersion,has_conjugation,definition,example_de,example_en
+
+1565,nett,adj,A2,55.789,0.8823,0,nice,Bernadette ist eine wirklich nette Person.,Bernadette is a really nice person.
+897,lieb,adj,A1,97.0393,0.84,0,"dear, kind",Er ist ein sehr liebes Kind.,He’s a very dear child.
+3854,sympathisch,adj,A2,17.4957,0.8241,0,sympathetic,"Unser neuer Chef ist ein sympathischer Mensch, mit dem man bestimmt gut zusammen arbeiten kann.",Our new boss is a sympathetic person with whom you can certainly work well together.
+
+2532,klug,adj,A2,30.9994,0.9128,0,clever,Mia ist ein kluges Kind.,Mia’s a clever kid.
+2004,blöd,adj,A2,41.2996,0.8407,0,"stupid, dumb",Es gibt keine blöden Fragen.,There are no stupid questions.
+
+4856,faul,adj,A2,12.4195,0.8882,0,lazy,Heute mache ich nichts und liege nur faul im Bett.,Today I don’t do anything and I’m just lying lazily in bed.
+2299,sportlich,adj,A2,34.9913,0.8235,0,athletic,Er präsentiert seinen sportlichen Körper am Strand.,He presents his athletic body on the beach.
+790,aktiv,adj,A2,108.7195,0.8824,0,active,Alte Menschen sollten aktiv bleiben.,Old people should stay active.
+
+1375,streng,adj,A2,64.4629,0.951,0,strict,In der Schule haben wir eine strenge Lehrerin.,At school we have a strict teacher.
+1641,vorsichtig,adj,A2,52.5363,0.9114,0,"cautious, careful",Sei vorsichtig mit dem teuren Glas!,Be careful with the expensive glass!
+
+1475,arm,adj,A1,59.6824,0.9133,0,poor,"Sie ist zu arm, um Essen für ihre Kinder zu kaufen.",She’s too poor to buy food for her children.
+1568,reich,adj,A2,55.5426,0.931,0,"rich, abundant",Reiche Menschen sind nicht unbedingt immer glücklich.,Rich people aren’t necessarily always happy.
+
+319,bekannt,adj,A1,261.4,0.9553,0,"well-known, famous",Leipzig ist eine bekannte Stadt in Deutschland.,Leipzig is a well-known city in Germany.
+1873,beliebt,adj,A2,44.7495,0.8756,0,popular,Der Professor ist bei seinen Studenten sehr beliebt.,The professor is very popular among his students.
+
+3076,verheiratet,adj,A1,23.9025,0.8768,0,married,Mein Bruder und seine Frau sind glücklich verheiratet.,My brother and his wife are happily married.
+2777,arbeitslos,adj,A1,27.4509,0.8608,0,unemployed,"Seit die Firma geschlossen hat, bin ich arbeitslos.",I’ve been unemployed since the company closed.
+2541,selbstständig,adj,A1,30.8515,0.8896,0,"independent, self-employed",Frau Paget arbeitet als selbstständige Journalistin.,Mrs. Paget works as a self- employed journalist.
+
+1388,herzlich,adj,A1,64.0686,0.7389,0,"cordial, warm",Meine Oma ist eine liebe und herzliche Frau.,My grandma is a dear and warm woman.
+2519,willkommen,adj,A1,31.2458,0.8586,0,welcome,Familie Müller heißt ihre Gäste willkommen.,The Müller family welcomes their guests.
+
+3894,romantisch,adj,A2,17.2492,0.8425,0,romantic,"Stefan kauft Blumen und Kerzen, um für seine Frau einen romantischen Abend vorzubereiten.",Stefan buys flowers and candles to prepare a romantic evening for his wife.
+
+859,fremd,adj,A1,101.2777,0.9214,0,"foreign, strange",Sie zieht in eine fremde Stadt.,She’s moving to a foreign city.
+
+1566,freundlich,adj,A2,55.7397,0.9086,0,"kind, nice, friendly","Herr Schulz, unser neuer Lehrer, ist sehr freundlich.","Mr. Schulz, our new teacher, is very kind."
+3121,intelligent,adj,A2,23.3604,0.869,0,intelligent,Meine Schwester ist sehr intelligent.,My sister is very intelligent.
+2270,dumm,adj,A2,35.5827,0.8851,0,stupid,Es gibt keine dummen Fragen.,There are no stupid questions.
+1379,berühmt,adj,A2,64.315,0.9161,0,famous,Bald ist Christoph ein berühmter Schauspieler.,Soon Christoph will be a famous actor.

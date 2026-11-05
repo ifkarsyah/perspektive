@@ -1,0 +1,21 @@
+rank,word,pos,level,freq_per_million,dispersion,has_conjugation,definition,example_de,example_en
+
+192,warum,adv,A1,447.7411,0.9159,0,why,Warum hast du mich angerufen?,Why did you call me?
+229,deshalb,adv,A2,379.927,0.929,0,therefore,"Es gibt bald Regen, deshalb sollten wir ins Haus gehen.","It’s going to rain; therefore, we should go into the house."
+71,also,adv,A1,1568.2522,0.8418,0,so,Das ist also der neue Schüler.,"So, this is the new student."
+
+73,doch,adv,A1,1539.1749,0.9253,0,"however, but","Heute scheint die Sonne, doch ich bleibe zu Hause.","Today the sun is shining, but I’m staying at home."
+336,sonst,adv,A2,248.0934,0.928,0,otherwise,"Maggie isst kein Brot, sonst wird ihr schlecht.","Maggie doesn’t eat bread, otherwise she’ll get sick."
+
+424,außerdem,adv,A2,195.8036,0.9549,0,"besides, in addition","Es ist zu früh zum Schlafen, außerdem bin ich noch nicht müde.","It is too early to sleep, and besides, I am not tired yet."
+
+615,jedenfalls,adv,A2,141.3452,0.9154,0,in any case,"Es ist jedenfalls klar, dass Sandra eine gute Studentin ist.",It is in any case clear that Sandra is a good student.
+955,immerhin,adv,A2,91.1746,0.932,0,after all,"Immerhin kann die Polizei verhindern, dass nicht mehr Menschen verletzt werden.","After all, the police can prevent more people from being injured."
+
+792,somit,adv,A2,108.3745,0.8876,0,"consequently, therefore",Ihre Kollegen sprechen kein Englisch und somit muss sie ihr Deutsch verbessern.,Her colleagues don’t speak English and consequently she has to improve her German.
+542,zudem,adv,A2,157.7567,0.8964,0,"moreover, furthermore, besides",Heute ist es kalt und zudem gibt es Regen.,Today it is cold and furthermore there is rain.
+717,dennoch,adv,A2,123.9974,0.9312,0,nevertheless,"Ich lerne viel für die Prüfung, dennoch bestehe ich sie vielleicht nicht.","I’m studying a lot for the exam, nevertheless I might not pass it."
+672,"beispielsweise, bspw.",adv,A2,131.4393,0.9152,0,"for example, such as","Daniela spricht verschiedene europäische Sprachen, wie beispielsweise Französisch.","Daniela speaks several European languages, such as French."
+827,weiterhin,adv,A2,103.9883,0.9315,0,"still, furthermore",Es gibt weiterhin Probleme mit der neuen Technik.,There are still problems with the new technology.
+833,zugleich,adv,A2,103.1012,0.9049,0,"both, at the same time",Unser Lehrer kann nett und streng zugleich sein.,Our teacher can be nice and strict at the same time.
+608,wobei,adv,A2,142.4788,0.9036,0,"whereby, at what, whereat",Wobei hast du dir den Fuß gebrochen?,Whereby did you break your foot?

@@ -1,0 +1,16 @@
+rank,word,pos,level,freq_per_million,dispersion,has_conjugation,definition,example_de,example_en
+211,"verstehen, versteht, verstand, hat verstanden",verb,A1,402.1046,0.9422,1,to understand,"Rede bitte etwas lauter, ich kann dich nicht verstehen.","Please speak a little louder, I can’t understand you."
+310,"vergehen, vergeht, verging, hat vergangen",verb,A1,271.5031,0.8853,1,to pass (time),Die Zeit vergeht sehr schnell.,Time passes very quickly.
+721,"verkaufen, verkauft, verkaufte, hat verkauft",verb,A1,122.2232,0.9169,1,to sell,Hildegart verkauft auf dem Markt frische Eier.,Hildegart sells fresh eggs at the market.
+835,"verdienen, verdient, verdiente, hat verdient",verb,A1,102.8055,0.9232,1,"to earn, deserve","Zusammen verdienen wir genug Geld, um unsere Rechnungen zu bezahlen.",Together we make enough money to pay our bills.
+247,"versuchen, versucht, versuchte, hat versucht",verb,A2,354.6445,0.9484,1,"to try, attempt","Ich versuche, die Prüfung zu bestehen.",I’m trying to pass the exam.
+313,"verlieren, verliert, verlor, hat verloren",verb,A2,269.3347,0.9439,1,to lose,Johann verliert immer beim Fußball.,Johann always loses at soccer.
+387,"vergleichen, vergleicht, verglich, hat verglichen",verb,A2,215.7634,0.8018,1,to compare,"Meine Oma vergleicht immer die Preise, bevor sie ein Produkt kauft.",My grandmother always compares prices before she buys a product.
+500,"verändern, verändert, veränderte, hat verändert",verb,A2,167.4655,0.9399,1,to change,Wir wollen die Welt verändern.,We want to change the world.
+584,"vergessen, vergisst, vergaß, hat vergessen",verb,A2,147.9,0.9104,1,to forget,"Er vergisst immer, frische Milch zu kaufen.",He always forgets to buy fresh milk.
+1096,"verletzen, verletzt, verletzte, hat verletzt",verb,A2,79.248,0.8753,1,to injure,Er verletzt sich die Hand mit einem Messer.,He injures his hand with a knife.
+1320,"verbieten, verbietet, verbot, hat verboten",verb,A2,67.0256,0.9335,1,"to forbid, prohibit","Tina verbietet ihren Kindern, Spiele auf dem Computer zu spielen.",Tina forbids her children to play games on the computer.
+1990,"vereinbaren, vereinbart, vereinbarte, hat vereinbart",verb,A2,41.6446,0.8573,1,to agree,"Ludwig und Christian vereinbaren, sich um acht Uhr an der Universität zu treffen.",Ludwig and Christian agree to meet at the university at eight o’clock.
+1991,"verschieben, verschiebt, verschob, hat verschoben",verb,A2,41.6446,0.8746,1,"to move, postpone",Elisabeth verschiebt den Termin von Mittwoch auf Freitag.,Elisabeth postpones the appointment from Wednesday to Friday.
+2145,"verpassen, verpasst, verpasste, hat verpasst",verb,A2,38.1948,0.8422,1,to miss,"Thomas verpasst den Anruf, weil er in der Bibliothek ist.",Thomas is missing the call because he’s in the library.
+2465,"verlieben (sich), verliebt, verliebte, hat verliebt",verb,A2,31.985,0.8278,1,to fall in love,Robin und Charly verliebten sich auf den ersten Blick.,Robin and Charly fell in love at first sight.

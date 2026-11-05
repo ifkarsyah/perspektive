@@ -1,0 +1,15 @@
+rank,word,pos,level,freq_per_million,dispersion,has_conjugation,definition,example_de,example_en
+49,"geben, gibt, gab, hat gegeben",verb,A1,2240.4306,0.9655,1,to give,Timo gibt dem Verkäufer die Bücher.,Timo gives the books to the seller.
+79,"sehen, sieht, sah, hat gesehen",verb,A1,1358.3042,0.9326,1,to see,"Seit er die neue Brille hat, kann er besser sehen.","Since he got the new glasses, he can see better."
+126,"heißen, heißt, hieß, hat geheißen",verb,A1,717.6672,0.961,1,to be called,Sein Freund heißt Markus.,His friend is called Markus.
+155,"halten, hält, hielt, hat gehalten",verb,A1,556.4607,0.9454,1,"to stop, hold",Er hält ein Buch in seinen Händen.,He’s holding a book in his hands.
+305,"lesen, liest, las, hat gelesen",verb,A1,279.2899,0.9244,1,to read,Ich lese viele Bücher.,I read a lot of books.
+323,"essen, isst, aß, hat gegessen",verb,A1,259.6751,0.8991,1,to eat,Morgen Abend essen wir Brot.,"Tomorrow evening, we will eat bread."
+679,"schlafen, schläft, schlief, hat geschlafen",verb,A1,130.1086,0.8738,1,to sleep,Hast du gut geschlafen?,Did you sleep well?
+1945,"laden, lädt, lud, hat geladen",verb,A1,42.9753,0.9096,1,to load,Kräftige Männer laden die Ware auf den LKW.,Strong men are loading the goods onto the truck.
+271,"tragen, trägt, trug, hat getragen",verb,A2,323.6451,0.9507,1,"to carry, wear",Ich trage eine Hose.,I’m wearing pants.
+285,"schaffen, schafft, schuf, hat geschaffen",verb,A2,304.671,0.9378,1,"to manage, create",Magdalena schafft ihre Prüfung nicht.,Magdalena won’t manage to pass the exam.
+530,"rufen, ruft, rief, hat gerufen",verb,A2,160.5658,0.8918,1,to call,"Die Mutter ruft laut die Kinder, damit sie wieder in das Haus gehen.",The mother calls out loudly to the children to go back in the house.
+2315,"waschen, wäscht, wusch, hat gewaschen",verb,A2,34.5971,0.8615,1,to wash,"Katja wäscht ihre Hände, bevor sie etwas isst.",Katja washes her hands before she eats anything.
+2409,"raten, rät, riet, hat geraten",verb,A2,32.9214,0.9057,1,"to advise, guess","Er weiß die Antwort nicht, also muss er raten.","He doesn’t know the answer, so he has to guess."
+4640,"backen, bäckt, buk, hat gebacken",verb,A2,13.3558,0.8272,1,to bake,Mein Bruder kocht und backt gerne für unsere Familie.,My brother likes to cook and bake for our family.

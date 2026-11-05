@@ -1,0 +1,11 @@
+rank,word,pos,level,freq_per_million,dispersion,has_conjugation,definition,example_de,example_en
+
+472,weiß,adj,A2,175.6466,0.9099,0,white,Der Sand ist so weiß wie Schnee.,The sand is as white as snow.
+474,schwarz,adj,A2,174.9566,0.9179,0,black,Das Gegenteil von weiß ist schwarz.,The opposite of white is black.
+
+477,rot,adj,A2,173.9217,0.9319,0,red,Blut ist rot.,Blood is red.
+682,grün,adj,A2,129.4186,0.9209,0,green,Die Bäume sind grün.,The trees are green.
+948,blau,adj,A2,92.0124,0.9181,0,blue,Die Kinder malen einen blauen Himmel und ein blaues Meer.,The children paint a blue sky and a blue sea.
+
+1817,bunt,adj,A2,46.573,0.9021,0,colorful,Es gibt viele bunte Gemälde in der Ausstellung.,There are many colorful paintings at the exhibition.
+3492,blond,adj,A2,19.9598,0.8651,0,blond,"Seine Haare sind nicht braun, sondern blond.","His hair isn’t brown, it’s blond."

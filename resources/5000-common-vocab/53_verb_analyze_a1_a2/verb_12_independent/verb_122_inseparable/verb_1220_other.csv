@@ -1,0 +1,3 @@
+rank,word,pos,level,freq_per_million,dispersion,has_conjugation,definition,example_de,example_en
+988,"wiederholen, wiederholt, wiederholte, hat wiederholt",verb,A1,87.9712,0.9423,1,to repeat,Können Sie das bitte noch einmal wiederholen?,"Can you repeat that, please?"
+1418,"empfehlen, empfiehlt, empfahl, hat empfohlen",verb,A1,62.8365,0.9226,1,to recommend,Welchen Wein können Sie empfehlen?,Which wine can you recommend?

@@ -1,0 +1,19 @@
+rank,word,pos,level,freq_per_million,dispersion,has_conjugation,definition,example_de,example_en
+
+84,neu,adj,A1,1213.2134,0.9421,0,new,"Ich habe eine neue Tasche, weil die alte kaputt ist.",I got a new bag because the old one’s broken.
+138,alt,adj,A1,637.2364,0.9438,0,old,Wie alt bist du?,How old are you?
+199,jung,adj,A1,427.2392,0.9422,0,young,"Sie war noch jung, als sie Kinder bekam.",She was still young when she had children.
+
+366,früh,adj,A2,228.6264,0.9496,0,early,Ich muss früh aufstehen.,I have to get up early.
+4648,pünktlich,adj,A1,13.3558,0.8915,0,"punctual, on time","Wenn du nicht pünktlich bist, verpasst du den Zug.","If you’re not punctual, you’ll miss the train."
+169,spät,adj,A1,514.2247,0.9496,0,late,Es ist schon spät.,It’s getting late.
+
+203,schnell,adj,A1,416.1011,0.9589,0,fast,Mario kann sehr schnell rennen.,Mario can run very fast.
+526,langsam,adj,A1,162.7836,0.9249,0,slow,Das Auto fährt langsam um die Kurve.,The car is going around the bend slowly.
+
+568,aktuell,adj,A2,151.7934,0.9096,0,current,Sie informieren sich über die aktuellen Entwicklungen.,They are informing themselves about current developments.
+890,künftig,adj,A2,98.025,0.8791,0,future,Mein künftiger Job sollte interessant sein.,My future job should be interesting.
+883,ehemalig,adj,A2,98.715,0.9029,0,former,Er mag den ehemaligen Präsidenten mehr als den jetzigen.,He likes the former president more than the current president.
+
+747,modern,adj,A2,116.4571,0.9136,0,modern,Die Touristen gehen gerne in das Museum für moderne Kunst.,The tourists like to go to the Museum of Modern Art.
+882,klassisch,adj,A2,98.8135,0.8809,0,classical,Sie hören klassische Musik.,They listen to classical music.

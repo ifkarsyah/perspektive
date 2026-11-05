@@ -1,0 +1,17 @@
+rank,word,pos,level,freq_per_million,dispersion,has_conjugation,definition,example_de,example_en
+58,"machen, macht, machte, hat gemacht",verb,A1,1971.096,0.9287,1,"to do, make",Die Schüler machen ihre Aufgaben.,The students do their tasks.
+135,"stellen, stellt, stellte, hat gestellt",verb,A1,652.1693,0.9708,1,"to place, set, put",Er stellt sein Fahrrad in den Garten.,He puts his bike in the garden.
+293,"suchen, sucht, suchte, hat gesucht",verb,A1,292.0051,0.9548,1,"to search, look for",Lisett sucht einen guten Job.,Lisett’s looking for a good job.
+352,"legen, legt, legte, hat gelegt",verb,A1,238.631,0.9322,1,"to lay, put",Mia legt das Buch auf den Tisch.,Mia puts the book on the table.
+508,"öffnen, öffnet, öffnete, hat geöffnet",verb,A1,166.1349,0.8995,1,to open,Sie öffnet die Tür.,She opens the door.
+547,"holen, holt, holte, hat geholt",verb,A1,156.5739,0.9095,1,"to get, fetch",Ich muss ein Buch aus der Bibliothek holen.,I have to get a book from the library.
+724,"kriegen, kriegt, kriegte, hat gekriegt",verb,A1,121.3854,0.8452,1,"to get, receive",Das Restaurant kriegt positive Bewertungen von seinen Gästen.,The restaurant gets positive ratings from its guests.
+924,"drücken, drückt, drückte, hat gedrückt",verb,A1,94.5259,0.8931,1,"to press, push","Drücken Sie hier, um das Programm zu starten.",Press here to start the program.
+928,"schicken, schickt, schickte, hat geschickt",verb,A1,93.9837,0.929,1,to send,Kurts Vater schickt ihm jedes Jahr zu Weihnachten einen Brief.,Kurt’s father sends him a letter every Christmas.
+228,"setzen, setzt, setzte, hat gesetzt",verb,A2,381.4548,0.9652,1,"to set, place, put",Er setzt das Kind auf den Stuhl.,He puts the child in the chair.
+590,"hängen, hängt, hängte, hat gehängt",verb,A2,146.8157,0.9464,1,to hang,Er hängt das Bild an die Wand.,He hangs the picture on the wall.
+906,"teilen, teilt, teilte, hat geteilt",verb,A2,96.4479,0.9244,1,"to divide, share",Ich teile mir ein Zimmer mit meinem Bruder.,I share a room with my brother.
+936,"trennen, trennt, trennte, hat getrennt",verb,A2,92.9981,0.9417,1,to separate,Eine Wand trennt zwei Zimmer.,A wall separates two rooms.
+952,"richten, richtet, richtete, hat gerichtet",verb,A2,91.3224,0.952,1,"to direct, repair, follow",Er richtet seine Rede an alle Studenten der Universität.,He directs his speech to all students of the university.
+1219,"sammeln, sammelt, sammelte, hat gesammelt",verb,A2,71.954,0.945,1,"to collect, gather",Sie sammelt Steine aus verschiedenen Ländern.,She collects stones from various countries.
+1639,"packen, packt, packte, hat gepackt",verb,A2,52.6348,0.8999,1,"to pack, grab","Hier ist eine Liste mit Dingen, die du in die Tasche packen sollst.",Here’s a list of things you should pack in your bag.

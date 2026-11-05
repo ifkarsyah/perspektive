@@ -1,0 +1,26 @@
+rank,word,pos,level,freq_per_million,dispersion,has_conjugation,definition,example_de,example_en
+212,"bekommen, bekommt, bekam, hat bekommen",verb,A1,401.9074,0.94,1,"to get, receive",Natascha bekommt ein Fahrrad zu ihrem Geburtstag.,Natascha is getting a bike for her birthday.
+251,"beginnen, beginnt, begann, hat begonnen",verb,A1,350.4554,0.9465,1,to begin,Mit der Arbeit beginne ich erst morgen.,I won’t start work until tomorrow.
+398,"bedeuten, bedeutet, bedeutete, hat bedeutet",verb,A1,206.2024,0.9595,1,to mean,Was bedeutet dieses Wort?,What does this word mean?
+793,"bezahlen, bezahlt, bezahlte, hat bezahlt",verb,A1,108.2267,0.9286,1,to pay,Wie viel hast du bezahlt?,How much did you pay?
+820,"besuchen, besucht, besuchte, hat besucht",verb,A1,104.974,0.9186,1,to visit,Sie besuchen sich regelmäßig.,They visit each other regularly.
+1119,"benutzen, benutzt, benutzte, hat benutzt",verb,A1,78.0652,0.9363,1,to use,"Tanja benutzt ihr Handy, um ihre E-Mails zu lesen.",Tanja uses her phone to read her e-mails.
+1657,"bestellen, bestellt, bestellte, hat bestellt",verb,A1,51.5999,0.9051,1,"to order, reserve",Jan und Ludwig bestellen sich eine große Pizza im Restaurant.,Jan and Ludwig order a large pizza in the restaurant.
+246,"bestehen, besteht, bestand, hat bestanden",verb,A2,355.9259,0.9363,1,"to exist, insist, pass (an exam)",Hoffentlich besteht Anja die Prüfung.,Hopefully Anja passes the exam.
+405,"bezeichnen, bezeichnet, bezeichnete, hat bezeichnet",verb,A2,203.5411,0.9056,1,"to call, name",Ärzte werden auch als Doktoren bezeichnet.,Physicians are also called doctors.
+416,"betreffen, betrifft, betraf, hat betroffen",verb,A2,199.5491,0.931,1,"to affect, concern",Die Frage nach der Zukunft dieser Welt betrifft uns alle.,The question of the future of this world concerns all of us.
+419,"bestimmen, bestimmt, bestimmte, hat bestimmt",verb,A2,198.2185,0.8824,1,"to decide, determine","Du bestimmst, welchen Film wir uns ansehen.",You decide what movie we are going to watch.
+435,"beschreiben, beschreibt, beschrieb, hat beschrieben",verb,A2,189.1503,0.9017,1,to describe,"Bitte beschreibe mir dein Haus, damit ich es finde.",Please describe your house so I can find it.
+485,"betrachten, betrachtet, betrachtete, hat betrachtet",verb,A2,171.3097,0.907,1,"to look at, consider",Ich betrachte diese Aussage als nicht relevant.,I do not consider this statement relevant.
+591,"berichten, berichtet, berichtete, hat berichtet",verb,A2,146.2243,0.8876,1,to report,Die Zeitungen berichten von einem Unfall.,The newspapers report an accident.
+782,"betonen, betont, betonte, hat betont",verb,A2,109.6559,0.8399,1,to stress,Bei dem Wort “Sommer” solltest du die erste Silbe betonen.,In the word “Sommer” you should emphasize the first syllable.
+858,"betragen, beträgt, betrug, hat betragen",verb,A2,101.2777,0.8543,1,to amount,Die Kosten für die gesamte Veranstaltung betragen mehrere tausend Euro.,The costs for the entire event amount to several thousand euros.
+878,"beziehen, bezieht, bezog, hat bezogen",verb,A2,99.0107,0.9021,1,"to refer, put, get",In ihrem Artikel bezieht sie sich auf die politische Situation.,In her article she refers to the political situation.
+915,"bestätigen, bestätigt, bestätigte, hat bestätigt",verb,A2,95.5115,0.9122,1,"to confirm, endorse",Bitte bestätigen Sie Ihre Adresse.,Please confirm your address.
+1374,"begründen, begründet, begründete, hat begründet",verb,A2,64.6107,0.9071,1,to justify,"Ich möchte, dass du deine Meinung begründest.",I want you to justify your opinion.
+1405,"beenden, beendet, beendete, hat beendet",verb,A2,63.2801,0.921,1,to end,"Wenn du nicht glücklich bist, musst du die Beziehung zu Luke beenden.","If you’re not happy, you have to end the relationship with Luke."
+1865,"beantworten, beantwortet, beantwortete, hat beantwortet",verb,A2,45.0452,0.9428,1,to answer,Er beantwortet meine Frage mit einem Ja.,He answers my question with a yes.
+2701,"beraten, berät, beriet, hat beraten",verb,A2,28.5845,0.8887,1,"to advise, discuss","Als Verkäuferin ist es meine Aufgabe, meine Kunden zu beraten.",As a saleswoman it is my job to advise my customers.
+2882,"bedanken (sich), bedankt, bedankte, hat bedankt",verb,A2,26.2681,0.8345,1,to thank,Laura bedankt sich bei ihren Gästen für die vielen Geschenke.,Laura thanks her guests for the many gifts.
+3775,"bewerben (sich), bewirbt, bewarb, hat beworben",verb,A2,17.9392,0.8718,1,to apply,Sie können sich noch bis morgen für den Job bewerben.,You can apply for the job until tomorrow.
+4249,"beschweren, beschwert, beschwerte, hat beschwert",verb,A2,15.2286,0.9085,1,"to weight, complain","Meine Nachbarn beschweren sich regelmäßig darüber, dass wir zu laut sind.",My neighbors regularly complain that we’re too loud.

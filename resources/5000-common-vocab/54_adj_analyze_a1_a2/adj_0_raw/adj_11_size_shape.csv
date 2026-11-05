@@ -1,0 +1,30 @@
+rank,word,pos,level,freq_per_million,dispersion,has_conjugation,definition,example_de,example_en
+
+67,groß,adj,A1,1636.9534,0.9679,0,"big, large, great",Florian hat eine große Wohnung.,Florian has a big apartment.
+110,klein,adj,A1,823.2326,0.9559,0,"small, little",Martin hat eine kleine Schwester.,Martin has a little sister.
+
+97,lang,adj,A1,929.9315,0.9532,0,long,Mit ihren langen Beinen rennt sie schneller als Max.,With her long legs she runs faster than Max.
+176,kurz,adj,A1,498.2075,0.9597,0,short,"Der Film dauert nur eine Stunde, er ist sehr kurz.",The film lasts only one hour; it is very short.
+
+118,hoch,adj,A1,763.0574,0.9559,0,"high, tall",Diese Berge sind sehr hoch.,These mountains are very high.
+442,tief,adj,A2,186.2919,0.9289,0,deep,"Der See ist sehr tief, ich kann den Boden nicht sehen.",The lake is very deep; I can’t see the bottom.
+
+847,breit,adj,A1,101.8691,0.9477,0,"wide, broad",Ihr Bruder hat breite Schultern.,Her brother has broad shoulders.
+593,eng,adj,A2,145.6329,0.9476,0,"narrow, close",Stefan fährt durch eine enge Straße.,Stefan is driving through a narrow street.
+
+1074,dick,adj,A2,81.17,0.9098,0,"thick, fat",Mein dicker Hund muss abnehmen.,My fat dog needs to lose weight.
+1739,dünn,adj,A2,48.9386,0.8902,0,thin,Auf dem See ist eine dünne Schicht Eis.,There’s a thin layer of ice on the lake.
+
+388,voll,adj,A2,215.2213,0.9425,0,full,Sprich nicht mit vollem Mund!,Don’t talk with your mouth full!
+874,leer,adj,A2,99.3064,0.9007,0,empty,Die Flasche ist leer.,The bottle is empty.
+
+480,"nahe, nah",adj,A2,173.5274,0.9592,0,"near(by), close",Der Weg führt zu dem nahen Wald.,The path leads to the nearby forest.
+230,weit,adj,A1,379.2863,0.9568,0,"widely, far",Ich möchte später weit weg ziehen.,Someday I want to move somewhere far away.
+
+296,rund,adj,A2,286.7318,0.8814,0,round,Ein Fußball ist rund.,A soccer ball is round.
+159,gerade,adj,A1,547.5404,0.9485,0,straight,Ich überhole nur auf einer geraden Strecke.,I only pass other cars on a straight stretch.
+353,direkt,adj,A2,238.5817,0.9625,0,"direct, straight","Weil es keine direkte Verbindung gibt, muss ich nachher in einen anderen Zug steigen.","Because there’s no direct connection, I’ll have to get on another train later."
+
+355,offen,adj,A2,237.596,0.9027,0,open,Die Tür ist offen.,The door ist open.
+2950,kaputt,adj,A1,25.381,0.8756,0,"broken, ruined","Dieses Auto hat keinen großen Nutzen mehr, weil der Motor kaputt ist.",This car is no longer very useful because the engine is broken.
+289,frei,adj,A1,296.9827,0.9434,0,free,Jeder Mensch sollte frei sein.,Everybody should be free.

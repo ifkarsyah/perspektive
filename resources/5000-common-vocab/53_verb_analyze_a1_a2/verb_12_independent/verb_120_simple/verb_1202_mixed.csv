@@ -1,0 +1,6 @@
+rank,word,pos,level,freq_per_million,dispersion,has_conjugation,definition,example_de,example_en
+78,"wissen, weiß, wusste, hat gewusst",verb,A1,1358.5013,0.9167,1,to know,Max weiß viel und ist gut in der Schule.,Max knows a lot and is good at school.
+163,"bringen, bringt, brachte, hat gebracht",verb,A1,536.2544,0.9571,1,"to bring, take",Der Mann bringt mir einen Kaffee an meinen Tisch.,The man brings me a coffee at my table.
+216,"kennen, kennt, kannte, hat gekannt",verb,A1,399.8375,0.9294,1,to know,Wir kennen uns schon lange.,We’ve known each other for a long time.
+128,"denken, denkt, dachte, hat gedacht",verb,A2,706.2827,0.9081,1,to think,Ich denke gerade an meinen letzten Urlaub.,I’m thinking about my last vacation.
+191,"nennen, nennt, nannte, hat genannt",verb,A2,449.1211,0.9608,1,"to name, call","Mein Freund heißt Alexander, aber alle nennen ihn Alex.","My friend’s name ist Alexander, but everybody calls him Alex."

@@ -1,0 +1,41 @@
+rank,word,pos,level,freq_per_million,dispersion,has_conjugation,definition,example_de,example_en,tree_file
+40,"sagen, sagt, sagte, hat gesagt",verb,A1,2953.7116,0.923,1,"to say, tell","Der Kollege sagt ihr, wo sie die Schlüssel findet.",The colleague tells her where to find the keys.,verb_12001_communication
+49,"geben, gibt, gab, hat gegeben",verb,A1,2240.4306,0.9655,1,to give,Timo gibt dem Verkäufer die Bücher.,Timo gives the books to the seller.,verb_12010_same_vowel_haben
+58,"machen, macht, machte, hat gemacht",verb,A1,1971.096,0.9287,1,"to do, make",Die Schüler machen ihre Aufgaben.,The students do their tasks.,verb_12006_handling
+62,"kommen, kommt, kam, ist gekommen",verb,A1,1836.9461,0.9453,1,to come,Wir kommen morgen Abend zu dir.,We’ll come to your place tomorrow night.,verb_12011_same_vowel_sein
+66,"gehen, geht, ging, ist gegangen",verb,A1,1648.6829,0.9438,1,to go,Wir gehen heute ins Theater.,We’re going to the theater today.,verb_12013_new_vowel_sein
+78,"wissen, weiß, wusste, hat gewusst",verb,A1,1358.5013,0.9167,1,to know,Max weiß viel und ist gut in der Schule.,Max knows a lot and is good at school.,verb_1202_mixed
+79,"sehen, sieht, sah, hat gesehen",verb,A1,1358.3042,0.9326,1,to see,"Seit er die neue Brille hat, kann er besser sehen.","Since he got the new glasses, he can see better.",verb_12010_same_vowel_haben
+85,"stehen, steht, stand, hat gestanden",verb,A1,1187.1917,0.9533,1,to stand,Die Fahrräder stehen im Keller.,The bicycles stand in the cellar.,verb_12012_new_vowel_haben
+98,"leben, lebt, lebte, hat gelebt",verb,A1,927.5659,0.941,1,to live,Frauen leben länger als Männer.,Women live longer than men.,verb_12004_daily_life
+103,"finden, findet, fand, hat gefunden",verb,A1,885.1327,0.9628,1,to find,Ich kann meine Tasche nicht finden.,I can’t find my bag.,verb_12012_new_vowel_haben
+107,"liegen, liegt, lag, hat gelegen",verb,A1,861.6245,0.9553,1,to lie,Der Hund liegt unter dem Stuhl.,The dog is lying under the chair.,verb_12012_new_vowel_haben
+113,"bleiben, bleibt, blieb, ist geblieben",verb,A1,790.7054,0.9598,1,"to stay, remain",Anna möchte für ein Jahr im Ausland bleiben.,Anna wants to stay abroad for a year.,verb_12013_new_vowel_sein
+123,"tun, tut, tat, hat getan",verb,A1,753.2006,0.9301,1,to do,Heute habe ich nichts zu tun.,Today I have nothing to do.,verb_12012_new_vowel_haben
+126,"heißen, heißt, hieß, hat geheißen",verb,A1,717.6672,0.961,1,to be called,Sein Freund heißt Markus.,His friend is called Markus.,verb_12010_same_vowel_haben
+135,"stellen, stellt, stellte, hat gestellt",verb,A1,652.1693,0.9708,1,"to place, set, put",Er stellt sein Fahrrad in den Garten.,He puts his bike in the garden.,verb_12006_handling
+142,"nehmen, nimmt, nahm, hat genommen",verb,A1,618.1144,0.9612,1,to take,Ich nehme ein Wasser.,I’ll take a water.,verb_12012_new_vowel_haben
+146,"hören, hört, hörte, hat gehört",verb,A1,599.1895,0.9254,1,to hear,Kannst du mich hören?,Can you hear me?,verb_12002_think_sense
+153,"fragen, fragt, fragte, hat gefragt",verb,A1,559.812,0.8971,1,to ask,Die Touristen fragen nach dem Weg.,The tourists ask for directions.,verb_12001_communication
+155,"halten, hält, hielt, hat gehalten",verb,A1,556.4607,0.9454,1,"to stop, hold",Er hält ein Buch in seinen Händen.,He’s holding a book in his hands.,verb_12010_same_vowel_haben
+156,"glauben, glaubt, glaubte, hat geglaubt",verb,A1,555.9186,0.9119,1,to believe,Sie glaubt ihm nicht.,She doesn’t believe him.,verb_12002_think_sense
+161,"sprechen, spricht, sprach, hat gesprochen",verb,A1,544.5341,0.9529,1,to speak,Der Student möchte mit dem Professor sprechen.,The student would like to speak to the professor.,verb_12012_new_vowel_haben
+163,"bringen, bringt, brachte, hat gebracht",verb,A1,536.2544,0.9571,1,"to bring, take",Der Mann bringt mir einen Kaffee an meinen Tisch.,The man brings me a coffee at my table.,verb_1202_mixed
+179,"brauchen, braucht, brauchte, hat gebraucht",verb,A1,487.0201,0.9283,1,to need,Brauchst du Hilfe?,Do you need any help?,verb_12000_state
+184,"schreiben, schreibt, schrieb, hat geschrieben",verb,A1,472.4815,0.9114,1,to write,Er schreibt einen Brief an seine Freundin.,He’s writing a letter to his girlfriend.,verb_12012_new_vowel_haben
+205,"spielen, spielt, spielte, hat gespielt",verb,A1,414.9676,0.937,1,to play,Die Kinder spielen im Garten.,The children are playing in the garden.,verb_12004_daily_life
+211,"verstehen, versteht, verstand, hat verstanden",verb,A1,402.1046,0.9422,1,to understand,"Rede bitte etwas lauter, ich kann dich nicht verstehen.","Please speak a little louder, I can’t understand you.",verb_1222_ver
+212,"bekommen, bekommt, bekam, hat bekommen",verb,A1,401.9074,0.94,1,"to get, receive",Natascha bekommt ein Fahrrad zu ihrem Geburtstag.,Natascha is getting a bike for her birthday.,verb_1221_be
+213,"meinen, meint, meinte, hat gemeint",verb,A1,401.2667,0.9197,1,"to think, have an opinion",Was meinen Sie dazu?,What do you think?,verb_12002_think_sense
+215,"fahren, fährt, fuhr, ist gefahren",verb,A1,400.6261,0.906,1,"to drive, ride, go",Christine fährt mit dem Zug nach Amsterdam.,Christine’s taking the train to Amsterdam.,verb_12011_same_vowel_sein
+216,"kennen, kennt, kannte, hat gekannt",verb,A1,399.8375,0.9294,1,to know,Wir kennen uns schon lange.,We’ve known each other for a long time.,verb_1202_mixed
+231,"sitzen, sitzt, saß, hat gesessen",verb,A1,377.2164,0.9016,1,to sit,Auf dem Boden sitzt ein schwarzer Hund.,There’s a black dog sitting on the floor.,verb_12012_new_vowel_haben
+234,"arbeiten, arbeitet, arbeitete, hat gearbeitet",verb,A1,366.0783,0.927,1,to work,Marlene arbeitet in einem Krankenhaus.,Marlene works in a hospital.,verb_12005_work_money
+238,"erklären, erklärt, erklärte, hat erklärt",verb,A1,365.0433,0.9484,1,to explain,Max erklärt mir komplizierte Dinge.,Max explains complicated things to me.,verb_1223_er
+251,"beginnen, beginnt, begann, hat begonnen",verb,A1,350.4554,0.9465,1,to begin,Mit der Arbeit beginne ich erst morgen.,I won’t start work until tomorrow.,verb_1221_be
+128,"denken, denkt, dachte, hat gedacht",verb,A2,706.2827,0.9081,1,to think,Ich denke gerade an meinen letzten Urlaub.,I’m thinking about my last vacation.,verb_1202_mixed
+136,"zeigen, zeigt, zeigte, hat gezeigt",verb,A2,651.8244,0.9593,1,to show,Können Sie mir den Weg zeigen?,Could you show me the way?,verb_12001_communication
+191,"nennen, nennt, nannte, hat genannt",verb,A2,449.1211,0.9608,1,"to name, call","Mein Freund heißt Alexander, aber alle nennen ihn Alex.","My friend’s name ist Alexander, but everybody calls him Alex.",verb_1202_mixed
+228,"setzen, setzt, setzte, hat gesetzt",verb,A2,381.4548,0.9652,1,"to set, place, put",Er setzt das Kind auf den Stuhl.,He puts the child in the chair.,verb_12006_handling
+246,"bestehen, besteht, bestand, hat bestanden",verb,A2,355.9259,0.9363,1,"to exist, insist, pass (an exam)",Hoffentlich besteht Anja die Prüfung.,Hopefully Anja passes the exam.,verb_1221_be
+247,"versuchen, versucht, versuchte, hat versucht",verb,A2,354.6445,0.9484,1,"to try, attempt","Ich versuche, die Prüfung zu bestehen.",I’m trying to pass the exam.,verb_1222_ver

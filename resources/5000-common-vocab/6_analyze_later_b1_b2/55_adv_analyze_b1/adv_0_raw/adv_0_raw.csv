@@ -1,0 +1,99 @@
+rank,word,pos,level,freq_per_million,dispersion,has_conjugation,definition,example_de,example_en
+170,bereits,adv,B1,513.1897,0.933,0,already,"Du musst nicht noch einkaufen gehen, ich habe es bereits erledigt.",You don’t have to go shopping; I have already done it.
+181,etwa,adv,B1,481.8946,0.9393,0,"about, approximately",Die Führung dauert etwa eine Stunde.,The tour lasts about one hour.
+196,"eben, ebend",adv,B1,434.2374,0.8589,0,"just, now","Ich versuche, ihn eben auf dem Handy zu erreichen.",I am just trying to reach him on his mobile phone.
+206,zwar,adv,B1,413.1934,0.9554,0,"admittedly, to be precise","Wir kommen am Nachmittag an, und zwar um 14:37 Uhr.","We’ll arrive in the afternoon, at 2:37 pm to be precise."
+225,allerdings,adv,B1,383.5247,0.9414,0,"though, indeed, certainly",Das ist allerdings eine interessante Frage.,That is certainly an interesting question.
+227,jedoch,adv,B1,381.4548,0.9038,0,however,"Mütter haben viel Kraft, können jedoch nicht alles allein schaffen.","Mothers have a lot of strength; however, they can’t do everything on their own."
+261,wohl,adv,B1,335.7689,0.9385,0,well,Er fühlt sich wohl.,He feels well.
+272,kaum,adv,B1,321.5752,0.9425,0,hardly,"Das Licht ist so hell, ich kann kaum etwas sehen.",The light is so bright I can hardly see anything.
+279,überhaupt,adv,B1,313.6406,0.923,0,"at all, generally",Anja mag Hunde überhaupt nicht.,Anja doesn’t like dogs at all.
+312,je,adv,B1,270.0,0.9556,0,"ever, each",Das kostet vier Euro je Stück.,That costs four euros each.
+322,eher,adv,B1,260.2665,0.9457,0,"sooner, earlier, more likely, rather","Eher ziehe ich wieder zu meinen Eltern, als einen Tag länger bei dir zu wohnen.",I’d rather move back in with my parents than stay with you one day longer.
+373,zunächst,adv,B1,222.6631,0.9347,0,"first, at first, for now","Ich sah den Mann zunächst nicht, bis er winkte.","At first I didn’t see the man, until he waved."
+441,bisher,adv,B1,186.2919,0.9225,0,"until now, up to now, yet","Bisher gab es noch keinen Regen, aber bestimmt bald.","It hasn’t rained yet, but it will soon."
+445,ebenfalls,adv,B1,185.4048,0.9332,0,"likewise, also, as well",Dieses Hotel bietet ebenfalls einen Blick aufs Meer.,This hotel also offers a view of the sea.
+463,trotzdem,adv,B1,178.3079,0.936,0,nevertheless,"Es ist kalt, aber ich fahre trotzdem mit dem Fahrrad.","It is cold, but I’m nevertheless riding my bike."
+496,insgesamt,adv,B1,168.1062,0.9257,0,"in all, altogether, in total",Das Hotel hat insgesamt zehn Zimmer.,The hotel has ten rooms altogether.
+534,inzwischen,adv,B1,159.728,0.9334,0,in the meantime,Inzwischen haben sie sich an die neue Schule gewöhnt.,In the meantime they got used to the new school.
+535,ebenso,adv,B1,159.5309,0.9238,0,"just as, as much as, as well",Meinen Bruder mag ich ebenso gerne wie meine Schwester.,I like my brother as much as my sister.
+605,ziemlich,adv,B1,142.7745,0.8966,0,"quite, fairly, pretty","Sie ist sich ziemlich sicher, dass sie die Prüfung bestanden hat.",She’s pretty sure she passed the exam.
+609,jeweils,adv,B1,142.1831,0.9119,0,"each, each time",Eine Gruppe hat jeweils einen Leiter.,Each group has one leader.
+612,zumindest,adv,B1,141.8381,0.9465,0,at least,"Ich habe die Prüfung nicht bestanden, aber zumindest habe ich es versucht.","I failed the exam, but at least I tried."
+658,los,adv,B1,132.7206,0.8254,0,"rid of, going on",Dieses Problem bin ich los.,I got rid of this problem.
+716,miteinander,adv,B1,124.096,0.9411,0,with each other,"Wenn die Kollegen miteinander arbeiten, können sie mehr schaffen.","When colleagues work with each other, they can accomplish more."
+749,deswegen,adv,B1,115.9149,0.8992,0,"therefore, that’s why",Janosch ist krank und bleibt deswegen heute zu Hause im Bett.,Janosch is ill and therefore stays at home in bed today.
+754,übrigens,adv,B1,115.225,0.8923,0,by the way,Übrigens bleibt Florian doch in Deutschland.,"By the way, Florian is actually staying in Germany."
+764,irgendwann,adv,B1,112.6129,0.9085,0,"sometime, some day","Max träumt davon, irgendwann ein Restaurant zu eröffnen.",Max dreams of opening a restaurant some day.
+795,längst,adv,B1,108.1774,0.9261,0,"long since, a long time ago",Thomas hat sein Studium schon längst beendet und arbeitet seit mehreren Jahren.,Thomas has long since finished his studies and has been working for a number of years.
+808,genauso,adv,B1,106.6989,0.93,0,just as,Mit dem Zug dauert es genauso lange wie mit dem Bus.,It takes just as long by train as by bus.
+862,mittlerweile,adv,B1,100.5877,0.9204,0,"in the meantime, since then",Mittlerweile haben alle Dörfer Zugang zum Internet.,"In the meantime, all villages have access to the internet."
+968,unterwegs,adv,B1,89.7454,0.9045,0,on the way,Er ist gerade nach London unterwegs.,He’s on his way to London right now.
+1006,wiederum,adv,B1,86.5419,0.9364,0,"again, in turn","Luisa mag den Vorschlag, ihre Schwester wiederum ist dagegen.","Luisa likes the suggestion, her sister in turn is against it."
+1008,hinaus,adv,B1,86.3941,0.9271,0,"out, beyond",Vom Wohnzimmer hat man einen schönen Blick hinaus auf den Garten.,From the living room you have a beautiful view out onto the garden.
+1016,hingegen,adv,B1,85.3591,0.9213,0,on the other hand,"Sie mag nur klassische Musik, Jonathan hingegen hört alles gern.","She only likes classical music, Jonathan, on the other hand, likes listening to everything."
+1031,anschließend,adv,B1,84.3242,0.9182,0,"subsequent, afterwards",Wir gehen einkaufen und anschließend essen.,We’re going shopping and afterwards out to eat
+1068,lediglich,adv,B1,81.4164,0.9155,0,merely,Ich erfülle lediglich meine Pflicht.,I’m merely fulfilling my duty.
+1105,andererseits,adv,B1,78.7551,0.9164,0,on the other hand,"Auf der einen Seite würde ich gern verreisen, aber andererseits sollte ich sparen.","On the one hand I would like to travel, but on the other hand I should save money."
+1121,teilweise,adv,B1,77.7695,0.9232,0,partly,Ich stimme dem teilweise zu.,I partly agree.
+1167,vermutlich,adv,B1,74.7139,0.9198,0,probably,Ich werde vermutlich zu Hause bleiben.,I’ll probably stay home.
+1171,erstmals,adv,B1,74.221,0.8773,0,for the first time,Auf der Party hat sie erstmals mit mir gesprochen.,She talked to me for the first time at the party.
+1227,demnach,adv,B1,71.5597,0.8545,0,therefore,Es gibt demnach nur zwei Möglichkeiten.,There are therefore only two possibilities.
+1272,sozusagen,adv,B1,69.5391,0.8237,0,so to speak,"Die Veranstaltung ist sozusagen nicht ganz offiziell, deswegen wissen nur wenige davon.","The event is not official, so to speak, which is why only a few people know about it."
+1314,vielmehr,adv,B1,67.1735,0.9046,0,rather,"Das Hemd ist nicht blau, sondern vielmehr grau.","The shirt is not blue, but rather gray."
+1384,diesmal,adv,B1,64.2165,0.9142,0,this time,Diesmal mache ich alles richtig.,I’m doing everything right this time.
+1402,niemals,adv,B1,63.4279,0.9135,0,never,Ich werde dich niemals vergessen.,I’ll never forget you.
+1412,mitten,adv,B1,62.9844,0.9111,0,in the middle,Wegen meines Babys muss ich immer mitten in der Nacht aufstehen.,I always have to get up in the middle of the night because of my baby.
+1428,möglicherweise,adv,B1,62.048,0.936,0,possibly,Der Zug kommt möglicherweise zehn Minuten später.,The train possibly arrives ten minutes later.
+1438,ohnehin,adv,B1,61.6044,0.9155,0,anyway,Das hätte uns ohnehin nichts genützt.,That wouldn’t have helped us anyway.
+1491,desto,adv,B1,58.6474,0.9319,0,the more,"Je mehr Timo isst, desto dicker wird er.","The more Timo eats, the bigger he gets."
+1520,dahin,adv,B1,57.5632,0.9375,0,there,"Ich möchte nach Rom, aber der Weg dahin ist weit.","I want to go to Rome, but it’s a long way there."
+1547,sowieso,adv,B1,56.5775,0.8731,0,anyway,"Ich kann dir Milch mitbringen, da ich sowieso einkaufen muss.","I can bring you some milk, because I have to go shopping anyway."
+1550,einst,adv,B1,56.3804,0.8989,0,"once, at one time, one day","In Amerika lebten einst Völker, die heute nicht mehr existieren.",In America there once lived peoples that no longer exist.
+1607,letztlich,adv,B1,53.8176,0.9182,0,in the end,"Letztlich blieben wir zu Hause, weil wir uns nicht auf einen Film einigen konnten.",In the end we stayed home because we couldn’t agree on a movie.
+1633,einerseits,adv,B1,52.7827,0.9019,0,on the one hand,"Einerseits freue ich mich, dass du nach Berlin ziehst, andererseits bin ich auch traurig, dass du gehst.","On the one hand I’m happy that you’re moving to Berlin, on the other hand I’m also sad that you’re leaving."
+1648,sicherlich,adv,B1,52.1913,0.86,0,certainly,"Auch wenn die Bahn schon über eine Stunde zu spät ist, kommt sie sicherlich noch.","Even if the train is over an hour too late, it is certainly still coming."
+1660,stattdessen,adv,B1,51.5506,0.9109,0,instead,"Nina wollte nach Spanien reisen, aber fährt stattdessen nach Frankreich.","Nina wanted to travel to Spain, but is going to France instead."
+1706,beinahe,adv,B1,49.9735,0.8967,0,"almost, nearly",Wir haben beinahe den Zug verpasst.,We almost missed the train.
+1815,insofern,adv,B1,46.6715,0.8741,0,"as far as that goes, insofar, therefore","Mit dem zweiten Platz habe ich nicht gerechnet, insofern bin ich mehr als zufrieden.","I didn’t expect to finish second, and therefore I am more than satisfied."
+1821,einander,adv,B1,46.4744,0.9098,0,each other,Partner müssen einander vertrauen.,Partners must trust each other.
+1833,soweit,adv,B1,46.0801,0.8197,0,as far as,"Soweit ich weiß, findet das Seminar heute nicht statt.","As far as I know, the seminar isn’t taking place today."
+1835,ausgerechnet,adv,B1,45.9323,0.9115,0,"of all people, of all times",Warum muss ich ausgerechnet heute krank werden?,Why do I have to get ill today of all days?
+1836,zweimal,adv,B1,45.9323,0.9253,0,twice,"Sie klingelte zweimal, aber es war niemand zu Hause.","She rang the doorbell twice, but nobody was home."
+1846,etc.,adv,B1,45.4887,0.8444,0,etc.,"Tee, Kaffee etc. sind beliebte Produkte, die Deutschland aus anderen Ländern kauft.","Tea, coffee, etc. are popular products that Germany buys from other countries."
+1883,voneinander,adv,B1,44.5523,0.888,0,from each other,Die internationalen und die deutschen Studenten können viel voneinander lernen.,The international and German students can learn a lot from each other.
+1906,hierbei,adv,B1,43.7638,0.8439,0,"while doing this, on this occasion",Janosch läuft viel zu schnell den Berg herunter und hierbei verletzt er sich.,Janosch runs down the mountain far too fast and injures himself while doing so.
+1942,ansonsten,adv,B1,43.0245,0.9179,0,otherwise,"Wenn es keinen Kaffee gibt, nehme ich ansonsten einen Tee.","If there’s no coffee, I’ll have tea otherwise."
+1949,seitdem,adv,B1,42.7781,0.9157,0,since then,"Seitdem Jonas den neuen Job hat, ist er seltener zu Hause.","Since Jonas got the new job, he’s at home less."
+1972,äußerst,adv,B1,42.3346,0.935,0,extremely,Lisa ist eine äußerst kluge Studentin.,Lisa is an extremely clever student.
+1984,nochmal,adv,B1,41.891,0.7797,0,again,"Weil viele Studenten es nicht verstanden haben, erklärt der Professor das Problem nochmal.","Because many students did not understand it, the professor explains the problem again."
+2002,quasi,adv,B1,41.3489,0.8999,0,"almost, virtually","Der Bus hält quasi vor Adrians Haus, deswegen verpasst er ihn nie.","The bus stops virtually in front of Adrian’s house, so he never misses it."
+2017,womöglich,adv,B1,40.9546,0.8805,0,possibly,"Womöglich fällt der Unterricht heute aus, weil die Lehrerin krank ist.",Possibly the lessons will be canceled today because the teacher is ill.
+2062,normalerweise,adv,B1,39.9197,0.9281,0,"normally, usually","Normalerweise fährt Stephanie nicht mit der Bahn, aber heute regnet es.","Stephanie doesn’t usually take the train, but it’s raining today."
+2070,nahezu,adv,B1,39.7225,0.9316,0,"nearly, almost",Nina gibt im Urlaub nahezu ihr gesamtes Geld aus.,Nina spends almost all her money on vacation.
+2100,allzu,adv,B1,38.9833,0.9265,0,overly,Jannik ist ein allzu neugieriges Kind.,Jannik is an overly curious child.
+2165,innen,adv,B1,37.7512,0.8845,0,inside,Durch die Sonne ist das Auto innen sehr warm.,Due to the sun the car is very warm inside.
+2184,hierzu,adv,B1,37.4062,0.7872,0,"with it, concerning this",Bernd hat hierzu noch viele Fragen.,Bernd still has many questions concerning this.
+2190,daraufhin,adv,B1,37.2091,0.9083,0,as a result,"Sie nahm ein Medikament, aber daraufhin ging es ihr noch schlechter.","She took a medication, and as a result she got worse."
+2195,freilich,adv,B1,37.1105,0.8828,0,of course,Freilich kannst du aus meiner Flasche trinken.,Of course you can drink from my bottle.
+2295,versus,adv,B1,35.0899,0.7944,0,versus,Das heutige Fußballspiel ist England versus Deutschland.,Today’s soccer match is England versus Germany.
+2329,geradezu,adv,B1,34.2521,0.918,0,downright,Deine Forderungen sind geradezu zum Lachen.,Your demands are downright ridiculous.
+2362,höchstens,adv,B1,33.6607,0.9066,0,at most,"Karl trinkt höchstens zwei Gläser Wein, damit er sich morgen nicht schlecht fühlt.","Karl drinks at most two glasses of wine, so that he doesn’t feel bad tomorrow."
+2367,ebenda,adv,B1,33.5621,0.3705,0,"ibidem, at the same place",Johann Sebastian Bach ist in Leipzig berühmt geworden und ebenda gestorben.,Johann Sebastian Bach became famous in Leipzig and died at the same place.
+2407,kürzlich,adv,B1,32.9707,0.8909,0,recently,Ich habe kürzlich mein Studium abgeschlossen.,I have recently finished my studies.
+2452,spätestens,adv,B1,32.1822,0.9256,0,at the latest,"Wir müssen spätestens um acht Uhr am Bahnhof sein, um den Zug zu bekommen.",We have to be at the station by eight o’clock at the latest to get the train.
+2590,nochmals,adv,B1,30.1123,0.8997,0,again,Ich möchte mich nochmals bei Ihnen bedanken.,I would like to thank you again.
+2599,dorthin,adv,B1,29.9644,0.9036,0,there,"Wow, Australien, dorthin möchte ich auch reisen!","Wow, Australia, I want to travel there too!"
+2704,nachher,adv,B1,28.5845,0.8039,0,afterwards,"Wenn du mir in der Küche hilfst, kannst du nachher ein Eis bekommen.","If you help me in the kitchen, you can have an ice cream afterwards."
+2725,hierher,adv,B1,28.1902,0.8926,0,here,"Meine Schwester kommt hierher nach Leipzig, um mich zu besuchen.",My sister is coming here to Leipzig to visit me.
+2775,jemals,adv,B1,27.5002,0.9118,0,ever,"Hat dir jemals ein Mensch gesagt, wie schön du bist?",Has anyone ever told you how beautiful you are?
+2925,extra,adv,B1,25.6767,0.912,0,"separately, extra",Tommy isst gerne extra scharf.,Tommy likes extra spicy food.
+2929,anfangs,adv,B1,25.6275,0.9269,0,"initially, at first","Anfangs hatte Susanne Angst vor dem Wasser, aber mittlerweile schwimmt sie besser als die anderen Kinder.","At first Susanne was afraid of the water, but now she swims better than the other children."
+3000,vorhin,adv,B1,24.8389,0.8513,0,a short time ago,"Ich habe Paul schon vorhin gesagt, wann wir fahren.",I told Paul a short time ago when we were leaving.
+3162,jederzeit,adv,B1,22.8676,0.9204,0,anytime,"Du kannst mich jederzeit anrufen, wenn du traurig bist.",You can call me anytime you’re sad.
+3461,hinterher,adv,B1,20.2063,0.8874,0,"after, afterwards",Sie gehen in ein Restaurant und hinterher zum Konzert.,They go to a restaurant and afterwards to the concert.
+3619,irgend,adv,B1,19.0235,0.8404,0,some,Irgend so ein Stephan will dich sprechen.,Some Stephan wants to see you.
+3678,nebenbei,adv,B1,18.5799,0.8875,0,"on the side, in addition",Sie arbeitet und kümmert sich nebenbei um ihre alten Eltern.,She works and takes care of her old parents on the side.
+3806,nirgendwo,adv,B1,17.7914,0.8964,0,nowhere,Ich kann meinen Schlüssel nirgendwo finden.,I can’t find my key anywhere.
+4046,umsonst,adv,B1,16.4114,0.8908,0,"for free, in vain",Gäste des Hotels können den Parkplatz umsonst benutzen.,Hotel guests can use the parking lot for free.
+4106,neulich,adv,B1,16.0664,0.8667,0,"recently, the other day",Ich habe ihn erst neulich durch Zufall getroffen.,I met him by chance the other day.

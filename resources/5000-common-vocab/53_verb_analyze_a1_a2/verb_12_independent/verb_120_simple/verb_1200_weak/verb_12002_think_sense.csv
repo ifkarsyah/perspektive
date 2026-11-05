@@ -1,0 +1,8 @@
+rank,word,pos,level,freq_per_million,dispersion,has_conjugation,definition,example_de,example_en
+146,"hören, hört, hörte, hat gehört",verb,A1,599.1895,0.9254,1,to hear,Kannst du mich hören?,Can you hear me?
+156,"glauben, glaubt, glaubte, hat geglaubt",verb,A1,555.9186,0.9119,1,to believe,Sie glaubt ihm nicht.,She doesn’t believe him.
+213,"meinen, meint, meinte, hat gemeint",verb,A1,401.2667,0.9197,1,"to think, have an opinion",Was meinen Sie dazu?,What do you think?
+288,"lernen, lernt, lernte, hat gelernt",verb,A1,301.8618,0.9083,1,to learn,Wir lernen Deutsch.,We’re learning German.
+2143,"schmecken, schmeckt, schmeckte, hat geschmeckt",verb,A1,38.1948,0.8961,1,to taste,Wie schmeckt das Essen?,What does the food taste like?
+566,"merken, merkt, merkte, hat gemerkt",verb,A2,151.8919,0.8919,1,"to notice, remember","Die Kinder merken, dass ihre Mutter traurig ist.",The children realize that their mother is sad.
+1928,"üben, übt, übte, hat geübt",verb,A2,43.3695,0.9296,1,to practice,"Die Kinder üben für ein Stück, das sie in zwei Wochen präsentieren.",The children are practicing for a play that they will present in two weeks.

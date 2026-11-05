@@ -1,0 +1,27 @@
+rank,word,pos,level,freq_per_million,dispersion,has_conjugation,definition,example_de,example_en
+
+177,richtig,adj,A1,495.6448,0.9158,0,"correct, right",Alle wissen die richtige Antwort.,Everybody knows the correct answer.
+524,falsch,adj,A1,163.5229,0.9403,0,"false, wrong",Die Antwort ist leider falsch.,"Unfortunately, the answer is wrong."
+
+737,wahr,adj,A2,118.2313,0.9339,0,true,"Die Aussage ist wahr, wenn man sie beweisen kann.",The statement is true if you can prove it.
+685,echt,adj,A2,129.0736,0.906,0,"genuine, real",Ist das dein echtes Haar oder ist es künstlich?,Is that your real hair or is it synthetic?
+
+239,klar,adj,A1,364.0577,0.9386,0,clear,Das Wasser ist sehr klar.,The water is very clear.
+265,sicher,adj,A2,328.6721,0.9411,0,"safe, secure, certain",Sie machen das Haus sicher.,They make the house safe.
+167,genau,adj,A2,519.7937,0.9578,0,exact,Die genaue Zeit ist 10:43 Uhr.,The exact time is 10:43.
+
+171,möglich,adj,A1,510.2327,0.9597,0,possible,Ich besuche meine Eltern so oft wie möglich.,I visit my parents as often as possible.
+493,wahrscheinlich,adj,A2,169.0919,0.9188,0,"likely, probable","Das ist möglich, aber nicht sehr wahrscheinlich.","It’s possible, but not very likely."
+
+144,wichtig,adj,A1,601.8016,0.9434,0,important,Er hat eine wichtige Frage.,He has an important question.
+742,notwendig,adj,A2,117.1963,0.9184,0,necessary,Geld ist notwendig für ein angenehmes Leben.,Money is necessary for a comfortable life.
+1766,dringend,adj,A2,48.1008,0.9304,0,urgent,Der Patient benötigt dringend Ruhe.,The patient urgently needs rest.
+
+137,natürlich,adj,A2,637.8771,0.9209,0,natural,Ich beobachte wilde Tiere in ihrer natürlichen Umgebung.,I observe wild animals in their natural environment.
+151,eigentlich,adj,A2,569.8165,0.8766,0,"actual, real","Steffen ist der eigentliche Chef der Firma, aber er ist selten da.","Steffen is the real boss of the company, but he’s rarely there."
+
+189,wirklich,adj,A2,454.9858,0.9181,0,"real, actual",Sein Besuch ist eine wirkliche Überraschung.,His visit is a real surprise.
+552,gewiss,adj,A2,155.6375,0.9405,0,certain,Hast du nicht eine gewisse Sache vergessen?,Haven’t you forgotten a certain thing?
+302,deutlich,adj,A2,279.9306,0.9286,0,clear,"Ich kann dich nicht verstehen, bitte sprich deutlich.","I can’t understand you, please speak clearly."
+
+3031,einig,adj,A2,24.4939,0.8965,0,agreed,"Mein Mann und ich sind uns einig, das Haus zu verkaufen.",My husband and I have agreed to sell the house.

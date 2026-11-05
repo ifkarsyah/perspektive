@@ -1,0 +1,36 @@
+rank,word,pos,level,freq_per_million,dispersion,has_conjugation,definition,example_de,example_en
+
+68,hier,adv,A1,1620.542,0.928,0,here,Hier ist mein Zimmer.,Here is my room.
+48,da,adv,A1,2326.4304,0.897,0,there,Da hinten steht mein Auto.,There’s my car over there.
+2938,drüben,adv,A2,25.5289,0.8294,0,over there,Die Kinder spielen drüben bei den Nachbarn.,The kids are playing over there with the neighbors.
+
+417,oben,adv,A1,199.5491,0.9437,0,"above, up there",Oben auf dem Dach sitzt ein Vogel.,There’s a bird up on the roof.
+710,unten,adv,A1,125.131,0.9298,0,down,Willi bringt das Fahrrad nach unten in den Keller.,Willi takes the bike down to the cellar.
+
+893,links,adv,A1,97.3843,0.9218,0,on/to the left,Er dreht seinen Kopf nach links.,He turns his head to the left.
+829,rechts,adv,A1,103.7419,0.9241,0,on/to the right,Das Haus ist auf der rechten Seite.,The house is on the right side.
+
+785,"vorne, vorn",adv,A2,109.3602,0.8999,0,at/to the front,Nach dem Unfall ist vorne am Auto ein Schaden.,There’s some damage to the front of the car after the accident.
+1159,hinten,adv,A1,74.9603,0.8846,0,at/in the back,Unsere Kinder sitzen hinten im Auto.,Our children are sitting in the back of the car.
+
+848,draußen,adv,A1,101.7706,0.8852,0,outside,Die Kinder spielen gern draußen.,The children like to play outside.
+
+756,überall,adv,A2,115.1264,0.9329,0,everywhere,In der Stadt sieht man zu dieser Zeit überall Touristen.,In the city you see tourists everywhere at this time.
+935,irgendwo,adv,A2,93.2938,0.8807,0,somewhere,"Ich weiß nicht, wo er wohnt, aber es ist irgendwo in der Stadt.","I don’t know where he lives, but it’s somewhere in town."
+4577,nirgends,adv,A2,13.7008,0.8811,0,nowhere,Ich kann meinen Schlüssel nirgends finden.,I can’t find my key anywhere.
+
+712,hin,adv,A2,124.3424,0.9579,0,there,Aus dem Fenster zur Straße hin sieht man das Schloss.,From the window to the street there you can see the castle.
+1083,her,adv,A2,80.6772,0.9242,0,"from sth, ago, as far as . . . is concerned",Das ist lange her.,This happened long ago.
+
+965,weg,adv,A1,89.9918,0.8971,0,"gone, vanished",Mein Schlüssel ist weg!,My key’s gone!
+1683,zurück,adv,A1,50.8606,0.9089,0,back,Jan kommt aus dem Urlaub zurück nach Hause.,Jan comes back home from vacation.
+1472,vorbei,adv,A2,59.9288,0.9084,0,"past, over","Sie war froh, als ihre Prüfungen vorbei waren.",She was glad when her exams were over.
+
+533,zusammen,adv,A1,160.2701,0.9545,0,together,Sie wohnen zusammen.,They live together.
+4567,nebenan,adv,A2,13.7501,0.8825,0,next door,Die Nachbarn von nebenan sind sehr nett.,The neighbors next door are very nice.
+1844,online,adv,A2,45.538,0.8527,0,online,Heute Abend bestellen wir eine Pizza online.,Tonight we’re ordering a pizza online.
+
+139,dort,adv,A1,633.2445,0.9422,0,there,Die Bibliothek ist dort drüben.,The library is over there.
+1169,heraus,adv,A2,74.4182,0.8948,0,"out, outside",Wir kommen heraus und gehen auf die Straße.,We come outside and go out into the street.
+1745,ab,adv,A1,48.84,0.9223,0,"off, away","Kinder, es ist schon spät, ab ins Bett mit euch!","Kids, it’s getting late. Off to bed with you!"
+221,weiter,adv,A1,391.4593,0.9687,0,further,Weitere Informationen zu diesem Thema stehen im Internet.,Further information on this topic is available on the internet.

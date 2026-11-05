@@ -1,0 +1,16 @@
+rank,word,pos,level,freq_per_million,dispersion,has_conjugation,definition,example_de,example_en
+234,"arbeiten, arbeitet, arbeitete, hat gearbeitet",verb,A1,366.0783,0.927,1,to work,Marlene arbeitet in einem Krankenhaus.,Marlene works in a hospital.
+299,"handeln, handelt, handelte, hat gehandelt",verb,A1,281.3106,0.9355,1,"to deal, trade",Die Geschichte handelt von Tieren.,The story deals with animals.
+506,"kaufen, kauft, kaufte, hat gekauft",verb,A1,166.332,0.926,1,to buy,Morgen muss ich unbedingt Milch kaufen.,I really need to buy milk tomorrow.
+832,"zahlen, zahlt, zahlte, hat gezahlt",verb,A1,103.1505,0.901,1,to pay,"Er findet, dass Männer die Rechnung zahlen sollen.",He thinks men should pay the bill.
+903,"kosten, kostet, kostete, hat gekostet",verb,A1,96.5465,0.9178,1,to cost,Das Buch kostet nur fünf Euro.,The book costs only five euros.
+4205,"drucken, druckt, druckte, hat gedruckt",verb,A1,15.475,0.9039,1,to print,Der Verlag druckt diese Reihe von Büchern in hoher Auflage.,The publisher prints this series of books in large editions.
+579,"planen, plant, plante, hat geplant",verb,A2,148.6885,0.9028,1,to plan,"Sie planen, ein Jahr im Ausland zu bleiben.",They plan to stay abroad for one year.
+667,"bauen, baut, baute, hat gebaut",verb,A2,131.8828,0.9272,1,to build,Wir bauen ein Haus.,We’re building a house.
+740,"rechnen, rechnet, rechnete, hat gerechnet",verb,A2,117.3442,0.9272,1,"to calculate, compute",In der Schule rechnen wir in Mathematik viele Aufgaben.,In school we compute many math problems.
+781,"liefern, liefert, lieferte, hat geliefert",verb,A2,110.0009,0.9084,1,"to deliver, supply",Die Post liefert mir einen Brief.,The post office is delivering a letter to me.
+1408,"prüfen, prüft, prüfte, hat geprüft",verb,A2,63.1815,0.9348,1,"to examine, check",An der Universität werden die Studenten regelmäßig geprüft.,"At the university, the students are tested regularly."
+2001,"sparen, spart, sparte, hat gespart",verb,A2,41.3982,0.8924,1,to save,Helen spart ihr Geld für eine große Reise.,Helen’s saving her money for a big trip.
+2616,"speichern, speichert, speicherte, hat gespeichert",verb,A2,29.8166,0.8695,1,"to store, save",Daniel speichert alles auf seinem Computer.,Daniel stores everything on his computer.
+3343,buchen,verb,A2,21.0934,0.7907,1,to book,Wir buchen heute unseren Urlaub nach Schweden.,We are booking our vacation in Sweden today.
+3345,"kündigen, kündigt, kündigte, hat gekündigt",verb,A2,21.0934,0.8708,1,to terminate,Sie können den Vertrag vor seinem Ablauf kündigen.,You can terminate the contract before its expiration.

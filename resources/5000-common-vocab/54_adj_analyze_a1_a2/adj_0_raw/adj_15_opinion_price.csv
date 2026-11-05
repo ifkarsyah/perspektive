@@ -1,0 +1,44 @@
+rank,word,pos,level,freq_per_million,dispersion,has_conjugation,definition,example_de,example_en
+
+76,gut,adj,A1,1441.7905,0.9386,0,good,Die Blumen riechen gut.,The flowers smell good.
+327,schlecht,adj,A1,257.3095,0.9503,0,bad,Dein Atem riecht schlecht.,Your breath smells bad.
+762,schlimm,adj,A2,113.2536,0.9175,0,"bad, serious","Es ist schlimm für die Familie, dass der Vater tot ist.",It’s bad for the family that the father is dead.
+
+188,schön,adj,A1,455.0351,0.9033,0,"beautiful, pleasant, good",Von hier aus hat man einen schönen Blick auf die Stadt.,From here you have a beautiful view of the city.
+3542,hässlich,adj,A2,19.5656,0.8927,0,ugly,"Ihre Schwester mag das Kleid, aber Anna findet es hässlich.","Her sister likes the dress, but Anna thinks it’s ugly."
+
+972,toll,adj,A2,89.2525,0.8712,0,"great, terrific",Wir hatten eine tolle Reise nach Prag.,We had a great trip to Prague.
+1772,super,adj,A2,47.9529,0.8557,0,"super, great",Die Party war super und ich habe mich gut unterhalten.,"The party was great, and I had a good time."
+629,okay,adj,A2,137.3533,0.7821,0,okay,"Ist es okay, wenn wir “du” sagen?",Is it okay if we say “you”?
+
+1603,wunderbar,adj,A1,53.9655,0.9039,0,wonderful,Diese Sängerin hat eine wunderbare Stimme.,This singer has a wonderful voice.
+2200,schrecklich,adj,A2,37.012,0.8974,0,terrible,"Emilia kann nicht mehr schlafen, weil sie einen schrecklichen Traum hatte.",Emilia can’t sleep anymore because she had a terrible dream.
+
+810,interessant,adj,A2,106.4525,0.9041,0,interesting,Sie arbeiten an einem interessanten Projekt.,They’re working on an interesting project.
+3019,langweilig,adj,A2,24.5925,0.8976,0,boring,Mathe ist für viele Schüler ein langweiliges Fach.,Math is a boring subject for many students.
+1810,spannend,adj,A2,46.8194,0.905,0,"exciting, thrilling",Die Handlung des Romans ist voller spannender Situationen.,The plot of the novel is full of exciting situations.
+
+1973,lustig,adj,A1,42.2853,0.8925,0,"funny, enjoyable","Alle lachen, weil Anika so lustig ist.",Everybody laughs because Anika is so funny.
+1875,komisch,adj,A2,44.7002,0.8706,0,funny,Alle lachen über Dominiks komische Geschichten.,Everyone laughs at Dominik’s funny stories.
+
+131,einfach,adj,A1,680.4088,0.9389,0,"simple, easy",Die Prüfung war sehr einfach.,The exam was very simple.
+580,schwierig,adj,A2,148.5406,0.9264,0,"difficult, hard, tough","Es ist schwierig, ein guter Vater zu sein.",It is difficult to be a good father.
+
+840,praktisch,adj,A2,102.3127,0.92,0,practical,Mein neues Handy ist kleiner und praktischer.,My new phone is smaller and more practical.
+3369,bequem,adj,A2,20.8962,0.9016,0,comfortable,Unser neues Bett ist sehr bequem.,Our new bed is very comfortable.
+3381,nützlich,adj,A2,20.8469,0.9189,0,useful,"Ein Laptop ist sehr nützlich, wenn ich unterwegs im Zug arbeite.",A laptop is very useful when I’m working on the train.
+
+950,teuer,adj,A1,91.9138,0.9185,0,expensive,Die Milch ist teurer als letztes Jahr.,The milk is more expensive than last year.
+1738,billig,adj,A1,48.9879,0.8999,0,cheap,Einige billige Produkte halten nicht sehr lange.,Some cheap products do not last very long.
+3462,kostenlos,adj,A2,20.2063,0.8804,0,free (of charge),Das Hotel bietet kostenloses Internet.,The hotel offers free internet.
+
+642,normal,adj,A1,135.2341,0.9253,0,normal,Sein Verhalten ist normal für das Alter.,His behavior is normal for this age.
+1109,typisch,adj,A2,78.558,0.9334,0,typical,Mit ihrer Tasche und ihrem Laptop sieht sie aus wie eine typische Studentin.,"With her bag and laptop, she looks like a typical student."
+512,"besondere (r, s)",adj,A2,165.3956,0.9305,0,special,"Sie haben ein besonderes Haus, das Energie spart.",They have a special house that saves energy.
+
+1211,gefährlich,adj,A2,72.299,0.935,0,dangerous,Das Schiff transportiert gefährliche Substanzen.,The ship transports dangerous substances.
+
+4500,witzig,adj,A2,14.0951,0.8686,0,funny,"Ich muss immer lachen, wenn ich mich mit Karla treffe, sie ist sehr witzig.",I always have to laugh when I meet Karla; she’s very funny.
+3174,furchtbar,adj,A2,22.7197,0.894,0,terrible,Für Menschen und Tiere ist der Sturm eine furchtbare Katastrophe.,"For humans and animals, the storm is a terrible catastrophe."
+1526,günstig,adj,A1,57.3661,0.909,0,"cheap, favorable, good",Wir haben ein günstiges Angebot gefunden.,We found a cheap offer.
+1021,total,adj,A2,85.0634,0.8707,0,"total, complete",Das Projekt war eine totale Katastrophe.,The project was a total disaster.

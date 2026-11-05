@@ -1,0 +1,4 @@
+rank,word,pos,level,freq_per_million,dispersion,has_conjugation,definition,example_de,example_en
+1200,"abgeben, gibt ab, gab ab, hat abgegeben",verb,A1,72.644,0.9215,1,"to give, hand in, submit",Morgen müssen wir einen Text bei Herrn Schneider abgeben.,Tomorrow we have to hand in a text to Mr. Schneider.
+2377,"abholen, holt ab, holte ab, hat abgeholt",verb,A1,33.365,0.8909,1,"to get, fetch, pick up",Mein Papa holt mich immer von der Schule ab.,My dad always picks me up from school.
+1327,"abschließen, schließt ab, schloss ab, hat abgeschlossen",verb,A2,66.7299,0.94,1,"to lock, conclude","Wenn du das Haus verlässt, musst du die Tür abschließen.","When you leave the house, you have to lock the door."

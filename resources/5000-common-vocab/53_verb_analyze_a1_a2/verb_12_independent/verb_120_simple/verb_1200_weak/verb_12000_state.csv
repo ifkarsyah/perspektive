@@ -1,0 +1,6 @@
+rank,word,pos,level,freq_per_million,dispersion,has_conjugation,definition,example_de,example_en
+179,"brauchen, braucht, brauchte, hat gebraucht",verb,A1,487.0201,0.9283,1,to need,Brauchst du Hilfe?,Do you need any help?
+420,"fehlen, fehlt, fehlte, hat gefehlt",verb,A1,198.2185,0.9515,1,"to lack, be missing, be absent",Anita ist krank und fehlt heute in der Schule.,Anita is ill and missing from school today.
+744,"dauern, dauert, dauerte, hat gedauert",verb,A1,116.802,0.9445,1,"to last, take (time)",Der Film dauert 120 Minuten.,The film lasts 120 minutes.
+696,"passen, passt, passte, hat gepasst",verb,A2,127.9401,0.9419,1,to fit,Diese Hose passt nicht.,These pants don’t fit.
+2022,"klappen, klappt, klappte, hat geklappt",verb,A2,40.8561,0.9027,1,"to fold, go smoothly, work (out)","Ich habe es lange versucht, aber es klappt einfach nicht.","I’ve been trying for a long time, but it just won’t work."

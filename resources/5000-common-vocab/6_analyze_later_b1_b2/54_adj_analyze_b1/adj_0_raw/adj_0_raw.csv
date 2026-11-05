@@ -1,0 +1,305 @@
+rank,word,pos,level,freq_per_million,dispersion,has_conjugation,definition,example_de,example_en
+280,bestimmt,adj,B1,313.542,0.9292,0,"special, certain","Ich bin mir sicher, das Bild wird bestimmt gut.",I’m sure that picture will certainly be good.
+295,gemeinsam,adj,B1,288.8509,0.9179,0,"common, mutual",Die beiden Firmen verfolgen ein gemeinsames Ziel.,The two companies pursue a common goal.
+304,politisch,adj,B1,279.3392,0.8905,0,political,Ein Krieg hat oft politische Gründe.,War often has political reasons.
+308,einzeln,adj,B1,274.2137,0.9195,0,"individual, single, separately",Ich spreche jedes Wort einzeln.,I speak each word separately.
+340,tatsächlich,adj,B1,245.6785,0.9515,0,"real, actual",Ich habe tatsächlich den Job bekommen.,I actually got the job.
+343,einzig,adj,B1,242.6722,0.9465,0,"only, single",Ich bin das einzige Mädchen beim Fußball.,I’m the only girl at soccer.
+345,unterschiedlich,adj,B1,241.8344,0.9032,0,different,Bei einem Streit gibt es unterschiedliche Meinungen.,"In a dispute, there are different opinions."
+393,allgemein,adj,B1,212.9543,0.8983,0,general,Der Kurs beginnt mit einer allgemeinen Einführung in das Thema.,The course begins with a general introduction to the topic.
+407,häufig,adj,B1,203.2454,0.9021,0,frequent,"Weil die Krankheit sehr häufig auftritt, wird ein neues Medikament dagegen entwickelt.","Because the disease occurs very frequently, a new drug is being developed."
+430,sozial,adj,B1,191.9102,0.8789,0,social,"Jemand, der viele Freunde hat, lebt in einem guten sozialen Umfeld.",Someone who has a lot of friends lives in a good social environment.
+437,ähnlich,adj,B1,187.6718,0.9549,0,similar,Wir haben ähnliche Interessen.,We have similar interests.
+443,halb,adj,B1,185.8483,0.9248,0,half,Er ist halb so schwer wie ich.,He’s half my weight.
+494,öffentlich,adj,B1,168.8948,0.8887,0,public,Sie ist eine Person des öffentlichen Lebens.,She’s a public figure.
+504,gering,adj,B1,166.5291,0.9301,0,"low, small",Diese Arbeiter bekommen nur geringe Löhne.,These workers receive only low wages.
+515,völlig,adj,B1,164.6564,0.9461,0,"completely, absolutely",Du hast völlig recht.,You’re absolutely right.
+516,positiv,adj,B1,164.5578,0.912,0,positive,Ich mag deine positive Haltung.,I like your positive attitude.
+545,persönlich,adj,B1,156.9681,0.9335,0,personal,Katja ist meine persönliche Trainerin.,Katja is my personal coach.
+549,sogenannt,adj,B1,156.3275,0.9264,0,so-called,Sie lebt in New York dem sogenannten Big Apple.,"She lives in New York, the so-called “Big Apple”."
+557,gesamt,adj,B1,154.8489,0.9388,0,"whole, entire",Sie verpassen den gesamten Vortrag.,They’re missing the entire lecture.
+571,relativ,adj,B1,151.2512,0.8817,0,relative,Schönheit ist ein relativer Begriff.,Beauty is a relative term.
+583,zusätzlich,adj,B1,147.9492,0.92,0,additional,"Sein Buch enthält zusätzliche Informationen, die im Film nicht gezeigt werden.",His book contains additional information that is not shown in the film.
+637,gleichzeitig,adj,B1,136.3183,0.9571,0,"simultaneous, at the same time",Sie verlassen gleichzeitig das Gebäude.,They leave the building at the same time.
+638,knapp,adj,B1,136.0226,0.9138,0,"scarce, slim",Wegen des heißen Sommers ist das Wasser knapp.,"Because of the hot summer, the water is scarce."
+656,technisch,adj,B1,132.8685,0.8137,0,technical,Während des Konzerts treten technische Probleme auf.,Technical problems occur during the concert.
+669,selten,adj,B1,131.6364,0.9487,0,rare,Jana sammelt seltene Steine.,Jana collects rare stones.
+729,offenbar,adj,B1,120.449,0.9126,0,apparent,"Ich warte seit einer Stunde auf Thomas, offenbar kommt er nicht mehr.","I’ve been waiting for Thomas for an hour, apparently he’s not coming."
+735,erfolgreich,adj,B1,118.3791,0.9221,0,successful,"Er ist ein erfolgreicher Autor, viele Menschen lesen seine Bücher.",He is a successful author; many people read his books.
+741,bloß,adj,B1,117.2456,0.8902,0,"bare, mere",Ihre bloße Anwesenheit macht mich nervös.,Her mere presence makes me nervous.
+778,niedrig,adj,B1,110.4937,0.8954,0,"low, base","Du kannst dir leicht den Kopf stoßen, weil die Decke hier sehr niedrig ist.",You can bump your head easily because the ceiling here is very low.
+779,ständig,adj,B1,110.3952,0.9409,0,constant,"Der Fernseher ist ständig an, weil ich mich sonst alleine fühle.","The television is on constantly, because otherwise I feel alone."
+811,menschlich,adj,B1,106.4525,0.904,0,human,Das menschliche Gehirn besteht aus zwei Hälften.,The human brain consists of two halves.
+815,speziell,adj,B1,105.9597,0.9204,0,"special, specific",Die Schule bietet spezielle Kurse für den Umgang mit Computern an.,The school offers special courses for the use of computers.
+817,negativ,adj,B1,105.7132,0.8806,0,negative,Die Wahl hat negative Auswirkungen auf die Stabilität des Landes.,The election has a negative impact on the stability of the country.
+818,zentral,adj,B1,105.7132,0.905,0,central,Wir treffen uns an einem zentralen Ort wie dem Bahnhof.,We meet in a central place like the station.
+823,absolut,adj,B1,104.6783,0.9111,0,"absolute, complete",Ich vertraue dir absolut.,I trust you completely.
+843,weltweit,adj,B1,102.1648,0.8925,0,worldwide,Die Firma hat weltweite Verbindungen.,The company has worldwide connections.
+891,national,adj,B1,97.7293,0.8939,0,national,Die Armee ist für die nationale Sicherheit verantwortlich.,The army is responsible for national security.
+901,historisch,adj,B1,96.6451,0.8906,0,historical,Er interessiert sich für historische Gebäude.,He is interested in historical buildings.
+919,zahlreich,adj,B1,94.9201,0.9241,0,numerous,"Es gibt zahlreiche Gründe, bei einem schweren Sturm nicht aus dem Haus zu gehen.",There are numerous reasons not to leave the house in a heavy storm.
+921,übrig,adj,B1,94.8216,0.9483,0,"remaining, left, leftover",Du kannst die übrige Milch trinken.,You can drink the leftover milk.
+1002,erneut,adj,B1,86.7883,0.912,0,"again, renewed",Die erneuten Unruhen im Land bereiten der Regierung Sorgen.,The government is concerned about the renewed unrest in the country.
+1009,vorhanden,adj,B1,86.2955,0.8999,0,"available, existing",Die vorhandenen Daten müssen aktualisiert werden.,The existing data have to be updated.
+1038,nötig,adj,B1,83.7328,0.9549,0,necessary,Ihm fehlen die nötigen Fähigkeiten für den Job.,He lacks the necessary skills for the job.
+1042,verantwortlich,adj,B1,83.2892,0.935,0,responsible,Eltern sind für ihre Kinder verantwortlich.,Parents are responsible for their children.
+1043,täglich,adj,B1,83.2399,0.9356,0,daily,Nehmen Sie die Medizin zweimal täglich.,Take your medicine twice daily.
+1050,ernst,adj,B1,82.6978,0.9241,0,serious,"Wir müssen jetzt handeln, die Situation ist ernst.","We have to act now, the situation is serious."
+1055,jeweilig,adj,B1,82.1064,0.8876,0,"particular, respective",Nach der Pause gehen die Kinder in ihre jeweiligen Klassen zurück.,After the break the children return to their respective classes.
+1058,vollständig,adj,B1,82.0078,0.9008,0,complete,"Es fehlen noch zwei Personen, damit die Gruppe vollständig ist.",Two more people are missing for the group to be complete.
+1069,organisch,adj,B1,81.4164,0.4484,0,organic,Sie verwenden ausschließlich organische Produkte.,They use exclusively organic products.
+1075,riesig,adj,B1,81.17,0.9049,0,"huge, great, tremendous, giant, massive, humongous, enormous",Ich habe ein riesiges Geschenk bekommen.,I received a huge gift.
+1076,heutig,adj,B1,81.0222,0.9012,0,"present-day, today’s",Die heutigen Studenten schreiben fast nicht mehr mit der Hand.,Today’s students almost never write by hand anymore.
+1082,regelmäßig,adj,B1,80.7758,0.935,0,regular,Ich brauche regelmäßige Updates über den Fortschritt des Projekts.,I need regular updates on the project’s progress.
+1090,elektrisch,adj,B1,79.8887,0.7059,0,electric,Das heutige Thema im Physikunterricht war elektrische Ladung.,Today’s topic in physics class was electrical charge.
+1125,unmittelbar,adj,B1,77.4245,0.9246,0,"immediate, direct",Hattest du unmittelbaren Kontakt mit dem Virus?,Did you have direct contact with the virus?
+1127,extrem,adj,B1,77.2766,0.9266,0,extreme,Im Norden herrschen extreme Temperaturen.,The temperatures in the north are extreme.
+1129,theoretisch,adj,B1,77.0795,0.8,0,theoretical,"Theoretisch ist es richtig, aber in der Praxis nicht möglich.","Theoretically, it is correct, but not possible in practice."
+1151,gesellschaftlich,adj,B1,75.601,0.8596,0,social,Die Regierung reagiert auf die gesellschaftlichen Probleme.,The government reacts to social problems.
+1154,chinesisch,adj,B1,75.256,0.6791,0,Chinese,Jürgen arbeitet für ein chinesisches Unternehmen.,Jürgen works for a Chinese company.
+1164,physikalisch,adj,B1,74.8617,0.6211,0,physical,Es gibt physikalische Gesetzte für das Verhältnis von Kraft und Masse.,There are physical laws for the relationship between power and mass.
+1168,eindeutig,adj,B1,74.5167,0.9235,0,clear,Sie haben eine eindeutige Wahl getroffen.,They’ve made a clear choice.
+1179,"obere (r, s)",adj,B1,73.8761,0.8782,0,upper,Die obere Hälfte des Brotes ist verbrannt.,The upper half of the bread is burned.
+1183,"mittlere (r, s)",adj,B1,73.4818,0.8371,0,"middle, average",Sie öffnet das rechte und das mittlere Fenster.,She opens the right and the middle window.
+1190,berliner,adj,B1,73.1861,0.8821,0,(of) Berlin,Teile der Berliner Mauer stehen heute noch.,Parts of the Berlin Wall still stand today.
+1193,staatlich,adj,B1,73.0382,0.8795,0,"state, government, national",Die Bauern sind von staatlichen Subventionen abhängig.,Farmers are dependent on state subsidies.
+1215,komplett,adj,B1,72.2004,0.9235,0,complete,Ich biete dir meine komplette Sammlung an Filmen an.,I offer you my complete film collection.
+1222,konstant,adj,B1,71.7076,0.7624,0,constant,Er fährt mit konstanter Geschwindigkeit.,He drives at a constant speed.
+1234,ideal,adj,B1,71.3133,0.7735,0,ideal,"Thomas wartet auf den idealen Moment, um seine Aktien zu verkaufen.",Thomas is waiting for the ideal moment to sell his shares.
+1238,linear,adj,B1,71.1655,0.714,0,linear,Wir lösen lineare Gleichungen.,We solve linear equations.
+1241,kritisch,adj,B1,70.919,0.9162,0,critical,Im Interview mit dem Präsidenten spricht er besonders kritische Themen an.,"In an interview with the president, he addresses particularly critical issues."
+1248,offensichtlich,adj,B1,70.7712,0.9161,0,obvious,"Es ist offensichtlich, dass Philipp lügt.",It’s obvious Philipp is lying.
+1266,dicht,adj,B1,69.8348,0.9073,0,"thick, dense",Wir laufen durch einen dichten Wald.,We’re walking through dense forest.
+1268,bereit,adj,B1,69.7362,0.9311,0,ready,Bist du bereit für die Prüfung?,Are you ready for the exam?
+1274,Schweizer,adj,B1,69.342,0.7521,0,Swiss,Das ist die beste Schweizer Uhr.,This is the best Swiss watch.
+1284,maximal,adj,B1,68.7998,0.8704,0,maximum,Nimm das Medikament zweimal täglich um die maximale Wirkung zu erzielen.,Take the medicine twice a day to attain the maximum effect.
+1287,offiziell,adj,B1,68.7013,0.9048,0,official,Nur wenige Journalisten dürfen an dem offiziellen Treffen teilnehmen.,Only a few journalists are allowed to attend the official meeting.
+1288,außen,adj,B1,68.6027,0.9213,0,outside,Die Treppe ist außen und führt hinunter in den Garten.,The stairs are outside and lead down into the garden.
+1291,digital,adj,B1,68.5041,0.8232,0,digital,Ich mache Fotos mit einer digitalen Kamera.,I take pictures with a digital camera.
+1292,unbekannt,adj,B1,68.4056,0.9077,0,unknown,Die Informationen stammen aus einer unbekannten Quelle.,The information comes from an unknown source.
+1301,still,adj,B1,68.0113,0.8856,0,"still, quiet","Ich möchte, dass du still bist, wenn ich telefoniere.",I want you to be quiet when I’m on the phone.
+1323,finanziell,adj,B1,66.8778,0.9017,0,financial,Sarah erhält finanzielle Unterstützung von ihren Eltern.,Sarah receives financial support from her parents.
+1329,selbstverständlich,adj,B1,66.7299,0.9164,0,"natural, self-evident, obvious","Anderen Menschen zu helfen, ist für Pia selbstverständlich.","For Pia, it is natural to help other people."
+1332,ursprünglich,adj,B1,66.6314,0.932,0,original,Wir kehren zu unserem ursprünglichen Plan zurück.,We return to our original plan.
+1343,individuell,adj,B1,66.04,0.8608,0,individual,Jeder Kunde hat individuelle Wünsche.,Every customer has individual wishes.
+1344,intensiv,adj,B1,66.04,0.9139,0,intensive,Nach dem intensiven Training brauchen sie eine Pause.,After the intensive training they need a break.
+1349,rasch,adj,B1,65.7443,0.9163,0,quick,Wir müssen eine rasche Entscheidung treffen.,We have to make a quick decision.
+1350,real,adj,B1,65.7443,0.768,0,real,Der Hunger auf der Welt ist ein reales Problem.,Hunger in the world is a real problem.
+1354,sinnvoll,adj,B1,65.5471,0.9026,0,"sensible, meaningful",Sich um andere Menschen zu kümmern ist eine sinnvolle Arbeit.,Taking care of other people is a meaningful job.
+1372,stolz,adj,B1,64.7586,0.9177,0,proud,Ute ist stolz auf ihre drei Kinder.,Ute is proud of her three children.
+1383,bayrisch,adj,B1,64.2165,0.7631,0,Bavarian,Das Restaurant ist typisch bayrisch.,The restaurant is typically Bavarian.
+1387,langfristig,adj,B1,64.1179,0.7985,0,long-term,Für den Schutz der Umwelt sollten wir eine langfristige Lösung finden.,For the protection of the environment we should find a long-term solution.
+1419,britisch,adj,B1,62.6887,0.8676,0,British,Ich trinke sehr gerne britischen Tee.,I like to drink British tea.
+1429,zuständig,adj,B1,62.048,0.915,0,"appropriate, responsible",Für dieses Problem ist eine andere Person zuständig.,Another person is responsible for this problem.
+1446,gelb,adj,B1,61.5059,0.8971,0,yellow,Es ist Herbst und die Blätter werden langsam gelb.,It is autumn and the leaves are slowly turning yellow.
+1448,heftig,adj,B1,61.4073,0.9187,0,"hard, heavy, violent",Bei dem Streit bekommt er einen heftigen Schlag auf den Kopf.,"In the fight, he gets a hard punch to the head."
+1452,umgekehrt,adj,B1,61.2595,0.9143,0,"reversed, contrary, around",Er wendet sein Auto und fährt in umgekehrter Richtung zurück.,He turns his car around and drives back in the opposite direction.
+1455,abhängig,adj,B1,61.013,0.8798,0,dependent,Viele Studenten sind finanziell von ihren Eltern abhängig.,Many students are financially dependent on their parents.
+1458,ungefähr,adj,B1,60.9145,0.8953,0,approximately,Die Fahrt dauert ungefähr drei Stunden.,The journey takes about three hours.
+1460,üblich,adj,B1,60.7666,0.9513,0,usual,Er geht zu seiner üblichen Zeit ins Bett.,He goes to bed at his usual time.
+1463,global,adj,B1,60.4709,0.8824,0,global,Krieg ist ein globales Problem.,War is a global problem.
+1484,erheblich,adj,B1,59.2388,0.9165,0,considerable,"Es macht einen erheblichen Unterschied, ob ich helfe oder weitergehe.",It makes a considerable difference whether I help or keep going.
+1485,ausschließlich,adj,B1,58.9924,0.9229,0,exclusive,Der Raum ist für die ausschließliche Nutzung unserer Gäste.,This room is for the exclusive use of our guests.
+1486,griechisch,adj,B1,58.9924,0.8573,0,Greek,Moussaka ist ein griechisches Gericht.,Moussaka is a Greek dish.
+1499,spezifisch,adj,B1,58.3517,0.8061,0,specific,Jedes Organ hat seine eigene spezifische Funktion.,Each organ has its own specific function.
+1500,stabil,adj,B1,58.3025,0.8407,0,"stable, sturdy",Für so viele Bücher ist das Regal nicht stabil genug.,The shelf is not sturdy enough for so many books.
+1509,doppelt,adj,B1,57.9575,0.9474,0,double,Mein Fuß ist doppelt so groß wie deiner.,My foot is double the size of yours.
+1511,österreichisch,adj,B1,57.9082,0.7902,0,Austrian,Die österreichische Sprache klingt anders als Deutsch.,The Austrian language sounds different from German.
+1525,angeblich,adj,B1,57.4153,0.9126,0,alleged,Angeblich bekommen wir die Noten von der Prüfung nächste Woche.,Allegedly we’ll get the grades from the exam next week.
+1531,türkisch,adj,B1,57.2182,0.8046,0,Turkish,Zeynep ist ein türkischer Name.,Zeynep is a Turkish name.
+1537,sichtbar,adj,B1,56.9718,0.9051,0,visible,Das Haus ist von der Straße aus nicht sichtbar.,The house is not visible from the street.
+1552,sprachlich,adj,B1,56.3804,0.4764,0,linguistic,Sie untersuchen die sprachliche Entwicklung von Kindern.,They study the linguistic development of children.
+1553,bisherig,adj,B1,56.3311,0.9052,0,so far,Frau Schneiders bisherige Erfahrungen werden ihr im neuen Job helfen.,The experiences Mrs. Schneider has gained so far will help her in her new job.
+1555,traditionell,adj,B1,56.3311,0.9005,0,traditional,Das ist ein traditionelles Gericht meiner Familie.,This is a traditional dish of my family.
+1560,grau,adj,B1,55.9861,0.8997,0,gray,Sein Haar wird grau.,His hair’s turning gray.
+1567,perfekt,adj,B1,55.6411,0.9068,0,perfect,Niemand ist perfekt!,Nobody’s perfect!
+1573,fern,adj,B1,55.1976,0.9291,0,"far, distant",Die Pläne liegen noch in ferner Zukunft.,The plans are still for the distant future.
+1588,ehrlich,adj,B1,54.4583,0.9025,0,honest,"Ich denke, dass sie nicht immer ehrlich zu mir ist.",I don’t think she’s always honest with me.
+1590,statistisch,adj,B1,54.3598,0.6629,0,statistical,Johanna studiert Soziologie und arbeitet mit statistischen Methoden.,Johanna studies sociology and works with statistical methods.
+1593,italienisch,adj,B1,54.2612,0.8939,0,Italian,Michelangelo war ein italienischer Künstler.,Michelangelo was an Italian artist.
+1621,entfernt,adj,B1,53.2755,0.934,0,"distant, away",Berlin ist über 100 Kilometer von Leipzig entfernt.,Berlin is more than 100 kilometers away from Leipzig.
+1643,wild,adj,B1,52.4377,0.9019,0,wild,Im Garten spielen die Hunde wild miteinander.,In the garden the dogs play wildly with each other.
+1644,gesetzlich,adj,B1,52.3391,0.8169,0,legal,Das Gericht entscheidet über eine neue gesetzliche Regelung.,The court decides on a new legal regulation.
+1676,fein,adj,B1,51.1071,0.9047,0,fine,Ute hat sehr feines Haar.,Ute has very fine hair.
+1682,unglaublich,adj,B1,50.8606,0.8977,0,incredible,Die Aktien sind in den letzten Tagen unglaublich gestiegen.,The shares have risen incredibly in the last few days.
+1692,"untere (r, s)",adj,B1,50.6142,0.8026,0,lower,"Ich wohne in der unteren Wohnung, damit ich nicht so viele Treppen steigen muss.",I live in the lower apartment so I don’t have to climb so many stairs.
+1707,jährlich,adj,B1,49.9735,0.8979,0,annual,Die Universität vergibt jährlich den Preis für den besten Professor.,The university awards the prize for the best professor annually.
+1725,erforderlich,adj,B1,49.2836,0.8282,0,"required, necessary",Herr Stein hat alle erforderlichen Voraussetzungen für den Job.,Mr. Stein has all the necessary requirements for the job.
+1729,zufällig,adj,B1,49.185,0.8653,0,"accidental, by chance",Nora trifft beim Einkaufen zufällig ihren Bruder.,Nora meets her brother by chance while shopping.
+1730,enorm,adj,B1,49.1357,0.9157,0,enormous,Die Firma hat in diesem Jahr enorme Umsätze.,The company has enormous sales this year.
+1751,weitgehend,adj,B1,48.7414,0.9073,0,extensive,"Der Professor stimmt der Aussage des Studenten weitgehend zu, aber nicht vollständig.","The professor agrees with the student’s statement extensively, but not completely."
+1755,gegenseitig,adj,B1,48.5936,0.9374,0,"mutual, each other",Ole und Janosch werfen sich gegenseitig einen Ball zu.,Ole and Janosch throw each other a ball.
+1756,kurzfristig,adj,B1,48.5936,0.7644,0,at short notice,Leider muss meine Familie den Urlaub kurzfristig verschieben.,"Unfortunately, my family has to postpone their vacation at short notice."
+1759,primär,adj,B1,48.3965,0.8007,0,primary,"Sein primäres Ziel war es, den Armen zu helfen.",His primary goal was to help the poor.
+1761,vollkommen,adj,B1,48.3472,0.8733,0,"complete, perfect",Ein vollkommener Tag beginnt mit einem guten Kaffee.,A perfect day starts with a good coffee.
+1763,massiv,adj,B1,48.2486,0.9033,0,"solid, massive, severe",Nach massiver Kritik zog er seine Aussage zurück.,"After massive criticism, he withdrew his statement."
+1764,sämtlich,adj,B1,48.1993,0.9267,0,all,In dem Verlag erscheinen sämtliche Werke von Hermann Hesse.,The publishing house publishes all works by Hermann Hesse.
+1773,ökonomisch,adj,B1,47.9036,0.8304,0,economic,Die ökonomische Situation des Landes hat sich verbessert.,The economic situation in the country has improved.
+1781,zeitlich,adj,B1,47.7065,0.8706,0,in time,"Glaubst du, dass du es zeitlich schaffen wirst?",Do you think you’ll make it in time?
+1784,elektronisch,adj,B1,47.5586,0.8419,0,electronic,Im Internet gibt es gute elektronische Übersetzer.,There are good electronic translators on the internet.
+1788,demokratisch,adj,B1,47.4601,0.8216,0,democratic,Man muss die Ergebnisse einer demokratischen Wahl akzeptieren.,You have to accept the results of a democratic election.
+1791,körperlich,adj,B1,47.4108,0.8742,0,physical,Körperliche Aktivität ist genauso wichtig wie gesundes Essen.,Physical activity is as important as healthy food.
+1799,endgültig,adj,B1,47.2137,0.9296,0,final,Wir warten noch auf die endgültigen Ergebnisse.,We are still waiting for the final results.
+1800,ewig,adj,B1,47.2137,0.915,0,eternal,Jeremy schwört seiner Frau ewige Liebe.,Jeremy swears eternal love to his wife.
+1808,schmal,adj,B1,46.9179,0.8818,0,"narrow, slender",Wir folgen einem schmalen Weg durch den Wald.,We are following a narrow track through the forest.
+1829,seltsam,adj,B1,46.1787,0.8834,0,"strange, peculiar",Ich höre ein seltsames Geräusch aus dem Raum nebenan.,I hear a strange sound from the room next door.
+1834,mächtig,adj,B1,46.0308,0.9153,0,powerful,Der Präsident ist in einer mächtigen Position.,The president is in a powerful position.
+1839,-jährig,adj,B1,45.7351,0.8377,0,years (old),Das fünfjährige Kind sucht seine Mutter.,The five-year-old child is looking for his mother.
+1840,künstlich,adj,B1,45.6859,0.84,0,artificial,Er muss künstlich ernährt werden.,He needs to be artificially nourished.
+1868,kompliziert,adj,B1,44.9466,0.9369,0,complicated,Mathematik ist manchmal sehr kompliziert.,Mathematics is sometimes very complicated.
+1876,westlich,adj,B1,44.7002,0.9033,0,"western, west",Westlich von Deutschland liegen die Niederlande.,West of Germany lies the Netherlands.
+1877,geistig,adj,B1,44.6509,0.8707,0,"intellectual, mental",Die alte Dame erfreut sich bester geistiger Gesundheit.,The old lady is in perfect mental health.
+1879,unmöglich,adj,B1,44.6509,0.9346,0,impossible,"Es ist unmöglich, bei der lauten Musik zu schlafen.",It’s impossible to sleep with the loud music.
+1880,optimal,adj,B1,44.6016,0.7634,0,"best possible, optimum",Sein Trainingsplan garantiert ein optimales Ergebnis.,His training schedule guarantees an optimum result.
+1894,empirisch,adj,B1,44.1581,0.7151,0,empirical,"In der Wissenschaft versucht man, Annahmen empirisch zu belegen.","In science, one tries to prove assumptions empirically."
+1905,parallel,adj,B1,43.8624,0.8708,0,parallel,Die Straßen in diesem Teil der Stadt laufen parallel.,The streets in this part of the city run parallel.
+1912,korrekt,adj,B1,43.6652,0.8695,0,correct,Die Antwort ist korrekt!,The answer is correct!
+1919,spanisch,adj,B1,43.5174,0.8488,0,Spanish,Ich höre gerne spanische Musik.,I like Spanish music.
+1933,generell,adj,B1,43.2217,0.9068,0,general,Sven fährt generell nicht mit dem Auto und geht lieber zu Fuß.,Sven generally does not drive and prefers to walk.
+1943,verrückt,adj,B1,43.0245,0.8931,0,"crazy, insane",Diese Idee ist vollkommen verrückt.,This idea is completely insane.
+1965,durchschnittlich,adj,B1,42.4824,0.8731,0,average,In Deutschland wird durchschnittlich mehr Bier getrunken als in anderen europäischen Ländern.,"On average, more beer is drunk in Germany than in other European countries."
+1974,potenziell,adj,B1,42.2853,0.8715,0,potential,Magnus ist ein potenzieller Kandidat für den Job.,Magnus is a potential candidate for the job.
+1977,religiös,adj,B1,42.236,0.876,0,religious,Veronika ist sehr religiös und geht jeden Sonntag in die Kirche.,Veronika is very religious and goes to church every Sunday.
+1978,nackt,adj,B1,42.1867,0.8649,0,"naked, bare","Wenn sie auf die Welt kommen, sind alle Menschen nackt.","When they’re born, all humans are naked."
+1980,beruflich,adj,B1,42.1374,0.8703,0,professional,Timo ist beruflicher Erfolg wichtiger als eine eigene Familie.,To Timo professional success is more important than having your own family.
+1996,rechtlich,adj,B1,41.546,0.8564,0,legal,"Dem Vater ist es rechtlich erlaubt, seine Kinder am Wochenende zu besuchen.",The father is legally allowed to visit his children on weekends.
+2003,Wiener,adj,B1,41.3489,0.7702,0,Viennese,"Es gibt 23 Wiener Bezirke, der erste Bezirk ist die Innenstadt von Wien.","There are 23 Viennese districts, the first district is the city center of Vienna."
+2006,tätig,adj,B1,41.2996,0.9025,0,active,Nach seinem Studium ist Markus in einer wirtschaftlichen Branche tätig.,After his studies Markus is active in a business sector.
+2011,regional,adj,B1,41.0532,0.8698,0,regional,"Ich kaufe nur regionale Produkte, weil ich mein Bundesland unterstützen will.",I only buy regional products because I want to support my state.
+2012,strategisch,adj,B1,41.0532,0.7477,0,strategic,Dieses Spiel erfordert strategische Kompetenz.,This game requires strategic competence.
+2013,exakt,adj,B1,40.9546,0.8931,0,exact,Ich möchte kochen und brauche exakt 750 Milliliter Wasser dafür.,I want to cook and I need exactly 750 milliliters of water for it.
+2024,golden,adj,B1,40.7575,0.8881,0,"gold, golden",Sie tragen beide einen goldenen Ring als Zeichen ihrer Liebe.,They both wear a golden ring as a sign of their love.
+2030,gewaltig,adj,B1,40.6589,0.9149,0,"enormous, tremendous, powerful","Die Welle ist so gewaltig, dass sie auf unser Haus am Strand trifft.",The wave is so powerful that it hits our house on the beach.
+2031,relevant,adj,B1,40.6589,0.8528,0,relevant,"Der Professor gibt uns Texte, die für die Prüfung relevant sind.",The professor gives us texts that are relevant for the exam.
+2045,damalig,adj,B1,40.314,0.9088,0,at that time,Unser damaliges Haus stand direkt an einem Wald.,Our house at that time stood directly next to a forest.
+2047,mathematisch,adj,B1,40.314,0.7647,0,mathematical,"Um die Höhe der Brücke zu bestimmen, wendet Max eine mathematische Formel an.","To determine the height of the bridge, Max uses a mathematical formula."
+2059,medial,adj,B1,40.0183,0.4134,0,media,Die Firma macht jetzt auch medial Werbung.,The company is now also doing media advertising.
+2060,hauptsächlich,adj,B1,39.9197,0.9001,0,"mainly, mostly",Viele Babys schlafen und essen hauptsächlich.,Many babies sleep and eat mostly.
+2066,mehrfach,adj,B1,39.7718,0.9063,0,"multiple, several",Die Knochen im Bein des Patienten sind mehrfach gebrochen.,The bones in the patient’s leg are broken several times.
+2080,gerecht,adj,B1,39.5254,0.9015,0,"just, fair","Der Richter versucht, ein gerechtes Urteil zu sprechen.",The judge is trying to reach a fair verdict.
+2081,unendlich,adj,B1,39.4761,0.8949,0,"endless, infinite","Etwas, was räumlich und zeitlich keine Grenzen hat, ist unendlich.",Something that has no spatial and temporal limits is infinite.
+2083,literarisch,adj,B1,39.4268,0.7685,0,literary,James Joyces Roman Ulysses ist ein berühmtes literarisches Werk.,James Joyce’s novel Ulysses is a famous literary work.
+2088,ungewöhnlich,adj,B1,39.279,0.9321,0,unusual,Sabrina ist ungewöhnlich klug für ihr Alter.,Sabrina is unusually smart for her age.
+2098,jüdisch,adj,B1,39.0326,0.8619,0,Jewish,Hannah Arendt war eine jüdische Philosophin und Autorin.,Hannah Arendt was a Jewish philosopher and author.
+2104,optisch,adj,B1,38.9833,0.7048,0,"optical, visual",Die optische Gestaltung des Zimmers gefällt mir sehr gut.,I like the visual design of the room very much.
+2105,militärisch,adj,B1,38.934,0.8392,0,military,"Die Staaten wollen es vermeiden, den Konflikt militärisch zu lösen.",The states want to avoid resolving the conflict militarily.
+2108,grundlegend,adj,B1,38.8354,0.8814,0,"basic, fundamental",Das Gesetz wird eine grundlegende Veränderung bewirken.,The law will cause a fundamental change.
+2124,heilig,adj,B1,38.4905,0.8747,0,holy,In Indien ist die Kuh ein heiliges Tier.,"In India, the cow is a holy animal."
+2159,arabisch,adj,B1,37.8991,0.878,0,"Arabian, Arabic",Viele arabische Länder haben eine starke Ölindustrie.,Many Arab countries have a strong oil industry.
+2169,systematisch,adj,B1,37.7512,0.8813,0,systematic,In vielen Ländern werden politische Gegner systematisch verfolgt.,Political opponents are systematically persecuted in many countries.
+2181,nachhaltig,adj,B1,37.4555,0.8724,0,"lasting, sustainable",Wir haben nur eine Erde und sollten nachhaltige Ideen fördern.,We only have one earth and should promote sustainable ideas.
+2199,glatt,adj,B1,37.012,0.8351,0,"smooth, slippery","Sei vorsichtig, der Weg ist glatt.","Be careful, the path is slippery."
+2203,bedeutend,adj,B1,36.8641,0.9183,0,"important, significant",Schiller ist ein bedeutender deutscher Dichter.,Schiller is an important German poet.
+2210,kräftig,adj,B1,36.7655,0.9201,0,strong,Der Gegner fällt nach einem kräftigen Schlag auf den Boden.,The opponent falls to the ground after a powerful strike.
+2214,angenehm,adj,B1,36.7163,0.9158,0,pleasant,Wir wünschen Ihnen eine angenehme Reise auf unserem Schiff.,We wish you a pleasant journey on our ship.
+2219,winzig,adj,B1,36.6177,0.8755,0,tiny,Bakterien sind winzige Organismen.,Bacteria are tiny organisms.
+2222,künstlerisch,adj,B1,36.5684,0.7895,0,artistic,In dem Kurs entdeckt Frau Schneider ihr künstlerisches Talent.,"In the course, Mrs. Schneider discovers her artistic talent."
+2229,aufmerksam,adj,B1,36.4206,0.923,0,attentive,Paul ist ein sehr aufmerksamer Schüler.,Paul is a very attentive student.
+2232,analog,adj,B1,36.322,0.8335,0,"analog, analogous",Er macht Fotos mit einer analogen Kamera.,He takes pictures with an analog camera.
+2236,"äußere (r, s)",adj,B1,36.2727,0.8246,0,"outer, external","Das Ohr besteht aus einem äußeren, sichtbaren und einem inneren Teil.","The ear consists of an external, visible and an internal part."
+2248,ordentlich,adj,B1,36.0756,0.9357,0,"neat, proper, orderly","Jedes Kind braucht ein ordentliches Frühstück, um in der Schule aufmerksam zu sein.",Every child needs a proper breakfast to be attentive in school.
+2253,gewöhnlich,adj,B1,35.8784,0.8992,0,usual,"Die Kirche ist nicht nur sonntags, sondern auch an gewöhnlichen Tagen geöffnet.","The church is open not only on Sundays, but also on ordinary days."
+2254,großartig,adj,B1,35.8784,0.8824,0,"great, splendid, superb, terrific",Das Konzert war großartig und ich werde es nie vergessen.,The concert was great and I will never forget it.
+2259,beliebig,adj,B1,35.7799,0.8109,0,"any, as you like",Jeder kann beliebig viel Freunde mitbringen.,Everyone can bring as many friends as they like.
+2264,gezielt,adj,B1,35.7306,0.9143,0,"targeted, purposeful, pointed, well- aimed",Durch gezielten Einsatz der Substanz können alle Viren abgetötet werden.,All viruses can be killed by targeted use of the substance.
+2267,extern,adj,B1,35.6813,0.6913,0,external,Eine externe Mitarbeiterin arbeitet an diesem Teil des Projekts.,An external collaborator is working on this part of the project.
+2269,stetig,adj,B1,35.632,0.6999,0,constant,Der stetige Anstieg des Meeresspiegels ist ein globales Problem.,The constant rise in sea level is a global problem.
+2279,moralisch,adj,B1,35.4349,0.8332,0,moral,"Es ist für sie eine moralische Pflicht, Geld zu spenden.","For her, it is a moral duty to donate money."
+2296,vertraut,adj,B1,35.0899,0.9258,0,"familiar, close",Ich entdecke ein vertrautes Gesicht in der Menge.,I discover a familiar face in the crowd.
+2301,eventuell,adj,B1,34.8928,0.9023,0,possible,"Es gibt verschiedene Pläne, um auf alle eventuellen Probleme reagieren zu können.",There are several plans to respond to all possible problems.
+2306,intern,adj,B1,34.7942,0.8545,0,internal,Die internen Angelegenheiten der Firma sind streng geheim.,The internal matters of the company are strictly confidential.
+2310,genetisch,adj,B1,34.7449,0.6439,0,genetic,Diese Lebensmittel sind genetisch verändert.,These foods are genetically modified.
+2314,lebendig,adj,B1,34.5971,0.8749,0,"living, lively",Wir haben eine lebendige Diskussion im Seminar.,We have a lively discussion in the seminar.
+2320,braun,adj,B1,34.4985,0.8944,0,brown,Rachel hat braune Augen.,Rachel has brown eyes.
+2332,zukünftig,adj,B1,34.2521,0.8826,0,future,Zukünftige Generationen werden hoffentlich alles besser machen.,Future generations will hopefully do everything better.
+2373,friedlich,adj,B1,33.4635,0.8979,0,peaceful,Die Kinder schlafen friedlich in ihren Betten.,The children sleep peacefully in their beds.
+2375,vernünftig,adj,B1,33.4635,0.8981,0,"sensible, reasonable","Daniel ist vernünftig und trinkt keinen Alkohol, wenn er Auto fährt.",Daniel is reasonable and doesn’t drink alcohol when he drives.
+2378,gegenwärtig,adj,B1,33.365,0.8913,0,"present, current",Die gegenwärtige politische Lage spricht gegen eine erneute Wahl dieser Partei.,The current political situation argues against reelecting this party.
+2384,wahnsinnig,adj,B1,33.365,0.8441,0,insane,"Ich habe wahnsinnige Schmerzen, bitte helfen Sie mir.","I’m in insane pain, please help me."
+2385,erstaunlich,adj,B1,33.3157,0.9067,0,astonishing,"Es ist erstaunlich, wie schnell Kinder eine Sprache lernen.",It’s astonishing how quickly children learn a language.
+2388,emotional,adj,B1,33.2664,0.8318,0,emotional,Bei traurigen Filmen wird mein Vater immer emotional und weint.,"When watching sad movies, my father always gets emotional and cries."
+2400,vergleichbar,adj,B1,33.0693,0.9187,0,comparable,"Fabian hofft, bei diesem Rennen eine vergleichbare Zeit wie letztes Jahr zu erreichen.",Fabian hopes to achieve a comparable time to last year in this race.
+2411,wertvoll,adj,B1,32.9214,0.9082,0,valuable,Gold ist sehr wertvoll.,Gold is very valuable.
+2414,umstritten,adj,B1,32.8721,0.8548,0,disputed,Die Theorien des Wissenschaftlers sind umstritten.,The scientist’s theories are disputed.
+2416,biologisch,adj,B1,32.8229,0.8381,0,biological,Rainer ist der biologische Vater von Nadine.,Rainer is Nadine’s biological father.
+2417,vielfältig,adj,B1,32.8229,0.8615,0,"diverse, varied",Das Restaurant hat ein vielfältiges Angebot an Gerichten.,The restaurant has a varied range of dishes.
+2418,wirksam,adj,B1,32.8229,0.7743,0,effective,Das ist ein wirksames Medikament.,It’s an effective drug.
+2426,indirekt,adj,B1,32.6257,0.8757,0,indirect,Das indirekte Licht macht den Raum heller.,The indirect light makes the room brighter.
+2437,flach,adj,B1,32.4286,0.903,0,"flat, low, shallow",Das Wasser im See ist sehr flach.,The water in the lake is very shallow.
+2439,einheimisch,adj,B1,32.3793,0.8237,0,native,Der Wissenschaftler beschäftigt sich vor allem mit einheimischen Tieren und Pflanzen.,The scientist deals mainly with native animals and plants.
+2444,attraktiv,adj,B1,32.2314,0.9043,0,attractive,Der niedrige Preis macht das Angebot sehr attraktiv.,The low price makes the offer very attractive.
+2453,dramatisch,adj,B1,32.1329,0.8984,0,dramatic,Der dramatische Anstieg der Steuern bereitet der Bevölkerung Sorgen.,The dramatic increase in taxes is worrying the population.
+2469,olympisch,adj,B1,31.9357,0.7334,0,Olympic,2012 fanden die olympischen Spiele in London statt.,In 2012 the Olympic Games took place in London.
+2470,verdammt,adj,B1,31.9357,0.8189,0,damned,Dieses verdammte Handy funktioniert nicht.,This damn cell phone isn’t working.
+2473,illegal,adj,B1,31.8865,0.8649,0,illegal,Viele Menschen leben illegal in diesem Land.,Many people live illegally in this country.
+2481,einsam,adj,B1,31.7879,0.8927,0,"lonely, isolated","Sie fühlt sich einsam, jetzt wo all ihre Kinder aus dem Haus sind.",She’s lonely now that all her kids are out of the house.
+2488,Frankfurter,adj,B1,31.7386,0.8014,0,Frankfurt,Der Frankfurter Flughafen soll noch einmal erweitert werden.,The Frankfurt airport is be expanded once again.
+2489,identisch,adj,B1,31.7386,0.8382,0,identical,Die Zwillinge sehen beinahe identisch aus.,The twins look almost identical.
+2493,dauerhaft,adj,B1,31.6893,0.8993,0,lasting,"Die Medikamente helfen nur für einige Zeit, denn die Wirkung ist nicht dauerhaft.","The drugs only help for some time, because the effect is not lasting."
+2496,räumlich,adj,B1,31.64,0.8155,0,"three-dimensional, spatial",Die Fragen testen die räumliche Wahrnehmung.,The questions test spatial perception.
+2497,jahrelang,adj,B1,31.5908,0.9141,0,"many years, for years",Laura und mich verbindet eine jahrelange Freundschaft.,A friendship of many years unites Laura and me.
+2586,wütend,adj,B1,30.1615,0.8732,0,furious,"Immer wenn Claudia ein Spiel verliert, wird sie wütend.","Whenever Claudia loses a game, she gets angry."
+2596,hübsch,adj,B1,30.0137,0.8845,0,pretty,Das Mädchen trägt ein hübsches Kleid.,That girl is wearing a pretty dress.
+2654,dankbar,adj,B1,29.2744,0.86,0,grateful,Wir sind dankbar für die Geschenke und das schöne Fest.,We are grateful for the gifts and the beautiful celebration.
+2664,kreativ,adj,B1,29.1759,0.7893,0,creative,Wir suchen noch kreative Menschen mit neuen Ideen.,We are still looking for creative people with new ideas.
+2679,blind,adj,B1,28.9294,0.8716,0,blind,Sie ist blind und kann nur Licht und Schatten wahrnehmen.,She is blind and can only perceive light and shadow.
+2749,steil,adj,B1,27.9438,0.8585,0,steep,Der Weg zum Gipfel ist steil.,The path to the peak is steep.
+2752,interkulturell,adj,B1,27.8945,0.2704,0,intercultural,Sie leitet ein Seminar über interkulturelle Kommunikation.,She runs a seminar on intercultural communication.
+2758,unheimlich,adj,B1,27.7959,0.8579,0,"eerie, scary, incredible, creepy",Sie wacht von einem unheimlichen Geräusch auf.,She wakes up to a creepy sound.
+2767,alternativ,adj,B1,27.6481,0.8787,0,alternatively,"Wenn dir das Haus zu teuer ist, kann ich dir alternativ eine Wohnung zeigen.","If the house is too expensive for you, I can alternatively show you an apartment."
+2803,fair,adj,B1,27.1552,0.8284,0,fair,Die Entscheidung war nicht fair.,The decision was not fair.
+2857,einheitlich,adj,B1,26.5146,0.8784,0,"uniform, standardized","Wir brauchen einheitliche Regeln, die für alle gelten.",We need uniform rules that apply to everyone.
+2891,senkrecht,adj,B1,26.1203,0.7507,0,vertical,Bitte tragen Sie die Buchstaben senkrecht in die Felder ein.,Please enter the letters vertically in the fields.
+2899,flexibel,adj,B1,26.0217,0.7917,0,flexible,"Ich habe flexible Arbeitszeiten, sodass ich morgen früher gehen kann.",I have flexible working hours so I can leave early tomorrow.
+2901,mobil,adj,B1,26.0217,0.8273,0,mobile,"Seit ich das Auto habe, bin ich endlich mobil.","Since I got the car, I’m finally mobile."
+2910,verständlich,adj,B1,25.9232,0.8933,0,comprehensible,"Der Professor spricht so leise, dass er für seine Studenten nicht verständlich ist.",The professor speaks so quietly that he is not comprehensible to his students.
+2933,merkwürdig,adj,B1,25.6275,0.8853,0,strange,Der Zeuge erzählt von merkwürdigen Geräuschen in der Nacht der Tat.,The witness tells of strange noises on the night of the crime.
+2944,peinlich,adj,B1,25.4796,0.8926,0,embarrassing,Mein Verhalten ist mir sehr peinlich.,I’m very embarrassed about my behavior.
+2988,locker,adj,B1,24.9375,0.8848,0,"loose, relaxed","Die Hose sitzt sehr locker, ich muss sie enger machen.",The pants are very loose; I have to take them in.
+3013,zugänglich,adj,B1,24.6911,0.9015,0,accessible,Diese Filme sind nur Leuten über 18 Jahren zugänglich.,These films are only accessible to people over 18 years of age.
+3021,schief,adj,B1,24.5925,0.8775,0,"crooked, not straight",Das Bild an der Wand hängt schief.,The picture on the wall is crooked.
+3039,mündlich,adj,B1,24.3954,0.8019,0,oral,Fabian findet mündliche Prüfungen schwerer als schriftliche.,Fabian finds oral exams harder than written ones.
+3040,neugierig,adj,B1,24.3954,0.8902,0,curious,"Ich bin sehr neugierig darauf, was am Ende des Buches passiert.",I’m very curious about what happens at the end of the book.
+3055,virtuell,adj,B1,24.0997,0.8158,0,virtual,Im Moment lebt er nur noch in der virtuellen Welt und nicht in der Realität.,At the moment he only lives in the virtual world and not in reality.
+3097,wunderschön,adj,B1,23.7547,0.8721,0,"wonderful, lovely",Er liest ihr ein wunderschönes Gedicht vor.,He’s reading her a beautiful poem.
+3112,geheim,adj,B1,23.459,0.908,0,secret,Die Party findet an einem geheimen Ort statt.,The party is taking place in a secret place.
+3113,rechtzeitig,adj,B1,23.459,0.9166,0,"punctual, in time","Wir müssen uns rechtzeitig auf den Weg machen, damit wir nicht zu spät kommen.",We have to get going in time so we won’t be late.
+3165,feucht,adj,B1,22.8183,0.8753,0,damp,Der Boden ist noch feucht vom Regen.,The ground is still damp from the rain.
+3208,fröhlich,adj,B1,22.3747,0.8987,0,cheerful,Ich möchte auf meiner Hochzeit nur fröhliche Lieder hören.,I only want to hear cheerful songs at my wedding.
+3215,heimlich,adj,B1,22.3255,0.891,0,secret,Die Vereinbarung wurde bei einem heimlichen Meeting getroffen.,The agreement was reached at a secret meeting.
+3277,stumm,adj,B1,21.6848,0.8488,0,"dumb, silent, mute","Das Mädchen kann nicht sprechen, sie ist stumm zur Welt gekommen.",The girl can’t speak; she was born mute.
+3351,realistisch,adj,B1,21.0441,0.9165,0,realistic,Der Film bietet eine realistische Darstellung der Geschichte.,The film offers a realistic representation of the story.
+3352,tödlich,adj,B1,21.0441,0.9029,0,fatal,Diese Krankheit verläuft meist tödlich.,This disease is usually fatal.
+3395,gespannt,adj,B1,20.7484,0.9036,0,"eager, anxious, tense","Ich bin gespannt, sie nach so langer Zeit wiederzusehen.",I’m eager to see her after such a long time.
+3412,treu,adj,B1,20.6498,0.9064,0,faithful,Die Band hat eine große und treue Gemeinde aus Fans in England.,The band has a large and faithful community of fans in England.
+3565,musikalisch,adj,B1,19.3684,0.8386,0,musical,Die musikalische Leitung hat Jonathan Michels.,The musical director is Jonathan Michels.
+3627,vorläufig,adj,B1,19.0235,0.8847,0,temporary,"Wir brauchen einen vorläufigen Plan, bis wir eine dauerhafte Lösung finden.",We need a temporary plan until we find a lasting solution.
+3665,vergeblich,adj,B1,18.6785,0.8968,0,futile,"Alle Versuche, einen Käufer für das Haus zu finden, sind bislang vergeblich.",All attempts to find a buyer for the house have been futile so far.
+3674,schuldig,adj,B1,18.6292,0.9003,0,guilty,"Ich fühle mich schuldig, weil ich meinen Eltern eine Lüge erzähle.",I feel guilty about telling my parents a lie.
+3699,städtisch,adj,B1,18.4813,0.8774,0,"municipal, urban","Ich möchte, dass mein Kind städtisch aufwächst.",I want my child to grow up urban.
+3720,dauernd,adj,B1,18.3335,0.8803,0,"constant, lasting",Er hat dauernd Probleme mit der Polizei.,He’s in constant trouble with the police.
+3722,elegant,adj,B1,18.3335,0.8904,0,elegant,Die Königin bewegt sich sehr elegant.,The queen moves very elegantly.
+3763,passiv,adj,B1,18.0378,0.8183,0,passive,Passives Rauchen ist auch gefährlich.,"Passive smoking is dangerous, too."
+3792,gründlich,adj,B1,17.8899,0.9091,0,thorough,"Du musst deine Sätze in Zukunft gründlicher lesen, du hast zu viele Fehler gemacht.",You have to read your sentences more thoroughly in the future; you have made too many mistakes.
+3820,minimal,adj,B1,17.6928,0.8558,0,minimal,Der Athlet auf Platz eins hat nur einen minimalen Vorsprung vor dem Athleten auf Platz zwei.,The athlete in first place has only a minimal lead over the athlete in second place.
+3852,mutig,adj,B1,17.4957,0.888,0,courageous,Janosch ist ein mutiges Kind und traut sich deswegen mehr als andere Kinder.,Janosch is a courageous child and therefore dares more than other children.
+3872,gemütlich,adj,B1,17.3971,0.8811,0,"comfortable, cozy",Dein Bett ist so gemütlich.,Your bed is so comfortable.
+3876,blass,adj,B1,17.3478,0.8332,0,pale,Sie hat Schmerzen und ist sehr blass.,She’s in pain and very pale.
+3911,satt,adj,B1,17.0521,0.9022,0,"full, fed up","Ich esse nichts mehr, ich bin satt.","I’m not eating anymore, I’m full."
+3990,verwandt,adj,B1,16.7071,0.908,0,related,"Weil wir den gleichen Vater haben, sind wir verwandt.","Because we have the same father, we are related."
+4047,verdächtig,adj,B1,16.4114,0.8535,0,suspicious,Ihr Verhalten ist sehr verdächtig.,Your behavior is very suspicious.
+4048,zuverlässig,adj,B1,16.4114,0.9179,0,reliable,"Alexander ist sehr zuverlässig. Wenn er sagt, dass er etwas macht, dann tut er es auch.","Alexander is very reliable. If he says he’s doing something, he’s doing it."
+4050,alltäglich,adj,B1,16.3621,0.8775,0,"daily, usual, ordinary",Das Fernsehen zeigt alltägliche Probleme der Menschen.,Television shows people’s ordinary problems.
+4153,einverstanden,adj,B1,15.7215,0.8969,0,(to be) in agreement,Ich bin mit deinem Vorschlag einverstanden und stimme dir zu.,I agree with your suggestion and agree with you.
+4201,sinnlos,adj,B1,15.5243,0.891,0,meaningless,"Niko stellt nur sinnlose Fragen, auf die er die Antworten schon kennt.",Niko only asks meaningless questions to which he already knows the answers.
+4210,populär,adj,B1,15.475,0.8872,0,popular,"Je mehr Menschen unser Buch lesen, desto populärer wird es.","The more people read our book, the more popular it becomes."
+4255,mild,adj,B1,15.2286,0.8914,0,"mild, gentle","Wir haben sehr mildes Wetter, obwohl es kalt sein müsste.","We have very mild weather, although it should be cold."
+4367,voraussichtlich,adj,B1,14.6865,0.8629,0,"probable, presumable",Ich bin voraussichtlich morgen mit meiner Arbeit fertig.,I’ll probably finish my work tomorrow.
+4377,überlegen,adj,B1,14.6372,0.928,0,superior,Tino ist mir in seiner Intelligenz überlegen.,Tino is superior to me in his intelligence.
+4480,reif,adj,B1,14.1444,0.8792,0,ripe,"Ob eine Frucht reif ist, erkennt man oft schon am Aussehen.",Whether a fruit is ripe can often be seen from its appearance.
+4509,fließend,adj,B1,13.9965,0.9017,0,"fluent, fluid, flowing",Das Kleid hat einen sehr schönen fließenden Stoff.,The dress has a very nice flowing fabric.
+4561,giftig,adj,B1,13.7501,0.8525,0,poisonous,"Du darfst keine Pflanzen essen, die du nicht kennst, vielleicht sind sie giftig.","You can’t eat plants you don’t know, maybe they’re poisonous."
+4686,optimistisch,adj,B1,13.1587,0.8743,0,optimistic,Sie blicken optimistisch in die Zukunft.,They are optimistic about the future.
+4735,höflich,adj,B1,12.9616,0.8753,0,polite,"Tom fragt sehr höflich, ob er sich setzen darf.",Tom asks very politely if he may sit down.
+4766,spitz,adj,B1,12.863,0.8937,0,sharp,Die Schere ist vorne sehr spitz und deswegen nicht für Kinder geeignet.,The scissors are very sharp at the tip and therefore not suitable for children.
+4891,ausgezeichnet,adj,B1,12.2716,0.9051,0,"excellent, outstanding",Er hat in der Schule nur ausgezeichnete Noten.,He has only excellent grades in school.

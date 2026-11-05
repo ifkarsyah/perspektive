@@ -1,0 +1,470 @@
+rank,word,pos,level,freq_per_million,dispersion,has_conjugation,definition,example_de,example_en
+158,"gelten, gilt, galt, hat gegolten",verb,B1,549.7581,0.9226,1,to be valid,Die Karte für den Zug gilt nur heute.,The ticket for the train is only valid today.
+160,"folgen, folgt, folgte, ist gefolgt",verb,B1,546.6532,0.9077,1,to follow,Der Hund folgt meinem Vater.,The dog follows my father.
+162,"führen, führt, führte, hat geführt",verb,B1,543.7455,0.9643,1,to lead,Jakob führt uns durch das Museum.,Jakob leads us through the museum.
+193,"ziehen, zieht, zog, hat gezogen",verb,B1,446.3119,0.931,1,"to pull, move","Man muss an der Tür ziehen, um sie zu öffnen.",You have to pull on the door to open it.
+264,"entstehen, entsteht, entstand, ist entstanden",verb,B1,329.7563,0.9001,1,"to originate, develop",Neben unserem Haus entsteht ein neues Gebäude.,Next to our house a new building is being built.
+287,"erhalten, erhält, erhielt, hat erhalten",verb,B1,303.1432,0.9254,1,to receive,Du erhältst morgen ein Geschenk.,You’ll receive a present tomorrow.
+321,"steigen, steigt, stieg, ist gestiegen",verb,B1,260.8086,0.9124,1,"to climb, increase",Ich steige auf den Berg.,I’m climbing the mountain.
+356,"erkennen, erkennt, erkannte, hat erkannt",verb,B1,237.3989,0.9492,1,"to recognize, admit",Babys erkennen ihre Mütter an ihren Stimmen.,Babies recognize their mothers by their voices.
+367,"treten, tritt, trat, hat getreten",verb,B1,227.9857,0.9545,1,to step,Natascha öffnet die Tür und tritt nach draußen.,Natascha opens the door and steps outside.
+377,"entwickeln, entwickelt, entwickelte, hat entwickelt",verb,B1,219.6075,0.9271,1,to develop,Die Forscher entwickeln ein neues Medikament.,The researchers are developing a new drug.
+401,"wirken, wirkt, wirkte, hat gewirkt",verb,B1,204.4282,0.9448,1,"to have an effect, take effect, work","Als das Medikament wirkt, hat Markus keine Schmerzen mehr.","When the medication takes effect, Markus is no longer in pain."
+402,"darstellen, stellt dar, stellte dar, hat dargestellt",verb,B1,204.2804,0.8976,1,"to depict, portray, show",Das Bild stellt eine Frau mit ihrem Hund dar.,The picture shows a woman with her dog.
+414,"entscheiden, entscheidet, entschied, hat entschieden",verb,B1,199.8941,0.9381,1,to decide,"Er kann sich nicht entscheiden, was er essen möchte.",He can’t decide what he wants to eat.
+429,"nutzen, nutzt, nutzte, hat genutzt",verb,B1,192.2059,0.9481,1,to use,Sie nutzt jede freie Minute zum Lesen.,She uses every free minute to read.
+450,"verlassen, verlässt, verließ, hat verlassen",verb,B1,183.2856,0.9267,1,to leave,In einem Monat werden sie das Land verlassen.,They’ll be leaving the country in a month.
+452,"verbinden, verbindet, verband, hat verbunden",verb,B1,181.6592,0.921,1,"to connect, link, unite",Musik verbindet die Menschen.,Music connects people.
+461,"einsetzen, setzt ein, setzte ein, hat eingesetzt",verb,B1,179.1457,0.9305,1,"to put in, insert",Setzen Sie die richtigen Wörter in die Lücken im Satz ein.,Insert the correct words in the gaps in the sentence.
+464,"befinden (sich), befindet, befand, hat befunden",verb,B1,178.0615,0.9472,1,to be,Das Restaurant befindet sich in der Nähe des Bahnhofs.,The restaurant is near the railway station.
+470,"wachsen, wächst, wuchs, ist gewachsen",verb,B1,175.893,0.9401,1,to grow,Kinder wachsen schneller als Erwachsene.,Children grow faster than adults.
+490,"stimmen, stimmt, stimmte, hat gestimmt",verb,B1,170.1761,0.9319,1,"to be correct, vote, tune",Alle stimmen gegen Ninas Idee.,Everyone votes against Nina’s idea.
+502,"gelingen, gelingt, gelang, ist gelungen",verb,B1,166.677,0.9338,1,to succeed,"Endlich gelingt es Mona, sie anzusprechen.",Finally Mona succeeds in approaching her.
+510,"schauen, schaut, schaute, hat geschaut",verb,B1,165.8885,0.8997,1,to look,Du musst immer nach vorn schauen.,You always have to look ahead.
+523,"annehmen, nimmt an, nahm an, hat angenommen",verb,B1,163.5721,0.9277,1,"to accept, assume","Ich nehme an, dass die guten Studenten die Prüfung bestehen.",I assume that the good students pass the exam.
+531,"bieten, bietet, bot, hat geboten",verb,B1,160.3687,0.9262,1,to offer,Das neue Museum bietet einen Überblick über moderne Kunst.,The new museum offers an overview of modern art.
+538,"verwenden, verwendet, verwendete, hat verwendet",verb,B1,158.5945,0.8847,1,to use,"Ich verwende mein Telefon auch, um Fotos zu machen.",I also use my phone to take pictures.
+559,"verschwinden, verschwindet, verschwand, ist verschwunden",verb,B1,154.504,0.9066,1,to disappear,Die Sonne verschwindet hinter den Bergen.,The sun disappears behind the mountains.
+561,"bewegen, bewegt, bewegte, hat bewegt",verb,B1,153.6169,0.9465,1,to move,"Sie bewegt sich vorsichtig und langsam, um kein Geräusch zu machen.",She moves carefully and slowly to make no noise.
+562,"enthalten, enthält, enthielt, hat enthalten",verb,B1,153.2719,0.8701,1,to contain,Fleisch enthält verschiedene Proteine.,Meat contains various proteins.
+563,"aufnehmen, nimmt auf, nahm auf, hat aufgenommen",verb,B1,152.9269,0.9419,1,"to take in, record, include",Für zwei Wochen nehmen wir einen Schüler aus Amerika bei uns zu Hause auf.,For two weeks we are taking in a student from America.
+570,"erleben, erlebt, erlebte, hat erlebt",verb,B1,151.2512,0.9211,1,to experience,So einen schönen Tag erlebt man nur einmal im Leben.,You only have such a beautiful day once in a lifetime.
+586,"besitzen, besitzt, besaß, hat besessen",verb,B1,147.7521,0.9087,1,"to own, have",Julia besitzt die Hälfte der Firma.,Julia owns half the company.
+599,"fordern, fordert, forderte, hat gefordert",verb,B1,144.6965,0.8934,1,"to demand, claim",Sie fordern den gleichen Lohn für alle.,They’re demanding the same salary for everyone.
+603,verhalten,verb,B1,143.8587,0.8801,1,"to behave, act",Du verhältst dich wie ein Kind.,You’re behaving like a child.
+607,"unterscheiden, unterscheidet, unterschied, hat unterschieden",verb,B1,142.5281,0.8976,1,to distinguish,Er kann links und rechts nicht unterscheiden.,He can’t distinguish left from right.
+610,"reichen, reicht, reichte, hat gereicht",verb,B1,141.9859,0.9551,1,"to reach, be enough",Das Frühstück reicht für die ganze Familie.,The breakfast is enough for the whole family.
+613,"schlagen, schlägt, schlug, hat geschlagen",verb,B1,141.5917,0.9272,1,"to hit, beat","Wenn Tim wütend ist, schlägt er manchmal seine kleine Schwester.","When Tim’s angry, sometimes he hits his little sister."
+617,"erhöhen, erhöht, erhöhte, hat erhöht",verb,B1,141.1481,0.8752,1,"to raise, increase",Die Regierung möchte die Steuern erhöhen.,The government wants to raise taxes.
+618,"sorgen, sorgt, sorgte, hat gesorgt",verb,B1,141.0495,0.9199,1,"to worry, take care",Ich sorge für meine Kinder.,I take care of my children.
+623,"geschehen, geschieht, geschah, ist geschehen",verb,B1,139.7682,0.945,1,"to happen, occur","Niemand weiß, was wirklich geschehen ist.",Nobody knows what really happened.
+625,"lösen, löst, löste, hat gelöst",verb,B1,139.1275,0.9318,1,"to solve, loosen",Keiner kann die letzte Aufgabe lösen.,Nobody can solve the last exercise.
+628,"vorkommen, kommt vor, kam vor, ist vorgekommen",verb,B1,137.649,0.9072,1,"to happen, occur, seem",Stürme wie dieser kommen in der Region häufig vor.,Storms like this one occur frequently in the region.
+640,"übernehmen, übernimmt, übernahm, hat übernommen",verb,B1,135.7762,0.9412,1,to take over,Sie übernimmt die Firma ihres Vaters.,She’s taking over her father’s company.
+650,"zunehmen, nimmt zu, nahm zu, hat zugenommen",verb,B1,134.1499,0.915,1,to increase,Die Anzahl der arbeitslosen Menschen nimmt zu.,The number of unemployed people is increasing.
+654,"auftreten, tritt auf, trat auf, ist aufgetreten",verb,B1,133.4106,0.9064,1,"to appear, occur",Während der Vorlesung treten technische Probleme auf.,Technical problems occur during the lecture.
+677,"funktionieren, funktioniert, funktionierte, hat funktioniert",verb,B1,130.2072,0.9262,1,"to function, work",Mein Handy funktioniert nicht.,My phone isn’t working.
+684,"dienen, dient, diente, hat gedient",verb,B1,129.1722,0.916,1,to serve,"Werbung dient dazu, Produkte besser zu verkaufen.",Advertising serves to sell products better.
+688,"stecken, steckt, steckte, hat gesteckt",verb,B1,128.9258,0.9228,1,"to put, be located",Du musst den Schlüssel in das Schloss stecken.,You have to put the key in the lock.
+690,"erfahren, erfährt, erfuhr, hat erfahren",verb,B1,128.7287,0.9456,1,"to experience, find out","Ellen erfährt heute, dass sie einen kleinen Bruder bekommt.",Ellen finds out today that she is getting a little brother.
+693,"leisten, leistet, leistete, hat geleistet",verb,B1,128.1373,0.9181,1,"to perform, achieve, do",Jan leistet gute Arbeit.,Jan does a good job.
+697,"beobachten, beobachtet, beobachtete, hat beobachtet",verb,B1,127.743,0.9422,1,"to observe, watch","Jens sieht aus dem Fenster und beobachtet seine Kinder, während sie spielen.",Jens looks out the window and watches his children while they play.
+700,"klingen, klingt, klang, hat geklungen",verb,B1,126.5602,0.9082,1,to sound,"Deine Stimme gefällt mir, sie klingt sehr schön.",Your voice appeals to me; it sounds very beautiful.
+704,"zählen, zählt, zählte, hat gezählt",verb,B1,125.8702,0.9575,1,to count,Laura kann auf Spanisch bis 100 zählen.,Laura can count to 100 in Spanish.
+714,"beschäftigen, beschäftigt, beschäftigte, hat beschäftigt",verb,B1,124.2931,0.9435,1,"to employ, be busy, deal with",Die Firma meines Onkels beschäftigt über 2.000 Menschen.,"My uncle’s company employs two 2,000 people."
+718,"werfen, wirft, warf, hat geworfen",verb,B1,123.1103,0.9125,1,to throw,Thomas wirft Steine an ihr Fenster.,Thomas throws stones at her window.
+722,"reagieren, reagiert, reagierte, hat reagiert",verb,B1,122.1739,0.9264,1,to react,"Mario reagiert wütend, als er von dem Ergebnis des Spiels erfährt.",Mario reacts angrily when he hears about the result of the game.
+731,"beteiligen, beteiligt, beteiligte, hat beteiligt",verb,B1,119.7591,0.9245,1,"to participate, contribute",Ich beteilige mich mit fünf Euro an dem Geschenk.,I will contribute five euros to the gift.
+733,"angeben, gibt an, gab an, hat angegeben",verb,B1,119.2169,0.8495,1,"to claim, declare, show off","Er gibt an, regelmäßig Sport zu machen.",He claims to do sport regularly.
+743,"entdecken, entdeckt, entdeckte, hat entdeckt",verb,B1,117.0977,0.9186,1,to discover,Dominik beobachtet Tiere und entdeckt dabei eine neue Art.,Dominik observes animals and discovers a new species.
+750,"spüren, spürt, spürte, hat gespürt",verb,B1,115.8164,0.8948,1,"to sense, notice, feel",Ich spüre die kalte Luft auf meiner Haut.,I can feel the cold air on my skin.
+757,"feststellen, stellt fest, stellte fest, hat festgestellt",verb,B1,115.0278,0.938,1,"to establish, detect, determine","Die Ärzte stellen fest, dass die Krankheit organische Ursachen hat.",The doctors determine that the disease has organic causes.
+760,"unterstützen, unterstützt, unterstützte, hat unterstützt",verb,B1,114.0422,0.8985,1,to support,Viele Eltern unterstützen ihre Kinder während des Studiums finanziell.,Many parents support their children financially during their studies.
+788,"drehen, dreht, drehte, hat gedreht",verb,B1,109.1138,0.8969,1,to turn,Sie dreht ihr Gesicht zur Sonne.,She’s turning her face to the sun.
+801,"erfüllen, erfüllt, erfüllte, hat erfüllt",verb,B1,107.2903,0.9438,1,"to grant, fulfill",Thomas erfüllt alle ihre Erwartungen.,Thomas fulfills all their expectations.
+807,"lächeln, lächelt, lächelte, hat gelächelt",verb,B1,106.7482,0.839,1,to smile,"Alle Kinder lächeln auf dem Foto, weil sie sich freuen.",All the children smile in the photo because they are happy.
+857,"berechnen, berechnet, berechnete, hat berechnet",verb,B1,101.327,0.7768,1,"to calculate, charge",Sie berechnen die Kosten für das Projekt.,They calculate the costs of the project.
+875,"mitteilen, teilt mit, teilte mit, hat mitgeteilt",verb,B1,99.2078,0.8751,1,to inform,"Charlottes Mutter teilt ihr mit, dass sie und ihr Vater sich trennen.",Charlotte’s mother informs her that she and her father are separating.
+879,"verlangen, verlangt, verlangte, hat verlangt",verb,B1,98.9614,0.9106,1,"to request, demand",Ich verlange ein sauberes Zimmer.,I demand a clean room.
+896,"messen, misst, maß, hat gemessen",verb,B1,97.1379,0.8862,1,to measure,Wir messen die Temperatur.,We measure the temperature.
+902,"sinken, sinkt, sank, ist gesunken",verb,B1,96.5958,0.8823,1,to sink,Das Schiff sinkt bis auf den Boden des Meeres.,The ship sinks to the bottom of the sea.
+908,"stammen, stammt, stammte, hat gestammt",verb,B1,96.3494,0.9421,1,"to come (from), descend",Ihre Familie stammt aus Indien.,Her family comes from India.
+914,"überraschen, überrascht, überraschte, hat überrascht",verb,B1,95.5608,0.9269,1,to surprise,Ich wollte dich mit der Party überraschen.,I wanted to surprise you with the party.
+937,"benötigen, benötigt, benötigte, hat benötigt",verb,B1,92.7517,0.8762,1,to require,Ein Mensch benötigt mindestens zwei Liter Flüssigkeit am Tag.,A human requires at least two liters of liquid per day.
+939,"verhindern, verhindert, verhinderte, hat verhindert",verb,B1,92.7517,0.9338,1,to prevent,"Der Polizist regelt den Verkehr, um so einen Unfall zu verhindern.",The policeman regulates the traffic so as to prevent an accident.
+942,"leiden, leidet, litt, hat gelitten",verb,B1,92.6038,0.9345,1,to suffer,Meine Schwester leidet an einer schweren Krankheit.,My sister is suffering from a serious illness.
+960,"eignen (sich), eignet, eignete, hat geeignet",verb,B1,90.4846,0.8928,1,to be suitable,"Diese Tabelle eignet sich gut, um das Thema besser zu verstehen.",This table is very suitable for understanding the topic better.
+964,"treiben, treibt, trieb, hat getrieben",verb,B1,90.0411,0.9366,1,"to drive, pursue",Die Hunde treiben die Kühe auf die Wiese.,The dogs drive the cows out into the meadow.
+973,"schweigen, schweigt, schwieg, hat geschwiegen",verb,B1,89.2032,0.8749,1,to remain silent,"Ich will mich nicht mit meiner Mutter streiten, also schweige ich.","I don’t want to fight with my mother, so I remain silent."
+976,"greifen, greift, griff, hat gegriffen",verb,B1,88.8583,0.9362,1,"to take hold of, reach","Als ich falle, greift er nach meiner Hand und hält mich fest.","When I fall, he grabs my hand and holds me."
+993,"behandeln, behandelt, behandelte, hat behandelt",verb,B1,87.5276,0.9349,1,to treat,In diesem Krankenhaus werden viele Patienten behandelt.,Many patients are treated in this hospital.
+996,"schützen, schützt, schützte, hat geschützt",verb,B1,87.2812,0.9297,1,to protect,Wir schützen uns unter dem Dach vor dem Regen.,We protect ourselves from the rain under the roof.
+1000,"produzieren, produziert, produzierte, hat produziert",verb,B1,86.9362,0.8722,1,to produce,Frankreich produziert viel Wein und exportiert ihn ins Ausland.,France produces a lot of wine and exports it abroad.
+1005,"melden, meldet, meldete, hat gemeldet",verb,B1,86.6898,0.9216,1,"to report, register",Wir melden den Unfall der Polizei.,We report the accident to the police.
+1014,"lauten, lautet, lautete, hat gelautet",verb,B1,85.507,0.8939,1,to be (answer),Meine Antwort lautet nein.,My answer is no.
+1034,"definieren, definiert, definierte, hat definiert",verb,B1,84.127,0.8684,1,to define,"Es ist sehr schwierig, den Begriff “Schönheit” zu definieren.",It is very difficult to define the concept of beauty.
+1039,"herrschen, herrscht, herrschte, hat geherrscht",verb,B1,83.6835,0.9457,1,to rule,Der König herrschte über ein großes Königreich.,The king ruled a great kingdom.
+1047,überlegen,verb,B1,82.8949,0.9148,1,"to consider, think about, think of","Wir überlegen, nach Norwegen zu ziehen.",We’re thinking of moving to Norway.
+1049,"umfassen, umfasst, umfasste, hat umfasst",verb,B1,82.7471,0.9032,1,"to include, consist of, surround",Eine Mauer umfasst unseren Garten.,Our garden is surrounded by a wall.
+1054,"kämpfen, kämpft, kämpfte, hat gekämpft",verb,B1,82.205,0.9204,1,to fight,Die Hunde kämpfen miteinander.,The dogs are fighting with each other.
+1056,"versprechen, verspricht, versprach, hat versprochen",verb,B1,82.1064,0.9275,1,to promise,Die Regierung verspricht Investitionen in die Bildung.,The government promises investment in education.
+1059,"heben, hebt, hob, hat gehoben",verb,B1,81.9586,0.8921,1,"to lift, raise","Er hebt Gewichte, um Muskeln aufzubauen.",He lifts weights to build muscle.
+1061,"existieren, existiert, existierte, hat existiert",verb,B1,81.8107,0.9035,1,to exist,Auf dem Mond können weder Menschen noch Tiere existieren.,Neither humans nor animals can exist on the moon.
+1066,"scheitern, scheitert, scheiterte, ist gescheitert",verb,B1,81.515,0.8945,1,"to fail, break down",Er ist mit seinen Plänen gescheitert.,He failed in his plans.
+1073,"beschließen, beschließt, beschloss, hat beschlossen",verb,B1,81.17,0.9105,1,to decide,"Sie beschließen, ein Haus zu kaufen.",They decide to buy a house.
+1085,"einstellen, stellt ein, stellte ein, hat eingestellt",verb,B1,80.5293,0.9363,1,"to adjust, employ, stop, discontinue",Herr Weber stellt die Programme für das TV ein.,Mr. Weber discontinues the TV programs.
+1089,"fördern, fördert, förderte, hat gefördert",verb,B1,79.9379,0.8853,1,"to promote, support",Die Organisation fördert das Bewusstsein für den Schutz der Umwelt.,The organization promotes awareness of environmental protection.
+1094,"durchführen, führt durch, führte durch, hat durchgeführt",verb,B1,79.4451,0.9112,1,"to carry out, hold, conduct, run",Sie führen ein gefährliches Experiment durch.,They’re conducting a dangerous experiment.
+1095,"einfallen, fällt ein, fiel ein, ist eingefallen",verb,B1,79.3465,0.8856,1,"to occur, remind, remember, collapse","Tanja fällt wieder ein, was sie sagen wollte.",Tanja remembers what she wanted to say.
+1101,"behaupten, behauptet, behauptete, hat behauptet",verb,B1,79.0015,0.9377,1,to claim,"Daniel behauptet, dass er das Glas kaputt gemacht hat.",Daniel claims he broke the glass.
+1104,"schreien, schreit, schrie, hat geschrien",verb,B1,78.8044,0.8566,1,"to cry out, scream",Das Baby schreit laut.,The baby cries out loudly.
+1116,"ausreichen, reicht aus, reichte aus, hat ausgereicht",verb,B1,78.1637,0.9232,1,to be sufficient,"Mein Geld reicht nicht aus, um das zu kaufen.",My money is not sufficient to buy it.
+1122,"vertrauen, vertraut, vertraute, hat vertraut",verb,B1,77.6216,0.9174,1,to trust,Vertraust du mir?,Do you trust me?
+1130,"ermitteln, ermittelt, ermittelte, hat ermittelt",verb,B1,76.9316,0.8786,1,"to find out, investigate",Die Polizei ermittelt den Täter.,The police are investigating the perpetrator.
+1134,"töten, tötet, tötete, hat getötet",verb,B1,76.4388,0.8735,1,to kill,Seine Mutter wurde bei einem Unfall getötet.,His mother was killed in an accident.
+1135,"formulieren, formuliert, formulierte, hat formuliert",verb,B1,76.1924,0.8702,1,to formulate,Die Ministerin formuliert ihre Aussagen sehr vorsichtig.,The minister formulates her statements very carefully.
+1143,"brechen, bricht, brach, hat gebrochen",verb,B1,75.9952,0.9303,1,to break,"Der Stuhl bricht, als Daniel sich setzt.",The chair breaks as Daniel sits down.
+1144,"fassen, fasst, fasste, hat gefasst",verb,B1,75.946,0.9448,1,"to grab, grasp, hold",Sie fasst seine Hand und hält sie fest.,She grabs his hand and holds it tight.
+1147,"entfernen, entfernt, entfernte, hat entfernt",verb,B1,75.7981,0.9303,1,"to remove, leave","Wir versuchen, den Fleck zu entfernen.",We’re trying to remove the stain.
+1150,"verfolgen, verfolgt, verfolgte, hat verfolgt",verb,B1,75.6503,0.9477,1,"to pursue, chase",Sie werden von der Polizei verfolgt.,They’re being chased by the police.
+1160,"auffallen, fällt auf, fiel auf, ist aufgefallen",verb,B1,74.911,0.9272,1,"to stand out, notice","Mir fällt erst jetzt auf, dass du blaue Augen hast.",I didn’t notice you had blue eyes until now.
+1162,"verteilen, verteilt, verteilte, hat verteilt",verb,B1,74.911,0.9372,1,to distribute,Die Chancen auf Bildung müssen gerecht verteilt werden.,The opportunities for education must be fairly distributed.
+1173,"nachdenken, denkt nach, dachte nach, hat nachgedacht",verb,B1,74.1225,0.9258,1,"to think about, reflect","Wir denken erst darüber nach, bevor wir eine Entscheidung treffen.",We think about it before we make a decision.
+1184,"erheben, erhebt, erhob, hat erhoben",verb,B1,73.3832,0.9205,1,to raise,"Interviews sind eine Möglichkeit, um Daten zu erheben.",Interviews are one way to raise data.
+1192,"starten, startet, startete, hat gestartet",verb,B1,73.0875,0.8924,1,to start,Im Sommer startet ein neuer Kurs.,A new course starts in summer.
+1194,"verbessern, verbessert, verbesserte, hat verbessert",verb,B1,73.0382,0.9222,1,"to improve, correct",Das Rauchverbot wird die Qualität der Luft verbessern.,The smoking ban will improve the quality of the air.
+1212,"zwingen, zwingt, zwang, hat gezwungen",verb,B1,72.299,0.9429,1,to force,"Markus möchte nicht zur Schule gehen, aber seine Mutter zwingt ihn.","Markus doesn’t want to go to school, but his mother forces him."
+1214,"ansprechen, spricht an, sprach an, hat angesprochen",verb,B1,72.2004,0.9121,1,"to address, speak","Wenn du ein Problem mit Tom hast, musst du es ansprechen.","If you have a problem with Tom, you have to bring it up."
+1217,"gelangen, gelangt, gelangte, ist gelangt",verb,B1,72.0033,0.9119,1,to reach,Endlich gelangen sie an das Ziel.,"Finally, they reach the goal."
+1220,"ablehnen, lehnt ab, lehnte ab, hat abgelehnt",verb,B1,71.9047,0.91,1,"to refuse, reject, turn down","Ich lehne das Angebot ab, weil ich meinen jetzigen Job sehr mag.",I’m refusing the offer because I like my current job very much.
+1221,"stoßen, stößt, stieß, hat gestoßen",verb,B1,71.8061,0.9195,1,"to bump, push","Er stößt mit dem Kopf an die Decke, weil er so groß ist.",He bumps his head against the ceiling because he’s so tall.
+1224,"umgehen, umgeht, umging, hat umgangen",verb,B1,71.7076,0.9181,1,"to treat, handle","Weißt du, wie man mit einer Waffe umgeht?",Do you know how to handle a gun?
+1225,"angehen, geht an, ging an, ist angegangen",verb,B1,71.6583,0.9147,1,"to concern, go on",Dieses Thema geht uns alle an.,This issue concerns all of us.
+1226,"verlaufen, verläuft, verlief, ist verlaufen",verb,B1,71.6583,0.8111,1,"to proceed, get lost",Zum Glück verläuft das Konzert ohne technische Probleme.,Fortunately the concert proceeds without technical problems.
+1228,"auftauchen, taucht auf, tauchte auf, ist aufgetaucht",verb,B1,71.4612,0.9183,1,"to surface, appear","Manchmal verschwindet meine Katze, aber dann taucht sie wieder auf.","Sometimes my cat disappears, but then it appears again."
+1230,"auslösen, löst aus, löste aus, hat ausgelöst",verb,B1,71.4119,0.906,1,"to set off, provoke",Seine Rede löst eine öffentliche Debatte aus.,His speech provokes a public debate.
+1231,"weitergehen, geht weiter, ging weiter, ist weitergegangen",verb,B1,71.4119,0.9291,1,"to go on, continue",Der Kurs geht nächstes Semester weiter.,The course will continue next semester.
+1232,"abhängen, hängt ab, hing ab, hat abgehangen",verb,B1,71.3626,0.8861,1,to depend,Die Gesundheit der Menschen hängt auch von ihren Genen ab.,People’s health also depends on their genes.
+1236,"reduzieren, reduziert, reduzierte, hat reduziert",verb,B1,71.264,0.9205,1,"to reduce, decrease","Er versucht, seinen Stress zu reduzieren.",He’s trying to reduce his stress.
+1240,"eintreten, tritt ein, trat ein, hat eingetreten",verb,B1,71.0669,0.9062,1,"to enter, join, occur",Der Besucher tritt ein und macht das Licht an.,The visitor enters and turns on the light.
+1247,"gründen, gründet, gründete, hat gegründet",verb,B1,70.7712,0.9133,1,"to establish, found",Die Studentinnen gründen eine soziale Initiative.,The students found a social initiative.
+1250,"genügen, genügt, genügte, hat genügt",verb,B1,70.5248,0.944,1,to be sufficient,"Ihr Einkommen genügt, um die Rechnungen zu bezahlen.",Her income is sufficient to pay the bills.
+1251,"schieben, schiebt, schob, hat geschoben",verb,B1,70.5248,0.8793,1,to push,"Sie müssen das Auto schieben, weil es nicht mehr fährt.",You have to push the car because it no longer runs.
+1254,"abnehmen, nimmt ab, nahm ab, hat abgenommen",verb,B1,70.4262,0.9308,1,"to lose weight, decrease, reduce",Durch Sport nehme ich ab.,I lose weight through exercise.
+1256,"blicken, blickt, blickte, hat geblickt",verb,B1,70.3769,0.8654,1,to look,Er blickt ihr neugierig über die Schulter.,He looks curiously over her shoulder.
+1257,"beitragen, trägt bei, trug bei, hat beigetragen",verb,B1,70.2784,0.8791,1,to contribute,"Lisbeth trägt viel dazu bei, dass alle Projekte vernünftig organisiert sind.",Lisbeth contributes a lot to ensure that all projects are well organized.
+1262,"erwähnen, erwähnt, erwähnte, hat erwähnt",verb,B1,69.9827,0.9021,1,to mention,Lukas hat sie kein einziges Mal erwähnt.,Lukas didn’t mention her once.
+1265,"vertreten, vertritt, vertrat, hat vertreten",verb,B1,69.9334,0.9121,1,"to represent, advocate, substitute","Frau Arnolds vertritt heute unseren Lehrer, weil er krank ist.",Mrs. Arnolds is substituting for our teacher today because he’s sick.
+1271,"prägen, prägt, prägte, hat geprägt",verb,B1,69.5391,0.8941,1,"to shape, mint",Der Charakter eines Erwachsenen wird durch seine Erfahrungen in der Kindheit geprägt.,A adult’s character is shaped by his or her childhood experiences.
+1290,"nicken, nickt, nickte, hat genickt",verb,B1,68.5534,0.8029,1,to nod,"Während Jana erzählt, nicken ihre Freundinnen in Zustimmung mit den Köpfen.","While Jana reports, her friends nod their heads in agreement."
+1294,"schätzen, schätzt, schätzte, hat geschätzt",verb,B1,68.3563,0.941,1,"to estimate, value","Sie schätzen, dass die Arbeit in zwei Wochen erledigt sein wird.",They estimate that the work will be done in two weeks.
+1297,"verzichten, verzichtet, verzichtete, hat verzichtet",verb,B1,68.2577,0.9283,1,to do without,Die Familie möchte auf Fleisch verzichten.,The family wants to do without meat.
+1298,"bemerken, bemerkt, bemerkte, hat bemerkt",verb,B1,68.0606,0.8801,1,to notice,"Ich habe noch gar nicht bemerkt, dass Mark heute nicht da ist.",I haven’t even noticed that Mark’s not here today.
+1302,"leiten, leitet, leitete, hat geleitet",verb,B1,67.962,0.9448,1,to lead,Sie leitet den Kurs mit viel Energie.,She leads the course with a lot of energy.
+1307,"zurückkehren, kehrt zurück, kehrte zurück, ist zurückgekehrt",verb,B1,67.6663,0.9166,1,to return,Robert kehrt nach Jahren im Ausland nach Hause zurück.,Robert returns home after years abroad.
+1310,"umsetzen, setzt um, setzte um, hat umgesetzt",verb,B1,67.3706,0.9062,1,"to implement, move, put (into practice)","Er braucht viel Geld, um seinen Plan umzusetzen.",He needs a lot of money to implement his plan.
+1311,"betreiben, betreibt, betrieb, hat betrieben",verb,B1,67.3213,0.9253,1,"to proceed with, operate, run",Nach dem Studium wollen sie ein Restaurant betreiben.,After their studies they want to run a restaurant.
+1315,"konzentrieren, konzentriert, konzentrierte, hat konzentriert",verb,B1,67.1242,0.9478,1,to concentrate,Ich kann mich nicht auf meine Arbeit konzentrieren.,I can’t concentrate on my work.
+1316,"landen, landet, landete, ist gelandet",verb,B1,67.1242,0.9154,1,to land,Das Flugzeug landet auf dem Wasser.,The airplane lands on the water.
+1330,"erzeugen, erzeugt, erzeugte, hat erzeugt",verb,B1,66.6807,0.8897,1,"to produce, generate",Das Unternehmen erzeugt Elektrizität aus Wind und Wasser.,The company generates electricity from wind and water.
+1334,"erzielen, erzielt, erzielte, hat erzielt",verb,B1,66.5821,0.8735,1,"to achieve, reach",Die Mannschaft hat im Wettbewerb gute Ergebnisse erzielt.,The team has achieved good results in the competition.
+1336,"schießen, schießt, schoss, hat geschossen",verb,B1,66.3357,0.9048,1,to shoot,Der Polizist schießt mit seiner Waffe in die Luft.,The policeman shoots with his weapon into the air.
+1337,"warnen, warnt, warnte, hat gewarnt",verb,B1,66.3357,0.8784,1,to warn,Die Polizei warnt die Menschen vor dem Sturm.,The police are warning people about the storm.
+1339,"eröffnen, eröffnet, eröffnete, hat eröffnet",verb,B1,66.2371,0.9031,1,"to open, start",Der neue Laden wird im Juni eröffnen.,The new shop will open in June.
+1341,"ankündigen, kündigt an, kündigte an, hat angekündigt",verb,B1,66.1385,0.8891,1,to announce,Barbara und Sebastian kündigen eine Party im Juni an.,Barbara and Sebastian announce a party in June.
+1346,"begreifen, begreift, begriff, hat begriffen",verb,B1,65.8428,0.9055,1,"to understand, grasp","Man kann kaum begreifen, dass das Universum unendlich ist.",You can hardly grasp that the universe is infinite.
+1352,"verstärken, verstärkt, verstärkte, hat verstärkt",verb,B1,65.5964,0.9258,1,"to strengthen, reinforce",Die Kontrollen an den Grenzen werden verstärkt.,Border checks are being strengthened.
+1353,"ausschließen, schließt aus, schloss aus, hat ausgeschlossen",verb,B1,65.5471,0.9119,1,"to exclude, rule out",Die Polizei schließt einen Mord nicht aus.,The police don’t rule out murder.
+1358,"retten, rettet, rettete, hat gerettet",verb,B1,65.35,0.9226,1,"to save, rescue",Die Ärztin hat ihm das Leben gerettet.,The doctor saved his life.
+1362,"gucken, guckt, guckte, hat geguckt (kucken)",verb,B1,65.2021,0.8267,1,to look,Warum guckst du so komisch?,Why are you looking so weird?
+1364,"beeinflussen, beeinflusst, beeinflusste, hat beeinflusst",verb,B1,65.1529,0.8874,1,to influence,Werbung beeinflusst das Verhalten von Kunden.,Advertising influences the behavior of customers.
+1367,"begleiten, begleitet, begleitete, hat begleitet",verb,B1,65.0543,0.9321,1,to accompany,Ich begleite Tom auf seiner Reise.,I’m accompanying Tom on his journey.
+1371,"aufgeben, gibt auf, gab auf, hat aufgegeben",verb,B1,64.8079,0.9463,1,to give up,Ich werde nicht nach einem Versuch aufgeben.,I won’t give up after one attempt.
+1380,"ersetzen, ersetzt, ersetzte, hat ersetzt",verb,B1,64.315,0.9271,1,"to replace, reimburse",Maschinen ersetzen viele Jobs.,Machines replace many jobs.
+1389,"sichern, sichert, sicherte, hat gesichert",verb,B1,64.0686,0.9147,1,"to secure, safeguard","Wir kaufen Kameras, um unser Haus zu sichern.",We buy cameras to secure our house.
+1391,"verbringen, verbringt, verbrachte, hat verbracht",verb,B1,63.9701,0.9135,1,to spend (time),"Wenn ich für eine Prüfung lerne, verbringe ich viel Zeit in der Bibliothek.","When I am studying for an exam, I spend a lot of time in the library."
+1394,"kritisieren, kritisiert, kritisierte, hat kritisiert",verb,B1,63.7729,0.866,1,to criticize,Meine Mutter kritisiert immer meine Leistungen in der Schule.,My mother always criticizes my performance in school.
+1395,"vermitteln, vermittelt, vermittelte, hat vermittelt",verb,B1,63.7236,0.9094,1,"to convey, mediate, find, procure",Letzten Monat vermittelte das Arbeitsamt 250 Personen.,"Last month, the employment agency found employment for 250 people."
+1399,"festhalten, hält fest, hielt fest, hat festgehalten",verb,B1,63.4772,0.9372,1,"to hold on to, detain",Die Polizei hält einen Verdächtigen fest.,Police are holding a suspect.
+1400,"präsentieren, präsentiert, präsentierte, hat präsentiert",verb,B1,63.4772,0.8949,1,"to present, show",Barbara präsentiert ihren Freundinnen das Kleid für das Fest.,Barbara shows her friends the dress for the party.
+1409,"anlegen, legt an, legte an, hat angelegt",verb,B1,63.083,0.9399,1,"to put on, invest",Vielleicht lege ich mein Geld in Aktien an.,Maybe I’ll invest my money in shares.
+1420,"fürchten, fürchtet, fürchtete, hat gefürchtet",verb,B1,62.5901,0.9166,1,to fear,"Du musst dich nicht fürchten, wenn es dunkel ist.",You do not have to fear when it’s dark.
+1425,"äußern, äußert, äußerte, hat geäußert",verb,B1,62.1959,0.9032,1,"to express, voice","Julia hat eine freundliche Art, Kritik zu äußern.",Julia has a friendly way of expressing criticism.
+1430,"aufweisen, weist auf, wies auf, hat aufgewiesen",verb,B1,61.9002,0.8294,1,"to show, exhibit, contain",Nach dem Unfall weist das Auto einen starken Schaden auf.,"After the accident, the car shows a lot of damage."
+1431,"springen, springt, sprang, ist gesprungen",verb,B1,61.8509,0.8962,1,to jump,Bei dem Spiel springen alle Kinder in die Luft.,All children jump in the air during the game.
+1436,"anziehen, zieht an, zog an, hat angezogen",verb,B1,61.6044,0.9134,1,"to attract, put on, dress",Das neue Museum zieht viele Touristen an.,The new museum attracts many tourists.
+1439,"füllen, füllt, füllte, hat gefüllt",verb,B1,61.5552,0.9228,1,to fill,"Weil sie etwas trinken möchte, füllt sie Wasser in ein Glas.","Because she wants to drink something, she fills a glass with water."
+1443,"schütteln, schüttelt, schüttelte, hat geschüttelt",verb,B1,61.5552,0.8309,1,to shake,Man muss die Flasche vor dem Öffnen schütteln.,You have to shake the bottle before opening it.
+1450,"empfinden, empfindet, empfand, hat empfunden",verb,B1,61.358,0.924,1,to feel,Meine Eltern empfinden immer noch viel für einander.,My parents still feel a lot for each other.
+1453,"veröffentlichen, veröffentlicht, veröffentlichte, hat veröffentlicht",verb,B1,61.2102,0.887,1,to publish,"Sie war erst 19 Jahre alt, als sie ihr erstes Buch veröffentlichte.",She was only 19 years old when she published her first book.
+1454,"aufstellen, stellt auf, stellte auf, hat aufgestellt",verb,B1,61.0623,0.9325,1,"to put up, draw up",Der neue Besitzer stellt Werbung vor seinem Laden auf.,The new owner puts up advertisements in front of his shop.
+1461,übertragen,verb,B1,60.5695,0.9049,1,to transfer,Ich muss einige Aufgaben an meine Kollegen übertragen.,I have to transfer some tasks to my colleagues.
+1469,"zurückkommen, kommt zurück, kam zurück, ist zurückgekommen",verb,B1,60.0274,0.886,1,to return,Ich bin jetzt im Urlaub und komme erst in zwei Wochen zurück.,"I’m on vacation now, and I will return in two weeks."
+1470,"besetzen, besetzt, besetzte, hat besetzt",verb,B1,59.9288,0.8759,1,"to occupy, fill",In unserem Unternehmen sind noch einige Positionen zu besetzen.,There are still some positions to be filled in our company.
+1482,"zurückgehen, geht zurück, ging zurück, ist zurückgegangen",verb,B1,59.3867,0.9257,1,"to go back, decrease",Peter muss noch einmal zurückgehen und seinen Schlüssel holen.,Peter has to go back and get his key.
+1490,"einführen, führt ein, führte ein, hat eingeführt",verb,B1,58.8446,0.9245,1,"to introduce, import","Es ist verboten, manche Güter einzuführen.",It is forbidden to import some goods.
+1493,"verfügen, verfügt, verfügte, hat verfügt",verb,B1,58.5982,0.9112,1,"to have sth at one’s disposal, be in charge",Das Land verfügt über Atomwaffen.,The country has nuclear weapons at its disposal.
+1498,"überleben, überlebt, überlebte, hat überlebt",verb,B1,58.401,0.9227,1,to survive,Zum Glück überlebte der Mann den Angriff.,"Fortunately, the man survived the attack."
+1503,"berücksichtigen, berücksichtigt, berücksichtigte, hat berücksichtigt",verb,B1,58.2039,0.8576,1,to consider,"Ich werde mein Bestes tun, Ihre Wünsche zu berücksichtigen.",I’ll do my best to consider your wishes.
+1505,"begegnen, begegnet, begegnete, ist begegnet",verb,B1,58.1546,0.9152,1,"to meet, encounter, come across",Auf meinen Reisen begegnete ich vielen verschiedenen Kulturen.,"On my travels, I encountered many different cultures."
+1510,"festlegen, legt fest, legte fest, hat festgelegt",verb,B1,57.9575,0.897,1,"to determine, fix, lay down","Der Besitzer des Hauses legt fest, dass alle Familien bis zum nächsten Monat ausziehen müssen.",The owner of the house determines that all families must move out by next month.
+1517,"vermuten, vermutet, vermutete, hat vermutet",verb,B1,57.7603,0.9333,1,"to assume, suspect","Ich vermute, sie sind jetzt schon zu Hause.",I assume they’re home already.
+1519,"reißen, reißt, riss, hat gerissen",verb,B1,57.6125,0.89,1,to tear,Das Papier ist sehr dünn und reißt leicht.,The paper is very thin and tears easily.
+1530,"wenden, wendet, wandte, hat gewandt",verb,B1,57.3168,0.9051,1,to turn around,Gabi wendet das Auto und fährt wieder zurück.,Gabi turns the car around and drives back.
+1538,"zulassen, lässt zu, ließ zu, hat zugelassen",verb,B1,56.9718,0.9362,1,"to allow, admit","Sebastians Vater lässt es nicht zu, dass sein Sohn das Studium abbricht.",Sebastian’s father won’t allow his son to drop out of college.
+1540,"vorsehen, sieht vor, sah vor, hat vorgesehen",verb,B1,56.9225,0.8962,1,"to look around, plan, provide for","Christopher sieht hinter der Ecke vor, hinter der er sich versteckt.",Christopher is looking around the corner behind which he is hiding.
+1542,"wahrnehmen, nimmt wahr, nahm wahr, hat wahrgenommen",verb,B1,56.7254,0.9206,1,"to perceive, detect","Es gibt Töne, die nicht mit dem menschlichen Ohr wahrgenommen werden können.",There are sounds that cannot be perceived with the human ear.
+1543,"hinweisen, weist hin, wies hin, hat hingewiesen",verb,B1,56.6268,0.8689,1,"to point to, refer to",Während der Vorlesung weist der Professor auf einige Fehler auf den Folien hin.,During the lecture the professor points out some mistakes on the slides.
+1557,"genießen, genießt, genoss, hat genossen",verb,B1,56.134,0.9212,1,"to enjoy, relish","Genieß die Sonne, solange sie scheint!",Enjoy the sun as long as it shines!
+1575,"verstecken, versteckt, versteckte, hat versteckt",verb,B1,55.1483,0.9149,1,to hide,Er versteckt sein Haar unter dem Hut.,He hides his hair under the hat.
+1577,"bemühen (sich), bemüht, bemühte, hat bemüht",verb,B1,55.0005,0.9319,1,to make an effort,"Obwohl er sich nicht bemüht, ist er immer besser als ich.","Although he doesn’t make an effort, he’s always better than me."
+1581,"tauchen, taucht, tauchte, ist getaucht",verb,B1,54.8526,0.9127,1,"to dive, dip",Sie tauchen zusammen und sehen sich die Fische an.,They dive together and watch the fish.
+1585,"anhaben, hat an, hatte an, hat angehabt",verb,B1,54.5569,0.8622,1,"to wear, damage",Ich habe ein rotes Hemd und weiße Schuhe an.,I’m wearing a red shirt and white shoes.
+1587,"vermeiden, vermeidet, vermied, hat vermieden",verb,B1,54.5076,0.9232,1,to avoid,"Halten Sie genug Abstand, um Unfälle zu vermeiden!",Keep enough distance to avoid accidents!
+1589,"beachten, beachtet, beachtete, hat beachtet",verb,B1,54.4091,0.8664,1,"to pay attention, observe",Bitte beachten Sie die Vorschriften.,Please pay attention to the regulations.
+1592,"durchsetzen, setzt durch, setzte durch, hat durchgesetzt",verb,B1,54.2612,0.9245,1,"to carry through, enforce, implement","Es ist unklar, ob es möglich ist, die Reformen durchzusetzen.",It is unclear whether it is possible to implement the reforms.
+1605,"ehren, ehrt, ehrte, hat geehrt",verb,B1,53.9162,0.6458,1,to honor,Heute ehren wir die Soldatinnen und Soldaten unseres Landes.,Today we honor the soldiers of our country.
+1609,"streichen, streicht, strich, hat gestrichen",verb,B1,53.7191,0.8968,1,"to paint, cancel",Wir streichen die Wohnung in einer schönen Farbe.,We’re painting the apartment a nice color.
+1610,"zitieren, zitiert, zitierte, hat zitiert",verb,B1,53.7191,0.8762,1,to quote,Jonas zitiert den Autor des Buches.,Jonas quotes the author of the book.
+1611,"senken, senkt, senkte, hat gesenkt",verb,B1,53.6698,0.9149,1,"to sink, lower, decrease",Die neue Regierung senkt die hohen Steuern.,The new government lowers the high taxes.
+1612,"behalten, behält, behielt, hat behalten",verb,B1,53.6205,0.9494,1,to keep,"Er behält nur Dinge, die er regelmäßig benutzt.",He only keeps things he uses regularly.
+1613,"gestalten, gestaltet, gestaltete, hat gestaltet",verb,B1,53.6205,0.9094,1,"to shape, design",Die Schüler gestalten ihre eigene Zeitung.,The students design their own newspaper.
+1614,"beweisen, beweist, bewies, hat bewiesen",verb,B1,53.5712,0.9457,1,to prove,Das Experiment beweist die positiven Auswirkungen des Produkts auf die Gesundheit.,The experiment proves the product’s positive effects on health.
+1616,"überprüfen, überprüft, überprüfte, hat überprüft",verb,B1,53.5219,0.9171,1,to check,Wir müssen ihre Papiere überprüfen.,We have to check your papers.
+1620,"anhalten, hält an, hielt an, hat angehalten",verb,B1,53.3741,0.9343,1,"to stop, last",Wir sollten anhalten und nach dem Weg fragen.,We should stop and ask for directions.
+1624,"stürzen, stürzt, stürzte, ist gestürzt",verb,B1,53.2262,0.9131,1,"to fall, stumble",Ich habe die Stufe nicht gesehen und bin gestürzt.,I didn’t see the step and fell.
+1628,"zerstören, zerstört, zerstörte, hat zerstört",verb,B1,53.0291,0.9331,1,to destroy,Der Bau der neuen Straße zerstört den Wald.,The construction of the new street is destroying the forest.
+1630,"ausfallen, fällt aus, fiel aus, ist ausgefallen",verb,B1,52.9305,0.9103,1,"to drop out, be canceled","Fällt ein Flug aus, werden die Reisenden benachrichtigt.","If a flight is canceled, the passengers are notified."
+1632,"drängen, drängt, drängte, hat gedrängt",verb,B1,52.832,0.9303,1,"to push, insist","Ihre Eltern drängen sie zu einem Studium, obwohl sie lieber reisen würde.","Her parents push her to study, although she would rather travel."
+1638,"erläutern, erläutert, erläuterte, hat erläutert",verb,B1,52.6348,0.8712,1,to explain,Der Professor erläutert ein aktuelles Problem in der Wirtschaft.,The professor explains a current problem in the economy.
+1642,"anwenden, wendet an, wandte an, hat angewandt",verb,B1,52.4377,0.8514,1,"to apply, employ",In meinem Job möchte ich mein politisches und wirtschaftliches Wissen anwenden.,In my job I want to apply my political and economic knowledge.
+1649,"weisen, weist, wies, hat gewiesen",verb,B1,52.1913,0.9261,1,to point,Er weist in die gleiche Richtung.,He points in the same direction.
+1651,"brennen, brennt, brannte, hat gebrannt",verb,B1,52.0434,0.9005,1,to burn,"Weil das Feuer brennt, ist uns warm.","Because the fire is burning, we are warm."
+1656,"investieren, investiert, investierte, hat investiert",verb,B1,51.8956,0.8811,1,to invest,Clara investiert viel Zeit in ihr Studium.,Clara invests a lot of time in her studies.
+1670,"verweisen, verweist, verwies, hat verwiesen",verb,B1,51.3535,0.8681,1,"to refer, expel",Der Trainer verweist den Spieler des Platzes.,The coach expels the player from the pitch.
+1672,"erfassen, erfasst, erfasste, hat erfasst",verb,B1,51.3042,0.8928,1,"to determine, grasp, acquire","Mit einer Umfrage erfasst die Universität, wie zufrieden die Studierenden sind.",With a survey the university determines how satisfied the students are.
+1686,"belegen, belegt, belegte, hat belegt",verb,B1,50.7621,0.9111,1,"to occupy, prove, verify, take",In diesem Wintersemester belegt Charlotte nur drei Kurse an der Uni.,This winter semester Charlotte is only taking three courses at the university.
+1689,"verpflichten, verpflichtet, verpflichtete, hat verpflichtet",verb,B1,50.6635,0.8555,1,"to obligate, oblige, commit","Der Vertrag verpflichtet Frau Meier dazu, 30 Stunden pro Woche zu arbeiten.",The contract obliges Ms. Meier to work 30 hours a week.
+1690,"begrüßen, begrüßt, begrüßte, hat begrüßt",verb,B1,50.6142,0.8694,1,to greet,Felix kommt ins Büro und begrüßt als erstes alle Kollegen.,Felix comes into the office and greets all his colleagues first.
+1702,"beschränken, beschränkt, beschränkte, hat beschränkt",verb,B1,50.0721,0.8903,1,to restrict,Der Text beschränkt sich auf die wichtigsten Fakten.,The text restricts itself to the most important facts.
+1705,"vorschlagen, schlägt vor, schlug vor, hat vorgeschlagen",verb,B1,50.0228,0.9078,1,to suggest,"Katja schlägt vor, bei guten Wetter ans Meer zu fahren.",Katja suggests driving to the sea in good weather.
+1712,betreten,verb,B1,49.8257,0.8785,1,"to enter, walk into/onto","Wir dürfen das Haus nicht betreten, weil es hier nicht sicher ist.",We’re not allowed to enter the house because it’s not safe here.
+1715,"überwiegen, überwiegt, überwog, hat überwogen",verb,B1,49.7764,0.8788,1,to outweigh,"Weil die negativen Argumente überwiegen, entscheide ich mich dagegen.","Since the negative arguments outweigh the positive ones, I am against it."
+1716,"bedingen, bedingt, bedingte, hat bedingt",verb,B1,49.7271,0.7893,1,to cause,Die Ergebnisse des Experiments bedingen eine Änderung der ursprünglichen Annahme.,The results of the experiment cause a change in the original assumption.
+1718,"zukommen, kommt zu, kam zu, ist zugekommen",verb,B1,49.53,0.9245,1,"to come toward, be in store",Ali kommt auf Emi zu und umarmt sie.,Ali comes toward Emi and embraces her.
+1719,"ablaufen, läuft ab, lief ab, hat abgelaufen",verb,B1,49.4314,0.8865,1,"to run out, expire",Mein Pass läuft nächstes Jahr ab.,My passport expires next year.
+1722,"fließen, fließt, floss, ist geflossen",verb,B1,49.3328,0.9151,1,to flow,Durch Leipzig fließen zwei Flüsse.,Two rivers flow through Leipzig.
+1732,"begrenzen, begrenzt, begrenzte, hat begrenzt",verb,B1,49.0864,0.9071,1,"to limit, restrict",Sie möchten die wöchentliche Arbeitszeit auf 35 Stunden begrenzen.,They want to limit the weekly working hours to 35.
+1740,"achten, achtet, achtete, hat geachtet",verb,B1,48.8893,0.9229,1,"to respect, pay attention","Kinder achten häufig nicht auf Autos, bevor sie über die Straße laufen.",Children often don’t pay attention to cars before they cross the road.
+1750,"umdrehen, dreht um, drehte um, hat umgedreht",verb,B1,48.7414,0.8604,1,"to turn over, turn around","Dreh dich mal um, ich stehe hinter dir.","Turn around, I’m behind you."
+1767,"verursachen, verursacht, verursachte, hat verursacht",verb,B1,48.1008,0.9003,1,to cause,Zu viele süße Lebensmittel verursachen Probleme mit der Haut.,Too many sweet foods cause problems with the skin.
+1785,"verabschieden, verabschiedet, verabschiedete, hat verabschiedet",verb,B1,47.5586,0.9178,1,"to say goodbye, pass",Stephan und Irina verabschieden sich am Bahnhof.,Stephan and Irina say goodbye at the station.
+1786,"ausdrücken, drückt aus, drückte aus, hat ausgedrückt",verb,B1,47.5094,0.921,1,to express,Der Maler drückt seine Gefühle durch die dunklen Farben aus.,The painter expresses his feelings through the dark colors.
+1795,"zugeben, gibt zu, gab zu, hat zugegeben",verb,B1,47.3122,0.9045,1,to admit,"Ich gebe zu, dass es mein Fehler war.",I admit it was my mistake.
+1798,"akzeptieren, akzeptiert, akzeptierte, hat akzeptiert",verb,B1,47.2137,0.9363,1,to accept,Du musst meine Entscheidung akzeptieren.,You have to accept my decision.
+1805,"vornehmen (sich), nimmt vor, nahm vor, hat vorgenommen",verb,B1,47.0165,0.8804,1,to plan,"Iris nimmt sich vor, in der nächsten Prüfung besser zu sein.",Iris plans on being better in the next test.
+1807,"orientieren, orientiert, orientierte, hat orientiert",verb,B1,46.9672,0.8865,1,to orient,Beim Wandern orientieren sie sich mithilfe einer Karte.,"When hiking, they orient themselves with the help of a map."
+1814,"regeln, regelt, regelte, hat geregelt",verb,B1,46.7208,0.884,1,"to control, regulate, direct",Ein Polizist regelt den Verkehr an der Kreuzung.,A police officer directs the traffic at the intersection.
+1819,"verbreiten, verbreitet, verbreitete, hat verbreitet",verb,B1,46.5237,0.9291,1,to spread,Die Polizei verbreitet die Meldung über die Medien.,The police spread the news through the media.
+1831,"engagieren, engagiert, engagierte, hat engagiert",verb,B1,46.0801,0.8667,1,"to hire, employ, commit, engage","Er engagiert jemanden, der auf der Party Fotos macht.",He’s hiring someone to take pictures at the party.
+1842,"pflegen, pflegt, pflegte, hat gepflegt",verb,B1,45.5873,0.9218,1,"to care, cultivate",Sie pflegt die kranken Patienten im Krankenhaus.,She cares for the sick patients in the hospital.
+1845,"ableiten, leitet ab, leitete ab, hat abgeleitet",verb,B1,45.4887,0.8538,1,"to derive, deduce",Die Bedeutung dieses Wortes kann man aus dem Französischen ableiten.,The meaning of this word can be derived from French.
+1847,"leuchten, leuchtet, leuchtete, hat geleuchtet",verb,B1,45.4887,0.8945,1,"to shine, glow",Die untergehende Sonne leuchtet am Horizont.,The setting sun shines on the horizon.
+1849,"erweitern, erweitert, erweiterte, hat erweitert",verb,B1,45.4394,0.9078,1,"to widen, expand","Das Unternehmen plant, sein Angebot international zu erweitern.",The company plans to expand its offering internationally.
+1850,"erweisen, erweist, erwies, hat erwiesen",verb,B1,45.3902,0.9198,1,to prove,Die Theorie erweist sich als falsch.,The theory proves to be wrong.
+1852,"zutreffen, trifft zu, traf zu, hat zugetroffen",verb,B1,45.2916,0.8659,1,"to be correct, apply to",Deine Antwort trifft nicht auf die Frage zu.,Your answer does not apply to the question.
+1853,"aufführen, führt auf, führte auf, hat aufgeführt",verb,B1,45.2423,0.8263,1,to perform,Irinas Freunde aus dem Theater führen nächste Woche ihr erstes Stück auf.,Irina’s friends from the theater are performing her first play next week.
+1855,"profitieren, profitiert, profitierte, hat profitiert",verb,B1,45.2423,0.8742,1,to profit,Von den Firmengewinnen profitiert das ganze Team.,The whole team will profit from the company profits.
+1858,"zusammenfassen, fasst zusammen, fasste zusammen, hat zusammengefasst",verb,B1,45.2423,0.8715,1,to summarize,Am Ende des Textes fasst der Autor die Ergebnisse zusammen.,"At the end of the text, the author summarizes the results."
+1859,"beeindrucken, beeindruckt, beeindruckte, hat beeindruckt",verb,B1,45.193,0.908,1,to impress,Der Chef ist von ihrer Leistung beeindruckt.,The boss is impressed with her performance.
+1860,"einnehmen, nimmt ein, nahm ein, hat eingenommen",verb,B1,45.193,0.84,1,to take (up/in),Du musst deine Medikamente regelmäßig einnehmen.,You have to take your medications regularly.
+1882,"ergänzen, ergänzt, ergänzte, hat ergänzt",verb,B1,44.5523,0.9228,1,"to add, complete",Sie ergänzen sich perfekt.,They complete each other perfectly.
+1884,"auswählen, wählt aus, wählte aus, hat ausgewählt",verb,B1,44.5031,0.8844,1,"to choose, select",Der Professor wählt zwei Studenten für einen Vortrag aus.,The professor selects two students for a lecture.
+1885,"befragen, befragt, befragte, hat befragt",verb,B1,44.5031,0.8707,1,"to ask, question",Einige Männer wurden gestern von der Polizei befragt.,Some men were questioned yesterday by the police.
+1893,"ausbilden, bildet aus, bildete aus, hat ausgebildet",verb,B1,44.1581,0.9137,1,"to train, instruct, educate","Sie wurde als professionelle Schauspielerin ausgebildet, bevor sie am Theater arbeitete.",She was educated as a professional actress before working at the theater.
+1902,"erschrecken, erschreckt, erschreckte, hat erschreckt",verb,B1,43.9117,0.8834,1,"to frighten, be startled",Die Kinder erschrecken sich vor dem lauten Geräusch.,The children are frightened by the loud noise.
+1903,"erwerben, erwirbt, erwarb, hat erworben",verb,B1,43.9117,0.8844,1,"to acquire, purchase",Ich erwerbe Aktien für zehn Euro pro Stück.,I acquire shares for ten euros each.
+1908,"steuern, steuert, steuerte, hat gesteuert",verb,B1,43.7145,0.9283,1,"to steer, control","Über das Lenkrad kann man steuern, wohin das Auto fährt.",Via the steering wheel you can control where the car goes.
+1914,"verraten, verrät, verriet, hat verraten",verb,B1,43.616,0.9087,1,"to tell a secret, give away, betray",Felix verrät Hannah sein Geheimnis.,Felix tells Hannah his secret.
+1915,"anpassen, passt an, passte an, hat angepasst",verb,B1,43.5667,0.9165,1,"to adjust, adapt",Das Amt passt die Gelder den Situationen der Menschen an.,The office adapts the funds to people’s situations.
+1922,"vorhaben, hat vor, hatte vor, hat vorgehabt",verb,B1,43.4681,0.8623,1,"to have in mind, be planning, intend","Heute Abend kann ich nicht mit ins Kino gehen, weil ich schon etwas anderes vorhabe.",I can’t go to the movies tonight because I already have other plans.
+1923,"verbergen, verbirgt, verbarg, hat verborgen",verb,B1,43.4188,0.9018,1,"to hide, conceal",Katja verbirgt ihre Wut und lächelt.,Katja hides her anger and smiles.
+1941,"beruhigen, beruhigt, beruhigte, hat beruhigt",verb,B1,43.0738,0.9016,1,to calm,"Die Ärztin beruhigt den Patienten, der Angst hat.",The doctor calms the patient who is afraid.
+1944,"versorgen, versorgt, versorgte, hat versorgt",verb,B1,43.0245,0.817,1,"to supply, provide, look after","Es ist wichtig, arme Menschen mit Lebensmitteln zu versorgen.",It is important to provide poor people with food.
+1962,"aufgehen, geht auf, ging auf, ist aufgegangen",verb,B1,42.581,0.917,1,"to rise, open",Die Sonne geht morgen um sechs Uhr auf.,The sun will rise tomorrow at six o’clock.
+1964,"zugehen, geht zu, ging zu, ist zugegangen",verb,B1,42.5317,0.8521,1,"to approach, close",Ich gehe langsam auf den großen Hund zu.,I’m slowly approaching the big dog.
+1968,"bewerten, bewertet, bewertete, hat bewertet",verb,B1,42.4331,0.8447,1,"to assess, judge",Der Lehrer bewertet die Tests.,The teacher assesses the tests.
+1970,"begeistern, begeistert, begeisterte, hat begeistert",verb,B1,42.3839,0.9223,1,"to inspire, be enthusiastic",Die Schauspieler begeistern das Publikum mit ihrem neuen Stück.,The actors inspire the audience with their new play.
+1985,"auflösen, löst auf, löste auf, hat aufgelöst",verb,B1,41.8417,0.9288,1,to dissolve,Der Zucker löst sich in dem Kaffee auf.,The sugar dissolves in the coffee.
+1986,"aufregen, regt auf, regte auf, hat aufgeregt",verb,B1,41.7925,0.8926,1,"to excite, upset, annoy","Erzähl es ihnen nicht, sonst regen sie sich auf.","Don’t tell them, otherwise they’ll get upset."
+1989,"vereinigen, vereinigt, vereinigte, hat vereinigt",verb,B1,41.6939,0.8384,1,to unite,1990 vereinigten sich West- und Ostdeutschland wieder.,In 1990 West and East Germany reunited.
+1992,"bewirken, bewirkt, bewirkte, hat bewirkt",verb,B1,41.546,0.8609,1,to cause,"Der Kaffee bewirkt, dass Jana nicht schlafen kann.",The coffee causes Jana not to be able to sleep.
+1994,"erleichtern, erleichtert, erleichterte, hat erleichtert",verb,B1,41.546,0.9369,1,"to relieve, make easier","Ich bin erleichtert, dass du wieder gesund bist.",I’m relieved that you’re well again.
+2009,"absehen, sieht ab, sah ab, hat abgesehen",verb,B1,41.1518,0.9389,1,"to foresee, be in sight","Es ist abzusehen, dass Christian seine Prüfung nicht besteht.",It can be foreseen that Christian will not pass his exam.
+2014,"fortsetzen, setzt fort, setzte fort, hat fortgesetzt",verb,B1,40.9546,0.9167,1,to continue,Wir werden das Thema morgen fortsetzen.,We will continue this topic tomorrow.
+2015,"steigern, steigert, steigerte, hat gesteigert",verb,B1,40.9546,0.9005,1,"to increase, raise",Die neuen Produkte im Laden steigern den Umsatz.,The new products in the shop increase sales.
+2019,"berühren, berührt, berührte, hat berührt",verb,B1,40.9054,0.916,1,to touch,Beim Küssen berühren sich die Lippen.,"When kissing, the lips touch."
+2025,"klären, klärt, klärte, hat geklärt",verb,B1,40.7575,0.9319,1,"to clear up, clarify, resolve","Der Polizist versucht, den Streit zwischen den beiden wütenden Männern zu klären.",The police officer tries to resolve the dispute between the two angry men.
+2036,"antreten, tritt an, trat an, hat angetreten",verb,B1,40.5111,0.8666,1,"to take up, start",Er tritt das Amt des Präsidenten an.,He’s taking office as president.
+2042,"enttäuschen, enttäuscht, enttäuschte, hat enttäuscht",verb,B1,40.3632,0.9094,1,to disappoint,Stephanie ist sehr enttäuscht über ihr schlechtes Ergebnis in der Prüfung.,Stephanie is very disappointed about her bad result in the test.
+2043,"fangen, fängt, fing, hat gefangen",verb,B1,40.3632,0.9143,1,to catch,Sie fängt den Ball.,She catches the ball.
+2049,"realisieren, realisiert, realisierte, hat realisiert",verb,B1,40.2647,0.8739,1,"to realize, bring about",Die Menschen müssen den schlechten Zustand der Erde endlich realisieren.,People must finally realize the bad state of the earth.
+2050,"einrichten, richtet ein, richtete ein, hat eingerichtet",verb,B1,40.2154,0.9298,1,to furnish,Matthias richtet seine neue Wohnung ein.,Matthias furnishes his new apartment.
+2054,"befreien, befreit, befreite, hat befreit",verb,B1,40.1661,0.9212,1,to free,Ann-Katrin befreit das Tier aus der Falle.,Ann-Katrin frees the animal from the trap.
+2055,"ordnen, ordnet, ordnete, hat geordnet",verb,B1,40.1661,0.8926,1,"to arrange, sort",Der Student arbeitet in der Bibliothek und ordnet die Bücher nach den Namen ihrer Autoren.,The student works in the library and arranges the books according to the names of their authors.
+2057,"verteidigen, verteidigt, verteidigte, hat verteidigt",verb,B1,40.1168,0.8952,1,to defend,Der Anwalt verteidigt den Täter vor Gericht.,The lawyer defends the perpetrator in court.
+2065,"markieren, markiert, markierte, hat markiert",verb,B1,39.7718,0.8129,1,to mark,"Ich markiere die wichtigsten Sätze im Text, damit ich sie später schnell finde.",I mark the most important sentences in the text so that I can quickly find them later.
+2068,"rennen, rennt, rannte, ist gerannt",verb,B1,39.7718,0.8553,1,to run,"Die Kinder rennen sehr schnell, damit sie den Bus nicht verpassen.",The children run very fast so they don’t miss the bus.
+2069,"herausfinden, findet heraus, fand heraus, hat herausgefunden",verb,B1,39.7225,0.9036,1,to find out,"Wir müssen herausfinden, was gerade passiert.",We need to find out what’s happening right now.
+2071,"benennen, benennt, benannte, hat benannt",verb,B1,39.6733,0.8931,1,to name,Die Schule ist nach Thomas Mann benannt.,The school is named after Thomas Mann.
+2077,"integrieren, integriert, integrierte, hat integriert",verb,B1,39.5747,0.8654,1,to integrate,Ahmad und seine Familie haben sich sehr gut in Deutschland integriert.,Ahmad and his family have integrated very well in Germany.
+2093,"vorgehen, geht vor, ging vor, ist vorgegangen",verb,B1,39.0819,0.9172,1,"to go on, go ahead, be fast, have priority","Während Anja noch an der Kasse ansteht, gehen ihre Freunde schon vor zum nächsten Geschäft.","While Anja is still queuing up at the checkout, her friends are already going ahead to the next store."
+2103,"lohnen (sich), lohnt, lohnte, hat gelohnt",verb,B1,38.9833,0.9253,1,to be worth it,Nachts die Sterne zu betrachten lohnt sich immer.,Looking at the stars at night is always worth it.
+2107,"unterbrechen, unterbricht, unterbrach, hat unterbrochen",verb,B1,38.934,0.901,1,to interrupt,Der Film im Fernsehen wird durch Werbung unterbrochen.,The film on television is interrupted by advertising.
+2111,"zurückziehen, zieht zurück, zog zurück, hat zurückgezogen",verb,B1,38.7862,0.919,1,to withdraw,Seine Tochter übernimmt seinen Platz und er zieht sich aus der Firma zurück.,His daughter takes his place and he withdraws from the company.
+2112,"klopfen, klopft, klopfte, hat geklopft",verb,B1,38.7369,0.8516,1,"to knock, beat","Thomas klopft immer dreimal an meine Tür, bevor er eintritt.",Thomas always knocks three times on my door before entering.
+2113,"nachweisen, weist nach, wies nach, hat nachgewiesen",verb,B1,38.7369,0.8967,1,to prove,"Um Geld vom Staat zu bekommen, müssen Studenten nachweisen, dass sie an einer Universität studieren.","To get money from the state, students have to prove that they are studying at a university."
+2116,"kennzeichnen, kennzeichnet, kennzeichnete, hat gekennzeichnet",verb,B1,38.6876,0.8636,1,"to characterize, mark",Ich habe die Fehler im Text gekennzeichnet.,I have marked the mistakes in the text.
+2118,"wundern (sich), wundert, wunderte, hat gewundert",verb,B1,38.6383,0.9046,1,"to be surprised, wonder",Christian wundert sich über die niedrigen Preise im Restaurant.,Christian is surprised about the low prices in the restaurant.
+2122,"aufheben, hebt auf, hob auf, hat aufgehoben",verb,B1,38.5397,0.9326,1,"to pick up, keep, lift","Ich hebe alle Briefe auf, die mein Freund mir schickt.",I keep all the letters my friend sends me.
+2127,"erfinden, erfindet, erfand, hat erfunden",verb,B1,38.4412,0.909,1,to invent,Sie wollen ein neues umweltfreundliches Material erfinden.,They want to invent a new environmentally friendly material.
+2128,"erfordern, erfordert, erforderte, hat erfordert",verb,B1,38.4412,0.891,1,"to require, demand",Gute Noten in der Schule erfordern gute Leistungen der Schüler.,Good grades at school require good performance by the students.
+2132,"aufhalten, hält auf, hielt auf, hat aufgehalten",verb,B1,38.3919,0.9247,1,"to stop, hold up, delay",Nichts auf der Welt kann uns aufhalten.,Nothing on earth can stop us.
+2137,"herauskommen, kommt heraus, kam heraus, ist herausgekommen (rauskommen)",verb,B1,38.2933,0.9017,1,to come out,"Max kommt heraus, um mit dem Kind der Nachbarin zu spielen.",Max comes out to play with the neighbor’s child.
+2142,"resultieren, resultiert, resultierte, hat resultiert",verb,B1,38.1948,0.8421,1,to result,Ihre guten Noten resultieren aus intensivem Lernen.,Her good grades result from intense learning.
+2144,"starren, starrt, starrte, hat gestarrt",verb,B1,38.1948,0.8054,1,to stare,"Die Menschen starren auf die Straße, dort ist gerade ein Unfall passiert.","People are staring at the road, there’s just been an accident."
+2146,"vorwerfen, wirft vor, warf vor, hat vorgeworfen",verb,B1,38.1948,0.8664,1,"to accuse, reproach","Ihm wird vorgeworfen, keine Steuern gezahlt zu haben.",They accuse him of not paying taxes.
+2150,"ausrichten, richtet aus, richtete aus, hat ausgerichtet",verb,B1,38.0962,0.925,1,"to tell, align, line up, send",Martin richtet seiner Mutter die Grüße aus.,Martin sends his mother his regards.
+2151,"rühren, rührt, rührte, hat gerührt",verb,B1,38.0962,0.8812,1,"to stir, move",Sie rührt Milch in ihren Kaffee.,She stirs milk into her coffee.
+2153,"aktivieren, aktiviert, aktivierte, hat aktiviert",verb,B1,38.0469,0.6146,1,"to mobilize, activate",Das Sicherheitssystem ist installiert und kann per Handy aktiviert werden.,The safety system is installed and can be activated by phone.
+2158,"ansetzen, setzt an, setzte an, hat angesetzt",verb,B1,37.9483,0.924,1,"to position, estimate, fix",Der Termin war ursprünglich für Freitag angesetzt.,The meeting was originally fixed for Friday.
+2160,"mischen, mischt, mischte, hat gemischt",verb,B1,37.8991,0.9401,1,"to mix, blend",Annette mischt ihr Bier immer mit Cola.,Annette always mixes her beer with Coke.
+2161,"beruhen, beruht, beruhte, hat beruht",verb,B1,37.8498,0.8904,1,to be based,Die Rede der Politikerin beruht auf Fakten.,The politician’s speech is based on facts.
+2179,"bedienen, bedient, bediente, hat bedient",verb,B1,37.4555,0.9366,1,"to serve, operate",Nur Frau Meyer kann diese Maschine bedienen.,Only Mrs. Meyer is able to operate this machine.
+2182,"zusehen, sieht zu, sah zu, hat zugesehen",verb,B1,37.4555,0.8828,1,to watch,Die Eltern möchten beim Training ihrer Kinder zusehen.,The parents would like to watch their children train.
+2183,"bevorzugen, bevorzugt, bevorzugte, hat bevorzugt",verb,B1,37.4062,0.8769,1,to prefer,Ich würde ein Haus mit Garten bevorzugen.,I would prefer a house with a garden.
+2193,"angreifen, greift an, griff an, hat angegriffen",verb,B1,37.1598,0.9066,1,to attack,Die Soldaten greifen die Stadt aus der Luft an.,The soldiers attack the city from the air.
+2194,"finanzieren, finanziert, finanzierte, hat finanziert",verb,B1,37.1105,0.8934,1,to finance,"Die Eltern sparen ihr Geld, um die Bildung ihrer Kinder zu finanzieren.",The parents save their money to finance their children’s education.
+2198,"deuten, deutet, deutete, hat gedeutet",verb,B1,37.012,0.9225,1,"to point, indicate, interpret","Der Lehrer deutet mit seinem Finger auf Lisa, damit sie nach vorne kommt.",The teacher points his finger at Lisa so that she comes up front.
+2205,"besprechen, bespricht, besprach, hat besprochen",verb,B1,36.8148,0.9205,1,to discuss,Wir besprechen Ihre Frage später in meinem Büro.,We’ll discuss your question in my office later.
+2227,"vorgeben, gibt vor, gab vor, hat vorgegeben",verb,B1,36.4698,0.8872,1,"to use as an excuse, set in advance, pretend","Johanna gibt vor, eine andere Person zu sein.",Johanna pretends to be another person.
+2231,"ausführen, führt aus, führte aus, hat ausgeführt",verb,B1,36.3713,0.898,1,"to carry out, perform",Der neue Mitarbeiter führt seine Aufgaben sorgfältig aus.,The new employee performs his tasks carefully.
+2233,"befürchten, befürchtet, befürchtete, hat befürchtet",verb,B1,36.322,0.916,1,to fear,"Ich befürchte, dass ich den Zug verpassen werde.",I’m afraid I’m gonna miss the train.
+2241,"zuordnen, ordnet zu, ordnete zu, hat zugeordnet",verb,B1,36.2234,0.858,1,"to assign, classify",Dieses Gedicht lässt sich einem der drei Dichter zuordnen.,This poem can be assigned to one of the three poets.
+2242,"aussetzen, setzt aus, setzte aus, hat ausgesetzt",verb,B1,36.1741,0.9313,1,"to suspend, expose, skip, sit out",Aufgrund ihrer Verletzungen müssen zwei Spieler der deutschen Mannschaft im nächsten Spiel aussetzen.,"Because of their injuries, two players of the German team must sit out the next match."
+2249,"stoppen, stoppt, stoppte, hat gestoppt",verb,B1,36.0756,0.8969,1,to stop,Die Polizei stoppt die Demonstration nach wenigen Metern.,The police stop the demonstration after a few meters.
+2261,"versetzen, versetzt, versetzte, hat versetzt",verb,B1,35.7799,0.9007,1,"to move, transfer",Die Hälfte meiner Kollegen wird von unserer Firma nach Berlin versetzt.,Half of my colleagues are being transferred to Berlin by our company.
+2262,"verurteilen, verurteilt, verurteilte, hat verurteilt",verb,B1,35.7799,0.8585,1,to condemn,Der Mann wird vom Gericht zu 200 Stunden sozialer Arbeit verurteilt.,The man is sentenced by the court to 200 hours of community service.
+2271,"erwidern, erwidert, erwiderte, hat erwidert",verb,B1,35.5827,0.7631,1,to reply,Er erwidert ihren Blick mit einem Lächeln.,He replies to her look with a smile.
+2275,"atmen, atmet, atmete, hat geatmet",verb,B1,35.4842,0.8702,1,to breathe,"Der Arzt prüft, ob der Patient noch atmet.",The doctor checks if the patient is still breathing.
+2281,"stärken, stärkt, stärkte, hat gestärkt",verb,B1,35.4349,0.8795,1,to strengthen,Gutes Essen und Sport stärken die Gesundheit.,Good food and exercise strengthen your health.
+2287,"verwandeln, verwandelt, verwandelte, hat verwandelt",verb,B1,35.3363,0.9072,1,"to transform, turn into",Da verwandelt sich das Mädchen in eine wunderschöne Prinzessin.,Then the girl turns into a beautiful princess.
+2289,"widmen, widmet, widmete, hat gewidmet",verb,B1,35.287,0.9107,1,to dedicate,Die Autorin widmet das Buch ihrer Mutter.,The author dedicates the book to her mother.
+2290,"bereitstellen, stellt bereit, stellte bereit, hat bereitgestellt",verb,B1,35.2377,0.7028,1,"to provide, put on",Der Laden stellt kostenloses Internet für seine Kunden bereit.,The shop provides free internet for its customers.
+2291,"hinterlassen, hinterlässt, hinterließ, hat hinterlassen",verb,B1,35.2377,0.9271,1,to leave,Die Eltern hinterlassen ihren Kindern ein Vermögen nach ihrem Tod.,The parents leave their children a fortune after their deaths.
+2292,"analysieren, analysiert, analysierte, hat analysiert",verb,B1,35.1885,0.8746,1,to analyze,Die Daten werden mit Hilfe eines Computerprogramms analysiert.,The data is analyzed by a computer program.
+2312,"testen, testet, testete, hat getestet",verb,B1,34.6956,0.8884,1,to test,Herr Gottfried testet ein neues Medikament gegen Schmerzen.,Mr. Gottfried is testing a new drug for pain.
+2313,"umgeben, gibt um, gab um, hat umgegeben",verb,B1,34.6463,0.8681,1,"to surround, enclose",Mit Schnee bedeckte Berge umgeben die kleine Stadt im Tal.,Snow-capped mountains surround the small town in the valley.
+2319,"belasten, belastet, belastete, hat belastet",verb,B1,34.4985,0.9063,1,"to load, burden",Hohe Steuern belasten die Unternehmer.,High taxes burden entrepreneurs.
+2328,"flüstern, flüstert, flüsterte, hat geflüstert",verb,B1,34.2521,0.7792,1,to whisper,"Wir flüstern, weil Annelies noch schläft.",We’re whispering because Annelies is still asleep.
+2333,"erledigen, erledigt, erledigte, hat erledigt",verb,B1,34.2028,0.9277,1,"to settle, take care","Er versichert seiner Mutter, alle Aufgaben im Haus zu erledigen.",He assures his mother that he will take care of all the work in the house.
+2336,"herkommen, kommt her, kam her, ist hergekommen",verb,B1,34.2028,0.8793,1,to come here,"Simon, komm her, ich möchte mit dir reden!","Simon, come here, I want to talk to you!"
+2339,"ahnen, ahnt, ahnte, hat geahnt",verb,B1,34.1042,0.8905,1,"to sense, suspect","Tanja ahnt, dass Tim sie überraschen will.",Tanja senses that Tim wants to surprise her.
+2341,"stützen, stützt, stützte, hat gestützt",verb,B1,34.1042,0.9188,1,"to support, base on",Die Ergebnisse des Experiments stützen unsere Theorie.,The results of the experiment support our theory.
+2345,"einschränken, schränkt ein, schränkte ein, hat eingeschränkt",verb,B1,34.0057,0.9087,1,"to restrict, reduce",Ein radikaler Staat schränkt die Menschen stark in ihren Rechten ein.,A radical state severely restricts people’s rights.
+2353,"abbauen, baut ab, baute ab, hat abgebaut",verb,B1,33.71,0.8232,1,"to reduce, dismantle","Sport ist ein effektives Mittel, um Stress abzubauen.",Sport is an effective tool for reducing stress.
+2354,"anregen, regt an, regte an, hat angeregt",verb,B1,33.71,0.8153,1,"to encourage, suggest, stimulate",Das Thema regt zur Diskussion an.,The subject stimulates discussion.
+2355,"aufwachsen, wächst auf, wuchs auf, ist aufgewachsen",verb,B1,33.71,0.8756,1,to grow up,Das Kind wächst in einer guten Familie auf.,The child grows up in a good family.
+2356,"beherrschen, beherrscht, beherrschte, hat beherrscht",verb,B1,33.71,0.932,1,"to control, rule, master",Der König beherrscht die Menschen in seinem Land.,The king rules the people of his country.
+2371,"zurückführen, führt zurück, führte zurück, hat zurückgeführt",verb,B1,33.5128,0.8977,1,"to attribute, trace back",Der Fehler ist auf das Programm zurückzuführen.,The error can be traced back to the program.
+2381,"trauen, traut, traute, hat getraut",verb,B1,33.365,0.9012,1,"to trust, dare to","Ich traue mich nicht zu fliegen, weil ich Angst habe.",I don’t dare to fly because I’m afraid.
+2383,"vorlegen, legt vor, legte vor, hat vorgelegt",verb,B1,33.365,0.8938,1,"to present, provide, produce",Jonathan muss seinen Pass bei der Polizei vorlegen.,Jonathan has to present his passport to the police.
+2386,"grinsen, grinst, grinste, hat gegrinst",verb,B1,33.3157,0.8172,1,to grin,Die Kinder grinsen fröhlich in die Kamera.,The children grin happily into the camera.
+2389,"erstellen, erstellt, erstellte, hat erstellt",verb,B1,33.2664,0.8947,1,"to build, draw up, produce",Im Seminar sollen die Studenten eine Statistik zu den Wahlen erstellen.,"In the seminar, the students are to draw up statistics on the elections."
+2393,"ausbauen, baut aus, baute aus, hat ausgebaut",verb,B1,33.2171,0.8995,1,"to extend, expand, enlarge",Sie wollen ihr Haus ausbauen.,They want to enlarge their house.
+2394,"anzeigen, zeigt an, zeigte an, hat angezeigt",verb,B1,33.1678,0.873,1,"to report, sue, indicate, show",Die Uhr zeigt die Zeit an.,The clock indicates the time.
+2401,"anhören, hört an, hörte an, hat angehört",verb,B1,33.02,0.9272,1,to listen to,Kannst du dir bitte meine Probleme anhören?,"Can you listen to my problems, please?"
+2403,"verleihen, verleiht, verlieh, hat verliehen",verb,B1,33.02,0.9151,1,"to lend, award",Jutta verleiht ihre Bücher nur an gute Freunde.,Jutta only lends her books to good friends.
+2406,"entspannen, entspannt, entspannte, hat entspannt",verb,B1,32.9707,0.9141,1,to relax,Nach der Arbeit entspannt Marcel sich vor dem Fernseher.,After work Marcel relaxes in front of the TV.
+2408,"beurteilen, beurteilt, beurteilte, hat beurteilt",verb,B1,32.9214,0.8995,1,"to assess, judge","Der Arzt beurteilt die Verletzungen des Patienten, bevor er mit der Behandlung beginnt.",The doctor assesses the patient’s injuries before he starts treatment.
+2415,"aufsteigen, steigt auf, stieg auf, ist aufgestiegen",verb,B1,32.8229,0.9179,1,"to rise (up), move up",Nächste Saison wird mein Team aufsteigen.,My team is moving up next season.
+2419,"überlassen, überlässt, überließ, hat überlassen",verb,B1,32.7736,0.9374,1,to leave,"Rudolf überlässt mir die Entscheidung, was wir heute Abend essen.",Rudolf leaves it up to me to decide what we will eat tonight.
+2420,"identifizieren, identifiziert, identifizierte, hat identifiziert",verb,B1,32.7243,0.9142,1,to identify,Babys können ihre Mutter schon früh an ihrer Stimme identifizieren.,Babies can identify their mother early on by her voice.
+2425,"hinzufügen, fügt hinzu, fügte hinzu, hat hinzugefügt",verb,B1,32.6257,0.91,1,to add,Ich möchte zu meiner Antwort noch etwas hinzufügen.,I would like to add something to my answer.
+2428,"aufkommen, kommt auf, kam auf, ist aufgekommen",verb,B1,32.5764,0.9199,1,"to come up, arise, pay for",Die Sonne ist weg und es kommt Regen auf.,The sun is gone and rain is coming up.
+2434,"ausziehen, zieht aus, zog aus, ist ausgezogen",verb,B1,32.4779,0.8763,1,"to move out, take off (clothes)",Ich ziehe nach fünf Jahren aus der Wohnung aus.,I’m moving out of the apartment after five years.
+2438,"transportieren, transportiert, transportierte, hat transportiert",verb,B1,32.4286,0.856,1,to transport,Die Güter können mit dem Flugzeug oder dem Schiff transportiert werden.,The goods can be transported by air or sea.
+2442,"vermissen, vermisst, vermisste, hat vermisst",verb,B1,32.33,0.8865,1,to miss,"Sie vermisst ihren Mann immer, wenn er weg ist.",She always misses her husband when he’s gone.
+2455,"entschließen (sich), entschließt, entschloss, hat entschlossen",verb,B1,32.1329,0.9209,1,to decide,Sie entschließen sich das Haus zu verkaufen.,They decide to sell the house.
+2456,"gewöhnen, gewöhnt, gewöhnte, hat gewöhnt",verb,B1,32.1329,0.9054,1,to get used to,Er kann sich einfach nicht an das frühe Aufstehen gewöhnen.,He just can’t get used to getting up early.
+2457,"hingehen, geht hin, ging hin, ist hingegangen",verb,B1,32.0836,0.8131,1,to go (there),"Johanna ist sehr traurig, bitte geh zu ihr hin und sprich mit ihr.",Johanna is very sad; please go to her and talk to her.
+2458,"zittern, zittert, zitterte, hat gezittert",verb,B1,32.0836,0.8413,1,"to tremble, shiver",Er zittert vor Kälte.,He’s shivering with cold.
+2466,"winken, winkt, winkte, hat gewinkt",verb,B1,31.985,0.8513,1,to wave,Ich winke meinen Eltern zum Abschied.,I’m waving goodbye to my parents.
+2467,"fliehen, flieht, floh, ist geflohen",verb,B1,31.9357,0.8974,1,"to flee, escape","Der Gefangene versuchte zu fliehen, scheiterte aber.","The prisoner tried to escape, but failed."
+2468,"interpretieren, interpretiert, interpretierte, hat interpretiert",verb,B1,31.9357,0.833,1,to interpret,Jeder Kritiker interpretierte das Stück anders.,Each critic interpreted the play differently.
+2471,"anerkennen, erkennt an, erkannte an, hat anerkannt",verb,B1,31.8865,0.9128,1,"to recognize, accept",Unser Hund will Mamas neuen Freund nicht anerkennen.,Our dog won’t accept Mom’s new boyfriend.
+2472,"bewahren, bewahrt, bewahrte, hat bewahrt",verb,B1,31.8865,0.9006,1,"to keep, protect","In der jetzigen Situation ist es wichtig, die Ruhe zu bewahren.","In the current situation, it is important to keep calm."
+2475,"umbringen, bringt um, brachte um, hat umgebracht",verb,B1,31.8865,0.8169,1,to kill,Zu viel Arbeit wird dich irgendwann umbringen.,Too much work will kill you someday.
+2486,"anstehen, steht an, stand an, hat angestanden",verb,B1,31.7386,0.889,1,"to line up, be in line",Ich stehe lange für die Karten der Band an.,I’ve been in line a long time for the band’s tickets.
+2490,"rollen, rollt, rollte, hat gerollt",verb,B1,31.7386,0.8927,1,to roll,Der Ball rollt ins Tor.,The ball rolls into the goal.
+2494,"garantieren, garantiert, garantierte, hat garantiert",verb,B1,31.6893,0.9232,1,to guarantee,"Ich garantiere dir, dass dir der Film gefallen wird.",I guarantee you’ll love the movie.
+2499,"gefährden, gefährdet, gefährdete, hat gefährdet",verb,B1,31.5415,0.9109,1,to endanger,Rauchen gefährdet die Gesundheit.,Smoking endangers health.
+2507,"zustimmen, stimmt zu, stimmte zu, hat zugestimmt",verb,B1,31.4429,0.8745,1,"to agree, consent",Ich stimme der Meinung meines Professors zu.,I agree with the opinion of my professor.
+2601,"klettern, klettert, kletterte, ist geklettert",verb,B1,29.9644,0.8847,1,to climb,Tina und Tim klettern auf den Baum.,Tina and Tim climb the tree.
+2610,"versichern, versichert, versicherte, hat versichert",verb,B1,29.9151,0.879,1,"to insure, assert","Er versichert sein Fahrrad, falls er einen Unfall hat.",He insures his bike in case of an accident.
+2615,"klingeln, klingelt, klingelte, hat geklingelt",verb,B1,29.8166,0.8529,1,to ring,"Das Telefon klingelt, aber niemand ist da.","The phone is ringing, but nobody is there."
+2626,"empfangen, empfängt, empfing, hat empfangen",verb,B1,29.6687,0.9251,1,to receive,Wir empfangen unsere Gäste am Flughafen.,We receive our guests at the airport.
+2632,"anschließen, schließt an, schloss an, hat angeschlossen",verb,B1,29.6194,0.8755,1,"to join, chain to, connect",Du kannst dein Handy an meinen Computer anschließen.,You can connect your phone to my computer.
+2636,"anstellen, stellt an, stellte an, hat angestellt",verb,B1,29.4716,0.9282,1,"to hire, employ, line up, get into mischief",Die Firma stellt im nächsten Jahr mehr als 100 neue Arbeiter an.,The company will hire more than 100 new workers next year.
+2644,"küssen, küsst, küsste, hat geküsst",verb,B1,29.373,0.8383,1,to kiss,Sie küsst ihn auf den Mund.,She kisses him on the mouth.
+2673,"hassen, hasst, hasste, hat gehasst",verb,B1,29.028,0.864,1,to hate,"Ich hasse es, vor vielen Menschen zu sprechen.",I hate speaking in front of so many people.
+2714,"nähern (sich), nähert, näherte, hat genähert",verb,B1,28.3873,0.918,1,to approach,Sie nähern sich dem Tier langsam und leise.,They approach the animal slowly and quietly.
+2736,"loben, lobt, lobte, hat gelobt",verb,B1,28.0916,0.8937,1,to praise,"Wenn Jakob etwas richtig macht, lobt ihn seine Mutter.","When Jakob does something right, his mother praises him."
+2741,"verlängern, verlängert, verlängerte, hat verlängert",verb,B1,28.0423,0.8972,1,"to lengthen, extend",Der Vertrag verlängert sich automatisch am Ende des Monats.,The contract renews automatically at the end of the month.
+2787,"klagen, klagt, klagte, hat geklagt",verb,B1,27.3524,0.9013,1,to complain,"Mir geht es gut, ich kann nicht klagen.","I’m fine, I can’t complain."
+2799,"entlassen, entlässt, entließ, hat entlassen",verb,B1,27.2538,0.9045,1,"to dismiss, fire",Sie wird aus ihrer Firma entlassen.,She’s being dismissed from her company.
+2802,"abstimmen, stimmt ab, stimmte ab, hat abgestimmt",verb,B1,27.1552,0.8932,1,"to vote, coordinate","Um eine Entscheidung zu treffen, müssen wir abstimmen.","In order to make a decision, we have to vote."
+2838,"widersprechen, widerspricht, widersprach, hat widersprochen",verb,B1,26.8103,0.9254,1,to contradict,Als Kind sollst du deinen Eltern nicht widersprechen.,"As a child, you shouldn’t contradict your parents."
+2851,"aufwachen, wacht auf, wachte auf, ist aufgewacht",verb,B1,26.6131,0.8627,1,to wake up,Ich wache jeden Morgen zur gleichen Zeit auf.,I wake up every morning at the same time.
+2904,"zusagen, sagt zu, sagte zu, hat zugesagt",verb,B1,26.0217,0.8692,1,"to promise, accept",Wann sagst du endlich für den Urlaub zu?,When will you accept going on vacation?
+2927,"fressen, frisst, fraß, hat gefressen",verb,B1,25.6767,0.8686,1,to eat,Kühe fressen am liebsten frisches Gras.,Cows like to eat fresh grass.
+2980,"einigen, einigt, einigte, hat geeinigt",verb,B1,24.9868,0.8767,1,"to unite, agree","Marion und Peter streiten sich, weil sie sich nicht einigen können.",Marion and Peter argue because they can’t agree.
+3026,"korrigieren, korrigiert, korrigierte, hat korrigiert",verb,B1,24.5432,0.9279,1,"to correct, revise","Ich muss noch zehn Arbeiten von meinen Schülern korrigieren, bevor ich gehen kann.",I have ten more papers from my students to correct before I can go.
+3051,"kleben, klebt, klebte, hat geklebt",verb,B1,24.1489,0.8712,1,to stick,Die Kinder kleben bunte Blumen aus Papier an die Fenster.,The children stick colorful paper flowers onto the windows.
+3098,"grüßen, grüßt, grüßte, hat gegrüßt",verb,B1,23.7054,0.8603,1,to greet,Auf dem Dorf grüßt jeder jeden.,"In the country, everyone says hi to everyone else."
+3122,"stehlen, stiehlt, stahl, hat gestohlen",verb,B1,23.3604,0.8947,1,to steal,Die Kinder stehlen Früchte aus dem Garten des Nachbarn.,The children are stealing fruit from the neighbor’s garden.
+3123,"betreuen, betreut, betreute, hat betreut",verb,B1,23.3111,0.882,1,"to look after, take care",Sonja betreut ihre kranke Mutter.,Sonja looks after her sick mother.
+3147,"vergrößern, vergrößert, vergrößerte, hat vergrößert",verb,B1,23.0647,0.8549,1,"to increase, extend, enlarge","Ich versuche durch viel Arbeit, mein Vermögen ständig zu vergrößern.",I try by a lot of work to constantly increase my fortune.
+3188,"unterrichten, unterrichtet, unterrichtete, hat unterrichtet",verb,B1,22.6212,0.8462,1,to teach,Der Lehrer unterrichtet Deutsch und Französisch an der Schule.,The teacher teaches German and French at the school.
+3239,"zuschauen, schaut zu, schaute zu, hat zugeschaut",verb,B1,22.1283,0.8723,1,to watch,Die Eltern schauen ihren Kindern beim Spielen zu.,The parents are watching their children play.
+3243,"senden, sendet, sendete, hat gesendet",verb,B1,22.079,0.9141,1,"to send, broadcast","Heute senden wir live aus London, wo Prinz Harry heiratet.","Today we’re broadcasting live from London, where Prince Harry is getting married."
+3253,"übertreiben, übertreibt, übertrieb, hat übertrieben",verb,B1,21.9312,0.9049,1,to exaggerate,"Du darfst nicht alles glauben, was sie sagt. Sie übertreibt gerne.",You can’t believe everything she says. She likes to exaggerate.
+3259,"wiegen, wiegt, wog, hat gewogen",verb,B1,21.8326,0.9208,1,to weigh,Miriams Baby wiegt bei der Geburt 3000 Gramm.,"Miriam’s baby weighs 3,000 grams at birth."
+3276,"schaden, schadet, schadete, hat geschadet",verb,B1,21.6848,0.9114,1,"to damage, harm",Rauchen schadet der Gesundheit.,Smoking damages your health.
+3307,"verbrauchen, verbraucht, verbrauchte, hat verbraucht",verb,B1,21.3891,0.8579,1,"to use, consume",Wir verbrauchen viel Wasser in unserem Haushalt.,We use a lot of water in our household.
+3317,"beißen, beißt, biss, hat gebissen",verb,B1,21.2905,0.8776,1,to bite,"Du kannst den Hund streicheln, er beißt nicht.",You can pet the dog; it won’t bite you.
+3320,"absagen, sagt ab, sagte ab, hat abgesagt",verb,B1,21.2412,0.8607,1,to cancel,Wir müssen die Veranstaltung wegen des schlechten Wetters absagen.,We have to cancel the event because of bad weather.
+3337,"einschalten, schaltet ein, schaltete ein, hat eingeschaltet",verb,B1,21.1426,0.8756,1,to switch on,Ich schalte das Licht ein.,I’m switching on the light.
+3349,"festnehmen, nimmt fest, nahm fest, hat festgenommen",verb,B1,21.0441,0.7757,1,"to arrest, detain",Die Polizei verfolgt den Verbrecher und kann ihn festnehmen.,The police are following the criminal and can arrest him.
+3354,"verhaften, verhaftet, verhaftete, hat verhaftet",verb,B1,21.0441,0.8637,1,to arrest,Die Polizei verhaftet den Täter.,The police arrest the perpetrator.
+3433,"löschen, löscht, löschte, hat gelöscht",verb,B1,20.3541,0.8884,1,"to put out, delete",Die Feuerwehr löscht das Feuer.,The fire department’s putting out the fire.
+3502,"feststehen, steht fest, stand fest, hat festgestanden",verb,B1,19.8613,0.873,1,"to be certain, fixed, firm","Es steht heute schon fest, dass wir nächstes Jahr nach Frankreich ziehen.",It is already certain that we will move to France next year.
+3647,"tauschen, tauscht, tauschte, hat getauscht",verb,B1,18.8263,0.9034,1,"to exchange, change, swap, switch","Karla und Paul tauschen ihre Plätze im Kino, damit Klara besser sehen kann.",Karla and Paul switch places in the cinema so that Klara can see better.
+3657,"blühen, blüht, blühte, hat geblüht",verb,B1,18.7278,0.8852,1,to bloom,Der Apfelbaum blüht mit weißen Blüten.,The apple tree blooms with white flowers.
+3683,"bremsen, bremst, bremste, hat gebremst",verb,B1,18.5306,0.9088,1,"to brake, slow down","Die Fahrerin muss bremsen, da Kühe auf der Straße sind.",The driver has to brake because there are cows on the road.
+3690,"vorlesen, liest vor, las vor, hat vorgelesen",verb,B1,18.5306,0.8736,1,to read sth to sb,"Damit mein Kind richtig sprechen lernt, lese ich ihm viel aus Büchern vor.","So that my child learns to speak properly, I read to him a lot from books."
+3714,"siegen, siegt, siegte, hat gesiegt",verb,B1,18.3828,0.8021,1,"to win, triumph",Bei dem Spiel wird der Klügste siegen.,The smartest man will win the game.
+3716,"trocknen, trocknet, trocknete, hat getrocknet",verb,B1,18.3828,0.8068,1,to dry,Ich lasse meine Haare immer an der Luft trocknen.,I always let my hair dry in the open air.
+3748,"aufschreiben, schreibt auf, schrieb auf, hat aufgeschrieben",verb,B1,18.1364,0.8883,1,to write down,"Wenn ich es nicht aufschreibe, vergesse ich es.","If I don’t write it down, I forget it."
+3765,"stinken, stinkt, stank, hat gestunken",verb,B1,18.0378,0.8493,1,to stink,"Wenn du dich nicht wäschst, stinkst du.","If you don’t wash, you stink."
+3807,"umarmen, umarmt, umarmte, hat umarmt",verb,B1,17.7914,0.829,1,to embrace,"Ich umarme meine Freundin, als sie in den Zug steigt.",I embrace my girlfriend as she gets on the train.
+3828,"beantragen, beantragt, beantragte, hat beantragt",verb,B1,17.6435,0.8503,1,to apply for,Familie Winter beantragt einen Kredit bei der Bank.,The Winter family applies for a loan from the bank.
+3842,"bestrafen, bestraft, bestrafte, hat bestraft",verb,B1,17.5449,0.886,1,to punish,Mein Ehemann bestraft mich nach jedem Streit mit Schweigen.,My husband punishes me with silence after every argument.
+3898,"ausstellen, stellt aus, stellte aus, hat ausgestellt",verb,B1,17.1507,0.8916,1,"to display, issue, make out",Der Chef stellt Frau Meinhold ein positives Zeugnis aus.,The boss issues a positive report to Mrs. Meinhold.
+3947,"tippen, tippt, tippte, hat getippt",verb,B1,16.9043,0.8657,1,"to tap, type",Ich tippe den Text auf meinem Computer.,I type the text on my computer.
+3976,"erholen (sich), erholt, erholte, hat erholt",verb,B1,16.7564,0.9014,1,"to recover, relax","Weil meine Mutter sich erholen will, fährt sie alleine in den Urlaub.","Because my mother wants to relax, she goes on vacation alone."
+4049,"abheben, hebt ab, hob ab, hat abgehoben",verb,B1,16.3621,0.8847,1,"to take off, withdraw","Marianne schaut gerne zu, wie Flugzeuge abheben und landen.",Marianne likes to watch planes take off and land.
+4097,"protestieren, protestiert, protestierte, hat protestiert",verb,B1,16.1157,0.8852,1,to protest,Studenten und Arbeiter protestieren auf den Straßen gegen die neue Reform.,Students and workers protest in the streets against the new reform.
+4138,"ernähren, ernährt, ernährte, hat ernährt",verb,B1,15.82,0.8838,1,"to feed, nourish, support",Ich ernähre mich ausschließlich ohne Produkte von Tieren.,I feed myself without any products from animals.
+4149,"zweifeln, zweifelt, zweifelte, hat gezweifelt",verb,B1,15.7707,0.8932,1,to doubt,Ich zweifle an der Wahrheit der Geschichte.,I doubt the truth of history.
+4170,"besorgen, besorgt, besorgte, hat besorgt",verb,B1,15.6229,0.8778,1,"to get, provide, buy",Dieses Jahr besorge ich keine Geschenke für Weihnachten.,I’m not getting presents for Christmas this year.
+4250,"entgegenkommen, kommt entgegen, kam entgegen, ist entgegengekommen",verb,B1,15.2286,0.8838,1,"to meet, accommodate","Ich habe zu wenig Geld dabei, können Sie mir mit dem Preis entgegenkommen?",I don’t have enough money; can you meet me with the price?
+4274,"erkundigen (sich), erkundigt, erkundigte, hat erkundigt",verb,B1,15.0808,0.8111,1,to inquire,Ich erkundige mich nach den Preisen für die Tickets.,I inquire about the prices for the tickets.
+4288,"irren (sich), irrt, irrte, hat geirrt",verb,B1,15.0315,0.8807,1,"to err, be wrong","Jeder Mensch irrt sich manchmal, auch wenn er denkt, er weiß es.","Everybody is sometimes wrong, even when they think they know it."
+4310,"eilen, eilt, eilte, hat geeilt",verb,B1,14.8836,0.8693,1,to hurry,"Ich eile immer zu meinem Bus, weil ich zu lange schlafe.",I always hurry to my bus because I sleep too long.
+4347,"unterstreichen, unterstreicht, unterstrich, hat unterstrichen",verb,B1,14.7358,0.8822,1,"to underline, emphasize",Der Lehrer unterstreicht die wichtigen Wörter.,The teacher underlines the important words.
+4468,"losfahren, fährt los, fuhr los, ist losgefahren",verb,B1,14.1937,0.898,1,"to leave, depart","Wir sollten morgen früher losfahren, damit wir eher wieder zu Hause sind.",We should depart early tomorrow so we can get home sooner.
+4470,"schalten, schaltet, schaltete, hat geschaltet",verb,B1,14.1937,0.8325,1,"to switch, shift","Du musst in einen anderen Gang schalten, damit das Auto schneller fährt.",You have to shift gears to make the car go faster.
+4475,"beleidigen, beleidigt, beleidigte, hat beleidigt",verb,B1,14.1444,0.8818,1,to insult,Die Kinder streiten und beleidigen sich gegenseitig.,The children argue and insult each other.
+4482,"überholen, überholt, überholte, hat überholt",verb,B1,14.1444,0.9112,1,"to pass, overhaul","Wenn das Auto vor mir zu langsam fährt, überhole ich es.","If the car in front of me drives too slowly, I’ll pass it."
+4510,"konsumieren, konsumiert, konsumierte, hat konsumiert",verb,B1,13.9965,0.6233,1,to consume,Manche Menschen konsumieren gefährliche Substanzen.,Some people consume dangerous substances.
+4546,"überqueren, überquert, überquerte, hat überquert",verb,B1,13.8487,0.8688,1,to cross,"Wir müssen schnell die Straße überqueren, bevor ein Auto kommt.",We must cross the road quickly before a car comes.
+4554,"operieren, operiert, operierte, hat operiert",verb,B1,13.7994,0.8815,1,"to operate, perform surgery","Ich gehe morgen ins Krankenhaus, weil ich operiert werde.",I’m going to the hospital tomorrow because I’m getting surgery.
+4555,"stechen, sticht, stach, hat gestochen",verb,B1,13.7994,0.8725,1,"to sting, prick, stab",Ich breche die Rose ab und steche mir dabei in den Finger.,I break off the rose and prick my finger.
+4559,"verwechseln, verwechselt, verwechselte, hat verwechselt",verb,B1,13.7994,0.9031,1,"to confuse, mix up","Hannah und Maria sehen sich so ähnlich, dass ich sie oft verwechsle.",Hannah and Maria look so alike that I often confuse them.
+4560,"beschädigen, beschädigt, beschädigte, hat beschädigt",verb,B1,13.7501,0.8561,1,to damage,"Die Polizei kommt, weil Paul wütend ist und fremdes Eigentum beschädigt.",The police come because Paul is angry and damages other people’s property.
+4602,"füttern, füttert, fütterte, hat gefüttert",verb,B1,13.553,0.8738,1,to feed,Ich muss meinen Hund dreimal am Tag füttern.,I have to feed my dog three times a day.
+4775,"gießen, gießt, goss, hat gegossen",verb,B1,12.8137,0.8821,1,"to water, pour","Ich frage meine Nachbarin, ob sie meine Pflanzen gießt, während ich weg bin.",I ask my neighbor to water my plants while I’m away.
+4861,"verzeihen, verzeiht, verzieh, hat verziehen",verb,B1,12.4195,0.842,1,"to forgive, excuse","Ich kann ihm nicht verzeihen, obwohl er sich entschuldigt hat.",I can’t forgive him even though he apologized.
+4877,"behindern, behindert, behinderte, hat behindert",verb,B1,12.3209,0.9038,1,"to obstruct, impede",Du fährst zu langsam und behinderst dadurch den Verkehr.,You’re driving too slowly and you’re obstructing traffic.
+4930,"langweilen, langweilt, langweilte, hat gelangweilt",verb,B1,12.1238,0.876,1,to bore,Der Film langweilt mich und ich schlafe gleich ein.,The movie bores me and I’m about to fall asleep.

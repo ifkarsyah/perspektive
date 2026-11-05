@@ -1,0 +1,4 @@
+rank,word,pos,level,freq_per_million,dispersion,has_conjugation,definition,example_de,example_en
+933,"reisen, reist, reiste, ist gereist",verb,A1,93.4416,0.8635,1,to travel,Ann-Katrin und Dominik reisen jedes Jahr in ein anderes Land.,Ann-Katrin and Dominik travel to another country every year.
+1803,"wandern, wandert, wanderte, ist gewandert",verb,A1,47.0658,0.9002,1,"to (go on a) walk or hike, migrate",Lucy wandert gern auf dem Land oder in den Bergen.,Lucy likes to hike in the country or in the mountains.
+1886,"rücken, rückt, rückte, hat gerückt",verb,A2,44.5031,0.9305,1,to move,"Ich rücke näher, um zu verstehen, was er sagt.",I’m moving closer to understand what he’s saying.

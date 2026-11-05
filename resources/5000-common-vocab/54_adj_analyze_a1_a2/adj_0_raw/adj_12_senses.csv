@@ -1,0 +1,36 @@
+rank,word,pos,level,freq_per_million,dispersion,has_conjugation,definition,example_de,example_en
+
+1411,hell,adj,A1,62.9844,0.883,0,"light, bright","Bitte mach das Licht aus, es ist mir zu hell.",Please turn off the light; it’s too bright.
+706,dunkel,adj,A2,125.4267,0.8933,0,dark,"In der Nacht ist es dunkel, am Morgen ist es hell.",It’s dark at night and light in the morning.
+
+773,laut,adj,A1,110.6909,0.8965,0,loud,Meiner Meinung nach ist die Musik zu laut.,"In my opinion, the music is too loud."
+1166,leise,adj,A1,74.7139,0.866,0,"quiet, soft",Er spricht mit leiser Stimme.,He speaks in a quiet voice.
+991,ruhig,adj,A1,87.7247,0.8997,0,"quiet, calm",In einer Großstadt gibt es nur wenige ruhige Orte.,In a big city there are only a few quiet places.
+
+887,kalt,adj,A2,98.2221,0.9127,0,cold,Meine Hände sind kalt.,My hands are cold.
+2730,kühl,adj,A2,28.1409,0.888,0,cool,Der Wein muss an einem kühlen und trockenen Platz liegen.,The wine must lie in a cool and dry place.
+1281,warm,adj,A2,68.9477,0.9057,0,warm,Draußen ist es warm.,It’s warm outside.
+1195,heiß,adj,A2,72.989,0.9207,0,hot,"Sei vorsichtig, der Tee ist heiß.","Be careful, the tea is hot."
+
+728,hart,adj,A2,120.5969,0.9416,0,hard,Er wirft mir einen harten Stein an den Kopf.,He’s throwing a hard rock at my head.
+2201,weich,adj,A2,37.012,0.8983,0,soft,Ein zu weiches Bett ist nicht gut für den Rücken.,A bed that is too soft is not good for the back.
+
+257,schwer,adj,A1,338.9723,0.9507,0,"difficult, heavy",Das ist eine schwere Frage.,That’s a tough question.
+311,leicht,adj,A1,270.3696,0.955,0,"light, easy",Das ist eine leichte Aufgabe.,It’s an easy task.
+
+3116,nass,adj,A2,23.4097,0.8584,0,wet,Meine Haare sind nass vom Regen.,My hair is wet from the rain.
+2363,trocken,adj,A2,33.6114,0.9077,0,dry,Im Winter ist meine Haut sehr trocken von der kalten Luft.,In winter my skin is very dry from the cold air.
+
+2796,süß,adj,A2,27.3031,0.8843,0,sweet,"Ich gebe viel Zucker in den Tee, damit er süß ist.",I put a lot of sugar in the tea so it’s sweet.
+2441,sauer,adj,A2,32.33,0.8254,0,"sour, angry","Er ist sauer, weil sie nicht anruft.",He’s angry because she’s not calling.
+2991,bitter,adj,A1,24.8882,0.9124,0,bitter,Wein hat einen etwas bitteren Geschmack.,Wine has a slightly bitter taste.
+1442,scharf,adj,A2,61.5552,0.9281,0,sharp,"Sei vorsichtig, das Messer ist sehr scharf.","Be careful, the knife is very sharp."
+
+2026,sauber,adj,A2,40.7575,0.9216,0,clean,"Das Haus ist bei mir immer sauber, wenn Besuch kommt.",My house is always clean when I’m getting company.
+3869,schmutzig,adj,A2,17.4464,0.8826,0,dirty,Bitte wasche deine schmutzigen Hände.,"Please, wash your dirty hands."
+
+1260,frisch,adj,A2,70.0319,0.9162,0,fresh,Wir benutzten nur frische Lebensmittel.,We only use fresh food.
+
+567,fest,adj,A2,151.8426,0.9311,0,"firm, solid",Das Haus steht auf festem Boden.,The house is on solid ground.
+664,rein,adj,A2,132.1292,0.9487,0,"pure, clear, clean",Sie haben Ringe aus reinem Gold.,They have rings of pure gold.
+3306,fett,adj,A2,21.3891,0.8631,0,"fat, greasy, rich",Dein Hund ist ganz schön fett. Bewegt er sich nicht genug?,Your dog is quite fat. Doesn’t it move enough?

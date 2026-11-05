@@ -1,0 +1,24 @@
+rank,word,pos,level,freq_per_million,dispersion,has_conjugation,definition,example_de,example_en
+
+95,"erste (r, s)",adj,A1,1025.2952,0.9615,0,first,Jonah feiert heute seinen ersten Geburtstag.,Jonah celebrates his first birthday today.
+152,"letzte (r, s)",adj,A1,564.2475,0.952,0,last,"Das ist das letzte Auto, das ich für meinen Sohn kaufe, das nächste bezahlt er selbst.",This is the last car I’m buying for my son; the next one he’ll be paying for himself.
+237,"nächste (r, s)",adj,A2,365.1419,0.9526,0,next,Nächste Woche gehen wir schwimmen.,Next week we’re going swimming.
+
+201,besser,adj,A1,421.0295,0.9567,0,better,Kevin kann besser schwimmen als sein Bruder.,Kevin swims better than his brother.
+314,"beste (r, s)",adj,A1,268.1026,0.9329,0,best,Lisett ist meine beste Freundin.,Lisett is my best friend.
+
+102,wenig,adj,A1,887.9912,0.9623,0,few,"Es gibt nur wenige Menschen, denen er vertraut.",There are just a few people he trusts.
+378,meiste,adj,A1,219.6075,0.9516,0,most,Am meisten gefällt mir das rote Kleid.,I like the red dress the most.
+
+69,ganz,adj,A2,1575.4476,0.931,0,"whole, all the",Das ganze Zimmer ist leer.,The whole room is empty.
+
+141,gleich,adj,A1,631.5688,0.9579,0,"same, right away, just",Die zwei Schwestern tragen das gleiche Kleid.,The two sisters are wearing the same dress.
+254,verschieden,adj,A2,344.7385,0.9176,0,"different, diverse",Alle Menschen sind verschieden.,All people are different.
+
+786,"rechte (r, s)",adj,A2,109.2617,0.9205,0,right,In Deutschland muss man auf der rechten Seite der Straße fahren.,In Germany you have to drive on the right side of the road.
+871,"linke (r, s)",adj,A2,99.6514,0.8941,0,left,Auf der rechten Seite steht die Kirche und auf der linken ist die Universität.,On the right is the church and on the left is the university.
+
+166,eigen,adj,A2,528.2212,0.9526,0,own,Jeder Mensch hat ihren eigenen Charakter.,Everyone has their own character.
+
+182,"weitere (r, s)",adj,A1,477.952,0.9463,0,"additional, further",Weitere Informationen finden Sie im Internet.,Further information can be found on the internet.
+671,"innere (r, s)",adj,A2,131.5378,0.9062,0,internal,Seine inneren Organe sind nicht verletzt.,His internal organs aren’t injured.

@@ -1,0 +1,4 @@
+rank,word,pos,level,freq_per_million,dispersion,has_conjugation,definition,example_de,example_en
+365,"vorstellen, stellt vor, stellte vor, hat vorgestellt",verb,A2,229.6121,0.9378,1,"to introduce, imagine",Darf ich Ihnen meine Frau Stefanie vorstellen?,"May I introduce you to my wife, Stefanie?"
+647,"vorliegen, liegt vor, lag vor, hat vorgelegen",verb,A2,134.347,0.868,1,"to be available, exist",Die Ergebnisse der Untersuchung liegen uns jetzt vor.,The results of the investigation are now available to us.
+1421,"vorbereiten, bereitet vor, bereitete vor, hat vorbereitet",verb,A2,62.5408,0.9345,1,to prepare,Sie bereiten sich auf die Prüfung vor.,They’re preparing for the exam.

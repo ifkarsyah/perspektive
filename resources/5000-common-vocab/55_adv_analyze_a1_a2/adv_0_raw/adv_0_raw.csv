@@ -1,0 +1,100 @@
+rank,word,pos,level,freq_per_million,dispersion,has_conjugation,definition,example_de,example_en
+18,auch,adv,A1,6378.9683,0.951,0,"also, too","Auch ich habe Geburtstag, nicht nur Markus.","It’s my birthday too, not just Markus’s."
+28,so,adv,A1,4519.3517,0.9377,0,"so, thus, the way, such",Ich beobachte Klaus und mache alles so wie er.,I watch Klaus and do everything the way he does.
+33,noch,adv,A1,3375.3325,0.9514,0,"still, yet",Habt ihr sonst noch Fragen?,Do you still have any questions?
+39,nur,adv,A1,3000.0381,0.9773,0,only,Das kostet nur zwei Euro.,It only costs two euros.
+41,dann,adv,A1,2898.7111,0.9128,0,then,Erst gehen wir einkaufen und dann in ein Restaurant.,"First we go shopping, then we go to a restaurant."
+48,da,adv,A1,2326.4304,0.897,0,there,Da hinten steht mein Auto.,There’s my car over there.
+52,mehr,adv,A1,2081.8854,0.9573,0,more,Ich habe Hunger und möchte mehr Brot.,I’m hungry and want more bread.
+61,schon,adv,A1,1839.706,0.9332,0,already,Günter arbeitet schon seit 30 Jahren hier.,Günter has been working here for 30 years now.
+64,immer,adv,A1,1703.3384,0.9466,0,always,Zum Frühstück esse ich immer eine Scheibe Brot.,I always have a slice of bread for breakfast.
+68,hier,adv,A1,1620.542,0.928,0,here,Hier ist mein Zimmer.,Here is my room.
+71,also,adv,A1,1568.2522,0.8418,0,so,Das ist also der neue Schüler.,"So, this is the new student."
+72,jetzt,adv,A1,1541.4912,0.9036,0,now,Wir müssen jetzt ins Bett.,We have to go to bed now.
+73,doch,adv,A1,1539.1749,0.9253,0,"however, but","Heute scheint die Sonne, doch ich bleibe zu Hause.","Today the sun is shining, but I’m staying at home."
+81,sehr,adv,A1,1307.8378,0.9139,0,very,Sie ist eine sehr gute Ärztin.,She’s a very good doctor.
+114,"nun, nu",adv,A1,786.0728,0.952,0,now,Nun habt ihr euch euren Urlaub verdient.,Now you’ve earned your vacation.
+116,heute,adv,A1,778.8774,0.9301,0,today,Heute ist mein Geburtstag.,Today is my birthday.
+124,einmal,adv,A1,731.023,0.9348,0,once,Ich möchte einmal im Leben nach Paris fahren.,I want to go to Paris once in my life.
+132,erst,adv,A1,680.261,0.9588,0,"first, only, not until",Erst solltest du deine Eltern fragen.,First you should ask your parents.
+139,dort,adv,A1,633.2445,0.9422,0,there,Die Bibliothek ist dort drüben.,The library is over there.
+145,vielleicht,adv,A1,601.5551,0.9131,0,"perhaps, maybe",Vielleicht gibt es noch einen anderen Weg.,Maybe there’s another way.
+165,gar,adv,A1,532.1146,0.9267,0,at all,Das ist gar kein Problem.,That’s no problem at all.
+186,nie,adv,A1,466.7153,0.9223,0,never,Das hast du mir nie erzählt.,You never told me that.
+192,warum,adv,A1,447.7411,0.9159,0,why,Warum hast du mich angerufen?,Why did you call me?
+221,weiter,adv,A1,391.4593,0.9687,0,further,Weitere Informationen zu diesem Thema stehen im Internet.,Further information on this topic is available on the internet.
+223,oft,adv,A1,388.453,0.9566,0,often,Sie besucht ihre Oma oft.,She visits her grandma often.
+267,"allein, alleine",adv,A1,327.3414,0.9495,0,alone,Ohne Freunde ist man allein.,"Without friends, you’re alone."
+278,"gern, gerne",adv,A1,314.3798,0.9148,0,(with a verb) love to,Tom tanzt sehr gern.,Tom loves to dance.
+351,schließlich,adv,A1,238.8774,0.9426,0,"finally, eventually","Wir haben uns total verlaufen, aber schließlich sind wir doch noch ans Ziel gekommen.","We got completely lost, but eventually we reached our destination."
+411,früher,adv,A1,201.1755,0.9323,0,in former times,Früher war Deutschland in Osten und Westen geteilt.,In former times Germany was divided into East and West.
+417,oben,adv,A1,199.5491,0.9437,0,"above, up there",Oben auf dem Dach sitzt ein Vogel.,There’s a bird up on the roof.
+446,sofort,adv,A1,184.2712,0.9246,0,immediately,Daniel braucht sofort einen Arzt.,Daniel needs a doctor immediately.
+459,lieber,adv,A1,180.3778,0.9231,0,rather,Ich würde lieber am Meer wohnen.,I’d rather live by the sea.
+471,bitte,adv,A1,175.8437,0.8358,0,please,Kannst du bitte still sein!,Can you please be quiet!
+503,bald,adv,A1,166.6277,0.9238,0,soon,Bis bald!,See you soon!
+533,zusammen,adv,A1,160.2701,0.9545,0,together,Sie wohnen zusammen.,They live together.
+643,leider,adv,A1,134.8891,0.9115,0,unfortunately,"Daniel wollte kommen, aber er ist leider krank.","Daniel wanted to come, but unfortunately he’s ill."
+705,meist,adv,A1,125.4759,0.922,0,"mostly, usually",An einem Sonntag schläft Max meist bis 13 Uhr.,On a Sunday Max usually sleeps until 1 pm.
+710,unten,adv,A1,125.131,0.9298,0,down,Willi bringt das Fahrrad nach unten in den Keller.,Willi takes the bike down to the cellar.
+752,morgen,adv,A1,115.4645,0.8516,0,tomorrow,Heute bleibe ich im Bett und morgen gehe ich arbeiten.,Today I’ll stay in bed and tomorrow I’ll go to work.
+821,gestern,adv,A1,104.8754,0.8527,0,yesterday,Gestern habe ich einen Freund getroffen.,Yesterday I met a friend.
+829,rechts,adv,A1,103.7419,0.9241,0,on/to the right,Das Haus ist auf der rechten Seite.,The house is on the right side.
+848,draußen,adv,A1,101.7706,0.8852,0,outside,Die Kinder spielen gern draußen.,The children like to play outside.
+877,danke,adv,A1,99.06,0.7558,0,thanks,Danke für deine Hilfe!,Thanks for your help!
+893,links,adv,A1,97.3843,0.9218,0,on/to the left,Er dreht seinen Kopf nach links.,He turns his head to the left.
+965,weg,adv,A1,89.9918,0.8971,0,"gone, vanished",Mein Schlüssel ist weg!,My key’s gone!
+1159,hinten,adv,A1,74.9603,0.8846,0,at/in the back,Unsere Kinder sitzen hinten im Auto.,Our children are sitting in the back of the car.
+1683,zurück,adv,A1,50.8606,0.9089,0,back,Jan kommt aus dem Urlaub zurück nach Hause.,Jan comes back home from vacation.
+1745,ab,adv,A1,48.84,0.9223,0,"off, away","Kinder, es ist schon spät, ab ins Bett mit euch!","Kids, it’s getting late. Off to bed with you!"
+3014,zurzeit,adv,A1,24.6911,0.891,0,at the moment,Ich habe zurzeit keine Pläne für die Zukunft.,I have no plans for the future at the moment.
+74,wieder,adv,A2,1530.501,0.9431,0,again,Lea kommt wieder zu spät.,Lea’s late again.
+202,fast,adv,A2,419.9452,0.9469,0,almost,Ich hätte fast den Bus verpasst.,I almost missed the bus.
+226,sogar,adv,A2,381.7505,0.9453,0,"even, in fact",Sogar du kannst die Welt ein bisschen verbessern!,Even you can make the world a little better!
+229,deshalb,adv,A2,379.927,0.929,0,therefore,"Es gibt bald Regen, deshalb sollten wir ins Haus gehen.","It’s going to rain; therefore, we should go into the house."
+270,besonders,adv,A2,323.6451,0.9513,0,particularly,Das Spiel ist heute besonders spannend.,The game is particularly exciting today.
+303,anders,adv,A2,279.8813,0.9502,0,"different, differently",Meine Meinung ist anders als deine.,My opinion is different from yours.
+336,sonst,adv,A2,248.0934,0.928,0,otherwise,"Maggie isst kein Brot, sonst wird ihr schlecht.","Maggie doesn’t eat bread, otherwise she’ll get sick."
+382,manchmal,adv,A2,219.2133,0.9178,0,sometimes,"Das Wetter hier ist nur manchmal schlecht, meistens scheint die Sonne.","The weather here is only sometimes bad, mostly the sun shines."
+424,außerdem,adv,A2,195.8036,0.9549,0,"besides, in addition","Es ist zu früh zum Schlafen, außerdem bin ich noch nicht müde.","It is too early to sleep, and besides, I am not tired yet."
+454,endlich,adv,A2,181.3635,0.9141,0,"finally, at last",Endlich scheint die Sonne wieder.,Finally the sun is shining again.
+456,plötzlich,adv,A2,180.8707,0.8981,0,suddenly,Plötzlich hört Jakob ein Geräusch.,Suddenly Jakob hears a noise.
+498,genug,adv,A2,167.9091,0.9357,0,enough,Haben wir genug Wasser für alle Personen?,Do we have enough water for everyone?
+542,zudem,adv,A2,157.7567,0.8964,0,"moreover, furthermore, besides",Heute ist es kalt und zudem gibt es Regen.,Today it is cold and furthermore there is rain.
+604,mindestens,adv,A2,143.4644,0.9302,0,at least,Sie muss mindestens acht Stunden pro Tag arbeiten.,She has to work at least eight hours a day.
+608,wobei,adv,A2,142.4788,0.9036,0,"whereby, at what, whereat",Wobei hast du dir den Fuß gebrochen?,Whereby did you break your foot?
+615,jedenfalls,adv,A2,141.3452,0.9154,0,in any case,"Es ist jedenfalls klar, dass Sandra eine gute Studentin ist.",It is in any case clear that Sandra is a good student.
+626,irgendwie,adv,A2,138.8811,0.8452,0,somehow,Irgendwie werden wir den Weg finden.,"Somehow, we’ll find the way."
+655,insbesondere,adv,A2,133.0163,0.8776,0,especially,Ich mag Literatur und insbesondere Gedichte.,I like literature and especially poetry.
+663,zuletzt,adv,A2,132.3264,0.8935,0,"last, finally, most recently",Und zuletzt reiste Sarah nach Japan.,"And finally, Sarah traveled to Japan."
+672,"beispielsweise, bspw.",adv,A2,131.4393,0.9152,0,"for example, such as","Daniela spricht verschiedene europäische Sprachen, wie beispielsweise Französisch.","Daniela speaks several European languages, such as French."
+676,derzeit,adv,A2,130.2564,0.8681,0,at the moment,"Nein, derzeit haben wir keinen frischen Fisch.","No, we don’t have any fresh fish at the moment."
+712,hin,adv,A2,124.3424,0.9579,0,there,Aus dem Fenster zur Straße hin sieht man das Schloss.,From the window to the street there you can see the castle.
+715,zuvor,adv,A2,124.1453,0.9118,0,"previously, before","Elena und Stephan ziehen in ein neues Haus, nachdem sie es zuvor gekauft haben.",Elena and Stephan move into a new house after having bought it previously.
+717,dennoch,adv,A2,123.9974,0.9312,0,nevertheless,"Ich lerne viel für die Prüfung, dennoch bestehe ich sie vielleicht nicht.","I’m studying a lot for the exam, nevertheless I might not pass it."
+725,"zirka, ca.",adv,A2,121.3854,0.8136,0,approximately,Die Brücke ist zirka 102 Meter lang.,The bridge is approximately 102 meters long.
+756,überall,adv,A2,115.1264,0.9329,0,everywhere,In der Stadt sieht man zu dieser Zeit überall Touristen.,In the city you see tourists everywhere at this time.
+785,"vorne, vorn",adv,A2,109.3602,0.8999,0,at/to the front,Nach dem Unfall ist vorne am Auto ein Schaden.,There’s some damage to the front of the car after the accident.
+792,somit,adv,A2,108.3745,0.8876,0,"consequently, therefore",Ihre Kollegen sprechen kein Englisch und somit muss sie ihr Deutsch verbessern.,Her colleagues don’t speak English and consequently she has to improve her German.
+827,weiterhin,adv,A2,103.9883,0.9315,0,"still, furthermore",Es gibt weiterhin Probleme mit der neuen Technik.,There are still problems with the new technology.
+833,zugleich,adv,A2,103.1012,0.9049,0,"both, at the same time",Unser Lehrer kann nett und streng zugleich sein.,Our teacher can be nice and strict at the same time.
+855,durchaus,adv,A2,101.4748,0.9314,0,"absolutely, quite","Diese Annahme könnte durchaus richtig sein, sie ist es aber leider nicht.","This assumption could absolutely be correct; unfortunately, it is not."
+866,vorher,adv,A2,100.1442,0.9231,0,"earlier, beforehand","Heute bekommen wir Besuch, vorher mache ich sauber.","We’re having guests today, beforehand I’ll be cleaning up."
+880,zuerst,adv,A2,98.9614,0.9332,0,first,Zuerst studiere und dann reise ich.,First I study and then I travel.
+895,bislang,adv,A2,97.1379,0.8829,0,up to now,Bislang gibt es keine Informationen zu dem Unfall.,Up to now there is no information about this accident.
+898,unbedingt,adv,A2,96.99,0.9403,0,absolutely,Du musst dir unbedingt diesen Film anschauen.,You absolutely must watch this film.
+932,egal,adv,A2,93.5402,0.913,0,"(it’s all) the same, indifferent","Es ist mir egal, was andere Menschen über mich denken.",I’m indifferent to what other people think of me.
+935,irgendwo,adv,A2,93.2938,0.8807,0,somewhere,"Ich weiß nicht, wo er wohnt, aber es ist irgendwo in der Stadt.","I don’t know where he lives, but it’s somewhere in town."
+955,immerhin,adv,A2,91.1746,0.932,0,after all,"Immerhin kann die Polizei verhindern, dass nicht mehr Menschen verletzt werden.","After all, the police can prevent more people from being injured."
+994,stets,adv,A2,87.429,0.9367,0,always,"Er ist stets bemüht, freundlich zu sein.",He always tries to be friendly.
+1083,her,adv,A2,80.6772,0.9242,0,"from sth, ago, as far as . . . is concerned",Das ist lange her.,This happened long ago.
+1138,wenigstens,adv,A2,76.1431,0.9033,0,at least,"Wenn du deine Oma schon nicht besuchst, kannst du sie wenigstens anrufen.","If you’re not going to see your grandma, at least you can call her."
+1169,heraus,adv,A2,74.4182,0.8948,0,"out, outside",Wir kommen heraus und gehen auf die Straße.,We come outside and go out into the street.
+1261,meistens,adv,A2,70.0319,0.8916,0,mostly,In einem Dorf gibt es meistens nur wenige Läden.,"In a village, there are mostly only a few shops."
+1472,vorbei,adv,A2,59.9288,0.9084,0,"past, over","Sie war froh, als ihre Prüfungen vorbei waren.",She was glad when her exams were over.
+1844,online,adv,A2,45.538,0.8527,0,online,Heute Abend bestellen wir eine Pizza online.,Tonight we’re ordering a pizza online.
+2368,hoffentlich,adv,A2,33.5621,0.8825,0,hopefully,Hoffentlich gibt es heute nicht wieder Regen.,Hopefully it won’t rain again today.
+2788,schade,adv,A2,27.3524,0.8825,0,(it’s a) pity,"Es ist so schade, dass Peter nicht zu meinem Geburtstag kommen kann.",It is such a pity Peter can’t come to my birthday.
+2938,drüben,adv,A2,25.5289,0.8294,0,over there,Die Kinder spielen drüben bei den Nachbarn.,The kids are playing over there with the neighbors.
+4567,nebenan,adv,A2,13.7501,0.8825,0,next door,Die Nachbarn von nebenan sind sehr nett.,The neighbors next door are very nice.
+4577,nirgends,adv,A2,13.7008,0.8811,0,nowhere,Ich kann meinen Schlüssel nirgends finden.,I can’t find my key anywhere.

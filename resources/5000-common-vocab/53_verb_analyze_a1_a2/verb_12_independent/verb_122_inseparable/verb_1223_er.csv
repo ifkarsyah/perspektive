@@ -1,0 +1,11 @@
+rank,word,pos,level,freq_per_million,dispersion,has_conjugation,definition,example_de,example_en
+238,"erklären, erklärt, erklärte, hat erklärt",verb,A1,365.0433,0.9484,1,to explain,Max erklärt mir komplizierte Dinge.,Max explains complicated things to me.
+263,"erzählen, erzählt, erzählte, hat erzählt",verb,A1,331.8755,0.9097,1,to tell,Susanne erzählt mir gerne Geschichten.,Susanne likes to tell me stories.
+389,"erwarten, erwartet, erwartete, hat erwartet",verb,A1,214.7778,0.9479,1,to expect,Er erwartet eine Nachricht von seiner Schwester.,He’s expecting a message from his sister.
+963,"erlauben, erlaubt, erlaubte, hat erlaubt",verb,A1,90.0903,0.9518,1,"to allow, permit","Oma und Opa erlauben alles, was meine Eltern verbieten.",Grandma and Grandpa allow everything my parents forbid.
+309,"erreichen, erreicht, erreichte, hat erreicht",verb,A2,272.5874,0.9625,1,"to achieve, reach",Ich erreiche alle meine Ziele.,I achieve all my goals.
+396,"erinnern, erinnert, erinnerte, hat erinnert",verb,A2,209.9972,0.925,1,to remind,Mein Handy erinnert mich an den Termin um 14 Uhr.,My phone reminds me of the appointment at 2:00.
+408,"erscheinen, erscheint, erschien, ist erschienen",verb,A2,201.964,0.9172,1,to appear,Auf dem Bildschirm erscheint ein seltsames Symbol.,A strange symbol appears on the screen.
+413,"ergeben, ergibt, ergab, hat ergeben",verb,A2,199.9927,0.8744,1,"to result in, produce",Die Untersuchung ergibt keinen Beweis für seine Schuld.,The investigation results in no evidence of his guilt.
+648,"erfolgen, erfolgt, erfolgte, ist erfolgt",verb,A2,134.1991,0.8604,1,"to take place, occur",Danach erfolgt die Präsentation des Themas.,"After that, the presentation of the topic will occur."
+980,"ermöglichen, ermöglicht, ermöglichte, hat ermöglicht",verb,A2,88.5133,0.9032,1,"to enable, allow","Ein Computer ermöglicht es mir, im Internet zu arbeiten.",A computer allows me to work on the internet.

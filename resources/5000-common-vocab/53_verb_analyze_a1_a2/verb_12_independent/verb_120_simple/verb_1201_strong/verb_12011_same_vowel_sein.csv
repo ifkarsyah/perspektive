@@ -1,0 +1,5 @@
+rank,word,pos,level,freq_per_million,dispersion,has_conjugation,definition,example_de,example_en
+62,"kommen, kommt, kam, ist gekommen",verb,A1,1836.9461,0.9453,1,to come,Wir kommen morgen Abend zu dir.,We’ll come to your place tomorrow night.
+215,"fahren, fährt, fuhr, ist gefahren",verb,A1,400.6261,0.906,1,"to drive, ride, go",Christine fährt mit dem Zug nach Amsterdam.,Christine’s taking the train to Amsterdam.
+252,"laufen, läuft, lief, ist gelaufen",verb,A1,348.9769,0.9444,1,to run,Die Zeit läuft uns davon.,We’re running out of time.
+332,"fallen, fällt, fiel, ist gefallen",verb,A2,252.2825,0.9504,1,to fall,Max fällt tief von einer Mauer.,Max falls deep from a wall.

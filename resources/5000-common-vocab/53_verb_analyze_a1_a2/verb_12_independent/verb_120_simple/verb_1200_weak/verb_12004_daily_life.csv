@@ -1,0 +1,13 @@
+rank,word,pos,level,freq_per_million,dispersion,has_conjugation,definition,example_de,example_en
+98,"leben, lebt, lebte, hat gelebt",verb,A1,927.5659,0.941,1,to live,Frauen leben länger als Männer.,Women live longer than men.
+205,"spielen, spielt, spielte, hat gespielt",verb,A1,414.9676,0.937,1,to play,Die Kinder spielen im Garten.,The children are playing in the garden.
+364,"warten, wartet, wartete, hat gewartet",verb,A1,229.76,0.902,1,to wait,Ich warte am Bahnhof auf dich.,I’ll wait for you at the station.
+560,"wohnen, wohnt, wohnte, hat gewohnt",verb,A1,153.7154,0.8886,1,to live,Juliane wohnt in einer großen Stadt.,Juliane lives in a big city.
+869,"feiern, feiert, feierte, hat gefeiert",verb,A1,99.7992,0.9048,1,to celebrate,Wir feiern ihren Geburtstag.,We’re celebrating her birthday.
+1481,"kochen, kocht, kochte, hat gekocht",verb,A1,59.436,0.8882,1,to cook,Ich koche gerne italienische Gerichte.,I like to cook Italian dishes.
+1497,"tanzen, tanzt, tanzte, hat getanzt",verb,A1,58.401,0.8497,1,to dance,Meine Eltern tanzen gerne Tango.,My parents like to dance the tango.
+1665,"rauchen, raucht, rauchte, hat geraucht",verb,A1,51.452,0.8571,1,to smoke,In den meisten Restaurants darf man nicht mehr Zigaretten rauchen.,In most restaurants you are no longer allowed to smoke cigarettes.
+1259,"zeichnen, zeichnet, zeichnete, hat gezeichnet",verb,A2,70.0812,0.8861,1,to draw,Linda zeichnet einen groben Entwurf ihres neuen Comics.,Linda draws a rough draft of her new comic.
+1925,"malen, malt, malte, hat gemalt",verb,A2,43.3695,0.8627,1,to paint,Die Kinder malen schon den ganzen Morgen Bilder.,The children have been painting pictures all morning.
+2578,"wecken, weckt, weckte, hat geweckt",verb,A2,30.2601,0.9231,1,to wake sb up,Mein Handy weckt mich jeden Morgen um halb acht.,My phone wakes me up at half past seven every morning.
+3586,"putzen, putzt, putzte, hat geputzt",verb,A2,19.2206,0.8438,1,to clean,"Meine Fenster sind schmutzig, ich muss sie putzen.",My windows are dirty; I need to clean them.

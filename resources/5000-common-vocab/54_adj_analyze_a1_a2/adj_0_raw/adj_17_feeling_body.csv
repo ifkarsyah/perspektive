@@ -1,0 +1,26 @@
+rank,word,pos,level,freq_per_million,dispersion,has_conjugation,definition,example_de,example_en
+
+1070,glücklich,adj,A1,81.2193,0.9142,0,"happy, fortunate",Thomas ist ein glückliches Kind.,Thomas is a happy child.
+1752,traurig,adj,A2,48.6922,0.9029,0,sad,"Lucy ist traurig, weil ihr Hund gestorben ist.",Lucy is sad because her dog died.
+
+1518,zufrieden,adj,A1,57.7603,0.9238,0,satisfied,Manche Menschen sind nie zufrieden.,Some people are never satisfied.
+
+2000,müde,adj,A1,41.4475,0.8747,0,tired,Nach der Arbeit ist Annette zu müde für die Party.,After work Annette is too tired for the party.
+3153,wach,adj,A2,23.0154,0.8755,0,awake,"Es ist schon nach Mitternacht, aber ich bin immer noch wach.","It’s already past midnight, but I’m still awake."
+
+1321,krank,adj,A1,66.9764,0.9104,0,"sick, ill",Michael ist krank und deswegen nicht in der Schule.,Michael is ill and therefore not at school.
+1275,gesund,adj,A2,69.2927,0.8702,0,healthy,Ihr Baby ist gesund.,Her baby is healthy.
+
+2793,nervös,adj,A2,27.3031,0.8916,0,nervous,"Immer wenn ich Christoph sehe, werde ich nervös.","Whenever I see Christoph, I get nervous."
+
+1229,böse,adj,A1,71.4612,0.8922,0,"bad, mad",Warum bist du böse auf mich?,Why are you mad at me?
+
+178,stark,adj,A2,487.858,0.9498,0,strong,Herr Müller nimmt starke Schmerztabletten.,Mr. Müller takes strong pain killers.
+978,schwach,adj,A2,88.809,0.9109,0,weak,Andreas ist krank und fühlt sich sehr schwach.,Andreas is ill and feels very weak.
+
+513,tot,adj,A1,165.2971,0.889,0,dead,"Die Fische sind tot, weil Florian sich nicht um sie gekümmert hat.",The fish are dead because Florian did not look after them.
+1210,geboren,adj,A1,72.299,0.9124,0,born,Er ist ein geborener Sänger.,He’s a born singer.
+
+3093,schwanger,adj,A2,23.7547,0.8784,0,pregnant,Lena ist schwanger mit ihrem dritten Kind.,Lena is pregnant with her third child.
+
+1424,froh,adj,A2,62.2451,0.9001,0,"happy, glad","Ich bin froh, wenn die Prüfungen vorbei sind.",I’ll be glad when the exams are over.

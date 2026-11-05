@@ -1,0 +1,11 @@
+rank,word,pos,level,freq_per_million,dispersion,has_conjugation,definition,example_de,example_en
+444,"lachen, lacht, lachte, hat gelacht",verb,A1,185.8483,0.8744,1,to laugh,"Die Kinder lachen, weil der Film so lustig ist.",The children are laughing because the movie is so funny.
+701,"lieben, liebt, liebte, hat geliebt",verb,A1,126.4616,0.8979,1,to love,Die Kinder lieben ihre Eltern.,The children love their parents.
+394,"fühlen, fühlt, fühlte, hat gefühlt",verb,A2,212.2643,0.9227,1,to feel,Ich fühle mich manchmal einsam.,I feel lonely sometimes.
+589,"freuen, freut, freute, hat gefreut",verb,A2,146.865,0.8989,1,to be happy,Die gute Nachricht freut ihn sehr.,The good news makes him very happy.
+630,"wünschen, wünscht, wünschte, hat gewünscht",verb,A2,137.2547,0.9293,1,"to want, wish",Was wünschst du dir zum Geburtstag?,What do you want for your birthday?
+689,"hoffen, hofft, hoffte, hat gehofft",verb,A2,128.8272,0.9308,1,to hope,Die Kinder hoffen auf Schnee im Winter.,The children hope for snow in winter.
+1556,"weinen, weint, weinte, hat geweint",verb,A2,56.2325,0.8544,1,"to cry, weep","Wenn jemand weint, produziert sein oder ihr Körper Tränen.","When someone cries, his or her body produces tears."
+1793,"träumen, träumt, träumte, hat geträumt",verb,A2,47.4108,0.8855,1,to dream,"Viele Leute träumen davon, reich und mächtig zu werden.",Many people dream of becoming rich and powerful.
+1947,"wagen, wagt, wagte, hat gewagt",verb,A2,42.8767,0.9159,1,"to dare, risk",Dominik wagt sich auf das dünne Eis auf dem See.,Dominik dares to walk on the thin ice on the lake.
+2841,"ärgern, ärgert, ärgerte, hat geärgert",verb,A2,26.7117,0.9078,1,to annoy,"Ich möchte nicht, dass du deinen kleinen Bruder ärgerst.",I don’t want you to annoy your little brother.

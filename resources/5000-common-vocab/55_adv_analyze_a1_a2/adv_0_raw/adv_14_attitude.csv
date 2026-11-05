@@ -1,0 +1,18 @@
+rank,word,pos,level,freq_per_million,dispersion,has_conjugation,definition,example_de,example_en
+
+471,bitte,adv,A1,175.8437,0.8358,0,please,Kannst du bitte still sein!,Can you please be quiet!
+877,danke,adv,A1,99.06,0.7558,0,thanks,Danke für deine Hilfe!,Thanks for your help!
+
+278,"gern, gerne",adv,A1,314.3798,0.9148,0,(with a verb) love to,Tom tanzt sehr gern.,Tom loves to dance.
+459,lieber,adv,A1,180.3778,0.9231,0,rather,Ich würde lieber am Meer wohnen.,I’d rather live by the sea.
+
+145,vielleicht,adv,A1,601.5551,0.9131,0,"perhaps, maybe",Vielleicht gibt es noch einen anderen Weg.,Maybe there’s another way.
+2368,hoffentlich,adv,A2,33.5621,0.8825,0,hopefully,Hoffentlich gibt es heute nicht wieder Regen.,Hopefully it won’t rain again today.
+643,leider,adv,A1,134.8891,0.9115,0,unfortunately,"Daniel wollte kommen, aber er ist leider krank.","Daniel wanted to come, but unfortunately he’s ill."
+
+932,egal,adv,A2,93.5402,0.913,0,"(it’s all) the same, indifferent","Es ist mir egal, was andere Menschen über mich denken.",I’m indifferent to what other people think of me.
+2788,schade,adv,A2,27.3524,0.8825,0,(it’s a) pity,"Es ist so schade, dass Peter nicht zu meinem Geburtstag kommen kann.",It is such a pity Peter can’t come to my birthday.
+
+267,"allein, alleine",adv,A1,327.3414,0.9495,0,alone,Ohne Freunde ist man allein.,"Without friends, you’re alone."
+303,anders,adv,A2,279.8813,0.9502,0,"different, differently",Meine Meinung ist anders als deine.,My opinion is different from yours.
+626,irgendwie,adv,A2,138.8811,0.8452,0,somehow,Irgendwie werden wir den Weg finden.,"Somehow, we’ll find the way."

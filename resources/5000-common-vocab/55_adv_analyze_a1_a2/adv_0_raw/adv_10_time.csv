@@ -1,0 +1,32 @@
+rank,word,pos,level,freq_per_million,dispersion,has_conjugation,definition,example_de,example_en
+33,noch,adv,A1,3375.3325,0.9514,0,"still, yet",Habt ihr sonst noch Fragen?,Do you still have any questions?
+41,dann,adv,A1,2898.7111,0.9128,0,then,Erst gehen wir einkaufen und dann in ein Restaurant.,"First we go shopping, then we go to a restaurant."
+61,schon,adv,A1,1839.706,0.9332,0,already,Günter arbeitet schon seit 30 Jahren hier.,Günter has been working here for 30 years now.
+64,immer,adv,A1,1703.3384,0.9466,0,always,Zum Frühstück esse ich immer eine Scheibe Brot.,I always have a slice of bread for breakfast.
+72,jetzt,adv,A1,1541.4912,0.9036,0,now,Wir müssen jetzt ins Bett.,We have to go to bed now.
+114,"nun, nu",adv,A1,786.0728,0.952,0,now,Nun habt ihr euch euren Urlaub verdient.,Now you’ve earned your vacation.
+116,heute,adv,A1,778.8774,0.9301,0,today,Heute ist mein Geburtstag.,Today is my birthday.
+124,einmal,adv,A1,731.023,0.9348,0,once,Ich möchte einmal im Leben nach Paris fahren.,I want to go to Paris once in my life.
+132,erst,adv,A1,680.261,0.9588,0,"first, only, not until",Erst solltest du deine Eltern fragen.,First you should ask your parents.
+186,nie,adv,A1,466.7153,0.9223,0,never,Das hast du mir nie erzählt.,You never told me that.
+223,oft,adv,A1,388.453,0.9566,0,often,Sie besucht ihre Oma oft.,She visits her grandma often.
+351,schließlich,adv,A1,238.8774,0.9426,0,"finally, eventually","Wir haben uns total verlaufen, aber schließlich sind wir doch noch ans Ziel gekommen.","We got completely lost, but eventually we reached our destination."
+411,früher,adv,A1,201.1755,0.9323,0,in former times,Früher war Deutschland in Osten und Westen geteilt.,In former times Germany was divided into East and West.
+446,sofort,adv,A1,184.2712,0.9246,0,immediately,Daniel braucht sofort einen Arzt.,Daniel needs a doctor immediately.
+503,bald,adv,A1,166.6277,0.9238,0,soon,Bis bald!,See you soon!
+705,meist,adv,A1,125.4759,0.922,0,"mostly, usually",An einem Sonntag schläft Max meist bis 13 Uhr.,On a Sunday Max usually sleeps until 1 pm.
+752,morgen,adv,A1,115.4645,0.8516,0,tomorrow,Heute bleibe ich im Bett und morgen gehe ich arbeiten.,Today I’ll stay in bed and tomorrow I’ll go to work.
+821,gestern,adv,A1,104.8754,0.8527,0,yesterday,Gestern habe ich einen Freund getroffen.,Yesterday I met a friend.
+3014,zurzeit,adv,A1,24.6911,0.891,0,at the moment,Ich habe zurzeit keine Pläne für die Zukunft.,I have no plans for the future at the moment.
+74,wieder,adv,A2,1530.501,0.9431,0,again,Lea kommt wieder zu spät.,Lea’s late again.
+382,manchmal,adv,A2,219.2133,0.9178,0,sometimes,"Das Wetter hier ist nur manchmal schlecht, meistens scheint die Sonne.","The weather here is only sometimes bad, mostly the sun shines."
+454,endlich,adv,A2,181.3635,0.9141,0,"finally, at last",Endlich scheint die Sonne wieder.,Finally the sun is shining again.
+456,plötzlich,adv,A2,180.8707,0.8981,0,suddenly,Plötzlich hört Jakob ein Geräusch.,Suddenly Jakob hears a noise.
+663,zuletzt,adv,A2,132.3264,0.8935,0,"last, finally, most recently",Und zuletzt reiste Sarah nach Japan.,"And finally, Sarah traveled to Japan."
+676,derzeit,adv,A2,130.2564,0.8681,0,at the moment,"Nein, derzeit haben wir keinen frischen Fisch.","No, we don’t have any fresh fish at the moment."
+715,zuvor,adv,A2,124.1453,0.9118,0,"previously, before","Elena und Stephan ziehen in ein neues Haus, nachdem sie es zuvor gekauft haben.",Elena and Stephan move into a new house after having bought it previously.
+866,vorher,adv,A2,100.1442,0.9231,0,"earlier, beforehand","Heute bekommen wir Besuch, vorher mache ich sauber.","We’re having guests today, beforehand I’ll be cleaning up."
+880,zuerst,adv,A2,98.9614,0.9332,0,first,Zuerst studiere und dann reise ich.,First I study and then I travel.
+895,bislang,adv,A2,97.1379,0.8829,0,up to now,Bislang gibt es keine Informationen zu dem Unfall.,Up to now there is no information about this accident.
+994,stets,adv,A2,87.429,0.9367,0,always,"Er ist stets bemüht, freundlich zu sein.",He always tries to be friendly.
+1261,meistens,adv,A2,70.0319,0.8916,0,mostly,In einem Dorf gibt es meistens nur wenige Läden.,"In a village, there are mostly only a few shops."

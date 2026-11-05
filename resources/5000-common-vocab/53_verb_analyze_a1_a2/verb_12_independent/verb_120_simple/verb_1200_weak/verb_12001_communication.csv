@@ -1,0 +1,8 @@
+rank,word,pos,level,freq_per_million,dispersion,has_conjugation,definition,example_de,example_en
+40,"sagen, sagt, sagte, hat gesagt",verb,A1,2953.7116,0.923,1,"to say, tell","Der Kollege sagt ihr, wo sie die Schlüssel findet.",The colleague tells her where to find the keys.
+153,"fragen, fragt, fragte, hat gefragt",verb,A1,559.812,0.8971,1,to ask,Die Touristen fragen nach dem Weg.,The tourists ask for directions.
+826,"antworten, antwortet, antwortete, hat geantwortet",verb,A1,104.0376,0.8558,1,to answer,Der Schüler antwortet auf die Frage.,The student answers the question.
+1276,"danken, dankt, dankte, hat gedankt",verb,A1,69.2434,0.8333,1,to thank,Ich möchte mich für ihre Aufmerksamkeit bedanken!,I would like to thank you for your attention!
+136,"zeigen, zeigt, zeigte, hat gezeigt",verb,A2,651.8244,0.9593,1,to show,Können Sie mir den Weg zeigen?,Could you show me the way?
+368,"reden, redet, redete, hat geredet",verb,A2,227.4436,0.9061,1,to talk,"Er hat jetzt keine Lust, darüber zu reden.",He doesn’t want to talk about it now.
+4021,"schimpfen, schimpft, schimpfte, hat geschimpft",verb,A2,16.51,0.8833,1,"to scold, rant",Der Vater schimpft mit den frechen Kindern.,The father scolds the cheeky children.

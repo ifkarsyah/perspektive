@@ -1,0 +1,7 @@
+rank,word,pos,level,freq_per_million,dispersion,has_conjugation,definition,example_de,example_en
+66,"gehen, geht, ging, ist gegangen",verb,A1,1648.6829,0.9438,1,to go,Wir gehen heute ins Theater.,We’re going to the theater today.
+113,"bleiben, bleibt, blieb, ist geblieben",verb,A1,790.7054,0.9598,1,"to stay, remain",Anna möchte für ein Jahr im Ausland bleiben.,Anna wants to stay abroad for a year.
+824,"fliegen, fliegt, flog, ist geflogen",verb,A1,104.6783,0.9088,1,to fly,Der Vogel fliegt auf den Baum.,The bird flies up the tree.
+1863,"schwimmen, schwimmt, schwamm, ist geschwommen",verb,A1,45.1437,0.8896,1,to swim,Sie schwimmt jeden Morgen im Meer.,She swims in the sea every morning.
+475,"sterben, stirbt, starb, ist gestorben",verb,A2,174.9074,0.9214,1,to die,Ohne Wasser stirbt man.,"Without water, you die."
+3470,"reiten, reitet, ritt, ist geritten",verb,A2,20.157,0.8491,1,to ride,Mein Bruder hat ein Pferd und reitet sehr gut.,My brother has a horse and rides very well.

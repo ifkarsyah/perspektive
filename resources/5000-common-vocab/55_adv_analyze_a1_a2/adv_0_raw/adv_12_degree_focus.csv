@@ -1,0 +1,23 @@
+rank,word,pos,level,freq_per_million,dispersion,has_conjugation,definition,example_de,example_en
+
+18,auch,adv,A1,6378.9683,0.951,0,"also, too","Auch ich habe Geburtstag, nicht nur Markus.","It’s my birthday too, not just Markus’s."
+39,nur,adv,A1,3000.0381,0.9773,0,only,Das kostet nur zwei Euro.,It only costs two euros.
+226,sogar,adv,A2,381.7505,0.9453,0,"even, in fact",Sogar du kannst die Welt ein bisschen verbessern!,Even you can make the world a little better!
+
+81,sehr,adv,A1,1307.8378,0.9139,0,very,Sie ist eine sehr gute Ärztin.,She’s a very good doctor.
+28,so,adv,A1,4519.3517,0.9377,0,"so, thus, the way, such",Ich beobachte Klaus und mache alles so wie er.,I watch Klaus and do everything the way he does.
+165,gar,adv,A1,532.1146,0.9267,0,at all,Das ist gar kein Problem.,That’s no problem at all.
+
+52,mehr,adv,A1,2081.8854,0.9573,0,more,Ich habe Hunger und möchte mehr Brot.,I’m hungry and want more bread.
+498,genug,adv,A2,167.9091,0.9357,0,enough,Haben wir genug Wasser für alle Personen?,Do we have enough water for everyone?
+
+202,fast,adv,A2,419.9452,0.9469,0,almost,Ich hätte fast den Bus verpasst.,I almost missed the bus.
+604,mindestens,adv,A2,143.4644,0.9302,0,at least,Sie muss mindestens acht Stunden pro Tag arbeiten.,She has to work at least eight hours a day.
+725,"zirka, ca.",adv,A2,121.3854,0.8136,0,approximately,Die Brücke ist zirka 102 Meter lang.,The bridge is approximately 102 meters long.
+
+270,besonders,adv,A2,323.6451,0.9513,0,particularly,Das Spiel ist heute besonders spannend.,The game is particularly exciting today.
+898,unbedingt,adv,A2,96.99,0.9403,0,absolutely,Du musst dir unbedingt diesen Film anschauen.,You absolutely must watch this film.
+
+1138,wenigstens,adv,A2,76.1431,0.9033,0,at least,"Wenn du deine Oma schon nicht besuchst, kannst du sie wenigstens anrufen.","If you’re not going to see your grandma, at least you can call her."
+655,insbesondere,adv,A2,133.0163,0.8776,0,especially,Ich mag Literatur und insbesondere Gedichte.,I like literature and especially poetry.
+855,durchaus,adv,A2,101.4748,0.9314,0,"absolutely, quite","Diese Annahme könnte durchaus richtig sein, sie ist es aber leider nicht.","This assumption could absolutely be correct; unfortunately, it is not."

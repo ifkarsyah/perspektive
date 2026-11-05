@@ -1,0 +1,5 @@
+rank,word,pos,level,freq_per_million,dispersion,has_conjugation,definition,example_de,example_en
+372,"gewinnen, gewinnt, gewann, hat gewonnen",verb,A1,222.7124,0.8912,1,"to win, gain",Er gewinnt den ersten Preis im Wettbewerb.,He wins the first prize in the competition.
+460,"gehören, gehört, gehörte, hat gehört",verb,A1,179.8357,0.9602,1,to belong,Das Buch gehört mir.,The book belongs to me.
+601,"gefallen, gefällt, gefiel, hat gefallen",verb,A1,144.4008,0.9151,1,to please,Svenjas neuer Freund gefällt ihren Eltern sehr gut.,Svenja’s new boyfriend pleases her parents very much.
+971,"geraten, gerät, geriet, ist geraten",verb,A2,89.4497,0.9345,1,to get into,"Weil wir andere Meinungen haben, geraten wir in einen Streit.","Because we have different opinions, we get into a fight."
