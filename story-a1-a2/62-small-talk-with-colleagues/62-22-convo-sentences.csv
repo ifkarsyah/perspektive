@@ -1,0 +1,27 @@
+sentences,verbs,nouns,adjectives,adverbs,prepositions,pronouns,conjunctions,function
+"Morgen, Ferdi! Na, alles klar?",,der Morgen,klar,na,,alles,,social; asking
+"Morgen, Max! Ja, alles gut. Und bei dir?",,der Morgen,gut,ja,bei,alles; dir,und,social; asking
+Geht so. Ich war am Wochenende erkältet.,gehen; sein,das Wochenende,erkältet,so,an (am),ich,,telling; feeling
+"Oh nein, das tut mir leid! Geht es dir jetzt besser?",leidtun; gehen,,gut,jetzt,,das; mir; es; dir,,reacting; asking
+"Ja, schon viel besser, danke. Und wie war dein Wochenende? Hast du was Schönes gemacht?",sein; haben; machen,das Wochenende,gut; schön,ja; schon; viel; wie,,dein; du; was,und,reacting; asking
+"Ja, ich war mit Lena in den Bergen wandern.",sein; wandern,der Berg,,ja,mit; in,ich,,telling
+Echt? Bei der Kälte?,,die Kälte,,echt,bei,,,reacting; asking
+"Ja! Es war sehr kalt, aber es hat richtig Spaß gemacht.",sein; haben; machen,der Spaß,kalt,ja; sehr; richtig,,es,aber,telling; feeling
+Hat es geschneit?,haben; schneien,,,,,es,,asking
+"Ja, ein bisschen. Die Aussicht war wunderschön.",sein,die Aussicht,wunderschön,ja; ein bisschen,,,,telling; feeling
+Klingt toll! Vielleicht komme ich nächstes Mal mit.,klingen; mitkommen,das Mal,toll; nächst,vielleicht,,ich,,reacting; telling
+"Gerne, du bist immer willkommen!",sein,,willkommen,gerne; immer,,du,,reacting; social
+"Guten Morgen, ihr zwei! Ganz schön kalt heute, oder?",,der Morgen,gut; schön; kalt,ganz; heute,,ihr,oder,social; asking
+"Ja, total! Für jemanden aus Jakarta ist das wie im Kühlschrank.",sein,der Kühlschrank,total,ja; wie,für; aus; in (im),jemanden; das,,reacting; feeling
+Das glaube ich! Und laut Wetterbericht soll es noch kälter werden.,glauben; sollen; werden,der Wetterbericht,kalt,noch,laut,das; ich; es,und,reacting; telling
+Oh nein. Dann bleibe ich lieber im Büro.,bleiben,das Büro,,dann; lieber,in (im),ich,,reacting; telling
+"Übrigens, kommt ihr zur Weihnachtsfeier?",kommen,die Weihnachtsfeier,,übrigens,zu (zur),ihr,,asking
+Wann ist die denn?,sein,,,wann; denn,,die,,asking
+"Am zwölften Dezember um sieben Uhr, im Restaurant hier um die Ecke.",,der Dezember; die Uhr; das Restaurant; die Ecke,zwölft,hier,an (am); um; in (im),,,telling
+Ich bin dabei!,sein,,,dabei,,ich,,reacting
+Ich auch. Muss ich etwas mitbringen?,müssen; mitbringen,,,auch,,ich; etwas,,reacting; asking
+"Nein, das Essen bezahlt die Firma. Ihr müsst nur gute Laune mitbringen!",bezahlen; müssen; mitbringen,das Essen; die Firma; die Laune,gut,nein; nur,,ihr,,telling
+"Perfekt, das kann ich!",können,,perfekt,,,das; ich,,reacting
+"Oh, es ist schon fast halb zehn. Wir müssen los, das Meeting fängt gleich an.",sein; müssen; anfangen,das Meeting,,schon; fast; halb; los; gleich,,es; wir,,telling
+"Okay, bis später!",,,okay,später,bis,,,social
+"Bis später! Und gute Besserung noch, Max!",,die Besserung,gut,später; noch,bis,,und,social

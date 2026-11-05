@@ -1,0 +1,18 @@
+sentences,verbs,nouns,adjectives,adverbs,prepositions,pronouns,conjunctions,function
+Ich arbeite als Data Engineer bei einer Firma in Berlin.,arbeiten,der Data Engineer; die Firma,,,bei; in,ich,als,telling
+Die Firma ist ein Onlineshop mit ungefähr fünfhundert Mitarbeitern.,sein,die Firma; der Onlineshop; der Mitarbeiter,,ungefähr,mit,,,telling
+Ich bin seit zwei Jahren dort.,sein,das Jahr,,dort,seit,ich,,telling
+Vorher habe ich in Jakarta als Softwareentwickler gearbeitet.,haben; arbeiten,der Softwareentwickler,,vorher,in,ich,als,telling
+Ich bin für die Daten von unserer Firma verantwortlich.,sein,die Daten; die Firma,verantwortlich,,für; von,ich; unserer,,telling
+Jeden Tag bekommen wir sehr viele Daten von der Webseite und der App.,bekommen,der Tag; die Daten; die Webseite; die App,viel,sehr,von,jeden; wir,und,telling
+"Ich baue Systeme, die diese Daten sammeln und sortieren.",bauen; sammeln; sortieren,das System; die Daten,,,,ich; die; diese,und,telling
+Dann können meine Kollegen die Daten analysieren und bessere Entscheidungen treffen.,können; analysieren; treffen,der Kollege; die Daten; die Entscheidung,gut,dann,,meine,und,telling
+Ich programmiere meistens mit Python und SQL.,programmieren,,,meistens,mit,ich,und,telling
+Mein Team ist klein: Wir sind sechs Leute aus fünf Ländern.,sein,das Team; die Leute; das Land,klein,,aus,mein; wir,,telling
+"Bei der Arbeit sprechen wir Englisch, aber in der Pause übe ich Deutsch.",sprechen; üben,die Arbeit; das Englisch; die Pause; das Deutsch,,,bei; in,wir; ich,aber,telling
+"Jeden Morgen haben wir ein kurzes Meeting, und dann arbeitet jeder an seinen Aufgaben.",haben; arbeiten,der Morgen; das Meeting; die Aufgabe,kurz,dann,an,jeden; wir; jeder; seinen,und,telling
+Am Freitag arbeite ich oft im Homeoffice.,arbeiten,der Freitag; das Homeoffice,,oft,an (am); in (im),ich,,telling
+"Die Arbeit ist manchmal stressig, aber nie langweilig.",sein,die Arbeit,stressig; langweilig,manchmal; nie,,,aber,telling; feeling
+"Mir gefällt, dass ich jeden Tag etwas Neues lerne.",gefallen; lernen,der Tag,neu,,,mir; ich; jeden; etwas,dass,feeling
+Ein großer Vorteil ist das kostenlose Abendessen im Büro!,sein,der Vorteil; das Abendessen; das Büro,groß; kostenlos,,in (im),,,telling; feeling
+In Zukunft möchte ich mehr Verantwortung übernehmen und vielleicht ein Team leiten.,möchten; übernehmen; leiten,die Zukunft; die Verantwortung; das Team,,mehr; vielleicht,in,ich,und,telling

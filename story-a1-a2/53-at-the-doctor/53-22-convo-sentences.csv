@@ -1,0 +1,33 @@
+sentences,verbs,nouns,adjectives,adverbs,prepositions,pronouns,conjunctions,function
+"Praxis Dr. Weber, guten Morgen!",,die Praxis; der Morgen,gut,,,,,social
+Guten Morgen! Ich fühle mich nicht gut. Kann ich heute einen Termin bekommen?,sich fühlen; können; bekommen,der Morgen; der Termin,gut,nicht; heute,,ich; mich,,social; feeling; asking
+Was fehlt Ihnen denn?,fehlen,,,denn,,was; Ihnen,,asking
+Ich habe Fieber und Halsschmerzen.,haben,das Fieber; die Halsschmerzen,,,,ich,und,telling
+Seit wann geht es Ihnen schlecht?,gehen,,schlecht,wann,seit,es; Ihnen,,asking
+Seit drei Tagen.,,der Tag,,,seit,,,telling
+Waren Sie schon mal bei uns?,sein,,,schon mal,bei,Sie; uns,,asking
+"Nein, ich bin zum ersten Mal da.",sein,das Mal,erst,da,zu (zum),ich,,telling
+Kein Problem. Können Sie um zehn Uhr kommen?,können; kommen,das Problem; die Uhr,,,um,kein; Sie,,reacting; asking
+"Ja, das passt.",passen,,,,,das,,reacting
+"Wie ist Ihr Name, bitte?",sein,der Name,,wie; bitte,,Ihr,,asking
+Mein Name ist Ferdi.,sein,der Name,,,,mein,,telling
+Danke. Bringen Sie bitte Ihre Versichertenkarte mit.,mitbringen,die Versichertenkarte,,bitte,,Sie; Ihre,,social; doing
+"Okay, vielen Dank. Bis gleich!",,der Dank,okay; viel,gleich,bis,,,social
+Guten Tag! Wie kann ich Ihnen helfen?,können; helfen,der Tag,gut,wie,,ich; Ihnen,,social; asking
+"Ich habe seit drei Tagen Fieber, und mein Hals tut sehr weh.",haben; wehtun,der Tag; das Fieber; der Hals,,sehr,seit,ich; mein,und,telling
+Husten Sie auch?,husten,,,auch,,Sie,,asking
+"Ja, besonders in der Nacht.",,die Nacht,,besonders,in,,,telling
+Haben Sie auch Kopfschmerzen?,haben,die Kopfschmerzen,,auch,,Sie,,asking
+"Ja, ein bisschen. Und ich bin immer sehr müde.",sein,,müde,ein bisschen; immer; sehr,,ich,und,telling; feeling
+Machen Sie bitte den Mund auf und sagen Sie „Aaa“.,aufmachen; sagen,der Mund,,bitte,,Sie,und,doing
+Aaa …,,,,,,,,telling
+"Ihr Hals ist rot. Das ist eine Erkältung, nichts Schlimmes.",sein,der Hals; die Erkältung,rot; schlimm,,,Ihr; das; nichts,,telling
+"Ah, gut. Muss ich Medikamente nehmen?",müssen; nehmen,das Medikament,gut,,,ich,,reacting; asking
+Ich verschreibe Ihnen etwas gegen die Halsschmerzen. Nehmen Sie die Tabletten dreimal am Tag nach dem Essen.,verschreiben; nehmen,die Halsschmerzen; die Tablette; der Tag; das Essen,,dreimal,gegen; an (am); nach,ich; Ihnen; etwas; Sie,,telling; doing
+Okay. Kann ich morgen arbeiten?,können; arbeiten,,okay,morgen,,ich,,asking
+"Nein, bleiben Sie lieber drei Tage zu Hause. Ich schreibe Sie krank.",bleiben; krankschreiben,der Tag; das Haus,,lieber,zu,Sie; ich,,doing; telling
+Gut. Was soll ich sonst noch machen?,sollen; machen,,gut,sonst; noch,,was; ich,,asking
+Trinken Sie viel Tee und schlafen Sie viel. Und gehen Sie bitte nicht wandern!,trinken; schlafen; gehen; wandern,der Tee,,viel; bitte; nicht,,Sie,und,doing
+"Haha, versprochen! Vielen Dank, Frau Doktor.",versprechen,der Dank; die Frau; der Doktor,viel,,,,,reacting; social
+Gute Besserung!,,die Besserung,gut,,,,,social
+"Danke, auf Wiedersehen!",,,,auf Wiedersehen,,,,social

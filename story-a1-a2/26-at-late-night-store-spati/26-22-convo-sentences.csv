@@ -1,0 +1,25 @@
+sentences,verbs,nouns,adjectives,adverbs,prepositions,pronouns,conjunctions,function
+"Hey, Ferdi! Na, wie geht's?",gehen,,,na; wie,,es,,social; asking
+"Gut, danke! Und dir?",,,gut,,,dir,und,social; asking
+Alles gut. Was brauchst du?,brauchen,,gut,,,alles; was; du,,social; asking
+Hast du noch Eier?,haben,das Ei,,noch,,du,,asking
+"Nein, leider nicht. Die sind schon weg.",sein,,,nein; leider; nicht; schon; weg,,die,,reacting; telling
+Schade. Und Milch?,,die Milch,schade,,,,und,reacting; asking
+Milch ist im Kühlschrank hinten links. Toast haben wir auch.,sein; haben,die Milch; der Kühlschrank; der Toast,,hinten; links; auch,in (im),wir,,telling
+"Super, dann nehme ich Milch und Toast. Ist die Apfelschorle kalt?",nehmen; sein,die Milch; der Toast; die Apfelschorle,super; kalt,dann,,ich,und,reacting; asking
+"Ja, die Getränke im Kühlschrank sind alle kalt.",sein,das Getränk; der Kühlschrank,kalt,ja,in (im),alle,,telling
+"Gut, eine Apfelschorle, bitte. Und eine Packung Chips.",,die Apfelschorle; die Packung; die Chips,gut,bitte,,,und,doing
+Welche? Paprika oder Salz?,,die Paprika; das Salz,,,,welche,oder,asking
+"Paprika, bitte. Was macht das zusammen?",machen,die Paprika,,bitte; zusammen,,was; das,,doing; asking
+"Das macht acht Euro fünfzig, plus fünfundzwanzig Cent Pfand für die Flasche.",machen,der Euro; der Cent; das Pfand; die Flasche,,plus,für,das,,telling
+Kann ich mit Karte zahlen?,können; zahlen,die Karte,,,mit,ich,,asking
+"Karte erst ab zehn Euro, sorry.",,die Karte; der Euro,,erst; sorry,ab,,,telling; social
+Ach so. Dann nehme ich noch einen Schokoriegel dazu.,dazunehmen,der Schokoriegel,,ach so; dann; noch,,ich,,reacting; doing
+"Okay, dann sind es zehn Euro fünfundzwanzig. Jetzt geht Karte.",sein; gehen,der Euro; die Karte,okay,dann; jetzt,,es,,telling
+Perfekt. Bis wann hast du heute offen?,haben,,perfekt; offen,wann; heute,bis,du,,reacting; asking
+Bis zwei Uhr nachts. Am Freitag und Samstag sogar bis vier.,,die Uhr; der Freitag; der Samstag,,nachts; sogar,bis; an (am),,und,telling
+"Wow, das ist lang! Hast du jeden Tag offen?",sein; haben,der Tag,lang; offen,,,das; du; jeden,,reacting; asking
+"Ja, jeden Tag, auch am Sonntag und an Feiertagen.",,der Tag; der Sonntag; der Feiertag,,ja; auch,an (am),jeden,und,telling
+Echt praktisch. Danke dir!,,,praktisch,echt,,dir,,reacting; social
+Gerne. Schönen Abend noch!,,der Abend,schön,gerne; noch,,,,social
+Dir auch. Bis bald!,,,,auch; bald,bis,dir,,social

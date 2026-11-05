@@ -1,0 +1,27 @@
+sentences,verbs,nouns,adjectives,adverbs,prepositions,pronouns,conjunctions,function
+Hi! Ich bin Lena. Wie heißt du?,sein; heißen,,,wie,,ich; du,,social; telling; asking
+"Hallo, ich heiße Ferdi. Freut mich!",heißen; freuen,,,,,ich; mich,,social; telling
+Freut mich auch! Woher kommst du?,freuen; kommen,,,auch; woher,,mich; du,,social; asking
+"Ich komme aus Indonesien, aus Jakarta. Und du?",kommen,,,,aus,ich; du,und,telling; asking
+"Ich komme aus Hamburg, aber ich wohne jetzt hier in Berlin.",kommen; wohnen,,,jetzt; hier,aus; in,ich,aber,telling
+Ich wohne auch in Berlin. Seit drei Monaten.,wohnen,der Monat,,auch,in; seit,ich,,telling
+Erst drei Monate? Dein Deutsch ist schon gut!,sein,der Monat; das Deutsch,gut,erst; schon,,dein,,reacting; social
+Danke! Ich lerne jeden Tag. Aber manchmal ist es noch schwer.,lernen; sein,der Tag,schwer,manchmal; noch,,ich; es,aber,social; telling; feeling
+Was machst du beruflich?,machen,,beruflich,,,was; du,,asking
+"Ich arbeite in der IT, bei einer Firma in Kreuzberg. Und du?",arbeiten,die IT; die Firma,,,in; bei,ich; du,und,telling; asking
+"Ich studiere Medizin. Das ist sehr interessant, aber ich bin oft müde.",studieren; sein,die Medizin,interessant; müde,sehr; oft,,ich; das,aber,telling; feeling
+Das glaube ich! Woher kennst du Max?,glauben; kennen,,,woher,,das; ich; du,,reacting; asking
+Wir haben zusammen in Hamburg studiert. Und du?,haben; studieren,,,zusammen,in,wir; du,und,telling; asking
+Max ist mein Kollege. Wir arbeiten zusammen.,sein; arbeiten,der Kollege,,zusammen,,mein; wir,,telling
+Ach so! Was machst du gern in deiner Freizeit?,machen,die Freizeit,,so; gern,in,was; du; deiner,,reacting; asking
+Ich spiele gern Fußball und ich koche gern. Und du?,spielen; kochen,der Fußball,,gern,,ich; du,und,feeling; asking
+Ich gehe gern ins Kino und ich lese viel.,gehen; lesen,das Kino,,gern; viel,in (ins),ich,und,feeling
+Cool! Sprichst du auch Englisch?,sprechen,das Englisch,cool,auch,,du,,reacting; asking
+"Ja, ein bisschen. Aber lass uns Deutsch sprechen – dann lernst du schneller!",lassen; sprechen; lernen,das Deutsch,schnell,ein bisschen; dann,,uns; du,aber,telling; doing
+Gute Idee!,,die Idee,gut,,,,,reacting
+Hast du am Wochenende Zeit? Wir können zusammen einen Kaffee trinken.,haben; können; trinken,das Wochenende; die Zeit; der Kaffee,,zusammen,an (am),du; wir,,doing
+"Ja, gern! Gibst du mir deine Nummer?",geben,die Nummer,,gern,,du; mir; deine,,reacting; doing
+Klar. Hast du WhatsApp?,haben,,klar,,,du,,reacting; asking
+Ja. Ich schreibe dir morgen.,schreiben,,,morgen,,ich; dir,,reacting; telling
+"Super. Bis bald, Ferdi!",,,super,bald,bis,,,reacting; social
+"Tschüss, bis bald!",,,,bald,bis,,,social

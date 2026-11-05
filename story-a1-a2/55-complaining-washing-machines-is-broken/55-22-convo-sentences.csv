@@ -1,0 +1,24 @@
+sentences,verbs,nouns,adjectives,adverbs,prepositions,pronouns,conjunctions,function
+"Guten Morgen, Herr Schulz. Haben Sie kurz Zeit?",haben,der Morgen; der Herr; die Zeit,gut; kurz,,,Sie,,social; asking
+"Guten Morgen! Ja, natürlich. Was gibt's?",geben,der Morgen,gut; natürlich,,,was; es,,social; asking
+Ich habe ein Problem mit der Waschmaschine im Keller.,haben,das Problem; die Waschmaschine; der Keller,,,mit; in (im),ich,,telling
+"Oh nein, schon wieder? Welche Maschine ist es denn?",sein,die Maschine,,schon wieder; denn,,welche; es,,reacting; asking
+Die Maschine Nummer drei. Gestern Abend ist sie mitten im Programm stehen geblieben.,sein; stehen bleiben,die Maschine; die Nummer; der Abend; das Programm,,gestern; mitten,in (im),sie,,telling
+Was genau ist passiert?,sein; passieren,,genau,,,was,,asking
+"Das Wasser läuft nicht ab, und die Tür geht nicht auf. Meine Wäsche ist noch drin.",ablaufen; aufgehen; sein,das Wasser; die Tür; die Wäsche,,nicht; noch; drin,,meine,und,telling
+Das ist ärgerlich. Haben Sie die Maschine schon ausgeschaltet?,sein; haben; ausschalten,die Maschine,ärgerlich,schon,,das; Sie,,reacting; asking
+"Ja, ich habe sie aus- und wieder eingeschaltet, aber es hat nicht funktioniert.",haben; ausschalten; einschalten; funktionieren,,,wieder; nicht,,ich; sie; es,und; aber,telling
+Okay. Ich habe Ihre Nachricht gestern leider zu spät gesehen. Entschuldigung!,haben; sehen,die Nachricht; die Entschuldigung,okay; spät,gestern; leider; zu,,ich; Ihre,,social; telling
+Kein Problem. Könnten Sie bitte mal mitkommen und die Tür aufmachen?,können; mitkommen; aufmachen,das Problem; die Tür,,bitte; mal,,kein; Sie,und,reacting; doing
+"Ja, sicher. Ich komme sofort mit.",mitkommen,,sicher,sofort,,ich,,reacting
+"So, die Tür ist offen. Hier ist Ihre Wäsche.",sein,die Tür; die Wäsche,offen,so; hier,,Ihre,,telling
+"Super, vielen Dank! Aber die Maschine ist immer noch kaputt, oder?",sein,der Dank; die Maschine,super; viel; kaputt,immer noch,,,aber; oder,reacting; asking
+"Ja, leider. Die muss ein Techniker reparieren.",müssen; reparieren,der Techniker,,leider,,die,,telling
+Und die Maschinen eins und zwei funktionieren auch seit einer Woche nicht. Jetzt gibt es nur noch eine Maschine für dreißig Leute.,funktionieren; geben,die Maschine; die Woche; die Leute,,auch; nicht; jetzt; nur noch,seit; für,es,und,telling; feeling
+"Ich weiß, das ist wirklich ein Problem. Ich rufe heute noch den Techniker an.",wissen; sein; anrufen,das Problem; der Techniker,,wirklich; heute; noch,,ich; das,,reacting; telling
+Wann kommt er denn ungefähr?,kommen,,,wann; denn; ungefähr,,er,,asking
+"Ich hoffe, noch diese Woche. Aber ich kann es nicht versprechen.",hoffen; können; versprechen,die Woche,,noch; nicht,,ich; diese; es,aber,telling
+"Würden Sie mir Bescheid sagen, wenn die Maschinen wieder gehen?",werden; sagen; gehen,der Bescheid; die Maschine,,wieder,,Sie; mir,wenn,doing
+Natürlich. Ich hänge auch einen Zettel an die Tür.,hängen,der Zettel; die Tür,natürlich,auch,an,ich,,reacting; telling
+Das wäre super. Vielen Dank für Ihre Hilfe!,sein,der Dank; die Hilfe,super; viel,,für,das; Ihre,,reacting; social
+Gern geschehen. Und tut mir leid wegen der Wäsche!,geschehen; leidtun,die Wäsche,,gern,wegen,mir,und,social

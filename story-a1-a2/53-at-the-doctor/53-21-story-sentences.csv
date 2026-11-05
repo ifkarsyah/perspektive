@@ -1,0 +1,15 @@
+sentences,verbs,nouns,adjectives,adverbs,prepositions,pronouns,conjunctions,function
+Seit drei Tagen fühle ich mich nicht gut.,sich fühlen,der Tag,gut,nicht,seit,ich; mich,,feeling
+"Ich habe Kopfschmerzen, Halsschmerzen und Fieber.",haben,die Kopfschmerzen; die Halsschmerzen; das Fieber,,,,ich,und,telling
+"Mein Hals tut weh, und ich huste viel.",wehtun; husten,der Hals,,viel,,mein; ich,und,telling
+Vielleicht habe ich mich beim Wandern im Schnee erkältet.,haben; sich erkälten,das Wandern; der Schnee,,vielleicht,bei (beim); in (im),ich; mich,,telling
+Am Montagmorgen habe ich in der Arztpraxis angerufen.,haben; anrufen,der Montagmorgen; die Arztpraxis,,,an (am); in,ich,,telling
+Ich habe einen Termin für zehn Uhr bekommen.,haben; bekommen,der Termin; die Uhr,,,für,ich,,telling
+"Danach habe ich meinem Chef eine Nachricht geschrieben, dass ich krank bin.",haben; schreiben; sein,der Chef; die Nachricht,krank,danach,,ich; meinem,dass,telling
+An der Rezeption habe ich meine Versichertenkarte gezeigt.,haben; zeigen,die Rezeption; die Versichertenkarte,,,an,ich; meine,,telling
+Dann musste ich zwanzig Minuten im Wartezimmer warten.,müssen; warten,die Minute; das Wartezimmer,,dann,in (im),ich,,telling
+"Die Ärztin hat mich untersucht und gesagt, dass ich eine Erkältung habe.",haben; untersuchen; sagen,die Ärztin; die Erkältung,,,,mich; ich,und; dass,telling
+Sie hat mir Medikamente verschrieben und eine Krankschreibung für drei Tage gegeben.,haben; verschreiben; geben,das Medikament; die Krankschreibung; der Tag,,,für,sie; mir,und,telling
+Danach bin ich zur Apotheke gegangen und habe die Medikamente geholt.,sein; gehen; haben; holen,die Apotheke; das Medikament,,danach,zu (zur),ich,und,telling
+"Jetzt muss ich viel schlafen, viel Tee trinken und zu Hause bleiben.",müssen; schlafen; trinken; bleiben,der Tee; das Haus,,jetzt; viel,zu,ich,und,telling
+"Ich hoffe, dass ich bald wieder gesund bin.",hoffen; sein,,gesund,bald; wieder,,ich,dass,feeling

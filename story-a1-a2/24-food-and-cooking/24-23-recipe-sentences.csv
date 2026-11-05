@@ -1,0 +1,24 @@
+sentences,verbs,nouns,adjectives,adverbs,prepositions,pronouns,conjunctions,function
+1 Teller gekochter Reis (am besten von gestern),,der Teller; der Reis,gekocht,am besten; gestern,von,,,telling
+1 Ei,,das Ei,,,,,,telling
+1 Zwiebel,,die Zwiebel,,,,,,telling
+2 Knoblauchzehen,,die Knoblauchzehe,,,,,,telling
+1 Chili,,der Chili,,,,,,telling
+2 Esslöffel süße Sojasoße (Kecap Manis),,der Esslöffel; die Sojasoße,süß,,,,,telling
+1 Esslöffel Öl,,der Esslöffel; das Öl,,,,,,telling
+ein bisschen Salz,,das Salz,,ein bisschen,,,,telling
+"Schneid die Zwiebel, den Knoblauch und den Chili klein.",schneiden,die Zwiebel; der Knoblauch; der Chili,klein,,,,und,doing
+Mach das Öl in einer Pfanne heiß.,machen,das Öl; die Pfanne,heiß,,in,,,doing
+"Brat die Zwiebel, den Knoblauch und den Chili zwei Minuten.",braten,die Zwiebel; der Knoblauch; der Chili; die Minute,,,,,und,doing
+Schieb alles an den Rand und schlag das Ei in die Pfanne.,schieben; schlagen,der Rand; das Ei; die Pfanne,,,an; in,alles,und,doing
+"Rühr das Ei, bis es fest ist.",rühren; sein,das Ei,fest,,,es,bis,doing
+Gib jetzt den Reis dazu und misch alles gut.,dazugeben; mischen,der Reis,gut,jetzt,,alles,und,doing
+Gieß die Sojasoße über den Reis.,gießen,die Sojasoße; der Reis,,,über,,,doing
+Brat alles noch drei bis vier Minuten weiter.,weiterbraten,die Minute,,noch,bis,alles,,doing
+Probier mal: Fehlt noch Salz?,probieren; fehlen,das Salz,,mal; noch,,,,doing; asking
+Leg den Reis auf einen Teller.,legen,der Reis; der Teller,,,auf,,,doing
+Fertig! Guten Appetit!,,der Appetit,fertig; gut,,,,,social
+"Nimm Reis von gestern, denn frischer Reis wird zu weich.",nehmen; werden,der Reis,frisch; weich,gestern; zu,von,,denn,doing
+Sei vorsichtig mit dem Chili!,sein,der Chili,vorsichtig,,mit,,,doing
+Hab keine Angst vor viel Knoblauch.,haben,die Angst; der Knoblauch,,viel,vor,keine,,doing
+Wasch dir danach die Hände.,waschen,die Hand,,danach,,dir,,doing

@@ -1,0 +1,23 @@
+sentences,verbs,nouns,adjectives,adverbs,prepositions,pronouns,conjunctions,function
+"Lena, hast du Lust, mit mir wandern zu gehen?",haben; wandern; gehen,die Lust,,,mit,du; mir,,doing
+"Ja, gern! Wann denn?",,,,gern; wann; denn,,,,reacting; asking
+Vielleicht am Samstag in zwei Wochen. Passt dir das?,passen,der Samstag; die Woche,,vielleicht,an (am); in,dir; das,,doing; asking
+"Ja, das passt. Aber es ist schon Mitte November. Wird es nicht zu kalt?",passen; sein; werden,die Mitte; der November,kalt,schon; nicht; zu,,das; es,aber,reacting; asking
+"Doch, bestimmt kalt. In den Bergen sind es vielleicht nur null Grad.",sein,der Berg; der Grad,kalt,doch; bestimmt; vielleicht; nur,in,es,,reacting; telling
+Brr! Und vielleicht schneit es sogar.,schneien,,,vielleicht; sogar,,es,und,reacting
+"Ja, aber das finde ich gerade spannend!",finden,,spannend,gerade,,das; ich,aber,feeling
+"Haha, okay. Dann müssen wir uns aber gut vorbereiten.",müssen; sich vorbereiten,,okay; gut,dann; aber,,wir; uns,,reacting; doing
+Klar. Was sollen wir mitnehmen?,sollen; mitnehmen,,klar,,,was; wir,,reacting; asking
+"Warme Kleidung, eine Mütze, Handschuhe und gute Schuhe. Hast du Wanderschuhe?",haben,die Kleidung; die Mütze; der Handschuh; der Schuh; der Wanderschuh,warm; gut,,,du,und,telling; asking
+"Ja, die habe ich. Und ich bringe eine Thermoskanne mit heißem Tee mit.",haben; mitbringen,die Thermoskanne; der Tee,heiß,,mit,die; ich,und,telling
+Super Idee! Brauchen wir eigentlich eine Genehmigung für den Nationalpark?,brauchen,die Idee; die Genehmigung; der Nationalpark,super,eigentlich,für,wir,,reacting; asking
+Ich glaube schon. Ich weiß es aber nicht genau.,glauben; wissen,,genau,schon; aber; nicht,,ich; es,,telling
+Ich prüfe das heute Abend im Internet.,prüfen,der Abend; das Internet,,heute,in (im),ich; das,,telling; doing
+"Danke! Wenn wir eine brauchen, fülle ich das Formular aus.",brauchen; ausfüllen,das Formular,,,,wir; eine; ich,wenn,social; doing
+Gut. Bis wann müssen wir es abschicken?,müssen; abschicken,,gut,wann,bis,wir; es,,reacting; asking
+"Ich glaube, spätestens eine Woche vorher.",glauben,die Woche,,spätestens; vorher,,ich,,telling
+"Okay, dann haben wir noch Zeit. Und was machen wir, wenn das Wetter zu schlecht ist?",haben; machen; sein,die Zeit; das Wetter,okay; schlecht,dann; noch; zu,,wir; was,und; wenn,reacting; asking
+Dann bleiben wir zu Hause und trinken Tee. Sicherheit geht vor!,bleiben; trinken; vorgehen,das Haus; der Tee; die Sicherheit,,dann,zu,wir,und,telling; feeling
+"Haha, genau. Schauen wir am Tag vorher noch mal den Wetterbericht an?",anschauen,der Tag; der Wetterbericht,genau,vorher; noch mal,an (am),wir,,reacting; doing
+"Ja, machen wir. Ich freue mich schon!",machen; sich freuen,,,schon,,wir; ich; mich,,reacting; feeling
+Ich mich auch!,,,,auch,,ich; mich,,reacting

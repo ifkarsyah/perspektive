@@ -1,0 +1,15 @@
+sentences,verbs,nouns,adjectives,adverbs,prepositions,pronouns,conjunctions,function
+"Achtung an Gleis 12: Der ICE 578 nach Hamburg, Abfahrt 10:12 Uhr, hat heute circa 20 Minuten Verspätung.",haben,die Achtung; das Gleis; der ICE; die Abfahrt; die Uhr; die Minute; die Verspätung,,heute; circa,an; nach,,,telling
+Wir bitten um Entschuldigung.,bitten,die Entschuldigung,,,um,wir,,social
+"Achtung, Gleiswechsel! Der ICE 578 nach Hamburg fährt heute von Gleis 14 ab.",abfahren,die Achtung; der Gleiswechsel; der ICE; das Gleis,,heute,nach; von,,,telling
+Die Wagen der ersten Klasse halten im Abschnitt A.,halten,der Wagen; die Klasse; der Abschnitt,erst,,in (im),,,telling
+Der RE 1 nach Frankfurt (Oder) fällt heute aus.,ausfallen,der RE,,heute,nach,,,telling
+"Vorsicht an Gleis 14, ein Zug fährt ein. Bitte zurückbleiben!",einfahren; zurückbleiben,die Vorsicht; das Gleis; der Zug,,bitte,an,,,telling; doing
+Bitte einsteigen! Vorsicht bei der Abfahrt!,einsteigen,die Vorsicht; die Abfahrt,,bitte,bei,,,doing
+"Meine Damen und Herren, willkommen im ICE 578 nach Hamburg.",,die Dame; der Herr; der ICE,willkommen,,in (im); nach,meine,und,social
+Unser nächster Halt ist Berlin-Spandau.,sein,der Halt,nächst,,,unser,,telling
+Wegen einer Störung haben wir zurzeit 30 Minuten Verspätung.,haben,die Störung; die Minute; die Verspätung,,zurzeit,wegen,wir,,telling
+In wenigen Minuten erreichen wir Hamburg Hauptbahnhof.,erreichen,die Minute; der Hauptbahnhof,wenig,,in,wir,,telling
+Sie haben Anschluss an die S-Bahn S1 von Gleis 2.,haben,der Anschluss; die S-Bahn; das Gleis,,,an; von,Sie,,telling
+Der Ausstieg ist in Fahrtrichtung rechts.,sein,der Ausstieg; die Fahrtrichtung,,rechts,in,,,telling
+"Vielen Dank, dass Sie mit uns gereist sind.",sein; reisen,der Dank,viel,,mit,Sie; uns,dass,social

@@ -1,0 +1,125 @@
+word,pos,example_de,definition
+ankommen,verb,Um neun Uhr komme ich im Büro an.,to arrive
+aufwachen,verb,Ich wache jeden Tag um fünf Uhr auf.,to wake up
+aussehen,verb,"Und, wie sieht dein Tag so aus? Was machst du an einem normalen Tag?","to appear, look"
+dauern,verb,Dauert das lange?,"to last, take (time)"
+duschen,verb,Dann dusche ich.,to take a shower
+essen,verb,Ich esse Brot mit Käse und trinke einen Kaffee.,to eat
+fahren,verb,"Aber wenn ich zu müde bin, fahre ich direkt nach Hause und esse dort.","to drive, ride, go"
+frühstücken,verb,Zuerst frühstücke ich.,to have breakfast
+geben,verb,Weil es dort kostenloses Abendessen gibt!,to give
+gehen,verb,Dann gehe ich laufen.,to go
+haben,verb,Schön! Wann hast du Feierabend?,to have
+hören,verb,"Die Fahrt ist lang, aber im Zug höre ich Musik.",to hear
+klingen,verb,Klingt nach viel Arbeit! Und mittags?,to sound
+kommen,verb,Wie kommst du zur Arbeit?,to come
+laufen,verb,Dann gehe ich laufen.,to run
+lesen,verb,Zuerst lese ich meine E-Mails.,to read
+machen,verb,Und was machst du im Büro?,"to do, make"
+mögen,verb,"Das ist früh, aber ich mag den Morgen.",to like
+nehmen,verb,Ich nehme den Bus zum Bahnhof.,to take
+programmieren,verb,Dann programmiere ich bis zur Mittagspause.,"to program, code"
+reden,verb,Ich esse mit einem Freund zu Mittag. Wir reden viel.,to talk
+schlafen,verb,Und wann gehst du schlafen?,to sleep
+sein,verb,"Wow, du bist echt fleißig!",to be
+sprechen,verb,Wir sprechen über die Arbeit und das Wochenende.,to speak
+trinken,verb,Ich esse Brot mit Käse und trinke einen Kaffee.,to drink
+umsteigen,verb,Am Bahnhof steige ich in den Zug um.,"to change (bus, train)"
+wissen,verb,"Ja, ich weiß. Aber ich mag den Morgen. Es ist so ruhig.",to know
+das Abendessen,noun,Weil es dort kostenloses Abendessen gibt!,dinner
+die Arbeit,noun,Wie kommst du zur Arbeit?,work
+der Bahnhof,noun,Ich nehme den Bus zum Bahnhof.,(railway) station
+das Brot,noun,Ich esse Brot mit Käse und trinke einen Kaffee.,bread
+der Bus,noun,Ich nehme den Bus zum Bahnhof.,bus
+das Büro,noun,Und was machst du im Büro?,office
+die Dusche,noun,Danach dusche ich in einer öffentlichen Dusche.,shower
+die E-Mail,noun,Zuerst lese ich meine E-Mails.,e-mail
+das Essen,noun,Beim Essen spreche ich wieder mit meinem Freund.,"food, meal"
+die Fahrt,noun,"Die Fahrt ist lang, aber im Zug höre ich Musik.","drive, trip"
+der Feierabend,noun,Schön! Wann hast du Feierabend?,end of the workday
+der Fluss,noun,Ich laufe am Fluss entlang.,river
+der Freund,noun,Beim Essen spreche ich wieder mit meinem Freund.,friend
+das Haus,noun,Um sieben Uhr gehe ich aus dem Haus.,house
+der Kaffee,noun,Ich esse Brot mit Käse und trinke einen Kaffee.,coffee
+der Kopf,noun,Das ist schön und gut für den Kopf.,head
+der Käse,noun,Ich esse Brot mit Käse und trinke einen Kaffee.,cheese
+das Meeting,noun,Danach habe ich ein Meeting mit meinem Team.,meeting
+der Mittag,noun,Um zwölf Uhr esse ich mit einem Freund zu Mittag.,"noon, midday"
+die Mittagspause,noun,Dann programmiere ich bis zur Mittagspause.,lunch break
+der Morgen,noun,"Das ist früh, aber ich mag den Morgen.",morning
+die Musik,noun,"Die Fahrt ist lang, aber im Zug höre ich Musik.",music
+der Nachmittag,noun,Am Nachmittag programmiere ich weiter und habe noch ein Meeting.,afternoon
+der Respekt,noun,Echt? Nach der Arbeit? Respekt!,respect
+der Schlaf,noun,Nur sechs Stunden Schlaf? Bist du nicht müde?,sleep
+die Stunde,noun,Nur sechs Stunden Schlaf? Bist du nicht müde?,hour
+der Tag,noun,Ich wache jeden Tag um fünf Uhr auf.,day
+das Team,noun,Danach habe ich ein Meeting mit meinem Team.,team
+die Uhr,noun,Um elf Uhr.,"clock, watch, o’clock"
+das Wochenende,noun,Wir sprechen über die Arbeit und das Wochenende.,weekend
+der Zug,noun,Am Bahnhof steige ich in den Zug um.,train
+direkt,adj,"Aber wenn ich zu müde bin, fahre ich direkt nach Hause und esse dort.","direct, straight"
+echt,adj,Echt? Nach der Arbeit? Respekt!,"genuine, real"
+fleißig,adj,"Wow, du bist echt fleißig!",hard-working
+früh,adj,Was? Um fünf? Das ist ja super früh!,early
+gut,adj,Das ist schön und gut für den Kopf.,good
+kostenlos,adj,Weil es dort kostenloses Abendessen gibt!,free (of charge)
+lang,adj,"Der Tag ist lang, aber ich bin zufrieden.",long
+müde,adj,Nur sechs Stunden Schlaf? Bist du nicht müde?,tired
+normal,adj,"Und, wie sieht dein Tag so aus? Was machst du an einem normalen Tag?",normal
+praktisch,adj,"Haha, das ist ja praktisch!",practical
+ruhig,adj,"Ja, ich weiß. Aber ich mag den Morgen. Es ist so ruhig.","quiet, calm"
+schön,adj,Schön! Wann hast du Feierabend?,"beautiful, pleasant, good"
+super,adj,Was? Um fünf? Das ist ja super früh!,"super, great"
+zufrieden,adj,Manchmal schon. Aber ich bin zufrieden.,satisfied
+öffentlich,adj,Danach dusche ich in einer öffentlichen Dusche.,public
+abends,adv,Um elf Uhr abends gehe ich schlafen.,in the evening
+danach,adv,Danach habe ich ein Meeting mit meinem Team.,"after it, afterwards"
+dann,adv,Dann dusche ich.,then
+denn,adv,Zurück ins Büro? Warum das denn?,"particle in questions, shows curiosity (Warum das denn?)"
+dort,adv,Weil es dort kostenloses Abendessen gibt!,there
+echt,adv,"Wow, du bist echt fleißig!",really
+ja,adv,"Haha, das ist ja praktisch!","particle, shows surprise (Das ist ja früh!)"
+lange,adv,Dauert das lange?,for a long time
+manchmal,adv,Manchmal schon. Aber ich bin zufrieden.,sometimes
+mittags,adv,Klingt nach viel Arbeit! Und mittags?,at noon / at lunchtime
+morgens,adv,Ich wache jeden Tag um fünf Uhr morgens auf.,in the morning
+nicht,adv,Nur sechs Stunden Schlaf? Bist du nicht müde?,not
+noch,adv,Am Nachmittag programmiere ich weiter und habe noch ein Meeting.,"still, yet"
+nur,adv,Nur sechs Stunden Schlaf? Bist du nicht müde?,only
+schon,adv,Manchmal schon. Aber ich bin zufrieden.,already
+so,adv,"Ja, ich weiß. Aber ich mag den Morgen. Es ist so ruhig.","so, thus, the way, such"
+viel,adv,Klingt nach viel Arbeit! Und mittags?,"much, a lot, many"
+wann,adv,Und wann gehst du schlafen?,when
+warum,adv,Zurück ins Büro? Warum das denn?,why
+weiter,adv,Am Nachmittag programmiere ich weiter und habe noch ein Meeting.,further
+wie,adv,Wie kommst du zur Arbeit?,how
+wieder,adv,Beim Essen spreche ich wieder mit meinem Freund.,again
+ziemlich,adv,"Ja, ziemlich. Ich bin um neun Uhr im Büro.","quite, fairly, pretty"
+zu,adv,"Aber wenn ich zu müde bin, fahre ich direkt nach Hause und esse dort.",too (as in too tired)
+zuerst,adv,Zuerst frühstücke ich.,first
+zurück,adv,Zurück ins Büro? Warum das denn?,back
+an,prep,Ich laufe am Fluss entlang.,"at, on"
+aus,prep,Um sieben Uhr gehe ich aus dem Haus.,"out, out of, from"
+bei,prep,Beim Essen spreche ich wieder mit meinem Freund.,"by, with, at"
+bis,prep,Dann programmiere ich bis zur Mittagspause.,"until, till"
+entlang,prep,Ich laufe am Fluss entlang.,along
+für,prep,Das ist schön und gut für den Kopf.,for
+in,prep,Und was machst du im Büro?,in
+mit,prep,Danach habe ich ein Meeting mit meinem Team.,with
+nach,prep,Echt? Nach der Arbeit? Respekt!,"after, toward"
+um,prep,Um elf Uhr.,"around, at"
+zu,prep,Wie kommst du zur Arbeit?,to
+über,prep,Wir sprechen über die Arbeit und das Wochenende.,"above, over, about"
+das,pron,Dauert das lange?,"that, this"
+dein,pron,"Und, wie sieht dein Tag so aus? Was machst du an einem normalen Tag?",your
+du,pron,Und dann? Frühstückst du?,you
+es,pron,Weil es dort kostenloses Abendessen gibt!,it
+ich,pron,Dann dusche ich.,I
+meine,pron,Zuerst lese ich meine E-Mails.,my (die / plural form)
+meinem,pron,Danach habe ich ein Meeting mit meinem Team.,my (dative der / das form)
+was,pron,Und was machst du im Büro?,what
+wir,pron,Wir sprechen über die Arbeit und das Wochenende.,we
+aber,conj,"Das ist früh, aber ich mag den Morgen.",but
+und,conj,Und dann? Frühstückst du?,and
+weil,conj,Weil es dort kostenloses Abendessen gibt!,because
+wenn,conj,"Aber wenn ich zu müde bin, fahre ich direkt nach Hause und esse dort.","if, when"

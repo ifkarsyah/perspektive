@@ -1,0 +1,35 @@
+sentences,verbs,nouns,adjectives,adverbs,prepositions,pronouns,conjunctions,function
+"Restaurant Lindenhof, guten Tag!",,das Restaurant; der Tag,gut,,,,,social
+Guten Tag! Ich möchte gern einen Tisch für Freitag reservieren.,möchten; reservieren,der Tag; der Tisch; der Freitag,gut,gern,für,ich,,social; doing
+Gern. Für wie viele Personen?,,die Person,,gern; wie viele,für,,,reacting; asking
+"Für zwei Personen, um acht Uhr.",,die Person; die Uhr,,,für; um,,,telling
+"Moment, bitte … Ja, das geht. Auf welchen Namen?",gehen,der Moment; der Name,,bitte,auf,das; welchen,,reacting; asking
+Auf den Namen Ferdi.,,der Name,,,auf,,,telling
+Wie schreibt man das?,schreiben,,,wie,,man; das,,asking
+F – E – R – D – I.,,,,,,,,telling
+"Danke. Also Freitag, acht Uhr, zwei Personen. Bis Freitag!",,der Freitag; die Uhr; die Person,,also,bis,,,social; telling
+"Vielen Dank, auf Wiederhören!",,der Dank,viel,auf Wiederhören,,,,social
+"Guten Abend, ich habe einen Tisch reserviert. Auf den Namen Ferdi.",haben; reservieren,der Abend; der Tisch; der Name,gut,,auf,ich,,social; telling
+"Ah ja, bitte hier entlang. Hier ist die Speisekarte.",sein,die Speisekarte,,bitte; hier; entlang,,,,social; telling
+"Danke! Hm, was nimmst du?",nehmen,,,,,was; du,,social; asking
+"Ich glaube, ich nehme das Schnitzel mit Pommes. Und du?",glauben; nehmen,das Schnitzel; die Pommes,,,mit,ich; du,und,telling; asking
+Ich esse kein Fleisch. Haben Sie auch vegetarische Gerichte?,essen; haben,das Fleisch; das Gericht,vegetarisch,auch,,ich; kein; Sie,,telling; asking
+"Ja, wir haben Käsespätzle oder einen Gemüseteller.",haben,die Käsespätzle; der Gemüseteller,,,,wir,oder,telling
+Sind die Käsespätzle scharf?,sein,die Käsespätzle,scharf,,,,,asking
+"Nein, gar nicht. Aber die Portion ist ziemlich groß.",sein,die Portion,groß,gar; nicht; ziemlich,,,aber,telling
+"Perfekt, dann nehme ich die Käsespätzle.",nehmen,die Käsespätzle,perfekt,dann,,ich,,reacting; doing
+Und was möchten Sie trinken?,möchten; trinken,,,,,was; Sie,und,asking
+"Zwei Apfelschorlen, bitte. Und als Vorspeise eine Suppe für uns beide.",,die Apfelschorle; die Vorspeise; die Suppe,,bitte,für,uns; beide,und; als,doing
+Sehr gern.,,,,sehr; gern,,,,reacting
+"Entschuldigung, mein Schnitzel ist leider kalt.",sein,die Entschuldigung; das Schnitzel,kalt,leider,,mein,,social; telling
+"Oh, das tut mir leid! Ich bringe Ihnen sofort ein neues.",leidtun; bringen,,neu,sofort,,das; mir; ich; Ihnen,,social; doing
+"Danke, das ist sehr nett.",sein,,nett,sehr,,das,,social; reacting
+Hat es Ihnen geschmeckt?,haben; schmecken,,,,,es; Ihnen,,asking
+"Ja, sehr gut, danke!",,,gut,sehr,,,,reacting; social
+Möchten Sie noch einen Nachtisch?,möchten,der Nachtisch,,noch,,Sie,,asking
+"Ja, gern. Zweimal Eis, bitte. Und danach die Rechnung, bitte.",,das Eis; die Rechnung,,gern; zweimal; bitte; danach,,,und,reacting; doing
+Lass uns getrennt zahlen.,lassen; zahlen,,getrennt,,,uns,,doing
+"Nein, heute lade ich dich ein. Alles Gute zum Geburtstag!",einladen,der Geburtstag,gut,heute,zu (zum),ich; dich; alles,,reacting; social
+"Oh, danke, Ferdi! Das ist so lieb von dir.",sein,,lieb,so,von,das; dir,,social; feeling
+Das macht zusammen achtundvierzig Euro.,machen,der Euro,,zusammen,,das,,telling
+"Fünfzig, bitte. Stimmt so.",stimmen,,,bitte; so,,,,social

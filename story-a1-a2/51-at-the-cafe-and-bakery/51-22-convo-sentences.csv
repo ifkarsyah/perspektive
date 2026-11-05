@@ -1,0 +1,36 @@
+sentences,verbs,nouns,adjectives,adverbs,prepositions,pronouns,conjunctions,function
+Guten Morgen! Was darf es sein?,dürfen; sein,der Morgen,gut,,,was; es,,social; asking
+"Guten Morgen! Ich hätte gern vier Brötchen, bitte.",haben,der Morgen; das Brötchen,gut,gern; bitte,,ich,,social; doing
+Normale Brötchen oder Vollkorn?,,das Brötchen; das Vollkorn,normal,,,,oder,asking
+"Normale, bitte. Und ein Vollkornbrot.",,das Vollkornbrot,normal,bitte,,,und,doing
+Geschnitten oder am Stück?,schneiden,das Stück,,,an (am),,oder,asking
+"Geschnitten, bitte.",schneiden,,,bitte,,,,doing
+Sonst noch etwas?,,,,sonst; noch,,etwas,,asking
+"Ja, ein Croissant, bitte. Für den Weg.",,das Croissant; der Weg,,bitte,für,,,doing
+Gern. Das macht zusammen sechs Euro zwanzig.,machen,der Euro,,gern; zusammen,,das,,social; telling
+Kann ich mit Karte zahlen?,können; zahlen,die Karte,,,mit,ich,,asking
+"Ja, natürlich. Möchten Sie den Bon?",möchten,der Bon,natürlich,,,Sie,,reacting; asking
+"Nein, danke. Schönes Wochenende!",,das Wochenende,schön,,,,,reacting; social
+"Danke, Ihnen auch!",,,,auch,,Ihnen,,social
+Hallo! Was möchten Sie trinken?,möchten; trinken,,,,,was; Sie,,social; asking
+"Einen Tee, bitte.",,der Tee,,bitte,,,,doing
+"Für mich einen Cappuccino, bitte.",,der Cappuccino,,bitte,für,mich,,doing
+Möchten Sie auch etwas essen?,möchten; essen,,,auch,,Sie; etwas,,asking
+Ja. Was können Sie empfehlen?,können; empfehlen,,,,,was; Sie,,asking
+Unser Apfelkuchen ist heute ganz frisch.,sein,der Apfelkuchen,frisch,heute; ganz,,unser,,telling
+Dann nehme ich ein Stück Apfelkuchen.,nehmen,das Stück; der Apfelkuchen,,dann,,ich,,doing
+Und ich hätte gern ein Käsebrötchen.,haben,das Käsebrötchen,,gern,,ich,und,doing
+Kommt sofort!,kommen,,,sofort,,,,reacting
+Wie ist der Kuchen?,sein,der Kuchen,,wie,,,,asking
+Sehr lecker! Möchtest du probieren?,möchten; probieren,,lecker,sehr,,du,,feeling; doing
+"Ja, gern. Mmh, wirklich gut!",,,gut,gern; wirklich,,,,reacting; feeling
+Entschuldigung! Wir möchten bitte zahlen.,möchten; zahlen,die Entschuldigung,,bitte,,wir,,social; doing
+Zusammen oder getrennt?,,,getrennt,zusammen,,,oder,asking
+"Getrennt, bitte.",,,getrennt,bitte,,,,doing
+Okay. Der Cappuccino und der Kuchen machen sieben Euro achtzig.,machen,der Cappuccino; der Kuchen; der Euro,okay,,,,und,telling
+"Machen Sie acht fünfzig, bitte.",machen,,,bitte,,Sie,,doing
+Vielen Dank! Und für Sie?,,der Dank,viel,,für,Sie,und,social; asking
+Der Tee und das Käsebrötchen.,,der Tee; das Käsebrötchen,,,,,und,telling
+Das sind fünf Euro vierzig.,sein,der Euro,,,,das,,telling
+"Hier, bitte. Stimmt so.",stimmen,,,hier; bitte; so,,,,social
+Danke schön! Einen schönen Tag noch!,,der Tag,schön,noch,,,,social

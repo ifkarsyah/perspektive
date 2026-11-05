@@ -1,0 +1,30 @@
+sentences,verbs,nouns,adjectives,adverbs,prepositions,pronouns,conjunctions,function
+"Entschuldigung, können Sie mir helfen? Ich suche den ICE nach Hamburg.",können; helfen; suchen,die Entschuldigung; der ICE,,,nach,Sie; mir; ich,,social; asking
+Um wie viel Uhr fährt Ihr Zug?,fahren,die Uhr; der Zug,,wie viel,um,Ihr,,asking
+Um zehn Uhr zwölf.,,die Uhr,,,um,,,telling
+Der fährt von Gleis 12 ab.,abfahren,das Gleis,,,von,der,,telling
+Und wo ist Gleis 12?,sein,das Gleis,,wo,,,und,asking
+Oben. Gehen Sie die Treppe hoch und dann nach links.,hochgehen,die Treppe,,oben; dann; links,nach,Sie,und,telling; doing
+Danke! Ist der Zug pünktlich?,sein,der Zug,pünktlich,,,,,social; asking
+Leider nicht. Er hat circa zwanzig Minuten Verspätung.,haben,die Minute; die Verspätung,,leider; nicht; circa,,er,,telling
+Oh nein! Muss ich umsteigen?,müssen; umsteigen,,,,,ich,,reacting; asking
+"Nein, der ICE fährt direkt nach Hamburg.",fahren,der ICE,direkt,,nach,,,telling
+"Super, vielen Dank!",,der Dank,super; viel,,,,,reacting; social
+Gern. Gute Fahrt!,,die Fahrt,gut,gern,,,,social
+Hallo Lena! Mein Zug hat leider Verspätung.,haben,der Zug; die Verspätung,,leider,,mein,,social; telling
+Oh nein! Wie lange?,,,,wie; lange,,,,reacting; asking
+Zwanzig Minuten. Und jetzt fährt er von einem anderen Gleis ab.,abfahren,die Minute; das Gleis,ander,jetzt,von,er,und,telling
+Typisch Bahn! Wann kommst du dann an?,ankommen,die Bahn,typisch,wann; dann,,du,,reacting; asking
+"Ich glaube, um halb eins.",glauben,,halb,,um,ich,,telling
+Kein Problem. Nimm am Bahnhof den Ausgang Ost.,nehmen,das Problem; der Bahnhof; der Ausgang,,,an (am),kein,,reacting; doing
+"Ausgang Ost, okay. Und dann?",,der Ausgang,okay,dann,,,und,reacting; asking
+Dann nimm den Bus 6 Richtung Nordosten und steig an der Haltestelle „Parkstraße“ aus.,nehmen; aussteigen,der Bus; die Richtung; der Nordosten; die Haltestelle,,dann,an,,und,doing
+Und wie komme ich von dort zu euch?,kommen,,,wie; dort,von; zu,ich; euch,und,asking
+Geh zwei Minuten nach Süden. Ich warte an der Haltestelle auf dich!,gehen; warten,die Minute; der Süden; die Haltestelle,,,nach; an; auf,ich; dich,,doing; telling
+"Perfekt, bis später!",,,perfekt,später,bis,,,social
+"Entschuldigung, wo ist der Ausgang Ost?",sein,die Entschuldigung; der Ausgang,,wo,,,,social; asking
+"Hier ist der Ausgang West. Gehen Sie geradeaus durch die Halle, dann sehen Sie den Ausgang Ost.",sein; gehen; sehen,der Ausgang; die Halle,,hier; geradeaus; dann,durch,Sie,,telling; doing
+"Und wissen Sie, wo der Bus 6 abfährt?",wissen; abfahren,der Bus,,wo,,Sie,und,asking
+"Ja, direkt vor dem Ausgang, auf der rechten Seite.",,der Ausgang; die Seite,direkt; recht,,vor; auf,,,telling
+Vielen Dank!,,der Dank,viel,,,,,social
+Bitte schön!,,,schön,bitte,,,,social

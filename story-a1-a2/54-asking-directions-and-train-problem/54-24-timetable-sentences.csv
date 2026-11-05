@@ -1,0 +1,16 @@
+sentences,verbs,nouns,adjectives,adverbs,prepositions,pronouns,conjunctions,function
+Der ICE 578 fährt um zehn Uhr zwölf nach Hamburg.,fahren,der ICE; die Uhr,,,um; nach,,,telling
+Er fährt über Spandau.,fahren,,,,über,er,,telling
+"Heute fährt er von Gleis 14, nicht von Gleis 12.",fahren,das Gleis,,heute; nicht,von,er,,telling
+Er hat circa zwanzig Minuten Verspätung.,haben,die Minute; die Verspätung,,circa,,er,,telling
+Der RE 1 nach Frankfurt fällt heute aus.,ausfallen,der RE,,heute,nach,,,telling
+Der IC nach Köln hat nur fünf Minuten Verspätung.,haben,der IC; die Minute; die Verspätung,,nur,nach,,,telling
+Die S 5 und die RB 23 sind pünktlich.,sein,die S-Bahn; die RB,pünktlich,,,,und,telling
+Die Fahrt nach Hamburg dauert eine Stunde vierundvierzig.,dauern,die Fahrt; die Stunde,,,nach,,,telling
+Ich muss nicht umsteigen.,müssen; umsteigen,,,nicht,,ich,,telling
+Wann fährt der Zug nach Potsdam ab?,abfahren,der Zug,,wann,nach,,,asking
+"Um Viertel vor elf, von Gleis 16.",,das Viertel; das Gleis,,,um; vor; von,,,telling
+Von welchem Gleis fährt die S-Bahn?,fahren,das Gleis; die S-Bahn,,,von,welchem,,asking
+Von Gleis 15.,,das Gleis,,,von,,,telling
+Wann kommt der ICE in Hamburg an?,ankommen,der ICE,,wann,in,,,asking
+"Laut Fahrplan um elf Uhr sechsundfünfzig, aber heute später.",,der Fahrplan; die Uhr,,heute; später,laut; um,,aber,telling

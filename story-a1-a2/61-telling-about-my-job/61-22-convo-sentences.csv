@@ -1,0 +1,27 @@
+sentences,verbs,nouns,adjectives,adverbs,prepositions,pronouns,conjunctions,function
+"Hallo! Ich glaube, wir kennen uns noch nicht. Ich bin Anna.",glauben; sich kennen; sein,,,noch; nicht,,ich; wir; uns,,social; telling
+"Hallo Anna, ich bin Ferdi. Freut mich!",sein; freuen,,,,,ich; mich,,social
+Freut mich auch! In welchem Team arbeitest du?,freuen; arbeiten,das Team,,auch,in,mich; welchem; du,,social; asking
+Ich bin im Datenteam. Und du?,sein,das Datenteam,,,in (im),ich; du,und,telling; asking
+Ich bin im Marketing. Seit wann bist du schon bei der Firma?,sein,das Marketing; die Firma,,wann; schon,in (im); seit; bei,ich; du,,telling; asking
+Seit zwei Jahren. Und du?,,das Jahr,,,seit,du,und,telling; asking
+Erst seit drei Monaten. Ich bin noch ganz neu hier.,sein,der Monat,neu,erst; noch; ganz; hier,seit,ich,,telling
+Ach so! Und gefällt es dir hier?,gefallen,,,ach so; hier,,es; dir,und,reacting; asking
+"Ja, sehr! Die Kollegen sind alle total nett. Was machst du denn genau?",sein; machen,der Kollege,nett,ja; sehr; total; denn; genau,,alle; was; du,,reacting; asking
+Ich bin Data Engineer.,sein,der Data Engineer,,,,ich,,telling
+"Ehrlich gesagt weiß ich nicht genau, was ein Data Engineer macht.",sagen; wissen; machen,der Data Engineer,,ehrlich gesagt; nicht; genau,,ich; was,,telling
+"Kein Problem, das fragen viele. Ich baue Systeme, die unsere Daten sammeln und sortieren.",fragen; bauen; sammeln; sortieren,das Problem; das System; die Daten,,,,kein; das; viele; ich; die; unsere,und,reacting; telling
+Welche Daten zum Beispiel?,,die Daten,,zum Beispiel,,welche,,asking
+"Zum Beispiel, wie viele Leute unsere App benutzen und was sie kaufen.",benutzen; kaufen,die Leute; die App,viel,zum Beispiel; wie,,unsere; was; sie,und,telling
+"Ah, dann benutzen wir im Marketing deine Daten!",benutzen,das Marketing; die Daten,,dann,in (im),wir; deine,,reacting
+Genau! Ohne die Daten könnt ihr keine Berichte machen.,können; machen,die Daten; der Bericht,,genau,ohne,ihr; keine,,reacting; telling
+Interessant! Und macht dir die Arbeit Spaß?,machen,die Arbeit; der Spaß,interessant,,,dir,und,reacting; asking
+"Ja, meistens. Manchmal ist sie stressig, aber ich lerne jeden Tag etwas Neues.",sein; lernen,der Tag,stressig; neu,ja; meistens; manchmal,,sie; ich; jeden; etwas,aber,telling; feeling
+Und was hast du vorher gemacht?,haben; machen,,,vorher,,was; du,und,asking
+Vorher habe ich in Jakarta als Softwareentwickler gearbeitet.,haben; arbeiten,der Softwareentwickler,,vorher,in,ich,als,telling
+"Wow, und warum bist du nach Berlin gekommen?",sein; kommen,,,warum,nach,du,und,asking
+"Ich wollte neue Erfahrungen sammeln, und Berlin ist super für IT.",wollen; sammeln; sein,die Erfahrung,neu; super,,für,ich,und,telling
+Das verstehe ich. Sprecht ihr im Team Deutsch oder Englisch?,verstehen; sprechen,das Team; das Deutsch; das Englisch,,,in (im),das; ich; ihr,oder,reacting; asking
+"Meistens Englisch, weil wir aus fünf Ländern kommen. Aber ich lerne gerade Deutsch.",kommen; lernen,das Englisch; das Land; das Deutsch,,meistens; gerade,aus,wir; ich,weil; aber,telling
+Dein Deutsch ist schon richtig gut!,sein,das Deutsch,gut,schon; richtig,,dein,,reacting
+"Danke, das ist nett! Ich übe jeden Tag.",sein; üben,der Tag,nett,,,das; ich; jeden,,reacting; telling

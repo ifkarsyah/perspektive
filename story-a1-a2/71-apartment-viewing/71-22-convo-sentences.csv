@@ -1,0 +1,28 @@
+sentences,verbs,nouns,adjectives,adverbs,prepositions,pronouns,conjunctions,function
+Guten Tag! Sind Sie wegen der Besichtigung hier?,sein,der Tag; die Besichtigung,gut,hier,wegen,Sie,,social; asking
+"Ja, guten Tag. Mein Name ist Ferdi. Wir haben gestern telefoniert.",sein; haben; telefonieren,der Tag; der Name,gut,ja; gestern,,mein; wir,,social; telling
+Ah ja. Kommen Sie rein und schauen Sie sich gern alles an.,reinkommen; sich anschauen,,,ja; gern,,Sie; sich; alles,und,social; doing
+Danke. Wie groß ist die Wohnung?,sein,die Wohnung,groß,wie,,,,asking
+"Fünfundfünfzig Quadratmeter, mit zwei Zimmern, Küche, Bad und Balkon.",,der Quadratmeter; das Zimmer; die Küche; das Bad; der Balkon,,,mit,,und,telling
+Gibt es eine Einbauküche?,geben,die Einbauküche,,,,es,,asking
+"Ja, es gibt eine Einbauküche mit Herd und Kühlschrank.",geben,die Einbauküche; der Herd; der Kühlschrank,,ja,mit,es,und,telling
+Super. Und wie hoch ist die Miete?,sein,die Miete,super; hoch,wie,,,und,reacting; asking
+"Die Kaltmiete ist achthundert Euro, plus zweihundert Euro Nebenkosten.",sein,die Kaltmiete; der Euro; die Nebenkosten,,plus,,,,telling
+Sind Heizung und Wasser inklusive?,sein,die Heizung; das Wasser,,inklusive,,,und,asking
+"Ja, Heizung und Wasser sind inklusive. Strom und Internet zahlen Sie selbst.",sein; zahlen,die Heizung; das Wasser; der Strom; das Internet,,ja; inklusive; selbst,,Sie,und,telling
+Verstehe. Kann ich hier eine Waschmaschine anschließen?,verstehen; können; anschließen,die Waschmaschine,,hier,,ich,,reacting; asking
+"Ja, im Bad gibt es einen Anschluss.",geben,das Bad; der Anschluss,,ja,in (im),es,,telling
+Perfekt! In meinem Haus gibt es nur vier Maschinen für dreißig Leute.,geben,das Haus; die Maschine; die Leute,perfekt,nur,in; für,meinem; es,,reacting; telling
+"Oh, das klingt anstrengend!",klingen,,anstrengend,,,das,,reacting
+"Ja, sehr. Ab wann ist die Wohnung frei?",sein,die Wohnung,frei,ja; sehr; wann,ab,,,reacting; asking
+Ab dem ersten Februar.,,der Februar,erst,,ab,,,telling
+Und wie hoch ist die Kaution?,sein,die Kaution,hoch,wie,,,und,asking
+"Drei Kaltmieten, also zweitausendvierhundert Euro.",,die Kaltmiete; der Euro,,also,,,,telling
+Okay. Ich habe meine Unterlagen schon dabei.,dabeihaben,die Unterlagen,okay,schon,,ich; meine,,reacting; telling
+Sehr gut! Was machen Sie beruflich?,machen,,gut,sehr; beruflich,,was; Sie,,reacting; asking
+Ich arbeite seit zwei Jahren als Data Engineer bei einer Firma in Berlin.,arbeiten,das Jahr; der Data Engineer; die Firma,,,seit; bei; in,ich,als,telling
+Und haben Sie Haustiere?,haben,das Haustier,,,,Sie,und,asking
+"Nein, keine Haustiere. Und ich rauche nicht.",rauchen,das Haustier,,nein; nicht,,keine; ich,und,telling
+"Schön. Ich habe heute noch viele Besichtigungen, aber ich melde mich bis Freitag bei Ihnen.",haben; sich melden,die Besichtigung; der Freitag,schön; viel,heute; noch,bis; bei,ich; mich; Ihnen,aber,reacting; telling
+Vielen Dank! Ich würde mich sehr freuen.,werden; sich freuen,der Dank,viel,sehr,,ich; mich,,social; feeling
+"Auf Wiedersehen, und viel Glück!",,das Glück,viel,auf Wiedersehen,,,und,social
