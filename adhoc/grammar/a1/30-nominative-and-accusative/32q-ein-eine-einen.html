@@ -1,0 +1,310 @@
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1,viewport-fit=cover">
+<title>ein eine einen Drill</title>
+<meta name="claude:viewport-fit-sides" content="cover">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Bricolage+Grotesque:opsz,wght@12..96,500;12..96,700;12..96,800&family=Atkinson+Hyperlegible:wght@400;700&display=swap">
+<style>
+/* Layout: one centered drill column; the sentence is the hero, four article keys sit under it */
+:root{
+  --bg:#f3f5f8; --surface:#ffffff; --fg:#17202b; --muted:#5d6978; --line:#dde2ea;
+  --ein:#1f5fd1; --eine:#d6338a; --einen:#c2410c; --none:#6b7480;
+  --ok:#1f8a4c; --bad:#d23a3a; --ok-soft:#e3f4ea; --bad-soft:#fce8e8;
+  --display:"Bricolage Grotesque", "Segoe UI", system-ui, sans-serif;
+  --body:"Atkinson Hyperlegible", "Segoe UI", system-ui, sans-serif;
+}
+@media (prefers-color-scheme: dark){:root:not([data-theme="light"]){
+  --bg:#11161d; --surface:#1a212b; --fg:#e8edf3; --muted:#97a3b3; --line:#2b3542;
+  --ein:#6b9cff; --eine:#ff7ec0; --einen:#ff9a5c; --none:#a6afbb;
+  --ok:#55c98a; --bad:#ff7a7a; --ok-soft:#173323; --bad-soft:#3d1f22; color-scheme:dark}}
+:root[data-theme="dark"]{
+  --bg:#11161d; --surface:#1a212b; --fg:#e8edf3; --muted:#97a3b3; --line:#2b3542;
+  --ein:#6b9cff; --eine:#ff7ec0; --einen:#ff9a5c; --none:#a6afbb;
+  --ok:#55c98a; --bad:#ff7a7a; --ok-soft:#173323; --bad-soft:#3d1f22; color-scheme:dark}
+*{box-sizing:border-box}
+body{background:var(--bg);color:var(--fg);font-family:var(--body);font-size:16px;line-height:1.5}
+.wrap{max-width:640px;margin:0 auto;padding-block:28px 48px;
+  padding-left:max(16px,env(safe-area-inset-left,0px));padding-right:max(16px,env(safe-area-inset-right,0px));
+  display:flex;flex-direction:column;gap:20px}
+header h1{font-family:var(--display);font-weight:800;font-size:clamp(28px,6vw,38px);line-height:1.05;margin:0;text-wrap:balance;letter-spacing:-.01em}
+header p{margin:6px 0 0;color:var(--muted)}
+.c-ein{color:var(--ein)} .c-eine{color:var(--eine)} .c-einen{color:var(--einen)} .c-none{color:var(--none)}
+.card{background:var(--surface);border:1px solid var(--line);border-radius:14px;padding:22px;display:flex;flex-direction:column;gap:18px}
+.meta{display:flex;justify-content:space-between;align-items:center;font-size:13px;color:var(--muted);font-variant-numeric:tabular-nums;gap:12px;flex-wrap:wrap}
+.bar{height:4px;background:var(--line);border-radius:4px;overflow:hidden}
+.bar i{display:block;height:100%;background:var(--fg);width:0;transition:width .25s}
+.prompt{text-align:center;padding-block:10px 4px}
+.sentence{font-family:var(--display);font-weight:700;font-size:clamp(26px,6.5vw,36px);line-height:1.25;letter-spacing:-.01em;text-wrap:balance}
+.blank{display:inline-block;min-width:2.2em;border-bottom:3px dashed var(--line);color:var(--muted)}
+.blank.filled{border-bottom-color:transparent}
+.en{color:var(--muted);margin-top:6px}
+.keys{display:grid;grid-template-columns:repeat(4,1fr);gap:10px}
+.keys button{font-family:var(--display);font-weight:700;font-size:22px;line-height:1.15;padding:14px 4px;border-radius:12px;cursor:pointer;border:2px solid currentColor;background:var(--surface);min-width:0}
+.keys .ein{color:var(--ein)} .keys .eine{color:var(--eine)} .keys .einen{color:var(--einen)} .keys .none{color:var(--none);font-size:16px}
+.keys button:hover:not(:disabled){background:var(--bg)}
+.keys button kbd{display:block;font-family:var(--body);font-size:11px;font-weight:400;color:var(--muted);margin-top:2px}
+.keys button:disabled{cursor:default;opacity:.35}
+.keys button.right{opacity:1;border-color:var(--ok);border-width:3px;background:var(--ok-soft)}
+.keys button.wrong{opacity:1;border-color:var(--bad);border-width:3px;background:var(--bad-soft);text-decoration:line-through;text-decoration-color:var(--bad)}
+.keys button:focus-visible,.btn:focus-visible,.hint:focus-visible{outline:3px solid var(--ein);outline-offset:2px}
+.feedback{border-radius:10px;padding:12px 14px;display:flex;flex-direction:column;gap:4px;border-left:4px solid}
+.feedback strong{font-family:var(--display);font-size:18px}
+.feedback.ok{background:var(--ok-soft);border-color:var(--ok)} .feedback.bad{background:var(--bad-soft);border-color:var(--bad)}
+.feedback .tag{font-size:12px;text-transform:uppercase;letter-spacing:.06em;font-weight:700}
+.feedback.ok .tag{color:var(--ok)} .feedback.bad .tag{color:var(--bad)}
+.row{display:flex;gap:10px;flex-wrap:wrap;justify-content:space-between;align-items:center}
+.btn{font:inherit;font-weight:700;padding:10px 16px;border-radius:10px;border:1px solid var(--line);background:var(--surface);color:var(--fg);cursor:pointer}
+.btn.primary{background:var(--fg);color:var(--bg);border-color:var(--fg)}
+.btn kbd{font-family:inherit;font-weight:400;opacity:.7}
+.hint{font:inherit;font-size:14px;color:var(--muted);background:none;border:none;padding:0;cursor:pointer;text-decoration:underline}
+.hinttext{font-size:14px;color:var(--muted)}
+.score{font-family:var(--display);font-weight:800;font-size:56px;line-height:1;font-variant-numeric:tabular-nums}
+.missed{list-style:none;margin:0;padding:0;display:flex;flex-direction:column}
+.missed li{display:flex;flex-direction:column;padding:8px 0;border-top:1px solid var(--line)}
+.missed b{font-family:var(--display)}
+.missed span{color:var(--muted);font-size:14px}
+details.rules{font-size:14px;color:var(--muted)}
+details.rules summary{cursor:pointer;color:var(--fg);font-weight:700}
+details.rules ol{padding-left:20px;margin:8px 0 0}
+@media (prefers-reduced-motion:reduce){.bar i{transition:none}}
+</style>
+
+<div class="wrap">
+  <header>
+    <h1><span class="c-ein">ein</span>, <span class="c-eine">eine</span> or <span class="c-einen">einen</span>?</h1>
+    <p>Fill the blank. Only a masculine object changes: ein becomes einen.</p>
+  </header>
+
+  <section class="card" id="quiz">
+    <div class="meta"><span id="progress"></span><span id="tally"></span></div>
+    <div class="bar"><i id="barfill"></i></div>
+    <div class="prompt">
+      <div class="sentence" id="sentence"></div>
+      <div class="en" id="en"></div>
+    </div>
+    <div class="keys">
+      <button class="ein" data-pick="ein" id="k-ein">ein<kbd>1</kbd></button>
+      <button class="eine" data-pick="eine" id="k-eine">eine<kbd>2</kbd></button>
+      <button class="einen" data-pick="einen" id="k-einen">einen<kbd>3</kbd></button>
+      <button class="none" data-pick="none" id="k-none">no article<kbd>4</kbd></button>
+    </div>
+    <div id="fb" hidden></div>
+    <div class="row">
+      <span><button class="hint" id="hintbtn">Show gender</button> <span class="hinttext" id="hinttext" hidden></span></span>
+      <button class="btn primary" id="next" hidden>Next <kbd>Enter</kbd></button>
+    </div>
+  </section>
+
+  <section class="card" id="result" hidden>
+    <div><div class="score" id="final"></div><div class="hinttext" id="verdict"></div></div>
+    <ul class="missed" id="missed"></ul>
+    <div class="row" style="justify-content:flex-start">
+      <button class="btn primary" id="again">New round</button>
+    </div>
+  </section>
+
+  <details class="rules">
+    <summary>How to decide</summary>
+    <ol>
+      <li>Feminine? Always eine.</li>
+      <li>Neuter? Always ein.</li>
+      <li>Plural? There's no word for "a", so no article.</li>
+      <li>Masculine and the object? einen.</li>
+      <li>Masculine and the subject, or after sein? ein.</li>
+      <li>After es gibt, it's always accusative: Es gibt einen Park.</li>
+    </ol>
+  </details>
+</div>
+
+<script>
+// [sentence, english, noun, gender, case, clue]  (case and clue are for masculine nouns only)
+const S = [
+ ["Ich habe ___ Bruder.","I have a brother.","Bruder","m","acc","What do I have? A brother, so he's the object."],
+ ["Ich kaufe ___ Apfel.","I'm buying an apple.","Apfel","m","acc","What is being bought? An apple, so it's the object."],
+ ["Ich brauche ___ Stift.","I need a pen.","Stift","m","acc","What is needed? A pen, so it's the object."],
+ ["Ich suche ___ Job.","I'm looking for a job.","Job","m","acc","What is being looked for? A job, so it's the object."],
+ ["Ich sehe ___ Hund.","I see a dog.","Hund","m","acc","What is being seen? A dog, so it's the object."],
+ ["Ich esse ___ Kuchen.","I'm eating a cake.","Kuchen","m","acc","What is being eaten? A cake, so it's the object."],
+ ["Ich trinke ___ Kaffee.","I'm drinking a coffee.","Kaffee","m","acc","What is being drunk? A coffee, so it's the object."],
+ ["Ich nehme ___ Tee.","I'll have a tea.","Tee","m","acc","What am I having? A tea, so it's the object."],
+ ["Ich möchte ___ Saft.","I'd like a juice.","Saft","m","acc","What would I like? A juice, so it's the object."],
+ ["Wir haben ___ Garten.","We have a garden.","Garten","m","acc","What do we have? A garden, so it's the object."],
+ ["Er kauft ___ Computer.","He is buying a computer.","Computer","m","acc","What is being bought? A computer, so it's the object."],
+ ["Es gibt ___ Park hier.","There is a park here.","Park","m","acc","es gibt always takes the accusative."],
+ ["Es gibt ___ Supermarkt hier.","There is a supermarket here.","Supermarkt","m","acc","es gibt always takes the accusative."],
+ ["___ Apfel esse ich jeden Tag.","I eat an apple every day.","Apfel","m","acc","What is being eaten? An apple. It comes first, but ich is the subject."],
+ ["Das ist ___ Tisch.","That is a table.","Tisch","m","nom","After sein, there's no object."],
+ ["Das ist ___ Computer.","That is a computer.","Computer","m","nom","After sein, there's no object."],
+ ["Das ist ___ Hund.","That is a dog.","Hund","m","nom","After sein, there's no object."],
+ ["Das ist ___ Apfel.","That is an apple.","Apfel","m","nom","After sein, there's no object."],
+ ["Hier ist ___ Park.","Here is a park.","Park","m","nom","After sein, there's no object."],
+ ["___ Mann kommt.","A man is coming.","Mann","m","nom","Who is coming? A man, so he's the subject."],
+ ["___ Hund schläft.","A dog is sleeping.","Hund","m","nom","Who is sleeping? A dog, so it's the subject."],
+ ["___ Lehrer wartet.","A teacher is waiting.","Lehrer","m","nom","Who is waiting? A teacher, so he's the subject."],
+ ["___ Bus kommt.","A bus is coming.","Bus","m","nom","What is coming? A bus, so it's the subject."],
+ ["Heute kommt ___ Freund.","A friend is coming today.","Freund","m","nom","Who is coming? A friend. He comes after the verb but he's still the subject."],
+ ["Das ist ___ Katze.","That is a cat.","Katze","f"],
+ ["Hier ist ___ Bäckerei.","Here is a bakery.","Bäckerei","f"],
+ ["Ich suche ___ Wohnung.","I'm looking for an apartment.","Wohnung","f"],
+ ["Ich kaufe ___ Lampe.","I'm buying a lamp.","Lampe","f"],
+ ["Es gibt ___ Apotheke hier.","There is a pharmacy here.","Apotheke","f"],
+ ["___ Frau kommt.","A woman is coming.","Frau","f"],
+ ["Ich habe ___ Schwester.","I have a sister.","Schwester","f"],
+ ["Wir kaufen ___ Auto.","We're buying a car.","Auto","n"],
+ ["Ich habe ___ Handy.","I have a phone.","Handy","n"],
+ ["Das ist ___ Buch.","That is a book.","Buch","n"],
+ ["___ Kind spielt.","A child is playing.","Kind","n"],
+ ["Ich esse ___ Brötchen.","I'm eating a bread roll.","Brötchen","n"],
+ ["Es gibt ___ Hotel hier.","There is a hotel here.","Hotel","n"],
+ ["Ich habe ___ Bücher.","I have books.","Bücher","p"],
+ ["Wir kaufen ___ Äpfel.","We're buying apples.","Äpfel","p"],
+ ["___ Kinder spielen.","Children are playing.","Kinder","p"]
+];
+
+const BASE = {m:"der", f:"die", n:"das", p:"die"};
+const GENDER = {m:"masculine", f:"feminine", n:"neuter", p:"plural"};
+const FITS = {m:["ein","einen"], f:["eine"], n:["ein"], p:["none"]};
+const $ = id => document.getElementById(id);
+const keys = [$("k-ein"), $("k-eine"), $("k-einen"), $("k-none")];
+
+let queue, pos, missed, score, streak, answered;
+
+const shuffle = list => {
+  const a = list.slice();
+  for (let i = a.length - 1; i > 0; i--) {
+    const j = Math.floor(Math.random() * (i + 1));
+    [a[i], a[j]] = [a[j], a[i]];
+  }
+  return a;
+};
+const answerOf = q => ({m: q[4] === "nom" ? "ein" : "einen", f: "eine", n: "ein", p: "none"})[q[3]];
+const capitalize = word => word[0].toUpperCase() + word.slice(1);
+const shownArticle = q => {
+  if (answerOf(q) === "none") return "—";
+  return q[0].startsWith("___") ? capitalize(answerOf(q)) : answerOf(q);
+};
+const fullSentence = q => answerOf(q) === "none" ? q[0].replace("___ ", "") : q[0].replace("___", shownArticle(q));
+
+function renderSentence(q, filled) {
+  const [before, after] = q[0].split("___");
+  const blank = filled
+    ? `<span class="blank filled c-${answerOf(q)}">${shownArticle(q)}</span>`
+    : `<span class="blank">&nbsp;</span>`;
+  $("sentence").innerHTML = before + blank + after;
+}
+
+function updateMeta() {
+  $("progress").textContent = `${pos + 1} / ${queue.length}`;
+  $("tally").textContent = `Score ${score} · Streak ${streak}`;
+  $("barfill").style.width = `${pos / queue.length * 100}%`;
+}
+
+function render() {
+  const q = queue[pos];
+  answered = false;
+  renderSentence(q, false);
+  $("en").textContent = q[1];
+  keys.forEach(k => { k.disabled = false; k.classList.remove("right", "wrong"); });
+  $("fb").hidden = true;
+  $("next").hidden = true;
+  $("hintbtn").hidden = false;
+  $("hinttext").hidden = true;
+  updateMeta();
+}
+
+function explain(q, pick) {
+  const article = answerOf(q);
+  const bold = `<b class="c-${article}">${article}</b>`;
+  const parts = [];
+  if (!FITS[q[3]].includes(pick)) parts.push(`${q[2]} is ${GENDER[q[3]]}: ${BASE[q[3]]} ${q[2]}.`);
+  if (q[3] === "m") {
+    parts.push(q[5]);
+    parts.push(`Masculine ${q[4] === "nom" ? "nominative" : "accusative"}, so ${bold}.`);
+  } else if (q[3] === "p") {
+    parts.push(`Plural has no word for "a", so there's no article.`);
+  } else {
+    parts.push(`${capitalize(GENDER[q[3]])}, so ${bold} in both cases.`);
+  }
+  return parts.join(" ");
+}
+
+function answer(pick) {
+  if (answered) return;
+  answered = true;
+  const q = queue[pos];
+  const correct = answerOf(q);
+  const ok = pick === correct;
+  if (ok) {
+    if (!missed.has(q)) score++;
+    streak++;
+  } else {
+    streak = 0;
+    missed.add(q);
+    queue.push(q);
+  }
+  keys.forEach(k => {
+    k.disabled = true;
+    if (k.dataset.pick === correct) k.classList.add("right");
+    else if (k.dataset.pick === pick) k.classList.add("wrong");
+  });
+  renderSentence(q, true);
+  const fb = $("fb");
+  fb.className = "feedback " + (ok ? "ok" : "bad");
+  fb.innerHTML = `<span class="tag">${ok ? "Correct" : "Not quite"}</span><strong>${fullSentence(q)}</strong><span>${explain(q, pick)}</span>`;
+  fb.hidden = false;
+  $("hintbtn").hidden = true;
+  $("hinttext").hidden = true;
+  $("next").hidden = false;
+  $("next").focus({preventScroll: true});
+  updateMeta();
+}
+
+function showHint() {
+  const q = queue[pos];
+  $("hinttext").textContent = `${q[2]} is ${GENDER[q[3]]}: ${BASE[q[3]]} ${q[2]}`;
+  $("hinttext").hidden = false;
+  $("hintbtn").hidden = true;
+}
+
+function finish() {
+  $("quiz").hidden = true;
+  $("result").hidden = false;
+  $("final").textContent = `${score}/${S.length}`;
+  $("verdict").textContent = missed.size
+    ? `First-try score. You missed ${missed.size}:`
+    : "Every sentence right on the first try.";
+  $("missed").innerHTML = [...missed]
+    .map(q => `<li><b>${fullSentence(q)}</b><span>${q[1]}</span></li>`)
+    .join("");
+  $("again").focus({preventScroll: true});
+}
+
+function next() {
+  pos++;
+  if (pos >= queue.length) finish();
+  else render();
+}
+
+function start() {
+  queue = shuffle(S);
+  pos = 0;
+  missed = new Set();
+  score = 0;
+  streak = 0;
+  $("result").hidden = true;
+  $("quiz").hidden = false;
+  render();
+}
+
+keys.forEach(k => k.addEventListener("click", () => answer(k.dataset.pick)));
+$("next").addEventListener("click", next);
+$("again").addEventListener("click", start);
+$("hintbtn").addEventListener("click", showHint);
+document.addEventListener("keydown", e => {
+  if (e.metaKey || e.ctrlKey || e.altKey || answered || $("quiz").hidden) return;
+  const pick = {1: "ein", 2: "eine", 3: "einen", 4: "none"}[e.key];
+  if (pick) answer(pick);
+});
+
+start();
+</script>
