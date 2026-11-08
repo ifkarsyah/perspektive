@@ -16,7 +16,7 @@
 4. Negation. 
    1. nicht vs kein.
 5. Modal verbs. 
-   1. können, müssen, wollen, möchten, dürfen, 
+   1. können, müssen, wollen, möchten, dürfen, sollen, 
    2. with the infinitive at the end of the sentence.
 6. Separable verbs. 
    1. aufstehen, einkaufen, anrufen (Ich stehe um 7 Uhr auf.).

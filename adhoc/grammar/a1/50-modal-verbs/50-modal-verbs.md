@@ -2,9 +2,9 @@
 
 ## What is this about?
 
-Modal verbs are "helper" verbs that add a **mood** to another verb: ability, need, desire, or permission.
+Modal verbs are "helper" verbs that add a **mood** to another verb: ability, need, desire, permission, or advice.
 
-English has them too: **can**, **must**, **want to**, **would like to**, **may**.
+English has them too: **can**, **must**, **want to**, **would like to**, **may**, **should**.
 
 | English              | German               |
 | -------------------- | -------------------- |
@@ -13,6 +13,7 @@ English has them too: **can**, **must**, **want to**, **would like to**, **may**
 | I **want to** sleep. | Ich **will** schlafen.   |
 | I **would like** a coffee. | Ich **möchte** einen Kaffee. |
 | **May** I come in?   | **Darf** ich reinkommen? |
+| What **should** I do? | Was **soll** ich machen? |
 
 ## Why it matters
 
@@ -28,5 +29,5 @@ In English, "can" and "swim" stand next to each other. In German, the modal verb
 
 ## The plan
 
-1. [Forms and meaning](51-modal-verbs-forms.md): how to conjugate können, müssen, wollen, möchten, dürfen, and what each one really means.
+1. [Forms and meaning](51-modal-verbs-forms.md): how to conjugate können, müssen, wollen, möchten, dürfen, sollen, and what each one really means.
 2. [Infinitive at the end](52-infinitive-at-the-end.md): how to build sentences with the "sandwich" structure.

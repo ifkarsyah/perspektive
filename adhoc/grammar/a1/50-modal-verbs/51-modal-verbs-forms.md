@@ -2,9 +2,9 @@
 
 ## The idea in one sentence
 
-There are five modal verbs to learn at A1, and they all share **one weird pattern**: ich and er/sie/es look the same and have **no ending**.
+There are six modal verbs to learn at A1, and they all share **one weird pattern**: ich and er/sie/es look the same and have **no ending**.
 
-## The five modal verbs and what they mean
+## The six modal verbs and what they mean
 
 | Verb        | Meaning                    | Example                         | English                      |
 | ----------- | -------------------------- | ------------------------------- | ---------------------------- |
@@ -13,17 +13,18 @@ There are five modal verbs to learn at A1, and they all share **one weird patter
 | **wollen**  | want to (direct, strong)   | Ich will nach Hause gehen.      | I want to go home.           |
 | **möchten** | would like to (polite)     | Ich möchte einen Kaffee.        | I'd like a coffee.           |
 | **dürfen**  | may, be allowed to         | Darf ich hier parken?           | May I park here?             |
+| **sollen**  | should, be supposed to     | Was soll ich machen?            | What should I do?            |
 
 ## The conjugation
 
-| Who        | können    | müssen   | wollen   | möchten    | dürfen   |
-| ---------- | --------- | -------- | -------- | ---------- | -------- |
-| ich        | **kann**  | **muss** | **will** | möchte     | **darf** |
-| du         | kannst    | musst    | willst   | möchtest   | darfst   |
-| er/sie/es  | **kann**  | **muss** | **will** | möchte     | **darf** |
-| wir        | können    | müssen   | wollen   | möchten    | dürfen   |
-| ihr        | könnt     | müsst    | wollt    | möchtet    | dürft    |
-| sie/Sie    | können    | müssen   | wollen   | möchten    | dürfen   |
+| Who        | können    | müssen   | wollen   | möchten    | dürfen   | sollen  |
+| ---------- | --------- | -------- | -------- | ---------- | -------- | ------- |
+| ich        | **kann**  | **muss** | **will** | möchte     | **darf** | soll    |
+| du         | kannst    | musst    | willst   | möchtest   | darfst   | sollst  |
+| er/sie/es  | **kann**  | **muss** | **will** | möchte     | **darf** | soll    |
+| wir        | können    | müssen   | wollen   | möchten    | dürfen   | sollen  |
+| ihr        | könnt     | müsst    | wollt    | möchtet    | dürft    | sollt   |
+| sie/Sie    | können    | müssen   | wollen   | möchten    | dürfen   | sollen  |
 
 ## Three patterns that make it easy
 
@@ -45,7 +46,7 @@ Look at the **bold** forms. In the singular (ich, du, er), the vowel is differen
 - w**o**llen → ich w**i**ll
 - d**ü**rfen → ich d**a**rf
 
-In the plural (wir, ihr, sie), it's back to the normal vowel.
+In the plural (wir, ihr, sie), it's back to the normal vowel. **sollen** is easy: its vowel never changes.
 
 ### Pattern 3: wir/sie/Sie = dictionary form
 
@@ -79,6 +80,13 @@ This one is a big trap:
 
 So "must not" in German is **nicht dürfen**, not nicht müssen.
 
+### müssen vs sollen
+
+- **müssen** means it's necessary: "Ich muss arbeiten." (I have to work.)
+- **sollen** means someone else wants it, or says so: "Mein Arzt sagt, ich soll mehr schlafen." (My doctor says I should sleep more.)
+
+**Soll ich...?** is also how you offer to do something: "Soll ich dir helfen?" (Should I help you?)
+
 ## Common mistakes
 
 | ❌ Wrong                   | ✅ Right                   | Why                                  |
@@ -98,6 +106,8 @@ So "must not" in German is **nicht dürfen**, not nicht müssen.
 6. Ihr ___ (können) hier warten.
 7. Which one: "You must not park here" → Du ___ hier nicht parken. (müssen or dürfen?)
 8. Translate: "I will go home." (future, not want)
+9. ___ (sollen) ich dir helfen?
+10. Mein Arzt sagt, ich ___ (sollen) mehr schlafen.
 
 <details>
 <summary>Answers</summary>
@@ -110,12 +120,14 @@ So "must not" in German is **nicht dürfen**, not nicht müssen.
 6. könnt
 7. darfst
 8. Ich gehe nach Hause. (or Ich werde nach Hause gehen.) — not "ich will"!
+9. Soll
+10. soll
 
 </details>
 
 ## Summary
 
-- können (can), müssen (must), wollen (want), möchten (would like), dürfen (may).
+- können (can), müssen (must), wollen (want), möchten (would like), dürfen (may), sollen (should).
 - **ich = er/sie/es**, no ending: ich kann, er kann.
 - Vowel changes in the singular: können → kann.
 - **will** = want (not future). **nicht müssen** = don't have to. **nicht dürfen** = must not.
