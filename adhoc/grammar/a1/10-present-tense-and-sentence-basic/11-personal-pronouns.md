@@ -111,4 +111,4 @@ Which pronoun?
 - sie + **-t** = she. sie + **-en** = they. **S**ie + -en = you formal.
 - Things use er / sie / es depending on der / die / das.
 
-Next: [Verb in second position](14-verb-second-position.md).
+Next: [Regular verbs](12-regular-verbs.md).

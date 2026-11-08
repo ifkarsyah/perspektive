@@ -1,0 +1,440 @@
+<!doctype html><html><head><meta charset=utf8><meta name=viewport content="width=device-width,initial-scale=1,viewport-fit=cover"><style>:root{color-scheme:light;box-sizing:border-box;padding-top:env(safe-area-inset-top,0px);padding-bottom:env(safe-area-inset-bottom,0px)}html{scroll-padding-top:env(safe-area-inset-top,0px)}body{margin:0;padding:0;font:14px -apple-system,BlinkMacSystemFont,sans-serif;background:#fff;color:#000}img{max-width:100%}[hidden]:not([hidden=until-found i]){display:none!important}</style></head><body>
+<title>Verben Quiz</title>
+<meta name="claude:viewport-fit-sides" content="cover">
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Bricolage+Grotesque:opsz,wght@12..96,500;12..96,700&family=IBM+Plex+Sans:wght@400;500;600&family=IBM+Plex+Mono:wght@500;600&display=swap">
+<style>
+/* Layout: one narrow column. A verb is drawn as two tiles, a dark STEM tile and an amber ENDING tile, and the quiz keeps that picture on screen. */
+:root {
+  --bg: #EEF1EF;
+  --surface: #FBFCFB;
+  --ink: #15202A;
+  --muted: #55626D;
+  --line: #D3DAD6;
+  --stem: #20405F;
+  --stem-ink: #FFFFFF;
+  --end: #F4B63F;
+  --end-ink: #2A1D00;
+  --good: #19704A;
+  --good-bg: #DDF1E5;
+  --bad: #B3382C;
+  --bad-bg: #F8E0DC;
+  --focus: #2F6FB3;
+  --display: "Bricolage Grotesque", "Helvetica Neue", Arial, sans-serif;
+  --body: "IBM Plex Sans", system-ui, -apple-system, "Segoe UI", sans-serif;
+  --mono: "IBM Plex Mono", ui-monospace, "SF Mono", Menlo, monospace;
+}
+@media (prefers-color-scheme: dark) {
+  :root:not([data-theme="light"]) {
+    --bg: #11171C; --surface: #1A232A; --ink: #E8EEF2; --muted: #93A1AC; --line: #2C3841;
+    --stem: #7FA9D6; --stem-ink: #0E1A26; --end: #F4B63F; --end-ink: #2A1D00;
+    --good: #5FCB93; --good-bg: #17332A; --bad: #F08A7E; --bad-bg: #3A1E1B; --focus: #7FB2E8;
+    color-scheme: dark;
+  }
+}
+:root[data-theme="dark"] {
+  --bg: #11171C; --surface: #1A232A; --ink: #E8EEF2; --muted: #93A1AC; --line: #2C3841;
+  --stem: #7FA9D6; --stem-ink: #0E1A26; --end: #F4B63F; --end-ink: #2A1D00;
+  --good: #5FCB93; --good-bg: #17332A; --bad: #F08A7E; --bad-bg: #3A1E1B; --focus: #7FB2E8;
+  color-scheme: dark;
+}
+* { box-sizing: border-box; }
+body {
+  background: var(--bg); color: var(--ink); font-family: var(--body); font-size: 16px; line-height: 1.5;
+  padding-block: 24px 48px;
+  padding-left: max(16px, env(safe-area-inset-left, 0px));
+  padding-right: max(16px, env(safe-area-inset-right, 0px));
+}
+.wrap { max-width: 640px; margin: 0 auto; display: flex; flex-direction: column; gap: 20px; }
+h1, h2 { font-family: var(--display); margin: 0; text-wrap: balance; line-height: 1.1; }
+h1 { font-size: clamp(2rem, 7vw, 2.75rem); font-weight: 700; letter-spacing: -0.02em; }
+.sub { margin: 6px 0 0; color: var(--muted); }
+button { font: inherit; color: inherit; cursor: pointer; }
+:focus-visible { outline: 3px solid var(--focus); outline-offset: 2px; }
+
+/* header + modes */
+.modes { display: flex; flex-wrap: wrap; gap: 8px; }
+.mode {
+  border: 1.5px solid var(--line); background: var(--surface); border-radius: 999px; padding: 7px 14px;
+  font-size: 0.9rem; font-weight: 500;
+}
+.mode[aria-pressed="true"] { background: var(--ink); color: var(--bg); border-color: var(--ink); }
+
+/* progress */
+.bar { display: flex; align-items: center; gap: 12px; }
+.dots { display: flex; gap: 6px; flex: 1; min-width: 0; }
+.dot { height: 8px; flex: 1; border-radius: 4px; background: var(--line); }
+.dot.now { background: var(--muted); }
+.dot.ok { background: var(--good); }
+.dot.no { background: var(--bad); }
+.streak { font-family: var(--mono); font-size: 0.85rem; color: var(--muted); white-space: nowrap; font-variant-numeric: tabular-nums; }
+
+/* card */
+.card { background: var(--surface); border: 1.5px solid var(--line); border-radius: 14px; padding: 22px; display: flex; flex-direction: column; gap: 18px; }
+.kind { font-size: 0.75rem; letter-spacing: 0.08em; text-transform: uppercase; color: var(--muted); font-weight: 600; margin: 0; }
+.prompt { font-family: var(--display); font-size: clamp(1.4rem, 5.2vw, 1.9rem); line-height: 1.3; margin: 0; }
+.hint { color: var(--muted); font-size: 0.95rem; margin: 0; }
+
+/* verb tiles */
+.tiles { display: inline-flex; align-items: stretch; font-family: var(--mono); font-weight: 600; font-size: 1.5rem; }
+.tile { padding: 8px 14px; line-height: 1.2; }
+.t-stem { background: var(--stem); color: var(--stem-ink); border-radius: 8px 0 0 8px; }
+.t-end { background: var(--end); color: var(--end-ink); border-radius: 0 8px 8px 0; min-width: 2.6ch; text-align: center; }
+.t-end.slot { background: transparent; color: var(--muted); border: 2px dashed var(--line); border-left: 0; }
+.t-end.pop { animation: pop .28s ease-out; }
+@keyframes pop { from { transform: scaleX(.6); opacity: .2; } to { transform: none; opacity: 1; } }
+.tiles-row { display: flex; align-items: center; gap: 12px; flex-wrap: wrap; }
+.who { font-family: var(--mono); font-weight: 600; font-size: 1.1rem; }
+.inf { font-family: var(--mono); font-size: 0.9rem; color: var(--muted); }
+
+/* fill in */
+.sentence { display: flex; flex-wrap: wrap; align-items: center; gap: 6px 8px; font-size: clamp(1.15rem, 4.4vw, 1.5rem); }
+.blank {
+  font: inherit; font-family: var(--mono); width: 9ch; padding: 4px 8px; border: 0; border-bottom: 3px solid var(--ink);
+  background: color-mix(in srgb, var(--end) 18%, transparent); color: var(--ink); border-radius: 6px 6px 0 0;
+}
+.blank:disabled { opacity: 1; -webkit-text-fill-color: currentColor; }
+.blank.ok { border-color: var(--good); } .blank.no { border-color: var(--bad); }
+.umlauts { display: flex; gap: 6px; }
+.umlauts button { border: 1.5px solid var(--line); background: var(--bg); border-radius: 8px; width: 40px; height: 36px; font-family: var(--mono); font-size: 1.05rem; }
+.row { display: flex; gap: 10px; flex-wrap: wrap; align-items: center; }
+
+/* options */
+.opts { display: grid; grid-template-columns: repeat(2, minmax(0, 1fr)); gap: 10px; }
+.opts.three { grid-template-columns: 1fr; }
+.opt {
+  border: 1.5px solid var(--line); background: var(--bg); border-radius: 10px; padding: 12px 14px; text-align: left;
+  font-family: var(--mono); font-size: 1.1rem; font-weight: 500; min-width: 0; overflow-wrap: anywhere;
+}
+.opts.three .opt { font-family: var(--body); font-size: 1.05rem; }
+.opt:hover:not(:disabled) { border-color: var(--ink); }
+.opt.ok { background: var(--good-bg); border-color: var(--good); }
+.opt.no { background: var(--bad-bg); border-color: var(--bad); }
+.opt:disabled { cursor: default; }
+.opt:disabled:not(.ok):not(.no) { opacity: .55; }
+
+/* actions + feedback */
+.btn { border: 0; background: var(--ink); color: var(--bg); border-radius: 10px; padding: 11px 20px; font-weight: 600; }
+.btn.ghost { background: transparent; color: var(--ink); border: 1.5px solid var(--line); }
+.btn:disabled { opacity: .4; cursor: default; }
+.fb { border-radius: 10px; padding: 14px 16px; display: flex; flex-direction: column; gap: 10px; }
+.fb.ok { background: var(--good-bg); } .fb.no { background: var(--bad-bg); }
+.fb strong { font-family: var(--display); font-size: 1.15rem; }
+.fb.ok strong { color: var(--good); } .fb.no strong { color: var(--bad); }
+.fb p { margin: 0; }
+
+/* cheat sheet */
+details { background: var(--surface); border: 1.5px solid var(--line); border-radius: 14px; padding: 0 18px; }
+summary { cursor: pointer; padding: 14px 0; font-weight: 600; }
+.sheet { display: grid; grid-template-columns: repeat(3, minmax(0, 1fr)); gap: 8px; padding-bottom: 16px; }
+.sheet div { border: 1.5px solid var(--line); border-radius: 10px; padding: 8px 10px; font-size: 0.9rem; display: flex; flex-direction: column; gap: 2px; }
+.sheet b { font-family: var(--mono); color: var(--muted); font-weight: 500; }
+.sheet i { font-family: var(--mono); font-style: normal; font-weight: 600; font-size: 1.1rem; }
+.sheet .amber { color: var(--end-ink); background: var(--end); border-color: var(--end); border-radius: 6px; padding: 0 6px; align-self: flex-start; }
+.extra { padding-bottom: 16px; color: var(--muted); font-size: 0.92rem; margin: 0; }
+
+/* result */
+.score { font-family: var(--display); font-size: clamp(3rem, 14vw, 5rem); font-weight: 700; line-height: 1; font-variant-numeric: tabular-nums; }
+.score small { font-size: 0.4em; color: var(--muted); font-weight: 500; }
+.missed { display: flex; flex-direction: column; gap: 8px; margin: 0; padding: 0; list-style: none; }
+.missed li { border: 1.5px solid var(--line); border-radius: 10px; padding: 10px 12px; display: flex; flex-wrap: wrap; gap: 4px 12px; align-items: baseline; }
+.missed .ans { font-family: var(--mono); font-weight: 600; }
+.missed .you { color: var(--bad); font-family: var(--mono); text-decoration: line-through; }
+@media (max-width: 420px) { .card { padding: 16px; } .sheet { grid-template-columns: repeat(2, minmax(0, 1fr)); } }
+@media (prefers-reduced-motion: reduce) { .t-end.pop { animation: none; } }
+</style>
+
+<div class="wrap">
+  <header>
+    <h1>Verben Quiz</h1>
+    <p class="sub">Regular verbs in the present tense. Stem plus ending, one round of ten.</p>
+  </header>
+
+  <div class="modes" id="modes" role="group" aria-label="Question type"></div>
+
+  <div class="bar">
+    <div class="dots" id="dots" aria-hidden="true"></div>
+    <div class="streak" id="streak">Streak 0</div>
+  </div>
+
+  <main id="stage"></main>
+
+  <details>
+    <summary>Peek at the endings</summary>
+    <div class="sheet">
+      <div><b>ich</b><i>-<span class="amber">e</span></i></div>
+      <div><b>du</b><i>-<span class="amber">st</span></i></div>
+      <div><b>er / sie / es</b><i>-<span class="amber">t</span></i></div>
+      <div><b>wir</b><i>-<span class="amber">en</span></i></div>
+      <div><b>ihr</b><i>-<span class="amber">t</span></i></div>
+      <div><b>sie / Sie</b><i>-<span class="amber">en</span></i></div>
+    </div>
+    <p class="extra">Stem ends in -t or -d: du, er/sie/es and ihr get an extra -e- (du arbeitest). Stem ends in -s, -ß or -z: du gets just -t (du heißt).</p>
+  </details>
+</div>
+
+<script>
+(function () {
+  "use strict";
+
+  /* ---------- verb logic ---------- */
+  var VERBS = ["machen","wohnen","lernen","spielen","hören","sagen","fragen","arbeiten","kaufen","kochen",
+    "trinken","kommen","gehen","brauchen","suchen","studieren","finden","heißen","tanzen"];
+  var PRONS = [
+    { label: "ich", g: "ich" }, { label: "du", g: "du" }, { label: "er", g: "er" },
+    { label: "sie (she)", g: "er" }, { label: "es", g: "er" }, { label: "wir", g: "wir" },
+    { label: "ihr", g: "ihr" }, { label: "sie (they)", g: "pl" }, { label: "Sie (formal)", g: "pl" }
+  ];
+  function stemOf(v) { return v.slice(0, -2); }
+  function conj(v, g) {
+    var s = stemOf(v), last = s.slice(-1), td = last === "t" || last === "d", sz = last === "s" || last === "ß" || last === "z";
+    if (g === "ich") return s + "e";
+    if (g === "du") return td ? s + "est" : sz ? s + "t" : s + "st";
+    if (g === "er" || g === "ihr") return td ? s + "et" : s + "t";
+    return v;
+  }
+  function rule(v, g) {
+    var s = stemOf(v), last = s.slice(-1), td = last === "t" || last === "d", sz = last === "s" || last === "ß" || last === "z";
+    if (g === "ich") return "ich always takes -e.";
+    if (g === "du") return td ? "The stem ends in -" + last + ", so du gets -est (extra -e-)." : sz ? "The stem ends in -" + last + ", so du gets just -t." : "du takes -st.";
+    if (g === "er") return td ? "The stem ends in -" + last + ", so er/sie/es gets -et (extra -e-)." : "er/sie/es takes -t.";
+    if (g === "ihr") return td ? "The stem ends in -" + last + ", so ihr gets -et (extra -e-)." : "ihr takes -t.";
+    if (g === "wir") return "wir looks exactly like the dictionary form.";
+    return "sie (they) and Sie look exactly like the dictionary form.";
+  }
+  function rnd(n) { return Math.floor(Math.random() * n); }
+  function shuffle(a) { a = a.slice(); for (var i = a.length - 1; i > 0; i--) { var j = rnd(i + 1), t = a[i]; a[i] = a[j]; a[j] = t; } return a; }
+  function pick(a) { return a[rnd(a.length)]; }
+  function norm(s) { return s.trim().toLowerCase().replace(/ß/g, "ss"); }
+  function esc(s) { return String(s).replace(/&/g, "&amp;").replace(/</g, "&lt;"); }
+
+  /* ---------- question banks ---------- */
+  // fill: [before, after, verb, answer, group, extra hint]
+  var FILL = [
+    ["Ich ", " in Hamburg.", "wohnen", "wohne", "ich"],
+    ["Du ", " sehr gut.", "kochen", "kochst", "du"],
+    ["Maria ", " Deutsch.", "lernen", "lernt", "er"],
+    ["Wir ", " Kaffee.", "trinken", "trinken", "wir"],
+    ["Ihr ", " Fußball.", "spielen", "spielt", "ihr"],
+    ["Du ", " viel.", "arbeiten", "arbeitest", "du"],
+    ["Wie ", " du?", "heißen", "heißt", "du"],
+    ["Peter und Anna ", " aus Spanien.", "kommen", "kommen", "pl"],
+    ["Ich ", " Brot.", "kaufen", "kaufe", "ich"],
+    ["Er ", " eine Wohnung.", "suchen", "sucht", "er"],
+    ["Du ", " das gut.", "finden", "findest", "du"],
+    ["Ihr ", " heute.", "arbeiten", "arbeitet", "ihr"],
+    ["Wo ", " Sie?", "wohnen", "wohnen", "pl"],
+    ["Er ", " gern.", "tanzen", "tanzt", "er"],
+    ["Wir ", " zusammen.", "lernen", "lernen", "wir"],
+    ["Ich ", " in Tokio.", "studieren", "studiere", "ich"],
+    ["Du ", " Hilfe.", "brauchen", "brauchst", "du"],
+    ["Sie ", " die Hausaufgaben.", "machen", "macht", "er", "sie = she"],
+    ["Ich ", " in Berlin.", "arbeiten", "arbeite", "ich"],
+    ["Er ", " den Schlüssel.", "finden", "findet", "er"],
+    ["Du ", " gut.", "tanzen", "tanzt", "du"],
+    ["Ihr ", " aus Indonesien.", "kommen", "kommt", "ihr"],
+    ["Ich ", " Lena.", "heißen", "heiße", "ich"],
+    ["Wir ", " nach Hause.", "gehen", "gehen", "wir"],
+    ["Du ", " Musik.", "hören", "hörst", "du"],
+    ["Was ", " du?", "sagen", "sagst", "du"],
+    ["Ich ", " den Lehrer.", "fragen", "frage", "ich"]
+  ];
+  // spot: [right, wrong1, wrong2, why]
+  var SPOT = [
+    ["Ich wohne in Köln.", "Ich wohnen in Köln.", "Ich wohnt in Köln.", "ich always takes -e, not the dictionary form."],
+    ["Er lernt Deutsch.", "Er lern Deutsch.", "Er lernst Deutsch.", "er/sie/es needs the -t. The -st belongs to du."],
+    ["Du kochst gut.", "Du kocht gut.", "Du kochen gut.", "du needs -st, not just -t."],
+    ["Du arbeitest viel.", "Du arbeitst viel.", "Du arbeite viel.", "The stem ends in -t, so an extra -e- keeps it pronounceable."],
+    ["Du heißt Max.", "Du heißst Max.", "Du heiße Max.", "The stem ends in -ß, so du gets just -t."],
+    ["Ihr findet das gut.", "Ihr findt das gut.", "Ihr findest das gut.", "The stem ends in -d, so ihr gets -et. The -est belongs to du."],
+    ["Wir trinken Tee.", "Wir trinkt Tee.", "Wir trinke Tee.", "wir looks exactly like the dictionary form."],
+    ["Er tanzt gern.", "Er tanzst gern.", "Er tanze gern.", "The stem ends in -z, and er/sie/es only ever takes -t."]
+  ];
+
+  function qFill(r) {
+    return { kind: "fill", before: r[0], after: r[1], verb: r[2], answer: r[3], g: r[4], note: r[5] || "" };
+  }
+  function qPick() {
+    var v = pick(VERBS), p = pick(PRONS), ans = conj(v, p.g), all = {};
+    ["ich", "du", "er", "wir", "ihr", "pl"].forEach(function (g) { all[conj(v, g)] = 1; });
+    delete all[ans];
+    var wrong = shuffle(Object.keys(all)).slice(0, 3);
+    return { kind: "pick", verb: v, who: p.label, g: p.g, answer: ans, options: shuffle(wrong.concat(ans)) };
+  }
+  function qEnd() {
+    var v = pick(VERBS), p = pick(PRONS), ans = conj(v, p.g);
+    return { kind: "end", verb: v, who: p.label, g: p.g, answer: ans, ending: ans.slice(stemOf(v).length) };
+  }
+  function qSpot(r) {
+    return { kind: "spot", answer: r[0], options: shuffle([r[0], r[1], r[2]]), why: r[3] };
+  }
+  function uniq(make, n) {
+    var out = [], seen = {}, tries = 0;
+    while (out.length < n && tries++ < 200) { var q = make(), k = q.verb + q.who; if (!seen[k]) { seen[k] = 1; out.push(q); } }
+    return out;
+  }
+  function build(mode) {
+    var f = function (n) { return shuffle(FILL).slice(0, n).map(qFill); };
+    var s = function (n) { return shuffle(SPOT).slice(0, n).map(qSpot); };
+    var qs;
+    if (mode === "fill") qs = f(10);
+    else if (mode === "pick") qs = uniq(qPick, 10);
+    else if (mode === "end") qs = uniq(qEnd, 10);
+    else if (mode === "spot") qs = s(8);
+    else qs = shuffle([].concat(f(3), uniq(qPick, 3), uniq(qEnd, 2), s(2)));
+    return qs;
+  }
+
+  /* ---------- state ---------- */
+  var MODES = [["mix", "Mixed"], ["fill", "Type it"], ["pick", "Pick the form"], ["end", "Pick the ending"], ["spot", "Spot the error"]];
+  var st = { mode: "mix", qs: [], i: 0, res: [], answered: false, streak: 0, best: 0 };
+  var $stage = document.getElementById("stage"), $dots = document.getElementById("dots"),
+      $streak = document.getElementById("streak"), $modes = document.getElementById("modes");
+
+  function start(mode, qs) {
+    st.mode = mode; st.qs = qs || build(mode); st.i = 0; st.res = []; st.answered = false; st.streak = 0;
+    drawModes(); render();
+  }
+  function drawModes() {
+    $modes.innerHTML = "";
+    MODES.forEach(function (m) {
+      var b = document.createElement("button");
+      b.type = "button"; b.className = "mode"; b.textContent = m[1];
+      b.setAttribute("aria-pressed", String(st.mode === m[0]));
+      b.onclick = function () { start(m[0]); };
+      $modes.appendChild(b);
+    });
+  }
+  function drawBar() {
+    $dots.innerHTML = "";
+    st.qs.forEach(function (_, i) {
+      var d = document.createElement("span");
+      d.className = "dot" + (i < st.res.length ? (st.res[i].ok ? " ok" : " no") : i === st.i ? " now" : "");
+      $dots.appendChild(d);
+    });
+    $streak.textContent = "Streak " + st.streak;
+  }
+
+  function tiles(verb, ending, state) {
+    var cls = "tile t-end" + (state === "slot" ? " slot" : state === "pop" ? " pop" : "");
+    return '<span class="tiles"><span class="tile t-stem">' + esc(stemOf(verb)) + '</span><span class="' + cls + '">' + (state === "slot" ? "?" : esc(ending)) + "</span></span>";
+  }
+
+  /* ---------- render ---------- */
+  function render() {
+    drawBar();
+    if (st.i >= st.qs.length) return renderResult();
+    var q = st.qs[st.i];
+    st.answered = false;
+    var head = '<p class="kind">Question ' + (st.i + 1) + " of " + st.qs.length + "</p>";
+    var body = "";
+    if (q.kind === "fill") {
+      body = head + '<div class="sentence"><span>' + esc(q.before.trim()) + '</span><input id="ans" class="blank" type="text" autocomplete="off" autocapitalize="off" spellcheck="false" aria-label="Your answer"><span>' + esc(q.after.trim()) + "</span></div>" +
+        '<div class="tiles-row"><span class="inf">' + esc(q.verb) + "</span>" + (q.note ? '<span class="hint">(' + esc(q.note) + ")</span>" : "") + "</div>" +
+        '<div class="row"><div class="umlauts"><button type="button" data-c="ä">ä</button><button type="button" data-c="ö">ö</button><button type="button" data-c="ü">ü</button><button type="button" data-c="ß">ß</button></div><button type="button" class="btn" id="check">Check</button></div>';
+    } else if (q.kind === "pick") {
+      body = head + '<p class="prompt">Which form fits?</p><div class="tiles-row"><span class="who">' + esc(q.who) + '</span><span class="inf">+ ' + esc(q.verb) + "</span></div>" +
+        '<div class="opts">' + q.options.map(function (o, k) { return '<button type="button" class="opt" data-k="' + k + '">' + esc(o) + "</button>"; }).join("") + "</div>";
+    } else if (q.kind === "end") {
+      var ends = ["-e", "-st", "-t", "-en", "-est", "-et"];
+      body = head + '<p class="prompt">Which ending goes on the stem?</p><div class="tiles-row"><span class="who">' + esc(q.who) + "</span>" + '<span id="tiles">' + tiles(q.verb, "", "slot") + "</span></div>" +
+        '<div class="opts">' + ends.map(function (e) { return '<button type="button" class="opt" data-e="' + e.slice(1) + '">' + e + "</button>"; }).join("") + "</div>";
+    } else {
+      body = head + '<p class="prompt">One sentence is correct. Tap it.</p><div class="opts three">' +
+        q.options.map(function (o, k) { return '<button type="button" class="opt" data-k="' + k + '">' + esc(o) + "</button>"; }).join("") + "</div>";
+    }
+    $stage.innerHTML = '<div class="card" id="card">' + body + '<div id="fb" aria-live="polite"></div></div>';
+    wire(q);
+  }
+
+  function wire(q) {
+    var card = document.getElementById("card");
+    if (q.kind === "fill") {
+      var inp = document.getElementById("ans");
+      inp.focus({ preventScroll: true });
+      inp.addEventListener("keydown", function (e) { if (e.key === "Enter") submitFill(q); });
+      document.getElementById("check").onclick = function () { submitFill(q); };
+      card.querySelectorAll(".umlauts button").forEach(function (b) {
+        b.addEventListener("mousedown", function (e) { e.preventDefault(); });
+        b.onclick = function () {
+          var s = inp.selectionStart || inp.value.length, e2 = inp.selectionEnd || s;
+          inp.value = inp.value.slice(0, s) + b.dataset.c + inp.value.slice(e2);
+          inp.focus(); inp.setSelectionRange(s + 1, s + 1);
+        };
+      });
+    } else {
+      card.querySelectorAll(".opt").forEach(function (b) {
+        b.onclick = function () {
+          if (st.answered) return;
+          if (q.kind === "end") finish(q, b.dataset.e === q.ending, "-" + b.dataset.e, b);
+          else finish(q, q.options[+b.dataset.k] === q.answer, q.options[+b.dataset.k], b);
+        };
+      });
+    }
+  }
+
+  function submitFill(q) {
+    if (st.answered) return;
+    var inp = document.getElementById("ans"), val = inp.value;
+    if (!val.trim()) { inp.focus(); return; }
+    finish(q, norm(val) === norm(q.answer), val.trim(), inp);
+  }
+
+  function finish(q, ok, given, el) {
+    st.answered = true;
+    st.res.push({ ok: ok, q: q, given: given });
+    st.streak = ok ? st.streak + 1 : 0;
+    if (st.streak > st.best) st.best = st.streak;
+    var card = document.getElementById("card"), fb = document.getElementById("fb"), msg = "";
+
+    if (q.kind === "fill") {
+      el.disabled = true; el.classList.add(ok ? "ok" : "no");
+      card.querySelector(".umlauts").hidden = true;
+      var ck = document.getElementById("check"); if (ck) ck.hidden = true;
+    } else {
+      card.querySelectorAll(".opt").forEach(function (b) {
+        b.disabled = true;
+        var right = q.kind === "end" ? b.dataset.e === q.ending : q.options[+b.dataset.k] === q.answer;
+        if (right) b.classList.add("ok"); else if (b === el) b.classList.add("no");
+      });
+    }
+
+    if (q.kind === "spot") {
+      msg = "<p>" + esc(q.why) + "</p>";
+    } else {
+      var ending = q.answer.slice(stemOf(q.verb).length);
+      msg = '<div class="tiles-row"><span class="who">' + esc(q.who || "") + "</span>" + tiles(q.verb, ending, "pop") + '<span class="inf">= ' + esc(q.answer) + "</span></div><p>" + esc(rule(q.verb, q.g)) + "</p>";
+      if (q.kind === "end") document.getElementById("tiles").innerHTML = tiles(q.verb, ending, "pop");
+    }
+    var head = ok ? "Richtig." : (q.kind === "spot" ? "Not quite." : "Not quite. Answer: " + q.answer);
+    fb.innerHTML = '<div class="fb ' + (ok ? "ok" : "no") + '"><strong>' + esc(head) + "</strong>" + msg +
+      '<div><button type="button" class="btn" id="next">' + (st.i + 1 >= st.qs.length ? "See result" : "Next") + "</button></div></div>";
+    var nx = document.getElementById("next");
+    nx.onclick = function () { st.i++; render(); window.scrollTo({ top: 0 }); };
+    nx.focus({ preventScroll: true });
+    drawBar();
+  }
+
+  function renderResult() {
+    drawBar();
+    var right = st.res.filter(function (r) { return r.ok; }).length, total = st.res.length;
+    var wrong = st.res.filter(function (r) { return !r.ok; });
+    var line = right === total ? "Perfekt. Try a harder mix or another type." :
+      right >= total * 0.7 ? "Solid. Replay the misses to lock them in." : "Keep the chant in your head: e, st, t, en, t, en.";
+    var list = wrong.length ? '<ul class="missed">' + wrong.map(function (r) {
+      var q = r.q, label = q.kind === "spot" ? "" : (q.kind === "fill" ? esc((q.before + "___" + q.after).trim()) : esc((q.who || "") + " + " + q.verb));
+      return '<li><span>' + label + '</span><span class="you">' + esc(q.kind === "end" ? stemOf(q.verb) + r.given.slice(1) : r.given) + '</span><span class="ans">' + esc(q.answer) + "</span></li>";
+    }).join("") + "</ul>" : "";
+    $stage.innerHTML = '<div class="card"><p class="kind">Round complete</p><div class="score">' + right + "<small> / " + total + "</small></div><p class=\"prompt\">" + line + "</p>" +
+      '<p class="hint">Best streak ' + st.best + "</p>" + list +
+      '<div class="row"><button type="button" class="btn" id="again">New round</button>' +
+      (wrong.length ? '<button type="button" class="btn ghost" id="redo">Replay misses</button>' : "") + "</div></div>";
+    document.getElementById("again").onclick = function () { start(st.mode); };
+    var rd = document.getElementById("redo");
+    if (rd) rd.onclick = function () { start(st.mode, shuffle(wrong.map(function (r) { return r.q; }))); };
+  }
+
+  start("mix");
+})();
+</script>
+
+</body></html>

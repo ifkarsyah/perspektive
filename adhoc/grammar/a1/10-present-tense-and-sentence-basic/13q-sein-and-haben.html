@@ -1,0 +1,437 @@
+<!doctype html><html><head><meta charset=utf8><meta name=viewport content="width=device-width,initial-scale=1,viewport-fit=cover"><style>:root{color-scheme:light;box-sizing:border-box;padding-top:env(safe-area-inset-top,0px);padding-bottom:env(safe-area-inset-bottom,0px)}html{scroll-padding-top:env(safe-area-inset-top,0px)}body{margin:0;padding:0;font:14px -apple-system,BlinkMacSystemFont,sans-serif;background:#fff;color:#000}img{max-width:100%}[hidden]:not([hidden=until-found i]){display:none!important}</style></head><body>
+<title>Sein und Haben Quiz</title>
+<meta name="claude:viewport-fit-sides" content="cover">
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Bricolage+Grotesque:opsz,wght@12..96,500;12..96,700&family=IBM+Plex+Sans:wght@400;500;600&family=IBM+Plex+Mono:wght@500;600&display=swap">
+<style>
+/* Layout: one narrow column. sein is always the dark blue tile, haben always the amber tile, so each answer is tied to a color. */
+:root {
+  --bg: #EEF1EF;
+  --surface: #FBFCFB;
+  --ink: #15202A;
+  --muted: #55626D;
+  --line: #D3DAD6;
+  --sein: #20405F;
+  --sein-ink: #FFFFFF;
+  --haben: #F4B63F;
+  --haben-ink: #2A1D00;
+  --good: #19704A;
+  --good-bg: #DDF1E5;
+  --bad: #B3382C;
+  --bad-bg: #F8E0DC;
+  --focus: #2F6FB3;
+  --display: "Bricolage Grotesque", "Helvetica Neue", Arial, sans-serif;
+  --body: "IBM Plex Sans", system-ui, -apple-system, "Segoe UI", sans-serif;
+  --mono: "IBM Plex Mono", ui-monospace, "SF Mono", Menlo, monospace;
+}
+@media (prefers-color-scheme: dark) {
+  :root:not([data-theme="light"]) {
+    --bg: #11171C; --surface: #1A232A; --ink: #E8EEF2; --muted: #93A1AC; --line: #2C3841;
+    --sein: #7FA9D6; --sein-ink: #0E1A26; --haben: #F4B63F; --haben-ink: #2A1D00;
+    --good: #5FCB93; --good-bg: #17332A; --bad: #F08A7E; --bad-bg: #3A1E1B; --focus: #7FB2E8;
+    color-scheme: dark;
+  }
+}
+:root[data-theme="dark"] {
+  --bg: #11171C; --surface: #1A232A; --ink: #E8EEF2; --muted: #93A1AC; --line: #2C3841;
+  --sein: #7FA9D6; --sein-ink: #0E1A26; --haben: #F4B63F; --haben-ink: #2A1D00;
+  --good: #5FCB93; --good-bg: #17332A; --bad: #F08A7E; --bad-bg: #3A1E1B; --focus: #7FB2E8;
+  color-scheme: dark;
+}
+* { box-sizing: border-box; }
+body {
+  background: var(--bg); color: var(--ink); font-family: var(--body); font-size: 16px; line-height: 1.5;
+  padding-block: 24px 48px;
+  padding-left: max(16px, env(safe-area-inset-left, 0px));
+  padding-right: max(16px, env(safe-area-inset-right, 0px));
+}
+.wrap { max-width: 640px; margin: 0 auto; display: flex; flex-direction: column; gap: 20px; }
+h1 { font-family: var(--display); margin: 0; text-wrap: balance; line-height: 1.1; font-size: clamp(2rem, 7vw, 2.75rem); font-weight: 700; letter-spacing: -0.02em; }
+.sub { margin: 6px 0 0; color: var(--muted); }
+button { font: inherit; color: inherit; cursor: pointer; }
+:focus-visible { outline: 3px solid var(--focus); outline-offset: 2px; }
+
+.modes { display: flex; flex-wrap: wrap; gap: 8px; }
+.mode { border: 1.5px solid var(--line); background: var(--surface); border-radius: 999px; padding: 7px 14px; font-size: 0.9rem; font-weight: 500; }
+.mode[aria-pressed="true"] { background: var(--ink); color: var(--bg); border-color: var(--ink); }
+
+.bar { display: flex; align-items: center; gap: 12px; }
+.dots { display: flex; gap: 6px; flex: 1; min-width: 0; }
+.dot { height: 8px; flex: 1; border-radius: 4px; background: var(--line); }
+.dot.now { background: var(--muted); } .dot.ok { background: var(--good); } .dot.no { background: var(--bad); }
+.streak { font-family: var(--mono); font-size: 0.85rem; color: var(--muted); white-space: nowrap; font-variant-numeric: tabular-nums; }
+
+.card { background: var(--surface); border: 1.5px solid var(--line); border-radius: 14px; padding: 22px; display: flex; flex-direction: column; gap: 18px; }
+.kind { font-size: 0.75rem; letter-spacing: 0.08em; text-transform: uppercase; color: var(--muted); font-weight: 600; margin: 0; }
+.prompt { font-family: var(--display); font-size: clamp(1.4rem, 5.2vw, 1.9rem); line-height: 1.3; margin: 0; }
+.hint { color: var(--muted); font-size: 0.95rem; margin: 0; }
+
+.chip { font-family: var(--mono); font-weight: 600; font-size: 1.15rem; padding: 6px 12px; border-radius: 8px; display: inline-block; }
+.chip.sein { background: var(--sein); color: var(--sein-ink); }
+.chip.haben { background: var(--haben); color: var(--haben-ink); }
+.tiles-row { display: flex; align-items: center; gap: 12px; flex-wrap: wrap; }
+.who { font-family: var(--mono); font-weight: 600; font-size: 1.1rem; }
+.inf { font-family: var(--mono); font-size: 0.9rem; color: var(--muted); }
+
+.sentence { display: flex; flex-wrap: wrap; align-items: center; gap: 6px 8px; font-size: clamp(1.15rem, 4.4vw, 1.5rem); }
+.gap { font-family: var(--mono); color: var(--muted); border-bottom: 3px dashed var(--line); min-width: 4ch; text-align: center; }
+.blank {
+  font: inherit; font-family: var(--mono); width: 9ch; padding: 4px 8px; border: 0; border-bottom: 3px solid var(--ink);
+  background: color-mix(in srgb, var(--haben) 18%, transparent); color: var(--ink); border-radius: 6px 6px 0 0;
+}
+.blank:disabled { opacity: 1; -webkit-text-fill-color: currentColor; }
+.blank.ok { border-color: var(--good); } .blank.no { border-color: var(--bad); }
+.umlauts { display: flex; gap: 6px; }
+.umlauts button { border: 1.5px solid var(--line); background: var(--bg); border-radius: 8px; width: 40px; height: 36px; font-family: var(--mono); font-size: 1.05rem; }
+.row { display: flex; gap: 10px; flex-wrap: wrap; align-items: center; }
+
+.opts { display: grid; grid-template-columns: repeat(2, minmax(0, 1fr)); gap: 10px; }
+.opts.one { grid-template-columns: 1fr; }
+.opt { border: 1.5px solid var(--line); background: var(--bg); border-radius: 10px; padding: 12px 14px; text-align: left; font-family: var(--mono); font-size: 1.1rem; font-weight: 500; min-width: 0; overflow-wrap: anywhere; }
+.opts.one .opt { font-family: var(--body); font-size: 1.05rem; }
+.opts.big .opt { text-align: center; font-size: 1.4rem; font-weight: 600; padding: 18px 14px; }
+.opts.big .opt[data-k="0"] { border-color: var(--sein); } .opts.big .opt[data-k="1"] { border-color: var(--haben); }
+.opt:hover:not(:disabled) { border-color: var(--ink); }
+.opt.ok { background: var(--good-bg); border-color: var(--good) !important; }
+.opt.no { background: var(--bad-bg); border-color: var(--bad) !important; }
+.opt:disabled { cursor: default; }
+.opt:disabled:not(.ok):not(.no) { opacity: .55; }
+
+.btn { border: 0; background: var(--ink); color: var(--bg); border-radius: 10px; padding: 11px 20px; font-weight: 600; }
+.btn.ghost { background: transparent; color: var(--ink); border: 1.5px solid var(--line); }
+.fb { border-radius: 10px; padding: 14px 16px; display: flex; flex-direction: column; gap: 12px; }
+.fb.ok { background: var(--good-bg); } .fb.no { background: var(--bad-bg); }
+.fb strong { font-family: var(--display); font-size: 1.15rem; }
+.fb.ok strong { color: var(--good); } .fb.no strong { color: var(--bad); }
+.fb p { margin: 0; }
+.full { font-size: 1.1rem; font-weight: 500; }
+
+/* conjugation grid */
+.grid6 { display: grid; grid-template-columns: repeat(6, minmax(0, 1fr)); gap: 6px; }
+.cell { border: 1.5px solid var(--line); background: var(--surface); border-radius: 8px; padding: 6px 4px; text-align: center; display: flex; flex-direction: column; min-width: 0; }
+.cell b { font-family: var(--mono); font-weight: 500; font-size: 0.7rem; color: var(--muted); }
+.cell i { font-family: var(--mono); font-style: normal; font-weight: 600; font-size: 0.95rem; overflow-wrap: anywhere; }
+.cell.hi.sein { background: var(--sein); border-color: var(--sein); } .cell.hi.sein b, .cell.hi.sein i { color: var(--sein-ink); }
+.cell.hi.haben { background: var(--haben); border-color: var(--haben); } .cell.hi.haben b, .cell.hi.haben i { color: var(--haben-ink); }
+
+details { background: var(--surface); border: 1.5px solid var(--line); border-radius: 14px; padding: 0 18px; }
+summary { cursor: pointer; padding: 14px 0; font-weight: 600; }
+.peek { display: flex; flex-direction: column; gap: 10px; padding-bottom: 16px; }
+.peek .tiles-row { align-items: flex-start; }
+.extra { padding-bottom: 16px; color: var(--muted); font-size: 0.92rem; margin: 0; }
+
+.score { font-family: var(--display); font-size: clamp(3rem, 14vw, 5rem); font-weight: 700; line-height: 1; font-variant-numeric: tabular-nums; }
+.score small { font-size: 0.4em; color: var(--muted); font-weight: 500; }
+.missed { display: flex; flex-direction: column; gap: 8px; margin: 0; padding: 0; list-style: none; }
+.missed li { border: 1.5px solid var(--line); border-radius: 10px; padding: 10px 12px; display: flex; flex-wrap: wrap; gap: 4px 12px; align-items: baseline; }
+.missed .ans { font-family: var(--mono); font-weight: 600; }
+.missed .you { color: var(--bad); font-family: var(--mono); text-decoration: line-through; }
+@media (max-width: 480px) { .grid6 { grid-template-columns: repeat(3, minmax(0, 1fr)); } }
+@media (max-width: 420px) { .card { padding: 16px; } }
+</style>
+
+<div class="wrap">
+  <header>
+    <h1>Sein und Haben Quiz</h1>
+    <p class="sub">The two verbs that break the pattern. Forms, when to use which, and the classic traps.</p>
+  </header>
+
+  <div class="modes" id="modes" role="group" aria-label="Question type"></div>
+
+  <div class="bar">
+    <div class="dots" id="dots" aria-hidden="true"></div>
+    <div class="streak" id="streak">Streak 0</div>
+  </div>
+
+  <main id="stage"></main>
+
+  <details>
+    <summary>Peek at the forms</summary>
+    <div class="peek" id="peek"></div>
+    <p class="extra">ihr seid (you all are) is not seit (since). In haben, the -b- drops out of du hast and er hat.</p>
+  </details>
+</div>
+
+<script>
+(function () {
+  "use strict";
+
+  var GROUPS = ["ich", "du", "er", "wir", "ihr", "pl"];
+  var GLABEL = ["ich", "du", "er/sie/es", "wir", "ihr", "sie/Sie"];
+  var PAR = {
+    sein:  { ich: "bin",  du: "bist", er: "ist", wir: "sind",  ihr: "seid", pl: "sind" },
+    haben: { ich: "habe", du: "hast", er: "hat", wir: "haben", ihr: "habt", pl: "haben" }
+  };
+  var PRONS = [
+    { label: "ich", g: "ich" }, { label: "du", g: "du" }, { label: "er", g: "er" },
+    { label: "sie (she)", g: "er" }, { label: "es", g: "er" }, { label: "wir", g: "wir" },
+    { label: "ihr", g: "ihr" }, { label: "sie (they)", g: "pl" }, { label: "Sie (formal)", g: "pl" }
+  ];
+
+  function rnd(n) { return Math.floor(Math.random() * n); }
+  function shuffle(a) { a = a.slice(); for (var i = a.length - 1; i > 0; i--) { var j = rnd(i + 1), t = a[i]; a[i] = a[j]; a[j] = t; } return a; }
+  function pick(a) { return a[rnd(a.length)]; }
+  function norm(s) { return s.trim().toLowerCase(); }
+  function esc(s) { return String(s).replace(/&/g, "&amp;").replace(/</g, "&lt;"); }
+  function cap(s) { return s.charAt(0).toUpperCase() + s.slice(1); }
+
+  function why(v, g) {
+    if (v === "sein") return "sein is irregular, so it has to be memorized: bin, bist, ist, sind, seid, sind." + (g === "ihr" ? " Not seit, which means since." : "");
+    if (g === "du" || g === "er") return "In du hast and er hat the -b- disappears.";
+    return "haben is almost regular. Only du and er/sie/es lose the -b-.";
+  }
+  function grid(v, g) {
+    return '<div class="grid6">' + GROUPS.map(function (k, i) {
+      return '<div class="cell ' + v + (k === g ? " hi" : "") + '"><b>' + GLABEL[i] + "</b><i>" + PAR[v][k] + "</i></div>";
+    }).join("") + "</div>";
+  }
+
+  /* peek sheet */
+  document.getElementById("peek").innerHTML =
+    ["sein", "haben"].map(function (v) {
+      return '<div class="tiles-row"><span class="chip ' + v + '">' + v + "</span></div>" + grid(v, "");
+    }).join("");
+
+  /* ---------- question banks ---------- */
+  // fill: [before, after, verb, group, note, extra why]
+  var FILL = [
+    ["Ich ", " Student.", "sein", "ich"],
+    ["", " du Zeit?", "haben", "du"],
+    ["Mein Bruder ", " 20 Jahre alt.", "sein", "er", "", "Age uses sein, not haben."],
+    ["Wir ", " Hunger.", "haben", "wir", "", "Hunger is a noun, so it goes with haben."],
+    ["", " ihr aus Deutschland?", "sein", "ihr"],
+    ["Sie ", " eine Katze.", "haben", "er", "sie = she"],
+    ["Sie ", " sehr nett.", "sein", "pl", "sie = they"],
+    ["Ich ", " Durst.", "haben", "ich", "", "Durst is a noun, so it goes with haben."],
+    ["Du ", " müde.", "sein", "du"],
+    ["Er ", " aus Indien.", "sein", "er"],
+    ["", " du Kinder?", "haben", "du"],
+    ["Wir ", " eine Wohnung.", "haben", "wir"],
+    ["Ihr ", " in Berlin.", "sein", "ihr"],
+    ["Ich ", " Angst.", "haben", "ich", "", "Angst is a noun, so it goes with haben."],
+    ["Das Haus ", " groß.", "sein", "er"],
+    ["Ihr ", " Zeit.", "haben", "ihr"],
+    ["Du ", " ein Auto.", "haben", "du"],
+    ["Wir ", " müde.", "sein", "wir"],
+    ["Sie ", " Ärztin.", "sein", "er", "sie = she"],
+    ["Ich ", " 30 Jahre alt.", "sein", "ich", "", "Age uses sein, not haben."],
+    ["", " Sie Hunger?", "haben", "pl", "Sie = formal"],
+    ["Wie alt ", " du?", "sein", "du"],
+    ["Ihr ", " müde.", "sein", "ihr"]
+  ];
+  // choose: [before, after, verb, group, why]
+  var CHOOSE = [
+    ["Ich ", " Hunger.", "haben", "ich", "Hunger is something you have in German."],
+    ["Ich ", " 30 Jahre alt.", "sein", "ich", "Age uses sein."],
+    ["Sie ", " Ärztin.", "sein", "er", "A job says what someone is, so sein."],
+    ["Wir ", " ein Auto.", "haben", "wir", "Owning something is haben."],
+    ["Er ", " aus Indien.", "sein", "er", "Origin uses sein."],
+    ["Ich ", " Durst.", "haben", "ich", "Durst is a noun, so haben."],
+    ["Wir ", " müde.", "sein", "wir", "Feelings and states with an adjective use sein."],
+    ["Du ", " Angst.", "haben", "du", "Angst is a noun, so haben."],
+    ["Das Haus ", " groß.", "sein", "er", "A description uses sein."],
+    ["Ihr ", " Zeit.", "haben", "ihr", "Zeit is something you have."],
+    ["Ich ", " Anna.", "sein", "ich", "A name uses sein."],
+    ["", " du Kinder?", "haben", "du", "Having children is owning, so haben."],
+    ["Ihr ", " in Berlin.", "sein", "ihr", "A place uses sein."],
+    ["Ich ", " recht.", "haben", "ich", "German says I have right, so haben."]
+  ];
+  // spot: [right, w1, w2, why, optional English prompt]
+  var SPOT = [
+    ["Ich habe Durst.", "Ich bin Durst.", "Ich habt Durst.", "Durst is a noun, so it goes with haben."],
+    ["Ich bin 30 Jahre alt.", "Ich habe 30 Jahre.", "Ich habe 30 Jahre alt.", "Age uses sein, not haben."],
+    ["Er ist Lehrer.", "Er ist ein Lehrer.", "Er hat Lehrer.", "With a plain job, German drops ein."],
+    ["Du hast Zeit.", "Du habst Zeit.", "Du hat Zeit.", "The -b- disappears: du hast."],
+    ["Ihr seid müde.", "Ihr seit müde.", "Ihr sind müde.", "seid means are. seit means since."],
+    ["Wir sind in Berlin.", "Wir seid in Berlin.", "Wir bin in Berlin.", "wir uses sind."],
+    ["Er hat ein Auto.", "Er habt ein Auto.", "Er hast ein Auto.", "er gets hat, with no -b-."],
+    ["Ich habe Angst.", "Ich bin Angst.", "Ich hat Angst.", "Angst is a noun, so it goes with haben."],
+    ["Das Haus ist groß.", "Das Haus hat groß.", "Das Haus sind groß.", "A description uses sein, and das Haus is one thing, so ist."],
+    ["Ich habe Hunger.", "Ich bin Hunger.", "Ich habe hungrig.", "German says I have hunger.", "I am hungry."],
+    ["Ich habe Angst.", "Ich bin Angst.", "Ich hat Angst.", "German says I have fear.", "I am scared."],
+    ["Ich bin 25 Jahre alt.", "Ich habe 25 Jahre alt.", "Ich habe 25 Jahre.", "Age uses sein.", "I am 25 years old."],
+    ["Ihr seid müde.", "Ihr seit müde.", "Ihr habt müde.", "ihr seid is the form of sein. seit means since.", "You all are tired."],
+    ["Wir haben eine Wohnung.", "Wir sind eine Wohnung.", "Wir habt eine Wohnung.", "Owning something is haben, and wir uses haben.", "We have an apartment."]
+  ];
+
+  function qFill(r) { var f = PAR[r[2]][r[3]]; return { kind: "fill", before: r[0], after: r[1], verb: r[2], g: r[3], note: r[4] || "", answer: f, why: r[5] || why(r[2], r[3]) }; }
+  function qPick() {
+    var v = pick(["sein", "haben"]), p = pick(PRONS), ans = PAR[v][p.g], all = {};
+    GROUPS.forEach(function (g) { all[PAR[v][g]] = 1; });
+    delete all[ans];
+    var pool = Object.keys(all);
+    if (v === "sein" && p.g === "ihr") pool.push("seit");
+    if (v === "haben" && p.g === "du") pool.push("habst");
+    var wrong = shuffle(pool).slice(0, 3);
+    return { kind: "pick", verb: v, who: p.label, g: p.g, answer: ans, options: shuffle(wrong.concat(ans)), why: why(v, p.g) };
+  }
+  function qChoose(r) {
+    var f = PAR[r[2]][r[3]], full = r[0] + f + r[1];
+    return { kind: "choose", before: r[0], after: r[1], verb: r[2], g: r[3], answer: r[2], options: ["sein", "haben"], full: r[0] ? full : cap(full), why: r[4] };
+  }
+  function qSpot(r) { return { kind: "spot", answer: r[0], options: shuffle([r[0], r[1], r[2]]), why: r[3], eng: r[4] || "" }; }
+  function uniqPick(n) {
+    var out = [], seen = {}, t = 0;
+    while (out.length < n && t++ < 200) { var q = qPick(), k = q.verb + q.who; if (!seen[k]) { seen[k] = 1; out.push(q); } }
+    return out;
+  }
+  function take(arr, n, fn) { return shuffle(arr).slice(0, n).map(fn); }
+  function build(mode) {
+    if (mode === "fill") return take(FILL, 10, qFill);
+    if (mode === "pick") return uniqPick(10);
+    if (mode === "choose") return take(CHOOSE, 10, qChoose);
+    if (mode === "spot") return take(SPOT, 10, qSpot);
+    return shuffle([].concat(take(FILL, 3, qFill), uniqPick(3), take(CHOOSE, 2, qChoose), take(SPOT, 2, qSpot)));
+  }
+
+  /* ---------- state ---------- */
+  var MODES = [["mix", "Mixed"], ["fill", "Type it"], ["pick", "Pick the form"], ["choose", "Sein or haben?"], ["spot", "Right sentence"]];
+  var st = { mode: "mix", qs: [], i: 0, res: [], answered: false, streak: 0, best: 0 };
+  var $stage = document.getElementById("stage"), $dots = document.getElementById("dots"),
+      $streak = document.getElementById("streak"), $modes = document.getElementById("modes");
+
+  function start(mode, qs) {
+    st.mode = mode; st.qs = qs || build(mode); st.i = 0; st.res = []; st.answered = false; st.streak = 0;
+    drawModes(); render();
+  }
+  function drawModes() {
+    $modes.innerHTML = "";
+    MODES.forEach(function (m) {
+      var b = document.createElement("button");
+      b.type = "button"; b.className = "mode"; b.textContent = m[1];
+      b.setAttribute("aria-pressed", String(st.mode === m[0]));
+      b.onclick = function () { start(m[0]); };
+      $modes.appendChild(b);
+    });
+  }
+  function drawBar() {
+    $dots.innerHTML = "";
+    st.qs.forEach(function (_, i) {
+      var d = document.createElement("span");
+      d.className = "dot" + (i < st.res.length ? (st.res[i].ok ? " ok" : " no") : i === st.i ? " now" : "");
+      $dots.appendChild(d);
+    });
+    $streak.textContent = "Streak " + st.streak;
+  }
+
+  /* ---------- render ---------- */
+  function render() {
+    drawBar();
+    if (st.i >= st.qs.length) return renderResult();
+    var q = st.qs[st.i];
+    st.answered = false;
+    var head = '<p class="kind">Question ' + (st.i + 1) + " of " + st.qs.length + "</p>", body = "";
+    if (q.kind === "fill") {
+      body = head + '<div class="sentence">' + (q.before ? "<span>" + esc(q.before.trim()) + "</span>" : "") +
+        '<input id="ans" class="blank" type="text" autocomplete="off" autocapitalize="off" spellcheck="false" aria-label="Your answer">' +
+        "<span>" + esc(q.after.trim()) + "</span></div>" +
+        '<div class="tiles-row"><span class="chip ' + q.verb + '">' + q.verb + "</span>" + (q.note ? '<span class="hint">(' + esc(q.note) + ")</span>" : "") + "</div>" +
+        '<div class="row"><div class="umlauts"><button type="button" data-c="ä">ä</button><button type="button" data-c="ö">ö</button><button type="button" data-c="ü">ü</button><button type="button" data-c="ß">ß</button></div><button type="button" class="btn" id="check">Check</button></div>';
+    } else if (q.kind === "pick") {
+      body = head + '<p class="prompt">Which form fits?</p><div class="tiles-row"><span class="who">' + esc(q.who) + '</span><span class="chip ' + q.verb + '">' + q.verb + "</span></div>" +
+        '<div class="opts">' + q.options.map(function (o, k) { return '<button type="button" class="opt" data-k="' + k + '">' + esc(o) + "</button>"; }).join("") + "</div>";
+    } else if (q.kind === "choose") {
+      body = head + '<p class="prompt">sein or haben?</p><div class="sentence">' + (q.before ? "<span>" + esc(q.before.trim()) + "</span>" : "") +
+        '<span class="gap" aria-label="blank">&nbsp;</span><span>' + esc(q.after.trim()) + "</span></div>" +
+        '<div class="opts big">' + q.options.map(function (o, k) { return '<button type="button" class="opt" data-k="' + k + '">' + o + "</button>"; }).join("") + "</div>";
+    } else {
+      body = head + '<p class="prompt">' + (q.eng ? "Which is correct German for “" + esc(q.eng) + "”?" : "One sentence is correct. Tap it.") + "</p>" +
+        '<div class="opts one">' + q.options.map(function (o, k) { return '<button type="button" class="opt" data-k="' + k + '">' + esc(o) + "</button>"; }).join("") + "</div>";
+    }
+    $stage.innerHTML = '<div class="card" id="card">' + body + '<div id="fb" aria-live="polite"></div></div>';
+    wire(q);
+  }
+
+  function wire(q) {
+    var card = document.getElementById("card");
+    if (q.kind === "fill") {
+      var inp = document.getElementById("ans");
+      inp.focus({ preventScroll: true });
+      inp.addEventListener("keydown", function (e) { if (e.key === "Enter") submitFill(q); });
+      document.getElementById("check").onclick = function () { submitFill(q); };
+      card.querySelectorAll(".umlauts button").forEach(function (b) {
+        b.addEventListener("mousedown", function (e) { e.preventDefault(); });
+        b.onclick = function () {
+          var s = inp.selectionStart || inp.value.length, e2 = inp.selectionEnd || s;
+          inp.value = inp.value.slice(0, s) + b.dataset.c + inp.value.slice(e2);
+          inp.focus(); inp.setSelectionRange(s + 1, s + 1);
+        };
+      });
+    } else {
+      card.querySelectorAll(".opt").forEach(function (b) {
+        b.onclick = function () {
+          if (st.answered) return;
+          var o = q.options[+b.dataset.k];
+          finish(q, o === q.answer, o, b);
+        };
+      });
+    }
+  }
+
+  function submitFill(q) {
+    if (st.answered) return;
+    var inp = document.getElementById("ans"), val = inp.value;
+    if (!val.trim()) { inp.focus(); return; }
+    finish(q, norm(val) === norm(q.answer), val.trim(), inp);
+  }
+
+  function finish(q, ok, given, el) {
+    st.answered = true;
+    st.res.push({ ok: ok, q: q, given: given });
+    st.streak = ok ? st.streak + 1 : 0;
+    if (st.streak > st.best) st.best = st.streak;
+    var card = document.getElementById("card"), fb = document.getElementById("fb"), msg = "";
+
+    if (q.kind === "fill") {
+      el.disabled = true; el.classList.add(ok ? "ok" : "no");
+      card.querySelector(".umlauts").hidden = true;
+      document.getElementById("check").hidden = true;
+    } else {
+      card.querySelectorAll(".opt").forEach(function (b) {
+        b.disabled = true;
+        var right = q.options[+b.dataset.k] === q.answer;
+        if (right) b.classList.add("ok"); else if (b === el) b.classList.add("no");
+      });
+    }
+
+    if (q.kind === "spot") msg = "<p>" + esc(q.why) + "</p>";
+    else {
+      if (q.kind === "choose") msg = '<p class="full">' + esc(q.full) + "</p>";
+      msg += grid(q.verb, q.g) + "<p>" + esc(q.kind === "choose" ? q.why + " " + (q.verb === "haben" && (q.g === "du" || q.g === "er") ? "Remember the -b- drops out here." : "") : q.why) + "</p>";
+    }
+    var h = ok ? "Richtig." : (q.kind === "spot" ? "Not quite." : "Not quite. Answer: " + q.answer);
+    fb.innerHTML = '<div class="fb ' + (ok ? "ok" : "no") + '"><strong>' + esc(h) + "</strong>" + msg +
+      '<div><button type="button" class="btn" id="next">' + (st.i + 1 >= st.qs.length ? "See result" : "Next") + "</button></div></div>";
+    var nx = document.getElementById("next");
+    nx.onclick = function () { st.i++; render(); window.scrollTo({ top: 0 }); };
+    nx.focus({ preventScroll: true });
+    drawBar();
+  }
+
+  function label(q) {
+    if (q.kind === "spot") return esc(q.eng || "");
+    if (q.kind === "pick") return esc(q.who + " + " + q.verb);
+    return esc((q.before + "___" + q.after).trim());
+  }
+  function renderResult() {
+    drawBar();
+    var right = st.res.filter(function (r) { return r.ok; }).length, total = st.res.length;
+    var wrong = st.res.filter(function (r) { return !r.ok; });
+    var line = right === total ? "Perfekt. Try another type." :
+      right >= total * 0.7 ? "Solid. Replay the misses to lock them in." : "Say the two rows out loud: bin, bist, ist, sind, seid, sind. Habe, hast, hat, haben, habt, haben.";
+    var list = wrong.length ? '<ul class="missed">' + wrong.map(function (r) {
+      return "<li><span>" + label(r.q) + '</span><span class="you">' + esc(r.given) + '</span><span class="ans">' + esc(r.q.answer) + "</span></li>";
+    }).join("") + "</ul>" : "";
+    $stage.innerHTML = '<div class="card"><p class="kind">Round complete</p><div class="score">' + right + "<small> / " + total + "</small></div><p class=\"prompt\">" + esc(line) + "</p>" +
+      '<p class="hint">Best streak ' + st.best + "</p>" + list +
+      '<div class="row"><button type="button" class="btn" id="again">New round</button>' +
+      (wrong.length ? '<button type="button" class="btn ghost" id="redo">Replay misses</button>' : "") + "</div></div>";
+    document.getElementById("again").onclick = function () { start(st.mode); };
+    var rd = document.getElementById("redo");
+    if (rd) rd.onclick = function () { start(st.mode, shuffle(wrong.map(function (r) { return r.q; }))); };
+  }
+
+  start("mix");
+})();
+</script>
+
+</body></html>

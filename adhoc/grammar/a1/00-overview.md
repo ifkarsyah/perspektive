@@ -1,9 +1,9 @@
 # Overview
 
 1. Present tense and sentence basics. 
-   1. Regular verbs, 
-   2. sein and haben, 
-   3. personal pronouns (ich, du, er...), 
+   1. personal pronouns (ich, du, er...), 
+   2. regular verbs, 
+   3. sein and haben, 
    4. verb in second position, 
    5. yes/no questions and W-questions (wer, was, wo).
 2. Noun gender and plural. 

@@ -6,17 +6,12 @@ In German, the **end of the verb changes** depending on **who** is doing the act
 
 ## Compare with English
 
-English does this too, but only a tiny bit:
 
-- I play
-- you play
-- he play**s** ← only this one changes
-
-German does the same thing, just for **every** person:
-
-- ich spiel**e**
-- du spiel**st**
-- er spiel**t**
+| English  | German         |
+| -------- | -------------- |
+| I play   | ich spiel**e** |
+| you play | du spiel**st** |
+| he plays | er spiel**t**  |
 
 So the idea isn't new. German is just more consistent about it.
 
@@ -149,4 +144,4 @@ Fill in the right form. Answers are below, try first!
 - Stem ends in -t/-d → add **-e-** (du arbeit**e**st).
 - Stem ends in -s/-ß/-z → du just gets **-t** (du heißt).
 
-Next: [sein and haben](12-sein-and-haben.md), the two verbs that break these rules.
+Next: [sein and haben](13-sein-and-haben.md), the two verbs that break these rules.

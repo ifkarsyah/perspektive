@@ -14,7 +14,7 @@ English has one imperative form, and it's very simple: just the verb.
 
 It's the same whether you talk to a friend, a group, or your boss.
 
-German has **three** forms, because it has three kinds of "you" ([du, ihr, Sie](13-personal-pronouns.md)):
+German has **three** forms, because it has three kinds of "you" ([du, ihr, Sie](11-personal-pronouns.md)):
 
 | Talking to       | German             | English   |
 | ---------------- | ------------------ | --------- |

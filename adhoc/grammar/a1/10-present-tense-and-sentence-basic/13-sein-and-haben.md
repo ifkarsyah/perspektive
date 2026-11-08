@@ -6,7 +6,7 @@
 
 ## Why they're special
 
-In the [regular verbs](11-regular-verbs.md) lesson you learned: stem + ending. That doesn't work here.
+In the [regular verbs](12-regular-verbs.md) lesson you learned: stem + ending. That doesn't work here.
 
 English has the same problem with "to be": I **am**, you **are**, he **is**. Nobody says "I be, you be, he bes". German's "sein" is just as weird.
 
@@ -116,4 +116,4 @@ And some fixed expressions where **English uses "to be" but German uses "to have
 - Hunger, Durst, Angst, Zeit go with **haben**.
 - Age goes with **sein**: Ich bin 25 Jahre alt.
 
-Next: [Personal pronouns](13-personal-pronouns.md).
+Next: [Verb in second position](14-verb-second-position.md).

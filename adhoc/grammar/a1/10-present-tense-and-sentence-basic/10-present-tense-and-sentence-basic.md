@@ -22,11 +22,21 @@ Almost every sentence you say as a beginner is in the present tense. If you get 
 
 You'll learn it in five small steps. Each step builds on the one before, so go in order:
 
-1. [Regular verbs](11-regular-verbs.md): how verbs change their ending depending on who is doing the action (ich wohne, du wohnst...).
-2. [sein and haben](12-sein-and-haben.md): the two most important verbs, "to be" and "to have". They don't follow the normal pattern, so they get their own lesson.
-3. [Personal pronouns](13-personal-pronouns.md): the small words ich, du, er, sie... and the tricky choice between du and Sie.
+1. [Personal pronouns](11-personal-pronouns.md): the small words ich, du, er, sie... and the tricky choice between du and Sie.
+2. [Regular verbs](12-regular-verbs.md): how verbs change their ending depending on who is doing the action (ich wohne, du wohnst...).
+3. [sein and haben](13-sein-and-haben.md): the two most important verbs, "to be" and "to have". They don't follow the normal pattern, so they get their own lesson.
 4. [Verb in second position](14-verb-second-position.md): the single most important word order rule in German.
 5. [Questions](15-questions.md): how to turn a sentence into a question.
+
+### Why this order?
+
+1. **Pronouns:** who is doing the action.
+2. **Regular verbs:** how the verb changes to match that person.
+3. **sein and haben:** the two irregular verbs you need everywhere.
+4. **Verb in second position:** where that verb goes in the sentence.
+5. **Questions:** moving the verb to first position.
+
+So you can't place a verb (step 4) before you can conjugate it (step 2), and you can't conjugate it before you know who is doing the action (step 1).
 
 When you finish these five, you can build sentences like:
 
