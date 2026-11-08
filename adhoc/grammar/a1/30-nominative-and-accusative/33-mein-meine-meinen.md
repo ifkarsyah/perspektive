@@ -123,4 +123,4 @@ When euer gets an ending, it drops the **-e-** in the middle:
 - **Same endings as ein**: masc. object → -en, feminine → -e, plural → -e.
 - **Owner** picks the word. **Thing** picks the ending.
 
-Next: [kein](33-kein.md), which works the same way too.
+Next: [kein](34-kein.md), which works the same way too.

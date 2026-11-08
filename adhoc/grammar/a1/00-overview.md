@@ -10,9 +10,10 @@
    1. der/die/das, always learned with the noun
    2. common plural patterns.
 3. Nominative and accusative. 
-   1. ein/eine/einen, 
-   2. mein/meine/meinen, 
-   3. and kein.
+   1. der/den, 
+   2. ein/eine/einen, 
+   3. mein/meine/meinen, 
+   4. and kein.
 4. Negation. 
    1. nicht vs kein.
 5. Modal verbs. 

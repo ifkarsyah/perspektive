@@ -1,0 +1,307 @@
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1,viewport-fit=cover">
+<title>der or den Drill</title>
+<meta name="claude:viewport-fit-sides" content="cover">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Bricolage+Grotesque:opsz,wght@12..96,500;12..96,700;12..96,800&family=Atkinson+Hyperlegible:wght@400;700&display=swap">
+<style>
+/* Layout: one centered drill column; the sentence is the hero, three case keys sit under it */
+:root{
+  --bg:#f3f5f8; --surface:#ffffff; --fg:#17202b; --muted:#5d6978; --line:#dde2ea;
+  --der:#1f5fd1; --den:#c2410c; --die:#d6338a; --das:#6b7480;
+  --ok:#1f8a4c; --bad:#d23a3a; --ok-soft:#e3f4ea; --bad-soft:#fce8e8;
+  --display:"Bricolage Grotesque", "Segoe UI", system-ui, sans-serif;
+  --body:"Atkinson Hyperlegible", "Segoe UI", system-ui, sans-serif;
+}
+@media (prefers-color-scheme: dark){:root:not([data-theme="light"]){
+  --bg:#11161d; --surface:#1a212b; --fg:#e8edf3; --muted:#97a3b3; --line:#2b3542;
+  --der:#6b9cff; --den:#ff9a5c; --die:#ff7ec0; --das:#a6afbb;
+  --ok:#55c98a; --bad:#ff7a7a; --ok-soft:#173323; --bad-soft:#3d1f22; color-scheme:dark}}
+:root[data-theme="dark"]{
+  --bg:#11161d; --surface:#1a212b; --fg:#e8edf3; --muted:#97a3b3; --line:#2b3542;
+  --der:#6b9cff; --den:#ff9a5c; --die:#ff7ec0; --das:#a6afbb;
+  --ok:#55c98a; --bad:#ff7a7a; --ok-soft:#173323; --bad-soft:#3d1f22; color-scheme:dark}
+*{box-sizing:border-box}
+body{background:var(--bg);color:var(--fg);font-family:var(--body);font-size:16px;line-height:1.5}
+.wrap{max-width:640px;margin:0 auto;padding-block:28px 48px;
+  padding-left:max(16px,env(safe-area-inset-left,0px));padding-right:max(16px,env(safe-area-inset-right,0px));
+  display:flex;flex-direction:column;gap:20px}
+header h1{font-family:var(--display);font-weight:800;font-size:clamp(28px,6vw,38px);line-height:1.05;margin:0;text-wrap:balance;letter-spacing:-.01em}
+header p{margin:6px 0 0;color:var(--muted)}
+.c-der{color:var(--der)} .c-den{color:var(--den)} .c-die{color:var(--die)} .c-das{color:var(--das)}
+.card{background:var(--surface);border:1px solid var(--line);border-radius:14px;padding:22px;display:flex;flex-direction:column;gap:18px}
+.meta{display:flex;justify-content:space-between;align-items:center;font-size:13px;color:var(--muted);font-variant-numeric:tabular-nums;gap:12px;flex-wrap:wrap}
+.bar{height:4px;background:var(--line);border-radius:4px;overflow:hidden}
+.bar i{display:block;height:100%;background:var(--fg);width:0;transition:width .25s}
+.prompt{text-align:center;padding-block:10px 4px}
+.sentence{font-family:var(--display);font-weight:700;font-size:clamp(26px,6.5vw,36px);line-height:1.25;letter-spacing:-.01em;text-wrap:balance}
+.blank{display:inline-block;min-width:2.2em;border-bottom:3px dashed var(--line);color:var(--muted)}
+.blank.filled{border-bottom-color:transparent}
+.en{color:var(--muted);margin-top:6px}
+.keys{display:grid;grid-template-columns:repeat(4,1fr);gap:10px}
+.keys button{font-family:var(--display);font-weight:700;font-size:22px;line-height:1.15;padding:14px 4px;border-radius:12px;cursor:pointer;border:2px solid currentColor;background:var(--surface);min-width:0}
+.keys .der{color:var(--der)} .keys .den{color:var(--den)} .keys .die{color:var(--die)} .keys .das{color:var(--das)}
+.keys button:hover:not(:disabled){background:var(--bg)}
+.keys button kbd{display:block;font-family:var(--body);font-size:11px;font-weight:400;color:var(--muted);margin-top:2px}
+.keys button:disabled{cursor:default;opacity:.35}
+.keys button.right{opacity:1;border-color:var(--ok);border-width:3px;background:var(--ok-soft)}
+.keys button.wrong{opacity:1;border-color:var(--bad);border-width:3px;background:var(--bad-soft);text-decoration:line-through;text-decoration-color:var(--bad)}
+.keys button:focus-visible,.btn:focus-visible,.hint:focus-visible{outline:3px solid var(--der);outline-offset:2px}
+.feedback{border-radius:10px;padding:12px 14px;display:flex;flex-direction:column;gap:4px;border-left:4px solid}
+.feedback strong{font-family:var(--display);font-size:18px}
+.feedback.ok{background:var(--ok-soft);border-color:var(--ok)} .feedback.bad{background:var(--bad-soft);border-color:var(--bad)}
+.feedback .tag{font-size:12px;text-transform:uppercase;letter-spacing:.06em;font-weight:700}
+.feedback.ok .tag{color:var(--ok)} .feedback.bad .tag{color:var(--bad)}
+.row{display:flex;gap:10px;flex-wrap:wrap;justify-content:space-between;align-items:center}
+.btn{font:inherit;font-weight:700;padding:10px 16px;border-radius:10px;border:1px solid var(--line);background:var(--surface);color:var(--fg);cursor:pointer}
+.btn.primary{background:var(--fg);color:var(--bg);border-color:var(--fg)}
+.btn kbd{font-family:inherit;font-weight:400;opacity:.7}
+.hint{font:inherit;font-size:14px;color:var(--muted);background:none;border:none;padding:0;cursor:pointer;text-decoration:underline}
+.hinttext{font-size:14px;color:var(--muted)}
+.score{font-family:var(--display);font-weight:800;font-size:56px;line-height:1;font-variant-numeric:tabular-nums}
+.missed{list-style:none;margin:0;padding:0;display:flex;flex-direction:column}
+.missed li{display:flex;flex-direction:column;padding:8px 0;border-top:1px solid var(--line)}
+.missed b{font-family:var(--display)}
+.missed span{color:var(--muted);font-size:14px}
+details.rules{font-size:14px;color:var(--muted)}
+details.rules summary{cursor:pointer;color:var(--fg);font-weight:700}
+details.rules ol{padding-left:20px;margin:8px 0 0}
+@media (prefers-reduced-motion:reduce){.bar i{transition:none}}
+</style>
+
+<div class="wrap">
+  <header>
+    <h1><span class="c-der">der</span> or <span class="c-den">den</span>?</h1>
+    <p>Fill the blank. Only masculine changes: der becomes den. die and das stay the same.</p>
+  </header>
+
+  <section class="card" id="quiz">
+    <div class="meta"><span id="progress"></span><span id="tally"></span></div>
+    <div class="bar"><i id="barfill"></i></div>
+    <div class="prompt">
+      <div class="sentence" id="sentence"></div>
+      <div class="en" id="en"></div>
+    </div>
+    <div class="keys">
+      <button class="der" data-pick="der" id="k-der">der<kbd>1</kbd></button>
+      <button class="den" data-pick="den" id="k-den">den<kbd>2</kbd></button>
+      <button class="die" data-pick="die" id="k-die">die<kbd>3</kbd></button>
+      <button class="das" data-pick="das" id="k-das">das<kbd>4</kbd></button>
+    </div>
+    <div id="fb" hidden></div>
+    <div class="row">
+      <span><button class="hint" id="hintbtn">Show gender</button> <span class="hinttext" id="hinttext" hidden></span></span>
+      <button class="btn primary" id="next" hidden>Next <kbd>Enter</kbd></button>
+    </div>
+  </section>
+
+  <section class="card" id="result" hidden>
+    <div><div class="score" id="final"></div><div class="hinttext" id="verdict"></div></div>
+    <ul class="missed" id="missed"></ul>
+    <div class="row" style="justify-content:flex-start">
+      <button class="btn primary" id="again">New round</button>
+    </div>
+  </section>
+
+  <details class="rules">
+    <summary>How to decide</summary>
+    <ol>
+      <li>Is the noun masculine? If not, the case doesn't matter: die and das stay the same.</li>
+      <li>Who or what is doing it? That's the subject, so der.</li>
+      <li>What or who is it being done to? That's the object, so den.</li>
+      <li>After sein (ist, sind), there's no object, so der.</li>
+      <li>Don't trust the position. The object can come first: Den Mann sieht der Hund.</li>
+    </ol>
+  </details>
+</div>
+
+<script>
+// [sentence, english, noun, gender, case, clue]  (case and clue are for masculine nouns only)
+const S = [
+ ["___ Tisch ist neu.","The table is new.","Tisch","m","nom","What is new? The table, so it's the subject."],
+ ["___ Kaffee ist heiß.","The coffee is hot.","Kaffee","m","nom","What is hot? The coffee, so it's the subject."],
+ ["___ Bus kommt um acht.","The bus comes at eight.","Bus","m","nom","What is coming? The bus, so it's the subject."],
+ ["___ Lehrer spricht schnell.","The teacher speaks fast.","Lehrer","m","nom","Who is speaking? The teacher, so it's the subject."],
+ ["___ Hund schläft.","The dog is sleeping.","Hund","m","nom","Who is sleeping? The dog, so it's the subject."],
+ ["___ Mann sieht den Hund.","The man sees the dog.","Mann","m","nom","Who is seeing? The man, so he's the subject."],
+ ["Heute kommt ___ Arzt.","The doctor is coming today.","Arzt","m","nom","Who is coming? The doctor. He comes after the verb but he's still the subject."],
+ ["Jetzt schläft ___ Junge.","Now the boy is sleeping.","Junge","m","nom","Who is sleeping? The boy. He comes after the verb but he's still the subject."],
+ ["Den Film sieht ___ Mann.","The man sees the film.","Mann","m","nom","Who is seeing? The man. Den Film comes first, but it's the object."],
+ ["Das ist ___ Schlüssel.","That's the key.","Schlüssel","m","nom","sein has no object."],
+ ["Das ist ___ Chef.","That's the boss.","Chef","m","nom","sein has no object."],
+ ["Hier ist ___ Bahnhof.","The station is here.","Bahnhof","m","nom","What is here? The station, and sein has no object."],
+ ["Ich kaufe ___ Tisch.","I'm buying the table.","Tisch","m","acc","What is being bought? The table, so it's the object."],
+ ["Ich trinke ___ Kaffee.","I'm drinking the coffee.","Kaffee","m","acc","What is being drunk? The coffee, so it's the object."],
+ ["Wir nehmen ___ Bus.","We're taking the bus.","Bus","m","acc","What is being taken? The bus, so it's the object."],
+ ["Ich kenne ___ Lehrer.","I know the teacher.","Lehrer","m","acc","Who is being known? The teacher, so he's the object."],
+ ["Ich suche ___ Schlüssel.","I'm looking for the key.","Schlüssel","m","acc","What is being looked for? The key, so it's the object."],
+ ["Wir fragen ___ Arzt.","We're asking the doctor.","Arzt","m","acc","Who is being asked? The doctor, so he's the object."],
+ ["Er liest ___ Brief.","He is reading the letter.","Brief","m","acc","What is being read? The letter, so it's the object."],
+ ["Der Hund sieht ___ Mann.","The dog sees the man.","Mann","m","acc","Who is being seen? The man. The dog is doing the seeing."],
+ ["Der Mann sieht ___ Hund.","The man sees the dog.","Hund","m","acc","Who is being seen? The dog. The man is doing the seeing."],
+ ["___ Mann sieht der Hund.","The dog sees the man.","Mann","m","acc","Who is being seen? The man. He comes first, but der Hund is the subject."],
+ ["___ Film sehe ich heute.","I'm watching the film today.","Film","m","acc","What is being watched? The film. It comes first, but ich is the subject."],
+ ["___ Wein trinke ich gern.","I like drinking the wine.","Wein","m","acc","What is being drunk? The wine. It comes first, but ich is the subject."],
+ ["___ Lampe ist kaputt.","The lamp is broken.","Lampe","f"],
+ ["Ich kaufe ___ Tasche.","I'm buying the bag.","Tasche","f"],
+ ["___ Frau liest ein Buch.","The woman is reading a book.","Frau","f"],
+ ["Der Mann sieht ___ Frau.","The man sees the woman.","Frau","f"],
+ ["Ich trinke ___ Milch.","I'm drinking the milk.","Milch","f"],
+ ["Das ist ___ Straße.","That's the street.","Straße","f"],
+ ["___ Buch ist gut.","The book is good.","Buch","n"],
+ ["Ich lese ___ Buch.","I'm reading the book.","Buch","n"],
+ ["___ Kind spielt.","The child is playing.","Kind","n"],
+ ["Wir sehen ___ Kind.","We see the child.","Kind","n"],
+ ["Ich nehme ___ Auto.","I'm taking the car.","Auto","n"],
+ ["___ Haus ist alt.","The house is old.","Haus","n"],
+ ["___ Kinder spielen.","The children are playing.","Kinder","p"],
+ ["Ich sehe ___ Kinder.","I see the children.","Kinder","p"],
+ ["___ Bücher sind teuer.","The books are expensive.","Bücher","p"],
+ ["Ich kaufe ___ Schuhe.","I'm buying the shoes.","Schuhe","p"]
+];
+
+const WORD = {f:"die", n:"das", p:"die"};
+const GENDER = {m:"masculine", f:"feminine", n:"neuter", p:"plural"};
+const $ = id => document.getElementById(id);
+const keys = [$("k-der"), $("k-den"), $("k-die"), $("k-das")];
+
+let queue, pos, missed, score, streak, answered;
+
+const shuffle = list => {
+  const a = list.slice();
+  for (let i = a.length - 1; i > 0; i--) {
+    const j = Math.floor(Math.random() * (i + 1));
+    [a[i], a[j]] = [a[j], a[i]];
+  }
+  return a;
+};
+const isMasc = q => q[3] === "m";
+const articleOf = q => isMasc(q) ? (q[4] === "nom" ? "der" : "den") : WORD[q[3]];
+const baseArticle = q => isMasc(q) ? "der" : WORD[q[3]];
+const capitalize = word => word[0].toUpperCase() + word.slice(1);
+const shownArticle = q => q[0].startsWith("___") ? capitalize(articleOf(q)) : articleOf(q);
+const fullSentence = q => q[0].replace("___", shownArticle(q));
+const colorOf = q => "c-" + articleOf(q);
+
+function renderSentence(q, filled) {
+  const [before, after] = q[0].split("___");
+  const blank = filled
+    ? `<span class="blank filled ${colorOf(q)}">${shownArticle(q)}</span>`
+    : `<span class="blank">&nbsp;</span>`;
+  $("sentence").innerHTML = before + blank + after;
+}
+
+function updateMeta() {
+  $("progress").textContent = `${pos + 1} / ${queue.length}`;
+  $("tally").textContent = `Score ${score} · Streak ${streak}`;
+  $("barfill").style.width = `${pos / queue.length * 100}%`;
+}
+
+function render() {
+  const q = queue[pos];
+  answered = false;
+  renderSentence(q, false);
+  $("en").textContent = q[1];
+  keys.forEach(k => { k.disabled = false; k.classList.remove("right", "wrong"); });
+  $("fb").hidden = true;
+  $("next").hidden = true;
+  $("hintbtn").hidden = false;
+  $("hinttext").hidden = true;
+  updateMeta();
+}
+
+function explain(q, pick) {
+  const article = articleOf(q);
+  const color = colorOf(q);
+  const parts = [];
+  const rightGender = isMasc(q) ? pick === "der" || pick === "den" : pick === article;
+  if (!rightGender) parts.push(`${q[2]} is ${GENDER[q[3]]}: ${baseArticle(q)} ${q[2]}.`);
+  if (isMasc(q)) {
+    parts.push(q[5]);
+    parts.push(`Masculine ${q[4] === "nom" ? "nominative" : "accusative"}, so <b class="${color}">${article}</b>.`);
+  } else {
+    parts.push(`${capitalize(GENDER[q[3]])}, so <b class="${color}">${article}</b> in both cases.`);
+  }
+  return parts.join(" ");
+}
+
+function answer(pick) {
+  if (answered) return;
+  answered = true;
+  const q = queue[pos];
+  const correct = articleOf(q);
+  const ok = pick === correct;
+  if (ok) {
+    if (!missed.has(q)) score++;
+    streak++;
+  } else {
+    streak = 0;
+    missed.add(q);
+    queue.push(q);
+  }
+  keys.forEach(k => {
+    k.disabled = true;
+    if (k.dataset.pick === correct) k.classList.add("right");
+    else if (k.dataset.pick === pick) k.classList.add("wrong");
+  });
+  renderSentence(q, true);
+  const fb = $("fb");
+  fb.className = "feedback " + (ok ? "ok" : "bad");
+  fb.innerHTML = `<span class="tag">${ok ? "Correct" : "Not quite"}</span><strong>${fullSentence(q)}</strong><span>${explain(q, pick)}</span>`;
+  fb.hidden = false;
+  $("hintbtn").hidden = true;
+  $("hinttext").hidden = true;
+  $("next").hidden = false;
+  $("next").focus({preventScroll: true});
+  updateMeta();
+}
+
+function showHint() {
+  const q = queue[pos];
+  $("hinttext").textContent = `${q[2]} is ${GENDER[q[3]]}: ${baseArticle(q)} ${q[2]}`;
+  $("hinttext").hidden = false;
+  $("hintbtn").hidden = true;
+}
+
+function finish() {
+  $("quiz").hidden = true;
+  $("result").hidden = false;
+  $("final").textContent = `${score}/${S.length}`;
+  $("verdict").textContent = missed.size
+    ? `First-try score. You missed ${missed.size}:`
+    : "Every sentence right on the first try.";
+  $("missed").innerHTML = [...missed]
+    .map(q => `<li><b>${fullSentence(q)}</b><span>${q[1]}</span></li>`)
+    .join("");
+  $("again").focus({preventScroll: true});
+}
+
+function next() {
+  pos++;
+  if (pos >= queue.length) finish();
+  else render();
+}
+
+function start() {
+  queue = shuffle(S);
+  pos = 0;
+  missed = new Set();
+  score = 0;
+  streak = 0;
+  $("result").hidden = true;
+  $("quiz").hidden = false;
+  render();
+}
+
+keys.forEach(k => k.addEventListener("click", () => answer(k.dataset.pick)));
+$("next").addEventListener("click", next);
+$("again").addEventListener("click", start);
+$("hintbtn").addEventListener("click", showHint);
+document.addEventListener("keydown", e => {
+  if (e.metaKey || e.ctrlKey || e.altKey || answered || $("quiz").hidden) return;
+  const pick = {1: "der", 2: "den", 3: "die", 4: "das"}[e.key];
+  if (pick) answer(pick);
+});
+
+start();
+</script>

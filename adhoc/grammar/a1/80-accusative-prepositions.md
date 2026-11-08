@@ -8,7 +8,7 @@ After **durch, ohne, gegen, für, um**, the noun is **always accusative**, which
 
 Prepositions are small words like **for**, **without**, **through**. In German, a preposition **decides the case** of the noun after it.
 
-In [nominative and accusative](30-nominative-and-accusative/30-nominative-and-accusative.md) you learned the case depends on the noun's job (subject or object). Prepositions are a shortcut: **certain prepositions always force the accusative**, no matter what.
+In [der and den](30-nominative-and-accusative/31-der-den.md) you learned the case depends on the noun's job (subject or object). Prepositions are a shortcut: **certain prepositions always force the accusative**, no matter what.
 
 ## Compare with English
 
@@ -39,7 +39,7 @@ Memory trick: **DOGFU** = **D**urch, **O**hne, **G**egen, **F**ür, **U**m.
 
 ## Step 2: Only masculine changes
 
-You already know this from [nominative and accusative](30-nominative-and-accusative/30-nominative-and-accusative.md). After these prepositions:
+You already know this from [der and den](30-nominative-and-accusative/31-der-den.md). After these prepositions:
 
 | Gender     | Nominative | After für (accusative) |
 | ---------- | ---------- | ---------------------- |

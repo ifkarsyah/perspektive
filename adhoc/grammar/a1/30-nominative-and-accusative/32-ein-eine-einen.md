@@ -17,7 +17,7 @@ Easy trick: feminine **die** ends in **-e**, so feminine **eine** also ends in *
 
 ## Step 2: Masculine changes in the accusative
 
-Remember from the [intro](30-nominative-and-accusative.md): only masculine changes. Just like **der → den**, we get **ein → einen**.
+Remember from [der and den](31-der-den.md): only masculine changes. Just like **der → den**, we get **ein → einen**.
 
 | Case        | masc.      | fem.   | neut. |
 | ----------- | ---------- | ------ | ----- |
@@ -117,4 +117,4 @@ These verbs need something to act on, so the thing after them is accusative:
 - After **sein** ("this is a...") → nominative, so no change.
 - **es gibt** → always accusative.
 
-Next: [mein/meine/meinen](32-mein-meine-meinen.md), which works exactly the same way.
+Next: [mein/meine/meinen](33-mein-meine-meinen.md), which works exactly the same way.
