@@ -53,9 +53,7 @@ For everything else, use **nicht**. The full rule is in [nicht vs kein](../40-ne
 
 | ❌ Wrong                     | ✅ Right                   | Why                              |
 | --------------------------- | ------------------------- | -------------------------------- |
-| Ich habe nicht ein Auto.    | Ich habe kein Auto.       | "nicht ein" → kein               |
 | Ich habe kein Bruder.       | Ich habe keinen Bruder.   | der Bruder, object → keinen      |
-| Ich habe nicht Zeit.        | Ich habe keine Zeit.      | noun without article → kein      |
 | Das ist keinen Hund.        | Das ist kein Hund.        | after sein → nominative          |
 
 ## Practice
