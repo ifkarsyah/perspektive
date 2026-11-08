@@ -1,0 +1,589 @@
+<!doctype html><html><head><meta charset=utf8><meta name=viewport content="width=device-width,initial-scale=1,viewport-fit=cover"><style>:root{color-scheme:light;box-sizing:border-box;padding-top:env(safe-area-inset-top,0px);padding-bottom:env(safe-area-inset-bottom,0px)}html{scroll-padding-top:env(safe-area-inset-top,0px)}body{margin:0;padding:0;font:14px -apple-system,BlinkMacSystemFont,sans-serif;background:#fff;color:#000}img{max-width:100%}[hidden]:not([hidden=until-found i]){display:none!important}</style></head><body>
+<title>Der Plural</title>
+<meta name="claude:viewport-fit-sides" content="cover">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Bricolage+Grotesque:opsz,wght@12..96,500;12..96,700;12..96,800&family=Atkinson+Hyperlegible:ital,wght@0,400;0,700;1,400&family=JetBrains+Mono:wght@500;700&display=swap">
+<style>
+/* Layout: a single study column; each idea is a band with a picture first, words second. Gender colors are the system: der blue, die rose, das green, plural amber. */
+:root{
+  --bg:#f3f5f8; --card:#ffffff; --ink:#18202b; --muted:#5b6676; --line:#dde3ea;
+  --der:#2f6fd0; --die:#c8416b; --das:#25935f; --pl:#c27c0e;
+  --der-t:#e6eefb; --die-t:#fbe7ee; --das-t:#e3f4eb; --pl-t:#fbf0dc;
+  --ok:#25935f; --bad:#c8416b;
+  --f-display:"Bricolage Grotesque", "Avenir Next", system-ui, sans-serif;
+  --f-body:"Atkinson Hyperlegible", "Segoe UI", system-ui, sans-serif;
+  --f-mono:"JetBrains Mono", ui-monospace, Menlo, monospace;
+}
+@media (prefers-color-scheme: dark){ :root:not([data-theme="light"]){
+  --bg:#11161d; --card:#1a212b; --ink:#e7ecf2; --muted:#9aa6b6; --line:#2b3542;
+  --der:#6ea2f0; --die:#ef7b9f; --das:#5cc791; --pl:#efb04d;
+  --der-t:#1c2a40; --die-t:#3a1f2a; --das-t:#183226; --pl-t:#382a14;
+  --ok:#5cc791; --bad:#ef7b9f; color-scheme:dark;
+}}
+:root[data-theme="dark"]{
+  --bg:#11161d; --card:#1a212b; --ink:#e7ecf2; --muted:#9aa6b6; --line:#2b3542;
+  --der:#6ea2f0; --die:#ef7b9f; --das:#5cc791; --pl:#efb04d;
+  --der-t:#1c2a40; --die-t:#3a1f2a; --das-t:#183226; --pl-t:#382a14;
+  --ok:#5cc791; --bad:#ef7b9f; color-scheme:dark;
+}
+*{box-sizing:border-box}
+body{background:var(--bg);color:var(--ink);font-family:var(--f-body);font-size:16px;line-height:1.55;
+  padding-left:max(16px,env(safe-area-inset-left,0px));padding-right:max(16px,env(safe-area-inset-right,0px));padding-block:24px 64px}
+.wrap{max-width:860px;margin:0 auto;display:flex;flex-direction:column;gap:48px}
+h1,h2,h3{font-family:var(--f-display);line-height:1.1;text-wrap:balance;margin:0}
+h1{font-size:clamp(2.4rem,7vw,3.6rem);font-weight:800;letter-spacing:-.02em}
+h2{font-size:1.6rem;font-weight:700}
+h3{font-size:1.1rem;font-weight:700}
+p{margin:0;max-width:65ch}
+.eyebrow{font-size:.75rem;text-transform:uppercase;letter-spacing:.12em;color:var(--muted);font-weight:700}
+section{display:flex;flex-direction:column;gap:16px}
+.lead{font-size:1.15rem;color:var(--muted)}
+.der{color:var(--der)} .die{color:var(--die)} .das{color:var(--das)} .pl{color:var(--pl)}
+b.hl,.hl{color:var(--pl);font-weight:700}
+.panel{background:var(--card);border:1px solid var(--line);border-radius:14px;padding:20px}
+svg.ic{width:44px;height:44px;flex:none}
+.art{font-weight:700}
+
+/* top bar */
+.top{display:flex;justify-content:space-between;align-items:center;gap:12px;flex-wrap:wrap}
+.toggle{display:inline-flex;align-items:center;gap:8px;font-size:.9rem;color:var(--muted);cursor:pointer;user-select:none}
+.toggle input{width:18px;height:18px;accent-color:var(--pl)}
+.en{color:var(--muted);font-style:italic}
+body.hide-en .en{display:none}
+
+/* hero funnel */
+.hero{display:flex;flex-direction:column;gap:20px}
+.funnel{overflow-x:auto}
+.funnel svg{display:block;width:100%;min-width:520px;height:auto}
+.funnel text{font-family:var(--f-display)}
+
+/* compare */
+.compare{display:grid;grid-template-columns:repeat(auto-fit,minmax(240px,1fr));gap:16px}
+.compare .panel{display:flex;flex-direction:column;gap:10px}
+.pair{display:flex;align-items:center;gap:10px;flex-wrap:wrap;font-size:1.05rem}
+.pair .arrow{color:var(--muted)}
+
+/* patterns */
+.patterns{display:grid;grid-template-columns:repeat(auto-fill,minmax(250px,1fr));gap:14px}
+.pat{background:var(--card);border:1px solid var(--line);border-radius:14px;padding:16px;display:flex;flex-direction:column;gap:12px}
+.pat-head{display:flex;justify-content:space-between;align-items:baseline;gap:8px}
+.chip{font-family:var(--f-mono);font-weight:700;font-size:.95rem;background:var(--pl-t);color:var(--pl);padding:2px 10px;border-radius:999px;white-space:nowrap}
+.pat .freq{font-size:.75rem;color:var(--muted);text-transform:uppercase;letter-spacing:.08em}
+.scene{display:flex;align-items:center;gap:10px;min-height:56px}
+.stack{display:flex}
+.stack svg{margin-left:-14px}
+.stack svg:first-child{margin-left:0}
+.words{display:flex;flex-direction:column;gap:2px}
+.words .s{color:var(--muted);font-size:.95rem}
+.words .p{font-size:1.2rem;font-weight:700}
+.words .p .art{color:var(--pl)}
+.pat .like{font-size:.85rem;color:var(--muted)}
+.icon-der{color:var(--der)} .icon-die{color:var(--die)} .icon-das{color:var(--das)}
+
+/* rule finder */
+.finder{display:grid;grid-template-columns:minmax(0,1fr) minmax(0,1fr);gap:20px}
+@media (max-width:640px){.finder{grid-template-columns:1fr}}
+.seg{display:flex;flex-wrap:wrap;gap:8px}
+.seg button{font:inherit;font-size:.95rem;border:1.5px solid var(--line);background:var(--card);color:var(--ink);padding:8px 14px;border-radius:10px;cursor:pointer}
+.seg button[aria-pressed="true"]{border-color:var(--ink);background:var(--ink);color:var(--bg)}
+.seg button:disabled{opacity:.35;cursor:not-allowed}
+.seg button.g-der[aria-pressed="true"]{background:var(--der);border-color:var(--der);color:#fff}
+.seg button.g-die[aria-pressed="true"]{background:var(--die);border-color:var(--die);color:#fff}
+.seg button.g-das[aria-pressed="true"]{background:var(--das);border-color:var(--das);color:#fff}
+button:focus-visible,input:focus-visible{outline:3px solid var(--pl);outline-offset:2px}
+.finder-q{display:flex;flex-direction:column;gap:14px}
+.verdict{background:var(--pl-t);border-radius:14px;padding:18px;display:flex;flex-direction:column;gap:8px}
+.verdict .big{font-family:var(--f-mono);font-size:1.6rem;font-weight:700;color:var(--pl)}
+.verdict .ex{font-size:1.05rem}
+.verdict .note{font-size:.9rem;color:var(--muted)}
+.rules{display:flex;flex-direction:column;gap:6px;padding:0;margin:0;list-style:none;counter-reset:r}
+.rules li{counter-increment:r;display:grid;grid-template-columns:28px minmax(0,1fr);gap:8px;font-size:.95rem}
+.rules li::before{content:counter(r);font-family:var(--f-mono);font-weight:700;color:var(--muted)}
+.rules li.on{color:var(--ink)}
+.rules li.on::before{color:var(--pl)}
+.rules li:not(.on){color:var(--muted)}
+
+/* ein */
+.ein{display:grid;grid-template-columns:repeat(auto-fit,minmax(220px,1fr));gap:14px}
+.ein .panel{display:flex;flex-direction:column;gap:10px;align-items:flex-start}
+.ein .de{font-size:1.15rem}
+.gone{text-decoration:line-through;text-decoration-thickness:2px;color:var(--bad)}
+
+/* dictionary */
+.dict{font-family:var(--f-mono);font-size:clamp(1.3rem,4vw,1.8rem);display:flex;flex-wrap:wrap;gap:6px 14px;align-items:flex-start}
+.dict span{display:flex;flex-direction:column;gap:4px}
+.dict small{font-family:var(--f-body);font-size:.8rem;color:var(--muted)}
+.flash{display:flex;gap:16px;align-items:center;flex-wrap:wrap;font-size:1.15rem}
+
+/* mistakes */
+.mistakes{display:grid;grid-template-columns:repeat(auto-fit,minmax(190px,1fr));gap:12px}
+.mis{background:var(--card);border:1px solid var(--line);border-radius:12px;padding:14px;display:flex;flex-direction:column;gap:4px}
+.mis .w{color:var(--bad);text-decoration:line-through}
+.mis .r{color:var(--ok);font-weight:700;font-size:1.1rem}
+.mis .why{font-size:.85rem;color:var(--muted)}
+
+/* drill */
+.drill{display:flex;flex-direction:column;gap:16px}
+.drill-bar{display:flex;flex-wrap:wrap;gap:12px;justify-content:space-between;align-items:center}
+.score{font-family:var(--f-mono);font-variant-numeric:tabular-nums;color:var(--muted)}
+.card{background:var(--card);border:1px solid var(--line);border-radius:16px;padding:24px;display:flex;flex-direction:column;gap:18px;align-items:center;text-align:center}
+.card .prompt{display:flex;align-items:center;gap:14px;justify-content:center;flex-wrap:wrap}
+.card .prompt svg.ic{width:64px;height:64px}
+.card .word{font-family:var(--f-display);font-size:2rem;font-weight:700}
+.choices{display:grid;grid-template-columns:repeat(4,minmax(0,1fr));gap:8px;width:100%;max-width:520px}
+@media (max-width:480px){.choices{grid-template-columns:repeat(2,minmax(0,1fr))}}
+.choices button{font-family:var(--f-mono);font-weight:700;font-size:1rem;padding:12px 6px;border-radius:10px;border:1.5px solid var(--line);background:var(--bg);color:var(--ink);cursor:pointer}
+.choices button.right{border-color:var(--ok);background:var(--das-t);color:var(--ok)}
+.choices button.wrong{border-color:var(--bad);background:var(--die-t);color:var(--bad)}
+.typerow{display:flex;gap:8px;align-items:center;width:100%;max-width:420px;flex-wrap:wrap;justify-content:center}
+.typerow .fixed{font-weight:700;color:var(--pl);font-size:1.3rem}
+.typerow input{flex:1;min-width:0;font:inherit;font-size:1.3rem;padding:10px 12px;border-radius:10px;border:1.5px solid var(--line);background:var(--bg);color:var(--ink)}
+.uml{display:flex;gap:6px}
+.uml button,.btn{font:inherit;font-weight:700;border-radius:10px;border:1.5px solid var(--line);background:var(--card);color:var(--ink);padding:8px 14px;cursor:pointer}
+.btn.primary{background:var(--ink);color:var(--bg);border-color:var(--ink)}
+.feedback{min-height:3.2em;display:flex;flex-direction:column;gap:4px;align-items:center}
+.feedback .res{font-weight:700;font-size:1.1rem}
+.feedback .res.ok{color:var(--ok)} .feedback .res.no{color:var(--bad)}
+.feedback .why{font-size:.92rem;color:var(--muted);max-width:52ch}
+.summary-list{display:flex;flex-direction:column;gap:8px;padding:0;margin:0;list-style:none}
+.summary-list li{display:flex;gap:10px;align-items:baseline}
+.summary-list li::before{content:"";flex:none;width:8px;height:8px;border-radius:2px;background:var(--pl);transform:translateY(-2px)}
+.foot{font-size:.85rem;color:var(--muted)}
+@media (prefers-reduced-motion:no-preference){
+  .card{transition:transform .15s}
+  .choices button,.seg button{transition:background .12s,border-color .12s}
+}
+</style>
+
+<svg width="0" height="0" style="position:absolute" aria-hidden="true">
+  <defs>
+    <symbol id="i-tisch" viewBox="0 0 48 48"><rect x="5" y="15" width="38" height="5" rx="1.5" fill="currentColor"/><rect x="9" y="20" width="4" height="21" rx="1" fill="currentColor"/><rect x="35" y="20" width="4" height="21" rx="1" fill="currentColor"/></symbol>
+    <symbol id="i-stuhl" viewBox="0 0 48 48"><rect x="13" y="5" width="5" height="37" rx="1.5" fill="currentColor"/><rect x="13" y="24" width="24" height="5" rx="1.5" fill="currentColor"/><rect x="32" y="29" width="5" height="13" rx="1" fill="currentColor"/></symbol>
+    <symbol id="i-lampe" viewBox="0 0 48 48"><path d="M16 5h16l7 15H9z" fill="currentColor"/><rect x="22.5" y="20" width="3" height="18" fill="currentColor"/><rect x="14" y="38" width="20" height="5" rx="2.5" fill="currentColor"/></symbol>
+    <symbol id="i-buch" viewBox="0 0 48 48"><path d="M6 11c7-3 13-2 17 2v28c-4-3-10-4-17-2z" fill="currentColor"/><path d="M42 11c-7-3-13-2-17 2v28c4-3 10-4 17-2z" fill="currentColor" opacity=".65"/></symbol>
+    <symbol id="i-kind" viewBox="0 0 48 48"><circle cx="24" cy="16" r="6" fill="currentColor"/><path d="M15 43V33a9 9 0 0118 0v10z" fill="currentColor"/></symbol>
+    <symbol id="i-person" viewBox="0 0 48 48"><circle cx="24" cy="10" r="6.5" fill="currentColor"/><path d="M14 45V28a10 10 0 0120 0v17z" fill="currentColor"/></symbol>
+    <symbol id="i-lehrer" viewBox="0 0 48 48"><circle cx="19" cy="10" r="6.5" fill="currentColor"/><path d="M9 45V28a10 10 0 0120 0v17z" fill="currentColor"/><path d="M27 26L43 9" stroke="currentColor" stroke-width="3" stroke-linecap="round"/></symbol>
+    <symbol id="i-frau" viewBox="0 0 48 48"><circle cx="24" cy="10" r="6.5" fill="currentColor"/><path d="M24 18c-5 0-8 3-9 8l-4 19h26l-4-19c-1-5-4-8-9-8z" fill="currentColor"/></symbol>
+    <symbol id="i-auto" viewBox="0 0 48 48"><path d="M5 31l4-10c1-3 3-5 7-5h16c4 0 6 2 7 5l4 10v6H5z" fill="currentColor"/><circle cx="14" cy="37" r="5" fill="currentColor" style="stroke:var(--card)" stroke-width="2.5"/><circle cx="34" cy="37" r="5" fill="currentColor" style="stroke:var(--card)" stroke-width="2.5"/></symbol>
+    <symbol id="i-apfel" viewBox="0 0 48 48"><circle cx="24" cy="29" r="14" fill="currentColor"/><path d="M24 15c0-4 2-7 5-9" stroke="currentColor" stroke-width="2.5" fill="none" stroke-linecap="round"/><path d="M26 12c4-5 10-4 11-1-4 4-8 4-11 1z" fill="currentColor"/></symbol>
+    <symbol id="i-tag" viewBox="0 0 48 48"><circle cx="24" cy="24" r="9" fill="currentColor"/><g stroke="currentColor" stroke-width="3" stroke-linecap="round"><path d="M24 5v6M24 37v6M5 24h6M37 24h6M10.5 10.5l4 4M33.5 33.5l4 4M10.5 37.5l4-4M33.5 14.5l4-4"/></g></symbol>
+    <symbol id="i-haus" viewBox="0 0 48 48"><path d="M6 23L24 7l18 16v20H6z" fill="currentColor"/><rect x="20" y="30" width="8" height="13" style="fill:var(--card)"/></symbol>
+    <symbol id="i-hund" viewBox="0 0 48 48"><path d="M9 22h22l5-8 4 1 3 6-5 3v16h-5v-9H14v9H9z" fill="currentColor"/><path d="M9 23c-3-1-4-4-4-7" stroke="currentColor" stroke-width="3" fill="none" stroke-linecap="round"/></symbol>
+    <symbol id="i-zug" viewBox="0 0 48 48"><rect x="8" y="6" width="32" height="30" rx="6" fill="currentColor"/><rect x="12" y="11" width="24" height="11" rx="2" style="fill:var(--card)"/><circle cx="16" cy="29" r="2.5" style="fill:var(--card)"/><circle cx="32" cy="29" r="2.5" style="fill:var(--card)"/><path d="M14 36l-4 7M34 36l4 7" stroke="currentColor" stroke-width="3" stroke-linecap="round"/></symbol>
+    <symbol id="i-baum" viewBox="0 0 48 48"><circle cx="24" cy="18" r="13" fill="currentColor"/><rect x="21.5" y="28" width="5" height="16" rx="1.5" fill="currentColor"/></symbol>
+    <symbol id="i-bild" viewBox="0 0 48 48"><rect x="6" y="9" width="36" height="30" rx="2" fill="currentColor"/><path d="M11 34l9-11 6 7 4-4 7 8z" style="fill:var(--card)"/><circle cx="32" cy="17" r="3" style="fill:var(--card)"/></symbol>
+    <symbol id="i-wohnung" viewBox="0 0 48 48"><rect x="10" y="5" width="28" height="38" rx="1.5" fill="currentColor"/><g style="fill:var(--card)"><rect x="15" y="10" width="6" height="6"/><rect x="27" y="10" width="6" height="6"/><rect x="15" y="21" width="6" height="6"/><rect x="27" y="21" width="6" height="6"/><rect x="21" y="33" width="6" height="10"/></g></symbol>
+    <symbol id="i-strasse" viewBox="0 0 48 48"><path d="M17 4h14l11 40H6z" fill="currentColor"/><g style="fill:var(--card)"><rect x="22.5" y="9" width="3" height="6"/><rect x="22.5" y="20" width="3" height="7"/><rect x="22.5" y="32" width="3" height="9"/></g></symbol>
+    <symbol id="i-tasche" viewBox="0 0 48 48"><path d="M17 16v-3a7 7 0 0114 0v3" stroke="currentColor" stroke-width="3" fill="none"/><path d="M8 16h32l-3 27H11z" fill="currentColor"/></symbol>
+    <symbol id="i-zeitung" viewBox="0 0 48 48"><rect x="7" y="8" width="34" height="32" rx="2" fill="currentColor"/><g style="fill:var(--card)"><rect x="11" y="12" width="26" height="5"/><rect x="11" y="21" width="12" height="2"/><rect x="11" y="26" width="12" height="2"/><rect x="11" y="31" width="12" height="2"/><rect x="26" y="21" width="11" height="12"/></g></symbol>
+    <symbol id="i-kino" viewBox="0 0 48 48"><rect x="5" y="18" width="38" height="24" rx="2" fill="currentColor"/><path d="M5 18l5-10 33 0-5 10z" fill="currentColor" opacity=".6"/><path d="M20 24v12l10-6z" style="fill:var(--card)"/></symbol>
+    <symbol id="i-handy" viewBox="0 0 48 48"><rect x="14" y="4" width="20" height="40" rx="4" fill="currentColor"/><rect x="17" y="9" width="14" height="26" rx="1" style="fill:var(--card)"/><circle cx="24" cy="39" r="2" style="fill:var(--card)"/></symbol>
+    <symbol id="i-cafe" viewBox="0 0 48 48"><path d="M8 18h26v10a11 11 0 01-11 11h-4A11 11 0 018 28z" fill="currentColor"/><path d="M34 21h3a5 5 0 010 10h-4" stroke="currentColor" stroke-width="3" fill="none"/><path d="M15 6c-2 3 2 5 0 8M22 6c-2 3 2 5 0 8" stroke="currentColor" stroke-width="2.5" fill="none" stroke-linecap="round"/></symbol>
+    <symbol id="i-zimmer" viewBox="0 0 48 48"><path d="M6 8h36v34H6z" fill="currentColor"/><rect x="11" y="13" width="12" height="10" style="fill:var(--card)"/><rect x="28" y="20" width="9" height="22" style="fill:var(--card)"/></symbol>
+    <symbol id="i-messer" viewBox="0 0 48 48"><path d="M10 38L34 8c3 2 4 6 1 10L18 38z" fill="currentColor"/><rect x="4" y="36" width="15" height="6" rx="2" transform="rotate(-38 11 39)" fill="currentColor"/></symbol>
+    <symbol id="i-hand" viewBox="0 0 48 48"><path d="M14 44V22c0-3 4-3 4 0v-12c0-3 4-3 4 0v-3c0-3 4-3 4 0v3c0-3 4-3 4 0v6c0-3 4-3 4 0v16c0 7-4 12-11 12z" fill="currentColor"/></symbol>
+  </defs>
+</svg>
+
+<div class="wrap">
+
+  <header class="hero">
+    <div class="top">
+      <span class="eyebrow">Learn German · Topic 2 · Plural</span>
+      <label class="toggle" for="enToggle"><input type="checkbox" id="enToggle"> Show English</label>
+    </div>
+    <h1>One <span class="pl">die</span>, many endings</h1>
+    <p class="lead">More than one? The article is always <b class="pl">die</b>. The noun itself changes in one of a handful of ways.</p>
+    <div class="panel funnel" aria-label="der Tisch, die Lampe and das Buch all take die in the plural">
+      <svg viewBox="0 0 760 250" role="img">
+        <g font-size="22" font-weight="700">
+          <use href="#i-tisch" x="20" y="18" width="46" height="46" class="icon-der" style="color:var(--der)"/>
+          <text x="78" y="50" fill="var(--der)">der <tspan fill="var(--ink)">Tisch</tspan></text>
+          <use href="#i-lampe" x="20" y="100" width="46" height="46" style="color:var(--die)"/>
+          <text x="78" y="132" fill="var(--die)">die <tspan fill="var(--ink)">Lampe</tspan></text>
+          <use href="#i-buch" x="20" y="182" width="46" height="46" style="color:var(--das)"/>
+          <text x="78" y="214" fill="var(--das)">das <tspan fill="var(--ink)">Buch</tspan></text>
+        </g>
+        <g fill="none" stroke-width="3" stroke-linecap="round">
+          <path d="M210 43 C 290 43, 300 125, 360 125" stroke="var(--der)"/>
+          <path d="M226 125 H 360" stroke="var(--die)"/>
+          <path d="M210 207 C 290 207, 300 125, 360 125" stroke="var(--das)"/>
+        </g>
+        <path d="M356 116 l14 9 -14 9z" fill="var(--pl)"/>
+        <rect x="378" y="98" width="84" height="54" rx="12" fill="var(--pl-t)"/>
+        <text x="420" y="134" text-anchor="middle" font-size="30" font-weight="800" fill="var(--pl)">die</text>
+        <g fill="none" stroke="var(--pl)" stroke-width="2" stroke-dasharray="3 5" stroke-linecap="round">
+          <path d="M470 125 C 510 125, 515 43, 548 43"/><path d="M470 125 H 548"/><path d="M470 125 C 510 125, 515 207, 548 207"/>
+        </g>
+        <g font-size="22" font-weight="700" fill="var(--ink)">
+          <g style="color:var(--pl)"><use href="#i-tisch" x="552" y="22" width="36" height="36"/><use href="#i-tisch" x="570" y="22" width="36" height="36"/></g>
+          <text x="618" y="50">Tisch<tspan fill="var(--pl)">e</tspan></text>
+          <g style="color:var(--pl)"><use href="#i-lampe" x="552" y="104" width="36" height="36"/><use href="#i-lampe" x="570" y="104" width="36" height="36"/></g>
+          <text x="618" y="132">Lampe<tspan fill="var(--pl)">n</tspan></text>
+          <g style="color:var(--pl)"><use href="#i-buch" x="552" y="186" width="36" height="36"/><use href="#i-buch" x="570" y="186" width="36" height="36"/></g>
+          <text x="618" y="214">B<tspan fill="var(--pl)">ü</tspan>ch<tspan fill="var(--pl)">er</tspan></text>
+        </g>
+      </svg>
+    </div>
+  </header>
+
+  <section>
+    <span class="eyebrow">Compare with English</span>
+    <h2>English's "irregular" plurals are German's normal ones</h2>
+    <div class="compare">
+      <div class="panel">
+        <h3>English: mostly <span class="hl">-s</span></h3>
+        <div class="pair">book <span class="arrow">→</span> book<b class="hl">s</b></div>
+        <div class="pair">child <span class="arrow">→</span> child<b class="hl">ren</b> · man <span class="arrow">→</span> m<b class="hl">e</b>n · mouse <span class="arrow">→</span> m<b class="hl">ice</b></div>
+        <p class="foot">The odd ones are exceptions.</p>
+      </div>
+      <div class="panel">
+        <h3>German: about 5 patterns</h3>
+        <div class="pair">Kind <span class="arrow">→</span> Kind<b class="hl">er</b> · Apfel <span class="arrow">→</span> <b class="hl">Ä</b>pfel</div>
+        <div class="pair">Auto <span class="arrow">→</span> Auto<b class="hl">s</b></div>
+        <p class="foot">Changes like "children" and "men" are everyday patterns. <b>-s</b> is the least common one.</p>
+      </div>
+    </div>
+  </section>
+
+  <section>
+    <span class="eyebrow">The noun ending</span>
+    <h2>Eight ways a noun can change</h2>
+    <p>Five endings (<b>-e, -er, -(e)n, -s,</b> nothing), and some of them add an <b>umlaut</b>: the two dots on <b>ä ö ü</b>.</p>
+    <div class="patterns" id="patterns"></div>
+  </section>
+
+  <section>
+    <span class="eyebrow">Rules of thumb</span>
+    <h2>Guess the plural from two clues</h2>
+    <p>Pick the gender and what the word looks like. The rules work most of the time, not always.</p>
+    <div class="panel finder">
+      <div class="finder-q">
+        <div>
+          <div class="eyebrow" style="margin-bottom:8px">1 · Gender</div>
+          <div class="seg" id="segG">
+            <button class="g-der" data-v="der" aria-pressed="true">der</button>
+            <button class="g-die" data-v="die" aria-pressed="false">die</button>
+            <button class="g-das" data-v="das" aria-pressed="false">das</button>
+          </div>
+        </div>
+        <div>
+          <div class="eyebrow" style="margin-bottom:8px">2 · The word…</div>
+          <div class="seg" id="segS">
+            <button data-v="short" aria-pressed="true">is short (1 syllable)</button>
+            <button data-v="erelen" aria-pressed="false">ends in -er / -el / -en</button>
+            <button data-v="e" aria-pressed="false">ends in -e</button>
+            <button data-v="in" aria-pressed="false">is a female job/person in -in</button>
+            <button data-v="vowel" aria-pressed="false">ends in -a/-i/-o/-u/-y, or is foreign</button>
+            <button data-v="other" aria-pressed="false">something else</button>
+          </div>
+        </div>
+      </div>
+      <div style="display:flex;flex-direction:column;gap:14px;min-width:0">
+        <div class="verdict" id="verdict" aria-live="polite"></div>
+        <ol class="rules" id="rules">
+          <li>Feminine → <b>-n / -en</b> (most reliable)</li>
+          <li>Female person in <b>-in</b> → <b>-nen</b></li>
+          <li>Masc./neuter in <b>-er, -el, -en</b> → no ending, sometimes umlaut</li>
+          <li>Short masculine → <b>-e</b>, often umlaut</li>
+          <li>Short neuter → <b>-er</b>, umlaut if possible</li>
+          <li>Ends in <b>-a, -i, -o, -u</b> or foreign → <b>-s</b></li>
+        </ol>
+      </div>
+    </div>
+  </section>
+
+  <section>
+    <span class="eyebrow">"A" has no plural</span>
+    <h2><span class="art">ein</span> disappears, just like "a"</h2>
+    <div class="ein">
+      <div class="panel">
+        <div style="color:var(--das)"><svg class="ic"><use href="#i-kind"/></svg></div>
+        <div class="de">Ich habe <b>ein</b> Kind.</div>
+        <div class="en">I have a child.</div>
+      </div>
+      <div class="panel">
+        <div style="color:var(--pl);display:flex"><svg class="ic"><use href="#i-kind"/></svg><svg class="ic" style="margin-left:-16px"><use href="#i-kind"/></svg></div>
+        <div class="de">Ich habe <b>zwei</b> Kind<b class="hl">er</b>.</div>
+        <div class="en">I have two children.</div>
+      </div>
+      <div class="panel">
+        <div style="color:var(--pl);display:flex"><svg class="ic"><use href="#i-apfel"/></svg><svg class="ic" style="margin-left:-16px"><use href="#i-apfel"/></svg><svg class="ic" style="margin-left:-16px"><use href="#i-apfel"/></svg></div>
+        <div class="de">Ich kaufe <span class="gone">ein</span> <b class="hl">Ä</b>pfel.</div>
+        <div class="en">I buy apples.</div>
+      </div>
+    </div>
+  </section>
+
+  <section>
+    <span class="eyebrow">How to learn plurals</span>
+    <h2>Every noun is three pieces</h2>
+    <div class="panel" style="display:flex;flex-direction:column;gap:20px">
+      <div class="flash"><span style="color:var(--der)"><svg class="ic"><use href="#i-stuhl"/></svg></span><span><b class="der">der</b> Stuhl, <b class="pl">die</b> St<b class="hl">ü</b>hl<b class="hl">e</b></span><span class="en">chair</span></div>
+      <div>
+        <div class="eyebrow" style="margin-bottom:10px">Dictionaries write it like this</div>
+        <div class="dict">
+          <span>Stuhl,<small>the noun</small></span>
+          <span class="der">der,<small>masculine</small></span>
+          <span class="pl">-¨e<small>umlaut + e → Stühle</small></span>
+        </div>
+      </div>
+      <p class="foot">The dash stands for the noun. <b>¨</b> means "add an umlaut". So <span style="font-family:var(--f-mono)">Kind, das, -er</span> is Kinder, and <span style="font-family:var(--f-mono)">Lehrer, der, -</span> means no change.</p>
+    </div>
+  </section>
+
+  <section>
+    <span class="eyebrow">Common mistakes</span>
+    <h2>Four traps</h2>
+    <div class="mistakes">
+      <div class="mis"><span class="w">die Kinds</span><span class="r">die Kinder</span><span class="why">-s is rare. Don't add it by default.</span></div>
+      <div class="mis"><span class="w">der Bücher</span><span class="r">die Bücher</span><span class="why">Plural is always die.</span></div>
+      <div class="mis"><span class="w">die Frauens</span><span class="r">die Frauen</span><span class="why">Only one plural ending.</span></div>
+      <div class="mis"><span class="w">ein Bücher</span><span class="r">Bücher</span><span class="why">No ein in the plural.</span></div>
+    </div>
+  </section>
+
+  <section>
+    <span class="eyebrow">Practice</span>
+    <h2>Make the plural</h2>
+    <div class="drill">
+      <div class="drill-bar">
+        <div class="seg" id="segSet">
+          <button data-v="lesson" aria-pressed="true">Lesson 8</button>
+          <button data-v="all" aria-pressed="false">All 32 words</button>
+        </div>
+        <div class="seg" id="segMode">
+          <button data-v="pick" aria-pressed="true">Pick the pattern</button>
+          <button data-v="type" aria-pressed="false">Type it</button>
+        </div>
+        <span class="score" id="score">0 / 0</span>
+      </div>
+      <div class="card" id="card"></div>
+    </div>
+  </section>
+
+  <section>
+    <span class="eyebrow">Summary</span>
+    <h2>What to keep</h2>
+    <ul class="summary-list">
+      <li>Plural article is always <b class="pl">&nbsp;die</b>.</li>
+      <li>Five endings: -e, -er, -(e)n, -s, nothing. Often with an umlaut.</li>
+      <li>Feminine → usually -(e)n. Ends in -er/-el/-en → usually no change.</li>
+      <li>Learn every noun as article + singular + plural.</li>
+    </ul>
+    <p class="foot">Next topic: Nominative and accusative.</p>
+  </section>
+</div>
+
+<script>
+const PAT = {
+  e:   {chip:"-e",     name:"add -e"},
+  ue:  {chip:"¨ + -e", name:"umlaut + -e"},
+  er:  {chip:"-er",    name:"add -er"},
+  uer: {chip:"¨ + -er",name:"umlaut + -er"},
+  n:   {chip:"-(e)n",  name:"add -n / -en"},
+  s:   {chip:"-s",     name:"add -s"},
+  zero:{chip:"–",      name:"nothing changes"},
+  u:   {chip:"¨ only", name:"only umlaut"}
+};
+const PAT_ORDER = ["e","ue","er","uer","n","s","zero","u"];
+const RULE = {
+  1:"Rule 1: feminine → -n / -en.",
+  2:"Rule 2: female person in -in → -nen.",
+  3:"Rule 3: masculine/neuter in -er, -el, -en → no ending, sometimes umlaut.",
+  4:"Rule 4: short masculine → -e, often with umlaut.",
+  5:"Rule 5: short neuter → -er, with umlaut if possible.",
+  6:"Rule 6: ends in a vowel like -o, -i, -y, or foreign → -s."
+};
+// s: singular, p: plural, g: gender, k: pattern, r: rule (0 = exception), x: note for exceptions
+const WORDS = [
+  {s:"Tisch",g:"der",p:"Tische",k:"e",r:4,en:"table",i:"tisch"},
+  {s:"Tag",g:"der",p:"Tage",k:"e",r:4,en:"day",i:"tag"},
+  {s:"Hund",g:"der",p:"Hunde",k:"e",r:4,en:"dog",i:"hund"},
+  {s:"Stuhl",g:"der",p:"Stühle",k:"ue",r:4,en:"chair",i:"stuhl"},
+  {s:"Zug",g:"der",p:"Züge",k:"ue",r:4,en:"train",i:"zug"},
+  {s:"Baum",g:"der",p:"Bäume",k:"ue",r:4,en:"tree",i:"baum"},
+  {s:"Kind",g:"das",p:"Kinder",k:"er",r:5,en:"child",i:"kind"},
+  {s:"Bild",g:"das",p:"Bilder",k:"er",r:5,en:"picture",i:"bild"},
+  {s:"Buch",g:"das",p:"Bücher",k:"uer",r:5,en:"book",i:"buch"},
+  {s:"Haus",g:"das",p:"Häuser",k:"uer",r:5,en:"house",i:"haus"},
+  {s:"Mann",g:"der",p:"Männer",k:"uer",r:0,en:"man",i:"person",x:"Exception: short masculine, but it takes umlaut + -er like a neuter."},
+  {s:"Lampe",g:"die",p:"Lampen",k:"n",r:1,en:"lamp",i:"lampe"},
+  {s:"Frau",g:"die",p:"Frauen",k:"n",r:1,en:"woman",i:"frau"},
+  {s:"Wohnung",g:"die",p:"Wohnungen",k:"n",r:1,en:"flat, apartment",i:"wohnung"},
+  {s:"Straße",g:"die",p:"Straßen",k:"n",r:1,en:"street",i:"strasse"},
+  {s:"Tasche",g:"die",p:"Taschen",k:"n",r:1,en:"bag",i:"tasche"},
+  {s:"Zeitung",g:"die",p:"Zeitungen",k:"n",r:1,en:"newspaper",i:"zeitung"},
+  {s:"Freundin",g:"die",p:"Freundinnen",k:"n",r:2,en:"(female) friend",i:"frau"},
+  {s:"Lehrerin",g:"die",p:"Lehrerinnen",k:"n",r:2,en:"(female) teacher",i:"frau"},
+  {s:"Auto",g:"das",p:"Autos",k:"s",r:6,en:"car",i:"auto"},
+  {s:"Kino",g:"das",p:"Kinos",k:"s",r:6,en:"cinema",i:"kino"},
+  {s:"Handy",g:"das",p:"Handys",k:"s",r:6,en:"mobile phone",i:"handy"},
+  {s:"Café",g:"das",p:"Cafés",k:"s",r:6,en:"café",i:"cafe"},
+  {s:"Lehrer",g:"der",p:"Lehrer",k:"zero",r:3,en:"teacher",i:"lehrer"},
+  {s:"Wagen",g:"der",p:"Wagen",k:"zero",r:3,en:"car, wagon",i:"auto"},
+  {s:"Zimmer",g:"das",p:"Zimmer",k:"zero",r:3,en:"room",i:"zimmer"},
+  {s:"Messer",g:"das",p:"Messer",k:"zero",r:3,en:"knife",i:"messer"},
+  {s:"Apfel",g:"der",p:"Äpfel",k:"u",r:3,en:"apple",i:"apfel"},
+  {s:"Vater",g:"der",p:"Väter",k:"u",r:3,en:"father",i:"person"},
+  {s:"Mutter",g:"die",p:"Mütter",k:"u",r:0,en:"mother",i:"frau",x:"Exception: feminine, but only an umlaut (like Vater → Väter). Same: Tochter → Töchter."},
+  {s:"Hand",g:"die",p:"Hände",k:"ue",r:0,en:"hand",i:"hand",x:"Exception: feminine, but umlaut + -e. Same: Stadt → Städte, Nacht → Nächte."},
+  {s:"Student",g:"der",p:"Studenten",k:"n",r:0,en:"student",i:"person",x:"Exception: masculine, but -en. Some masculine people words do this (der Junge → die Jungen)."}
+];
+const LESSON = ["Wohnung","Auto","Lehrer","Freundin","Haus","Straße","Tag","Kino"];
+const ex = s => WORDS.find(w=>w.s===s);
+const esc = t => t.replace(/[&<>"]/g,c=>({"&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;"}[c]));
+
+// Highlight what changed between singular and plural.
+function diffHtml(s,p){
+  let out="", i=0;
+  for(; i<p.length; i++){
+    if(i<s.length && s[i]===p[i]) out+=esc(p[i]);
+    else if(i<s.length && "äöüÄÖÜ".includes(p[i])) out+=`<b class="hl">${p[i]}</b>`;
+    else break;
+  }
+  if(i<p.length) out+=`<b class="hl">${esc(p.slice(i))}</b>`;
+  return out;
+}
+const icon = (id,size,color) => `<svg class="ic" style="width:${size}px;height:${size}px;color:${color}"><use href="#i-${id}"/></svg>`;
+
+// Pattern cards
+const PAT_EX = {e:"Tag",ue:"Stuhl",er:"Kind",uer:"Buch",n:"Lampe",s:"Auto",zero:"Lehrer",u:"Apfel"};
+const PAT_LIKE = {er:"child → children", n:"ox → oxen", s:"car → cars", zero:"sheep → sheep", u:"man → men"};
+document.getElementById("patterns").innerHTML = PAT_ORDER.map(k=>{
+  const w = ex(PAT_EX[k]);
+  return `<div class="pat">
+    <div class="pat-head"><h3>${PAT[k].name}</h3><span class="chip">${PAT[k].chip}</span></div>
+    <div class="scene">
+      ${icon(w.i,44,`var(--${w.g})`)}
+      <span style="color:var(--muted)">→</span>
+      <span class="stack">${icon(w.i,40,"var(--pl)")}${icon(w.i,40,"var(--pl)")}${icon(w.i,40,"var(--pl)")}</span>
+    </div>
+    <div class="words">
+      <span class="s"><span class="art ${w.g}">${w.g}</span> ${w.s} <span class="en">· ${w.en}</span></span>
+      <span class="p"><span class="art">die</span> ${diffHtml(w.s,w.p)}</span>
+    </div>
+    ${PAT_LIKE[k]?`<span class="like en">English: ${PAT_LIKE[k]}</span>`:""}
+  </div>`;
+}).join("");
+
+// Segmented control helper
+function seg(id,onChange){
+  const el=document.getElementById(id);
+  el.addEventListener("click",e=>{
+    const b=e.target.closest("button"); if(!b||b.disabled) return;
+    el.querySelectorAll("button").forEach(x=>x.setAttribute("aria-pressed",x===b?"true":"false"));
+    onChange(b.dataset.v);
+  });
+  return ()=>el.querySelector('[aria-pressed="true"]').dataset.v;
+}
+
+// Rule finder
+const FIND = {
+  "die|short":{end:"-en",ex:["Uhr","Uhren"],rule:1,note:"Watch out: a few short feminine nouns take umlaut + -e (Hand → Hände, Stadt → Städte)."},
+  "die|erelen":{end:"-n",ex:["Schwester","Schwestern"],rule:1,note:"Feminine wins over the -er/-el shape. Exceptions: Mutter → Mütter, Tochter → Töchter."},
+  "die|e":{end:"-n",ex:["Lampe","Lampen"],rule:1},
+  "die|in":{end:"-nen",ex:["Lehrerin","Lehrerinnen"],rule:2,note:"Double the n, then add -en."},
+  "die|vowel":{end:"-s",ex:["Kamera","Kameras"],rule:6},
+  "die|other":{end:"-en",ex:["Zeitung","Zeitungen"],rule:1,note:"Endings like -ung, -heit, -keit, -schaft always take -en."},
+  "der|short":{end:"-e, often ¨",ex:["Zug","Züge"],rule:4,note:"Some take -er instead (Mann → Männer). Check the dictionary."},
+  "der|erelen":{end:"no ending",ex:["Lehrer","Lehrer"],rule:3,note:"Sometimes just an umlaut: Vater → Väter, Apfel → Äpfel."},
+  "der|e":{end:"-n",ex:["Junge","Jungen"],rule:0,note:"Not covered by this lesson's rules. Masculine people/animals in -e usually take -n."},
+  "der|vowel":{end:"-s",ex:["Opa","Opas"],rule:6},
+  "der|other":{end:"learn it",ex:["Monat","Monate"],rule:0,note:"No reliable rule here. -e is the most common guess for masculine."},
+  "das|short":{end:"-er, ¨ if possible",ex:["Haus","Häuser"],rule:5,note:"Not every short neuter: das Jahr → die Jahre."},
+  "das|erelen":{end:"no ending",ex:["Zimmer","Zimmer"],rule:3},
+  "das|e":{end:"-n",ex:["Auge","Augen"],rule:0,note:"Not covered by this lesson's rules. Rare shape for neuter."},
+  "das|vowel":{end:"-s",ex:["Kino","Kinos"],rule:6},
+  "das|other":{end:"learn it",ex:["Problem","Probleme"],rule:0,note:"No reliable rule here. Learn it with the noun."}
+};
+let fG="der", fS="short";
+function renderFinder(){
+  document.querySelector('#segS [data-v="in"]').disabled = fG!=="die";
+  if(fG!=="die" && fS==="in"){ fS="short"; document.querySelectorAll("#segS button").forEach(b=>b.setAttribute("aria-pressed",b.dataset.v==="short"?"true":"false")); }
+  const f=FIND[fG+"|"+fS];
+  document.getElementById("verdict").innerHTML =
+    `<span class="eyebrow">Best guess</span><span class="big">${f.end}</span>
+     <span class="ex"><b class="${fG}">${fG}</b> ${f.ex[0]} → <b class="pl">die</b> ${diffHtml(f.ex[0],f.ex[1])}</span>
+     ${f.note?`<span class="note">${f.note}</span>`:""}`;
+  document.querySelectorAll("#rules li").forEach((li,i)=>li.classList.toggle("on",i+1===f.rule));
+}
+seg("segG",v=>{fG=v;renderFinder();});
+seg("segS",v=>{fS=v;renderFinder();});
+renderFinder();
+
+// English toggle (hidden by default)
+const enT=document.getElementById("enToggle");
+function applyEn(){document.body.classList.toggle("hide-en",!enT.checked);try{localStorage.setItem("pl-en",enT.checked?"1":"0")}catch(e){}}
+try{enT.checked=localStorage.getItem("pl-en")==="1"}catch(e){}
+enT.addEventListener("change",applyEn); applyEn();
+
+// Drill
+let set="lesson", mode="pick", queue=[], cur=null, right=0, total=0, answered=false;
+const shuffle=a=>{for(let i=a.length-1;i>0;i--){const j=Math.random()*(i+1)|0;[a[i],a[j]]=[a[j],a[i]]}return a};
+function refill(){queue=shuffle((set==="lesson"?LESSON.map(ex):WORDS.slice()))}
+function why(w){return w.r?RULE[w.r]:w.x}
+function next(){
+  if(!queue.length) refill();
+  cur=queue.pop(); answered=false; render();
+}
+function render(){
+  const w=cur, card=document.getElementById("card");
+  const head=`<div class="prompt">${icon(w.i,64,`var(--${w.g})`)}<div><div class="word"><span class="${w.g}">${w.g}</span> ${w.s}</div><div class="en">${w.en}</div></div></div>`;
+  if(mode==="pick"){
+    card.innerHTML=head+`<p class="foot">How does it become plural?</p>
+      <div class="choices">${PAT_ORDER.map(k=>`<button data-k="${k}">${PAT[k].chip}</button>`).join("")}</div>
+      <div class="feedback" id="fb" aria-live="polite"></div>
+      <button class="btn primary" id="nextBtn" hidden>Next</button>`;
+    card.querySelector(".choices").addEventListener("click",e=>{
+      const b=e.target.closest("button"); if(!b||answered) return;
+      answered=true; total++;
+      const ok=b.dataset.k===w.k; if(ok) right++;
+      card.querySelectorAll(".choices button").forEach(x=>{ if(x.dataset.k===w.k) x.classList.add("right"); else if(x===b) x.classList.add("wrong"); });
+      done(ok);
+    });
+  } else {
+    card.innerHTML=head+`<div class="typerow"><span class="fixed">die</span><input id="ans" autocomplete="off" autocapitalize="off" spellcheck="false" aria-label="Plural form"></div>
+      <div class="uml">${["ä","ö","ü","ß"].map(c=>`<button data-c="${c}" type="button">${c}</button>`).join("")}</div>
+      <button class="btn primary" id="checkBtn">Check</button>
+      <div class="feedback" id="fb" aria-live="polite"></div>
+      <button class="btn primary" id="nextBtn" hidden>Next</button>`;
+    const inp=card.querySelector("#ans"); inp.focus({preventScroll:true});
+    card.querySelector(".uml").addEventListener("click",e=>{const b=e.target.closest("button");if(!b)return;const s=inp.selectionStart??inp.value.length;inp.value=inp.value.slice(0,s)+b.dataset.c+inp.value.slice(inp.selectionEnd??s);inp.focus();inp.setSelectionRange(s+1,s+1)});
+    const check=()=>{
+      if(answered) return;
+      let v=inp.value.trim().replace(/\s+/g," ");
+      if(!v) return;
+      let note="";
+      const art=v.match(/^(der|die|das|ein|eine)\s+/i);
+      if(art){ const a=art[1].toLowerCase(); v=v.slice(art[0].length); if(a!=="die") note= a.startsWith("ein")?"No ein in the plural.":"Plural is always die, never "+a+"."; }
+      const fold=t=>t.replace(/ä/g,"ae").replace(/ö/g,"oe").replace(/ü/g,"ue").replace(/Ä/g,"Ae").replace(/Ö/g,"Oe").replace(/Ü/g,"Ue");
+      let ok=false;
+      if(v===w.p) ok=true;
+      else if(v.toLowerCase()===w.p.toLowerCase()){ok=true; note=note||"Capitalize it: German nouns always start with a capital."}
+      else if(fold(v).toLowerCase()===fold(w.p).toLowerCase()){ok=true; note=note||"Correct, but use the real umlaut ("+w.p+")."}
+      if(art && art[1].toLowerCase()!=="die") ok=false;
+      answered=true; total++; if(ok) right++;
+      inp.disabled=true; done(ok,note);
+    };
+    card.querySelector("#checkBtn").addEventListener("click",check);
+    inp.addEventListener("keydown",e=>{if(e.key==="Enter"){e.preventDefault(); answered?next():check();}});
+  }
+}
+function done(ok,note){
+  const w=cur;
+  document.getElementById("fb").innerHTML=
+    `<span class="res ${ok?"ok":"no"}">${ok?"Richtig!":"Not quite."} <span style="color:var(--ink)">die ${diffHtml(w.s,w.p)}</span></span>
+     ${note?`<span class="why">${note}</span>`:""}<span class="why">${PAT[w.k].name}. ${why(w)}</span>`;
+  document.getElementById("score").textContent=`${right} / ${total}`;
+  const nb=document.getElementById("nextBtn"); nb.hidden=false; nb.focus({preventScroll:true});
+  nb.addEventListener("click",next);
+  const cb=document.getElementById("checkBtn"); if(cb) cb.hidden=true;
+}
+seg("segSet",v=>{set=v;right=0;total=0;document.getElementById("score").textContent="0 / 0";refill();next();});
+seg("segMode",v=>{mode=v;answered=false;render();});
+refill(); next();
+</script>
+
+</body></html>

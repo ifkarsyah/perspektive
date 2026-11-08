@@ -1,0 +1,285 @@
+<!doctype html><html><head><meta charset=utf8><meta name=viewport content="width=device-width,initial-scale=1,viewport-fit=cover"><style>:root{color-scheme:light;box-sizing:border-box;padding-top:env(safe-area-inset-top,0px);padding-bottom:env(safe-area-inset-bottom,0px)}html{scroll-padding-top:env(safe-area-inset-top,0px)}body{margin:0;padding:0;font:14px -apple-system,BlinkMacSystemFont,sans-serif;background:#fff;color:#000}img{max-width:100%}[hidden]:not([hidden=until-found i]){display:none!important}</style></head><body>
+<title>der die das Drill</title>
+<meta name="claude:viewport-fit-sides" content="cover">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Bricolage+Grotesque:opsz,wght@12..96,500;12..96,700;12..96,800&family=Atkinson+Hyperlegible:wght@400;700&display=swap">
+<style>
+/* Layout: one centered drill column; the noun is the hero, three colored article keys sit under it */
+:root{
+  --bg:#f3f5f8; --surface:#ffffff; --fg:#17202b; --muted:#5d6978; --line:#dde2ea;
+  --der:#1f5fd1; --die:#d6338a; --das:#6b7480;
+  --ok:#1f8a4c; --bad:#d23a3a; --ok-soft:#e3f4ea; --bad-soft:#fce8e8;
+  --display:"Bricolage Grotesque", "Segoe UI", system-ui, sans-serif;
+  --body:"Atkinson Hyperlegible", "Segoe UI", system-ui, sans-serif;
+}
+@media (prefers-color-scheme: dark){:root:not([data-theme="light"]){
+  --bg:#11161d; --surface:#1a212b; --fg:#e8edf3; --muted:#97a3b3; --line:#2b3542;
+  --der:#6b9cff; --die:#ff7ec0; --das:#a6afbb;
+  --ok:#55c98a; --bad:#ff7a7a; --ok-soft:#173323; --bad-soft:#3d1f22; color-scheme:dark}}
+:root[data-theme="dark"]{
+  --bg:#11161d; --surface:#1a212b; --fg:#e8edf3; --muted:#97a3b3; --line:#2b3542;
+  --der:#6b9cff; --die:#ff7ec0; --das:#a6afbb;
+  --ok:#55c98a; --bad:#ff7a7a; --ok-soft:#173323; --bad-soft:#3d1f22; color-scheme:dark}
+*{box-sizing:border-box}
+body{background:var(--bg);color:var(--fg);font-family:var(--body);font-size:16px;line-height:1.5}
+.wrap{max-width:640px;margin:0 auto;padding-block:28px 48px;
+  padding-left:max(16px,env(safe-area-inset-left,0px));padding-right:max(16px,env(safe-area-inset-right,0px));
+  display:flex;flex-direction:column;gap:20px}
+header h1{font-family:var(--display);font-weight:800;font-size:clamp(28px,6vw,38px);line-height:1.05;margin:0;text-wrap:balance;letter-spacing:-.01em}
+header h1 .c1{color:var(--der)} header h1 .c2{color:var(--die)} header h1 .c3{color:var(--das)}
+header p{margin:6px 0 0;color:var(--muted)}
+.modes{display:flex;flex-wrap:wrap;gap:8px}
+.modes button{font:inherit;font-size:14px;padding:7px 12px;border-radius:999px;border:1px solid var(--line);background:var(--surface);color:var(--fg);cursor:pointer}
+.modes button[aria-pressed="true"]{background:var(--fg);color:var(--bg);border-color:var(--fg)}
+.modes button:focus-visible,.keys button:focus-visible,.btn:focus-visible{outline:3px solid var(--der);outline-offset:2px}
+.card{background:var(--surface);border:1px solid var(--line);border-radius:14px;padding:22px;display:flex;flex-direction:column;gap:18px}
+.meta{display:flex;justify-content:space-between;align-items:center;font-size:13px;color:var(--muted);font-variant-numeric:tabular-nums;gap:12px;flex-wrap:wrap}
+.bar{height:4px;background:var(--line);border-radius:4px;overflow:hidden}
+.bar i{display:block;height:100%;background:var(--fg);width:0;transition:width .25s}
+.noun{text-align:center;padding-block:10px 4px}
+.noun .art{font-family:var(--display);font-weight:700;font-size:clamp(22px,5vw,30px);display:inline-block;min-width:2.6em;border-bottom:3px dashed var(--line);margin-right:.25em;color:var(--muted)}
+.noun .word{font-family:var(--display);font-weight:800;font-size:clamp(34px,9vw,54px);letter-spacing:-.015em;overflow-wrap:anywhere}
+.noun .en{color:var(--muted);margin-top:2px}
+.keys{display:grid;grid-template-columns:repeat(3,1fr);gap:10px}
+.keys button{font-family:var(--display);font-weight:700;font-size:22px;padding:14px 0;border-radius:12px;cursor:pointer;border:2px solid currentColor;background:var(--surface)}
+.keys .der{color:var(--der)} .keys .die{color:var(--die)} .keys .das{color:var(--das)}
+.keys button:hover:not(:disabled){background:var(--bg)}
+.keys button kbd{display:block;font-family:var(--body);font-size:11px;font-weight:400;color:var(--muted)}
+.keys button:disabled{cursor:default;opacity:.35}
+.keys button.right{opacity:1;border-color:var(--ok);border-width:3px;background:var(--ok-soft);box-shadow:0 0 0 2px var(--ok-soft)}
+.keys button.wrong{opacity:1;border-color:var(--bad);border-width:3px;background:var(--bad-soft);text-decoration:line-through;text-decoration-color:var(--bad)}
+.keys button .mark{display:block;font-family:var(--body);font-size:12px;font-weight:700}
+.keys button.right .mark{color:var(--ok)} .keys button.wrong .mark{color:var(--bad)}
+.feedback{border-radius:10px;padding:12px 14px;display:flex;flex-direction:column;gap:4px;border-left:4px solid}
+.feedback strong{font-family:var(--display);font-size:18px}
+.feedback.ok{background:var(--ok-soft);border-color:var(--ok)} .feedback.bad{background:var(--bad-soft);border-color:var(--bad)}
+.feedback .tag{font-size:12px;text-transform:uppercase;letter-spacing:.06em;font-weight:700}
+.feedback.ok .tag{color:var(--ok)} .feedback.bad .tag{color:var(--bad)}
+.score.ok{color:var(--ok)} .score.bad{color:var(--bad)}
+.row{display:flex;gap:10px;flex-wrap:wrap;justify-content:space-between;align-items:center}
+.btn{font:inherit;font-weight:700;padding:10px 16px;border-radius:10px;border:1px solid var(--line);background:var(--surface);color:var(--fg);cursor:pointer}
+.btn.primary{background:var(--fg);color:var(--bg);border-color:var(--fg)}
+.hint{color:var(--muted);font-size:14px;background:none;border:none;padding:0;cursor:pointer;text-decoration:underline;font:inherit;font-size:14px}
+.hinttext{font-size:14px;color:var(--muted)}
+.score{font-family:var(--display);font-weight:800;font-size:56px;line-height:1;font-variant-numeric:tabular-nums}
+.missed{list-style:none;margin:0;padding:0;display:flex;flex-direction:column;gap:6px}
+.missed li{display:grid;grid-template-columns:auto 1fr;gap:4px 12px;padding:8px 0;border-top:1px solid var(--line)}
+.missed b{font-family:var(--display)}
+.missed span{color:var(--muted);font-size:14px;min-width:0}
+.c-der{color:var(--der)} .c-die{color:var(--die)} .c-das{color:var(--das)}
+details.rules{font-size:14px;color:var(--muted)}
+details.rules summary{cursor:pointer;color:var(--fg);font-weight:700}
+details.rules ol{padding-left:20px;margin:8px 0 0}
+@media (prefers-reduced-motion:reduce){.bar i{transition:none}}
+</style>
+
+<div class="wrap">
+  <header>
+    <h1><span class="c1">der</span> <span class="c2">die</span> <span class="c3">das</span> Drill</h1>
+    <p>Pick the article. Every answer comes with the clue from the lesson.</p>
+  </header>
+
+  <div class="modes" role="group" aria-label="Question set" id="modes"></div>
+
+  <section class="card" id="quiz">
+    <div class="meta"><span id="progress">1 / 15</span><span id="streak">Score 0</span></div>
+    <div class="bar"><i id="barfill"></i></div>
+    <div class="noun">
+      <div><span class="art" id="art">___</span><span class="word" id="word">Wohnung</span></div>
+      <div class="en" id="en">apartment</div>
+    </div>
+    <div class="keys">
+      <button class="der" data-g="der" id="k-der">der<kbd>1</kbd></button>
+      <button class="die" data-g="die" id="k-die">die<kbd>2</kbd></button>
+      <button class="das" data-g="das" id="k-das">das<kbd>3</kbd></button>
+    </div>
+    <div id="fb" hidden></div>
+    <div class="row">
+      <span><button class="hint" id="hintbtn">Show hint</button> <span class="hinttext" id="hinttext" hidden></span></span>
+      <button class="btn primary" id="next" hidden>Next <kbd style="font-weight:400;opacity:.7">Enter</kbd></button>
+    </div>
+  </section>
+
+  <section class="card" id="result" hidden>
+    <div class="row"><div><div class="score" id="final">0/0</div><div class="hinttext" id="verdict"></div></div></div>
+    <ul class="missed" id="missed"></ul>
+    <div class="row" style="justify-content:flex-start">
+      <button class="btn primary" id="retryMissed">Retry missed</button>
+      <button class="btn" id="again">New round</button>
+    </div>
+  </section>
+
+  <details class="rules">
+    <summary>If you have to guess</summary>
+    <ol>
+      <li>Compound? Use the last word: Haustür → die Tür → die.</li>
+      <li>Clear ending? -ung, -chen, -ist, Ge- at the start. The ending beats the meaning (das Mädchen).</li>
+      <li>Meaning group? A day, weather, a metal, a young being.</li>
+      <li>Ends in -e? Guess die.</li>
+      <li>One syllable? Guess der. Only a weak tendency (das Buch, die Tür).</li>
+    </ol>
+  </details>
+</div>
+
+<script>
+// [word, english, gender, reason, set, hint]
+const W = [
+ // practice (from the lesson)
+ ["Wohnung","apartment","die","-ung is almost always die","practice","Look at the ending"],
+ ["Brötchen","bread roll","das","-chen is always das","practice","Look at the ending"],
+ ["Dienstag","Tuesday","der","Days of the week are der","practice","What kind of word is it?"],
+ ["Freiheit","freedom","die","-heit is always die","practice","Look at the ending"],
+ ["Tasche","bag","die","Most nouns ending in -e are die","practice","Look at the last letter"],
+ ["Lehrer","male teacher","der","Person made from a verb (lehren) + -er is der","practice","Who is it?"],
+ ["Schreibtisch","desk","der","Compound: the last word, der Tisch, decides","practice","Split the word"],
+ ["Universität","university","die","-tät is die","practice","Look at the ending"],
+ ["Bäckerei","bakery","die","-ei is die","practice","Look at the ending"],
+ ["Gemüse","vegetables","das","Starts with Ge- → das, even though it ends in -e","practice","Look at the start"],
+ ["Kino","cinema","das","-o is usually das","practice","Look at the ending"],
+ ["Mutter","mother","die","Female person. Plain -er is no clue here","practice","Who is it?"],
+ ["Junge","boy","der","Male person. An exception to the -e rule","practice","Who is it?"],
+ // reliable clues
+ ["Frühling","spring","der","-ling is der (and seasons are der)","rules","Look at the ending"],
+ ["Tourismus","tourism","der","-ismus is der","rules","Look at the ending"],
+ ["Motor","engine","der","-or is usually der","rules","Look at the ending"],
+ ["Polizist","police officer","der","-ist is der","rules","Look at the ending"],
+ ["Honig","honey","der","-ig is usually der","rules","Look at the ending"],
+ ["Teppich","carpet","der","-ich is usually der","rules","Look at the ending"],
+ ["Student","student","der","People ending in -ent are der","rules","Look at the ending"],
+ ["Regen","rain","der","Weather is usually der","rules","What kind of thing is it?"],
+ ["Wein","wine","der","Alcohol is usually der","rules","What kind of thing is it?"],
+ ["Norden","north","der","Compass points are der","rules","What kind of word is it?"],
+ ["Mai","May","der","Months are der","rules","What kind of word is it?"],
+ ["Fernseher","TV set","der","Tool made from a verb (fernsehen) + -er is der","rules","Where does it come from?"],
+ ["Zeitung","newspaper","die","-ung is almost always die","rules","Look at the ending"],
+ ["Möglichkeit","possibility","die","-keit is die","rules","Look at the ending"],
+ ["Freundschaft","friendship","die","-schaft is die","rules","Look at the ending"],
+ ["Nation","nation","die","-tion is die","rules","Look at the ending"],
+ ["Diskussion","discussion","die","-sion is die","rules","Look at the ending"],
+ ["Familie","family","die","-ie is die","rules","Look at the ending"],
+ ["Musik","music","die","-ik is die","rules","Look at the ending"],
+ ["Lehrerin","female teacher","die","-in for female people is die","rules","Who is it?"],
+ ["Natur","nature","die","-ur is usually die","rules","Look at the ending"],
+ ["Konferenz","conference","die","-enz is usually die","rules","Look at the ending"],
+ ["Lampe","lamp","die","Most nouns ending in -e are die","rules","Look at the last letter"],
+ ["Mädchen","girl","das","-chen is always das. The ending beats the meaning","rules","Look at the ending"],
+ ["Essen","eating, food","das","Verbs used as nouns are always das","rules","Where does it come from?"],
+ ["Leben","life","das","Verbs used as nouns are always das","rules","Where does it come from?"],
+ ["Getränk","drink","das","Starts with Ge- → usually das","rules","Look at the start"],
+ ["Ergebnis","result","das","-nis is usually das","rules","Look at the ending"],
+ ["Thema","topic","das","-ma is usually das","rules","Look at the ending"],
+ ["Dokument","document","das","-ment is usually das","rules","Look at the ending"],
+ ["Museum","museum","das","-um is usually das","rules","Look at the ending"],
+ ["Kind","child","das","Young beings are usually das","rules","What kind of being?"],
+ ["Gold","gold","das","Metals are usually das","rules","What kind of thing is it?"],
+ ["Deutsch","German (language)","das","Languages are das","rules","What kind of word is it?"],
+ ["Meeting","meeting","das","English words ending in -ing are usually das","rules","Look at the ending"],
+ // exceptions
+ ["Labor","lab","das","Exception: -or is usually der","exceptions","It breaks a rule"],
+ ["Gewitter","thunderstorm","das","Exception: weather is usually der","exceptions","It breaks a rule"],
+ ["Bier","beer","das","Exception: alcohol is usually der","exceptions","It breaks a rule"],
+ ["Termin","appointment","der","A thing, not a female person, so -in doesn't apply","exceptions","Is it a person?"],
+ ["Sprung","jump","der","Exception: -ung is usually die","exceptions","It breaks a rule"],
+ ["Ei","egg","das","Exception: -ei is usually die","exceptions","It breaks a rule"],
+ ["Knie","knee","das","Exception: -ie is usually die","exceptions","It breaks a rule"],
+ ["Name","name","der","Exception to the -e rule","exceptions","It breaks a rule"],
+ ["Käse","cheese","der","Exception to the -e rule","exceptions","It breaks a rule"],
+ ["Auge","eye","das","Exception to the -e rule","exceptions","It breaks a rule"],
+ ["Ende","end","das","Exception to the -e rule","exceptions","It breaks a rule"],
+ ["Abitur","school-leaving exam","das","Exception: -ur is usually die","exceptions","It breaks a rule"],
+ ["Flur","hallway","der","Exception: -ur is usually die","exceptions","It breaks a rule"],
+ ["Tanz","dance","der","Exception: -anz is usually die","exceptions","It breaks a rule"],
+ ["Geschichte","history, story","die","Exception: Ge- is usually das","exceptions","It breaks a rule"],
+ ["Geschmack","taste","der","Exception: Ge- is usually das","exceptions","It breaks a rule"],
+ ["Erlaubnis","permission","die","Exception: -nis is usually das","exceptions","It breaks a rule"],
+ ["Euro","euro","der","Exception: -o is usually das","exceptions","It breaks a rule"],
+ ["Firma","company","die","Exception: -ma is usually das","exceptions","It breaks a rule"],
+ ["Moment","moment","der","Exception: -ment is usually das","exceptions","It breaks a rule"],
+ ["Irrtum","error","der","Exception: -um is usually das","exceptions","It breaks a rule"],
+ ["Stahl","steel","der","Exception: metals are usually das","exceptions","It breaks a rule"],
+ ["Fenster","window","das","Plain -er is no clue: not a person or tool from a verb","exceptions","Is -er a clue here?"],
+ ["Butter","butter","die","Plain -er is no clue: not a person or tool from a verb","exceptions","Is -er a clue here?"],
+ ["Zimmer","room","das","Plain -er is no clue: not a person or tool from a verb","exceptions","Is -er a clue here?"],
+ // compounds
+ ["Haustür","front door","die","Last word decides: die Tür (not das Haus)","compounds","Split the word"],
+ ["Handschuh","glove","der","Last word decides: der Schuh","compounds","Split the word"],
+ ["Kaffeemaschine","coffee machine","die","Last word decides: die Maschine","compounds","Split the word"],
+ ["Mittwoch","Wednesday","der","Famous exception: die Woche, but days are der","compounds","What kind of word is it?"],
+ ["Kinderzimmer","children's room","das","Last word decides: das Zimmer","compounds","Split the word"],
+ ["Bushaltestelle","bus stop","die","Last word decides: die Stelle","compounds","Split the word"]
+];
+const SETS = [
+ ["mix","Mixed 15"],["practice","Lesson practice"],["rules","Clues"],["exceptions","Exceptions"],["compounds","Compounds"]
+];
+const LEN = 15;
+let mode="mix", deck=[], i=0, score=0, missed=[], answered=false;
+
+const $ = id=>document.getElementById(id);
+const shuffle = a=>{a=a.slice();for(let j=a.length-1;j>0;j--){const k=Math.floor(Math.random()*(j+1));[a[j],a[k]]=[a[k],a[j]]}return a};
+
+function buildModes(){
+  $("modes").innerHTML = SETS.map(([k,l])=>`<button data-m="${k}" aria-pressed="${k===mode}">${l}</button>`).join("");
+  $("modes").querySelectorAll("button").forEach(b=>b.onclick=()=>{mode=b.dataset.m;buildModes();start()});
+}
+function start(list){
+  let pool = list || (mode==="mix" ? shuffle(W).slice(0,LEN) : shuffle(W.filter(w=>w[4]===mode)));
+  deck=pool; i=0; score=0; missed=[];
+  $("quiz").hidden=false; $("result").hidden=true;
+  show();
+}
+function show(){
+  const [w,en]=deck[i]; answered=false;
+  $("word").textContent=w; $("en").textContent=en;
+  const a=$("art"); a.textContent="___"; a.className="art";
+  $("progress").textContent=`${i+1} / ${deck.length}`;
+  $("streak").textContent=`Score ${score}`;
+  $("barfill").style.width=(i/deck.length*100)+"%";
+  document.querySelectorAll(".keys button").forEach((b,n)=>{b.disabled=false;b.classList.remove("right","wrong");
+    const k=b.querySelector("kbd"); k.textContent=String(n+1); k.classList.remove("mark")});
+  $("fb").hidden=true; $("next").hidden=true;
+  $("hinttext").hidden=true; $("hintbtn").hidden=false;
+}
+function answer(g){
+  if(answered) return; answered=true;
+  const [w,en,gender,why]=deck[i]; const ok=g===gender;
+  if(ok) score++; else missed.push(deck[i]);
+  document.querySelectorAll(".keys button").forEach(b=>{
+    b.disabled=true;
+    const k=b.querySelector("kbd");
+    if(b.dataset.g===gender){ b.classList.add("right"); k.textContent=ok?"✓ Correct":"✓ Answer"; k.classList.add("mark") }
+    else if(b.dataset.g===g){ b.classList.add("wrong"); k.textContent="✗ Your pick"; k.classList.add("mark") }
+  });
+  const a=$("art"); a.textContent=gender; a.className="art c-"+gender; a.style.borderBottomColor="transparent";
+  const fb=$("fb"); fb.hidden=false; fb.className="feedback "+(ok?"ok":"bad");
+  fb.innerHTML=`<span class="tag">${ok?"Correct":"Not quite"}</span><strong class="c-${gender}">${gender} ${w}</strong><span>${why}</span>`;
+  $("streak").textContent=`Score ${score}`;
+  $("hintbtn").hidden=true; $("hinttext").hidden=true;
+  $("next").hidden=false; $("next").textContent = i+1<deck.length ? "Next" : "See result"; $("next").focus();
+}
+function next(){
+  $("art").style.borderBottomColor="";
+  if(i+1<deck.length){i++;show()} else finish();
+}
+function finish(){
+  $("quiz").hidden=true; $("result").hidden=false;
+  $("final").textContent=`${score}/${deck.length}`;
+  const p=score/deck.length;
+  $("final").className="score "+(p>=.8?"ok":p<.5?"bad":"");
+  $("verdict").textContent = p===1?"Perfect round.":p>=.8?"Strong. Review the misses below.":p>=.5?"Getting there. The misses show which clues to revisit.":"Go back over the clue tables, then retry the misses.";
+  $("missed").innerHTML = missed.map(([w,en,g,why])=>`<li><b class="c-${g}">${g} ${w}</b><span>${en}. ${why}</span></li>`).join("");
+  $("retryMissed").hidden = missed.length===0;
+}
+document.querySelectorAll(".keys button").forEach(b=>b.onclick=()=>answer(b.dataset.g));
+$("next").onclick=next;
+$("hintbtn").onclick=()=>{$("hinttext").textContent=deck[i][5];$("hinttext").hidden=false;$("hintbtn").hidden=true};
+$("again").onclick=()=>start();
+$("retryMissed").onclick=()=>start(shuffle(missed));
+document.addEventListener("keydown",e=>{
+  if($("quiz").hidden||e.target.closest&&e.target.closest(".modes")) return;
+  if(!answered && ["1","2","3"].includes(e.key)) answer(["der","die","das"][+e.key-1]);
+  else if(answered && (e.key==="Enter"||e.key===" ") && e.target.tagName!=="BUTTON"){e.preventDefault();next()}
+});
+buildModes(); start();
+</script>
+
+</body></html>

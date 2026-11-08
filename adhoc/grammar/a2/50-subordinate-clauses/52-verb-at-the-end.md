@@ -145,4 +145,4 @@ Connect the sentences.
 - Subordinate clause first → **verb, verb** (Wenn ich Zeit habe, komme ich).
 - W-questions inside sentences also send the verb to the end.
 
-You've finished topic 5! Next topic: [Reflexive verbs](60-reflexive-verbs.md).
+You've finished topic 5! Next topic: [Reflexive verbs](../60-reflexive-verbs.md).

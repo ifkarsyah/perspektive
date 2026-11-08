@@ -86,7 +86,7 @@ And: haben → **gehabt**.
 
 ## Type 4: Separable verbs → ge- goes in the middle
 
-For [separable verbs](../a1/61-separable-verbs.md), the **ge-** goes **between the prefix and the verb**:
+For [separable verbs](../../a1/60-separable-verbs.md), the **ge-** goes **between the prefix and the verb**:
 
 | Infinitive  | Prefix + ge + participle | Result          |
 | ----------- | ------------------------ | --------------- |
@@ -182,4 +182,4 @@ Make the participle.
 - **Separable**: ge- in the middle (eingekauft).
 - **No ge-**: be-/ver-/er-... verbs and -ieren verbs (besucht, studiert).
 
-You've finished topic 4! Next topic: [Subordinate clauses](50-subordinate-clauses.md).
+You've finished topic 4! Next topic: [Subordinate clauses](../50-subordinate-clauses/50-subordinate-clauses.md).

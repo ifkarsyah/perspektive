@@ -1,8 +1,35 @@
-# nicht vs kein
+# Negation
 
 ## The idea in one sentence
 
 Use **kein** to negate a noun that has **"a" or no article**. Use **nicht** for **everything else**.
+
+## Compare with English
+
+English uses one main trick: put **"don't"** or **"not"** in the sentence.
+
+- I **don't** work.
+- I **don't** have a car.
+- It's **not** expensive.
+
+German has **two** words for this, and you have to pick the right one:
+
+- **nicht** = not
+- **kein** = no / not a / not any
+
+| English                 | German                     |
+| ----------------------- | -------------------------- |
+| I don't work.           | Ich arbeite **nicht**.     |
+| I don't have a car.     | Ich habe **kein** Auto.    |
+| It's not expensive.     | Es ist **nicht** teuer.    |
+
+## Why it matters
+
+Using the wrong one is one of the most common beginner mistakes. "Ich habe nicht Auto" sounds very wrong to a German. And getting the position of nicht right makes you sound natural.
+
+## Also: there's no "do"
+
+Just like questions, German doesn't use "do/don't". You never say "Ich tue nicht arbeiten". You just add nicht: Ich arbeite **nicht**.
 
 ## The simple test
 
@@ -126,4 +153,4 @@ nicht or kein (with the right ending)?
 - nicht goes at the **end** by default, or **before** an adjective, place, or end-verb.
 - "Yes" to a negative question = **doch**.
 
-You've finished topic 4! Next topic: [Modal verbs](50-modal-verbs.md).
+You've finished topic 4! Next topic: [Modal verbs](50-modal-verbs/50-modal-verbs.md).

@@ -1,8 +1,29 @@
-# für, ohne, durch, gegen, um
+# Accusative Prepositions
 
 ## The idea in one sentence
 
 After **durch, ohne, gegen, für, um**, the noun is **always accusative**, which means only masculine changes (der → den, ein → einen).
+
+## Prepositions decide the case
+
+Prepositions are small words like **for**, **without**, **through**. In German, a preposition **decides the case** of the noun after it.
+
+In [nominative and accusative](30-nominative-and-accusative/30-nominative-and-accusative.md) you learned the case depends on the noun's job (subject or object). Prepositions are a shortcut: **certain prepositions always force the accusative**, no matter what.
+
+## Compare with English
+
+English does this too, with pronouns:
+
+- This is **for me**. (not "for I")
+- Without **him**. (not "without he")
+
+After a preposition, English uses the object form (me, him, her). German does the same thing, but also with articles:
+
+- für **den** Mann (for the man) — not "für der Mann"
+
+## Why it matters
+
+"für" and "ohne" especially come up all the time: "Is this for me?", "Coffee without sugar", "for my mother". And the rule is simple: these five **always** take the accusative.
 
 ## Step 1: What each one means
 
@@ -18,7 +39,7 @@ Memory trick: **DOGFU** = **D**urch, **O**hne, **G**egen, **F**ür, **U**m.
 
 ## Step 2: Only masculine changes
 
-You already know this from [nominative and accusative](30-nominative-and-accusative.md). After these prepositions:
+You already know this from [nominative and accusative](30-nominative-and-accusative/30-nominative-and-accusative.md). After these prepositions:
 
 | Gender     | Nominative | After für (accusative) |
 | ---------- | ---------- | ---------------------- |
@@ -64,7 +85,7 @@ Compare with English: I → me, he → him. German: ich → **mich**, er → **i
 
 ## Two meanings of um
 
-You've seen **um** before in [time expressions](71-time-expressions.md):
+You've seen **um** before in [time expressions](70-time-expressions.md):
 
 - **um** 8 Uhr = **at** 8 o'clock (time)
 - **um** den Tisch = **around** the table (place)

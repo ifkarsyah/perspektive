@@ -54,4 +54,4 @@ In accusative, only masculine changed. In dative, **every gender changes**. But 
 2. [Pronouns](12-dative-pronouns.md): mir, dir, ihm, ihr...
 3. [The three uses](13-dative-uses.md): when you actually need the dative.
 
-Overview of all three cases: [../2-nominative-accusative-dative.md](../2-nominative-accusative-dative.md)
+Overview of all three cases: [../../2-nominative-accusative-dative.md](../../2-nominative-accusative-dative.md)

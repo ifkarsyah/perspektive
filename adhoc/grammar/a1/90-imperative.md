@@ -1,8 +1,38 @@
-# Imperative Forms
+# Imperative
+
+## What is this about?
+
+The imperative is the form for **giving commands, instructions, and requests**: "Come here!", "Please sit down", "Open the window".
 
 ## The idea in one sentence
 
 All three imperative forms come from the **present tense you already know**: just take the du, ihr, or Sie form and change it a little.
+
+## Compare with English
+
+English has one imperative form, and it's very simple: just the verb.
+
+- **Come!**
+- **Sit down**, please.
+- **Open** the window.
+
+It's the same whether you talk to a friend, a group, or your boss.
+
+German has **three** forms, because it has three kinds of "you" ([du, ihr, Sie](10-present-tense-and-sentence-basic/11-personal-pronouns.md)):
+
+| Talking to       | German             | English   |
+| ---------------- | ------------------ | --------- |
+| one friend (du)  | **Komm!**          | Come!     |
+| friends (ihr)    | **Kommt!**         | Come!     |
+| formal (Sie)     | **Kommen Sie!**    | Come!     |
+
+## Why it matters
+
+You'll hear the imperative constantly: from teachers (Hören Sie! Lesen Sie!), on signs (Bitte nicht rauchen), in instructions, and from friends (Komm mit!). And you'll need it to ask people to do things.
+
+## Don't worry about sounding rude
+
+A German imperative isn't automatically rude. Adding **bitte** (please) makes it polite: "Kommen Sie bitte herein." is a perfectly normal, friendly sentence.
 
 ## Form 1: Sie (formal) — the easiest
 
@@ -77,7 +107,7 @@ sein is weird everywhere, and here too:
 
 ## Separable verbs: prefix to the end
 
-Same rule as always ([separable verbs](61-separable-verbs.md)):
+Same rule as always ([separable verbs](60-separable-verbs.md)):
 
 - aufstehen → **Steh auf!** (Get up!)
 - anrufen → **Ruf mich an!** (Call me!)

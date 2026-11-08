@@ -128,4 +128,4 @@ Put the words in order.
 - Questions: modal goes first, main verb still at the end.
 - nicht goes right before the main verb.
 
-You've finished topic 5! Next topic: [Separable verbs](60-separable-verbs.md), which use the same sandwich idea.
+You've finished topic 5! Next topic: [Separable verbs](../60-separable-verbs.md), which use the same sandwich idea.

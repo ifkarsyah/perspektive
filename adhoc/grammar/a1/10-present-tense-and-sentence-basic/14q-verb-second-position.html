@@ -1,0 +1,398 @@
+<!doctype html><html><head><meta charset=utf8><meta name=viewport content="width=device-width,initial-scale=1,viewport-fit=cover"><style>:root{color-scheme:light;box-sizing:border-box;padding-top:env(safe-area-inset-top,0px);padding-bottom:env(safe-area-inset-bottom,0px)}html{scroll-padding-top:env(safe-area-inset-top,0px)}body{margin:0;padding:0;font:14px -apple-system,BlinkMacSystemFont,sans-serif;background:#fff;color:#000}img{max-width:100%}[hidden]:not([hidden=until-found i]){display:none!important}</style></head><body>
+<title>Verb auf Platz 2 Quiz</title>
+<meta name="claude:viewport-fit-sides" content="cover">
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Bricolage+Grotesque:opsz,wght@12..96,500;12..96,700&family=IBM+Plex+Sans:wght@400;500;600&family=IBM+Plex+Mono:wght@500;600&display=swap">
+<style>
+/* Layout: one narrow column. The sentence is a row of seats: blue seat 1, amber seat 2 (the verb), outlined rest, dashed seat 0 for und/aber/oder/denn/sondern. */
+:root {
+  --bg: #EEF1EF;
+  --surface: #FBFCFB;
+  --ink: #15202A;
+  --muted: #55626D;
+  --line: #D3DAD6;
+  --s1: #20405F;
+  --s1-ink: #FFFFFF;
+  --verb: #F4B63F;
+  --verb-ink: #2A1D00;
+  --good: #19704A;
+  --good-bg: #DDF1E5;
+  --bad: #B3382C;
+  --bad-bg: #F8E0DC;
+  --focus: #2F6FB3;
+  --display: "Bricolage Grotesque", "Helvetica Neue", Arial, sans-serif;
+  --body: "IBM Plex Sans", system-ui, -apple-system, "Segoe UI", sans-serif;
+  --mono: "IBM Plex Mono", ui-monospace, "SF Mono", Menlo, monospace;
+}
+@media (prefers-color-scheme: dark) {
+  :root:not([data-theme="light"]) {
+    --bg: #11171C; --surface: #1A232A; --ink: #E8EEF2; --muted: #93A1AC; --line: #2C3841;
+    --s1: #7FA9D6; --s1-ink: #0E1A26; --verb: #F4B63F; --verb-ink: #2A1D00;
+    --good: #5FCB93; --good-bg: #17332A; --bad: #F08A7E; --bad-bg: #3A1E1B; --focus: #7FB2E8;
+    color-scheme: dark;
+  }
+}
+:root[data-theme="dark"] {
+  --bg: #11171C; --surface: #1A232A; --ink: #E8EEF2; --muted: #93A1AC; --line: #2C3841;
+  --s1: #7FA9D6; --s1-ink: #0E1A26; --verb: #F4B63F; --verb-ink: #2A1D00;
+  --good: #5FCB93; --good-bg: #17332A; --bad: #F08A7E; --bad-bg: #3A1E1B; --focus: #7FB2E8;
+  color-scheme: dark;
+}
+* { box-sizing: border-box; }
+body {
+  background: var(--bg); color: var(--ink); font-family: var(--body); font-size: 16px; line-height: 1.5;
+  padding-block: 24px 48px;
+  padding-left: max(16px, env(safe-area-inset-left, 0px));
+  padding-right: max(16px, env(safe-area-inset-right, 0px));
+}
+.wrap { max-width: 640px; margin: 0 auto; display: flex; flex-direction: column; gap: 20px; }
+h1 { font-family: var(--display); margin: 0; text-wrap: balance; line-height: 1.1; font-size: clamp(2rem, 7vw, 2.75rem); font-weight: 700; letter-spacing: -0.02em; }
+.sub { margin: 6px 0 0; color: var(--muted); }
+button { font: inherit; color: inherit; cursor: pointer; }
+:focus-visible { outline: 3px solid var(--focus); outline-offset: 2px; }
+
+.modes { display: flex; flex-wrap: wrap; gap: 8px; }
+.mode { border: 1.5px solid var(--line); background: var(--surface); border-radius: 999px; padding: 7px 14px; font-size: 0.9rem; font-weight: 500; }
+.mode[aria-pressed="true"] { background: var(--ink); color: var(--bg); border-color: var(--ink); }
+
+.bar { display: flex; align-items: center; gap: 12px; }
+.dots { display: flex; gap: 6px; flex: 1; min-width: 0; }
+.dot { height: 8px; flex: 1; border-radius: 4px; background: var(--line); }
+.dot.now { background: var(--muted); } .dot.ok { background: var(--good); } .dot.no { background: var(--bad); }
+.streak { font-family: var(--mono); font-size: 0.85rem; color: var(--muted); white-space: nowrap; font-variant-numeric: tabular-nums; }
+
+.card { background: var(--surface); border: 1.5px solid var(--line); border-radius: 14px; padding: 22px; display: flex; flex-direction: column; gap: 18px; }
+.kind { font-size: 0.75rem; letter-spacing: 0.08em; text-transform: uppercase; color: var(--muted); font-weight: 600; margin: 0; }
+.prompt { font-family: var(--display); font-size: clamp(1.4rem, 5.2vw, 1.9rem); line-height: 1.3; margin: 0; }
+.hint { color: var(--muted); font-size: 0.95rem; margin: 0; }
+.orig { font-size: clamp(1.1rem, 4.2vw, 1.35rem); margin: 0; }
+.orig mark { background: color-mix(in srgb, var(--verb) 45%, transparent); color: inherit; border-radius: 4px; padding: 0 4px; }
+.say { font-size: clamp(1.15rem, 4.4vw, 1.5rem); margin: 0; font-weight: 500; }
+
+/* seats (feedback) */
+.seats { display: flex; flex-wrap: wrap; gap: 6px; }
+.seat { display: flex; flex-direction: column; border-radius: 8px; padding: 6px 10px; min-width: 0; border: 1.5px solid var(--line); background: var(--surface); }
+.seat b { font-family: var(--mono); font-weight: 500; font-size: 0.68rem; letter-spacing: 0.04em; text-transform: uppercase; opacity: .75; }
+.seat span { font-weight: 600; overflow-wrap: anywhere; }
+.seat.z { border-style: dashed; color: var(--muted); }
+.seat.a { background: var(--s1); border-color: var(--s1); color: var(--s1-ink); }
+.seat.v { background: var(--verb); border-color: var(--verb); color: var(--verb-ink); }
+
+/* builder */
+.slots { display: flex; flex-wrap: wrap; gap: 8px; }
+.slot { border: 2px dashed var(--line); border-radius: 10px; padding: 8px; display: flex; flex-direction: column; gap: 6px; min-height: 68px; min-width: 0; flex: 0 1 auto; }
+.slot.rest { flex: 1 1 160px; }
+.slot > b { font-family: var(--mono); font-weight: 500; font-size: 0.68rem; letter-spacing: 0.04em; text-transform: uppercase; color: var(--muted); }
+.slot .in { display: flex; flex-wrap: wrap; gap: 6px; min-height: 34px; align-items: center; }
+.slot .ph { color: var(--muted); font-family: var(--mono); }
+.pool { display: flex; flex-wrap: wrap; gap: 8px; min-height: 44px; }
+.chip { border: 1.5px solid var(--line); background: var(--bg); border-radius: 8px; padding: 7px 12px; font-weight: 500; }
+.chip:hover:not(:disabled) { border-color: var(--ink); }
+.chip.p1 { background: var(--s1); border-color: var(--s1); color: var(--s1-ink); }
+.chip.p2 { background: var(--verb); border-color: var(--verb); color: var(--verb-ink); }
+.chip:disabled { cursor: default; }
+.row { display: flex; gap: 10px; flex-wrap: wrap; align-items: center; }
+
+/* options */
+.opts { display: grid; grid-template-columns: repeat(2, minmax(0, 1fr)); gap: 10px; }
+.opts.one { grid-template-columns: 1fr; }
+.opt { border: 1.5px solid var(--line); background: var(--bg); border-radius: 10px; padding: 12px 14px; text-align: left; font-size: 1.05rem; font-weight: 500; min-width: 0; overflow-wrap: anywhere; }
+.opts.big .opt { text-align: center; font-size: 1.15rem; font-weight: 600; padding: 18px 12px; }
+.opt small { display: block; font-weight: 400; color: var(--muted); font-size: 0.82rem; margin-top: 2px; }
+.opt:hover:not(:disabled) { border-color: var(--ink); }
+.opt.ok { background: var(--good-bg); border-color: var(--good); }
+.opt.no { background: var(--bad-bg); border-color: var(--bad); }
+.opt:disabled { cursor: default; }
+.opt:disabled:not(.ok):not(.no) { opacity: .55; }
+
+.btn { border: 0; background: var(--ink); color: var(--bg); border-radius: 10px; padding: 11px 20px; font-weight: 600; }
+.btn.ghost { background: transparent; color: var(--ink); border: 1.5px solid var(--line); }
+.btn:disabled { opacity: .4; cursor: default; }
+.fb { border-radius: 10px; padding: 14px 16px; display: flex; flex-direction: column; gap: 12px; }
+.fb.ok { background: var(--good-bg); } .fb.no { background: var(--bad-bg); }
+.fb strong { font-family: var(--display); font-size: 1.15rem; }
+.fb.ok strong { color: var(--good); } .fb.no strong { color: var(--bad); }
+.fb p { margin: 0; }
+.fb .seat { background: var(--surface); }
+.fb .seat.a { background: var(--s1); } .fb .seat.v { background: var(--verb); }
+
+details { background: var(--surface); border: 1.5px solid var(--line); border-radius: 14px; padding: 0 18px; }
+summary { cursor: pointer; padding: 14px 0; font-weight: 600; }
+.peek { display: flex; flex-direction: column; gap: 10px; padding-bottom: 8px; }
+.extra { padding-bottom: 16px; color: var(--muted); font-size: 0.92rem; margin: 0; }
+
+.score { font-family: var(--display); font-size: clamp(3rem, 14vw, 5rem); font-weight: 700; line-height: 1; font-variant-numeric: tabular-nums; }
+.score small { font-size: 0.4em; color: var(--muted); font-weight: 500; }
+.missed { display: flex; flex-direction: column; gap: 8px; margin: 0; padding: 0; list-style: none; }
+.missed li { border: 1.5px solid var(--line); border-radius: 10px; padding: 10px 12px; display: flex; flex-direction: column; gap: 2px; }
+.missed .ans { font-weight: 600; }
+.missed .you { color: var(--bad); text-decoration: line-through; }
+@media (max-width: 420px) { .card { padding: 16px; } .opts { grid-template-columns: 1fr; } .opts.big { grid-template-columns: repeat(2, minmax(0, 1fr)); } }
+</style>
+
+<div class="wrap">
+  <header>
+    <h1>Verb auf Platz 2 Quiz</h1>
+    <p class="sub">The verb always takes seat 2. Rebuild sentences, find the right order, and decide who gets a seat.</p>
+  </header>
+
+  <div class="modes" id="modes" role="group" aria-label="Question type"></div>
+
+  <div class="bar">
+    <div class="dots" id="dots" aria-hidden="true"></div>
+    <div class="streak" id="streak">Streak 0</div>
+  </div>
+
+  <main id="stage"></main>
+
+  <details>
+    <summary>Peek at the seats</summary>
+    <div class="peek" id="peek"></div>
+    <p class="extra">Seat 1 holds one thing: a word or a group like "Am Montag". If it is not the subject, the subject goes right behind the verb. und, aber, oder, denn and sondern sit in seat 0 and take no seat.</p>
+  </details>
+</div>
+
+<script>
+(function () {
+  "use strict";
+
+  function rnd(n) { return Math.floor(Math.random() * n); }
+  function shuffle(a) { a = a.slice(); for (var i = a.length - 1; i > 0; i--) { var j = rnd(i + 1), t = a[i]; a[i] = a[j]; a[j] = t; } return a; }
+  function esc(s) { return String(s).replace(/&/g, "&amp;").replace(/</g, "&lt;"); }
+
+  /* seats = [seat0, seat1, verb, rest] */
+  function seatsHTML(a) {
+    var h = '<div class="seats">';
+    if (a[0]) h += '<div class="seat z"><b>Seat 0</b><span>' + esc(a[0]) + "</span></div>";
+    h += '<div class="seat a"><b>Seat 1</b><span>' + esc(a[1]) + "</span></div>";
+    h += '<div class="seat v"><b>Seat 2 verb</b><span>' + esc(a[2]) + "</span></div>";
+    if (a[3]) h += '<div class="seat"><b>Rest</b><span>' + esc(a[3]) + "</span></div>";
+    return h + "</div>";
+  }
+  document.getElementById("peek").innerHTML =
+    seatsHTML(["", "Ich", "trinke", "morgens Kaffee."]) + seatsHTML(["", "Morgens", "trinke", "ich Kaffee."]) +
+    seatsHTML(["", "Kaffee", "trinke", "ich morgens."]) + seatsHTML(["aber", "mein Bruder", "lernt", "Spanisch."]);
+
+  /* ---------- banks ---------- */
+  // build: [original, start, chips in correct order]
+  var BUILD = [
+    ["Ich spiele am Samstag Tennis.", "am Samstag", ["Am Samstag", "spiele", "ich", "Tennis"]],
+    ["Wir essen heute Pizza.", "heute", ["Heute", "essen", "wir", "Pizza"]],
+    ["Er wohnt seit 2020 in Berlin.", "seit 2020", ["Seit 2020", "wohnt", "er", "in Berlin"]],
+    ["Ich trinke abends Tee.", "abends", ["Abends", "trinke", "ich", "Tee"]],
+    ["Sie arbeitet in München.", "in München", ["In München", "arbeitet", "sie"]],
+    ["Ich gehe heute ins Kino.", "heute", ["Heute", "gehe", "ich", "ins Kino"]],
+    ["Mein Bruder geht nach der Arbeit ins Kino.", "nach der Arbeit", ["Nach der Arbeit", "geht", "mein Bruder", "ins Kino"]],
+    ["Wir spielen am Wochenende Fußball.", "am Wochenende", ["Am Wochenende", "spielen", "wir", "Fußball"]],
+    ["Ich trinke morgens Kaffee.", "Kaffee", ["Kaffee", "trinke", "ich", "morgens"]],
+    ["Er spielt jetzt Gitarre.", "jetzt", ["Jetzt", "spielt", "er", "Gitarre"]],
+    ["Ich lerne jeden Tag Deutsch.", "jeden Tag", ["Jeden Tag", "lerne", "ich", "Deutsch"]],
+    ["Meine Schwester arbeitet in Hamburg.", "in Hamburg", ["In Hamburg", "arbeitet", "meine Schwester"]]
+  ];
+  // spot: [right, wrong1, wrong2, why, seats]
+  var SPOT = [
+    ["Heute gehe ich ins Kino.", "Heute ich gehe ins Kino.", "Heute gehe ins Kino ich.", "Two things before the verb is wrong. Heute is seat 1, the verb is seat 2.", ["", "Heute", "gehe", "ich ins Kino."]],
+    ["Am Wochenende spielen wir Fußball.", "Am Wochenende wir spielen Fußball.", "Am Wochenende spielen Fußball wir.", "Flip subject and verb: the subject goes right after the verb.", ["", "Am Wochenende", "spielen", "wir Fußball."]],
+    ["Ich lerne Deutsch, aber mein Bruder lernt Spanisch.", "Ich lerne Deutsch, aber lernt mein Bruder Spanisch.", "Ich lerne Deutsch, aber mein Bruder Spanisch lernt.", "aber sits in seat 0, so mein Bruder still takes seat 1.", ["aber", "mein Bruder", "lernt", "Spanisch."]],
+    ["Ich bin müde, aber er spielt Gitarre.", "Ich bin müde, aber spielt er Gitarre.", "Ich bin müde, aber Gitarre er spielt.", "aber does not take a seat.", ["aber", "er", "spielt", "Gitarre."]],
+    ["Morgens trinke ich Kaffee.", "Morgens trinke Kaffee ich.", "Morgens ich trinke Kaffee.", "The subject comes right after the verb.", ["", "Morgens", "trinke", "ich Kaffee."]],
+    ["Seit 2020 wohnt er in Berlin.", "Seit 2020 er wohnt in Berlin.", "Seit 2020 wohnt in Berlin er.", "Seit 2020 is one piece of information, so it fills seat 1.", ["", "Seit 2020", "wohnt", "er in Berlin."]],
+    ["Nach der Arbeit gehe ich ins Kino.", "Nach der Arbeit ich gehe ins Kino.", "Nach der Arbeit gehe ins Kino ich.", "A group of words can fill seat 1, then the verb, then the subject.", ["", "Nach der Arbeit", "gehe", "ich ins Kino."]],
+    ["Abends trinke ich Tee.", "Abends ich trinke Tee.", "Abends Tee trinke ich.", "Abends and Tee would both be before the verb. Only one thing fits in seat 1.", ["", "Abends", "trinke", "ich Tee."]],
+    ["Kaffee trinke ich morgens.", "Kaffee ich trinke morgens.", "Kaffee trinke morgens ich.", "Seat 1 can hold the object too. The verb stays in seat 2.", ["", "Kaffee", "trinke", "ich morgens."]],
+    ["Heute essen wir Pizza.", "Heute wir essen Pizza.", "Heute Pizza essen wir.", "One thing in seat 1, the verb in seat 2, then the subject.", ["", "Heute", "essen", "wir Pizza."]]
+  ];
+  // seat: [word, answer(0|1), example seats, note]
+  var SEAT = [
+    ["und", 0, ["und", "morgen", "spiele", "ich Tennis."], "Ich arbeite heute, und morgen spiele ich Tennis."],
+    ["aber", 0, ["aber", "er", "trinkt", "Tee."], "Ich esse Pizza, aber er trinkt Tee."],
+    ["oder", 0, ["oder", "wir", "gehen", "ins Kino."], "Ich bleibe hier, oder wir gehen ins Kino."],
+    ["denn", 0, ["denn", "ich", "ziehe", "nach Berlin."], "Ich lerne Deutsch, denn ich ziehe nach Berlin."],
+    ["sondern", 0, ["sondern", "er", "wohnt", "in Berlin."], "Er wohnt nicht in Hamburg, sondern er wohnt in Berlin."],
+    ["heute", 1, ["", "Heute", "gehe", "ich ins Kino."], "Heute gehe ich ins Kino."],
+    ["am Montag", 1, ["", "Am Montag", "gehe", "ich ins Kino."], "Am Montag gehe ich ins Kino."],
+    ["nach der Arbeit", 1, ["", "Nach der Arbeit", "gehe", "ich ins Kino."], "Nach der Arbeit gehe ich ins Kino."],
+    ["morgens", 1, ["", "Morgens", "trinke", "ich Kaffee."], "Morgens trinke ich Kaffee."]
+  ];
+  // judge: [sentence, ok, seats, why, fixed]
+  var JUDGE = [
+    ["Morgen ich fahre nach Hamburg.", false, ["", "Morgen", "fahre", "ich nach Hamburg."], "Two things stand before the verb. The verb must be in seat 2, so ich moves behind it.", "Morgen fahre ich nach Hamburg."],
+    ["Heute arbeite ich.", true, ["", "Heute", "arbeite", "ich."], "Heute fills seat 1, the verb stays in seat 2, and ich follows."],
+    ["Ich bin müde, aber spielt er Gitarre.", false, ["aber", "er", "spielt", "Gitarre."], "aber sits in seat 0, so er still takes seat 1.", "Ich bin müde, aber er spielt Gitarre."],
+    ["Am Montag gehe ich ins Kino.", true, ["", "Am Montag", "gehe", "ich ins Kino."], "Am Montag is one piece of information, so it fills seat 1 alone."],
+    ["Mein kleiner Bruder geht heute ins Kino.", true, ["", "Mein kleiner Bruder", "geht", "heute ins Kino."], "A whole group of words can fill seat 1."],
+    ["Abends ich trinke Tee.", false, ["", "Abends", "trinke", "ich Tee."], "Abends is in seat 1, so the verb comes next and ich moves behind it.", "Abends trinke ich Tee."],
+    ["Seit 2020 wohnt er in Berlin.", true, ["", "Seit 2020", "wohnt", "er in Berlin."], "Seit 2020 fills seat 1, the verb is in seat 2, the subject follows."],
+    ["Ich lerne Deutsch, aber mein Bruder lernt Spanisch.", true, ["aber", "mein Bruder", "lernt", "Spanisch."], "aber takes no seat, so mein Bruder is seat 1 of the second part."],
+    ["Kaffee trinke ich morgens.", true, ["", "Kaffee", "trinke", "ich morgens."], "Seat 1 can be the object. The verb still sits in seat 2."],
+    ["Am Wochenende wir spielen Fußball.", false, ["", "Am Wochenende", "spielen", "wir Fußball."], "The verb must be in seat 2, so wir moves behind it.", "Am Wochenende spielen wir Fußball."]
+  ];
+
+  function qBuild(r) {
+    var correct = r[2], order = shuffle(correct.map(function (_, i) { return i; })), t = 0;
+    while (correct.length > 2 && order.every(function (v, i) { return v === i; }) && t++ < 20) order = shuffle(order);
+    var sentence = correct.join(" ") + ".";
+    return { kind: "build", orig: r[0], start: r[1], chips: correct, order: order, placed: [], answer: sentence,
+      seats: ["", correct[0], correct[1], correct.slice(2).join(" ") + "."], why: "The verb stays in seat 2 and the subject jumps behind it." };
+  }
+  function qSpot(r) { return { kind: "spot", answer: r[0], options: shuffle([r[0], r[1], r[2]]), why: r[3], seats: r[4] }; }
+  function qSeat(r) { return { kind: "seat", word: r[0], answer: r[1] === 0 ? "Seat 0" : "Seat 1", options: ["Seat 0", "Seat 1"], seats: r[2], ex: r[3],
+    why: r[1] === 0 ? r[0] + " only connects two sentences, so it takes no seat." : r[0] + " is one piece of information, so it fills seat 1." }; }
+  function qJudge(r) { return { kind: "judge", sentence: r[0], answer: r[1] ? "Correct" : "Wrong", options: ["Correct", "Wrong"], seats: r[2], why: r[3], fixed: r[4] || "" }; }
+  function take(arr, n, fn) { return shuffle(arr).slice(0, n).map(fn); }
+  function build(mode) {
+    if (mode === "build") return take(BUILD, 10, qBuild);
+    if (mode === "spot") return take(SPOT, 10, qSpot);
+    if (mode === "seat") return take(SEAT, 9, qSeat);
+    if (mode === "judge") return take(JUDGE, 10, qJudge);
+    return shuffle([].concat(take(BUILD, 3, qBuild), take(SPOT, 3, qSpot), take(SEAT, 2, qSeat), take(JUDGE, 2, qJudge)));
+  }
+
+  /* ---------- state ---------- */
+  var MODES = [["mix", "Mixed"], ["build", "Build it"], ["spot", "Right order"], ["seat", "Seat 0 or 1"], ["judge", "Correct or wrong"]];
+  var st = { mode: "mix", qs: [], i: 0, res: [], answered: false, streak: 0, best: 0 };
+  var $stage = document.getElementById("stage"), $dots = document.getElementById("dots"),
+      $streak = document.getElementById("streak"), $modes = document.getElementById("modes");
+
+  function start(mode, qs) {
+    st.mode = mode; st.qs = qs || build(mode); st.i = 0; st.res = []; st.answered = false; st.streak = 0;
+    drawModes(); render();
+  }
+  function drawModes() {
+    $modes.innerHTML = "";
+    MODES.forEach(function (m) {
+      var b = document.createElement("button");
+      b.type = "button"; b.className = "mode"; b.textContent = m[1];
+      b.setAttribute("aria-pressed", String(st.mode === m[0]));
+      b.onclick = function () { start(m[0]); };
+      $modes.appendChild(b);
+    });
+  }
+  function drawBar() {
+    $dots.innerHTML = "";
+    st.qs.forEach(function (_, i) {
+      var d = document.createElement("span");
+      d.className = "dot" + (i < st.res.length ? (st.res[i].ok ? " ok" : " no") : i === st.i ? " now" : "");
+      $dots.appendChild(d);
+    });
+    $streak.textContent = "Streak " + st.streak;
+  }
+
+  /* ---------- render ---------- */
+  function optsHTML(q, cls) {
+    return '<div class="opts ' + cls + '">' + q.options.map(function (o, k) {
+      var sub = q.kind === "seat" ? "<small>" + (k === 0 ? "just connects" : "counts as first thing") + "</small>" : "";
+      return '<button type="button" class="opt" data-k="' + k + '">' + esc(o) + sub + "</button>";
+    }).join("") + "</div>";
+  }
+  function render() {
+    drawBar();
+    if (st.i >= st.qs.length) return renderResult();
+    var q = st.qs[st.i];
+    st.answered = false;
+    var head = '<p class="kind">Question ' + (st.i + 1) + " of " + st.qs.length + "</p>", body = "";
+    if (q.kind === "build") {
+      q.placed = [];
+      body = head + '<p class="orig">' + esc(q.orig) + '</p><p class="prompt">Start with “' + esc(q.start) + '”.</p>' +
+        '<div class="slots" id="slots"></div><div class="pool" id="pool"></div>' +
+        '<div class="row"><button type="button" class="btn" id="check" disabled>Check</button><button type="button" class="btn ghost" id="clear">Clear</button></div>';
+    } else if (q.kind === "spot") {
+      body = head + '<p class="prompt">One sentence is correct. Tap it.</p>' + optsHTML(q, "one");
+    } else if (q.kind === "seat") {
+      body = head + '<p class="prompt">Where does <mark style="background:color-mix(in srgb, var(--verb) 45%, transparent);color:inherit;border-radius:4px;padding:0 6px">' + esc(q.word) + "</mark> sit?</p>" + optsHTML(q, "big");
+    } else {
+      body = head + '<p class="prompt">' + esc(q.sentence) + '</p><p class="hint">Is this correct German word order?</p>' + optsHTML(q, "big");
+    }
+    $stage.innerHTML = '<div class="card" id="card">' + body + '<div id="fb" aria-live="polite"></div></div>';
+    if (q.kind === "build") { drawBuild(q); document.getElementById("check").onclick = function () { checkBuild(q); }; document.getElementById("clear").onclick = function () { if (!st.answered) { q.placed = []; drawBuild(q); } }; }
+    else document.querySelectorAll(".opt").forEach(function (b) {
+      b.onclick = function () { if (st.answered) return; var o = q.options[+b.dataset.k]; finish(q, o === q.answer, o, b); };
+    });
+  }
+
+  function drawBuild(q) {
+    var labels = ["Seat 1", "Seat 2 verb", "Rest"], groups = [q.placed.slice(0, 1), q.placed.slice(1, 2), q.placed.slice(2)], pos = 0;
+    var slots = document.getElementById("slots");
+    slots.innerHTML = groups.map(function (g, gi) {
+      var inner = g.length ? g.map(function (ci) {
+        var p = pos++;
+        return '<button type="button" class="chip ' + (gi === 0 ? "p1" : gi === 1 ? "p2" : "") + '" data-p="' + p + '"' + (st.answered ? " disabled" : "") + ">" + esc(q.chips[ci]) + "</button>";
+      }).join("") : '<span class="ph">…</span>';
+      return '<div class="slot' + (gi === 2 ? " rest" : "") + '"><b>' + labels[gi] + '</b><div class="in">' + inner + "</div></div>";
+    }).join("");
+    var pool = document.getElementById("pool");
+    pool.innerHTML = q.order.filter(function (ci) { return q.placed.indexOf(ci) < 0; }).map(function (ci) {
+      return '<button type="button" class="chip" data-c="' + ci + '"' + (st.answered ? " disabled" : "") + ">" + esc(q.chips[ci]) + "</button>";
+    }).join("");
+    document.getElementById("check").disabled = st.answered || q.placed.length !== q.chips.length;
+    pool.querySelectorAll(".chip").forEach(function (b) { b.onclick = function () { if (st.answered) return; q.placed.push(+b.dataset.c); drawBuild(q); }; });
+    slots.querySelectorAll(".chip").forEach(function (b) { b.onclick = function () { if (st.answered) return; q.placed.splice(+b.dataset.p, 1); drawBuild(q); }; });
+  }
+  function checkBuild(q) {
+    if (st.answered) return;
+    var given = q.placed.map(function (ci) { return q.chips[ci]; }).join(" ") + ".";
+    var ok = q.placed.every(function (ci, i) { return ci === i; });
+    finish(q, ok, given, null);
+  }
+
+  function finish(q, ok, given, el) {
+    st.answered = true;
+    st.res.push({ ok: ok, q: q, given: given });
+    st.streak = ok ? st.streak + 1 : 0;
+    if (st.streak > st.best) st.best = st.streak;
+    var fb = document.getElementById("fb"), msg = "";
+
+    if (q.kind === "build") {
+      drawBuild(q);
+      document.getElementById("clear").hidden = true; document.getElementById("check").hidden = true;
+    } else {
+      document.querySelectorAll(".opt").forEach(function (b) {
+        b.disabled = true;
+        if (q.options[+b.dataset.k] === q.answer) b.classList.add("ok"); else if (b === el) b.classList.add("no");
+      });
+    }
+
+    if (q.kind === "build") msg = '<p class="say">' + esc(q.answer) + "</p>" + seatsHTML(q.seats) + "<p>" + esc(q.why) + "</p>";
+    else if (q.kind === "spot") msg = seatsHTML(q.seats) + "<p>" + esc(q.why) + "</p>";
+    else if (q.kind === "seat") msg = '<p class="say">' + esc(q.ex) + "</p>" + seatsHTML(q.seats) + "<p>" + esc(q.why) + "</p>";
+    else msg = (q.fixed ? '<p class="say">' + esc(q.fixed) + "</p>" : "") + seatsHTML(q.seats) + "<p>" + esc(q.why) + "</p>";
+
+    var h = ok ? "Richtig." : (q.kind === "spot" || q.kind === "judge" || q.kind === "build" ? "Not quite." : "Not quite. Answer: " + q.answer);
+    fb.innerHTML = '<div class="fb ' + (ok ? "ok" : "no") + '"><strong>' + esc(h) + "</strong>" + msg +
+      '<div><button type="button" class="btn" id="next">' + (st.i + 1 >= st.qs.length ? "See result" : "Next") + "</button></div></div>";
+    var nx = document.getElementById("next");
+    nx.onclick = function () { st.i++; render(); window.scrollTo({ top: 0 }); };
+    nx.focus({ preventScroll: true });
+    drawBar();
+  }
+
+  function label(q) {
+    if (q.kind === "build") return q.orig;
+    if (q.kind === "seat") return "Where does “" + q.word + "” sit?";
+    if (q.kind === "judge") return q.sentence;
+    return "";
+  }
+  function fixAnswer(q) { return q.kind === "judge" ? (q.answer === "Correct" ? "Correct as written" : "Wrong. Fix: " + q.fixed) : q.answer; }
+  function renderResult() {
+    drawBar();
+    var right = st.res.filter(function (r) { return r.ok; }).length, total = st.res.length;
+    var wrong = st.res.filter(function (r) { return !r.ok; });
+    var line = right === total ? "Perfekt. Try another type." :
+      right >= total * 0.7 ? "Solid. Replay the misses to lock them in." : "Before each sentence, ask: what is in seat 1? Then put the verb straight after it.";
+    var list = wrong.length ? '<ul class="missed">' + wrong.map(function (r) {
+      var l = label(r.q);
+      return "<li>" + (l ? '<span class="hint">' + esc(l) + "</span>" : "") + '<span class="you">' + esc(r.given) + '</span><span class="ans">' + esc(fixAnswer(r.q)) + "</span></li>";
+    }).join("") + "</ul>" : "";
+    $stage.innerHTML = '<div class="card"><p class="kind">Round complete</p><div class="score">' + right + "<small> / " + total + "</small></div><p class=\"prompt\">" + esc(line) + "</p>" +
+      '<p class="hint">Best streak ' + st.best + "</p>" + list +
+      '<div class="row"><button type="button" class="btn" id="again">New round</button>' +
+      (wrong.length ? '<button type="button" class="btn ghost" id="redo">Replay misses</button>' : "") + "</div></div>";
+    document.getElementById("again").onclick = function () { start(st.mode); };
+    var rd = document.getElementById("redo");
+    if (rd) rd.onclick = function () { start(st.mode, shuffle(wrong.map(function (r) { return r.q; }))); };
+  }
+
+  start("mix");
+})();
+</script>
+
+</body></html>

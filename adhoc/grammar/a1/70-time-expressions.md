@@ -1,8 +1,37 @@
-# am, um, im
+# Time Expressions
 
 ## The idea in one sentence
 
 **am** for days, **um** for clock times, **im** for months and seasons.
+
+## Compare with English
+
+English uses three little words: **on**, **at**, **in**.
+
+- **on** Monday
+- **at** 8 o'clock
+- **in** July
+
+German also uses three little words, and they match almost perfectly:
+
+| English     | German  | Example                  |
+| ----------- | ------- | ------------------------ |
+| **on** Monday | **am** | **am** Montag          |
+| **at** 8 o'clock | **um** | **um** 8 Uhr       |
+| **in** July  | **im** | **im** Juli             |
+
+That's the core of this topic. If you know am / um / im, you're 80% done.
+
+## Why it matters
+
+You can't make plans, book appointments, or describe your day without time expressions. And they combine nicely with [verb in second position](10-present-tense-and-sentence-basic/14-verb-second-position.md): starting a sentence with a time is very natural in German.
+
+> Am Montag gehe ich zum Deutschkurs. Um 9 Uhr beginnt der Kurs.
+
+## Also included
+
+- How to tell the time (with the tricky "halb").
+- Words like heute, morgen, immer, oft, nie.
 
 ## Step 1: The three main words
 

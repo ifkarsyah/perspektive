@@ -1,0 +1,266 @@
+<!doctype html><html><head><meta charset=utf8><meta name=viewport content="width=device-width,initial-scale=1,viewport-fit=cover"><style>:root{color-scheme:light;box-sizing:border-box;padding-top:env(safe-area-inset-top,0px);padding-bottom:env(safe-area-inset-bottom,0px)}html{scroll-padding-top:env(safe-area-inset-top,0px)}body{margin:0;padding:0;font:14px -apple-system,BlinkMacSystemFont,sans-serif;background:#fff;color:#000}img{max-width:100%}[hidden]:not([hidden=until-found i]){display:none!important}</style></head><body>
+<title>Fragen Quiz</title>
+<meta name="claude:viewport-fit-sides" content="cover">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Bricolage+Grotesque:opsz,wght@12..96,600;12..96,800&family=Atkinson+Hyperlegible:ital,wght@0,400;0,700;1,400&family=JetBrains+Mono:wght@500&display=swap">
+<style>
+/* Layout: one centered card column, U-Bahn sign header strip, question card, feedback panel below */
+:root{
+  --bg:#f3f4f1; --surface:#ffffff; --ink:#15181c; --muted:#5b6168; --line:#d9dcd6;
+  --sign:#f0d01c; --sign-ink:#15181c; --accent:#1b4fa0;
+  --good:#1f7a4a; --good-bg:#e5f3ea; --bad:#b3261e; --bad-bg:#fbe9e7;
+  --display:"Bricolage Grotesque", "Helvetica Neue", Arial, sans-serif;
+  --body:"Atkinson Hyperlegible", system-ui, sans-serif;
+  --mono:"JetBrains Mono", ui-monospace, Menlo, monospace;
+}
+@media (prefers-color-scheme: dark){:root:not([data-theme="light"]){
+  --bg:#121417; --surface:#1b1e22; --ink:#ecedea; --muted:#9aa0a7; --line:#30353b;
+  --sign:#e3c51a; --sign-ink:#121417; --accent:#8db3f2;
+  --good:#6fd39b; --good-bg:#16291f; --bad:#ff8a80; --bad-bg:#331b1a; color-scheme:dark}}
+:root[data-theme="dark"]{
+  --bg:#121417; --surface:#1b1e22; --ink:#ecedea; --muted:#9aa0a7; --line:#30353b;
+  --sign:#e3c51a; --sign-ink:#121417; --accent:#8db3f2;
+  --good:#6fd39b; --good-bg:#16291f; --bad:#ff8a80; --bad-bg:#331b1a; color-scheme:dark}
+
+*{box-sizing:border-box}
+body{background:var(--bg);color:var(--ink);font-family:var(--body);font-size:17px;line-height:1.5;
+  padding-left:max(16px,env(safe-area-inset-left,0px));padding-right:max(16px,env(safe-area-inset-right,0px));padding-block:24px 48px}
+.wrap{max-width:640px;margin:0 auto;display:flex;flex-direction:column;gap:18px}
+header.sign{background:var(--sign);color:var(--sign-ink);border-radius:6px;padding:14px 18px;display:flex;align-items:center;gap:14px;flex-wrap:wrap}
+.badge{font-family:var(--display);font-weight:800;background:var(--sign-ink);color:var(--sign);border-radius:4px;padding:2px 10px;font-size:20px}
+header h1{font-family:var(--display);font-weight:800;font-size:clamp(22px,5vw,28px);margin:0;letter-spacing:-.01em;text-wrap:balance}
+header .sub{flex-basis:100%;font-size:14px;opacity:.85}
+.progress{display:flex;align-items:center;gap:12px;font-family:var(--mono);font-size:13px;color:var(--muted);font-variant-numeric:tabular-nums}
+.bar{flex:1;height:6px;background:var(--line);border-radius:3px;overflow:hidden}
+.bar i{display:block;height:100%;background:var(--accent);width:0;transition:width .25s}
+.card{background:var(--surface);border:1px solid var(--line);border-radius:10px;padding:22px;display:flex;flex-direction:column;gap:16px}
+.tag{font-family:var(--mono);font-size:12px;text-transform:uppercase;letter-spacing:.08em;color:var(--accent)}
+.prompt{font-family:var(--display);font-weight:600;font-size:clamp(20px,4.6vw,25px);line-height:1.3;margin:0;text-wrap:balance}
+.prompt .de{font-family:var(--body);font-weight:700}
+.hint{color:var(--muted);font-size:15px;margin:-6px 0 0}
+.opts{display:grid;gap:10px}
+.opt{font:inherit;text-align:left;background:var(--bg);color:var(--ink);border:1.5px solid var(--line);border-radius:8px;padding:12px 14px;cursor:pointer;display:flex;gap:12px;align-items:center}
+.opt:hover:not(:disabled){border-color:var(--accent)}
+.opt:focus-visible,.btn:focus-visible,input:focus-visible{outline:3px solid var(--accent);outline-offset:2px}
+.opt kbd{font-family:var(--mono);font-size:12px;color:var(--muted);border:1px solid var(--line);border-radius:4px;padding:0 6px;flex:none}
+.opt.correct{border-color:var(--good);background:var(--good-bg)}
+.opt.wrong{border-color:var(--bad);background:var(--bad-bg)}
+.opt:disabled{cursor:default}
+.typein{display:flex;gap:10px;flex-wrap:wrap}
+.typein input{flex:1 1 220px;min-width:0;font:inherit;padding:12px 14px;border:1.5px solid var(--line);border-radius:8px;background:var(--bg);color:var(--ink)}
+.typein input.correct{border-color:var(--good);background:var(--good-bg)}
+.typein input.wrong{border-color:var(--bad);background:var(--bad-bg)}
+.umlauts{display:flex;gap:6px}
+.umlauts button{font:inherit;width:38px;height:38px;border:1px solid var(--line);border-radius:6px;background:var(--surface);color:var(--ink);cursor:pointer}
+.btn{font:inherit;font-weight:700;border:none;border-radius:8px;padding:12px 18px;cursor:pointer;background:var(--ink);color:var(--bg)}
+.btn.ghost{background:transparent;color:var(--ink);border:1.5px solid var(--line)}
+.feedback{border-radius:8px;padding:12px 14px;font-size:15.5px}
+.feedback.good{background:var(--good-bg);color:var(--ink);border-left:4px solid var(--good)}
+.feedback.bad{background:var(--bad-bg);color:var(--ink);border-left:4px solid var(--bad)}
+.feedback b.v{display:block;margin-bottom:2px}
+.feedback.good b.v{color:var(--good)} .feedback.bad b.v{color:var(--bad)}
+.actions{display:flex;gap:10px;justify-content:flex-end;flex-wrap:wrap}
+.result h2{font-family:var(--display);font-weight:800;font-size:clamp(30px,8vw,44px);margin:0;font-variant-numeric:tabular-nums}
+.result p{margin:0;color:var(--muted)}
+.review{display:grid;gap:10px;margin:0;padding:0;list-style:none}
+.review li{border:1px solid var(--line);border-radius:8px;padding:10px 12px;font-size:15px}
+.review .yours{color:var(--bad)} .review .right{color:var(--good);font-weight:700}
+.filters{display:flex;gap:8px;flex-wrap:wrap}
+.chip{font:inherit;font-size:14px;border:1.5px solid var(--line);background:var(--surface);color:var(--ink);border-radius:999px;padding:6px 12px;cursor:pointer}
+.chip[aria-pressed="true"]{background:var(--ink);color:var(--bg);border-color:var(--ink)}
+@media (prefers-reduced-motion: reduce){.bar i{transition:none}}
+</style>
+
+<div class="wrap">
+  <header class="sign">
+    <span class="badge">1.9</span>
+    <h1>Fragen stellen</h1>
+    <span class="sub">Yes/no questions, W-words, doch, and the classic mistakes</span>
+  </header>
+
+  <div class="filters" id="filters" aria-label="Choose topics"></div>
+
+  <div class="progress"><span id="count">1 / 1</span><div class="bar"><i id="barfill"></i></div><span id="score">0 ✓</span></div>
+
+  <main id="stage"></main>
+</div>
+
+<script>
+const TOPICS = {
+  yn: "Yes/no",
+  w: "W-words",
+  ff: "False friends",
+  where: "wo / woher / wohin",
+  doch: "ja / nein / doch",
+  order: "Word order"
+};
+
+// type: mc (options, answer index) or type (accept list)
+const Q = [
+  // Yes/no type-in
+  {t:"yn",type:"type",p:"Make it a question: <span class='de'>Du sprichst Deutsch.</span>",accept:["Sprichst du Deutsch?"],ex:"Move the verb to the front. No 'do' needed."},
+  {t:"yn",type:"type",p:"Make it a question: <span class='de'>Sie haben ein Auto.</span> (formal)",accept:["Haben Sie ein Auto?"],ex:"Verb first, then the formal Sie."},
+  {t:"yn",type:"type",p:"Make it a question: <span class='de'>Er arbeitet heute.</span>",accept:["Arbeitet er heute?"],ex:"Swap verb and subject: Arbeitet er…"},
+  {t:"yn",type:"type",p:"Make it a question: <span class='de'>Ihr seid müde.</span>",accept:["Seid ihr müde?"],ex:"Seid moves to seat 1."},
+  {t:"yn",type:"type",p:"Make it a question: <span class='de'>Du wohnst in Berlin.</span>",accept:["Wohnst du in Berlin?"],ex:"Wohnst du in Berlin? German has no helper 'do'."},
+  {t:"yn",type:"type",p:"Make it a question: <span class='de'>Er kommt aus Spanien.</span>",accept:["Kommt er aus Spanien?"],ex:"Kommt goes first."},
+  {t:"yn",type:"mc",p:"How do you say <em>Do you have time?</em>",o:["Hast du Zeit?","Machst du Zeit haben?","Du hast Zeit?","Tust du Zeit haben?"],a:0,ex:"German never adds a 'do' verb. Just put hast first. 'Du hast Zeit?' only works in casual speech with rising intonation, not in writing."},
+
+  // W-words
+  {t:"w",type:"mc",p:"<span class='de'>___ heißt du?</span> — Ich heiße Ali.",o:["Wie","Was","Wer","Wo"],a:0,ex:"Asking for a name uses wie (how): Wie heißt du?"},
+  {t:"w",type:"mc",p:"<span class='de'>___ ist das?</span> — Das ist mein Bruder.",o:["Wo","Wer","Was","Wie"],a:1,ex:"Asking about a person: wer = who."},
+  {t:"w",type:"mc",p:"<span class='de'>___ kostet der Kaffee?</span> — 3 Euro.",o:["Wie viel","Wann","Was","Welcher"],a:0,ex:"Price = wie viel (how much)."},
+  {t:"w",type:"mc",p:"<span class='de'>___ beginnt der Kurs?</span> — Um 9 Uhr.",o:["Wo","Wie","Wann","Warum"],a:2,ex:"A time answer means wann (when)."},
+  {t:"w",type:"mc",p:"<span class='de'>___ lernst du Deutsch?</span> — Weil ich in Berlin wohne.",o:["Wie","Warum","Was","Wohin"],a:1,ex:"An answer with weil (because) answers warum (why)."},
+  {t:"w",type:"mc",p:"<span class='de'>___ machst du?</span> — Ich koche.",o:["Wer","Wie","Was","Wo"],a:2,ex:"Asking about an activity: was = what."},
+  {t:"w",type:"mc",p:"<span class='de'>___ Bus fährt zum Bahnhof?</span> — Der Bus 100.",o:["Welcher","Was","Wer","Wie viel"],a:0,ex:"Choosing one from a set: welcher (der Bus → welcher)."},
+  {t:"w",type:"type",p:"Fill in the W-word: <span class='de'>___ heißen Sie?</span> — Ich heiße Müller.",accept:["Wie"],ex:"Wie heißen Sie? is the formal way to ask a name."},
+
+  // False friends
+  {t:"ff",type:"mc",p:"What does <span class='de'>wer</span> mean?",o:["where","who","what","when"],a:1,ex:"wer looks like 'where' but means who."},
+  {t:"ff",type:"mc",p:"What does <span class='de'>wo</span> mean?",o:["who","how","where","what"],a:2,ex:"wo looks like 'who' but means where."},
+  {t:"ff",type:"mc",p:"What does <span class='de'>wie</span> mean?",o:["we","why","which","how"],a:3,ex:"wie looks like 'we' but means how."},
+  {t:"ff",type:"mc",p:"Which question is correct for <em>Where do you live?</em>",o:["Wer wohnst du?","Wo wohnst du?","Wie wohnst du?","Woher wohnst du?"],a:1,ex:"wo = where (at a place). wer would be 'who'."},
+
+  // wo/woher/wohin
+  {t:"where",type:"mc",p:"<span class='de'>___ kommst du?</span> — Aus der Türkei.",o:["Wo","Woher","Wohin","Wer"],a:1,ex:"aus = from, so woher. 'Wo kommst du?' is a classic mistake."},
+  {t:"where",type:"mc",p:"<span class='de'>___ fährst du?</span> — Nach Paris.",o:["Wo","Woher","Wohin","Wann"],a:2,ex:"nach = to (a direction), so wohin."},
+  {t:"where",type:"mc",p:"<span class='de'>___ bist du?</span> — Im Büro.",o:["Wo","Woher","Wohin","Wie"],a:0,ex:"Being at a place (no movement) = wo."},
+  {t:"where",type:"mc",p:"<span class='de'>___ gehst du?</span> — Ins Kino.",o:["Wo","Wohin","Woher","Was"],a:1,ex:"ins Kino = into the cinema, a destination, so wohin."},
+  {t:"where",type:"type",p:"Fill in: <span class='de'>___ kommst du?</span> — Aus Indonesien.",accept:["Woher"],ex:"Aus Indonesien = from Indonesia → woher."},
+
+  // doch
+  {t:"doch",type:"mc",p:"<span class='de'>Bist du nicht müde?</span> You ARE tired. You answer:",o:["Ja, ich bin müde.","Doch, ich bin müde.","Nein, ich bin müde.","Nein, ich bin nicht müde."],a:1,ex:"A 'yes' to a negative question is doch."},
+  {t:"doch",type:"mc",p:"<span class='de'>Hast du keine Zeit?</span> You really have no time. You answer:",o:["Doch, ich habe keine Zeit.","Ja, ich habe Zeit.","Nein, ich habe keine Zeit.","Doch, ich habe Zeit."],a:2,ex:"Agreeing that you don't have time: Nein, ich habe keine Zeit."},
+  {t:"doch",type:"mc",p:"<span class='de'>Hast du keine Zeit?</span> Actually, you DO have time. You answer:",o:["Ja, ich habe Zeit.","Doch, ich habe Zeit.","Nein, ich habe Zeit.","Doch, ich habe keine Zeit."],a:1,ex:"Contradicting a negative question: Doch, ich habe Zeit."},
+  {t:"doch",type:"mc",p:"<span class='de'>Sprichst du Englisch?</span> You do. You answer:",o:["Doch, ich spreche Englisch.","Ja, ich spreche Englisch.","Nein, ich spreche Englisch.","Ja, ich spreche kein Englisch."],a:1,ex:"The question has no nicht or kein, so a normal ja. Doch only answers negative questions."},
+  {t:"doch",type:"mc",p:"When do you use <span class='de'>doch</span> as an answer?",o:["Any time you mean yes","To say yes to a negative question","To say no politely","To answer W-questions"],a:1,ex:"Doch = yes, but only in reply to a question with nicht or kein."},
+
+  // Word order
+  {t:"order",type:"mc",p:"Which sentence is correct?",o:["Wo du wohnst?","Wo wohnst du?","Du wohnst wo?","Wohnst wo du?"],a:1,ex:"W-word in seat 1, verb in seat 2, subject after."},
+  {t:"order",type:"mc",p:"Which sentence is correct?",o:["Machst du was?","Was du machst?","Was machst du?","Du was machst?"],a:2,ex:"For a W-question the W-word goes first."},
+  {t:"order",type:"mc",p:"In a W-question, the verb sits in…",o:["position 1","position 2","the last position","any position"],a:1,ex:"Same verb-second rule as normal sentences. The W-word just takes seat 1."},
+  {t:"order",type:"type",p:"Put in order: <span class='de'>du / woher / kommst</span>",accept:["Woher kommst du?"],ex:"W-word, verb, subject: Woher kommst du?"},
+  {t:"order",type:"type",p:"Put in order: <span class='de'>Sie / Englisch / sprechen</span> (yes/no question)",accept:["Sprechen Sie Englisch?"],ex:"Yes/no question = verb first."},
+  {t:"order",type:"type",p:"Put in order: <span class='de'>kostet / das / wie viel</span>",accept:["Wie viel kostet das?"],ex:"Wie viel takes seat 1, kostet seat 2."}
+];
+
+const norm = s => s.toLowerCase()
+  .replace(/ä/g,"ae").replace(/ö/g,"oe").replace(/ü/g,"ue").replace(/ß/g,"ss")
+  .replace(/[?.!,]/g,"").replace(/\s+/g," ").trim();
+
+let active = new Set(Object.keys(TOPICS));
+let deck = [], i = 0, score = 0, misses = [], answered = false;
+
+function shuffle(a){a=a.slice();for(let k=a.length-1;k>0;k--){const j=Math.floor(Math.random()*(k+1));[a[k],a[j]]=[a[j],a[k]]}return a}
+
+function buildFilters(){
+  const f = document.getElementById("filters");
+  f.innerHTML = "";
+  for (const [k,label] of Object.entries(TOPICS)){
+    const b = document.createElement("button");
+    b.className="chip"; b.textContent=label; b.setAttribute("aria-pressed", active.has(k));
+    b.onclick=()=>{ if(active.has(k)&&active.size===1) return;
+      active.has(k)?active.delete(k):active.add(k); buildFilters(); start(); };
+    f.appendChild(b);
+  }
+}
+
+function start(list){
+  deck = shuffle(list || Q.filter(q=>active.has(q.t))).map(q=>{
+    if(q.type!=="mc") return q;
+    const idx = shuffle(q.o.map((_,n)=>n));
+    return {...q,o:idx.map(n=>q.o[n]),a:idx.indexOf(q.a)};
+  });
+  i=0; score=0; misses=[]; render();
+}
+
+function updateBar(){
+  document.getElementById("count").textContent = `${Math.min(i+1,deck.length)} / ${deck.length}`;
+  document.getElementById("score").textContent = `${score} ✓`;
+  document.getElementById("barfill").style.width = `${(i/deck.length)*100}%`;
+}
+
+function render(){
+  answered=false; updateBar();
+  const st = document.getElementById("stage");
+  if(i>=deck.length) return renderResult();
+  const q = deck[i];
+  st.innerHTML = `<section class="card">
+    <span class="tag">${TOPICS[q.t]}</span>
+    <p class="prompt">${q.p}</p>
+    ${q.type==="mc"
+      ? `<div class="opts">${q.o.map((o,n)=>`<button class="opt" id="opt${n}" data-n="${n}"><kbd>${n+1}</kbd><span>${o}</span></button>`).join("")}</div>`
+      : `<p class="hint">Type your answer. Capitals and the final ? don't matter. ae/oe/ue/ss also work.</p>
+         <div class="typein"><input id="ans" autocomplete="off" autocapitalize="off" spellcheck="false" placeholder="Deine Antwort…">
+         <div class="umlauts">${["ä","ö","ü","ß"].map(c=>`<button type="button" data-c="${c}" aria-label="Insert ${c}">${c}</button>`).join("")}</div></div>`}
+    <div id="fb"></div>
+    <div class="actions">${q.type==="type"?`<button class="btn" id="check">Check</button>`:""}<button class="btn" id="next" hidden>Next →</button></div>
+  </section>`;
+  if(q.type==="mc"){
+    st.querySelectorAll(".opt").forEach(b=>b.onclick=()=>answerMC(+b.dataset.n));
+  } else {
+    const inp = document.getElementById("ans"); inp.focus();
+    inp.addEventListener("keydown",e=>{ if(e.key==="Enter"){ e.preventDefault(); answered?next():answerType(); }});
+    st.querySelectorAll(".umlauts button").forEach(b=>b.onclick=()=>{
+      const s=inp.selectionStart??inp.value.length; inp.value=inp.value.slice(0,s)+b.dataset.c+inp.value.slice(inp.selectionEnd??s);
+      inp.focus(); inp.setSelectionRange(s+1,s+1);
+    });
+    document.getElementById("check").onclick=answerType;
+  }
+  document.getElementById("next").onclick=next;
+}
+
+function feedback(ok, q, extra=""){
+  document.getElementById("fb").innerHTML =
+    `<div class="feedback ${ok?"good":"bad"}"><b class="v">${ok?"Richtig!":"Nicht ganz."}</b>${extra}${q.ex}</div>`;
+  const n=document.getElementById("next"); n.hidden=false; n.focus();
+  const c=document.getElementById("check"); if(c) c.hidden=true;
+}
+
+function answerMC(n){
+  if(answered) return; answered=true;
+  const q=deck[i], ok=n===q.a;
+  document.querySelectorAll(".opt").forEach((b,k)=>{b.disabled=true; if(k===q.a)b.classList.add("correct"); else if(k===n)b.classList.add("wrong");});
+  if(ok) score++; else misses.push({q,yours:q.o[n],right:q.o[q.a]});
+  feedback(ok,q); updateBar();
+}
+
+function answerType(){
+  const inp=document.getElementById("ans"); if(!inp.value.trim()) return;
+  answered=true; const q=deck[i];
+  const ok=q.accept.some(a=>norm(a)===norm(inp.value));
+  inp.classList.add(ok?"correct":"wrong"); inp.readOnly=true;
+  if(ok) score++; else misses.push({q,yours:inp.value,right:q.accept[0]});
+  feedback(ok,q, ok?"":`Answer: <b>${q.accept[0]}</b><br>`); updateBar();
+}
+
+function next(){ i++; render(); }
+
+function renderResult(){
+  document.getElementById("barfill").style.width="100%";
+  const pct=Math.round(score/deck.length*100);
+  const msg = pct===100?"Perfekt. Every question right.":pct>=80?"Sehr gut. Review the few you missed.":pct>=50?"Gut gemacht. Go over the misses and try again.":"Read the lesson once more, then retry the misses.";
+  document.getElementById("stage").innerHTML=`<section class="card result">
+    <span class="tag">Ergebnis</span>
+    <h2>${score} / ${deck.length}</h2><p>${pct}% · ${msg}</p>
+    ${misses.length?`<ul class="review">${misses.map(m=>`<li>${m.q.p}<br><span class="yours">You: ${m.yours}</span> · <span class="right">${m.right}</span></li>`).join("")}</ul>`:""}
+    <div class="actions">
+      ${misses.length?`<button class="btn ghost" id="retryMiss">Retry missed (${misses.length})</button>`:""}
+      <button class="btn" id="again">New round</button>
+    </div></section>`;
+  document.getElementById("again").onclick=()=>start();
+  const r=document.getElementById("retryMiss"); if(r) r.onclick=()=>start(misses.map(m=>Q.find(x=>x.p===m.q.p)));
+}
+
+document.addEventListener("keydown",e=>{
+  if(e.target.tagName==="INPUT") return;
+  const q=deck[i]; if(!q) return;
+  if(q.type==="mc" && !answered && /^[1-4]$/.test(e.key)) answerMC(+e.key-1);
+  else if(answered && e.key==="Enter" && document.activeElement?.id!=="next") next();
+});
+
+buildFilters(); start();
+</script>
+
+</body></html>

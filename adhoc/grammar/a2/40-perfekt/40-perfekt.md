@@ -35,7 +35,7 @@ The Perfekt looks like the English "have eaten" — a helper verb + a past form:
 1. **Helper verb**: **haben** or **sein**, conjugated, in seat 2.
 2. **Past participle** (Partizip II): like "eaten", "gone", "played". Goes to the **end**.
 
-This is the same "sandwich" you know from [modal verbs](../a1/52-infinitive-at-the-end.md):
+This is the same "sandwich" you know from [modal verbs](../../a1/50-modal-verbs/52-infinitive-at-the-end.md):
 
 ```
 Ich [habe] ...gestern Pizza... [gegessen].

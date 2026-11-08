@@ -47,7 +47,7 @@ Use kein when the noun would have **ein** or **no article** in the positive sent
 | Ich habe Zeit. (no article) | Ich habe **keine** Zeit. |
 | Ich trinke Kaffee. (no article) | Ich trinke **keinen** Kaffee. |
 
-For everything else, use **nicht**. The full rule is in [nicht vs kein](41-nicht-vs-kein.md).
+For everything else, use **nicht**. The full rule is in [nicht vs kein](../40-negation.md).
 
 ## Common mistakes
 
@@ -87,4 +87,4 @@ Make it negative with kein.
 - Use it instead of "nicht ein" and for nouns without an article.
 - Masculine object → **keinen**.
 
-You've finished topic 3! Next topic: [Negation](40-negation.md).
+You've finished topic 3! Next topic: [Negation](../40-negation.md).

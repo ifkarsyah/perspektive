@@ -94,7 +94,7 @@ And the two-way prepositions (in, an, auf...) when talking about **location** (w
 
 - Ich bin **im** Büro. (in + dem)
 
-See [dative prepositions](21-dative-prepositions.md) and [two-way prepositions](31-wo-vs-wohin.md).
+See [dative prepositions](../20-dative-prepositions.md) and [two-way prepositions](../30-two-way-prepositions.md).
 
 ## How to decide: a checklist
 
@@ -147,4 +147,4 @@ When you see a noun, go through this:
 2. **Dative verbs**: helfen, danken, gefallen, gehören, passen, schmecken, antworten, glauben, folgen, gratulieren.
 3. **Dative prepositions**: mit, zu, bei, von, aus, nach, seit (+ location with in/an/auf...).
 
-More detail: [../4-dative-3-cases.md](../4-dative-3-cases.md). You've finished topic 1! Next topic: [Dative prepositions](20-dative-prepositions.md).
+More detail: [../../4-dative-3-cases.md](../../4-dative-3-cases.md). You've finished topic 1! Next topic: [Dative prepositions](../20-dative-prepositions.md).
