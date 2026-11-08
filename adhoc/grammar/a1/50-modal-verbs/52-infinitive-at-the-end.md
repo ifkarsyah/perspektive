@@ -48,7 +48,7 @@ Ich [kann] ...sehr gut... [kochen].
 | Wir      | **wollen**     | am Wochenende ins Kino   | **gehen**.       |
 | Du       | **darfst**     | hier nicht               | **rauchen**.     |
 
-Notice row 2: "Morgen" took seat 1, so "ich" moved behind the verb ([inversion](14-verb-second-position.md)). The sandwich still works.
+Notice row 2: "Morgen" took seat 1, so "ich" moved behind the verb ([inversion](../10-present-tense-and-sentence-basic/14-verb-second-position.md)). The sandwich still works.
 
 ## Important: the main verb does NOT change
 

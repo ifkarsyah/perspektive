@@ -82,7 +82,7 @@ Sometimes a sentence has two verb parts. Then the conjugated one goes in seat 2,
 - Ich **kann** sehr gut **kochen**. (I can cook very well.)
 - Ich **stehe** um 7 Uhr **auf**. (I get up at 7.)
 
-You'll learn this properly in [modal verbs](52-infinitive-at-the-end.md) and [separable verbs](../60-separable-verbs.md). For now, just know seat 2 is still the verb.
+You'll learn this properly in [modal verbs](../50-modal-verbs/52-infinitive-at-the-end.md) and [separable verbs](../60-separable-verbs.md). For now, just know seat 2 is still the verb.
 
 ## Common mistakes
 

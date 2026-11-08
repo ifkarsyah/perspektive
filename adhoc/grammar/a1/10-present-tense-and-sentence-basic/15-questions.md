@@ -140,4 +140,4 @@ Choose the right W-word:
 - **Doch** = yes, answering a negative question.
 - Careful: **wer** = who, **wo** = where, **wie** = how.
 
-You've finished topic 1! Next topic: [Noun gender and plural](20-noun-gender-and-plural.md).
+You've finished topic 1! Next topic: [Noun gender and plural](../20-noun-gender-and-plural/20-noun-gender-and-plural.md).

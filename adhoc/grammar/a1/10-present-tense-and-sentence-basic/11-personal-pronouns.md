@@ -65,7 +65,7 @@ In English, things are "it". In German, things have a gender (der/die/das), and 
 | **die** Lampe (lamp)  | **sie** | Die Lampe ist alt. **Sie** ist kaputt. |
 | **das** Buch (book)   | **es**  | Das Buch ist gut. **Es** ist spannend. |
 
-So a German might literally say "The table is new. **He** is nice." That sounds funny in English, but it's completely normal in German. More on genders in [der/die/das](21-der-die-das.md).
+So a German might literally say "The table is new. **He** is nice." That sounds funny in English, but it's completely normal in German. More on genders in [der/die/das](../20-noun-gender-and-plural/21-der-die-das.md).
 
 ## Common mistakes
 

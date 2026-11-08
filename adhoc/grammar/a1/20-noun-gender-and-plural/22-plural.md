@@ -112,4 +112,4 @@ Make the plural.
 - Feminine → usually **-(e)n**. Ends in -er/-el/-en → usually **no change**.
 - Learn every noun as **article + singular + plural**.
 
-You've finished topic 2! Next topic: [Nominative and accusative](30-nominative-and-accusative.md).
+You've finished topic 2! Next topic: [Nominative and accusative](../30-nominative-and-accusative/30-nominative-and-accusative.md).
