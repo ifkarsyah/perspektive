@@ -39,8 +39,8 @@ Das Beste: Im Bad gibt es einen Anschluss für eine eigene Waschmaschine.
 
 ## Die Bewerbung – The application
 
-Die Vermieterin wollte viele Unterlagen sehen.
-*The landlady wanted to see a lot of documents.*
+Der Vermieter wollte viele Unterlagen sehen.
+*The landlord wanted to see a lot of documents.*
 
 Ich habe meine Gehaltsnachweise, eine Kopie von meinem Pass und meine Schufa-Auskunft mitgebracht.
 *I brought my payslips, a copy of my passport and my credit report.*
@@ -48,8 +48,8 @@ Ich habe meine Gehaltsnachweise, eine Kopie von meinem Pass und meine Schufa-Aus
 Die Kaution ist drei Kaltmieten, also zweitausendvierhundert Euro.
 *The deposit is three months' rent, so two thousand four hundred euros.*
 
-Zwei Tage später hat die Vermieterin angerufen.
-*Two days later the landlady called.*
+Zwei Tage später hat der Vermieter angerufen.
+*Two days later the landlord called.*
 
 Ich bekomme die Wohnung! Ab dem ersten Februar kann ich einziehen.
 *I'm getting the flat! I can move in from the first of February.*

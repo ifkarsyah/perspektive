@@ -1,6 +1,6 @@
 word,pos,example_de,definition
 sich anmelden,verb,Jetzt muss ich nur noch umziehen und mich beim Bürgeramt anmelden.,to register – sich beim Bürgeramt anmelden
-anrufen,verb,Zwei Tage später hat die Vermieterin angerufen.,to call
+anrufen,verb,Zwei Tage später hat der Vermieter angerufen.,to call
 sich anschauen,verb,Ah ja. Kommen Sie rein und schauen Sie sich gern alles an.,to have a look at (= sich ansehen)
 anschließen,verb,Verstehe. Kann ich hier eine Waschmaschine anschließen?,to connect (a machine) – eine Waschmaschine anschließen
 arbeiten,verb,Ich arbeite seit zwei Jahren als Data Engineer bei einer Firma in Berlin.,to work
@@ -20,14 +20,14 @@ mitbringen,verb,"Ich habe meine Gehaltsnachweise, eine Kopie von meinem Pass und
 müssen,verb,Jetzt muss ich nur noch umziehen und mich beim Bürgeramt anmelden.,"to have to, must"
 rauchen,verb,"Nein, keine Haustiere. Und ich rauche nicht.",to smoke
 reinkommen,verb,Ah ja. Kommen Sie rein und schauen Sie sich gern alles an.,to come in – Kommen Sie rein!
-sehen,verb,Die Vermieterin wollte viele Unterlagen sehen.,"to see, watch (films)"
+sehen,verb,Der Vermieter wollte viele Unterlagen sehen.,"to see, watch (films)"
 sein,verb,Und wie hoch ist die Kaution?,to be – Sei! (du-imperative) · wäre = would be (Das wäre super)
 suchen,verb,Deshalb suche ich seit zwei Monaten eine neue Wohnung näher am Büro.,"to search, look for"
 telefonieren,verb,"Ja, guten Tag. Mein Name ist Ferdi. Wir haben gestern telefoniert.",to (make a telephone) call
 umziehen,verb,Jetzt muss ich nur noch umziehen und mich beim Bürgeramt anmelden.,to move (house) – Perfekt: ist umgezogen
 verstehen,verb,Verstehe. Kann ich hier eine Waschmaschine anschließen?,to understand
 werden,verb,Vielen Dank! Ich würde mich sehr freuen.,"to become, get (kälter werden); will (future) · würde = would (Ich würde mich freuen)"
-wollen,verb,Die Vermieterin wollte viele Unterlagen sehen.,to want to
+wollen,verb,Der Vermieter wollte viele Unterlagen sehen.,to want to
 zahlen,verb,"Ja, Heizung und Wasser sind inklusive. Strom und Internet zahlen Sie selbst.",to pay
 der Anschluss,noun,"Ja, im Bad gibt es einen Anschluss.",connection (for a machine)
 die Arbeit,noun,"Meine Wohnung ist klein, und der Weg zur Arbeit dauert fast zwei Stunden.",work
@@ -69,9 +69,9 @@ die Schufa-Auskunft,noun,"Ich habe meine Gehaltsnachweise, eine Kopie von meinem
 der Stock,noun,Sie ist fünfundfünfzig Quadratmeter groß und liegt im dritten Stock.,floor (im ersten Stock = on the first floor)
 der Strom,noun,"Ja, Heizung und Wasser sind inklusive. Strom und Internet zahlen Sie selbst.",electricity
 die Stunde,noun,"Meine Wohnung ist klein, und der Weg zur Arbeit dauert fast zwei Stunden.",hour
-der Tag,noun,Zwei Tage später hat die Vermieterin angerufen.,day
+der Tag,noun,Zwei Tage später hat der Vermieter angerufen.,day
 die Unterlagen,noun,Okay. Ich habe meine Unterlagen schon dabei.,documents (plural)
-die Vermieterin,noun,Die Vermieterin wollte viele Unterlagen sehen.,landlady (male: der Vermieter)
+der Vermieter,noun,Der Vermieter wollte viele Unterlagen sehen.,landlord (female: die Vermieterin)
 die Warmmiete,noun,Die Warmmiete ist also tausend Euro im Monat.,rent with heating and bills
 die Waschmaschine,noun,Verstehe. Kann ich hier eine Waschmaschine anschließen?,washing machine
 das Wasser,noun,Sind Heizung und Wasser inklusive?,water
@@ -119,7 +119,7 @@ plus,adv,"Die Kaltmiete ist achthundert Euro, plus zweihundert Euro Nebenkosten.
 schon,adv,Okay. Ich habe meine Unterlagen schon dabei.,"already; yes, actually (Mein Bruder schon / Manchmal schon)"
 sehr,adv,Sehr gut! Was machen Sie beruflich?,very
 selbst,adv,"Ja, Heizung und Wasser sind inklusive. Strom und Internet zahlen Sie selbst.",yourself / myself (Das zahlen Sie selbst)
-später,adv,Zwei Tage später hat die Vermieterin angerufen.,later – Bis später! = see you later
+später,adv,Zwei Tage später hat der Vermieter angerufen.,later – Bis später! = see you later
 viel,adv,"In Berlin ist das sehr schwer, weil es viel zu wenige Wohnungen gibt.","much, a lot, many"
 wann,adv,"Ja, sehr. Ab wann ist die Wohnung frei?",when
 wie,adv,Und wie hoch ist die Kaution?,how
