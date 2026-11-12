@@ -8,9 +8,11 @@ The words come from `vocab-a1-a2.csv`: every A1 and A2 word from `resources/5000
 ```
 story-a1-a2/
 ├── vocab-a1-a2.csv                          # A1–A2 word list
-├── 1-introduction/                          # older layout, see below
-│   ├── 1-1-introduction.md
-│   └── 1-2-sentences.csv
+├── 1-introduction/
+│   ├── 1-12-convo.md
+│   ├── 1-22-convo-sentences.csv
+│   ├── 1-30-all-vocab-sorted.csv
+│   └── 1-40-grammar-points.md
 ├── 21-telling-about-my-typical-weekday/
 │   ├── 21-11-story.md
 │   ├── 21-12-convo.md
@@ -74,7 +76,7 @@ story-a1-a2/
 | `<n>-30-all-vocab-sorted.csv` | 3 vocab | every word from all breakdowns, once, sorted by pos |
 | `<n>-40-grammar-points.md` | 4 grammar | what's new in this topic compared with the earlier ones |
 
-`1-introduction/` is the older layout: one convo (`1-1-introduction.md`) and its breakdown (`1-2-sentences.csv`), with no story or vocab file.
+`1-introduction/` is convo-only: it has no story, so no `1-11` or `1-21` file.
 
 ## Steps (per story folder)
 

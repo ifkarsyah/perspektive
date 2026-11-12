@@ -4,20 +4,39 @@
     "type": "split",
     "children": [
       {
-        "id": "f2367d818a799174",
+        "id": "e99707ff5223b0a5",
         "type": "tabs",
         "children": [
           {
-            "id": "87655748b9a00527",
+            "id": "02e90081dbe2c72b",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "z-talking-about-hobby/lesson.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "lesson"
+            }
+          },
+          {
+            "id": "e0ae7bdd841366f5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "z-talking-about-hobby/template.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "template"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -184,43 +203,43 @@
       "bases:Create new base": false
     }
   },
-  "active": "93d7628843570e4b",
+  "active": "e0ae7bdd841366f5",
   "lastOpenFiles": [
-    "adhoc/grammar/a2/50-subordinate-clauses/52-verb-at-the-end.md",
-    "adhoc/grammar/a2/50-subordinate-clauses/51-weil-dass-wenn-ob.md",
-    "adhoc/grammar/a2/50-subordinate-clauses/50-subordinate-clauses.md",
-    "adhoc/grammar/a2/50-subordinate-clauses",
-    "adhoc/grammar/a2/40-perfekt/42-past-participle.md",
-    "adhoc/grammar/a2/40-perfekt/41-haben-or-sein.md",
-    "adhoc/grammar/a2/40-perfekt/40-perfekt.md",
-    "adhoc/grammar/a2/40-perfekt",
-    "adhoc/grammar/a2/10-dative/13-dative-uses.md",
-    "adhoc/grammar/a2/10-dative/12-dative-pronouns.md",
-    "adhoc/grammar/a2/10-dative/11-dative-articles.md",
-    "adhoc/grammar/a2/10-dative/10-dative.md",
-    "adhoc/grammar/a2/10-dative",
-    "adhoc/grammar/a1/90-imperative.md",
-    "adhoc/grammar/a1/80-accusative-prepositions.md",
-    "adhoc/grammar/a1/70-time-expressions.md",
-    "adhoc/grammar/a1/60-separable-verbs.md",
-    "adhoc/grammar/a1/40-negation.md",
-    "adhoc/grammar/a1/20-noun-gender-and-plural/22q-plural.html",
-    "adhoc/grammar/a1/20-noun-gender-and-plural/21q-plural.html",
-    "adhoc/grammar/a1/20-noun-gender-and-plural/Plural Quiz.html",
-    "adhoc/grammar/a1/20-noun-gender-and-plural/Unconfirmed 919469.crdownload",
-    "adhoc/grammar/a1/20-noun-gender-and-plural/22m-plural.html",
-    "adhoc/grammar/a1/20-noun-gender-and-plural/22l-plural.html",
-    "adhoc/grammar/a1/20-noun-gender-and-plural/Der Plural.html",
-    "adhoc/grammar/a1/10-present-tense-and-sentence-basic/15-questions.md",
-    "adhoc/grammar/a1/10-present-tense-and-sentence-basic/14-verb-second-position.md",
-    "adhoc/grammar/a1/10-present-tense-and-sentence-basic/13-sein-and-haben.md",
-    "adhoc/grammar/a1/10-present-tense-and-sentence-basic/12-regular-verbs.md",
-    "adhoc/grammar/a1/10-present-tense-and-sentence-basic/11-personal-pronouns.md",
-    "adhoc/grammar/a1/10-present-tense-and-sentence-basic/10-present-tense-and-sentence-basic.md",
-    "adhoc/grammar/a1/10-present-tence-and-sentence-basic/15-questions.md",
-    "adhoc/grammar/a1/10-present-tence-and-sentence-basic/14-verb-second-position.md",
-    "adhoc/grammar/a1/10-present-tence-and-sentence-basic/13-personal-pronouns.md",
-    "adhoc/grammar/a1/10-present-tence-and-sentence-basic/12-sein-and-haben.md",
-    "adhoc/grammar/a1/10-present-tence-and-sentence-basic/11-regular-verbs.md"
+    "z-talking-about-hobby/lesson.md",
+    "z-talking-about-hobby/vocabulary/adverb.md",
+    "z-talking-about-hobby/small-talk.md",
+    "z-talking-about-hobby/plan.md",
+    "z-talking-about-hobby/vocabulary/verb.md",
+    "z-talking-about-hobby/vocabulary/preposition.md",
+    "z-talking-about-hobby/vocabulary/noun.md",
+    "z-talking-about-hobby/template.md",
+    "z-talking-about-hobby/vocabulary/adjective.md",
+    "z-talking-about-hobby/vocabulary",
+    "README.md",
+    "z-talking-about-hobby",
+    "1-alphabet.md",
+    "resources/onewholearn/vocabulary/real-world-german/connector/confusing_pair.md",
+    "resources/onewholearn/course/a1/unit-1/4-grammar/vocabulary",
+    "resources/onewholearn/course/a1/unit-1/4-grammar/grammar",
+    "resources/onewholearn/course/a1/unit-1/2-section-3/vocabulary",
+    "resources/onewholearn/course/a1/unit-1/2-section-3/grammar",
+    "resources/onewholearn/course/a1/unit-1/2-section-2/vocabulary",
+    "resources/onewholearn/course/a1/unit-1/2-section-2/grammar",
+    "resources/onewholearn/course/a1/unit-1/1-introduction/vocabulary",
+    "resources/onewholearn/course/a1/unit-1/1-introduction/grammar",
+    "resources/onewholearn/grammar/overview.md",
+    "adhoc/grammar/a1/30-nominative-and-accusative/31-der-den.md",
+    "adhoc/grammar/a1/30-nominative-and-accusative/32-ein-eine-einen.md",
+    "adhoc/grammar/a1/30-nominative-and-accusative/33-mein-meine-meinen.md",
+    "adhoc/grammar/a1/30-nominative-and-accusative/34-kein.md",
+    "adhoc/grammar/b1/90-recognize-only.md",
+    "adhoc/grammar/b1/80-werden.md",
+    "adhoc/grammar/b1/70-spoken-past.md",
+    "adhoc/grammar/b1/60-lassen-man-word-order/63-word-order.md",
+    "adhoc/grammar/b1/60-lassen-man-word-order/62-man.md",
+    "adhoc/grammar/b1/60-lassen-man-word-order/61-lassen.md",
+    "adhoc/grammar/b1/60-lassen-man-word-order/60-lassen-man-word-order.md",
+    "adhoc/grammar/b1/50-konjunktiv-2/52-konjunktiv-2-past.md",
+    "adhoc/grammar/b1/50-konjunktiv-2/51-conditions-and-wishes.md"
   ]
 }

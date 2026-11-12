@@ -1,4 +1,4 @@
-# Introduction – Meeting a New Friend
+# Introduction – Conversation
 
 **Situation:** Ferdi is at a party at his colleague Max's flat. He meets Lena in the kitchen.
 
@@ -31,8 +31,8 @@
 **Lena:** Was machst du beruflich?
 *What do you do for work?*
 
-**Ferdi:** Ich arbeite in der IT, bei einer Firma in Kreuzberg. Und du?
-*I work in IT, at a company in Kreuzberg. And you?*
+**Ferdi:** Ich arbeite in der IT, bei einer Firma in Friedrichshain. Und du?
+*I work in IT, at a company in Friedrichshain. And you?*
 
 **Lena:** Ich studiere Medizin. Das ist sehr interessant, aber ich bin oft müde.
 *I study medicine. It's very interesting, but I'm often tired.*
