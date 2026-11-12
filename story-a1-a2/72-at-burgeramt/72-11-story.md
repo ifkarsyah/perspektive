@@ -2,17 +2,23 @@
 
 ## Die Anmeldung – Registering
 
-In Deutschland muss man sich innerhalb von zwei Wochen nach dem Umzug anmelden.
-*In Germany you have to register within two weeks after moving.*
+In Deutschland muss man sich innerhalb von zwei Wochen nach dem Einzug anmelden.
+*In Germany you have to register within two weeks after moving in.*
 
-Seit dem ersten Februar wohne ich in meiner neuen Wohnung.
-*Since the first of February I've been living in my new flat.*
+Ich bin zum ersten Mal in Berlin. Am neunzehnten November bin ich hier angekommen.
+*It's my first time in Berlin. I arrived here on the nineteenth of November.*
+
+Ich komme aus Indonesien, aber ich habe vorher in Tokio gewohnt.
+*I'm from Indonesia, but I lived in Tokyo before.*
+
+Seit dem neunzehnten November wohne ich in meiner neuen Wohnung.
+*Since the nineteenth of November I've been living in my new flat.*
 
 In Berlin ist es aber schwer, einen Termin beim Bürgeramt zu bekommen.
 *But in Berlin it's hard to get an appointment at the citizens' office.*
 
-Ich habe jeden Morgen auf der Webseite gesucht und endlich einen Termin gefunden.
-*I searched the website every morning and finally found an appointment.*
+Ich habe jeden Morgen auf der Webseite gesucht und endlich einen Termin für den dreiundzwanzigsten November gefunden.
+*I searched the website every morning and finally found an appointment for the twenty-third of November.*
 
 ## Die Unterlagen – The documents
 
@@ -22,8 +28,8 @@ Für die Anmeldung braucht man drei Dinge.
 Erstens das Anmeldeformular, das ich zu Hause ausgefüllt habe.
 *First, the registration form, which I filled in at home.*
 
-Zweitens die Wohnungsgeberbestätigung, die meine Vermieterin unterschrieben hat.
-*Second, the landlord's confirmation, which my landlady signed.*
+Zweitens die Wohnungsgeberbestätigung, die mein Vermieter unterschrieben hat.
+*Second, the landlord's confirmation, which my landlord signed.*
 
 Drittens meinen Reisepass mit meinem Aufenthaltstitel.
 *Third, my passport with my residence permit.*
@@ -32,6 +38,9 @@ Drittens meinen Reisepass mit meinem Aufenthaltstitel.
 
 Mein Termin war um acht Uhr fünfzehn, deshalb bin ich früh aufgestanden.
 *My appointment was at eight fifteen, so I got up early.*
+
+Es war mein erstes Mal bei einem Amt in Deutschland, deshalb war ich ein bisschen nervös.
+*It was my first time at an office in Germany, so I was a bit nervous.*
 
 Im Wartebereich habe ich auf meine Nummer gewartet.
 *In the waiting area I waited for my number.*
@@ -44,6 +53,9 @@ Die Sachbearbeiterin war freundlich, aber sie hat sehr schnell gesprochen.
 
 Einmal musste ich sie bitten, langsamer zu sprechen.
 *Once I had to ask her to speak more slowly.*
+
+Wir haben auch kurz über das Wetter gesprochen.
+*We also talked briefly about the weather.*
 
 Nach fünfzehn Minuten war alles fertig, und die Anmeldung war kostenlos.
 *After fifteen minutes everything was done, and registering was free.*

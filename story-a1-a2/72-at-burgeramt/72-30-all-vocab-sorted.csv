@@ -1,5 +1,5 @@
 word,pos,example_de,definition
-sich anmelden,verb,Guten Morgen. Ich möchte mich anmelden. Ich bin umgezogen.,to register – sich beim Bürgeramt anmelden
+ankommen,verb,Am neunzehnten November bin ich hier angekommen.,to arrive – Perfekt: ist angekommen
 anmelden,verb,Prima. Dann sind Sie jetzt angemeldet.,to register – angemeldet sein = to be registered
 aufstehen,verb,"Mein Termin war um acht Uhr fünfzehn, deshalb bin ich früh aufgestanden.","to stand up, get up"
 ausdrucken,verb,"Okay. Einen Moment, bitte. Ich drucke Ihnen die Meldebescheinigung aus.",to print (out)
@@ -10,9 +10,10 @@ bitten,verb,"Einmal musste ich sie bitten, langsamer zu sprechen.","to ask (for)
 brauchen,verb,Für die Anmeldung braucht man drei Dinge.,to need
 dabeihaben,verb,Gut. Haben Sie das Anmeldeformular dabei?,to have with you – Ich habe eine Tasche dabei
 finden,verb,Ich habe jeden Morgen auf der Webseite gesucht und endlich einen Termin gefunden.,to find; to think (opinion: Das finde ich spannend)
+gefallen,verb,Willkommen! Wie gefällt Ihnen Berlin?,"to please, be liked – Wie gefällt dir …? = How do you like …?"
 haben,verb,Und wo haben Sie vorher gewohnt?,to have – Ich hätte gern… = I'd like… · Hab! (du-imperative: Hab keine Angst!)
 können,verb,Guten Morgen. Nehmen Sie bitte Platz. Was kann ich für Sie tun?,"can, be able to – könnten = could (Könnten Sie…? = could you…?)"
-möchten,verb,Guten Morgen. Ich möchte mich anmelden. Ich bin umgezogen.,would like (polite form of mögen)
+möchten,verb,Guten Morgen. Ich möchte mich anmelden. Ich bin neu in Berlin.,would like (polite form of mögen)
 müssen,verb,Muss ich etwas bezahlen?,"to have to, must"
 nehmen,verb,Guten Morgen. Nehmen Sie bitte Platz. Was kann ich für Sie tun?,to take; to use (nimm weniger Chili) · nimm! (du-imperative)
 prüfen,verb,"So, hier ist Ihre Meldebescheinigung. Bitte prüfen Sie, ob alles richtig ist.",to check
@@ -20,15 +21,16 @@ sagen,verb,"Entschuldigung, können Sie das bitte langsamer sagen? Mein Deutsch 
 schreiben,verb,"Mein Name ist richtig geschrieben, die Adresse auch. Alles korrekt.",to write
 sehen,verb,"Ah ja, ich sehe sie. Wohnen Sie allein?","to see, watch (films)"
 sein,verb,"Nein, die Anmeldung ist kostenlos.",to be – Sei! (du-imperative) · wäre = would be (Das wäre super)
+sich anmelden,verb,Guten Morgen. Ich möchte mich anmelden. Ich bin neu in Berlin.,to register – sich beim Bürgeramt anmelden
 sprechen,verb,"Einmal musste ich sie bitten, langsamer zu sprechen.",to speak
 stehen,verb,Nach zehn Minuten stand meine Nummer auf dem Bildschirm.,to stand; to suit (Das steht dir); to be written (Die Adresse steht im Formular) · Präteritum: stand
 suchen,verb,Ich habe jeden Morgen auf der Webseite gesucht und endlich einen Termin gefunden.,"to search, look for"
 tun,verb,Guten Morgen. Nehmen Sie bitte Platz. Was kann ich für Sie tun?,to do
-umziehen,verb,Guten Morgen. Ich möchte mich anmelden. Ich bin umgezogen.,to move (house) – Perfekt: ist umgezogen
-unterschreiben,verb,"Ja, die hat meine Vermieterin unterschrieben.",to sign
+unterschreiben,verb,"Ja, die hat mein Vermieter unterschrieben.",to sign
 warten,verb,Im Wartebereich habe ich auf meine Nummer gewartet.,to wait
-wohnen,verb,"Ja, ich wohne allein.",to live
-die Adresse,noun,"Ah, danke! Auch in Berlin. Die alte Adresse steht im Formular.",address
+wohnen,verb,Seit dem neunzehnten November wohne ich in meiner neuen Wohnung.,to live
+die Adresse,noun,"Ah, danke! In Tokio, in Japan. Die Adresse steht im Formular.",address
+das Amt,noun,"Es war mein erstes Mal bei einem Amt in Deutschland, deshalb war ich ein bisschen nervös.",office (public authority)
 das Anmeldeformular,noun,Gut. Haben Sie das Anmeldeformular dabei?,registration form
 die Anmeldung,noun,"Nein, die Anmeldung ist kostenlos.",registration (of your address)
 der Aufenthaltstitel,noun,Bitte schön. Mein Aufenthaltstitel ist auch im Pass.,residence permit
@@ -37,42 +39,57 @@ der Bildschirm,noun,Nach zehn Minuten stand meine Nummer auf dem Bildschirm.,scr
 das Bürgeramt,noun,"In Berlin ist es aber schwer, einen Termin beim Bürgeramt zu bekommen.",citizens' office (registration office)
 der Dank,noun,Vielen Dank für Ihre Hilfe! Schönen Tag noch!,thanks – Vielen Dank! = thank you very much
 das Deutsch,noun,"Entschuldigung, können Sie das bitte langsamer sagen? Mein Deutsch ist noch nicht so gut.",German (language) – Dein Deutsch ist gut
+Deutschland,noun,"Es war mein erstes Mal bei einem Amt in Deutschland, deshalb war ich ein bisschen nervös.",Germany
 das Ding,noun,Für die Anmeldung braucht man drei Dinge.,thing
+der Einzug,noun,In Deutschland muss man sich innerhalb von zwei Wochen nach dem Einzug anmelden.,moving in (to a new home)
 die Entschuldigung,noun,"Entschuldigung, können Sie das bitte langsamer sagen? Mein Deutsch ist noch nicht so gut.","apology, excuse"
-der Februar,noun,Seit dem ersten Februar.,February
-das Formular,noun,"Ah, danke! Auch in Berlin. Die alte Adresse steht im Formular.",form (to fill in)
+das Formular,noun,"Ah, danke! In Tokio, in Japan. Die Adresse steht im Formular.",form (to fill in)
 das Haus,noun,"Erstens das Anmeldeformular, das ich zu Hause ausgefüllt habe.",house – nach Hause = (going) home · zu Hause = at home
 die Hilfe,noun,Vielen Dank für Ihre Hilfe! Schönen Tag noch!,help
+Indonesien,noun,"Ich komme aus Indonesien, aber ich habe vorher in Tokio gewohnt.",Indonesia
+Jakarta,noun,"Ja, genau. Ich komme aus Jakarta.",Jakarta
+Japan,noun,"Ah, danke! In Tokio, in Japan. Die Adresse steht im Formular.",Japan
+das Mal,noun,Ich bin zum ersten Mal in Berlin.,"time, occasion – zum ersten Mal = for the first time"
 die Meldebescheinigung,noun,"Okay. Einen Moment, bitte. Ich drucke Ihnen die Meldebescheinigung aus.",registration certificate
 die Minute,noun,Nach zehn Minuten stand meine Nummer auf dem Bildschirm.,minute
 der Moment,noun,"Okay. Einen Moment, bitte. Ich drucke Ihnen die Meldebescheinigung aus.",moment
-der Morgen,noun,Guten Morgen. Ich möchte mich anmelden. Ich bin umgezogen.,morning
+der Morgen,noun,Guten Morgen. Ich möchte mich anmelden. Ich bin neu in Berlin.,morning
 der Name,noun,"Mein Name ist richtig geschrieben, die Adresse auch. Alles korrekt.",name – Auf welchen Namen? = under what name?
+der November,noun,Seit dem neunzehnten November.,November
 die Nummer,noun,Im Wartebereich habe ich auf meine Nummer gewartet.,number; size (eine Nummer größer = one size bigger)
 der Pass,noun,Bitte schön. Mein Aufenthaltstitel ist auch im Pass.,passport
 der Platz,noun,Guten Morgen. Nehmen Sie bitte Platz. Was kann ich für Sie tun?,"seat, place – Nehmen Sie Platz = take a seat"
 der Reisepass,noun,"Danke. Und Ihren Reisepass, bitte.",passport
 die Sachbearbeiterin,noun,"Die Sachbearbeiterin war freundlich, aber sie hat sehr schnell gesprochen.","clerk, case worker (male: der Sachbearbeiter)"
+die Staatsangehörigkeit,noun,"Ah ja, ich sehe sie. Ihre Staatsangehörigkeit ist indonesisch, richtig?",nationality
 der Tag,noun,Vielen Dank für Ihre Hilfe! Schönen Tag noch!,day
 der Termin,noun,"In Berlin ist es aber schwer, einen Termin beim Bürgeramt zu bekommen.",appointment
+Tokio,noun,"Ah, danke! In Tokio, in Japan. Die Adresse steht im Formular.",Tokyo
 die Uhr,noun,"Mein Termin war um acht Uhr fünfzehn, deshalb bin ich früh aufgestanden.","clock, watch, o’clock"
-der Umzug,noun,In Deutschland muss man sich innerhalb von zwei Wochen nach dem Umzug anmelden.,move (house)
-die Vermieterin,noun,"Ja, die hat meine Vermieterin unterschrieben.",landlady (male: der Vermieter)
+der Vermieter,noun,"Ja, die hat mein Vermieter unterschrieben.",landlord (female: die Vermieterin)
 der Wartebereich,noun,Im Wartebereich habe ich auf meine Nummer gewartet.,waiting area
 die Webseite,noun,Ich habe jeden Morgen auf der Webseite gesucht und endlich einen Termin gefunden.,website
-die Woche,noun,In Deutschland muss man sich innerhalb von zwei Wochen nach dem Umzug anmelden.,week
+das Wetter,noun,Wir haben auch kurz über das Wetter gesprochen.,weather
+die Woche,noun,In Deutschland muss man sich innerhalb von zwei Wochen nach dem Einzug anmelden.,week
 die Wohnung,noun,Sehr gut. Seit wann wohnen Sie in der neuen Wohnung?,"apartment, flat"
 die Wohnungsgeberbestätigung,noun,Haben Sie auch die Wohnungsgeberbestätigung?,landlord's confirmation (that you moved in)
-alt,adj,"Ah, danke! Auch in Berlin. Die alte Adresse steht im Formular.",old – älter = older; der älteste = the oldest
 ander,adj,"Ich habe eine Meldebescheinigung bekommen, die ich für die Bank und viele andere Dinge brauche.",other (eine andere Stadt)
-erst,adj,Seit dem ersten Februar.,first – zum ersten Mal = for the first time
+dreiundzwanzigst,adj,Ich habe jeden Morgen auf der Webseite gesucht und endlich einen Termin für den dreiundzwanzigsten November gefunden.,twenty-third (den dreiundzwanzigsten November)
+erst,adj,"Ja, ich bin erst seit vier Tagen hier. Es ist mein erstes Mal in Berlin.",first – zum ersten Mal = for the first time
 fertig,adj,"Nach fünfzehn Minuten war alles fertig, und die Anmeldung war kostenlos.","ready, ready-made; finished"
 freundlich,adj,"Die Sachbearbeiterin war freundlich, aber sie hat sehr schnell gesprochen.","kind, nice, friendly"
+genau,adj,"Ja, genau. Ich komme aus Jakarta.",exact – Genau! = exactly
 gut,adj,Gut. Haben Sie das Anmeldeformular dabei?,good – besser = better · das Beste = the best (part)
+indonesisch,adj,"Ah ja, ich sehe sie. Ihre Staatsangehörigkeit ist indonesisch, richtig?",Indonesian
+interessant,adj,Interessant! Wohnen Sie allein?,interesting
+kalt,adj,"Sehr gut, aber es ist ein bisschen kalt!",cold
 korrekt,adj,"Mein Name ist richtig geschrieben, die Adresse auch. Alles korrekt.",correct
 kostenlos,adj,"Nein, die Anmeldung ist kostenlos.",free (of charge)
+kurz,adj,Wir haben auch kurz über das Wetter gesprochen.,short; briefly (kurz = for a moment)
 langsam,adj,"Einmal musste ich sie bitten, langsamer zu sprechen.",slow – langsamer = more slowly
+nervös,adj,"Es war mein erstes Mal bei einem Amt in Deutschland, deshalb war ich ein bisschen nervös.",nervous
 neu,adj,Sehr gut. Seit wann wohnen Sie in der neuen Wohnung?,new
+neunzehnt,adj,Seit dem neunzehnten November wohne ich in meiner neuen Wohnung.,nineteenth (dem neunzehnten November)
 okay,adj,"Okay. Einen Moment, bitte. Ich drucke Ihnen die Meldebescheinigung aus.",okay
 prima,adj,Prima. Dann sind Sie jetzt angemeldet.,great
 richtig,adj,"So, hier ist Ihre Meldebescheinigung. Bitte prüfen Sie, ob alles richtig ist.","correct, right"
@@ -80,15 +97,20 @@ schnell,adj,"Die Sachbearbeiterin war freundlich, aber sie hat sehr schnell gesp
 schwer,adj,"In Berlin ist es aber schwer, einen Termin beim Bürgeramt zu bekommen.","difficult, heavy"
 schön,adj,Vielen Dank für Ihre Hilfe! Schönen Tag noch!,"beautiful, pleasant, good"
 viel,adj,Vielen Dank für Ihre Hilfe! Schönen Tag noch!,"much, a lot, many"
+willkommen,adj,Willkommen! Wie gefällt Ihnen Berlin?,welcome
 aber,adv,"In Berlin ist es aber schwer, einen Termin beim Bürgeramt zu bekommen.","particle: really, though (Da hattest du aber Glück! · Am liebsten esse ich aber beides!)"
 allein,adv,"Ja, ich wohne allein.",alone
 auch,adv,"Danke, Ihnen auch. Auf Wiedersehen!","also, too"
+auf Wiedersehen,adv,"Danke, Ihnen auch. Auf Wiedersehen!",goodbye (face to face)
 bitte,adv,"Danke. Und Ihren Reisepass, bitte.",please
+bitte schön,adv,Bitte schön. Mein Aufenthaltstitel ist auch im Pass.,here you are; you're welcome
 dann,adv,Prima. Dann sind Sie jetzt angemeldet.,then
 deshalb,adv,"Mein Termin war um acht Uhr fünfzehn, deshalb bin ich früh aufgestanden.",therefore
 drittens,adv,Drittens meinen Reisepass mit meinem Aufenthaltstitel.,third(ly)
+ein bisschen,adv,"Sehr gut, aber es ist ein bisschen kalt!",a bit
 einmal,adv,"Einmal musste ich sie bitten, langsamer zu sprechen.",once
 endlich,adv,Ich habe jeden Morgen auf der Webseite gesucht und endlich einen Termin gefunden.,finally
+erst,adv,"Ja, ich bin erst seit vier Tagen hier. Es ist mein erstes Mal in Berlin.","only, just"
 erstens,adv,"Erstens das Anmeldeformular, das ich zu Hause ausgefüllt habe.",first(ly)
 früh,adv,"Mein Termin war um acht Uhr fünfzehn, deshalb bin ich früh aufgestanden.",early – morgen früh = tomorrow morning
 hier,adv,"Ja, hier ist es. Ich habe es schon ausgefüllt.",here
@@ -99,30 +121,32 @@ nein,adv,"Nein, die Anmeldung ist kostenlos.",no
 nicht,adv,"Entschuldigung, können Sie das bitte langsamer sagen? Mein Deutsch ist noch nicht so gut.",not
 noch,adv,Vielen Dank für Ihre Hilfe! Schönen Tag noch!,"still; else, more (Hast du noch Eier? · Ich nehme noch…)"
 offiziell,adv,Jetzt bin ich offiziell in meiner neuen Wohnung angemeldet!,officially
+oft,adv,"Ja, im November ist es oft kalt. Einen Moment, bitte.",often
 richtig,adv,"Mein Name ist richtig geschrieben, die Adresse auch. Alles korrekt.","really (richtig kalt); right, correct"
 schon,adv,"Ja, hier ist es. Ich habe es schon ausgefüllt.","already; yes, actually (Mein Bruder schon / Manchmal schon)"
-bitte schön,adv,Bitte schön. Mein Aufenthaltstitel ist auch im Pass.,here you are; you're welcome
 sehr,adv,Sehr gut. Seit wann wohnen Sie in der neuen Wohnung?,very
 so,adv,"So, hier ist Ihre Meldebescheinigung. Bitte prüfen Sie, ob alles richtig ist.","so, like this – Geht so = so-so"
 vorher,adv,Und wo haben Sie vorher gewohnt?,"before, beforehand"
 wann,adv,Sehr gut. Seit wann wohnen Sie in der neuen Wohnung?,when
-auf Wiedersehen,adv,"Danke, Ihnen auch. Auf Wiedersehen!",goodbye (face to face)
+wie,adv,Willkommen! Wie gefällt Ihnen Berlin?,how
 wo,adv,Und wo haben Sie vorher gewohnt?,where
-zweitens,adv,"Zweitens die Wohnungsgeberbestätigung, die meine Vermieterin unterschrieben hat.",second(ly)
+zweitens,adv,"Zweitens die Wohnungsgeberbestätigung, die mein Vermieter unterschrieben hat.",second(ly)
+an,prep,Am neunzehnten November bin ich hier angekommen.,"at, on (am = an dem)"
 auf,prep,Im Wartebereich habe ich auf meine Nummer gewartet.,"on, at, to"
 bei,prep,"In Berlin ist es aber schwer, einen Termin beim Bürgeramt zu bekommen.","at (a company: bei einer Firma); by, with"
 für,prep,Für die Anmeldung braucht man drei Dinge.,for
 in,prep,Im Wartebereich habe ich auf meine Nummer gewartet.,in
-innerhalb,prep,In Deutschland muss man sich innerhalb von zwei Wochen nach dem Umzug anmelden.,within
+innerhalb,prep,In Deutschland muss man sich innerhalb von zwei Wochen nach dem Einzug anmelden.,within
 mit,prep,Drittens meinen Reisepass mit meinem Aufenthaltstitel.,with
 nach,prep,Nach zehn Minuten stand meine Nummer auf dem Bildschirm.,"after; to (nach Hause, nach Hamburg)"
-seit,prep,Seit dem ersten Februar.,"since, for"
+seit,prep,Seit dem neunzehnten November.,"since, for"
 um,prep,"Mein Termin war um acht Uhr fünfzehn, deshalb bin ich früh aufgestanden.",around (um die Ecke = around the corner); at (um sieben Uhr)
-von,prep,In Deutschland muss man sich innerhalb von zwei Wochen nach dem Umzug anmelden.,"from, of"
+von,prep,In Deutschland muss man sich innerhalb von zwei Wochen nach dem Einzug anmelden.,"from, of"
 zu,prep,"Erstens das Anmeldeformular, das ich zu Hause ausgefüllt habe.",to
+über,prep,Wir haben auch kurz über das Wetter gesprochen.,"about, over"
 alles,pron,"Mein Name ist richtig geschrieben, die Adresse auch. Alles korrekt.",everything – Alles Gute zum Geburtstag! = happy birthday!
 das,pron,"Erstens das Anmeldeformular, das ich zu Hause ausgefüllt habe.","that, this – das Beste = the best part"
-die,pron,"Ja, die hat meine Vermieterin unterschrieben.","which, that (relative plural: Systeme, die…); they; it, that one (casual: Die nehme ich)"
+die,pron,"Ja, die hat mein Vermieter unterschrieben.","which, that (relative plural: Systeme, die…); they; it, that one (casual: Die nehme ich)"
 es,pron,"Ja, hier ist es. Ich habe es schon ausgefüllt.",it
 etwas,pron,Muss ich etwas bezahlen?,"something, some, a little"
 ich,pron,"Ja, ich wohne allein.",I
@@ -132,15 +156,16 @@ Ihren,pron,"Danke. Und Ihren Reisepass, bitte.",your (formal; den form: Ihren Re
 jeden,pron,Ich habe jeden Morgen auf der Webseite gesucht und endlich einen Termin gefunden.,every (den form: jeden Tag = every day)
 man,pron,Für die Anmeldung braucht man drei Dinge.,"one, you, they"
 mein,pron,Bitte schön. Mein Aufenthaltstitel ist auch im Pass.,"my, mine"
-meine,pron,"Ja, die hat meine Vermieterin unterschrieben.",my (die / plural form)
+meine,pron,Im Wartebereich habe ich auf meine Nummer gewartet.,my (die / plural form)
 meinem,pron,Drittens meinen Reisepass mit meinem Aufenthaltstitel.,my (dative der / das form)
 meinen,pron,Drittens meinen Reisepass mit meinem Aufenthaltstitel.,my (dative plural form)
-meiner,pron,Seit dem ersten Februar wohne ich in meiner neuen Wohnung.,my (dative die form: von meiner Mutter)
-mich,pron,Guten Morgen. Ich möchte mich anmelden. Ich bin umgezogen.,me
-sich,pron,In Deutschland muss man sich innerhalb von zwei Wochen nach dem Umzug anmelden.,"themselves, each other (reflexive: alle duzen sich)"
+meiner,pron,Seit dem neunzehnten November wohne ich in meiner neuen Wohnung.,my (dative die form: von meiner Mutter)
+mich,pron,Guten Morgen. Ich möchte mich anmelden. Ich bin neu in Berlin.,me
+sich,pron,In Deutschland muss man sich innerhalb von zwei Wochen nach dem Einzug anmelden.,"themselves, each other (reflexive: alle duzen sich)"
 sie,pron,"Ah ja, ich sehe sie. Wohnen Sie allein?","they, them; she"
 Sie,pron,Und wo haben Sie vorher gewohnt?,you (formal)
 was,pron,Guten Morgen. Nehmen Sie bitte Platz. Was kann ich für Sie tun?,what; something (casual = etwas: was Schönes)
+wir,pron,Wir haben auch kurz über das Wetter gesprochen.,we
 aber,conj,"Die Sachbearbeiterin war freundlich, aber sie hat sehr schnell gesprochen.",but
 ob,conj,"So, hier ist Ihre Meldebescheinigung. Bitte prüfen Sie, ob alles richtig ist.","if, whether (verb to the end: ob er es warm machen kann)"
 und,conj,Und wo haben Sie vorher gewohnt?,and

@@ -1,14 +1,14 @@
 # Im Bürgeramt – Conversation
 
-**Situation:** Ferdi's number is on the screen and he goes to the desk. The clerk (**Sachbearbeiterin**) uses **Sie**, and speaks fast.
+**Situation:** It's 23 November, Ferdi's first time at a German office. His number is on the screen and he goes to the desk. The clerk (**Sachbearbeiterin**) uses **Sie**, and speaks fast.
 
 ---
 
 **Sachbearbeiterin:** Guten Morgen. Nehmen Sie bitte Platz. Was kann ich für Sie tun?
 *Good morning. Please take a seat. What can I do for you?*
 
-**Ferdi:** Guten Morgen. Ich möchte mich anmelden. Ich bin umgezogen.
-*Good morning. I'd like to register. I've moved.*
+**Ferdi:** Guten Morgen. Ich möchte mich anmelden. Ich bin neu in Berlin.
+*Good morning. I'd like to register. I'm new in Berlin.*
 
 **Sachbearbeiterin:** Gut. Haben Sie das Anmeldeformular dabei?
 *Good. Do you have the registration form with you?*
@@ -25,14 +25,14 @@
 **Sachbearbeiterin:** Haben Sie auch die Wohnungsgeberbestätigung?
 *Do you also have the landlord's confirmation?*
 
-**Ferdi:** Ja, die hat meine Vermieterin unterschrieben.
-*Yes, my landlady signed it.*
+**Ferdi:** Ja, die hat mein Vermieter unterschrieben.
+*Yes, my landlord signed it.*
 
 **Sachbearbeiterin:** Sehr gut. Seit wann wohnen Sie in der neuen Wohnung?
 *Very good. Since when have you been living in the new flat?*
 
-**Ferdi:** Seit dem ersten Februar.
-*Since the first of February.*
+**Ferdi:** Seit dem neunzehnten November.
+*Since the nineteenth of November.*
 
 **Sachbearbeiterin:** Und wo haben Sie vorher gewohnt?
 *And where did you live before?*
@@ -43,16 +43,34 @@
 **Sachbearbeiterin:** Natürlich. Wo haben Sie vorher gewohnt?
 *Of course. Where did you live before?*
 
-**Ferdi:** Ah, danke! Auch in Berlin. Die alte Adresse steht im Formular.
-*Ah, thank you! Also in Berlin. The old address is on the form.*
+**Ferdi:** Ah, danke! In Tokio, in Japan. Die Adresse steht im Formular.
+*Ah, thank you! In Tokyo, in Japan. The address is on the form.*
 
-**Sachbearbeiterin:** Ah ja, ich sehe sie. Wohnen Sie allein?
-*Ah yes, I see it. Do you live alone?*
+**Sachbearbeiterin:** Ah ja, ich sehe sie. Ihre Staatsangehörigkeit ist indonesisch, richtig?
+*Ah yes, I see it. Your nationality is Indonesian, right?*
+
+**Ferdi:** Ja, genau. Ich komme aus Jakarta.
+*Yes, exactly. I'm from Jakarta.*
+
+**Sachbearbeiterin:** Interessant! Wohnen Sie allein?
+*Interesting! Do you live alone?*
 
 **Ferdi:** Ja, ich wohne allein.
 *Yes, I live alone.*
 
-**Sachbearbeiterin:** Okay. Einen Moment, bitte. Ich drucke Ihnen die Meldebescheinigung aus.
+**Sachbearbeiterin:** Okay. Sind Sie neu in Berlin?
+*Okay. Are you new in Berlin?*
+
+**Ferdi:** Ja, ich bin erst seit vier Tagen hier. Es ist mein erstes Mal in Berlin.
+*Yes, I've only been here for four days. It's my first time in Berlin.*
+
+**Sachbearbeiterin:** Willkommen! Wie gefällt Ihnen Berlin?
+*Welcome! How do you like Berlin?*
+
+**Ferdi:** Sehr gut, aber es ist ein bisschen kalt!
+*Very much, but it's a bit cold!*
+
+**Sachbearbeiterin:** Ja, im November ist es oft kalt. Einen Moment, bitte. Ich drucke Ihnen die Meldebescheinigung aus.
 *Okay. One moment, please. I'll print the registration certificate for you.*
 
 **Ferdi:** Muss ich etwas bezahlen?

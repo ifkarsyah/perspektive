@@ -1,21 +1,27 @@
 sentences,verbs,nouns,adjectives,adverbs,prepositions,pronouns,conjunctions,function
 Guten Morgen. Nehmen Sie bitte Platz. Was kann ich für Sie tun?,nehmen; können; tun,der Morgen; der Platz,gut,bitte,für,Sie; was; ich,,social; asking
-Guten Morgen. Ich möchte mich anmelden. Ich bin umgezogen.,möchten; sich anmelden; sein; umziehen,der Morgen,gut,,,ich; mich,,social; telling
+Guten Morgen. Ich möchte mich anmelden. Ich bin neu in Berlin.,möchten; sich anmelden; sein,der Morgen,gut; neu,,in,ich; mich,,social; telling
 Gut. Haben Sie das Anmeldeformular dabei?,dabeihaben,das Anmeldeformular,gut,,,Sie,,asking
 "Ja, hier ist es. Ich habe es schon ausgefüllt.",sein; haben; ausfüllen,,,ja; hier; schon,,es; ich,,doing; telling
 "Danke. Und Ihren Reisepass, bitte.",,der Reisepass,,bitte,,Ihren,und,social; doing
 Bitte schön. Mein Aufenthaltstitel ist auch im Pass.,sein,der Aufenthaltstitel; der Pass,,bitte schön; auch,in (im),mein,,doing; telling
 Haben Sie auch die Wohnungsgeberbestätigung?,haben,die Wohnungsgeberbestätigung,,auch,,Sie,,asking
-"Ja, die hat meine Vermieterin unterschrieben.",haben; unterschreiben,die Vermieterin,,ja,,die; meine,,telling
+"Ja, die hat mein Vermieter unterschrieben.",haben; unterschreiben,der Vermieter,,ja,,die; mein,,telling
 Sehr gut. Seit wann wohnen Sie in der neuen Wohnung?,wohnen,die Wohnung,gut; neu,sehr; wann,seit; in,Sie,,reacting; asking
-Seit dem ersten Februar.,,der Februar,erst,,seit,,,telling
+Seit dem neunzehnten November.,,der November,neunzehnt,,seit,,,telling
 Und wo haben Sie vorher gewohnt?,haben; wohnen,,,wo; vorher,,Sie,und,asking
 "Entschuldigung, können Sie das bitte langsamer sagen? Mein Deutsch ist noch nicht so gut.",können; sagen; sein,die Entschuldigung; das Deutsch,langsam; gut,bitte; noch; nicht; so,,Sie; das; mein,,social; asking
 Natürlich. Wo haben Sie vorher gewohnt?,haben; wohnen,,,natürlich; wo; vorher,,Sie,,reacting; asking
-"Ah, danke! Auch in Berlin. Die alte Adresse steht im Formular.",stehen,die Adresse; das Formular,alt,auch,in; in (im),,,reacting; telling
-"Ah ja, ich sehe sie. Wohnen Sie allein?",sehen; wohnen,,,ja; allein,,ich; sie; Sie,,reacting; asking
+"Ah, danke! In Tokio, in Japan. Die Adresse steht im Formular.",stehen,Tokio; Japan; die Adresse; das Formular,,,in; in (im),,,reacting; telling
+"Ah ja, ich sehe sie. Ihre Staatsangehörigkeit ist indonesisch, richtig?",sehen; sein,die Staatsangehörigkeit,indonesisch; richtig,ja,,ich; sie; Ihre,,reacting; asking
+"Ja, genau. Ich komme aus Jakarta.",kommen,Jakarta,genau,ja,aus,ich,,reacting; telling
+Interessant! Wohnen Sie allein?,wohnen,,interessant,allein,,Sie,,reacting; asking
 "Ja, ich wohne allein.",wohnen,,,ja; allein,,ich,,telling
-"Okay. Einen Moment, bitte. Ich drucke Ihnen die Meldebescheinigung aus.",ausdrucken,der Moment; die Meldebescheinigung,okay,bitte,,ich; Ihnen,,doing
+Okay. Sind Sie neu in Berlin?,sein,,okay; neu,,in,Sie,,reacting; asking
+"Ja, ich bin erst seit vier Tagen hier. Es ist mein erstes Mal in Berlin.",sein,der Tag; das Mal,erst,ja; erst; hier,seit; in,ich; es; mein,,telling
+Willkommen! Wie gefällt Ihnen Berlin?,gefallen,,willkommen,wie,,Ihnen,,social; asking
+"Sehr gut, aber es ist ein bisschen kalt!",sein,,gut; kalt,sehr; ein bisschen,,es,aber,reacting; telling
+"Ja, im November ist es oft kalt. Einen Moment, bitte. Ich drucke Ihnen die Meldebescheinigung aus.",sein; ausdrucken,der November; der Moment; die Meldebescheinigung,kalt,ja; oft; bitte,in (im),es; ich; Ihnen,,reacting; doing
 Muss ich etwas bezahlen?,müssen; bezahlen,,,,,ich; etwas,,asking
 "Nein, die Anmeldung ist kostenlos.",sein,die Anmeldung,kostenlos,nein,,,,telling
 "So, hier ist Ihre Meldebescheinigung. Bitte prüfen Sie, ob alles richtig ist.",sein; prüfen,die Meldebescheinigung,richtig,so; hier; bitte,,Ihre; Sie; alles,ob,doing

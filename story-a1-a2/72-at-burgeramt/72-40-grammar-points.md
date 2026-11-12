@@ -1,6 +1,6 @@
 # 72 – Grammar Points: At the Bürgeramt
 
-What this story adds on top of the topics written before it (`1`, `21`–`26`, `31`, `41`, `42`, `51`–`56`, `61`, `62`, `71`). The big ones: **official-form words**, **relative clauses with an object (*das ich ausgefüllt habe*)**, ***zu*** **+ infinitive**, ***erstens / zweitens / drittens*** and **asking someone to speak slowly**.
+What this story adds on top of the topics written before it (`1`, `21`–`26`, `31`, `41`, `42`, `51`–`56`, `61`, `62`, `71`). The big ones: **official-form words**, **relative clauses with an object (*das ich ausgefüllt habe*)**, ***zu*** **+ infinitive**, ***erstens / zweitens / drittens*** and **asking someone to speak slowly** and **small talk when you're new in town**.
 
 ## New in this story
 
@@ -11,7 +11,7 @@ What this story adds on top of the topics written before it (`1`, `21`–`26`, `
 | **sich anmelden** | to register (yourself) – *Ich möchte **mich anmelden**.* |
 | **angemeldet sein** | to be registered – *Jetzt bin ich offiziell **angemeldet**.* |
 | **die Anmeldung** | registration – *Die Anmeldung ist kostenlos.* |
-| **innerhalb von zwei Wochen nach dem Umzug** | within two weeks after moving – this is the law |
+| **innerhalb von zwei Wochen nach dem Einzug** | within two weeks after moving in – this is the law (arrived 19 Nov → deadline early December) |
 
 Related, for later: *sich ummelden* (re-register within Germany), *sich abmelden* (de-register when you leave).
 
@@ -32,7 +32,7 @@ Related, for later: *sich ummelden* (re-register within Germany), *sich abmelden
 In `26` and `61` the relative pronoun was the subject (*ein Laden, **der** … offen hat*). It can also be the **object** – then someone else is the subject:
 
 - *das Anmeldeformular, **das ich** zu Hause ausgefüllt **habe*** – the form (that) I filled in
-- *die Wohnungsgeberbestätigung, **die meine Vermieterin** unterschrieben **hat***
+- *die Wohnungsgeberbestätigung, **die mein Vermieter** unterschrieben **hat***
 - *eine Meldebescheinigung, **die ich** für die Bank **brauche***
 
 English can drop "that"; German **never** drops *der / die / das*.
@@ -80,30 +80,57 @@ In written stories a few more verbs use the simple past (`31`, `55`):
 - *Nach zehn Minuten **stand** meine Nummer auf dem Bildschirm.* (*stehen → stand*)
 - *stehen* also means "to be written": *Die alte Adresse **steht** im Formular.*
 
-### 9. *seit dem ersten Februar* – *seit* + a date
+### 9. *seit dem neunzehnten November* – *seit* + a date
 
-- ***Seit dem ersten Februar** wohne ich in meiner neuen Wohnung.* (present tense, like `53` and `61`)
+- ***Seit dem neunzehnten November** wohne ich in meiner neuen Wohnung.* (present tense, like `53` and `61`)
 - Compare: ***ab** dem ersten Februar* (`71`) = from … on (future), ***seit*** = since (still true now).
+- Ordinals up to 19 add **-t**, from 20 on **-st**, plus the dative **-en** after *dem / den*: *neunzehn**t**en*, *dreiundzwanzig**st**en*.
+- *seit* + a length of time = for: ***erst seit vier Tagen*** – only for four days (dative plural **-n**).
+
+### 10. First time here – *zum ersten Mal* and *neu in*
+
+| Phrase | Example |
+|---|---|
+| **zum ersten Mal** | *Ich bin **zum ersten Mal** in Berlin.* – for the first time |
+| **mein erstes Mal** | *Es ist **mein erstes Mal** in Berlin.* – my first time |
+| **neu in** + place | *Ich bin **neu in** Berlin.* – I'm new in … |
+| **vorher** | *Ich habe **vorher** in Tokio gewohnt.* – before (that) |
+| **ankommen** | *Am neunzehnten November bin ich **angekommen**.* (*ist angekommen*, with *sein*) |
+
+### 11. Small talk with the clerk
+
+| Phrase | Meaning |
+|---|---|
+| ***Sind Sie neu in Berlin?*** | Are you new in Berlin? |
+| ***Wie gefällt Ihnen Berlin?*** | How do you like Berlin? (*gefallen* + dative: *Berlin gefällt **mir***) |
+| ***Willkommen!*** | Welcome! |
+| ***Ihre Staatsangehörigkeit ist indonesisch.*** | Your nationality is Indonesian. (adjective, no capital) |
+| ***ein bisschen kalt*** | a bit cold |
+
+Say where you come from: *Ich komme aus Indonesien / aus Jakarta.* – and where you lived: *Ich habe in Tokio gewohnt.*
 
 ## Speaking chunks
 
-- *Ich möchte mich anmelden. Ich bin umgezogen.* – I'd like to register. I've moved.
+- *Ich möchte mich anmelden. Ich bin neu in Berlin.* – I'd like to register. I'm new in Berlin.
+- *Es ist mein erstes Mal in Berlin.* – It's my first time in Berlin.
+- *Ich komme aus Indonesien, aber ich habe in Tokio gewohnt.* – I'm from Indonesia, but I lived in Tokyo.
+- *Wie gefällt Ihnen Berlin?* – How do you like Berlin?
 - *Ich habe es schon ausgefüllt.* – I've already filled it in.
 - *Bitte schön.* – Here you are.
-- *Die hat meine Vermieterin unterschrieben.* – My landlady signed it.
+- *Die hat mein Vermieter unterschrieben.* – My landlord signed it.
 - *Können Sie das bitte langsamer sagen?* – Could you say that more slowly?
-- *Die alte Adresse steht im Formular.* – The old address is on the form.
+- *Die Adresse steht im Formular.* – The address is on the form.
 - *Muss ich etwas bezahlen?* – Do I have to pay anything?
 - *Alles korrekt.* – Everything's correct.
 - *Vielen Dank für Ihre Hilfe! Schönen Tag noch! – Danke, Ihnen auch.*
 
 ## Seen before
 
-- *umziehen*, *die Vermieterin*, *ab dem ersten Februar* – from `71`.
+- *der Vermieter*, *ab dem ersten Februar* – from `71`.
 - *dabeihaben* – from `25`.
 - *innerhalb von* – from `56`.
 - *ob* + verb at the end – from `52`.
-- Casual *die* = it (*Die hat meine Vermieterin unterschrieben*) – from `41`.
+- Casual *die* = it (*Die hat mein Vermieter unterschrieben*) – from `41`.
 - *Ich wohne allein* – from `24`.
 - *kostenlos* – from `21`.
 - Ordinals in dates – from `62`.
