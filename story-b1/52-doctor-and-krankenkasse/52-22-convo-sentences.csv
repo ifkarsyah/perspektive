@@ -1,0 +1,21 @@
+sentences,verbs,nouns,adjectives,adverbs,prepositions,pronouns,conjunctions,function
+Guten Morgen! Was fehlt Ihnen denn?,fehlen,der Morgen,gut,denn,,was; Ihnen,,social; asking
+"Guten Morgen. Ich habe mich erkältet. Ich habe Husten und Schnupfen, und mein Hals tut weh.",haben; erkälten; wehtun,der Morgen; der Husten; der Schnupfen; der Hals,gut,,,ich; mich; mein,und,social; telling
+Seit wann haben Sie die Beschwerden?,haben,die Beschwerden,,wann,seit,Sie,,asking
+"Seit vier Tagen. Ich fühle mich schlapp, und ich habe ein bisschen Fieber.",fühlen; haben,der Tag; das Fieber,schlapp,ein bisschen,seit,ich; mich,und,telling
+Dann sehe ich mir Ihren Hals an. Machen Sie bitte den Mund auf.,ansehen; aufmachen,der Hals; der Mund,,dann; bitte,,ich; mir; Ihren; Sie,,doing
+Muss auch Blut abgenommen werden? Ich habe nämlich Angst vor Spritzen.,müssen; abnehmen; werden; haben,das Blut; die Angst; die Spritze,,auch; nämlich,vor,ich,,asking; telling
+"Nein, das wird bei einer Erkältung nicht gemacht. Ihr Hals ist rot, aber sonst ist alles in Ordnung.",werden; machen; sein,die Erkältung; der Hals; die Ordnung,rot,nicht; sonst,bei; in,das; Ihr; alles,aber,telling
+Zum Glück! Aber ich leide seit Wochen unter Rückenschmerzen. Ich sitze den ganzen Tag am Schreibtisch.,leiden; sitzen,die Woche; die Rückenschmerzen; der Tag; der Schreibtisch,ganz,zum Glück,seit; unter; an (am),ich,aber,reacting; telling
+Dann sollten Sie sich mehr bewegen. Ich schreibe Ihnen eine Überweisung für die Physiotherapie.,sollen; bewegen; schreiben,die Überweisung; die Physiotherapie,,dann; mehr,für,Sie; sich; ich; Ihnen,,doing; telling
+Wird das von der Krankenkasse bezahlt?,werden; bezahlen,die Krankenkasse,,,von,das,,asking
+"Ja, das wird übernommen. Nur einen kleinen Teil müssen Sie selbst zahlen.",werden; übernehmen; müssen; zahlen,der Teil,klein,nur; selbst,,das; Sie,,telling
+Und was soll ich gegen die Erkältung machen?,sollen; machen,die Erkältung,,,gegen,was; ich,und,asking
+Ruhen Sie sich aus und trinken Sie viel Tee. Ich schreibe Sie für drei Tage krank.,ausruhen; trinken; krankschreiben,der Tee; der Tag,viel,,für,Sie; sich; ich,und,doing; telling
+Muss ich die Krankschreibung selbst schicken?,müssen; schicken,die Krankschreibung,,selbst,,ich,,asking
+"Nein, sie wird automatisch an Ihre Krankenkasse geschickt. Sie müssen nur Ihrem Chef Bescheid sagen.",werden; schicken; müssen; sagen,die Krankenkasse; der Chef,,automatisch; nur,an,sie; Ihre; Sie; Ihrem,,telling
+Und das Rezept?,,das Rezept,,,,,und,asking
+Das wird elektronisch gespeichert. Zeigen Sie in der Apotheke einfach Ihre Karte. Nehmen Sie die Tabletten dreimal am Tag.,werden; speichern; zeigen; nehmen,die Apotheke; die Karte; die Tablette; der Tag,,elektronisch; einfach; dreimal,in; an (am),das; Sie; Ihre,,doing; telling
+"Vielen Dank, Frau Doktor.",,der Dank; die Frau; der Doktor,viel,,,,,social
+Gern. Gute Besserung!,,die Besserung,gut,gern,,,,social
+"Danke, auf Wiedersehen!",,das Wiedersehen,,,auf,,,social
