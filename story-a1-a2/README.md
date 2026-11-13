@@ -48,6 +48,8 @@ story-a1-a2/
 │   └── (same 6 files with prefix 55-)
 ├── 56-buying-clothes-and-shoes/
 │   └── (same 6 files with prefix 56-)
+├── 57-public-transport/
+│   └── (same 6 files with prefix 57-)
 ├── 61-telling-about-my-job/
 │   └── (same 6 files with prefix 61-)
 ├── 62-small-talk-with-colleagues/
@@ -68,7 +70,7 @@ story-a1-a2/
   | `2x` | telling about the present: my day, weekend, family, food, groceries | `21`–`26` |
   | `3x` | telling about the past | `31` |
   | `4x` | the future: making plans | `41`, `42` |
-  | `5x` | going out and getting things done in town: café, restaurant, doctor, trains, a broken machine, shopping | `51`–`56` |
+  | `5x` | going out and getting things done in town: café, restaurant, doctor, trains, a broken machine, shopping | `51`–`57` |
   | `6x` | work and small talk | `61`, `62` |
   | `7x` | talking to other people: landlord, officials, providers (all with *Sie*) | `71`, `72` |
 - **File:** `<n>-<step><variant>-<name>`, where `<n>` is the folder number.
@@ -94,7 +96,6 @@ Not written yet. Each gets the same 6 files once it's written.
 
 | Folder | Topic |
 |---|---|
-| `57-public-transport` | BVG tickets, U-Bahn and S-Bahn |
 | `63-small-talk-weather-and-seasons` | small talk about the weather and the seasons |
 | `73-auslaenderbehoerde` | residence permit at the immigration office |
 | `74-phone-and-sim` | buying a SIM card or phone contract |

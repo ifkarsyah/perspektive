@@ -1,0 +1,29 @@
+sentences,verbs,nouns,adjectives,adverbs,prepositions,pronouns,conjunctions,function
+"Entschuldigung, können Sie mir helfen? Ich verstehe den Automaten nicht.",können; helfen; verstehen,die Entschuldigung; der Automat,,nicht,,Sie; mir; ich,,social; asking
+Gern. Wohin möchten Sie fahren?,möchten; fahren,,,gern; wohin,,Sie,,reacting; asking
+"Zur Arbeit, nach Kreuzberg. Und am Wochenende fahre ich vielleicht in die Stadt.",fahren,die Arbeit; das Wochenende; die Stadt,,vielleicht,zu (zur); nach; an (am); in,ich,und,telling
+Dann reicht die Tarifzone AB. Die gilt für die ganze Stadt.,reichen; gelten,die Tarifzone; die Stadt,ganz,dann,für,die,,telling
+Was ist der Unterschied zwischen einem Einzelfahrschein und einer Tageskarte?,sein,der Unterschied; der Einzelfahrschein; die Tageskarte,,,zwischen,was,und,asking
+"Der Einzelfahrschein gilt für eine Fahrt. Mit der Tageskarte können Sie einen Tag lang so oft fahren, wie Sie möchten.",gelten; können; fahren; möchten,der Einzelfahrschein; die Fahrt; die Tageskarte; der Tag,,lang; so; oft; wie,für; mit,Sie,,telling
+Ich bin neu in Berlin und fahre jeden Tag. Was ist am besten für mich?,sein; fahren,der Tag,neu; gut,,in; an (am); für,ich; jeden; was; mich,und,telling; asking
+Dann nehmen Sie das Deutschlandticket. Es kostet dreiundsechzig Euro im Monat und gilt im ganzen Land.,nehmen; kosten; gelten,das Deutschlandticket; der Euro; der Monat; das Land,ganz,dann,in (im),Sie; es,und,doing; telling
+Das klingt gut! Kann ich es hier am Automaten kaufen?,klingen; können; kaufen,der Automat,gut,hier,an (am),das; ich; es,,reacting; asking
+"Nein, das ist ein Abo. Das buchen Sie in der App oder im Kundenzentrum. Dafür brauchen Sie meistens ein deutsches Bankkonto.",sein; buchen; brauchen,das Abo; die App; das Kundenzentrum; das Bankkonto,deutsch,nein; dafür; meistens,in; in (im),das; Sie,oder,telling
+Ich habe noch kein Konto. Was soll ich jetzt machen?,haben; sollen; machen,das Konto,,noch; jetzt,,ich; kein; was,,telling; asking
+Dann kaufen Sie erst mal eine Sieben-Tage-Karte. Die ist sieben Tage gültig.,kaufen; sein,die Sieben-Tage-Karte; der Tag,gültig,dann; erst mal,,Sie; die,,doing; telling
+"Gut, dann nehme ich die Sieben-Tage-Karte für AB. Kann ich mit Karte bezahlen?",nehmen; können; bezahlen,die Sieben-Tage-Karte; die Karte,gut,dann,für; mit,ich,,telling; asking
+"Ja, halten Sie Ihre Karte einfach hier an das Gerät.",halten,die Karte; das Gerät,,ja; einfach; hier,an,Sie; Ihre,,doing
+"So, das hat geklappt. Muss ich das Ticket noch entwerten?",klappen; haben; müssen; entwerten,das Ticket,,so; noch,,das; ich,,telling; asking
+"Nein, der Automat hat es schon gestempelt. Sie können gleich einsteigen.",haben; stempeln; können; einsteigen,der Automat,,nein; schon; gleich,,es; Sie,,reacting; telling
+Wie praktisch! Vielen Dank für Ihre Hilfe!,,der Dank; die Hilfe,praktisch; viel,wie,für,Ihre,,reacting; social
+Gern. Gute Fahrt!,,die Fahrt,gut,gern,,,,social
+"Guten Tag, Fahrausweiskontrolle. Ihren Fahrschein, bitte.",,der Tag; die Fahrausweiskontrolle; der Fahrschein,gut,bitte,,Ihren,,social; doing
+"Hier, bitte. Ich habe gerade eine Sieben-Tage-Karte gekauft.",haben; kaufen,die Sieben-Tage-Karte,,hier; bitte; gerade,,ich,,doing; telling
+"Danke, das ist in Ordnung.",sein,die Ordnung,,,in,das,,reacting
+Eine Frage: Gilt die Karte auch bis zum Flughafen? Nächste Woche besucht mich ein Freund.,gelten; besuchen,die Frage; die Karte; der Flughafen; die Woche; der Freund,nächst,auch,bis; zu (zum),mich,,asking; telling
+"Nein, der Flughafen BER liegt in der Zone C. Dafür brauchen Sie eine Verlängerung für den Tarifbereich C.",liegen; brauchen,der Flughafen; die Zone; die Verlängerung; der Tarifbereich,,nein; dafür,in; für,Sie,,telling
+"Ah, gut zu wissen. Und was passiert, wenn man kein Ticket hat?",wissen; passieren; haben,das Ticket,gut,,zu,was; man; kein,und; wenn,reacting; asking
+Dann müssen Sie sechzig Euro bezahlen. Aber Sie haben ja ein gültiges Ticket.,müssen; bezahlen; haben,der Euro; das Ticket,gültig,dann; ja,,Sie,aber,telling
+Zum Glück! Vielen Dank.,,das Glück; der Dank,viel,,zu (zum),,,reacting; social
+Gern. Schönen Tag noch!,,der Tag,schön,gern; noch,,,,social
+"Danke, Ihnen auch!",,,,auch,,Ihnen,,social

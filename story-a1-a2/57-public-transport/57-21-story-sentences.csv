@@ -1,0 +1,16 @@
+sentences,verbs,nouns,adjectives,adverbs,prepositions,pronouns,conjunctions,function
+"Ich bin erst seit gestern in Berlin, und heute fahre ich zum ersten Mal mit der U-Bahn.",sein; fahren,das Mal; die U-Bahn,erst,erst; gestern; heute,seit; in; zu (zum); mit,ich,und,telling
+"In Berlin gibt es drei Tarifzonen: A, B und C.",geben,die Tarifzone,,,in,es,und,telling
+Für die Stadt reicht die Zone AB.,reichen,die Stadt; die Zone,,,für,,,telling
+"Ich fahre jeden Tag zur Arbeit, deshalb ist das Deutschlandticket am besten.",fahren; sein,der Tag; die Arbeit; das Deutschlandticket,gut,deshalb,zu (zur); an (am),ich; jeden,,telling
+"Aber dafür braucht man meistens ein deutsches Bankkonto, und ich habe noch kein Konto.",brauchen; haben,das Bankkonto; das Konto,deutsch,dafür; meistens; noch,,man; ich; kein,aber; und,telling
+Deshalb habe ich am Automaten eine Sieben-Tage-Karte gekauft.,haben; kaufen,der Automat; die Sieben-Tage-Karte,,deshalb,an (am),ich,,telling
+"Ich habe mit Karte bezahlt, und das Ticket war schon gestempelt.",haben; bezahlen; sein; stempeln,die Karte; das Ticket,,schon,mit,ich,und,telling
+Ich musste es nicht entwerten.,müssen; entwerten,,,nicht,,ich; es,,telling
+In der U-Bahn hat ein Kontrolleur meinen Fahrschein kontrolliert.,haben; kontrollieren,die U-Bahn; der Kontrolleur; der Fahrschein,,,in,meinen,,telling
+Alles war in Ordnung.,sein,die Ordnung,,,in,alles,,telling
+"Ich habe ihn gefragt, ob die Karte auch bis zum Flughafen gilt.",haben; fragen; gelten,die Karte; der Flughafen,,auch,bis; zu (zum),ich; ihn,ob,telling
+Nächste Woche besucht mich ein Freund.,besuchen,die Woche; der Freund,nächst,,,mich,,telling
+"Der Flughafen liegt in der Zone C, deshalb braucht man dafür eine Verlängerung.",liegen; brauchen,der Flughafen; die Zone; die Verlängerung,,deshalb; dafür,in,man,,telling
+"Wenn man kein Ticket hat, muss man sechzig Euro bezahlen.",haben; müssen; bezahlen,das Ticket; der Euro,,,,man; kein,wenn,telling
+Zum Glück hatte ich ein gültiges Ticket!,haben,das Glück; das Ticket,gültig,,zu (zum),ich,,telling; feeling
