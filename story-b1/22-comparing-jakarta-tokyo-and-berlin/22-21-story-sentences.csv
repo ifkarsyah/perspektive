@@ -1,0 +1,17 @@
+sentences,verbs,nouns,adjectives,adverbs,prepositions,pronouns,conjunctions,function
+"Ich habe in Jakarta, Tokio und Berlin gelebt, und jede Stadt ist anders.",haben; leben; sein,die Stadt,anders,,in,ich; jede,und,telling
+"Jakarta ist die Stadt, in der ich aufgewachsen bin.",sein; aufwachsen,die Stadt,,,in,der; ich,,telling
+"Tokio ist die Stadt, in der ich zuletzt gewohnt habe.",sein; wohnen; haben,die Stadt,,zuletzt,in,der; ich,,telling
+"Berlin ist die Stadt, in der ich jetzt neu anfange.",sein; anfangen,die Stadt,neu,jetzt,in,der; ich,,telling
+"In Jakarta gibt es viel Verkehr, deshalb nehmen viele Leute das Motorrad.",geben; nehmen,der Verkehr; die Leute; das Motorrad,viel,deshalb,in,es,,telling
+"In Tokio ist der Zug das Verkehrsmittel, mit dem fast alle zur Arbeit fahren.",sein; fahren,der Zug; das Verkehrsmittel; die Arbeit,,fast,in; mit; zu (zur),dem; alle,,telling
+"Die U-Bahn in Berlin ist nicht so pünktlich wie die in Tokio, aber am Wochenende fährt sie die ganze Nacht.",sein; fahren,die U-Bahn; das Wochenende; die Nacht,pünktlich; ganz,nicht; so,in; an (am),die; sie,wie; aber,telling; feeling
+"Beim Essen vermisse ich die Gerichte, die ich aus Jakarta kenne.",vermissen; kennen,das Essen; das Gericht,,,bei (beim); aus,ich; die,,feeling
+"Dafür gibt es in Berlin viele Restaurants, in denen man Essen aus der ganzen Welt bekommt.",geben; bekommen,das Restaurant; das Essen; die Welt,viel; ganz,dafür,in; aus,es; denen; man,,telling
+"In Jakarta ist es das ganze Jahr warm, während es in Berlin im Winter oft nur null Grad hat.",sein; haben,das Jahr; der Winter; das Grad,ganz; warm,oft; nur,in; in (im),es,während,telling
+"In Tokio sind die Leute sehr höflich, während sie in Berlin viel direkter sind.",sein,die Leute,höflich; direkt; viel,sehr,in,sie,während,telling
+Im Gegensatz zu Tokio sagen die Leute hier ehrlich ihre Meinung.,sagen,der Gegensatz; die Leute; die Meinung,ehrlich,hier,in (im); zu,ihre,,telling
+"Die Kollegen, mit denen ich arbeite, sind sehr offen. Das ist manchmal anstrengend, aber ich mag es.",arbeiten; sein; mögen,der Kollege,offen; anstrengend,sehr; manchmal,mit,denen; ich; das; es,aber,telling; feeling
+"Jede Stadt hat etwas, das ich mag.",haben; mögen,die Stadt,,,,jede; etwas; das; ich,,feeling
+"Alles, was ich in Jakarta und Tokio gelernt habe, hilft mir auch in Berlin.",lernen; haben; helfen,,,auch,in,alles; was; ich; mir,und,telling
+"Berlin ist nicht besser oder schlechter, sondern einfach anders.",sein,,gut; schlecht; anders,nicht; einfach,,,oder; sondern,feeling
