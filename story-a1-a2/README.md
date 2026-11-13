@@ -54,6 +54,8 @@ story-a1-a2/
 │   └── (same 6 files with prefix 61-)
 ├── 62-small-talk-with-colleagues/
 │   └── (same 6 files with prefix 62-)
+├── 63-small-talk-weather-and-seasons/
+│   └── (same 6 files with prefix 63-)
 ├── 71-apartment-viewing/
 │   └── (same 6 files with prefix 71-)
 └── 72-at-burgeramt/
@@ -71,7 +73,7 @@ story-a1-a2/
   | `3x` | telling about the past | `31` |
   | `4x` | the future: making plans | `41`, `42` |
   | `5x` | going out and getting things done in town: café, restaurant, doctor, trains, a broken machine, shopping | `51`–`57` |
-  | `6x` | work and small talk | `61`, `62` |
+  | `6x` | work and small talk | `61`–`63` |
   | `7x` | talking to other people: landlord, officials, providers (all with *Sie*) | `71`, `72` |
 - **File:** `<n>-<step><variant>-<name>`, where `<n>` is the folder number.
   - The first digit after the dash is the **step**: `1` = text, `2` = sentence breakdown, `3` = vocab list, `4` = grammar points.
@@ -96,7 +98,6 @@ Not written yet. Each gets the same 6 files once it's written.
 
 | Folder | Topic |
 |---|---|
-| `63-small-talk-weather-and-seasons` | small talk about the weather and the seasons |
 | `73-auslaenderbehoerde` | residence permit at the immigration office |
 | `74-phone-and-sim` | buying a SIM card or phone contract |
 | `75-bank-account` | opening a bank account |
