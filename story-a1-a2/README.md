@@ -60,6 +60,8 @@ story-a1-a2/
 │   └── (same 6 files with prefix 71-)
 ├── 72-at-burgeramt/
 │   └── (same 6 files with prefix 72-)
+├── 73-auslaenderbehoerde/
+│   └── (same 6 files with prefix 73-)
 ├── 74-phone-and-sim/
 │   └── (same 6 files with prefix 74-)
 └── 75-bank-account/
@@ -78,7 +80,7 @@ story-a1-a2/
   | `4x` | the future: making plans | `41`, `42` |
   | `5x` | going out and getting things done in town: café, restaurant, doctor, trains, a broken machine, shopping | `51`–`57` |
   | `6x` | work and small talk | `61`–`63` |
-  | `7x` | talking to other people: landlord, officials, providers (all with *Sie*) | `71`, `72`, `74`, `75` |
+  | `7x` | talking to other people: landlord, officials, providers (all with *Sie*) | `71`–`75` |
 - **File:** `<n>-<step><variant>-<name>`, where `<n>` is the folder number.
   - The first digit after the dash is the **step**: `1` = text, `2` = sentence breakdown, `3` = vocab list, `4` = grammar points.
   - The second digit is the **variant**: `1` = story, `2` = convo. From `3` on, a topic can add extra text types it needs, named after what they are: `24-13-recipe`, `54-13-announcement`, `54-14-timetable`, `54-15-prohibition`. Steps 3 and 4 cover all variants, so they use `0`.
@@ -95,14 +97,6 @@ story-a1-a2/
 | `<n>-40-grammar-points.md` | 4 grammar | what's new in this topic compared with the earlier ones |
 
 `11-introduction/` is convo-only: it has no story, so no `11-11` or `11-21` file.
-
-## Planned topics
-
-Not written yet. Each gets the same 6 files once it's written.
-
-| Folder | Topic |
-|---|---|
-| `73-auslaenderbehoerde` | residence permit at the immigration office |
 
 ## Steps (per story folder)
 

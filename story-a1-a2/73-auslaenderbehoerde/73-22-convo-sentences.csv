@@ -1,0 +1,25 @@
+sentences,verbs,nouns,adjectives,adverbs,prepositions,pronouns,conjunctions,function
+Guten Morgen. Wie kann ich Ihnen helfen?,können; helfen,der Morgen,gut,wie,,ich; Ihnen,,social; asking
+Guten Morgen. Ich habe ein Visum für die Blaue Karte EU. Ich möchte jetzt meinen Aufenthaltstitel beantragen.,haben; möchten; beantragen,der Morgen; das Visum; die Karte; der Aufenthaltstitel,gut; blau,jetzt,für,ich; meinen,,social; telling
+Gut. Haben Sie Ihre Unterlagen dabei? Zuerst bitte Ihren Reisepass mit dem Visum.,dabeihaben,die Unterlagen; der Reisepass; das Visum,gut,zuerst; bitte,mit,Sie; Ihre; Ihren,,asking; doing
+"Hier, bitte. Ich habe das Visum in Tokio bei der Deutschen Botschaft bekommen.",haben; bekommen,das Visum; die Botschaft,deutsch,hier; bitte,in; bei,ich,,doing; telling
+"Ah ja, ich sehe es. Das Visum ist noch bis Februar gültig. Haben Sie sich schon angemeldet?",sehen; sein; haben; sich anmelden,das Visum; der Februar,gültig,ja; noch; schon,bis,ich; es; Sie; sich,,reacting; telling; asking
+"Ja, vor zehn Tagen. Hier ist meine Meldebescheinigung.",sein,der Tag; die Meldebescheinigung,,ja; hier,vor,meine,,reacting; telling
+Sehr gut. Haben Sie auch Ihren Arbeitsvertrag dabei?,dabeihaben,der Arbeitsvertrag,gut,sehr; auch,,Sie; Ihren,,reacting; asking
+"Ja, bitte. Ich arbeite in der IT bei einer Firma in Friedrichshain.",arbeiten,die IT; die Firma,,ja; bitte,in; bei; in,ich,,doing; telling
+Danke. Und die Krankenversicherung? Haben Sie dafür eine Bestätigung?,haben,die Krankenversicherung; die Bestätigung,,dafür,,Sie,und,social; asking
+"Ja, hier ist die Bestätigung von meiner Krankenkasse.",sein,die Bestätigung; die Krankenkasse,,ja; hier,von,meiner,,reacting; telling
+Perfekt. Außerdem brauche ich ein biometrisches Foto und Ihren Mietvertrag.,brauchen,das Foto; der Mietvertrag,perfekt; biometrisch,außerdem,,ich; Ihren,und,reacting; telling
+"Das Foto habe ich dabei, und hier ist der Mietvertrag für meine Wohnung.",dabeihaben; sein,das Foto; der Mietvertrag; die Wohnung,,hier,für,ich; meine,und,telling
+Dann haben wir alles. Jetzt machen wir noch die Fingerabdrücke. Legen Sie bitte die Finger hier auf das Gerät.,haben; machen; legen,der Fingerabdruck; der Finger; das Gerät,,dann; jetzt; noch; bitte; hier,auf,wir; alles; Sie,,doing; telling
+So?,,,,so,,,,asking
+"Genau. Und jetzt die andere Hand. So, fertig.",,die Hand,genau; ander; fertig,jetzt; so,,,und,reacting; doing
+Was kostet das?,kosten,,,,,was; das,,asking
+Die Gebühr ist hundert Euro. Sie können mit Karte bezahlen.,sein; können; bezahlen,die Gebühr; der Euro; die Karte,,,mit,Sie,,telling
+"Gut, hier bitte. Wann bekomme ich meine Karte?",bekommen,die Karte,gut,hier; bitte; wann,,ich; meine,,reacting; asking
+"Das dauert ungefähr vier Wochen. Wir schreiben Ihnen eine E-Mail, wenn die Karte fertig ist. Dann holen Sie sie hier ab.",dauern; schreiben; sein; abholen,die Woche; die E-Mail; die Karte,fertig,ungefähr; dann; hier,,das; wir; Ihnen; Sie; sie,wenn,telling
+Darf ich bis dahin arbeiten?,dürfen; arbeiten,,,dahin,bis,ich,,asking
+"Ja, mit Ihrem Visum dürfen Sie arbeiten. Nehmen Sie auch diese Bescheinigung immer mit.",dürfen; arbeiten; mitnehmen,das Visum; die Bescheinigung,,ja; auch; immer,mit,Ihrem; Sie; diese,,reacting; telling; doing
+Alles klar. Vielen Dank für Ihre Hilfe!,,der Dank; die Hilfe,klar; viel,,für,alles; Ihre,,reacting; social
+Gern. Schönen Tag noch!,,der Tag,schön,gern; noch,,,,social
+"Danke, Ihnen auch!",,,,auch,,Ihnen,,social
