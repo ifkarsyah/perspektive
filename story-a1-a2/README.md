@@ -103,7 +103,7 @@ story-a1-a2/
 1. **Write the texts:** `<n>-11-story.md` and `<n>-12-convo.md`, in casual A1–A2 German.
 2. **Break down each line:** copy each line into `<n>-21-story-sentences.csv` / `<n>-22-convo-sentences.csv`, one row per line in the same order, and fill the word columns.
 3. **Collect the vocab:** merge every word from all breakdowns into `<n>-30-all-vocab-sorted.csv`.
-4. **Note the grammar:** write `<n>-40-grammar-points.md` with only the patterns that are **new** compared with the earlier topics (in number order). Each point has a one-line rule, example lines copied from the story/convo and a small table. It ends with **Speaking chunks** (phrases to memorize whole) and **Seen before** (earlier patterns this topic reuses).
+4. **Note the grammar:** write `<n>-40-grammar-points.md` with only the patterns that are **new** compared with the earlier topics (in the order they were written). Each point has a one-line rule, example lines copied from the story/convo and a small table. It ends with **Speaking chunks** (phrases to memorize whole) and **Seen before** (earlier patterns this topic reuses).
 
 Stories mostly use words from `vocab-a1-a2.csv`, but everyday words the topic needs are kept even when they're missing from it or rated B1+ (e.g. *duschen, frühstücken, Wochenende*).
 

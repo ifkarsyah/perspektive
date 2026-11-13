@@ -2,8 +2,8 @@
 
 ## Prepaid oder Vertrag? – Prepaid or contract?
 
-Am Samstag war ich in einem Handyshop in Kreuzberg.
-*On Saturday I was in a phone shop in Kreuzberg.*
+Am Samstag war ich in einem Handyshop in Friedrichshain.
+*On Saturday I was in a phone shop in Friedrichshain.*
 
 Ich habe noch keine deutsche Nummer, deshalb brauche ich eine SIM-Karte.
 *I don't have a German number yet, so I need a SIM card.*

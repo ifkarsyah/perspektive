@@ -1,6 +1,6 @@
 # Im Handyshop – Conversation
 
-**Situation:** It's Saturday 21 November, Ferdi's third day in Berlin. He still has his phone from Tokyo and no German number. In a phone shop in Kreuzberg he talks to the salesman (**Verkäufer**). They use **Sie**.
+**Situation:** It's Saturday 21 November, Ferdi's third day in Berlin. He still has his phone from Tokyo and no German number. In a phone shop in Friedrichshain he talks to the salesman (**Verkäufer**). They use **Sie**.
 
 ---
 
