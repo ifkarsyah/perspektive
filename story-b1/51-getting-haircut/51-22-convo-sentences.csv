@@ -1,0 +1,20 @@
+sentences,verbs,nouns,adjectives,adverbs,prepositions,pronouns,conjunctions,function
+Guten Tag! Haben Sie einen Termin?,haben,der Tag; der Termin,gut,,,Sie,,social; asking
+"Guten Tag. Ja, um elf Uhr, auf den Namen Ferdi. Ich möchte mir heute die Haare schneiden lassen.",möchten; schneiden; lassen,der Tag; die Uhr; der Name; die Haare,gut,heute,um; auf,ich; mir,,social; telling
+Natürlich. Nehmen Sie bitte Platz. Waren Sie schon einmal bei uns?,nehmen; sein,der Platz,,natürlich; bitte; schon; einmal,bei,Sie; uns,,social; asking
+"Nein, ich bin neu in Berlin. Eine Kollegin hat mir den Salon empfohlen.",sein; haben; empfehlen,die Kollegin; der Salon,neu,,in,ich; mir,,telling
+Wie möchten Sie die Haare haben?,möchten; haben,die Haare,,wie,,Sie,,asking
+"An den Seiten kürzer, oben nur ein bisschen. Ich habe ein Foto dabei. Wie sagt man ""sideburns"" auf Deutsch?",dabeihaben; sagen,die Seite; das Foto; das Deutsch,kurz,oben; nur; ein bisschen; wie,an; auf,ich; man,,telling; asking
+Koteletten. Soll ich die auch kürzen?,sollen; kürzen,die Koteletten,,auch,,ich; die,,asking
+"Nein, lassen Sie sie bitte etwas länger.",lassen,,lang,bitte; etwas,,Sie; sie,,doing
+Gern. Möchten Sie die Haare vorher waschen lassen?,möchten; waschen; lassen,die Haare,,gern; vorher,,Sie,,asking
+"Ja, bitte.",,,,bitte,,,,reacting
+Darf ich etwas fragen? In Japan gibt man kein Trinkgeld. Wie viel gibt man hier?,dürfen; fragen; geben,das Trinkgeld,,wie viel; hier,in,ich; etwas; man; kein,,asking; telling
+Man gibt meistens fünf bis zehn Prozent. Aber man muss nicht.,geben; müssen,das Prozent,,meistens; nicht,bis,man,aber,telling
+"Danke, das ist gut zu wissen.",sein; wissen,,gut,,,das,,reacting
+"So, schauen Sie mal. Gefällt es Ihnen?",schauen; gefallen,,,so; mal,,Sie; es; Ihnen,,asking; doing
+"Ja, sehr! Genau so wollte ich es. Wie viel macht das?",wollen; machen,,,sehr; genau; so; wie viel,,ich; es; das,,reacting; asking
+Fünfunddreißig Euro. Zahlen Sie bar oder mit Karte?,zahlen,der Euro; die Karte,,bar,mit,Sie,oder,asking
+"Mit Karte, bitte. Machen Sie bitte vierzig Euro.",machen,die Karte; der Euro,,bitte,mit,Sie,,doing
+Vielen Dank! Kommen Sie bald wieder!,kommen,der Dank,viel,bald; wieder,,Sie,,social
+Ich lasse mir bestimmt bald wieder die Haare schneiden. Auf Wiedersehen!,lassen; schneiden,die Haare; das Wiedersehen,,bestimmt; bald; wieder,auf,ich; mir,,social; telling
