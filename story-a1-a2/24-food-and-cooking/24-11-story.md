@@ -5,8 +5,8 @@
 Ich koche nicht oft, weil ich allein wohne.
 *I don't cook often, because I live alone.*
 
-Zum Frühstück esse ich fast immer Reis mit Omelett.
-*For breakfast I almost always eat rice with an omelette.*
+Zum Frühstück esse ich fast immer Reis mit einem gekochten Ei.
+*For breakfast I almost always eat rice with a boiled egg.*
 
 Mittags und abends esse ich meistens im Büro.
 *At lunch and dinner I usually eat at the office.*
@@ -16,29 +16,52 @@ Am Wochenende koche ich manchmal etwas Einfaches.
 
 ## Mein Lieblingsgericht – My favourite dish
 
-Mein Lieblingsgericht ist Nasi Goreng, gebratener Reis aus Indonesien.
-*My favourite dish is nasi goreng, fried rice from Indonesia.*
+Mein Lieblingsgericht ist Rendang. Das ist Rindfleisch aus Indonesien.
+*My favourite dish is rendang. It's beef from Indonesia.*
 
-Es ist einfach und schnell, und man braucht nur wenige Zutaten.
-*It's simple and quick, and you only need a few ingredients.*
+Man kocht das Fleisch drei Stunden in Kokosmilch mit Chili, Knoblauch und Zwiebeln.
+*You cook the meat for three hours in coconut milk with chilli, garlic and onions.*
 
-Das Rezept ist ganz leicht:
-*The recipe is really easy:*
+Am Ende ist es ganz weich und ein bisschen scharf.
+*In the end it's really soft and a little spicy.*
 
-Schneid eine Zwiebel und zwei Knoblauchzehen klein.
-*Chop an onion and two cloves of garlic.*
+Das Rezept ist nicht schwer, aber es dauert lange:
+*The recipe isn't hard, but it takes a long time:*
 
-Brat sie zwei Minuten in einer Pfanne mit Öl.
-*Fry them for two minutes in a pan with oil.*
+Schneid das Rindfleisch in Stücke.
+*Cut the beef into pieces.*
 
-Gib dann den Reis und ein Ei dazu.
-*Then add the rice and an egg.*
+Brat es kurz mit Zwiebeln und Knoblauch in einem Topf.
+*Fry it briefly with onions and garlic in a pot.*
 
-Am Ende kommen Sojasoße, Salz und ein bisschen Chili dazu.
-*At the end you add soy sauce, salt and a little chilli.*
+Gieß dann die Kokosmilch dazu.
+*Then pour in the coconut milk.*
+
+Koch alles drei Stunden ganz langsam und rühr alles manchmal.
+*Cook everything very slowly for three hours and stir everything now and then.*
+
+Dazu isst man Reis.
+*You eat rice with it.*
 
 Fertig!
 *Done!*
+
+## Fleisch und Eier – Meat and eggs
+
+Fleisch gibt es in vielen Sorten: Hähnchen, Rindfleisch, Schweinefleisch und Lammfleisch.
+*There are many kinds of meat: chicken, beef, pork and lamb.*
+
+In Deutschland isst man viel Schweinefleisch, aber in Indonesien oft Hähnchen und Rindfleisch.
+*In Germany people eat a lot of pork, but in Indonesia often chicken and beef.*
+
+Ein Ei esse ich gern gekocht oder gebraten.
+*I like eating an egg boiled or fried.*
+
+Hähnchen esse ich am liebsten gebraten.
+*I like chicken best fried.*
+
+Lammfleisch aus dem Ofen finde ich auch lecker.
+*I also find lamb from the oven (roasted) tasty.*
 
 ## Indonesisches und deutsches Essen – Indonesian and German food
 

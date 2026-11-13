@@ -2,23 +2,29 @@ sentences,verbs,nouns,adjectives,adverbs,prepositions,pronouns,conjunctions,func
 "Ferdi, kochst du eigentlich gern?",kochen,,,eigentlich; gern,,du,,asking
 "Ja, aber ich koche nicht oft. Für eine Person ist das zu viel Arbeit.",kochen; sein,die Person; die Arbeit,,nicht; oft; zu; viel,für,ich; das,aber,telling; feeling
 Das verstehe ich. Was ist dein Lieblingsgericht?,verstehen; sein,das Lieblingsgericht,,,,das; ich; was; dein,,reacting; asking
-Nasi Goreng. Das ist gebratener Reis aus Indonesien.,sein,der Reis,gebraten,,aus,das,,telling
+Rendang. Das ist Rindfleisch aus Indonesien.,sein,Rendang; das Rindfleisch,,,aus,das,,telling
 "Oh, das habe ich schon mal gehört! Ist das schwer?",haben; hören; sein,,schwer,schon mal,,das; ich,,reacting; asking
-"Nein, gar nicht. Das geht ganz schnell.",gehen,,schnell,gar; nicht; ganz,,das,,telling
-Wie macht man das?,machen,,,wie,,man; das,,asking
-Schneid eine Zwiebel und Knoblauch klein und brat alles in der Pfanne.,schneiden; braten,die Zwiebel; der Knoblauch; die Pfanne,klein,,in,alles,und,doing
+"Nein, gar nicht schwer, aber es dauert lange. Man kocht das Fleisch drei Stunden.",dauern; kochen,das Fleisch; die Stunde,schwer,gar; nicht; lange,,es; man,aber,telling
+Drei Stunden? Wie macht man das?,machen,die Stunde,,wie,,man; das,,reacting; asking
+Schneid das Rindfleisch in Stücke und brat es mit Zwiebeln und Knoblauch in einem Topf.,schneiden; braten,das Rindfleisch; das Stück; die Zwiebel; der Knoblauch; der Topf,,,in; mit,es,und,doing
 Und dann?,,,,dann,,,und,asking
-Dann gib den Reis und ein Ei dazu. Am Ende kommt süße Sojasoße dazu.,dazugeben; dazukommen,der Reis; das Ei; das Ende; die Sojasoße,süß,dann,an (am),,und,doing; telling
-Süße Sojasoße? Die kenne ich nicht.,kennen,die Sojasoße,süß,nicht,,die; ich,,reacting
-Die gibt es im Asia-Laden. Sie heißt Kecap Manis.,geben; heißen,der Asia-Laden,,,in (im),die; es; sie,,telling
-Ist Nasi Goreng scharf?,sein,,scharf,,,,,asking
+Dann gieß die Kokosmilch dazu und koch alles ganz langsam.,gießen; kochen,die Kokosmilch,langsam,dann; dazu; ganz,,alles,und,doing
+Kokosmilch? Wo kauft man die?,kaufen,die Kokosmilch,,wo,,man; die,,asking
+Die gibt es im Asia-Laden.,geben,der Asia-Laden,,,in (im),die; es,,telling
+Ist Rendang scharf?,sein,Rendang,scharf,,,,,asking
 Ein bisschen. Indonesisches Essen ist meistens schärfer als deutsches Essen.,sein,das Essen,indonesisch; scharf; deutsch,ein bisschen; meistens,,,als,telling
 Ich mag es nicht so scharf.,mögen,,scharf,nicht; so,,ich; es,,feeling
 "Kein Problem, dann nimm einfach weniger Chili.",nehmen,das Problem; der Chili,,dann; einfach; weniger,,kein,,reacting; doing
+Isst du eigentlich viel Fleisch?,essen,das Fleisch,,eigentlich; viel,,du,,asking
+"Ja, oft Hähnchen und Rindfleisch. Und jeden Morgen ein Ei.",,das Hähnchen; das Rindfleisch; der Morgen; das Ei,,oft,,,und,telling
+Gekocht oder gebraten?,,,gekocht; gebraten,,,,oder,asking
+Gekocht. Und Hähnchen esse ich am liebsten gebraten.,essen,das Hähnchen,gekocht; gebraten,am liebsten,,ich,und,telling; feeling
+"In Deutschland essen die Leute viel Schweinefleisch, oft als Braten aus dem Ofen.",essen,die Leute; das Schweinefleisch; der Braten; der Ofen,,viel; oft,in; aus,,als,telling
+Braten kenne ich noch nicht. Aber Lammfleisch aus dem Ofen finde ich lecker.,kennen; finden,der Braten; das Lammfleisch; der Ofen,lecker,noch; nicht; aber,aus,ich,,telling; feeling
 Was isst du in Deutschland am liebsten?,essen,,,am liebsten,in,was; du,,asking
 "Hm, ich esse gern Brezeln. Und Käsespätzle finde ich auch lecker.",essen; finden,die Brezel; die Käsespätzle,lecker,gern; auch,,ich,und,feeling
 "Haha, die habe ich im Restaurant gegessen! Vermisst du eigentlich das Essen aus Indonesien?",haben; essen; vermissen,das Restaurant; das Essen,,eigentlich,in (im); aus,die; ich; du,,reacting; asking
 "Ja, sehr. Am meisten vermisse ich das Essen von meiner Mutter.",vermissen,das Essen; die Mutter,,sehr; am meisten,von,ich; meiner,,feeling
-Das kann ich gut verstehen. Kochst du mal Nasi Goreng für mich?,können; verstehen; kochen,,gut,mal,für,das; ich; du; mich,,reacting; doing
+Das kann ich gut verstehen. Kochst du mal Rendang für mich?,können; verstehen; kochen,Rendang,gut,mal,für,das; ich; du; mich,,reacting; doing
 Gern! Komm doch am Samstag vorbei.,vorbeikommen,der Samstag,,gern; doch,an (am),,,reacting; doing
 "Super, ich bringe den Nachtisch mit!",mitbringen,der Nachtisch,super,,,ich,,reacting; doing

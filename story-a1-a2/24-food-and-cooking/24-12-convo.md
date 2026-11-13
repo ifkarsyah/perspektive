@@ -1,6 +1,6 @@
 # Essen und Kochen – Conversation
 
-**Situation:** Lena and Ferdi talk about food. Lena wants to know how to make Ferdi's favourite dish.
+**Situation:** Lena and Ferdi talk about food. Lena wants to know how to make Ferdi's favourite dish, and they talk about meat and eggs.
 
 ---
 
@@ -13,35 +13,35 @@
 **Lena:** Das verstehe ich. Was ist dein Lieblingsgericht?
 *I get that. What's your favourite dish?*
 
-**Ferdi:** Nasi Goreng. Das ist gebratener Reis aus Indonesien.
-*Nasi goreng. It's fried rice from Indonesia.*
+**Ferdi:** Rendang. Das ist Rindfleisch aus Indonesien.
+*Rendang. It's beef from Indonesia.*
 
 **Lena:** Oh, das habe ich schon mal gehört! Ist das schwer?
 *Oh, I've heard of that! Is it hard?*
 
-**Ferdi:** Nein, gar nicht. Das geht ganz schnell.
-*No, not at all. It's really quick.*
+**Ferdi:** Nein, gar nicht schwer, aber es dauert lange. Man kocht das Fleisch drei Stunden.
+*No, not hard at all, but it takes a long time. You cook the meat for three hours.*
 
-**Lena:** Wie macht man das?
-*How do you make it?*
+**Lena:** Drei Stunden? Wie macht man das?
+*Three hours? How do you make it?*
 
-**Ferdi:** Schneid eine Zwiebel und Knoblauch klein und brat alles in der Pfanne.
-*Chop an onion and some garlic and fry everything in the pan.*
+**Ferdi:** Schneid das Rindfleisch in Stücke und brat es mit Zwiebeln und Knoblauch in einem Topf.
+*Cut the beef into pieces and fry it with onions and garlic in a pot.*
 
 **Lena:** Und dann?
 *And then?*
 
-**Ferdi:** Dann gib den Reis und ein Ei dazu. Am Ende kommt süße Sojasoße dazu.
-*Then add the rice and an egg. At the end you add sweet soy sauce.*
+**Ferdi:** Dann gieß die Kokosmilch dazu und koch alles ganz langsam.
+*Then pour in the coconut milk and cook everything very slowly.*
 
-**Lena:** Süße Sojasoße? Die kenne ich nicht.
-*Sweet soy sauce? I don't know that.*
+**Lena:** Kokosmilch? Wo kauft man die?
+*Coconut milk? Where do you buy that?*
 
-**Ferdi:** Die gibt es im Asia-Laden. Sie heißt Kecap Manis.
-*You can get it at the Asian shop. It's called kecap manis.*
+**Ferdi:** Die gibt es im Asia-Laden.
+*You can get it at the Asian shop.*
 
-**Lena:** Ist Nasi Goreng scharf?
-*Is nasi goreng spicy?*
+**Lena:** Ist Rendang scharf?
+*Is rendang spicy?*
 
 **Ferdi:** Ein bisschen. Indonesisches Essen ist meistens schärfer als deutsches Essen.
 *A bit. Indonesian food is usually spicier than German food.*
@@ -51,6 +51,24 @@
 
 **Ferdi:** Kein Problem, dann nimm einfach weniger Chili.
 *No problem, then just use less chilli.*
+
+**Lena:** Isst du eigentlich viel Fleisch?
+*Do you actually eat a lot of meat?*
+
+**Ferdi:** Ja, oft Hähnchen und Rindfleisch. Und jeden Morgen ein Ei.
+*Yes, often chicken and beef. And an egg every morning.*
+
+**Lena:** Gekocht oder gebraten?
+*Boiled or fried?*
+
+**Ferdi:** Gekocht. Und Hähnchen esse ich am liebsten gebraten.
+*Boiled. And I like chicken best fried.*
+
+**Lena:** In Deutschland essen die Leute viel Schweinefleisch, oft als Braten aus dem Ofen.
+*In Germany people eat a lot of pork, often as a roast from the oven.*
+
+**Ferdi:** Braten kenne ich noch nicht. Aber Lammfleisch aus dem Ofen finde ich lecker.
+*I don't know roast yet. But I find lamb from the oven tasty.*
 
 **Lena:** Was isst du in Deutschland am liebsten?
 *What do you like eating most in Germany?*
@@ -64,8 +82,8 @@
 **Ferdi:** Ja, sehr. Am meisten vermisse ich das Essen von meiner Mutter.
 *Yes, a lot. Most of all I miss my mother's cooking.*
 
-**Lena:** Das kann ich gut verstehen. Kochst du mal Nasi Goreng für mich?
-*I can really understand that. Will you cook nasi goreng for me sometime?*
+**Lena:** Das kann ich gut verstehen. Kochst du mal Rendang für mich?
+*I can really understand that. Will you cook rendang for me sometime?*
 
 **Ferdi:** Gern! Komm doch am Samstag vorbei.
 *Sure! Come round on Saturday.*

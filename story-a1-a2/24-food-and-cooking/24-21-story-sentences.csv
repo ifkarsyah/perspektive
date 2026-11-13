@@ -1,16 +1,23 @@
 sentences,verbs,nouns,adjectives,adverbs,prepositions,pronouns,conjunctions,function
 "Ich koche nicht oft, weil ich allein wohne.",kochen; wohnen,,allein,nicht; oft,,ich,weil,telling
-Zum Frühstück esse ich fast immer Reis mit Omelett.,essen,das Frühstück; der Reis; das Omelett,,fast; immer,zu (zum); mit,ich,,telling
+Zum Frühstück esse ich fast immer Reis mit einem gekochten Ei.,essen,das Frühstück; der Reis; das Ei,gekocht,fast; immer,zu (zum); mit,ich,,telling
 Mittags und abends esse ich meistens im Büro.,essen,das Büro,,mittags; abends; meistens,in (im),ich,und,telling
 Am Wochenende koche ich manchmal etwas Einfaches.,kochen,das Wochenende,einfach,manchmal,an (am),ich; etwas,,telling
-"Mein Lieblingsgericht ist Nasi Goreng, gebratener Reis aus Indonesien.",sein,das Lieblingsgericht; der Reis,gebraten,,aus,mein,,telling
-"Es ist einfach und schnell, und man braucht nur wenige Zutaten.",sein; brauchen,die Zutat,einfach; schnell; wenig,nur,,es; man,und,telling
-Das Rezept ist ganz leicht:,sein,das Rezept,leicht,ganz,,,,telling
-Schneid eine Zwiebel und zwei Knoblauchzehen klein.,schneiden,die Zwiebel; die Knoblauchzehe,klein,,,,und,doing
-Brat sie zwei Minuten in einer Pfanne mit Öl.,braten,die Minute; die Pfanne; das Öl,,,in; mit,sie,,doing
-Gib dann den Reis und ein Ei dazu.,dazugeben,der Reis; das Ei,,dann,,,und,doing
-"Am Ende kommen Sojasoße, Salz und ein bisschen Chili dazu.",dazukommen,das Ende; die Sojasoße; das Salz; der Chili,,ein bisschen,an (am),,und,telling
+Mein Lieblingsgericht ist Rendang. Das ist Rindfleisch aus Indonesien.,sein,das Lieblingsgericht; Rendang; das Rindfleisch,,,aus,mein; das,,telling
+"Man kocht das Fleisch drei Stunden in Kokosmilch mit Chili, Knoblauch und Zwiebeln.",kochen,das Fleisch; die Stunde; die Kokosmilch; der Chili; der Knoblauch; die Zwiebel,,,in; mit,man,und,telling
+Am Ende ist es ganz weich und ein bisschen scharf.,sein,das Ende,weich; scharf,ganz; ein bisschen,an (am),es,und,telling
+"Das Rezept ist nicht schwer, aber es dauert lange:",sein; dauern,das Rezept,schwer,nicht; lange,,es; das,aber,telling
+Schneid das Rindfleisch in Stücke.,schneiden,das Rindfleisch; das Stück,,,in,,,doing
+Brat es kurz mit Zwiebeln und Knoblauch in einem Topf.,braten,die Zwiebel; der Knoblauch; der Topf,,kurz,mit; in,es,und,doing
+Gieß dann die Kokosmilch dazu.,gießen,die Kokosmilch,,dann; dazu,,,,doing
+Koch alles drei Stunden ganz langsam und rühr alles manchmal.,kochen; rühren,die Stunde,langsam,ganz; manchmal,,alles,und,doing
+Dazu isst man Reis.,essen,der Reis,,dazu,,man,,telling
 Fertig!,,,fertig,,,,,telling
+"Fleisch gibt es in vielen Sorten: Hähnchen, Rindfleisch, Schweinefleisch und Lammfleisch.",geben,das Fleisch; die Sorte; das Hähnchen; das Rindfleisch; das Schweinefleisch; das Lammfleisch,viel,,in,es,und,telling
+"In Deutschland isst man viel Schweinefleisch, aber in Indonesien oft Hähnchen und Rindfleisch.",essen,das Schweinefleisch; das Hähnchen; das Rindfleisch,,viel; oft,in,man,aber; und,telling
+Ein Ei esse ich gern gekocht oder gebraten.,essen,das Ei,gekocht; gebraten,gern,,ich,oder,telling; feeling
+Hähnchen esse ich am liebsten gebraten.,essen,das Hähnchen,gebraten,am liebsten,,ich,,feeling
+Lammfleisch aus dem Ofen finde ich auch lecker.,finden,das Lammfleisch; der Ofen,lecker,auch,aus,ich,,feeling
 In Indonesien essen wir fast jeden Tag Reis.,essen,der Tag; der Reis,,fast,in,wir,,telling
 In Deutschland essen die Leute mehr Brot und Kartoffeln.,essen,die Leute; das Brot; die Kartoffel,,mehr,in,,und,telling
 Das indonesische Essen ist oft schärfer und süßer als das deutsche Essen.,sein,das Essen,indonesisch; scharf; süß; deutsch,oft,,,und; als,telling; feeling
