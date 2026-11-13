@@ -1,0 +1,19 @@
+sentences,verbs,nouns,adjectives,adverbs,prepositions,pronouns,conjunctions,function
+"Guten Abend. Entschuldigen Sie die Störung, aber könnten Sie die Musik bitte etwas leiser machen?",entschuldigen; können; machen,der Abend; die Störung; die Musik,gut; leise,bitte; etwas,,Sie,aber,social; asking
+"Oh, das tut mir sehr leid! Ich habe gar nicht gemerkt, dass es so laut ist.",tun; haben; merken; sein,,leid; laut,sehr; gar nicht; so,,das; mir; ich; es,dass,reacting; telling
+"Es ist schon nach elf, und ich muss morgen früh aufstehen.",sein; müssen; aufstehen,,,schon; morgen; früh,nach,es; ich,und,telling
+Natürlich. Ich mache sie sofort aus. Wir hätten früher aufhören sollen.,ausmachen; haben; aufhören; sollen,,,natürlich; sofort; früh,,ich; sie; wir,,reacting; telling
+"Danke. In Deutschland gilt ab zweiundzwanzig Uhr die Nachtruhe, da muss man leise sein.",gelten; müssen; sein,die Uhr; die Nachtruhe,leise,da,in; ab,man,,telling
+Das habe ich nicht gewusst. Wo steht das?,haben; wissen; stehen,,,nicht; wo,,das; ich,,reacting; asking
+Das steht in der Hausordnung. Sie hängt im Flur neben den Briefkästen.,stehen; hängen,die Hausordnung; der Flur; der Briefkasten,,,in; in (im); neben,das; sie,,telling
+Ich lese sie morgen. Und am Sonntag? Darf man da überhaupt laut sein?,lesen; dürfen; sein,der Sonntag,laut,morgen; da; überhaupt,an (am),ich; sie; man,und,asking
+"Am Sonntag sollte man ganz leise sein, das ist ein Ruhetag. Man sollte immer ein bisschen Rücksicht aufeinander nehmen.",sollen; sein; nehmen,der Sonntag; der Ruhetag; die Rücksicht,leise; ganz,immer; ein bisschen; aufeinander,an (am),man; das,,telling
+"Das verstehe ich. Würde es helfen, wenn ich Ihnen vorher Bescheid sage?",verstehen; werden; helfen; sagen,,,vorher,,das; ich; es; Ihnen,wenn,reacting; asking
+"Das wäre sehr nett. Dann ärgere ich mich nicht, wenn es mal etwas lauter wird.",sein; ärgern; werden,,nett; laut,sehr; dann; nicht; mal; etwas,,das; ich; mich; es,wenn,reacting; telling
+Gern. Dann sage ich Ihnen nächstes Mal vorher Bescheid.,sagen,das Mal,nächst,gern; dann; vorher,,ich; Ihnen,,reacting; telling
+Noch eine Sache: Heute Morgen waren Flaschen in der Papiertonne.,sein,die Sache; der Morgen; die Flasche; die Papiertonne,,noch; heute,in,,,telling
+"Oh, das war ich. Ich weiß noch nicht genau, wo was hinkommt. Könnten Sie mir das erklären?",sein; wissen; hinkommen; können; erklären,,,noch; nicht; genau; wo,,das; ich; was; Sie; mir,,reacting; telling; asking
+"Gern. Papier kommt in die blaue Tonne, Verpackungen in die gelbe und Bioabfall in die braune. Flaschen mit Pfand bringt man zum Supermarkt zurück.",kommen; zurückbringen,das Papier; die Tonne; die Verpackung; der Bioabfall; die Flasche; das Pfand; der Supermarkt,blau; gelb; braun,gern,in; mit; zu (zum),man,und,telling
+Alles klar. Ich werde mich daran halten.,werden; halten,,klar,daran,,alles; ich; mich,,reacting; telling
+Schön. Lassen Sie uns nächste Woche mal einen Kaffee trinken.,lassen; trinken,die Woche; der Kaffee,schön; nächst,mal,,Sie; uns,,doing
+"Sehr gern. Gute Nacht, Frau Becker!",,die Nacht; die Frau,gut,sehr; gern,,,,social
