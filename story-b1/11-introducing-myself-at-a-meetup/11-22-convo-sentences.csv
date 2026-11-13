@@ -1,0 +1,23 @@
+sentences,verbs,nouns,adjectives,adverbs,prepositions,pronouns,conjunctions,function
+"Hi! Ich glaube, wir kennen uns noch nicht. Ich bin Mira.",glauben; kennen; sein,,,noch; nicht,,ich; wir; uns,,social; telling
+"Hallo Mira, ich bin Ferdi. Bist du das erste Mal hier?",sein,das Mal,erst,hier,,ich; du; das,,social; telling; asking
+"Ja, ich habe lange auf so ein Treffen gewartet. Und du?",haben; warten,das Treffen,lang,ja; so,auf,ich; du,und,reacting; telling; asking
+"Ich auch. Ich bin erst seit November in Berlin, deshalb kenne ich hier noch fast niemanden.",sein; kennen,der November,,auch; erst; deshalb; hier; noch; fast,seit; in,ich; niemanden,,reacting; telling
+Woher kommst du denn?,kommen,,,woher; denn,,du,,asking
+"Ich komme aus Indonesien, aber ich habe die letzten Jahre in Tokio gelebt und gearbeitet.",kommen; haben; leben; arbeiten,das Jahr,letzt,,aus; in,ich,aber; und,telling
+"Wow, das ist ein großer Schritt! Warum bist du nach Berlin gezogen?",sein; ziehen,der Schritt,groß,warum,nach,das; du,,reacting; asking
+Ich habe hier eine Stelle im Datenteam bekommen. Außerdem habe ich mich schon lange für Europa interessiert.,haben; bekommen; interessieren,die Stelle; das Datenteam,lang,hier; außerdem; schon,in (im); für,ich; mich,,telling
+Und gefällt es dir bis jetzt?,gefallen,,,jetzt,bis,es; dir,und,asking
+"Ja, sehr. Die Stadt ist lebendig und die Leute sind offen. Nur der Winter ist hart. Ich sehne mich manchmal nach der Wärme.",sein; sehnen,die Stadt; die Leute; der Winter; die Wärme,lebendig; offen; hart,ja; sehr; nur; manchmal,nach,ich; mich,und,reacting; telling; feeling
+Das kenne ich! Ich komme aus Spanien und denke im Januar oft an das Meer.,kennen; kommen; denken,der Januar; das Meer,,oft,aus; in (im); an,das; ich,und,reacting; telling
+"Ach, dann verstehen wir uns! Worauf freust du dich am meisten in diesem Jahr?",verstehen; freuen,das Jahr,meist,dann; worauf,an (am); in,wir; uns; du; dich; diesem,,reacting; asking
+"Auf den Frühling, ehrlich gesagt. Und auf meinen ersten Sommer in Berlin. Und du?",,der Frühling; der Sommer,erst,ehrlich gesagt,auf; in,meinen; du,und,telling; feeling
+"Ich freue mich auch darauf. Außerdem freue ich mich auf einen Sprachkurs, den ich im Februar anfange.",freuen; anfangen,der Sprachkurs; der Februar,,auch; darauf; außerdem,auf; in (im),ich; mich; den,,telling; feeling
+"Cool! Wofür interessierst du dich denn sonst, außer für Daten?",interessieren,die Daten,cool,wofür; denn; sonst,außer; für,du; dich,,reacting; asking
+"Ich interessiere mich für Fußball und fürs Kochen. Ich träume davon, einmal ein indonesisches Restaurant zu besuchen, das wirklich gut ist.",interessieren; träumen; besuchen; sein,der Fußball; das Kochen; das Restaurant,indonesisch; gut,davon; einmal; wirklich,für (fürs),ich; mich; das,und,telling; feeling
+"Dann musst du mir Bescheid sagen, wenn du eins findest. Ich interessiere mich nämlich auch dafür!",müssen; sagen; finden; interessieren,der Bescheid,,dann; nämlich; auch; dafür,für,du; mir; eins; ich; mich,wenn,doing; telling; feeling
+Mache ich! Und woran arbeitest du gerade?,machen; arbeiten,,,woran; gerade,,ich; du,und,reacting; asking
+"An einem kleinen Projekt über Verkehrsdaten. Ich suche noch Leute, die Lust darauf haben. Hast du Zeit dafür?",suchen; haben,das Projekt; die Daten; die Leute; die Lust; die Zeit,klein,noch; darauf; dafür,an; über,ich; die; du,,telling; asking
+"Vielleicht. Das hängt davon ab, wie viel ich bei der Arbeit zu tun habe. Aber erzähl mir mehr darüber!",abhängen; haben; tun; erzählen,die Arbeit,viel,vielleicht; davon; wie; mehr; darüber,bei,das; ich; mir,aber,reacting; telling; doing
+Gern! Gleich geht der zweite Vortrag los. Wollen wir nachher noch ein Bier trinken?,losgehen; wollen; trinken,der Vortrag; das Bier,zweit,gern; gleich; nachher; noch,,wir,,reacting; telling; asking
+"Ja, gern. Ich freue mich darauf!",freuen,,,ja; gern; darauf,,ich; mich,,reacting; feeling
