@@ -1,6 +1,6 @@
 # 42 – Grammar Points: Making a Plan for Hiking
 
-What this story adds on top of the topics written before it (`1`, `21`, `22`, `23`, `31`, `41`). The big ones: **weather**, **things to bring** and **dates and deadlines**.
+What this story adds on top of the topics written before it (`11`, `21`, `22`, `23`, `31`, `41`). The big ones: **weather**, **things to bring** and **dates and deadlines**.
 
 ## New in this story
 

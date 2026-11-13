@@ -1,6 +1,6 @@
 # 53 – Grammar Points: At the Doctor
 
-What this story adds on top of the topics written before it (`1`, `21`–`24`, `31`, `41`, `42`, `51`, `52`). The big ones: **saying what hurts**, **the *Sie*-imperative** and ***dass*-clauses**.
+What this story adds on top of the topics written before it (`11`, `21`–`24`, `31`, `41`, `42`, `51`, `52`). The big ones: **saying what hurts**, **the *Sie*-imperative** and ***dass*-clauses**.
 
 ## New in this story
 

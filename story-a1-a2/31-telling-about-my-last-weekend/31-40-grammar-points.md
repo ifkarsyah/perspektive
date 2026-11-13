@@ -111,4 +111,4 @@ Add **oder?** at the end to mean "…, right?".
 
 - *weil* with the verb at the end, now with a past verb: *…, weil alle Waschmaschinen frei **waren**.* – from `21`.
 - *doch* as "yes" to a negative question: *Warst du nicht müde? – **Doch**, sehr!* – from `22`.
-- One Perfekt line already appeared in `1-introduction`: *Wir haben zusammen in Hamburg studiert.*
+- One Perfekt line already appeared in `11-introduction`: *Wir haben zusammen in Hamburg studiert.*

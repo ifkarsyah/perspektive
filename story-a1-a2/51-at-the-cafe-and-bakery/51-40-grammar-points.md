@@ -1,6 +1,6 @@
 # 51 – Grammar Points: At the Café and Bakery
 
-What this story adds on top of the topics written before it (`1`, `21`, `22`, `23`, `31`, `41`, `42`). The big one: **the polite *Sie*-form** – the first story where you talk to strangers.
+What this story adds on top of the topics written before it (`11`, `21`, `22`, `23`, `31`, `41`, `42`). The big one: **the polite *Sie*-form** – the first story where you talk to strangers.
 
 ## New in this story
 

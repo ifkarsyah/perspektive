@@ -1,6 +1,6 @@
 # 56 – Grammar Points: Buying Clothes and Shoes
 
-What this story adds on top of the topics written before it (`1`, `21`–`24`, `31`, `41`, `42`, `51`–`55`). The big ones: **passen / stehen / gefallen + dative**, **sizes**, **adjective endings** and **the adjective as a noun (*die blaue*)**.
+What this story adds on top of the topics written before it (`11`, `21`–`24`, `31`, `41`, `42`, `51`–`55`). The big ones: **passen / stehen / gefallen + dative**, **sizes**, **adjective endings** and **the adjective as a noun (*die blaue*)**.
 
 ## New in this story
 

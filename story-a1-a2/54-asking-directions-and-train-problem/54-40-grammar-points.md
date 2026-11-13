@@ -1,6 +1,6 @@
 # 54 – Grammar Points: Asking Directions and Train Problems
 
-What this topic adds on top of the topics written before it (`1`, `21`–`24`, `31`, `41`, `42`, `51`–`53`). The big ones: **directions and the compass**, **train verbs**, **reading boards and announcements** and **prohibitions**.
+What this topic adds on top of the topics written before it (`11`, `21`–`24`, `31`, `41`, `42`, `51`–`53`). The big ones: **directions and the compass**, **train verbs**, **reading boards and announcements** and **prohibitions**.
 
 ## New in this topic
 

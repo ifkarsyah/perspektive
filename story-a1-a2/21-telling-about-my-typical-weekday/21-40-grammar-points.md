@@ -1,6 +1,6 @@
 # 21 – Grammar Points: My Typical Weekday
 
-What this story adds on top of `1-introduction`.
+What this story adds on top of `11-introduction`.
 
 ## New in this story
 
@@ -93,5 +93,5 @@ Small words that add feeling. They don't translate word for word.
 
 ## Seen before
 
-- Verb in position 2, question words (*wie, was, woher*), yes/no questions with the verb first – from `1-introduction`.
-- *gern* for likes: *Ich spiele gern Fußball.* – from `1-introduction`.
+- Verb in position 2, question words (*wie, was, woher*), yes/no questions with the verb first – from `11-introduction`.
+- *gern* for likes: *Ich spiele gern Fußball.* – from `11-introduction`.

@@ -1,6 +1,6 @@
 # 23 – Grammar Points: My Family
 
-What this story adds on top of the topics written before it (`1`, `21`, `22`, `31`). The big one: **describing people**.
+What this story adds on top of the topics written before it (`11`, `21`, `22`, `31`). The big one: **describing people**.
 
 ## New in this story
 

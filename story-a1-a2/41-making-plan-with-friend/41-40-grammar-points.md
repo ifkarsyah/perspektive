@@ -1,6 +1,6 @@
 # 41 – Grammar Points: Making a Plan with a Friend
 
-What this story adds on top of the topics written before it (`1`, `21`, `22`, `23`, `31`). The big one: **suggesting, agreeing and declining**. This is also part 3 of the A2 speaking exam: planning something together.
+What this story adds on top of the topics written before it (`11`, `21`, `22`, `23`, `31`). The big one: **suggesting, agreeing and declining**. This is also part 3 of the A2 speaking exam: planning something together.
 
 ## New in this story
 
@@ -12,7 +12,7 @@ What this story adds on top of the topics written before it (`1`, `21`, `22`, `2
 | **Sollen wir** + … + infinitive? | **Sollen wir** noch mehr Leute **fragen**? | Should we…? |
 | **Wie wäre es mit** + dative? | **Wie wäre es mit** dem Sportplatz am Fluss? | How about…? |
 | **Sagen wir** + time? | **Sagen wir** um halb sieben? | Shall we say…? |
-| **Lass uns** + infinitive | (*Lass uns Fußball spielen!*) | Let's… – from `1` |
+| **Lass uns** + infinitive | (*Lass uns Fußball spielen!*) | Let's… – from `11` |
 
 *wäre* = "would be". Learn *Wie wäre es mit…?* as a fixed chunk.
 

@@ -1,6 +1,6 @@
 # 61 – Grammar Points: Telling About My Job
 
-What this story adds on top of the topics written before it (`1`, `21`–`26`, `31`, `41`, `42`, `51`–`56`, `62`). The big ones: **als / bei / im – saying where and as what you work**, ***seit wann?*** **with *erst***, **relative clauses in the plural** and **explaining something simply**.
+What this story adds on top of the topics written before it (`11`, `21`–`26`, `31`, `41`, `42`, `51`–`56`, `62`). The big ones: **als / bei / im – saying where and as what you work**, ***seit wann?*** **with *erst***, **relative clauses in the plural** and **explaining something simply**.
 
 ## New in this story
 
@@ -101,4 +101,4 @@ From `26` you know *ein Laden, **der**…*. In the plural it's always ***die***,
 - *etwas Neues* (adjective as a noun) – from `24`.
 - *ihr könnt / sprecht ihr* – from `62`.
 - *kostenlos* (the free office dinner) – from `21`.
-- *Freut mich!* – from `1`.
+- *Freut mich!* – from `11`.

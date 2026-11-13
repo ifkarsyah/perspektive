@@ -1,6 +1,6 @@
 # 72 – Grammar Points: At the Bürgeramt
 
-What this story adds on top of the topics written before it (`1`, `21`–`26`, `31`, `41`, `42`, `51`–`56`, `61`, `62`, `71`). The big ones: **official-form words**, **relative clauses with an object (*das ich ausgefüllt habe*)**, ***zu*** **+ infinitive**, ***erstens / zweitens / drittens*** and **asking someone to speak slowly** and **small talk when you're new in town**.
+What this story adds on top of the topics written before it (`11`, `21`–`26`, `31`, `41`, `42`, `51`–`56`, `61`, `62`, `71`). The big ones: **official-form words**, **relative clauses with an object (*das ich ausgefüllt habe*)**, ***zu*** **+ infinitive**, ***erstens / zweitens / drittens*** and **asking someone to speak slowly** and **small talk when you're new in town**.
 
 ## New in this story
 

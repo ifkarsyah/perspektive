@@ -1,6 +1,6 @@
 # 71 – Grammar Points: Apartment Viewing
 
-What this story adds on top of the topics written before it (`1`, `21`–`26`, `31`, `41`, `42`, `51`–`56`, `61`, `62`). The big ones: **flat and rent words**, ***wie groß / wie hoch?***, **moving verbs (*umziehen, einziehen*)** and **the superlative as a noun (*das Beste*)**.
+What this story adds on top of the topics written before it (`11`, `21`–`26`, `31`, `41`, `42`, `51`–`56`, `61`, `62`). The big ones: **flat and rent words**, ***wie groß / wie hoch?***, **moving verbs (*umziehen, einziehen*)** and **the superlative as a noun (*das Beste*)**.
 
 ## New in this story
 

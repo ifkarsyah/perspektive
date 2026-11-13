@@ -1,4 +1,4 @@
-# 1 – Grammar Points: Introduction
+# 11 – Grammar Points: Introduction
 
 The first topic, so everything here is new. It sets the basics the later stories build on.
 

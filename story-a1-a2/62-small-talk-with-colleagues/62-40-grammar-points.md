@@ -1,6 +1,6 @@
 # 62 – Grammar Points: Small Talk with Colleagues
 
-What this story adds on top of the topics written before it (`1`, `21`–`26`, `31`, `41`, `42`, `51`–`56`). The big ones: **opening and closing small talk**, **obwohl**, ***sollen*** **for "it's supposed to"**, **the *ihr*-form** and **ordinal dates**.
+What this story adds on top of the topics written before it (`11`, `21`–`26`, `31`, `41`, `42`, `51`–`56`). The big ones: **opening and closing small talk**, **obwohl**, ***sollen*** **for "it's supposed to"**, **the *ihr*-form** and **ordinal dates**.
 
 ## New in this story
 

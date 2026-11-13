@@ -1,6 +1,6 @@
 # 52 – Grammar Points: At the Restaurant
 
-What this story adds on top of the topics written before it (`1`, `21`, `22`, `23`, `31`, `41`, `42`, `51`). The big ones: **booking by phone**, **asking about food** and **complaining politely**. The story is in the Perfekt, so it also reviews `31`.
+What this story adds on top of the topics written before it (`11`, `21`, `22`, `23`, `31`, `41`, `42`, `51`). The big ones: **booking by phone**, **asking about food** and **complaining politely**. The story is in the Perfekt, so it also reviews `31`.
 
 ## New in this story
 
@@ -107,7 +107,7 @@ In speech *weil* is much more common, but *denn* is easier: no word-order change
 
 - *Sie / Ihnen*, ordering, *Zusammen oder getrennt?*, *Stimmt so* – from `51`.
 - Perfekt with *haben* and *sein*, separable verbs with *-ge-* (*an**ge**rufen, ein**ge**laden, an**ge**kommen*) – from `31`.
-- *-ieren* verbs have **no ge-** in the Perfekt: *reservieren → hat **reserviert*** (like *studiert* in `1`).
+- *-ieren* verbs have **no ge-** in the Perfekt: *reservieren → hat **reserviert*** (like *studiert* in `11`).
 - Reflexive verbs in the Perfekt: *Er hat **sich** entschuldigt. · Lena hat **sich** gefreut.* – from `41`.
 - *Das tut mir leid* – from `23`.
-- *Lass uns…* – from `1`.
+- *Lass uns…* – from `11`.

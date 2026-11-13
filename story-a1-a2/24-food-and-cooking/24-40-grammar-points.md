@@ -1,6 +1,6 @@
 # 24 – Grammar Points: Food and Cooking
 
-What this story adds on top of the topics written before it (`1`, `21`, `22`, `23`, `31`, `41`, `42`, `51`, `52`). The big ones: **giving instructions (imperative)** and **comparing**.
+What this story adds on top of the topics written before it (`11`, `21`, `22`, `23`, `31`, `41`, `42`, `51`, `52`). The big ones: **giving instructions (imperative)** and **comparing**.
 
 ## New in this story
 

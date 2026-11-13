@@ -1,6 +1,6 @@
 # 26 – Grammar Points: At the Late-Night Shop (Späti)
 
-What this story adds on top of the topics written before it (`1`, `21`–`25`, `31`, `41`, `42`, `51`–`56`). The big ones: **opening hours**, **erst ab**, **noch for "more / any left"**, **du with a shopkeeper** and **the first relative clause (*ein Laden, der…*)**.
+What this story adds on top of the topics written before it (`11`, `21`–`25`, `31`, `41`, `42`, `51`–`56`). The big ones: **opening hours**, **erst ab**, **noch for "more / any left"**, **du with a shopkeeper** and **the first relative clause (*ein Laden, der…*)**.
 
 ## New in this story
 

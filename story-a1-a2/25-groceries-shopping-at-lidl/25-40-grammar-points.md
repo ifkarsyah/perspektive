@@ -1,6 +1,6 @@
 # 25 – Grammar Points: Grocery Shopping at Lidl
 
-What this story adds on top of the topics written before it (`1`, `21`–`24`, `31`, `41`, `42`, `51`–`56`). The big ones: **quantities and packs**, **the bottle deposit (*Pfand*)**, **finding things in the shop** and **more reflexive verbs**.
+What this story adds on top of the topics written before it (`11`, `21`–`24`, `31`, `41`, `42`, `51`–`56`). The big ones: **quantities and packs**, **the bottle deposit (*Pfand*)**, **finding things in the shop** and **more reflexive verbs**.
 
 ## New in this story
 

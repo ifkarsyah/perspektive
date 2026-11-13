@@ -1,6 +1,6 @@
 # 55 – Grammar Points: Complaining – The Washing Machine Is Broken
 
-What this story adds on top of the topics written before it (`1`, `21`–`24`, `31`, `41`, `42`, `51`–`54`). The big ones: **describing a problem**, **very polite requests (*könnten / würden / wäre*)** and **getting something done (*lassen*)**.
+What this story adds on top of the topics written before it (`11`, `21`–`24`, `31`, `41`, `42`, `51`–`54`). The big ones: **describing a problem**, **very polite requests (*könnten / würden / wäre*)** and **getting something done (*lassen*)**.
 
 ## New in this story
 
