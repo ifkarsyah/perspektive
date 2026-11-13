@@ -4,7 +4,7 @@
 **Format:** story + convo (neighbour, *Sie*)
 
 ## Story / topic to cover
-- [x] Ferdi's friends are too loud on a Saturday night; the neighbour (Frau Becker, *Sie*) asks politely, explains Nachtruhe and the Hausordnung, and shows him how to sort rubbish.
+- [x] Ferdi's friends are too loud on a Saturday night; the neighbour (Frau Weber, *Sie*) asks politely, explains Nachtruhe and the Hausordnung, and shows him how to sort rubbish.
 
 ## Grammar to cover
 Only what is new compared with `story-a1-a2` and the earlier B1 topics. Check `story-a1-a2/*-40-grammar-points.md` for what is already taught.

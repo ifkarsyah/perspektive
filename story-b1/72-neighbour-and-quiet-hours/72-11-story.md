@@ -8,8 +8,8 @@ Am Samstag im Juli habe ich Freunde zum Essen eingeladen, und wir haben bis spä
 Gegen elf Uhr hat meine Nachbarin an der Tür geklingelt, weil die Musik zu laut war.
 *Around eleven o'clock my neighbour rang the door because the music was too loud.*
 
-Frau Becker hat sich nicht über uns beschwert, sondern nur freundlich gefragt, ob wir die Musik leiser machen könnten.
-*Frau Becker didn't complain about us, but only asked kindly whether we could turn the music down.*
+Frau Weber hat sich nicht über uns beschwert, sondern nur freundlich gefragt, ob wir die Musik leiser machen könnten.
+*Frau Weber didn't complain about us, but only asked kindly whether we could turn the music down.*
 
 Ich habe mich sofort entschuldigt, denn ich habe nicht gemerkt, wie laut es war.
 *I apologised right away, because I hadn't noticed how loud it was.*
@@ -30,8 +30,8 @@ Ich hätte vorher Bescheid sagen sollen.
 
 ## Der Müll – The rubbish
 
-Frau Becker hat mir außerdem erklärt, wie man den Müll trennt.
-*Frau Becker also explained to me how you separate rubbish.*
+Frau Weber hat mir außerdem erklärt, wie man den Müll trennt.
+*Frau Weber also explained to me how you separate rubbish.*
 
 Papier kommt in die blaue Tonne, Verpackungen in die gelbe und Bioabfall in die braune.
 *Paper goes into the blue bin, packaging into the yellow one and organic waste into the brown one.*
@@ -45,5 +45,5 @@ Am Anfang habe ich alles in eine Tonne geworfen, weil ich das System nicht verst
 Jetzt sortiere ich den Müll jeden Abend und halte mich an die Regeln.
 *Now I sort the rubbish every evening and keep to the rules.*
 
-Nächstes Mal sage ich Frau Becker vorher Bescheid, dann können wir alle gut schlafen.
-*Next time I'll let Frau Becker know beforehand, then we can all sleep well.*
+Nächstes Mal sage ich Frau Weber vorher Bescheid, dann können wir alle gut schlafen.
+*Next time I'll let Frau Weber know beforehand, then we can all sleep well.*

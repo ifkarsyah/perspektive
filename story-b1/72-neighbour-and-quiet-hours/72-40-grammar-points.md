@@ -26,7 +26,7 @@ What this story adds on top of all topics in `story-a1-a2` and `story-b1` `11`, 
 
 | Verb + preposition | Case | Example |
 |---|---|---|
-| **sich beschweren über** – complain about | accusative | *Frau Becker hat sich nicht **über** uns beschwert.* |
+| **sich beschweren über** – complain about | accusative | *Frau Weber hat sich nicht **über** uns beschwert.* |
 | **Rücksicht nehmen auf** – be considerate of | accusative | *Man muss **auf** die Nachbarn Rücksicht nehmen.* |
 | **sich halten an** – keep to (a rule) | accusative | *Ich halte mich **an** die Regeln.* · *Ich werde mich **daran** halten.* |
 | **klingeln an** – ring at | dative | *Sie hat **an** der Tür geklingelt.* |

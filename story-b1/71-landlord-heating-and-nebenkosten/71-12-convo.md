@@ -1,6 +1,6 @@
 # Beim Vermieter – Conversation
 
-**Situation:** A Thursday afternoon in June 2027, in the landlord's office. Ferdi has an appointment at four o'clock. The landlord (**Vermieter**, Herr Keller) and Ferdi use **Sie**.
+**Situation:** A Thursday afternoon in June 2027, in the landlord's office. Ferdi has an appointment at four o'clock. The landlord (**Vermieter**, Herr Becker) and Ferdi use **Sie**.
 
 ---
 

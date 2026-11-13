@@ -1,6 +1,6 @@
 # An der Tür – Conversation
 
-**Situation:** A Saturday night in July 2027, around eleven. Ferdi's friends have just left the balcony, but the music is still on. The neighbour from the floor below (**Nachbarin**, Frau Becker) rings at the door. They use **Sie**.
+**Situation:** A Saturday night in July 2027, around eleven. Ferdi's friends have just left the balcony, but the music is still on. The neighbour from the floor below (**Nachbarin**, Frau Weber) rings at the door. They use **Sie**.
 
 ---
 
@@ -61,5 +61,5 @@
 **Nachbarin:** Schön. Lassen Sie uns nächste Woche mal einen Kaffee trinken.
 *Nice. Let's have a coffee next week.*
 
-**Ferdi:** Sehr gern. Gute Nacht, Frau Becker!
-*Very gladly. Good night, Frau Becker!*
+**Ferdi:** Sehr gern. Gute Nacht, Frau Weber!
+*Very gladly. Good night, Frau Weber!*
