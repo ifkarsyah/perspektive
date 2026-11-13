@@ -1,0 +1,18 @@
+sentences,verbs,nouns,adjectives,adverbs,prepositions,pronouns,conjunctions,function
+Guten Tag! Nehmen Sie bitte Platz. Worum geht es denn?,nehmen; gehen,der Tag; der Platz,gut,bitte; worum; denn,,Sie; es,,social; asking
+"Es geht um die Nebenkostenabrechnung. Ich soll fast dreihundert Euro nachzahlen, obwohl ich erst seit November in der Wohnung wohne.",gehen; sollen; nachzahlen; wohnen,die Nebenkostenabrechnung; der Euro; der November; die Wohnung,,fast; erst,um; seit; in,es; ich,obwohl,telling
+"Die Abrechnung gilt für das ganze letzte Jahr, und die Heizkosten waren im Dezember sehr hoch.",gelten; sein,die Abrechnung; das Jahr; die Heizkosten; der Dezember,ganz; letzt; hoch,sehr,für; in (im),,und,telling
+"Das kommt mir zu hoch vor, denn im Januar war die Heizung kaputt. Könnten Sie mir die Belege zeigen?",vorkommen; sein; können; zeigen,der Januar; die Heizung; der Beleg,hoch; kaputt,zu,in (im),das; mir; Sie,denn,telling; asking
+"Natürlich. Die Heizung wurde im Februar repariert, aber vorher war sie die ganze Zeit auf der höchsten Stufe.",werden; reparieren; sein,die Heizung; der Februar; die Zeit; die Stufe,ganz; hoch,natürlich; vorher,in (im); auf,sie,aber,telling
+"Ich habe Ihnen im Januar eine E-Mail geschrieben. Es hat drei Wochen gedauert, bis jemand gekommen ist.",haben; schreiben; dauern; kommen; sein,der Januar; die E-Mail; die Woche,,,in (im),ich; Ihnen; es; jemand,bis,telling
+Das tut mir leid. Sie hätten mich aber auch anrufen können. Dann wäre der Handwerker früher gekommen.,tun; haben; anrufen; können; sein; kommen,der Handwerker,leid,aber; auch; dann; früh,,das; mir; Sie; mich,,reacting; telling
+"Ja, ich hätte früher anrufen sollen. Aber wenn Sie mir früher geantwortet hätten, wäre es auch schneller gegangen.",haben; anrufen; sollen; antworten; sein; gehen,,,früh; auch; schnell,,ich; Sie; mir; es,aber; wenn,telling
+Da haben Sie recht. Das war ein Fehler von uns.,haben; sein,der Fehler,recht,da,von,Sie; das; uns,,reacting
+"Könnten Sie die Abrechnung bitte noch einmal prüfen? Und wäre es möglich, die Belege per E-Mail zu bekommen?",können; prüfen; sein; bekommen,die Abrechnung; der Beleg; die E-Mail,möglich,bitte; noch einmal,per,Sie; es,und,asking
+Das lässt sich machen. Ich schicke Ihnen alles bis nächsten Freitag.,lassen; machen; schicken,der Freitag,nächst,,bis,das; sich; ich; Ihnen; alles,,doing; telling
+"Vielen Dank. Und was ist mit den Wochen, in denen die Heizung nicht funktioniert hat? Kann ich die Miete mindern?",sein; funktionieren; haben; können; mindern,der Dank; die Woche; die Heizung; die Miete,viel,nicht,mit; in,was; denen; ich,und,asking
+Das müssen wir prüfen. Vielleicht können wir uns auf eine kleine Minderung einigen.,müssen; prüfen; können; einigen,die Minderung,klein,vielleicht,auf,das; wir; uns,,telling
+"Das wäre fair. Wenn die Zahlen stimmen, bezahle ich die Nachzahlung selbstverständlich.",sein; stimmen; bezahlen,die Zahl; die Nachzahlung,fair,selbstverständlich,,das; ich,wenn,reacting; telling
+"Gut. Ich schicke Ihnen die Unterlagen, und wir telefonieren nächste Woche.",schicken; telefonieren,die Unterlagen; die Woche,gut; nächst,,,ich; Ihnen; wir,und,telling
+Einverstanden. Vielen Dank für Ihre Zeit. Auf Wiedersehen!,,der Dank; die Zeit; das Wiedersehen,einverstanden; viel,,für; auf,Ihre,,social
+Auf Wiedersehen!,,das Wiedersehen,,,auf,,,social
