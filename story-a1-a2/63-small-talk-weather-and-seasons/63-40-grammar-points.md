@@ -1,6 +1,6 @@
 # 63 – Grammar Points: Weather and Seasons
 
-What this story adds on top of the topics written before it (`11`, `21`–`26`, `31`, `41`, `42`, `51`–`57`, `61`, `62`). The big ones: **seasons and months**, ***gewohnt sein* (to be used to)**, **the sun rising and setting**, ***darauf* and other *da-* words with *auf*** and **time expressions without a preposition**.
+What this story adds on top of the topics written before it (`11`, `21`–`26`, `31`, `41`, `42`, `51`–`57`, `61`, `62`, `71`, `72`). The big ones: **seasons and months**, ***gewohnt sein* (to be used to)**, **the sun rising and setting**, ***darauf* and other *da-* words with *auf*** and **time expressions without a preposition**.
 
 ## New in this story
 

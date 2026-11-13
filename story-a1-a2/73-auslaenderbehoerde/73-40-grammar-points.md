@@ -1,6 +1,6 @@
 # 73 – Grammar Points: At the Immigration Office
 
-What this story adds on top of the topics written before it (`11`, `21`–`26`, `31`, `41`, `42`, `51`–`57`, `61`–`63`, `71`, `72`). The big ones: **visa and permit words**, **long compound nouns**, ***dürfen* (to be allowed to)**, ***vor* + time (ago)** and **the reflexive Perfekt (*ich habe mich angemeldet*)**.
+What this story adds on top of the topics written before it (`11`, `21`–`26`, `31`, `41`, `42`, `51`–`57`, `61`–`63`, `71`, `72`, `74`, `75`). The big ones: **visa and permit words**, **long compound nouns**, ***dürfen* (to be allowed to)**, ***vor* + time (ago)** and **the reflexive Perfekt (*ich habe mich angemeldet*)**.
 
 ## New in this story
 

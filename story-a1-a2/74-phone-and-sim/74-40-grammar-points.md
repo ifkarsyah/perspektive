@@ -1,6 +1,6 @@
 # 74 – Grammar Points: Phone and SIM
 
-What this story adds on top of the topics written before it (`11`, `21`–`26`, `31`, `41`, `42`, `51`–`57`, `61`–`63`). The big ones: **phone and contract words**, ***empfehlen* with a person and a thing**, ***keins* (a *kein-* word on its own)**, **more separable verbs** and **a verb used as a noun**.
+What this story adds on top of the topics written before it (`11`, `21`–`26`, `31`, `41`, `42`, `51`–`57`, `61`–`63`, `71`, `72`). The big ones: **phone and contract words**, ***empfehlen* with a person and a thing**, ***keins* (a *kein-* word on its own)**, **more separable verbs** and **a verb used as a noun**.
 
 ## New in this story
 

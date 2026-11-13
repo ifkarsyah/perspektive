@@ -1,6 +1,6 @@
 # 57 – Grammar Points: Public Transport
 
-What this topic adds on top of the topics written before it (`11`, `21`–`26`, `31`, `41`, `42`, `51`–`56`). The big ones: **ticket and zone words**, ***gelten* (to be valid)**, ***dafür* and other *da-* words**, **the superlative with *am*** and **buying a ticket step by step**. `54` already covers trains, platforms and directions, so this one stays on city tickets.
+What this topic adds on top of the topics written before it (`11`, `21`–`26`, `31`, `41`, `42`, `51`–`56`, `61`, `62`, `71`, `72`). The big ones: **ticket and zone words**, ***gelten* (to be valid)**, ***dafür* and other *da-* words**, **the superlative with *am*** and **buying a ticket step by step**. `54` already covers trains, platforms and directions, so this one stays on city tickets.
 
 ## New in this topic
 
