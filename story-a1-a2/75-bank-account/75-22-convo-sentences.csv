@@ -1,0 +1,27 @@
+sentences,verbs,nouns,adjectives,adverbs,prepositions,pronouns,conjunctions,function
+"Guten Tag! Sie haben einen Termin bei mir, oder?",haben,der Tag; der Termin,gut,,bei,Sie; mir,oder,social; asking
+"Guten Tag. Ja, ich möchte ein Konto eröffnen. Ich bin neu in Berlin.",möchten; eröffnen; sein,der Tag; das Konto,gut; neu,ja,in,ich,,social; telling
+Willkommen in Berlin! Brauchen Sie ein Girokonto?,brauchen,das Girokonto,willkommen,,in,Sie,,social; asking
+"Ja, genau. Ich brauche ein Konto für mein Gehalt.",brauchen,das Konto; das Gehalt,genau,ja,für,ich; mein,,reacting; telling
+Gut. Haben Sie Ihren Reisepass dabei?,dabeihaben,der Reisepass,gut,,,Sie; Ihren,,asking
+"Ja, bitte schön. Und hier ist meine Meldebescheinigung.",sein,die Meldebescheinigung,,ja; bitte schön; hier,,meine,und,doing; telling
+Sehr gut. Ohne Meldebescheinigung geht es nicht. Haben Sie auch schon eine Steuer-ID?,gehen; haben,die Meldebescheinigung; die Steuer-ID,gut,sehr; nicht; auch; schon,ohne,es; Sie,,reacting; telling; asking
+Noch nicht. Ich bekomme sie bald mit der Post.,bekommen,die Post,,noch; nicht; bald,mit,ich; sie,,telling
+Kein Problem. Bitte geben Sie sie uns dann später.,geben,das Problem,,bitte; dann; später,,kein; Sie; sie; uns,,reacting; doing
+Was kostet das Konto?,kosten,das Konto,,,,was,,asking
+"Es kostet vier Euro im Monat. Wenn Ihr Gehalt jeden Monat auf das Konto kommt, ist es kostenlos.",kosten; kommen; sein,der Euro; der Monat; das Gehalt; das Konto,kostenlos,,in (im); auf,es; Ihr; jeden,wenn,telling
+Das ist gut. Bekomme ich auch eine Karte?,sein; bekommen,die Karte,gut,auch,,das; ich,,reacting; asking
+"Ja, eine Girocard. Damit können Sie fast überall bezahlen.",können; bezahlen,die Girocard,,ja; damit; fast; überall,,Sie,,reacting; telling
+Und wann bekomme ich die Karte?,bekommen,die Karte,,wann,,ich,und,asking
+Karte und PIN schicken wir Ihnen mit der Post. Das dauert ungefähr eine Woche.,schicken; dauern,die Karte; die PIN; die Post; die Woche,,ungefähr,mit,wir; Ihnen; das,und,telling
+Kann ich das Konto auch mit dem Handy benutzen?,können; benutzen,das Konto; das Handy,,auch,mit,ich,,asking
+"Ja, mit unserer App. Dort sehen Sie Ihr Geld und können Geld überweisen.",sehen; können; überweisen,die App; das Geld,,ja; dort,mit,unserer; Sie; Ihr,und,telling
+Perfekt!,,,perfekt,,,,,reacting
+"So, bitte unterschreiben Sie hier.",unterschreiben,,,so; bitte; hier,,Sie,,doing
+"Hier, richtig?",,,richtig,hier,,,,asking
+Genau. Und hier ist Ihre IBAN. Die brauchen Sie für Ihr Gehalt.,sein; brauchen,die IBAN; das Gehalt,genau,hier,für,Ihre; die; Sie; Ihr,und,reacting; telling
+Kann ich damit auch das Deutschlandticket buchen?,können; buchen,das Deutschlandticket,,damit; auch,,ich,,asking
+"Ja, dafür brauchen Sie nur Ihre IBAN.",brauchen,die IBAN,,ja; dafür; nur,,Sie; Ihre,,reacting; telling
+Wunderbar! Dann kann ich endlich mit dem Deutschlandticket fahren. Vielen Dank!,können; fahren,das Deutschlandticket; der Dank,wunderbar; viel,dann; endlich,mit,ich,,reacting; social
+Gern. Willkommen bei uns! Auf Wiedersehen!,,,willkommen,gern; auf Wiedersehen,bei,uns,,social
+Auf Wiedersehen!,,,,auf Wiedersehen,,,,social
