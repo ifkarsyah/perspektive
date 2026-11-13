@@ -19,8 +19,8 @@
 **Sachbearbeiterin:** Danke. Und Ihren Reisepass, bitte.
 *Thank you. And your passport, please.*
 
-**Ferdi:** Bitte schön. Mein Aufenthaltstitel ist auch im Pass.
-*Here you are. My residence permit is in the passport too.*
+**Ferdi:** Bitte schön. Mein Visum ist auch im Pass.
+*Here you are. My visa is in the passport too.*
 
 **Sachbearbeiterin:** Haben Sie auch die Wohnungsgeberbestätigung?
 *Do you also have the landlord's confirmation?*

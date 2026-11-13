@@ -33,7 +33,6 @@ die Adresse,noun,"Ah, danke! In Tokio, in Japan. Die Adresse steht im Formular."
 das Amt,noun,"Es war mein erstes Mal bei einem Amt in Deutschland, deshalb war ich ein bisschen nervös.",office (public authority)
 das Anmeldeformular,noun,Gut. Haben Sie das Anmeldeformular dabei?,registration form
 die Anmeldung,noun,"Nein, die Anmeldung ist kostenlos.",registration (of your address)
-der Aufenthaltstitel,noun,Bitte schön. Mein Aufenthaltstitel ist auch im Pass.,residence permit
 die Bank,noun,"Ich habe eine Meldebescheinigung bekommen, die ich für die Bank und viele andere Dinge brauche.",bench; bank
 der Bildschirm,noun,Nach zehn Minuten stand meine Nummer auf dem Bildschirm.,screen
 das Bürgeramt,noun,"In Berlin ist es aber schwer, einen Termin beim Bürgeramt zu bekommen.",citizens' office (registration office)
@@ -57,7 +56,7 @@ der Morgen,noun,Guten Morgen. Ich möchte mich anmelden. Ich bin neu in Berlin.,
 der Name,noun,"Mein Name ist richtig geschrieben, die Adresse auch. Alles korrekt.",name – Auf welchen Namen? = under what name?
 der November,noun,Seit dem neunzehnten November.,November
 die Nummer,noun,Im Wartebereich habe ich auf meine Nummer gewartet.,number; size (eine Nummer größer = one size bigger)
-der Pass,noun,Bitte schön. Mein Aufenthaltstitel ist auch im Pass.,passport
+der Pass,noun,Bitte schön. Mein Visum ist auch im Pass.,passport
 der Platz,noun,Guten Morgen. Nehmen Sie bitte Platz. Was kann ich für Sie tun?,"seat, place – Nehmen Sie Platz = take a seat"
 der Reisepass,noun,"Danke. Und Ihren Reisepass, bitte.",passport
 die Sachbearbeiterin,noun,"Die Sachbearbeiterin war freundlich, aber sie hat sehr schnell gesprochen.","clerk, case worker (male: der Sachbearbeiter)"
@@ -67,6 +66,7 @@ der Termin,noun,"In Berlin ist es aber schwer, einen Termin beim Bürgeramt zu b
 Tokio,noun,"Ah, danke! In Tokio, in Japan. Die Adresse steht im Formular.",Tokyo
 die Uhr,noun,"Mein Termin war um acht Uhr fünfzehn, deshalb bin ich früh aufgestanden.","clock, watch, o’clock"
 der Vermieter,noun,"Ja, die hat mein Vermieter unterschrieben.",landlord (female: die Vermieterin)
+das Visum,noun,Bitte schön. Mein Visum ist auch im Pass.,visa (sticker in the passport)
 der Wartebereich,noun,Im Wartebereich habe ich auf meine Nummer gewartet.,waiting area
 die Webseite,noun,Ich habe jeden Morgen auf der Webseite gesucht und endlich einen Termin gefunden.,website
 das Wetter,noun,Wir haben auch kurz über das Wetter gesprochen.,weather
@@ -103,10 +103,10 @@ allein,adv,"Ja, ich wohne allein.",alone
 auch,adv,"Danke, Ihnen auch. Auf Wiedersehen!","also, too"
 auf Wiedersehen,adv,"Danke, Ihnen auch. Auf Wiedersehen!",goodbye (face to face)
 bitte,adv,"Danke. Und Ihren Reisepass, bitte.",please
-bitte schön,adv,Bitte schön. Mein Aufenthaltstitel ist auch im Pass.,here you are; you're welcome
+bitte schön,adv,Bitte schön. Mein Visum ist auch im Pass.,here you are; you're welcome
 dann,adv,Prima. Dann sind Sie jetzt angemeldet.,then
 deshalb,adv,"Mein Termin war um acht Uhr fünfzehn, deshalb bin ich früh aufgestanden.",therefore
-drittens,adv,Drittens meinen Reisepass mit meinem Aufenthaltstitel.,third(ly)
+drittens,adv,Drittens meinen Reisepass mit meinem Visum.,third(ly)
 ein bisschen,adv,"Sehr gut, aber es ist ein bisschen kalt!",a bit
 einmal,adv,"Einmal musste ich sie bitten, langsamer zu sprechen.",once
 endlich,adv,Ich habe jeden Morgen auf der Webseite gesucht und endlich einen Termin gefunden.,finally
@@ -137,7 +137,7 @@ bei,prep,"In Berlin ist es aber schwer, einen Termin beim Bürgeramt zu bekommen
 für,prep,Für die Anmeldung braucht man drei Dinge.,for
 in,prep,Im Wartebereich habe ich auf meine Nummer gewartet.,in
 innerhalb,prep,In Deutschland muss man sich innerhalb von zwei Wochen nach dem Einzug anmelden.,within
-mit,prep,Drittens meinen Reisepass mit meinem Aufenthaltstitel.,with
+mit,prep,Drittens meinen Reisepass mit meinem Visum.,with
 nach,prep,Nach zehn Minuten stand meine Nummer auf dem Bildschirm.,"after; to (nach Hause, nach Hamburg)"
 seit,prep,Seit dem neunzehnten November.,"since, for"
 um,prep,"Mein Termin war um acht Uhr fünfzehn, deshalb bin ich früh aufgestanden.",around (um die Ecke = around the corner); at (um sieben Uhr)
@@ -155,10 +155,10 @@ Ihre,pron,Vielen Dank für Ihre Hilfe! Schönen Tag noch!,your (formal; die / pl
 Ihren,pron,"Danke. Und Ihren Reisepass, bitte.",your (formal; den form: Ihren Reisepass)
 jeden,pron,Ich habe jeden Morgen auf der Webseite gesucht und endlich einen Termin gefunden.,every (den form: jeden Tag = every day)
 man,pron,Für die Anmeldung braucht man drei Dinge.,"one, you, they"
-mein,pron,Bitte schön. Mein Aufenthaltstitel ist auch im Pass.,"my, mine"
+mein,pron,Bitte schön. Mein Visum ist auch im Pass.,"my, mine"
 meine,pron,Im Wartebereich habe ich auf meine Nummer gewartet.,my (die / plural form)
-meinem,pron,Drittens meinen Reisepass mit meinem Aufenthaltstitel.,my (dative der / das form)
-meinen,pron,Drittens meinen Reisepass mit meinem Aufenthaltstitel.,my (dative plural form)
+meinem,pron,Drittens meinen Reisepass mit meinem Visum.,my (dative der / das form)
+meinen,pron,Drittens meinen Reisepass mit meinem Visum.,my (dative plural form)
 meiner,pron,Seit dem neunzehnten November wohne ich in meiner neuen Wohnung.,my (dative die form: von meiner Mutter)
 mich,pron,Guten Morgen. Ich möchte mich anmelden. Ich bin neu in Berlin.,me
 sich,pron,In Deutschland muss man sich innerhalb von zwei Wochen nach dem Einzug anmelden.,"themselves, each other (reflexive: alle duzen sich)"

@@ -31,8 +31,8 @@ Erstens das Anmeldeformular, das ich zu Hause ausgefüllt habe.
 Zweitens die Wohnungsgeberbestätigung, die mein Vermieter unterschrieben hat.
 *Second, the landlord's confirmation, which my landlord signed.*
 
-Drittens meinen Reisepass mit meinem Aufenthaltstitel.
-*Third, my passport with my residence permit.*
+Drittens meinen Reisepass mit meinem Visum.
+*Third, my passport with my visa.*
 
 ## Im Bürgeramt – At the office
 

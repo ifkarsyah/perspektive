@@ -21,7 +21,7 @@ Related, for later: *sich ummelden* (re-register within Germany), *sich abmelden
 |---|---|---|
 | das **Formular** / **Anmeldeformular** | (registration) form | **aus**füllen – to fill in |
 | die **Wohnungsgeberbestätigung** | landlord's confirmation | unterschreiben – to sign |
-| der **Reisepass** + der **Aufenthaltstitel** | passport + residence permit | zeigen – to show |
+| der **Reisepass** + das **Visum** | passport + visa | zeigen – to show |
 | die **Meldebescheinigung** | registration certificate | **aus**drucken – to print |
 | | | prüfen – to check |
 
