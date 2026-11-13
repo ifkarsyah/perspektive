@@ -1,27 +1,27 @@
 word,pos,example_de,definition
-sich anmelden,verb,Jetzt muss ich nur noch umziehen und mich beim Bürgeramt anmelden.,to register – sich beim Bürgeramt anmelden
 anrufen,verb,Zwei Tage später hat der Vermieter angerufen.,to call
-sich anschauen,verb,Ah ja. Kommen Sie rein und schauen Sie sich gern alles an.,to have a look at (= sich ansehen)
 anschließen,verb,Verstehe. Kann ich hier eine Waschmaschine anschließen?,to connect (a machine) – eine Waschmaschine anschließen
 arbeiten,verb,Ich arbeite seit zwei Jahren als Data Engineer bei einer Firma in Berlin.,to work
 bekommen,verb,Endlich habe ich eine Einladung zu einer Besichtigung bekommen.,"to get, receive"
 dabeihaben,verb,Okay. Ich habe meine Unterlagen schon dabei.,to have with you – Ich habe eine Tasche dabei
 dauern,verb,"Meine Wohnung ist klein, und der Weg zur Arbeit dauert fast zwei Stunden.","to last, take (time)"
-einziehen,verb,Ich bekomme die Wohnung! Ab dem ersten Februar kann ich einziehen.,to move in – Perfekt: ist eingezogen
-sich freuen,verb,Vielen Dank! Ich würde mich sehr freuen.,to be happy – Ich würde mich freuen = I'd be delighted
+einziehen,verb,Ich bekomme die Wohnung! Ab dem neunzehnten November kann ich einziehen.,to move in – Perfekt: ist eingezogen
 geben,verb,Gibt es eine Einbauküche?,to give – es gibt = there is / you can get
 haben,verb,Und haben Sie Haustiere?,to have – Ich hätte gern… = I'd like… · Hab! (du-imperative: Hab keine Angst!)
 klingen,verb,"Oh, das klingt anstrengend!",to sound
 können,verb,Verstehe. Kann ich hier eine Waschmaschine anschließen?,"can, be able to – könnten = could (Könnten Sie…? = could you…?)"
 liegen,verb,Sie ist fünfundfünfzig Quadratmeter groß und liegt im dritten Stock.,to lie; to be located – Hamburg liegt im Norden
 machen,verb,Sehr gut! Was machen Sie beruflich?,"to do, make – Das macht… = that comes to… · Machen Sie acht fünfzig = make it 8.50"
-sich melden,verb,"Schön. Ich habe heute noch viele Besichtigungen, aber ich melde mich bis Freitag bei Ihnen.",to get in touch – Ich melde mich bei Ihnen = I'll get back to you
 mitbringen,verb,"Ich habe meine Gehaltsnachweise, eine Kopie von meinem Pass und meine Schufa-Auskunft mitgebracht.",to bring
 müssen,verb,Jetzt muss ich nur noch umziehen und mich beim Bürgeramt anmelden.,"to have to, must"
 rauchen,verb,"Nein, keine Haustiere. Und ich rauche nicht.",to smoke
 reinkommen,verb,Ah ja. Kommen Sie rein und schauen Sie sich gern alles an.,to come in – Kommen Sie rein!
 sehen,verb,Der Vermieter wollte viele Unterlagen sehen.,"to see, watch (films)"
 sein,verb,Und wie hoch ist die Kaution?,to be – Sei! (du-imperative) · wäre = would be (Das wäre super)
+sich anmelden,verb,Jetzt muss ich nur noch umziehen und mich beim Bürgeramt anmelden.,to register – sich beim Bürgeramt anmelden
+sich anschauen,verb,Ah ja. Kommen Sie rein und schauen Sie sich gern alles an.,to have a look at (= sich ansehen)
+sich freuen,verb,Vielen Dank! Ich würde mich sehr freuen.,to be happy – Ich würde mich freuen = I'd be delighted
+sich melden,verb,"Schön. Ich habe heute noch viele Besichtigungen, aber ich melde mich bis Freitag bei Ihnen.",to get in touch – Ich melde mich bei Ihnen = I'll get back to you
 suchen,verb,Deshalb suche ich seit zwei Monaten eine neue Wohnung näher am Büro.,"to search, look for"
 telefonieren,verb,"Ja, guten Tag. Mein Name ist Ferdi. Wir haben gestern telefoniert.",to (make a telephone) call
 umziehen,verb,Jetzt muss ich nur noch umziehen und mich beim Bürgeramt anmelden.,to move (house) – Perfekt: ist umgezogen
@@ -37,11 +37,10 @@ die Besichtigung,noun,Guten Tag! Sind Sie wegen der Besichtigung hier?,viewing (
 das Bürgeramt,noun,Jetzt muss ich nur noch umziehen und mich beim Bürgeramt anmelden.,citizens' office (registration office)
 das Büro,noun,Deshalb suche ich seit zwei Monaten eine neue Wohnung näher am Büro.,office
 der Dank,noun,Vielen Dank! Ich würde mich sehr freuen.,thanks – Vielen Dank! = thank you very much
+der Data Engineer,noun,Ich arbeite seit zwei Jahren als Data Engineer bei einer Firma in Berlin.,data engineer (IT job: builds data systems)
 die Einbauküche,noun,Gibt es eine Einbauküche?,fitted kitchen
 die Einladung,noun,Endlich habe ich eine Einladung zu einer Besichtigung bekommen.,invitation
-der Data Engineer,noun,Ich arbeite seit zwei Jahren als Data Engineer bei einer Firma in Berlin.,data engineer (IT job: builds data systems)
 der Euro,noun,Die Warmmiete ist also tausend Euro im Monat.,euro (unit of currency)
-der Februar,noun,Ab dem ersten Februar.,February
 die Firma,noun,Ich arbeite seit zwei Jahren als Data Engineer bei einer Firma in Berlin.,"firm, company"
 der Freitag,noun,"Schön. Ich habe heute noch viele Besichtigungen, aber ich melde mich bis Freitag bei Ihnen.",Friday
 der Gehaltsnachweis,noun,"Ich habe meine Gehaltsnachweise, eine Kopie von meinem Pass und meine Schufa-Auskunft mitgebracht.",payslip
@@ -63,6 +62,7 @@ die Miete,noun,Super. Und wie hoch ist die Miete?,rent
 der Monat,noun,Die Warmmiete ist also tausend Euro im Monat.,month
 der Name,noun,"Ja, guten Tag. Mein Name ist Ferdi. Wir haben gestern telefoniert.",name – Auf welchen Namen? = under what name?
 die Nebenkosten,noun,"Die Kaltmiete ist achthundert Euro, plus zweihundert Euro Nebenkosten.","extra costs (heating, water, rubbish) – plural"
+der November,noun,Ab dem neunzehnten November.,November
 der Pass,noun,"Ich habe meine Gehaltsnachweise, eine Kopie von meinem Pass und meine Schufa-Auskunft mitgebracht.",passport
 der Quadratmeter,noun,Sie ist fünfundfünfzig Quadratmeter groß und liegt im dritten Stock.,square metre (m²)
 die Schufa-Auskunft,noun,"Ich habe meine Gehaltsnachweise, eine Kopie von meinem Pass und meine Schufa-Auskunft mitgebracht.",credit report (from the Schufa agency)
@@ -82,7 +82,6 @@ ander,adj,Bei der Besichtigung waren noch zwanzig andere Leute!,other (eine ande
 anstrengend,adj,"Oh, das klingt anstrengend!","tiring, exhausting"
 dritt,adj,Sie ist fünfundfünfzig Quadratmeter groß und liegt im dritten Stock.,third – im dritten Stock = on the third floor
 eigen,adj,Das Beste: Im Bad gibt es einen Anschluss für eine eigene Waschmaschine.,own – eine eigene Waschmaschine
-erst,adj,Ab dem ersten Februar.,first – zum ersten Mal = for the first time
 frei,adj,"Ja, sehr. Ab wann ist die Wohnung frei?",free (available) – Ab wann ist die Wohnung frei?
 groß,adj,Danke. Wie groß ist die Wohnung?,"big, large, great"
 gut,adj,Sehr gut! Was machen Sie beruflich?,good – besser = better · das Beste = the best (part)
@@ -90,6 +89,7 @@ hoch,adj,Und wie hoch ist die Kaution?,high – Wie hoch ist die Miete? = how mu
 klein,adj,"Meine Wohnung ist klein, und der Weg zur Arbeit dauert fast zwei Stunden.","small, little"
 nah,adj,Deshalb suche ich seit zwei Monaten eine neue Wohnung näher am Büro.,"near, close – näher am Büro = closer to the office"
 neu,adj,Deshalb suche ich seit zwei Monaten eine neue Wohnung näher am Büro.,new
+neunzehnt,adj,Ab dem neunzehnten November.,nineteenth (dem neunzehnten November)
 okay,adj,Okay. Ich habe meine Unterlagen schon dabei.,okay
 perfekt,adj,Perfekt! In meinem Haus gibt es nur vier Maschinen für dreißig Leute.,perfect
 schwer,adj,"In Berlin ist das sehr schwer, weil es viel zu wenige Wohnungen gibt.","difficult, heavy"
@@ -98,6 +98,7 @@ super,adj,Super. Und wie hoch ist die Miete?,"super, great"
 viel,adj,"Auf Wiedersehen, und viel Glück!","much, a lot, many"
 wenig,adj,"In Berlin ist das sehr schwer, weil es viel zu wenige Wohnungen gibt.","little, few – zu wenige = too few"
 also,adv,Die Warmmiete ist also tausend Euro im Monat.,"so, therefore"
+auf Wiedersehen,adv,"Auf Wiedersehen, und viel Glück!",goodbye (face to face)
 außerdem,adv,Außerdem gibt es in meinem Haus nur vier Waschmaschinen für dreißig Leute.,"also, besides"
 beruflich,adv,Sehr gut! Was machen Sie beruflich?,for work – Was machen Sie beruflich? = what do you do for a living?
 deshalb,adv,Deshalb suche ich seit zwei Monaten eine neue Wohnung näher am Büro.,therefore
@@ -113,8 +114,8 @@ jetzt,adv,Jetzt muss ich nur noch umziehen und mich beim Bürgeramt anmelden.,no
 nein,adv,"Nein, keine Haustiere. Und ich rauche nicht.",no
 nicht,adv,"Nein, keine Haustiere. Und ich rauche nicht.",not
 noch,adv,Bei der Besichtigung waren noch zwanzig andere Leute!,"still; else, more (Hast du noch Eier? · Ich nehme noch…)"
-nur noch,adv,Jetzt muss ich nur noch umziehen und mich beim Bürgeramt anmelden.,only … left / now only
 nur,adv,Perfekt! In meinem Haus gibt es nur vier Maschinen für dreißig Leute.,only
+nur noch,adv,Jetzt muss ich nur noch umziehen und mich beim Bürgeramt anmelden.,only … left / now only
 plus,adv,"Die Kaltmiete ist achthundert Euro, plus zweihundert Euro Nebenkosten.",plus
 schon,adv,Okay. Ich habe meine Unterlagen schon dabei.,"already; yes, actually (Mein Bruder schon / Manchmal schon)"
 sehr,adv,Sehr gut! Was machen Sie beruflich?,very
@@ -123,9 +124,8 @@ später,adv,Zwei Tage später hat der Vermieter angerufen.,later – Bis später
 viel,adv,"In Berlin ist das sehr schwer, weil es viel zu wenige Wohnungen gibt.","much, a lot, many"
 wann,adv,"Ja, sehr. Ab wann ist die Wohnung frei?",when
 wie,adv,Und wie hoch ist die Kaution?,how
-auf Wiedersehen,adv,"Auf Wiedersehen, und viel Glück!",goodbye (face to face)
 zu,adv,"In Berlin ist das sehr schwer, weil es viel zu wenige Wohnungen gibt.",too (zu klein = too small)
-ab,prep,Ab dem ersten Februar.,from (time: ab dem ersten Februar; amount: ab zehn Euro)
+ab,prep,Ab dem neunzehnten November.,from (time: ab dem neunzehnten November; amount: ab zehn Euro)
 an,prep,Deshalb suche ich seit zwei Monaten eine neue Wohnung näher am Büro.,"at, on"
 bei,prep,Bei der Besichtigung waren noch zwanzig andere Leute!,"at (a company: bei einer Firma); by, with"
 bis,prep,"Schön. Ich habe heute noch viele Besichtigungen, aber ich melde mich bis Freitag bei Ihnen.",until; to (drei bis vier = three to four)

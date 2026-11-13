@@ -51,8 +51,8 @@ Die Kaution ist drei Kaltmieten, also zweitausendvierhundert Euro.
 Zwei Tage später hat der Vermieter angerufen.
 *Two days later the landlord called.*
 
-Ich bekomme die Wohnung! Ab dem ersten Februar kann ich einziehen.
-*I'm getting the flat! I can move in from the first of February.*
+Ich bekomme die Wohnung! Ab dem neunzehnten November kann ich einziehen.
+*I'm getting the flat! I can move in from the nineteenth of November.*
 
 Jetzt muss ich nur noch umziehen und mich beim Bürgeramt anmelden.
 *Now I just have to move and register at the citizens' office.*

@@ -32,7 +32,7 @@ What this story adds on top of the topics written before it (`1`, `21`–`26`, `
 |---|---|
 | ***Wie groß** ist die Wohnung?* | How big is the flat? |
 | ***Wie hoch** ist die Miete / die Kaution?* | How much is the rent / deposit? (money is *hoch*, not *viel*) |
-| ***Ab wann** ist die Wohnung frei?* | From when is the flat free? – *Ab dem ersten Februar.* |
+| ***Ab wann** ist die Wohnung frei?* | From when is the flat free? – *Ab dem neunzehnten November.* |
 
 The answer for size puts the number **before** the adjective: *55 Quadratmeter **groß***.
 
@@ -44,7 +44,7 @@ The answer for size puts the number **before** the adjective: *55 Quadratmeter *
 | **ein**ziehen | to move in | *ich **bin** eingezogen* |
 | **aus**ziehen | to move out | *ich **bin** ausgezogen* |
 
-- *Ab dem ersten Februar kann ich **einziehen**.*
+- *Ab dem neunzehnten November kann ich **einziehen**.*
 - *Jetzt muss ich nur noch **umziehen**.*
 
 ### 5. *das Beste* – the superlative as a noun

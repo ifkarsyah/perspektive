@@ -56,8 +56,8 @@
 **Ferdi:** Ja, sehr. Ab wann ist die Wohnung frei?
 *Yes, very. From when is the flat free?*
 
-**Vermieter:** Ab dem ersten Februar.
-*From the first of February.*
+**Vermieter:** Ab dem neunzehnten November.
+*From the nineteenth of November.*
 
 **Ferdi:** Und wie hoch ist die Kaution?
 *And how much is the deposit?*

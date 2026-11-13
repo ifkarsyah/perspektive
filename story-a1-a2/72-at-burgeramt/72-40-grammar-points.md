@@ -83,7 +83,7 @@ In written stories a few more verbs use the simple past (`31`, `55`):
 ### 9. *seit dem neunzehnten November* – *seit* + a date
 
 - ***Seit dem neunzehnten November** wohne ich in meiner neuen Wohnung.* (present tense, like `53` and `61`)
-- Compare: ***ab** dem ersten Februar* (`71`) = from … on (future), ***seit*** = since (still true now).
+- Compare: ***ab** dem neunzehnten November* (`71`) = from … on (future), ***seit*** = since (still true now).
 - Ordinals up to 19 add **-t**, from 20 on **-st**, plus the dative **-en** after *dem / den*: *neunzehn**t**en*, *dreiundzwanzig**st**en*.
 - *seit* + a length of time = for: ***erst seit vier Tagen*** – only for four days (dative plural **-n**).
 
@@ -126,7 +126,7 @@ Say where you come from: *Ich komme aus Indonesien / aus Jakarta.* – and where
 
 ## Seen before
 
-- *der Vermieter*, *ab dem ersten Februar* – from `71`.
+- *der Vermieter*, *ab dem neunzehnten November* – from `71`.
 - *dabeihaben* – from `25`.
 - *innerhalb von* – from `56`.
 - *ob* + verb at the end – from `52`.

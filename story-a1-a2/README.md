@@ -8,11 +8,11 @@ The words come from `vocab-a1-a2.csv`: every A1 and A2 word from `resources/5000
 ```
 story-a1-a2/
 ├── vocab-a1-a2.csv                          # A1–A2 word list
-├── 1-introduction/
-│   ├── 1-12-convo.md
-│   ├── 1-22-convo-sentences.csv
-│   ├── 1-30-all-vocab-sorted.csv
-│   └── 1-40-grammar-points.md
+├── 11-introduction/
+│   ├── 11-12-convo.md
+│   ├── 11-22-convo-sentences.csv
+│   ├── 11-30-all-vocab-sorted.csv
+│   └── 11-40-grammar-points.md
 ├── 21-telling-about-my-typical-weekday/
 │   ├── 21-11-story.md
 │   ├── 21-12-convo.md
@@ -60,7 +60,17 @@ story-a1-a2/
 
 ### Naming
 
-- **Folder:** `<n>-<topic>`. Related topics share a first digit, like the vocab tree: `21` weekday and `22` weekend both belong to "telling about my typical …" (`2`); `3x` is the past (`31` last weekend).
+- **Folder:** `<n>-<topic>`. The first digit is the kind of topic, like the units of a grammar course, and the second digit counts topics inside it:
+
+  | First digit | Kind of topic | Done |
+  |---|---|---|
+  | `1x` | introducing myself | `11` |
+  | `2x` | telling about the present: my day, weekend, family, food, groceries | `21`–`26` |
+  | `3x` | telling about the past | `31` |
+  | `4x` | the future: making plans | `41`, `42` |
+  | `5x` | going out and getting things done in town: café, restaurant, doctor, trains, a broken machine, shopping | `51`–`56` |
+  | `6x` | work and small talk | `61`, `62` |
+  | `7x` | talking to other people: landlord, officials, providers (all with *Sie*) | `71`, `72` |
 - **File:** `<n>-<step><variant>-<name>`, where `<n>` is the folder number.
   - The first digit after the dash is the **step**: `1` = text, `2` = sentence breakdown, `3` = vocab list, `4` = grammar points.
   - The second digit is the **variant**: `1` = story, `2` = convo. From `3` on, a topic can add extra text types it needs, named after what they are: `24-13-recipe`, `54-13-announcement`, `54-14-timetable`, `54-15-prohibition`. Steps 3 and 4 cover all variants, so they use `0`.
@@ -76,7 +86,19 @@ story-a1-a2/
 | `<n>-30-all-vocab-sorted.csv` | 3 vocab | every word from all breakdowns, once, sorted by pos |
 | `<n>-40-grammar-points.md` | 4 grammar | what's new in this topic compared with the earlier ones |
 
-`1-introduction/` is convo-only: it has no story, so no `1-11` or `1-21` file.
+`11-introduction/` is convo-only: it has no story, so no `11-11` or `11-21` file.
+
+## Planned topics
+
+Not written yet. Each gets the same 6 files once it's written.
+
+| Folder | Topic |
+|---|---|
+| `57-public-transport` | BVG tickets, U-Bahn and S-Bahn |
+| `63-small-talk-weather-and-seasons` | small talk about the weather and the seasons |
+| `73-auslaenderbehoerde` | residence permit at the immigration office |
+| `74-phone-and-sim` | buying a SIM card or phone contract |
+| `75-bank-account` | opening a bank account |
 
 ## Steps (per story folder)
 
