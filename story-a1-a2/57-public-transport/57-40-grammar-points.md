@@ -68,7 +68,7 @@ When there is no noun after it, the superlative is **am + adjective + -sten**.
 | Step | German |
 |---|---|
 | ask for help | *Können Sie mir helfen? Ich verstehe den Automaten nicht.* |
-| say where to | *Wohin möchten Sie fahren?* – *Zur Arbeit, nach Kreuzberg.* |
+| say where to | *Wohin möchten Sie fahren?* – *Zur Arbeit, nach Friedrichshain.* |
 | ask the difference | *Was ist der Unterschied zwischen … und …?* |
 | choose | *Dann nehme ich die Sieben-Tage-Karte für AB.* |
 | pay | *Kann ich mit Karte bezahlen?* – *Halten Sie Ihre Karte an das Gerät.* |

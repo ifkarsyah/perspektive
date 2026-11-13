@@ -12,8 +12,8 @@
 **Mitarbeiter:** Gern. Wohin möchten Sie fahren?
 *Sure. Where would you like to go?*
 
-**Ferdi:** Zur Arbeit, nach Kreuzberg. Und am Wochenende fahre ich vielleicht in die Stadt.
-*To work, in Kreuzberg. And at the weekend I might go into town.*
+**Ferdi:** Zur Arbeit, nach Friedrichshain. Und am Wochenende fahre ich vielleicht in die Stadt.
+*To work, in Friedrichshain. And at the weekend I might go into town.*
 
 **Mitarbeiter:** Dann reicht die Tarifzone AB. Die gilt für die ganze Stadt.
 *Then zone AB is enough. It covers the whole city.*

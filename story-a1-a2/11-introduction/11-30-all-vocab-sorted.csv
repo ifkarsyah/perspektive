@@ -1,5 +1,5 @@
 word,pos,example_de,definition
-arbeiten,verb,Ich arbeite in der IT bei einer Firma in Kreuzberg.,to work
+arbeiten,verb,Ich arbeite in der IT bei einer Firma in Friedrichshain.,to work
 freuen,verb,Freut mich auch! Woher kommst du?,to be pleased – Freut mich = Nice to meet you
 geben,verb,Gibst du mir deine Nummer?,to give
 gehen,verb,Ich gehe gern ins Kino und ich lese viel.,to go
@@ -23,11 +23,11 @@ trinken,verb,Wir können zusammen einen Kaffee trinken.,to drink
 wohnen,verb,"Ich komme aus Hamburg, aber ich wohne jetzt hier in Berlin.",to live
 das Deutsch,noun,Dein Deutsch ist schon gut!,German (language)
 das Englisch,noun,Sprichst du auch Englisch?,English (language)
-die Firma,noun,"Ich arbeite in der IT, bei einer Firma in Kreuzberg.","company, firm"
+die Firma,noun,"Ich arbeite in der IT, bei einer Firma in Friedrichshain.","company, firm"
 die Freizeit,noun,Was machst du gern in deiner Freizeit?,free time
 der Fußball,noun,Ich spiele gern Fußball und ich koche gern.,football (soccer)
 die Idee,noun,Gute Idee!,idea
-die IT,noun,"Ich arbeite in der IT, bei einer Firma in Kreuzberg.",IT (information technology)
+die IT,noun,"Ich arbeite in der IT, bei einer Firma in Friedrichshain.",IT (information technology)
 der Kaffee,noun,Wir können zusammen einen Kaffee trinken.,coffee
 das Kino,noun,Ich gehe gern ins Kino und ich lese viel.,cinema
 der Kollege,noun,Max ist mein Kollege.,colleague (male; female: die Kollegin)
@@ -67,7 +67,7 @@ woher,adv,Woher kommst du?,where from
 zusammen,adv,Wir arbeiten zusammen.,together
 an,prep,Hast du am Wochenende Zeit?,"at, on (am = an dem)"
 aus,prep,"Ich komme aus Indonesien, aus Jakarta.","out of, from"
-bei,prep,"Ich arbeite in der IT, bei einer Firma in Kreuzberg.","at, with (a company)"
+bei,prep,"Ich arbeite in der IT, bei einer Firma in Friedrichshain.","at, with (a company)"
 bis,prep,"Tschüss, bis bald!",until – bis bald = see you soon
 in,prep,Ich wohne auch in Berlin.,in
 seit,prep,Seit drei Monaten.,since / for (a time up to now)
