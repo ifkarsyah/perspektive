@@ -1,0 +1,17 @@
+sentences,verbs,nouns,adjectives,adverbs,prepositions,pronouns,conjunctions,function
+Im Juli waren zwei offizielle Briefe in meinem Briefkasten.,sein,der Juli; der Brief; der Briefkasten,offiziell,,in (im); in,meinem,,telling
+"Ich habe die Sprache nicht ganz verstanden, deshalb habe ich Lena gebeten, mir zu helfen.",haben; verstehen; bitten; helfen,die Sprache,,nicht; ganz; deshalb,,ich; mir,,telling
+"Sehr geehrter Herr Ferdi,",,der Herr,geehrt,sehr,,,,social
+wir haben Ihre Wohnung zum Rundfunkbeitrag angemeldet.,haben; anmelden,die Wohnung; der Rundfunkbeitrag,,,zu (zum),wir; Ihre,,telling
+"In Deutschland ist jede Wohnung beitragspflichtig, das heißt: Für jede Wohnung muss ein Rundfunkbeitrag gezahlt werden.",sein; heißen; müssen; zahlen; werden,die Wohnung; der Rundfunkbeitrag,beitragspflichtig,,in; für,jede; das,,telling
+"Die Anmeldung erfolgte automatisch, nachdem Sie sich beim Bürgeramt angemeldet hatten.",erfolgen; anmelden; haben,die Anmeldung; das Bürgeramt,,automatisch,bei (beim),Sie; sich,nachdem,telling
+"Sie können den Beitrag bequem per Lastschrift zahlen, indem Sie uns Ihre Bankverbindung mitteilen.",können; zahlen; mitteilen,der Beitrag; die Lastschrift; die Bankverbindung,,bequem,per,Sie; uns; Ihre,indem,telling
+"Falls Sie für diese Wohnung bereits einen Beitrag zahlen, bitten wir Sie, uns dies mitzuteilen.",zahlen; bitten; mitteilen,die Wohnung; der Beitrag,,bereits,für,Sie; diese; wir; uns; dies,falls,telling
+Mit freundlichen Grüßen,,der Gruß,freundlich,,mit,,,social
+"Sehr geehrter Herr Ferdi,",,der Herr,geehrt,sehr,,,,social
+Ihnen wurde die folgende Steuer-ID zugeteilt.,werden; zuteilen,die Steuer-ID,folgend,,,Ihnen,,telling
+"Diese Nummer bleibt Ihr Leben lang gleich, auch wenn Sie umziehen oder den Arbeitgeber wechseln.",bleiben; umziehen; wechseln,die Nummer; das Leben; der Arbeitgeber,gleich,lang; auch,,diese; Ihr; Sie,wenn; oder,telling
+"Sie benötigen die Nummer für Ihre Steuererklärung, für Ihren Arbeitgeber und für Ihre Bank.",benötigen,die Nummer; die Steuererklärung; der Arbeitgeber; die Bank,,,für,Sie; Ihre; Ihren,und,telling
+Bitte bewahren Sie dieses Schreiben sorgfältig auf.,aufbewahren,das Schreiben,,bitte; sorgfältig,,Sie; dieses,,doing
+"Geben Sie die Nummer nur an Stellen weiter, die sie wirklich brauchen.",weitergeben; brauchen,die Nummer; die Stelle,,nur; wirklich,an,Sie; die; sie,,doing
+Mit freundlichen Grüßen,,der Gruß,freundlich,,mit,,,social

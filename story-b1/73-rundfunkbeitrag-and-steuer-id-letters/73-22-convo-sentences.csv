@@ -1,0 +1,23 @@
+sentences,verbs,nouns,adjectives,adverbs,prepositions,pronouns,conjunctions,function
+"Lena, hast du kurz Zeit? Ich habe zwei Briefe bekommen und verstehe das Amtsdeutsch nicht.",haben; bekommen; verstehen,die Zeit; der Brief; das Amtsdeutsch,kurz,nicht,,du; ich,und,asking; telling
+"Klar, zeig mal. Ah, der erste ist vom Beitragsservice. Das ist der Rundfunkbeitrag.",zeigen; sein,der Beitragsservice; der Rundfunkbeitrag,klar; erst,mal,von (vom),das,,reacting; telling
+Rundfunkbeitrag? Muss ich jetzt Radio hören? Ich habe nicht mal einen Fernseher.,müssen; hören; haben,der Rundfunkbeitrag; das Radio; der Fernseher,,jetzt; nicht; mal,,ich,,asking; telling
+"Das ist egal. In Deutschland muss jede Wohnung den Beitrag zahlen, auch ohne Fernseher.",sein; müssen; zahlen,die Wohnung; der Beitrag; der Fernseher,egal,auch,in; ohne,das; jede,,telling
+"Und was bedeutet ""beitragspflichtig""?",bedeuten,,beitragspflichtig,,,was,und,asking
+"Das heißt, dass man den Beitrag zahlen muss. Die Endung ""-pflichtig"" sagt: Es ist eine Pflicht.",heißen; zahlen; müssen; sagen; sein,der Beitrag; die Endung; die Pflicht,,,,das; man; es,dass,telling
+Wie viel kostet das denn?,kosten,,,wie viel; denn,,das,,asking
+"Ungefähr achtzehn Euro im Monat. Am besten zahlst du per Lastschrift, dann musst du nicht jeden Monat daran denken.",zahlen; müssen; denken,der Euro; der Monat; die Lastschrift,gut,ungefähr; dann; nicht; daran,in (im); an (am); per,du; jeden,,telling
+"Und was heißt ""nachdem Sie sich angemeldet hatten""? Das klingt kompliziert.",heißen; anmelden; haben; klingen,,kompliziert,,,was; Sie; sich; das,und; nachdem,asking; reacting
+"Das ist eine formale Form. Es heißt nur: nachdem du dich beim Bürgeramt angemeldet hast. Solche Sätze musst du nicht selbst sagen, nur verstehen.",sein; heißen; anmelden; haben; müssen; sagen; verstehen,die Form; das Bürgeramt; der Satz,formal,nur; nicht; selbst,bei (beim),das; es; du; dich; solche,nachdem,telling
+"Gut zu wissen. Und ""erfolgte""? Das Wort kenne ich nicht.",wissen; erfolgen; kennen,das Wort,gut,nicht,,das; ich,und,reacting; asking
+"Das ist die Vergangenheit von ""erfolgen"". Es heißt: Das ist passiert. In Briefen steht oft diese Form, im Gespräch sagt man eher ""ist passiert"".",sein; erfolgen; heißen; passieren; stehen; sagen,die Vergangenheit; der Brief; die Form; das Gespräch,,oft; eher,von; in; in (im),das; es; diese; man,,telling
+"Und der zweite? Da steht ""Ihnen wurde die Steuer-ID zugeteilt"".",stehen; werden; zuteilen,die Steuer-ID,zweit,da,,Ihnen,und,asking
+"Das ist deine Steuer-ID! Die hast du doch bei der Bank gebraucht, oder?",sein; haben; brauchen,die Steuer-ID; die Bank,,doch,bei,das; deine; die; du,oder,reacting; asking
+"Genau, endlich! Wofür brauche ich sie noch?",brauchen,,,genau; endlich; wofür; noch,,ich; sie,,reacting; asking
+"Für deine Steuererklärung, für deinen Chef und für die Bank. Bewahre den Brief gut auf, die Nummer bleibt dein Leben lang gleich.",aufbewahren; bleiben,die Steuererklärung; der Chef; die Bank; der Brief; die Nummer; das Leben,gleich,gut; lang,für,deine; deinen; dein,und,telling; doing
+Muss ich eine Steuererklärung machen?,müssen; machen,die Steuererklärung,,,,ich,,asking
+"Meistens nicht, aber du kannst sie freiwillig machen. Vielleicht bekommst du Geld zurück, zum Beispiel für den Umzug nach Deutschland.",können; machen; zurückbekommen,das Geld; das Beispiel; der Umzug,,meistens; nicht; freiwillig; vielleicht,zu (zum); für; nach,du; sie,aber,telling
+Wie liest man solche Briefe am besten?,lesen,der Brief,gut,wie,an (am),man; solche,,asking
+"Such zuerst das Thema und die Fristen. Dann schau auf die Verben am Ende der Sätze. Und wenn du ein Wort nicht kennst, frag mich einfach.",suchen; schauen; kennen; fragen,das Thema; die Frist; das Verb; das Ende; der Satz; das Wort,,zuerst; dann; nicht; einfach,auf; an (am),du; mich,und; wenn,doing
+"Danke, Lena! Ich lade dich zum Essen ein.",einladen,das Essen,,,zu (zum),ich; dich,,social
+Gern. Aber kein Amtsdeutsch beim Essen!,,das Amtsdeutsch; das Essen,,gern,bei (beim),kein,aber,social; reacting
