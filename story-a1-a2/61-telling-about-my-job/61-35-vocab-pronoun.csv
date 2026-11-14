@@ -1,0 +1,31 @@
+word,pos,example_de,definition
+alle,pron,"Ja, sehr! Die Kollegen sind alle total nett. Was machst du denn genau?",all
+das,pron,"Danke, das ist nett! Ich übe jeden Tag.","that, this"
+dein,pron,Dein Deutsch ist schon richtig gut!,your
+deine,pron,"Ah, dann benutzen wir im Marketing deine Daten!",your (die / plural form)
+die,pron,"Ich baue Systeme, die diese Daten sammeln und sortieren.","which, that (relative plural: Systeme, die…); they; it, that one (casual: Die nehme ich)"
+diese,pron,"Ich baue Systeme, die diese Daten sammeln und sortieren.",this (die form: diese Woche = this week)
+dir,pron,Ach so! Und gefällt es dir hier?,you
+du,pron,Seit zwei Jahren. Und du?,you
+es,pron,Ach so! Und gefällt es dir hier?,it
+etwas,pron,"Mir gefällt, dass ich jeden Tag etwas Neues lerne.","something, some, a little"
+ich,pron,Ich bin Data Engineer.,I
+ihr,pron,Genau! Ohne die Daten könnt ihr keine Berichte machen.,you (plural: Kommt ihr? · ihr zwei = you two)
+jeden,pron,"Danke, das ist nett! Ich übe jeden Tag.",every (den form: jeden Tag = every day)
+jeder,pron,"Jeden Morgen haben wir ein kurzes Meeting, und dann arbeitet jeder an seinen Aufgaben.","everyone, each (one)"
+kein,pron,"Kein Problem, das fragen viele. Ich baue Systeme, die unsere Daten sammeln und sortieren.","no, not a (Ich esse kein Fleisch = I don't eat meat)"
+keine,pron,Genau! Ohne die Daten könnt ihr keine Berichte machen.,no (die form: keine Angst = no fear)
+mein,pron,Mein Team ist klein: Wir sind sechs Leute aus fünf Ländern.,"my, mine"
+meine,pron,Dann können meine Kollegen die Daten analysieren und bessere Entscheidungen treffen.,my (die / plural form)
+mich,pron,"Hallo Anna, ich bin Ferdi. Freut mich!",me
+mir,pron,"Mir gefällt, dass ich jeden Tag etwas Neues lerne.",me
+seinen,pron,"Jeden Morgen haben wir ein kurzes Meeting, und dann arbeitet jeder an seinen Aufgaben.",his / their (dative plural: an seinen Aufgaben)
+sie,pron,"Zum Beispiel, wie viele Leute unsere App benutzen und was sie kaufen.","they, them; she"
+uns,pron,"Hallo! Ich glaube, wir kennen uns noch nicht. Ich bin Anna.","us, we"
+unsere,pron,"Zum Beispiel, wie viele Leute unsere App benutzen und was sie kaufen.",our (die / plural form)
+unserer,pron,Ich bin für die Daten von unserer Firma verantwortlich.,our (dative die form: von unserer Firma)
+viele,pron,"Kein Problem, das fragen viele. Ich baue Systeme, die unsere Daten sammeln und sortieren.",many (people) – das fragen viele
+was,pron,Und was hast du vorher gemacht?,what; something (casual = etwas: was Schönes)
+welche,pron,Welche Daten zum Beispiel?,which (die form: Welche Maschine?)
+welchem,pron,Freut mich auch! In welchem Team arbeitest du?,which (dative der / das form: in welchem Team?)
+wir,pron,"Ah, dann benutzen wir im Marketing deine Daten!",we
